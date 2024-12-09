@@ -53,6 +53,7 @@ retrieve time: 0.3789334535598755,       generate time: 15.57667167186737
 
 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
 E0000 00:00:1733745504.638329   26894 init.cc:229] grpc_wait_for_shutdown_with_timeout() timed out.
+Running KVcache
 KVcache prepared in 0.784186840057373 seconds
 [0]: Semantic Similarity: 0.80227, cache time: 0.18867039680480957, generate time: 1.6107118129730225
 [1]: Semantic Similarity: 0.72966, cache time: 0.19893407821655273, generate time: 0.8625774383544922
