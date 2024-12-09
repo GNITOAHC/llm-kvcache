@@ -5,7 +5,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from llama_index.core import VectorStoreIndex, Document
 import argparse
 import os
-from enum import Enum
+import json
 
 def get_env():
     env_dict = {}
@@ -124,20 +124,59 @@ def getBM25Retriever(documents: list[str]):
 
     return bm25_retriever, t2 - t1
 
-def get_dataset( filepath: str):
+def get_kis_dataset(filepath: str):
     df = pd.read_csv(filepath)
     dataset = zip(df['sample_question'], df['sample_ground_truth'])
     text_list = df["ki_text"].to_list()
     
     return text_list, dataset
 
+def parse_squad_data(raw):
+    dataset = { "ki_text": [], "qas": [] }
+    
+    for k_id, data in enumerate(raw['data']):
+        article = []
+        for p_id, para in enumerate(data['paragraphs']):
+            article.append(para['context'])
+            for qa in para['qas']:
+                ques = qa['question']
+                answers = [ans['text'] for ans in qa['answers']]
+                dataset['qas'].append({"title": data['title'], "paragraph": tuple((k_id, p_id)) ,"question": ques, "answers": answers})
+        dataset['ki_text'].append({"title": data['title'], "paragraphs": article})
+    
+    return dataset
+
+def get_squad_dataset(filepath: str):
+    # Open and read the JSON file
+    with open(filepath, 'r') as file:
+        data = json.load(file)
+    # Parse the SQuAD data
+    parsed_data = parse_squad_data(data)
+    
+    questions = [qa['question'] for qa in parsed_data['qas']]
+    answers = [qa['answers'][0] for qa in parsed_data['qas']]
+    dataset = zip(questions, answers)
+    
+    text_list = []
+    for article in parsed_data['ki_text']:
+        text_list.append(article['title'])
+        text_list.extend(article['paragraphs'])
+    
+    return text_list, dataset
+
 def rag_test(args: argparse.Namespace):
     if args.dataset == "kis_sample":
-        datapath = "./rag_sample_qas_from_kis.csv"
+        datapath = "./datasets/rag_sample_qas_from_kis.csv"
+        text_list, dataset = get_kis_dataset(datapath)
     if args.dataset == "kis":
-        datapath = "./synthetic_knowledge_items.csv"
-    
-    text_list , dataset = get_dataset(datapath)
+        datapath = "./datasets/synthetic_knowledge_items.csv"
+        text_list, dataset = get_kis_dataset(datapath)
+    if args.dataset == "squad-dev":
+        datapath = "./datasets/squad/dev-v1.1.json"
+        text_list, dataset = get_squad_dataset(datapath)
+    if args.dataset == "squad-train":
+        datapath = "./datasets/squad/train-v1.1.json"
+        text_list, dataset = get_squad_dataset(datapath)
     
     # document indexing for the rag retriever
     documents = [Document(text=t) for t in text_list]
@@ -211,20 +250,20 @@ def rag_test(args: argparse.Namespace):
     print()
     print(f"Prepare time: {prepare_time}")
     print(f"Average Semantic Similarity: {avg_similarity}")
-    print(f"retrieve time: {avg_retrieve_time},\t time: {avg_generate_time}")
+    print(f"retrieve time: {avg_retrieve_time},\t generate time: {avg_generate_time}")
     print()
     with open(args.output, "a") as f:
         f.write("\n")
         f.write(f"Prepare time: {prepare_time}\n")
         f.write(f"Average Semantic Similarity: {avg_similarity}\n")
-        f.write(f"retrieve time: {avg_retrieve_time},\t time: {avg_generate_time}\n")
+        f.write(f"retrieve time: {avg_retrieve_time},\t generate time: {avg_generate_time}\n")
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run RAG test with specified parameters.")
     # parser.add_argument('--method', choices=['rag', 'kvcache'], required=True, help='Method to use (rag or kvcache)')
     parser.add_argument('--index', choices=['gemini', 'openai', 'bm25'], required=True, help='Index to use (gemini, openai, bm25)')
     parser.add_argument('--similarity', choices=['bertscore'], required=True, help='Similarity metric to use (bertscore)')
-    parser.add_argument('--dataset', choices=['kis', 'kis_sample'], required=True, help='Dataset to use (kis_sample, kis)')
+    parser.add_argument('--dataset', choices=['kis', 'kis_sample', 'squad-dev', 'squad-train'], required=True, help='Dataset to use (kis, kis_sample, squad-dev, squad-train)')
     parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
 
     args = parser.parse_args()
