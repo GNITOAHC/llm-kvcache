@@ -20,7 +20,7 @@ Retriever OPENAI prepared in 4.233177900314331 seconds
 [9]: Semantic Similarity: 0.98222,	 retrieve time: 0.3503286838531494,	 generate time: 0.2323317527770996
 [9]: [Cumulative]: Semantic Similarity: 0.76093,	 retrieve time: 0.34513444900512696,	 generate time: 0.4162937879562378
 
-Result for ./results/squad-dev/10/result_3.1-8B_k3_p100_q10_squad-dev_bertscore_rag_Index_openai.txt
+Result for ./results/squad-dev/10/result_3.1-8B_k3_p100_q10_squad-dev_bertscore_rag_Index_openai.txt_top1
 Prepare time: 4.233177900314331
 Average Semantic Similarity: 0.7609278857707977
 retrieve time: 0.34513444900512696,	 generate time: 0.4162937879562378

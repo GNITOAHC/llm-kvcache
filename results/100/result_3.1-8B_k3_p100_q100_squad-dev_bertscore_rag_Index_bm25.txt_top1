@@ -200,7 +200,7 @@ Retriever BM25 prepared in 0.05550217628479004 seconds
 [99]: Semantic Similarity: 0.97149,	 retrieve time: 0.0006396770477294922,	 generate time: 0.18859505653381348
 [99]: [Cumulative]: Semantic Similarity: 0.67696,	 retrieve time: 0.0006973910331726075,	 generate time: 0.33901196002960204
 
-Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_rag_Index_bm25.txt_0
+Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_rag_Index_bm25.txt_top1
 Prepare time: 0.05550217628479004
 Average Semantic Similarity: 0.676961962338537
 retrieve time: 0.0006973910331726075,	 generate time: 0.33901196002960204

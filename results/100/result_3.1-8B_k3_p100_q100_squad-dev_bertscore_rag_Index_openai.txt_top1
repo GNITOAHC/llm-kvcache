@@ -200,7 +200,7 @@ Retriever OPENAI prepared in 2.7773373126983643 seconds
 [99]: Semantic Similarity: 0.97149,	 retrieve time: 0.3443152904510498,	 generate time: 0.22132086753845215
 [99]: [Cumulative]: Semantic Similarity: 0.75412,	 retrieve time: 0.43484928607940676,	 generate time: 0.3440356516838074
 
-Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_rag_Index_openai.txt_0
+Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_rag_Index_openai.txt_top1
 Prepare time: 2.7773373126983643
 Average Semantic Similarity: 0.7541229208186269
 retrieve time: 0.43484928607940676,	 generate time: 0.3440356516838074
