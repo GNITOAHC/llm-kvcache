@@ -3,9 +3,11 @@ import torch.nn.functional as F
 import pandas as pd
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from llama_index.core import VectorStoreIndex, Document
+from transformers.cache_utils import DynamicCache
 import argparse
 import os
 import json
+from transformers import BitsAndBytesConfig
 
 def get_env():
     env_dict = {}
@@ -17,35 +19,13 @@ def get_env():
 
 """Hugging Face Llama model"""
 HF_TOKEN = get_env()["HF_TOKEN"]
-model_name = "meta-llama/Llama-3.2-1B-Instruct"
-tokenizer = AutoTokenizer.from_pretrained(model_name, token=HF_TOKEN)
-model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    torch_dtype=torch.float16,
-    device_map="auto",
-    token=HF_TOKEN
-)
+global model_name, model, tokenizer
+
+# Allowlist the DynamicCache class
+torch.serialization.add_safe_globals([DynamicCache])
+torch.serialization.add_safe_globals([set])
 
 # Define a simplified generate function
-def generate(model, input_ids, max_length=1000):
-    output_ids = input_ids  # Start with the initial input_ids
-    eos_token_id = tokenizer.eos_token_id
-
-    for _ in range(max_length - input_ids.size(1)):
-        # Generate the model output using greedy decoding
-        output = model(input_ids=output_ids)
-        logits = output.logits  # Extract the logits from the model output
-
-        # Get the last token's logits and apply argmax to select the next token
-        next_token_id = logits[:, -1, :].argmax(dim=-1).unsqueeze(-1)
-
-        # Append the selected token to the output sequence
-        output_ids = torch.cat([output_ids, next_token_id], dim=-1)
-
-        # Stop if the end-of-sequence token is generated
-        if next_token_id == eos_token_id:
-            break
-    return output_ids
 
 
 """Sentence-BERT for evaluate semantic similarity"""
@@ -141,26 +121,38 @@ def parse_squad_data(raw):
             for qa in para['qas']:
                 ques = qa['question']
                 answers = [ans['text'] for ans in qa['answers']]
-                dataset['qas'].append({"title": data['title'], "paragraph": tuple((k_id, p_id)) ,"question": ques, "answers": answers})
+                dataset['qas'].append({"title": data['title'], "paragraph_index": tuple((k_id, p_id)) ,"question": ques, "answers": answers})
         dataset['ki_text'].append({"title": data['title'], "paragraphs": article})
     
     return dataset
 
-def get_squad_dataset(filepath: str):
+def get_squad_dataset(filepath: str, max_questions: int = None, max_knowledge: int = None, max_paragraph: int = None):
     # Open and read the JSON file
     with open(filepath, 'r') as file:
         data = json.load(file)
     # Parse the SQuAD data
     parsed_data = parse_squad_data(data)
     
-    questions = [qa['question'] for qa in parsed_data['qas']]
-    answers = [qa['answers'][0] for qa in parsed_data['qas']]
-    dataset = zip(questions, answers)
+    print("max_knowledge", max_knowledge, "max_paragraph", max_paragraph, "max_questions", max_questions)
+    
+    # Set the limit Maximum Articles, use all Articles if max_knowledge is None or greater than the number of Articles
+    max_knowledge = max_knowledge if max_knowledge != None and max_knowledge < len(parsed_data['ki_text']) else len(parsed_data['ki_text'])
     
     text_list = []
-    for article in parsed_data['ki_text']:
+    # Get the knowledge Articles for at most max_knowledge, or all Articles if max_knowledge is None
+    for article in parsed_data['ki_text'][:max_knowledge]:
+        max_para = max_paragraph if max_paragraph != None and max_paragraph < len(article['paragraphs']) else len(article['paragraphs'])
         text_list.append(article['title'])
-        text_list.extend(article['paragraphs'])
+        text_list.extend(article['paragraphs'][0:max_para])
+    
+    # Check if the knowledge id of qas is less than the max_knowledge
+    questions = [qa['question'] for qa in parsed_data['qas'] if qa['paragraph_index'][0] < max_knowledge and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
+    answers = [qa['answers'][0] for qa in parsed_data['qas'] if qa['paragraph_index'][0] < max_knowledge and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
+    
+    if max_questions is None or max_questions > len(questions):
+        max_questions = len(questions)
+    
+    dataset = zip(questions[:max_questions], answers[:max_questions])
     
     return text_list, dataset
 
@@ -173,10 +165,10 @@ def rag_test(args: argparse.Namespace):
         text_list, dataset = get_kis_dataset(datapath)
     if args.dataset == "squad-dev":
         datapath = "./datasets/squad/dev-v1.1.json"
-        text_list, dataset = get_squad_dataset(datapath)
+        text_list, dataset = get_squad_dataset(datapath, max_questions=args.maxQuestion, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph)
     if args.dataset == "squad-train":
         datapath = "./datasets/squad/train-v1.1.json"
-        text_list, dataset = get_squad_dataset(datapath)
+        text_list, dataset = get_squad_dataset(datapath, max_questions=args.maxQuestion, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph)
     
     # document indexing for the rag retriever
     documents = [Document(text=t) for t in text_list]
@@ -210,23 +202,38 @@ def rag_test(args: argparse.Namespace):
         # short_knowledge = knowledge[:knowledge.find("**Step 4")]
         
         prompt = f"""
-        {question}
-        
-        --- Retrieved Information ---
-        {knowledge}
-        --- End of Retrieved Information ---
-        
-        Using the retrieved information to answer the question.
-        """
+    <|begin_of_text|>
+    <|start_header_id|>system<|end_header_id|>
+    You are an assistant for giving short answers based on given context.<|eot_id|>
+    <|start_header_id|>user<|end_header_id|>
+    Context information is bellow.
+    ------------------------------------------------
+    {knowledge}
+    ------------------------------------------------
+    Answer the question with a super short answer.
+    Question:
+    {question}
+    <|eot_id|>
+    <|start_header_id|>assistant<|end_header_id|>
+    """
 
         # Generate Response for the question
         generate_t1 = time() 
         input_ids = tokenizer.encode(prompt, return_tensors="pt").to(model.device)
-        output = generate(model, input_ids)
+        output = model.generate(
+            input_ids,
+            max_new_tokens=300,  # Set the maximum length of the generated text
+            do_sample=False,  # Ensures greedy decoding,
+            temperature=None
+        )
         generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
         generate_t2 = time() 
+
+        generated_text = generated_text[generated_text.find(question) + len(question):]
+        generated_text = generated_text[generated_text.find('assistant') + len('assistant'):].lstrip()
         
-        generated_text = generated_text.replace(prompt, "")
+
+        print(generated_text)
         
         # Evaluate bert-score similarity
         similarity = get_bert_similarity(generated_text, ground_truth)
@@ -254,19 +261,68 @@ def rag_test(args: argparse.Namespace):
     print()
     with open(args.output, "a") as f:
         f.write("\n")
+        f.write(f"Result for {args.output}\n")
         f.write(f"Prepare time: {prepare_time}\n")
         f.write(f"Average Semantic Similarity: {avg_similarity}\n")
         f.write(f"retrieve time: {avg_retrieve_time},\t generate time: {avg_generate_time}\n")
+
+
+# Define quantization configuration
+bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,              # Load model in 4-bit precision
+    bnb_4bit_quant_type="nf4",      # Normalize float 4 quantization
+    bnb_4bit_compute_dtype=torch.float16,  # Compute dtype for 4-bit base matrices
+    bnb_4bit_use_double_quant=True  # Use nested quantization
+)
+
+def load_quantized_model(model_name, hf_token=None):
+    tokenizer = AutoTokenizer.from_pretrained(
+        model_name,
+        token=hf_token
+    )
     
+    # Load model with quantization
+    model = AutoModelForCausalLM.from_pretrained(
+        model_name,
+        quantization_config=bnb_config,
+        device_map="auto",          # Automatically choose best device
+        trust_remote_code=True,     # Required for some models
+        token=hf_token
+    )
+    
+    return tokenizer, model
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run RAG test with specified parameters.")
     # parser.add_argument('--method', choices=['rag', 'kvcache'], required=True, help='Method to use (rag or kvcache)')
+    parser.add_argument('--modelname', required=False, default="meta-llama/Llama-3.2-1B-Instruct", type=str, help='Model name to use')
+    parser.add_argument('--quantized', required=False, default=False, type=bool, help='Quantized model')
     parser.add_argument('--index', choices=['gemini', 'openai', 'bm25'], required=True, help='Index to use (gemini, openai, bm25)')
     parser.add_argument('--similarity', choices=['bertscore'], required=True, help='Similarity metric to use (bertscore)')
     parser.add_argument('--dataset', choices=['kis', 'kis_sample', 'squad-dev', 'squad-train'], required=True, help='Dataset to use (kis, kis_sample, squad-dev, squad-train)')
     parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
-
+    parser.add_argument('--maxQuestion', required=False, default=None ,type=int, help='Maximum number of questions to test')
+    parser.add_argument('--maxKnowledge', required=False, default=None ,type=int, help='Maximum number of knowledge items to use')
+    parser.add_argument('--maxParagraph', required=False, default=None ,type=int, help='Maximum number of paragraph to use')
+    # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
+    
     args = parser.parse_args()
+    
+    print("maxKnowledge", args.maxKnowledge, "maxParagraph", args.maxParagraph, "maxQuestion", args.maxQuestion)
+    
+    model_name = args.modelname
+    
+    if args.quantized:
+        tokenizer, model = load_quantized_model(model_name=model_name, hf_token=HF_TOKEN)
+    else:
+        tokenizer = AutoTokenizer.from_pretrained(model_name, token=HF_TOKEN)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            torch_dtype=torch.float16,
+            device_map="auto",
+            token=HF_TOKEN
+        )
     
     def unique_path(path, i=0):
         if os.path.exists(path):

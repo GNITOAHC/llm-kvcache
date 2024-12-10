@@ -7,6 +7,9 @@ import argparse
 import os
 from time import time
 import json
+from transformers import BitsAndBytesConfig
+import subprocess
+import random
 
 def get_env():
     env_dict = {}
@@ -18,47 +21,128 @@ def get_env():
 
 """Hugging Face Llama model"""
 HF_TOKEN = get_env()["HF_TOKEN"]
-model_name = "meta-llama/Llama-3.2-1B-Instruct"
-tokenizer = AutoTokenizer.from_pretrained(model_name, token=HF_TOKEN)
-model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    torch_dtype=torch.float16,
-    device_map="auto",
-    token=HF_TOKEN
-)
+global model_name, model, tokenizer
 
 # Assume input_ids is your initial input sequence tensor, and max_length is the target length for decoding
 # Define the maximum length for decoding
-def generate(model, input_ids, past_key_values, max_length=50):
-    output_ids = input_ids  # Start with initial input_ids
-    eos_token_id = tokenizer.eos_token_id
-    next_token_id = input_ids
-    for _ in range(max_length - input_ids.size(1)):
-        # Generate the model output using greedy decoding
-        output = model(input_ids=next_token_id, past_key_values=past_key_values, use_cache=True)
-        logits = output.logits  # Extract the logits from the model output
-        past_key_values = output.past_key_values  # Update past_key_values for the next step
+import torch
+import torch.nn as nn
+from torch.nn.parallel import DataParallel
+import subprocess
+from typing import Optional, Tuple, List
+def generate(
+    model,
+    input_ids: torch.Tensor,
+    past_key_values,
+    max_new_tokens: int = 300
+) -> torch.Tensor:
+    """
+    Generate text with proper device handling for HuggingFace models using device_map="auto"
+    
+    Args:
+        model: HuggingFace model with automatic device mapping
+        input_ids: Input token ids
+        past_key_values: Previous KV cache
+        max_length: Maximum sequence length to generate
+    """
+    # Get the device of the embedding layer
+    embed_device = model.model.embed_tokens.weight.device
 
-        # Get the last token's logits and apply argmax to select the next token
-        next_token_id = logits[:, -1, :].argmax(dim=-1).unsqueeze(-1)
+    origin_ids = input_ids
+    # Move input to the same device as embedding layer
+    input_ids = input_ids.to(embed_device)
+    
+    # Initialize output tensor on embedding device
+    output_ids = input_ids.clone()
+    
+    # Main generation loop
+    with torch.no_grad():
+        for _ in range(max_new_tokens):
+            # Forward pass with proper device placement
+            outputs = model(
+                input_ids=input_ids,  # Only process last token
+                past_key_values=past_key_values,
+                use_cache=True
+            )
+            
+            # Get next token prediction (logits will be on the last device)
+            next_token_logits = outputs.logits[:, -1, :]
+            next_token = next_token_logits.argmax(dim=-1).unsqueeze(-1)
+            
+            # Move next token to embedding device for next iteration
+            next_token = next_token.to(embed_device)
+            
+            # Update KV cache
+            past_key_values = outputs.past_key_values
+            
+            # Append prediction
+            output_ids = torch.cat([output_ids, next_token], dim=1)
+            input_ids = next_token
+            
+            # Optional: Check for EOS token
+            #print(next_token.item())
+            #print(model.config.eos_token_id)
+            if next_token.item() in model.config.eos_token_id:
+                break
+    return output_ids[:,origin_ids.shape[-1]:]
 
-        # Append the selected token to the output sequence
-        output_ids = torch.cat([output_ids, next_token_id], dim=-1)
+# Example usage:
+# model = AutoModelForCausalLM.from_pretrained("your-model")
+# tokenizer = AutoTokenizer.from_pretrained("your-model")
+# input_text = "Your input text here"
+# input_ids = tokenizer.encode(input_text, return_tensors="pt")
+# output_ids = generate(model, input_ids, past_key_values=None)
+# output_text = tokenizer.decode(output_ids[0])
 
-        # Stop if the end-of-sequence token is generated (assuming eos_token_id is defined)
-        if next_token_id == eos_token_id:
-            break
-    return output_ids
+# Run a command and capture its output
+  # Example command, replace with your desired command
+
+
+# Print the standard output
+
 
 """KV Cache test"""
 # Allowlist the DynamicCache class
 torch.serialization.add_safe_globals([DynamicCache])
 torch.serialization.add_safe_globals([set])
 
-def get_kv_cache(model, tokenizer, prompt: str) -> DynamicCache:
-    input_ids = tokenizer.encode(prompt, return_tensors="pt").to(model.device)
+def get_kv_cache(
+    model,
+    tokenizer,
+    prompt: str,
+) -> DynamicCache:
+    """
+    Prepare KV cache for a model distributed across multiple GPUs using device_map="auto"
+    
+    Args:
+        model: HuggingFace model with automatic device mapping
+        tokenizer: HuggingFace tokenizer
+        prompt: Input text to generate KV cache for
+    
+    Returns:
+        DynamicCache: Distributed KV cache
+    """
+    # Get embedding layer device
+    embed_device = model.model.embed_tokens.weight.device
+    
+    # Encode and move input to embedding device
+    input_ids = tokenizer.encode(prompt, return_tensors="pt").to(embed_device)
+    
+    # Initialize dynamic cache
     past_key_values = DynamicCache()
-    outputs = model(input_ids, past_key_values=past_key_values, use_cache=True)
+    
+    # Generate KV cache with proper device placement
+    with torch.no_grad():
+        outputs = model(
+            input_ids=input_ids,
+            past_key_values=past_key_values,
+            use_cache=True,
+            output_attentions=False,
+            output_hidden_states=False
+        )
+    
+    # The model's device mapping will automatically place each layer's 
+    # KV cache on the correct device
     return outputs.past_key_values
 
 def write_kv_cache(kv: DynamicCache,path: str):
@@ -83,17 +167,38 @@ def get_bert_similarity(response, ground_truth):
 
     return cosine_score.item()
 
-def prepare_kvcache(documents: list[str], filepath: str = "./data_cache/cache_knowledges.pt"):
+def prepare_kvcache(documents, filepath: str = "./data_cache/cache_knowledges.pt"):
     # Prepare the knowledges kvcache
-    knowledges = ' '.join(documents)
     
+    knowledges = f"""
+    <|begin_of_text|>
+    <|start_header_id|>system<|end_header_id|>
+    You are an assistant for giving short answers based on given context.<|eot_id|>
+    <|start_header_id|>user<|end_header_id|>
+    Context information is bellow.
+    ------------------------------------------------
+    {documents}
+    ------------------------------------------------
+    Answer the question with a super short answer.
+    Question:
+    """
     # Get the knowledge cache
     t1 = time()
-    kv = get_kv_cache(model, tokenizer, knowledges)
-    write_kv_cache(kv, filepath)
-    t2 = time()
-    
-    return kv, t2 - t1
+    try:
+        kv = get_kv_cache(model, tokenizer, knowledges)
+        print("kvlen: ", kv.key_cache[0].shape[-2])
+        write_kv_cache(kv, filepath)
+        t2 = time()
+        # command = ["nvidia-smi"]
+        # result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        # print(result.stdout)
+        return kv, t2 - t1
+    except Exception as e:
+        # print("Error: ", e)
+        # command = ["nvidia-smi"]
+        # result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        print(result.stdout)
+
     
 def get_kis_dataset(filepath: str):
     df = pd.read_csv(filepath)
@@ -112,26 +217,38 @@ def parse_squad_data(raw):
             for qa in para['qas']:
                 ques = qa['question']
                 answers = [ans['text'] for ans in qa['answers']]
-                dataset['qas'].append({"title": data['title'], "paragraph": tuple((k_id, p_id)) ,"question": ques, "answers": answers})
+                dataset['qas'].append({"title": data['title'], "paragraph_index": tuple((k_id, p_id)) ,"question": ques, "answers": answers})
         dataset['ki_text'].append({"title": data['title'], "paragraphs": article})
     
     return dataset
 
-def get_squad_dataset(filepath: str):
+def get_squad_dataset(filepath: str, max_questions: int = None, max_knowledge: int = None, max_paragraph: int = None):
     # Open and read the JSON file
     with open(filepath, 'r') as file:
         data = json.load(file)
     # Parse the SQuAD data
     parsed_data = parse_squad_data(data)
     
-    questions = [qa['question'] for qa in parsed_data['qas']]
-    answers = [qa['answers'][0] for qa in parsed_data['qas']]
-    dataset = zip(questions, answers)
+    print("max_knowledge", max_knowledge, "max_paragraph", max_paragraph, "max_questions", max_questions)
+    
+    # Set the limit Maximum Articles, use all Articles if max_knowledge is None or greater than the number of Articles
+    max_knowledge = max_knowledge if max_knowledge != None and max_knowledge < len(parsed_data['ki_text']) else len(parsed_data['ki_text'])
     
     text_list = []
-    for article in parsed_data['ki_text']:
+    # Get the knowledge Articles for at most max_knowledge, or all Articles if max_knowledge is None
+    for article in parsed_data['ki_text'][:max_knowledge]:
+        max_para = max_paragraph if max_paragraph != None and max_paragraph < len(article['paragraphs']) else len(article['paragraphs'])
         text_list.append(article['title'])
-        text_list.extend(article['paragraphs'])
+        text_list.append('\n'.join(article['paragraphs'][0:max_para]))
+    
+    # Check if the knowledge id of qas is less than the max_knowledge
+    questions = [qa['question'] for qa in parsed_data['qas'] if qa['paragraph_index'][0] < max_knowledge and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
+    answers = [qa['answers'][0] for qa in parsed_data['qas'] if qa['paragraph_index'][0] < max_knowledge and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
+    
+    if max_questions is None or max_questions > len(questions):
+        max_questions = len(questions)
+    
+    dataset = zip(questions, answers)
     
     return text_list, dataset
     
@@ -144,13 +261,15 @@ def kvcache_test(args: argparse.Namespace):
         text_list, dataset = get_kis_dataset(datapath)
     if args.dataset == "squad-dev":
         datapath = "./datasets/squad/dev-v1.1.json"
-        text_list, dataset = get_squad_dataset(datapath)
+        text_list, dataset = get_squad_dataset(datapath, max_questions=2000, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph)
     if args.dataset == "squad-train":
         datapath = "./datasets/squad/train-v1.1.json"
-        text_list, dataset = get_squad_dataset(datapath)
+        text_list, dataset = get_squad_dataset(datapath, max_questions=2000, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph)
     
     kvcache_path = "./data_cache/cache_knowledges.pt"
-    documents_cache, prepare_time = prepare_kvcache(text_list, filepath=kvcache_path)
+
+    knowledges = '\n\n\n\n\n\n'.join(text_list)
+    knowledge_cache, prepare_time = prepare_kvcache(knowledges, filepath=kvcache_path)
     
     print(f"KVcache prepared in {prepare_time} seconds")
     with open(args.output, "a") as f:
@@ -164,25 +283,48 @@ def kvcache_test(args: argparse.Namespace):
         "responses": []
     }
 
-    for id, (question, ground_truth) in enumerate(dataset):
-        # torch.cuda.empty_cache()
-        # torch.cuda.ipc_collect()
+
+    # 打乱dataset
+    dataset = list(dataset)  # 将zip对象转换为列表
+    
+    for id, (question, ground_truth) in enumerate(dataset[:args.maxQuestion]):
+        torch.cuda.empty_cache()
+        torch.cuda.ipc_collect()
         
         # Read the knowledge cache from the cache file
         cache_t1 = time()
-        if args.kvcache == "file":
-            knowledge_cache = read_kv_cache(kvcache_path)
+        #if args.kvcache == "file":
+            #knowledge_cache = read_kv_cache(kvcache_path)
+        
         # Not a good idea to use this method, as it will consume a lot of memory
         # if args.kvcache == "variable":
         #     knowledge_cache = documents_cache
         cache_t2 = time()
         
         # Generate Response for the question
+        knowledges = '\n\n\n'.join(text_list)
+        print("Q: ",question)
+        prompt = f"""
+    <|begin_of_text|>
+    <|start_header_id|>system<|end_header_id|>
+    You are an assistant for giving short answers based on given context.<|eot_id|>
+    <|start_header_id|>user<|end_header_id|>
+    Context information is bellow.
+    ------------------------------------------------
+    {knowledges}
+    ------------------------------------------------
+    Answer the question with a super short answer.
+    Question:
+    {question}<|eot_id|>
+    <|start_header_id|>assistant<|end_header_id|>
+    """
         generate_t1 = time() 
-        input_ids = tokenizer.encode( question , return_tensors="pt" ).to(model.device)
-        output = generate(model, input_ids, knowledge_cache)
+        input_ids = tokenizer.encode( prompt , return_tensors="pt" ).to(model.device)
+        output = generate(model, input_ids, None) #knowledge_cache)
         generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
         generate_t2 = time() 
+        
+        print("A: ", generated_text)
         
         # Evaluate bert-score similarity
         similarity = get_bert_similarity(generated_text, ground_truth)
@@ -210,20 +352,67 @@ def kvcache_test(args: argparse.Namespace):
     print()
     with open(args.output, "a") as f:
         f.write("\n")
+        f.write(f"Result for {args.output}\n")
         f.write(f"Prepare time: {prepare_time}\n")
         f.write(f"Average Semantic Similarity: {avg_similarity}\n")
         f.write(f"cache time: {avg_cache_time},\t generate time: {avg_generate_time}\n")
+
+# Define quantization configuration
+bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,              # Load model in 4-bit precision
+    bnb_4bit_quant_type="nf4",      # Normalize float 4 quantization
+    bnb_4bit_compute_dtype=torch.float16,  # Compute dtype for 4-bit base matrices
+    bnb_4bit_use_double_quant=True  # Use nested quantization
+)
+
+def load_quantized_model(model_name, hf_token=None):
+    tokenizer = AutoTokenizer.from_pretrained(
+        model_name,
+        token=hf_token
+    )
+    
+    # Load model with quantization
+    model = AutoModelForCausalLM.from_pretrained(
+        model_name,
+        quantization_config=bnb_config,
+        device_map="auto",          # Automatically choose best device
+        trust_remote_code=True,     # Required for some models
+        token=hf_token
+    )
+    
+    return tokenizer, model
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run RAG test with specified parameters.")
     # parser.add_argument('--method', choices=['rag', 'kvcache'], required=True, help='Method to use (rag or kvcache)')
     # parser.add_argument('--kvcache', choices=['file', 'variable'], required=True, help='Method to use (from_file or from_var)')
+    parser.add_argument('--modelname', required=False, default="meta-llama/Llama-3.2-1B-Instruct", type=str, help='Model name to use')
+    parser.add_argument('--quantized', required=False, default=False, type=bool, help='Quantized model')
     parser.add_argument('--kvcache', choices=['file'], required=True, help='Method to use (from_file or from_var)')
     parser.add_argument('--similarity', choices=['bertscore'], required=True, help='Similarity metric to use (bertscore)')
     parser.add_argument('--dataset', choices=['kis', 'kis_sample', 'squad-dev', 'squad-train'], required=True, help='Dataset to use (kis, kis_sample, squad-dev, squad-train)')
     parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
-
+    parser.add_argument('--maxQuestion', required=False, default=None ,type=int, help='Maximum number of questions to test')
+    parser.add_argument('--maxKnowledge', required=False, default=None ,type=int, help='Maximum number of knowledge items to use')
+    parser.add_argument('--maxParagraph', required=False, default=None ,type=int, help='Maximum number of paragraph to use')
+    # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
+    
     args = parser.parse_args()
+    
+    print("maxKnowledge", args.maxKnowledge, "maxParagraph", args.maxParagraph, "maxQuestion", args.maxQuestion)
+    
+    model_name = args.modelname
+    
+    if args.quantized:
+        tokenizer, model = load_quantized_model(model_name=model_name, hf_token=HF_TOKEN)
+    else:
+        tokenizer = AutoTokenizer.from_pretrained(model_name, token=HF_TOKEN)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            torch_dtype=torch.float16,
+            device_map="auto",
+            token=HF_TOKEN
+        )
     
     def unique_path(path, i=0):
         if os.path.exists(path):
