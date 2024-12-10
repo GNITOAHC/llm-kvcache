@@ -1,0 +1,14 @@
+Result for ./results/squad-dev/10/result_3.1-8B_k3_p100_q10_squad-dev_bertscore_kvcache.txt
+Prepare time: 12.401315450668335
+Average Semantic Similarity: 0.7957282960414886
+cache time: 3.337860107421875e-07,	 generate time: 10.756752681732177
+
+Result for ./results/squad-dev/10/result_3.1-8B_k3_p100_q10_squad-dev_bertscore_rag_Index_bm25.txt
+Prepare time: 0.05511760711669922
+Average Semantic Similarity: 0.5498566120862961
+retrieve time: 0.0007581472396850586,	 generate time: 0.48340981006622313
+
+Result for ./results/squad-dev/10/result_3.1-8B_k3_p100_q10_squad-dev_bertscore_rag_Index_openai.txt
+Prepare time: 3.3774423599243164
+Average Semantic Similarity: 0.7609278857707977
+retrieve time: 0.43507306575775145,	 generate time: 0.41091902256011964
