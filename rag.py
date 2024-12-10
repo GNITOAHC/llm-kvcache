@@ -46,7 +46,7 @@ from time import time
 
 from llama_index.core import Settings
 
-def getOpenAIRetriever(documents: list[str]):
+def getOpenAIRetriever(documents: list[str], similarity_top_k: int = 1):
     """OpenAI RAG model"""
     import openai
     openai.api_key = get_env()["OPENAI_API_KEY"]        
@@ -61,13 +61,13 @@ def getOpenAIRetriever(documents: list[str]):
     # Create the OpenAI retriever
     t1 = time()
     index = VectorStoreIndex.from_documents(documents)
-    OpenAI_retriever = index.as_retriever()
+    OpenAI_retriever = index.as_retriever(similarity_top_k=similarity_top_k)
     t2 = time()
     
     return OpenAI_retriever, t2 - t1
     
 
-def getGeminiRetriever(documents: list[str]):
+def getGeminiRetriever(documents: list[str], similarity_top_k: int = 1):
     """Gemini Embedding RAG model"""
     GOOGLE_API_KEY = get_env()["GOOGLE_API_KEY"]
     from llama_index.embeddings.gemini import GeminiEmbedding
@@ -78,12 +78,12 @@ def getGeminiRetriever(documents: list[str]):
     # Create the Gemini retriever
     t1 = time()
     index = VectorStoreIndex.from_documents(documents)
-    Gemini_retriever = index.as_retriever()
+    Gemini_retriever = index.as_retriever(similarity_top_k=similarity_top_k)
     t2 = time()
     
     return Gemini_retriever, t2 - t1
     
-def getBM25Retriever(documents: list[str]):
+def getBM25Retriever(documents: list[str], similarity_top_k: int = 1):
     from llama_index.core.node_parser import SentenceSplitter  
     from llama_index.retrievers.bm25 import BM25Retriever
     import Stemmer
@@ -95,7 +95,7 @@ def getBM25Retriever(documents: list[str]):
     # We can pass in the index, docstore, or list of nodes to create the retriever
     bm25_retriever = BM25Retriever.from_defaults(
         nodes=nodes,
-        similarity_top_k=2,
+        similarity_top_k=similarity_top_k,
         stemmer=Stemmer.Stemmer("english"),
         language="english",
     )
@@ -174,11 +174,11 @@ def rag_test(args: argparse.Namespace):
     documents = [Document(text=t) for t in text_list]
     
     if args.index == "gemini":
-        retriever, prepare_time = getGeminiRetriever(documents)
+        retriever, prepare_time = getGeminiRetriever(documents, similarity_top_k=args.topk)
     if args.index == "openai":
-        retriever, prepare_time = getOpenAIRetriever(documents)
+        retriever, prepare_time = getOpenAIRetriever(documents, similarity_top_k=args.topk)
     if args.index == "bm25":
-        retriever, prepare_time = getBM25Retriever(documents)
+        retriever, prepare_time = getBM25Retriever(documents, similarity_top_k=args.topk)
         
     print(f"Retriever {args.index.upper()} prepared in {prepare_time} seconds")
     with open(args.output, "a") as f:
@@ -312,6 +312,7 @@ if __name__ == "__main__":
     parser.add_argument('--maxQuestion', required=False, default=None ,type=int, help='Maximum number of questions to test')
     parser.add_argument('--maxKnowledge', required=False, default=None ,type=int, help='Maximum number of knowledge items to use')
     parser.add_argument('--maxParagraph', required=False, default=None ,type=int, help='Maximum number of paragraph to use')
+    parser.add_argument('--topk', required=False, default=1, type=int, help='Top K retrievals to use')
     # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
     
     args = parser.parse_args()
