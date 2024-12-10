@@ -1,0 +1,26 @@
+Retriever OPENAI prepared in 5.452557802200317 seconds
+[0]: Semantic Similarity: 0.96288,	 retrieve time: 0.4716312885284424,	 generate time: 0.7407193183898926
+[0]: [Cumulative]: Semantic Similarity: 0.96288,	 retrieve time: 0.4716312885284424,	 generate time: 0.7407193183898926
+[1]: Semantic Similarity: 0.96763,	 retrieve time: 0.37170934677124023,	 generate time: 0.19161009788513184
+[1]: [Cumulative]: Semantic Similarity: 0.96526,	 retrieve time: 0.4216703176498413,	 generate time: 0.4661647081375122
+[2]: Semantic Similarity: 0.39926,	 retrieve time: 0.2682526111602783,	 generate time: 0.6430244445800781
+[2]: [Cumulative]: Semantic Similarity: 0.77659,	 retrieve time: 0.3705310821533203,	 generate time: 0.5251179536183676
+[3]: Semantic Similarity: 0.96288,	 retrieve time: 0.336597204208374,	 generate time: 0.1892855167388916
+[3]: [Cumulative]: Semantic Similarity: 0.82316,	 retrieve time: 0.36204761266708374,	 generate time: 0.44115984439849854
+[4]: Semantic Similarity: 0.87185,	 retrieve time: 0.3843212127685547,	 generate time: 0.14972472190856934
+[4]: [Cumulative]: Semantic Similarity: 0.8329,	 retrieve time: 0.3665023326873779,	 generate time: 0.3828728199005127
+[5]: Semantic Similarity: 0.60045,	 retrieve time: 0.3258826732635498,	 generate time: 0.5660836696624756
+[5]: [Cumulative]: Semantic Similarity: 0.79416,	 retrieve time: 0.35973238945007324,	 generate time: 0.41340796152750653
+[6]: Semantic Similarity: 0.27943,	 retrieve time: 0.3317832946777344,	 generate time: 0.5855913162231445
+[6]: [Cumulative]: Semantic Similarity: 0.72063,	 retrieve time: 0.3557396616254534,	 generate time: 0.43800558362688335
+[7]: Semantic Similarity: 0.98222,	 retrieve time: 0.4210832118988037,	 generate time: 0.22823357582092285
+[7]: [Cumulative]: Semantic Similarity: 0.75333,	 retrieve time: 0.3639076054096222,	 generate time: 0.4117840826511383
+[8]: Semantic Similarity: 0.60045,	 retrieve time: 0.35657334327697754,	 generate time: 0.567420244216919
+[8]: [Cumulative]: Semantic Similarity: 0.73634,	 retrieve time: 0.3630926873948839,	 generate time: 0.4290769894917806
+[9]: Semantic Similarity: 0.98222,	 retrieve time: 0.3504781723022461,	 generate time: 0.22638750076293945
+[9]: [Cumulative]: Semantic Similarity: 0.76093,	 retrieve time: 0.3618312358856201,	 generate time: 0.4088080406188965
+
+Result for ./results/squad-dev/10/result_3.1-8B_k4_p100_q10_squad-dev_bertscore_rag_Index_openai.txt_top1
+Prepare time: 5.452557802200317
+Average Semantic Similarity: 0.7609278857707977
+retrieve time: 0.3618312358856201,	 generate time: 0.4088080406188965
