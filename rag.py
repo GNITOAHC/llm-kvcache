@@ -244,12 +244,19 @@ def rag_test(args: argparse.Namespace):
             )
         with open(args.output, "a") as f:
             f.write(f"[{id}]: Semantic Similarity: {round(similarity, 5)},\t retrieve time: {retrieve_t2 - retrieve_t1},\t generate time: {generate_t2 - generate_t1}\n")
-        
+            
         results["prompts"].append(prompt)
         results["responses"].append(generated_text)
         results["retrieve_time"].append(retrieve_t2 - retrieve_t1)
         results["generate_time"].append(generate_t2 - generate_t1)
         results["similarity"].append(similarity)
+        
+        with open(args.output, "a") as f:
+            f.write(f"[{id}]: [Cumulative]: " 
+                    + f"Semantic Similarity: {round(sum(results['similarity']) / (len(results['similarity'])+1) , 5)}," 
+                    + f"\t retrieve time: {sum(results['retrieve_time']) / (len(results['retrieve_time'])+1) },"
+                    + f"\t generate time: {sum(results['generate_time']) / (len(results['generate_time'])+1) }\n")
+        
         
     avg_similarity = sum(results["similarity"]) / len(results["similarity"])
     avg_retrieve_time = sum(results["retrieve_time"]) / len(results["retrieve_time"])
