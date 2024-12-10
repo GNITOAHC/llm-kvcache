@@ -1,0 +1,14 @@
+rag_llama3.2_3b_Index_openai_squadDev_bertscore_k1_p1_q1000.txt
+Prepare time: 5.106963872909546
+Average Semantic Similarity: 0.536928211649259
+retrieve time: 0.37463667392730715,	 generate time: 3.2303881724675496
+
+rag_llama3.2_3b_Index_bm25_squadDev_bertscore_k1_p1_q1000.txt
+Prepare time: 0.002536773681640625
+Average Semantic Similarity: 0.5318813920021057
+retrieve time: 0.0008039156595865886,	 generate time: 5.395980230967203
+
+kvcache_llama3.2_3b_squadDev_bertscore_k1_p1_q1000.txt
+Prepare time: 0.581977367401123
+Average Semantic Similarity: 0.4549659992257754
+cache time: 0.100221053759257,	 generate time: 1.2374419768651326
