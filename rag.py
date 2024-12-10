@@ -253,9 +253,9 @@ def rag_test(args: argparse.Namespace):
         
         with open(args.output, "a") as f:
             f.write(f"[{id}]: [Cumulative]: " 
-                    + f"Semantic Similarity: {round(sum(results['similarity']) / (len(results['similarity'])+1) , 5)}," 
-                    + f"\t retrieve time: {sum(results['retrieve_time']) / (len(results['retrieve_time'])+1) },"
-                    + f"\t generate time: {sum(results['generate_time']) / (len(results['generate_time'])+1) }\n")
+                    + f"Semantic Similarity: {round(sum(results['similarity']) / (len(results['similarity'])) , 5)}," 
+                    + f"\t retrieve time: {sum(results['retrieve_time']) / (len(results['retrieve_time'])) },"
+                    + f"\t generate time: {sum(results['generate_time']) / (len(results['generate_time'])) }\n")
         
         
     avg_similarity = sum(results["similarity"]) / len(results["similarity"])

@@ -54,13 +54,14 @@ def generate(
     
     # Initialize output tensor on embedding device
     output_ids = input_ids.clone()
+    next_token = input_ids
     
     # Main generation loop
     with torch.no_grad():
         for _ in range(max_new_tokens):
             # Forward pass with proper device placement
             outputs = model(
-                input_ids=input_ids,  # Only process last token
+                input_ids=next_token,  # Only process last token
                 past_key_values=past_key_values,
                 use_cache=True
             )
@@ -77,7 +78,6 @@ def generate(
             
             # Append prediction
             output_ids = torch.cat([output_ids, next_token], dim=1)
-            input_ids = next_token
             
             # Optional: Check for EOS token
             #print(next_token.item())
@@ -147,6 +147,14 @@ def get_kv_cache(
 
 def write_kv_cache(kv: DynamicCache,path: str):
     torch.save(kv, path)
+
+
+
+def clean_up(kv: DynamicCache, origin_len: int):
+    for i in range(len(kv.key_cache)):
+        kv.key_cache[i] = kv.key_cache[i][:,:,:origin_len,:]
+        kv.value_cache[i] = kv.value_cache[i][:,:,:origin_len,:]
+
 
 def read_kv_cache(path: str) -> DynamicCache:
     # kv = torch.load(path)
@@ -270,7 +278,7 @@ def kvcache_test(args: argparse.Namespace):
 
     knowledges = '\n\n\n\n\n\n'.join(text_list)
     knowledge_cache, prepare_time = prepare_kvcache(knowledges, filepath=kvcache_path)
-    
+    kv_len = knowledge_cache.key_cache[0].shape[-2]
     print(f"KVcache prepared in {prepare_time} seconds")
     with open(args.output, "a") as f:
         f.write(f"KVcache prepared in {prepare_time} seconds\n")
@@ -305,22 +313,13 @@ def kvcache_test(args: argparse.Namespace):
         knowledges = '\n\n\n'.join(text_list)
         print("Q: ",question)
         prompt = f"""
-    <|begin_of_text|>
-    <|start_header_id|>system<|end_header_id|>
-    You are an assistant for giving short answers based on given context.<|eot_id|>
-    <|start_header_id|>user<|end_header_id|>
-    Context information is bellow.
-    ------------------------------------------------
-    {knowledges}
-    ------------------------------------------------
-    Answer the question with a super short answer.
-    Question:
     {question}<|eot_id|>
     <|start_header_id|>assistant<|end_header_id|>
     """
-        generate_t1 = time() 
+        generate_t1 = time()
+        clean_up(knowledge_cache, kv_len)
         input_ids = tokenizer.encode( prompt , return_tensors="pt" ).to(model.device)
-        output = generate(model, input_ids, None) #knowledge_cache)
+        output = generate(model, input_ids, knowledge_cache) #knowledge_cache)
         generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
         generate_t2 = time() 
         
@@ -333,23 +332,15 @@ def kvcache_test(args: argparse.Namespace):
             f"cache time: {cache_t2 - cache_t1},",
             f"generate time: {generate_t2 - generate_t1}"
             )
-        
         with open(args.output, "a") as f:
             f.write(f"[{id}]: Semantic Similarity: {round(similarity, 5)},\t cache time: {cache_t2 - cache_t1},\t generate time: {generate_t2 - generate_t1}\n")
-            
+        
         results["prompts"].append(question)
         results["responses"].append(generated_text)
         results["cache_time"].append(cache_t2 - cache_t1)
         results["generate_time"].append(generate_t2 - generate_t1)
         results["similarity"].append(similarity)
-
-        with open(args.output, "a") as f:
-            f.write(f"[{id}]: [Cumulative]: "
-                    + f"Semantic Similarity: {round(sum(results['similarity']) / (len(results['similarity'])+1) , 5)},"
-                    + f"\t cache time: {sum(results['cache_time']) / (len(results['cache_time'])+1) },"
-                    + f"\t generate time: {sum(results['generate_time']) / (len(results['generate_time'])+1) }\n")
         
-    
     avg_similarity = sum(results["similarity"]) / len(results["similarity"])
     avg_cache_time = sum(results["cache_time"]) / len(results["cache_time"])
     avg_generate_time = sum(results["generate_time"]) / len(results["generate_time"])
