@@ -341,6 +341,13 @@ def kvcache_test(args: argparse.Namespace):
         results["generate_time"].append(generate_t2 - generate_t1)
         results["similarity"].append(similarity)
         
+        with open(args.output, "a") as f:
+            f.write(f"[{id}]: [Cumulative]: " 
+                    + f"Semantic Similarity: {round(sum(results['similarity']) / (len(results['similarity'])) , 5)}," 
+                    + f"\t cache time: {sum(results['cache_time']) / (len(results['cache_time'])) },"
+                    + f"\t generate time: {sum(results['generate_time']) / (len(results['generate_time'])) }\n")
+        
+        
     avg_similarity = sum(results["similarity"]) / len(results["similarity"])
     avg_cache_time = sum(results["cache_time"]) / len(results["cache_time"])
     avg_generate_time = sum(results["generate_time"]) / len(results["generate_time"])
