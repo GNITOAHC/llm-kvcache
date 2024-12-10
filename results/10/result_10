@@ -8,12 +8,12 @@ Prepare time: 12.535492181777954
 Average Semantic Similarity: 0.7957282960414886
 cache time: 2.1457672119140626e-07,	 generate time: 10.766386103630065
 
-Result for ./results/squad-dev/10/result_3.1-8B_k3_p100_q10_squad-dev_bertscore_rag_Index_openai.txt
+Result for ./results/squad-dev/10/result_3.1-8B_k3_p100_q10_squad-dev_bertscore_rag_Index_openai.txt_top1
 Prepare time: 4.233177900314331
 Average Semantic Similarity: 0.7609278857707977
 retrieve time: 0.34513444900512696,	 generate time: 0.4162937879562378
 
-Result for ./results/squad-dev/10/result_3.1-8B_k3_p100_q10_squad-dev_bertscore_rag_Index_bm25.txt
+Result for ./results/squad-dev/10/result_3.1-8B_k3_p100_q10_squad-dev_bertscore_rag_Index_bm25.txt_top1
 Prepare time: 0.05556535720825195
 Average Semantic Similarity: 0.5498566120862961
 retrieve time: 0.0007363319396972656,	 generate time: 0.4860181093215942
