@@ -241,8 +241,7 @@ def rag_test(args: argparse.Namespace):
         nodes = retriever.retrieve(question)
         retrieve_t2 = time()
         
-        best_node = max(nodes, key=lambda node: node.score)
-        knowledge = best_node.text
+        knowledge = "\n---------------------\n".join([node.text for node in nodes])
         # short_knowledge = knowledge[:knowledge.find("**Step 4")]
         
         prompt = f"""
