@@ -202,10 +202,10 @@ def prepare_kvcache(documents, filepath: str = "./data_cache/cache_knowledges.pt
         # print(result.stdout)
         return kv, t2 - t1
     except Exception as e:
-        # print("Error: ", e)
+        print("Error: ", e)
         # command = ["nvidia-smi"]
         # result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        print(result.stdout)
+        # print(result.stdout)
 
     
 def get_kis_dataset(filepath: str):
@@ -230,7 +230,7 @@ def parse_squad_data(raw):
     
     return dataset
 
-def get_squad_dataset(filepath: str, max_questions: int = None, max_knowledge: int = None, max_paragraph: int = None):
+def get_squad_dataset(filepath: str, max_knowledge: int = None, max_paragraph: int = None, max_questions: int = None):
     # Open and read the JSON file
     with open(filepath, 'r') as file:
         data = json.load(file)
@@ -253,10 +253,35 @@ def get_squad_dataset(filepath: str, max_questions: int = None, max_knowledge: i
     questions = [qa['question'] for qa in parsed_data['qas'] if qa['paragraph_index'][0] < max_knowledge and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
     answers = [qa['answers'][0] for qa in parsed_data['qas'] if qa['paragraph_index'][0] < max_knowledge and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
     
-    if max_questions is None or max_questions > len(questions):
-        max_questions = len(questions)
-    
     dataset = zip(questions, answers)
+    
+    return text_list, dataset
+
+def get_hotpotqa_dataset(filepath: str, max_knowledge: int = None):
+    # Open and read the JSON
+    with open (filepath, "r") as file:
+        data = json.load(file)
+    
+    questions = [ qa['question'] for qa in data ]
+    answers = [ qa['answer'] for qa in data ]
+    dataset = zip(questions, answers)
+    
+    if max_knowledge == None:
+        max_knowledge = len(data)
+    else:
+        max_knowledge = min(max_knowledge, len(data))
+    
+    text_list = []
+    for i, qa in enumerate(data[:max_knowledge]):
+        context = qa['context']
+        context = [ c[0] + ": \n" + "".join(c[1]) for c in context ]
+        article = "\n\n".join(context)
+
+        text_list.append(article)
+    
+    for i, qa in enumerate(data[:max_knowledge]):
+        question = qa['question']
+        text_list.append(question)
     
     return text_list, dataset
     
@@ -269,10 +294,19 @@ def kvcache_test(args: argparse.Namespace):
         text_list, dataset = get_kis_dataset(datapath)
     if args.dataset == "squad-dev":
         datapath = "./datasets/squad/dev-v1.1.json"
-        text_list, dataset = get_squad_dataset(datapath, max_questions=2000, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph)
+        text_list, dataset = get_squad_dataset(datapath, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
     if args.dataset == "squad-train":
         datapath = "./datasets/squad/train-v1.1.json"
-        text_list, dataset = get_squad_dataset(datapath, max_questions=2000, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph)
+        text_list, dataset = get_squad_dataset(datapath, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
+    if args.dataset == "hotpotqa-dev":
+        datapath = "./datasets/hotpotqa/hotpot_dev_fullwiki_v1.json"
+        text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
+    if args.dataset == "hotpotqa-test":
+        datapath = "./datasets/hotpotqa/hotpot_test_fullwiki_v1.json"
+        text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
+    if args.dataset == "hotpotqa-train":
+        datapath = "./datasets/hotpotqa/hotpot_train_v1.1.json"
+        text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
     
     kvcache_path = "./data_cache/cache_knowledges.pt"
 
@@ -291,11 +325,16 @@ def kvcache_test(args: argparse.Namespace):
         "responses": []
     }
 
-
-    # 打乱dataset
-    dataset = list(dataset)  # 将zip对象转换为列表
     
-    for id, (question, ground_truth) in enumerate(dataset[:args.maxQuestion]):
+    dataset = list(dataset) # Convert the dataset to a list
+    
+    # shuffle the dataset
+    # from random import shuffle
+    # shuffle(dataset)
+    
+    max_questions = min(len(dataset), args.maxQuestion) if args.maxQuestion != None else len(dataset)
+    
+    for id, (question, ground_truth) in enumerate(dataset[:max_questions]):    # Retrieve the knowledge from the vector database
         torch.cuda.empty_cache()
         torch.cuda.ipc_collect()
         
@@ -396,11 +435,14 @@ if __name__ == "__main__":
     parser.add_argument('--quantized', required=False, default=False, type=bool, help='Quantized model')
     parser.add_argument('--kvcache', choices=['file'], required=True, help='Method to use (from_file or from_var)')
     parser.add_argument('--similarity', choices=['bertscore'], required=True, help='Similarity metric to use (bertscore)')
-    parser.add_argument('--dataset', choices=['kis', 'kis_sample', 'squad-dev', 'squad-train'], required=True, help='Dataset to use (kis, kis_sample, squad-dev, squad-train)')
     parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
     parser.add_argument('--maxQuestion', required=False, default=None ,type=int, help='Maximum number of questions to test')
     parser.add_argument('--maxKnowledge', required=False, default=None ,type=int, help='Maximum number of knowledge items to use')
     parser.add_argument('--maxParagraph', required=False, default=None ,type=int, help='Maximum number of paragraph to use')
+    parser.add_argument('--dataset', required=True, help='Dataset to use (kis, kis_sample, squad-dev, squad-train)', 
+                        choices=['kis', 'kis_sample', 
+                                'squad-dev', 'squad-train', 
+                                'hotpotqa-dev',  'hotpotqa-train', 'hotpotqa-test'])
     # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
     
     args = parser.parse_args()
