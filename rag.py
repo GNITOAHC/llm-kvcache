@@ -176,13 +176,10 @@ def get_hotpotqa_dataset(filepath: str, max_knowledge: int = None):
 
         text_list.append(article)
     
-    for i, qa in enumerate(data[:max_knowledge]):
-        question = qa['question']
-        text_list.append(question)
-    
     return text_list, dataset
     
 def rag_test(args: argparse.Namespace):
+    answer_instruction = None
     if args.dataset == "kis_sample":
         datapath = "./datasets/rag_sample_qas_from_kis.csv"
         text_list, dataset = get_kis_dataset(datapath)
@@ -195,15 +192,22 @@ def rag_test(args: argparse.Namespace):
     if args.dataset == "squad-train":
         datapath = "./datasets/squad/train-v1.1.json"
         text_list, dataset = get_squad_dataset(datapath, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
+        answer_instruction = "Answer the question with a super short answer."
     if args.dataset == "hotpotqa-dev":
         datapath = "./datasets/hotpotqa/hotpot_dev_fullwiki_v1.json"
         text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
+        answer_instruction
     if args.dataset == "hotpotqa-test":
         datapath = "./datasets/hotpotqa/hotpot_test_fullwiki_v1.json"
         text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
+        answer_instruction = "Answer the question with a super short answer."
     if args.dataset == "hotpotqa-train":
         datapath = "./datasets/hotpotqa/hotpot_train_v1.1.json"
         text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
+        answer_instruction = "Answer the question with a super short answer."
+        
+    if answer_instruction != None:
+        answer_instruction = "Answer the question with a super short answer."
     
     kvcache_path = "./data_cache/cache_knowledges.pt"
     # document indexing for the rag retriever
@@ -253,7 +257,7 @@ def rag_test(args: argparse.Namespace):
     ------------------------------------------------
     {knowledge}
     ------------------------------------------------
-    Answer the question with a super short answer.
+    {answer_instruction}
     Question:
     {question}
     <|eot_id|>
@@ -275,8 +279,9 @@ def rag_test(args: argparse.Namespace):
         generated_text = generated_text[generated_text.find(question) + len(question):]
         generated_text = generated_text[generated_text.find('assistant') + len('assistant'):].lstrip()
         
-
-        print(generated_text)
+        # print("R: ", knowledge)
+        print("Q: ", question)
+        print("A: ", generated_text)
         
         # Evaluate bert-score similarity
         similarity = get_bert_similarity(generated_text, ground_truth)

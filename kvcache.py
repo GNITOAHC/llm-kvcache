@@ -175,9 +175,11 @@ def get_bert_similarity(response, ground_truth):
 
     return cosine_score.item()
 
-def prepare_kvcache(documents, filepath: str = "./data_cache/cache_knowledges.pt"):
+def prepare_kvcache(documents, filepath: str = "./data_cache/cache_knowledges.pt", answer_instruction: str = None):
     # Prepare the knowledges kvcache
     
+    if answer_instruction == None:
+        answer_instruction = "Answer the question with a super short answer."
     knowledges = f"""
     <|begin_of_text|>
     <|start_header_id|>system<|end_header_id|>
@@ -187,7 +189,7 @@ def prepare_kvcache(documents, filepath: str = "./data_cache/cache_knowledges.pt
     ------------------------------------------------
     {documents}
     ------------------------------------------------
-    Answer the question with a super short answer.
+    {answer_instruction}
     Question:
     """
     # Get the knowledge cache
@@ -279,13 +281,10 @@ def get_hotpotqa_dataset(filepath: str, max_knowledge: int = None):
 
         text_list.append(article)
     
-    for i, qa in enumerate(data[:max_knowledge]):
-        question = qa['question']
-        text_list.append(question)
-    
     return text_list, dataset
     
 def kvcache_test(args: argparse.Namespace):
+    answer_instruction = None
     if args.dataset == "kis_sample":
         datapath = "./datasets/rag_sample_qas_from_kis.csv"
         text_list, dataset = get_kis_dataset(datapath)
@@ -298,20 +297,24 @@ def kvcache_test(args: argparse.Namespace):
     if args.dataset == "squad-train":
         datapath = "./datasets/squad/train-v1.1.json"
         text_list, dataset = get_squad_dataset(datapath, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
+        answer_instruction = "Answer the question with a super short answer."
     if args.dataset == "hotpotqa-dev":
         datapath = "./datasets/hotpotqa/hotpot_dev_fullwiki_v1.json"
         text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
+        answer_instruction = "Answer the question with a super short answer."
     if args.dataset == "hotpotqa-test":
         datapath = "./datasets/hotpotqa/hotpot_test_fullwiki_v1.json"
         text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
+        answer_instruction = "Answer the question with a super short answer."
     if args.dataset == "hotpotqa-train":
         datapath = "./datasets/hotpotqa/hotpot_train_v1.1.json"
         text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
+        answer_instruction = "Answer the question with a super short answer."
     
     kvcache_path = "./data_cache/cache_knowledges.pt"
 
     knowledges = '\n\n\n\n\n\n'.join(text_list)
-    knowledge_cache, prepare_time = prepare_kvcache(knowledges, filepath=kvcache_path)
+    knowledge_cache, prepare_time = prepare_kvcache(knowledges, filepath=kvcache_path, answer_instruction=answer_instruction)
     kv_len = knowledge_cache.key_cache[0].shape[-2]
     print(f"KVcache prepared in {prepare_time} seconds")
     with open(args.output, "a") as f:
@@ -350,18 +353,41 @@ def kvcache_test(args: argparse.Namespace):
         
         # Generate Response for the question
         knowledges = '\n\n\n'.join(text_list)
-        print("Q: ",question)
-        prompt = f"""
+        
+        if args.usePrompt:
+            prompt = f"""
+    <|begin_of_text|>
+    <|start_header_id|>system<|end_header_id|>
+    You are an assistant for giving short answers based on given context.<|eot_id|>
+    <|start_header_id|>user<|end_header_id|>
+    Context information is bellow.
+    ------------------------------------------------
+    {knowledges}
+    ------------------------------------------------
+    {answer_instruction}
+    Question:
     {question}<|eot_id|>
     <|start_header_id|>assistant<|end_header_id|>
     """
-        generate_t1 = time()
-        clean_up(knowledge_cache, kv_len)
-        input_ids = tokenizer.encode( prompt , return_tensors="pt" ).to(model.device)
-        output = generate(model, input_ids, knowledge_cache) #knowledge_cache)
-        generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
-        generate_t2 = time() 
+            generate_t1 = time()
+            input_ids = tokenizer.encode( prompt , return_tensors="pt" ).to(model.device)
+            output = generate(model, input_ids, DynamicCache()) #knowledge_cache)
+            generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
+            generate_t2 = time() 
+        else:
+            prompt = f"""
+    {question}<|eot_id|>
+    <|start_header_id|>assistant<|end_header_id|>
+    """     
+            generate_t1 = time()
+            clean_up(knowledge_cache, kv_len)
+            input_ids = tokenizer.encode( prompt , return_tensors="pt" ).to(model.device)
+            output = generate(model, input_ids, knowledge_cache) #knowledge_cache)
+            generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
+            generate_t2 = time() 
         
+        # print("D: ", knowledges)
+        print("Q: ",question)
         print("A: ", generated_text)
         
         # Evaluate bert-score similarity
@@ -439,6 +465,7 @@ if __name__ == "__main__":
     parser.add_argument('--maxQuestion', required=False, default=None ,type=int, help='Maximum number of questions to test')
     parser.add_argument('--maxKnowledge', required=False, default=None ,type=int, help='Maximum number of knowledge items to use')
     parser.add_argument('--maxParagraph', required=False, default=None ,type=int, help='Maximum number of paragraph to use')
+    parser.add_argument('--usePrompt', default=False, action="store_true", help='Do not use cache')
     parser.add_argument('--dataset', required=True, help='Dataset to use (kis, kis_sample, squad-dev, squad-train)', 
                         choices=['kis', 'kis_sample', 
                                 'squad-dev', 'squad-train', 
