@@ -11,7 +11,7 @@
 # datasets=("squad-train")
 # when k = 3, tokens = 21,000
 # when k = 4, tokens = 32,000
-# when k = 5, tokens = 50,000
+# when k = 7, tokens = 50,000
 
 
 # 在這裡自訂 k 和 p 的值
