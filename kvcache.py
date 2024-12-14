@@ -500,6 +500,7 @@ if __name__ == "__main__":
     
     def unique_path(path, i=0):
         if os.path.exists(path):
+            path = path.split("_")[:-1] if i != 0 else path
             return unique_path(path + "_" + str(i), i + 1)
         return path
     

@@ -1,10 +1,10 @@
 #!/bin/bash
-logfilename="./log/random-squad.log"
+logfilename="./log/random-squad-k3.log"
 # while log file exists, create a new one called random_i.log
 i=1
 while [ -f $logfilename ]; do
     echo "log file ${logfilename} exists, create a new one"
-    logfilename="./log/random-squad$i.log"
+    logfilename="./log/random-squad$i-k3_$i.log"
     i=$(($i+1))
 done
 
@@ -21,7 +21,7 @@ datasets=("squad-train")
 # models=("3.1-8B" "3.2-3B" "3.2-1B")
 models=("3.1-8B")
 indices=("openai" "bm25")
-maxQuestions=("300")
+maxQuestions=("500")
 top_k=("1" "3" "5" "10" "20")
 
 for dataset in "${datasets[@]}"; do
@@ -51,6 +51,7 @@ for dataset in "${datasets[@]}"; do
       for topk in "${top_k[@]}"; do
           for index in "${indices[@]}"; do
             echo "Running RAG with $index for $dataset, maxKnowledge $k, maxParagraph $p, maxQuestion $maxQuestion, model $model, topk ${topk}"
+            echo "Running RAG with $index for $dataset, maxKnowledge $k, maxParagraph $p, maxQuestion $maxQuestion, model $model, topk ${topk}" >> $logfilename
             python ./rag.py --index "$index" --dataset "$dataset" --similarity bertscore \
               --maxKnowledge "$k" --maxParagraph "$p" --maxQuestion "$maxQuestion" --topk "$topk" \
               --modelname "meta-llama/Llama-${model}-Instruct" --randomSeed  "$randomSeed" \
