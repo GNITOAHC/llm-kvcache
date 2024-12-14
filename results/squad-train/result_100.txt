@@ -1,0 +1,59 @@
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_kvcache.txt <==
+Prepare time: 18.585257053375244
+Average Semantic Similarity: 0.8885451984405518
+cache time: 2.551078796386719e-07,	 generate time: 1.28068532705307
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_kvcache_nokv.txt <==
+Prepare time: 19.009918212890625
+Average Semantic Similarity: 0.8784847816824913
+cache time: 3.552436828613281e-07,	 generate time: 15.902107355594636
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_bm25.txt_top1 <==
+Prepare time: 0.10552668571472168
+Average Semantic Similarity: 0.7591245871782303
+retrieve time: 0.0007642364501953125,	 generate time: 0.4394077229499817
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_bm25.txt_top10 <==
+Prepare time: 0.10452532768249512
+Average Semantic Similarity: 0.8169034662470221
+retrieve time: 0.0014350318908691406,	 generate time: 1.547817735671997
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_bm25.txt_top20 <==
+Prepare time: 0.1041104793548584
+Average Semantic Similarity: 0.8310278619080782
+retrieve time: 0.0019459223747253418,	 generate time: 3.1352715373039244
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_bm25.txt_top3 <==
+Prepare time: 0.10410094261169434
+Average Semantic Similarity: 0.841717935912311
+retrieve time: 0.0009348511695861817,	 generate time: 0.6426151299476623
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_bm25.txt_top5 <==
+Prepare time: 0.10542821884155273
+Average Semantic Similarity: 0.826730487793684
+retrieve time: 0.0010776162147521974,	 generate time: 0.8762677240371705
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_openai.txt_top1 <==
+Prepare time: 4.45135760307312
+Average Semantic Similarity: 0.6236632284708321
+retrieve time: 0.4218994832038879,	 generate time: 0.6254228377342224
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_openai.txt_top10 <==
+Prepare time: 3.827826738357544
+Average Semantic Similarity: 0.8270956710726023
+retrieve time: 0.38052165508270264,	 generate time: 2.9635905981063844
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_openai.txt_top20 <==
+Prepare time: 3.8671607971191406
+Average Semantic Similarity: 0.8464079262129962
+retrieve time: 0.7737284708023071,	 generate time: 6.533844940662384
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_openai.txt_top3 <==
+Prepare time: 3.514402151107788
+Average Semantic Similarity: 0.7206099829636514
+retrieve time: 0.40508556842803956,	 generate time: 1.069715964794159
+
+==> 100/result_3.1-8B_k3_p100_q100_squad-train_bertscore_rag_Index_openai.txt_top5 <==
+Prepare time: 4.288637161254883
+Average Semantic Similarity: 0.7576022351719439
+retrieve time: 0.35877037048339844,	 generate time: 1.5828904008865357

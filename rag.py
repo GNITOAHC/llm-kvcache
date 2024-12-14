@@ -8,6 +8,7 @@ import argparse
 import os
 import json
 from transformers import BitsAndBytesConfig
+import random
 
 def get_env():
     env_dict = {}
@@ -20,6 +21,7 @@ def get_env():
 """Hugging Face Llama model"""
 HF_TOKEN = get_env()["HF_TOKEN"]
 global model_name, model, tokenizer
+global rand_seed
 
 # Allowlist the DynamicCache class
 torch.serialization.add_safe_globals([DynamicCache])
@@ -138,6 +140,12 @@ def get_squad_dataset(filepath: str, max_knowledge: int = None, max_paragraph: i
     # Set the limit Maximum Articles, use all Articles if max_knowledge is None or greater than the number of Articles
     max_knowledge = max_knowledge if max_knowledge != None and max_knowledge < len(parsed_data['ki_text']) else len(parsed_data['ki_text'])
     
+    # Shuffle the Articles and Questions
+    if rand_seed != None:
+        random.seed(rand_seed)
+        random.shuffle(parsed_data["ki_text"])
+        random.shuffle(parsed_data["qas"])
+        
     text_list = []
     # Get the knowledge Articles for at most max_knowledge, or all Articles if max_knowledge is None
     for article in parsed_data['ki_text'][:max_knowledge]:
@@ -158,6 +166,10 @@ def get_hotpotqa_dataset(filepath: str, max_knowledge: int = None):
     # Open and read the JSON
     with open (filepath, "r") as file:
         data = json.load(file)
+    
+    if rand_seed != None:
+        random.seed(rand_seed)
+        random.shuffle(data)
     
     questions = [ qa['question'] for qa in data ]
     answers = [ qa['answer'] for qa in data ]
@@ -233,10 +245,6 @@ def rag_test(args: argparse.Namespace):
     }
     
     dataset = list(dataset) # Convert the dataset to a list
-    
-    # shuffle the dataset
-    # from random import shuffle
-    # shuffle(dataset)
     
     max_questions = min(len(dataset), args.maxQuestion) if args.maxQuestion != None else len(dataset)
     
@@ -364,14 +372,16 @@ if __name__ == "__main__":
                         choices=['kis', 'kis_sample', 
                                 'squad-dev', 'squad-train', 
                                 'hotpotqa-dev',  'hotpotqa-train', 'hotpotqa-test'])
+    parser.add_argument('--randomSeed', required=False, default=None, type=int, help='Random seed to use')
     
     # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
     
     args = parser.parse_args()
     
-    print("maxKnowledge", args.maxKnowledge, "maxParagraph", args.maxParagraph, "maxQuestion", args.maxQuestion)
+    print("maxKnowledge", args.maxKnowledge, "maxParagraph", args.maxParagraph, "maxQuestion", args.maxQuestion, "randomSeed", args.randomSeed)
     
     model_name = args.modelname
+    rand_seed = args.randomSeed if args.randomSeed != None else None
     
     if args.quantized:
         tokenizer, model = load_quantized_model(model_name=model_name, hf_token=HF_TOKEN)

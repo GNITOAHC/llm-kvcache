@@ -1,0 +1,59 @@
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_kvcache.txt <==
+Prepare time: 19.51284646987915
+Average Semantic Similarity: 0.8555654168128968
+cache time: 3.337860107421875e-07,	 generate time: 1.740849208831787
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_kvcache_nokv.txt <==
+Prepare time: 19.49590492248535
+Average Semantic Similarity: 0.8428342193365097
+cache time: 3.0994415283203126e-07,	 generate time: 17.35636487007141
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_bm25.txt_top1 <==
+Prepare time: 0.09370779991149902
+Average Semantic Similarity: 0.6796816140413284
+retrieve time: 0.0007103443145751953,	 generate time: 0.5175054550170899
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_bm25.txt_top10 <==
+Prepare time: 0.09279370307922363
+Average Semantic Similarity: 0.819673053920269
+retrieve time: 0.0012917518615722656,	 generate time: 1.6888731241226196
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_bm25.txt_top20 <==
+Prepare time: 0.09545040130615234
+Average Semantic Similarity: 0.8008167296648026
+retrieve time: 0.0018746376037597657,	 generate time: 3.453539490699768
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_bm25.txt_top3 <==
+Prepare time: 0.09330892562866211
+Average Semantic Similarity: 0.7716835618019104
+retrieve time: 0.0008865118026733399,	 generate time: 0.816478157043457
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_bm25.txt_top5 <==
+Prepare time: 0.09229063987731934
+Average Semantic Similarity: 0.8257297083735466
+retrieve time: 0.0009485006332397461,	 generate time: 0.9767526388168335
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_openai.txt_top1 <==
+Prepare time: 1.865340232849121
+Average Semantic Similarity: 0.43805950339883565
+retrieve time: 0.3277045488357544,	 generate time: 0.7414702415466309
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_openai.txt_top10 <==
+Prepare time: 2.6186749935150146
+Average Semantic Similarity: 0.8654432535171509
+retrieve time: 0.32403404712677003,	 generate time: 3.090544509887695
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_openai.txt_top20 <==
+Prepare time: 2.0327088832855225
+Average Semantic Similarity: 0.8422338128089905
+retrieve time: 0.4440479278564453,	 generate time: 6.793837213516236
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_openai.txt_top3 <==
+Prepare time: 4.100481033325195
+Average Semantic Similarity: 0.577433560974896
+retrieve time: 0.40646498203277587,	 generate time: 1.275786852836609
+
+==> 10/result_3.1-8B_k3_p100_q10_squad-train_bertscore_rag_Index_openai.txt_top5 <==
+Prepare time: 4.478644609451294
+Average Semantic Similarity: 0.6697984518483281
+retrieve time: 0.3562087297439575,	 generate time: 1.8011574745178223

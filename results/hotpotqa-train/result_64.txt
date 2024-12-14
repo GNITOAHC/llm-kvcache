@@ -1,0 +1,59 @@
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_kvcache.txt <==
+Prepare time: 105.25069832801819
+Average Semantic Similarity: 0.7273091897368431
+cache time: 2.7194619178771973e-07,	 generate time: 2.040836650878191
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_kvcache_nokv.txt <==
+Prepare time: 105.47825455665588
+Average Semantic Similarity: 0.7206488029332832
+cache time: 3.0547380447387695e-07,	 generate time: 97.62050629779696
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_bm25.txt_top1 <==
+Prepare time: 0.24304485321044922
+Average Semantic Similarity: 0.6741885425872169
+retrieve time: 0.000764407217502594,	 generate time: 0.6564451344311237
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_bm25.txt_top10 <==
+Prepare time: 0.24488472938537598
+Average Semantic Similarity: 0.7436606559203938
+retrieve time: 0.0013345330953598022,	 generate time: 1.517363540828228
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_bm25.txt_top20 <==
+Prepare time: 0.24429678916931152
+Average Semantic Similarity: 0.7534270109026693
+retrieve time: 0.001871395856142044,	 generate time: 3.0099829770624638
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_bm25.txt_top3 <==
+Prepare time: 0.24465441703796387
+Average Semantic Similarity: 0.7295326698804274
+retrieve time: 0.0008909143507480621,	 generate time: 0.6406074948608875
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_bm25.txt_top5 <==
+Prepare time: 0.2484145164489746
+Average Semantic Similarity: 0.7408455538097769
+retrieve time: 0.0010445229709148407,	 generate time: 0.8338760025799274
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_openai.txt_top1 <==
+Prepare time: 3.401482343673706
+Average Semantic Similarity: 0.6758640233310871
+retrieve time: 0.40354079753160477,	 generate time: 0.6113515272736549
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_openai.txt_top10 <==
+Prepare time: 4.171273708343506
+Average Semantic Similarity: 0.7256886110990308
+retrieve time: 0.5381554029881954,	 generate time: 2.6166666597127914
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_openai.txt_top20 <==
+Prepare time: 3.558892011642456
+Average Semantic Similarity: 0.7170495434547774
+retrieve time: 0.5948309823870659,	 generate time: 6.224820893257856
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_openai.txt_top3 <==
+Prepare time: 3.4729361534118652
+Average Semantic Similarity: 0.7217791848233901
+retrieve time: 0.4230443015694618,	 generate time: 0.9033247902989388
+
+==> 64/result_3.1-8B_k64_q64_hotpotqa-train_bertscore_rag_Index_openai.txt_top5 <==
+Prepare time: 5.068109512329102
+Average Semantic Similarity: 0.7042658115969971
+retrieve time: 0.5161780752241611,	 generate time: 1.4338404349982738
