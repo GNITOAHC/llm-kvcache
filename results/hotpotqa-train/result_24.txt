@@ -1,0 +1,59 @@
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_kvcache.txt <==
+Prepare time: 19.446240663528442
+Average Semantic Similarity: 0.8144704774022102
+cache time: 2.88089116414388e-07,	 generate time: 0.7353280584017435
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_kvcache_nokv.txt <==
+Prepare time: 19.417498111724854
+Average Semantic Similarity: 0.7488137166947126
+cache time: 2.980232238769531e-07,	 generate time: 16.090733031431835
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_bm25.txt_top1 <==
+Prepare time: 0.10630011558532715
+Average Semantic Similarity: 0.6244750889018178
+retrieve time: 0.0008306403954823812,	 generate time: 0.5104218224684397
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_bm25.txt_top10 <==
+Prepare time: 0.10587787628173828
+Average Semantic Similarity: 0.7219429115454356
+retrieve time: 0.0014363030592600505,	 generate time: 1.4414275586605072
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_bm25.txt_top20 <==
+Prepare time: 0.10815024375915527
+Average Semantic Similarity: 0.7405092685172955
+retrieve time: 0.0019008219242095947,	 generate time: 2.8230266074339547
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_bm25.txt_top3 <==
+Prepare time: 0.10663843154907227
+Average Semantic Similarity: 0.7001318614929914
+retrieve time: 0.0009855528672536213,	 generate time: 0.5943831006685892
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_bm25.txt_top5 <==
+Prepare time: 0.10803055763244629
+Average Semantic Similarity: 0.7227588662256798
+retrieve time: 0.0011248389879862468,	 generate time: 0.8197294771671295
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_openai.txt_top1 <==
+Prepare time: 1.8689000606536865
+Average Semantic Similarity: 0.5612363448987404
+retrieve time: 0.48403043548266095,	 generate time: 0.6110082368055979
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_openai.txt_top10 <==
+Prepare time: 4.252166748046875
+Average Semantic Similarity: 0.7265936508774757
+retrieve time: 0.32821084062258404,	 generate time: 2.5662401616573334
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_openai.txt_top20 <==
+Prepare time: 2.1220147609710693
+Average Semantic Similarity: 0.7008361648768187
+retrieve time: 0.7132741411526998,	 generate time: 5.824746449788411
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_openai.txt_top3 <==
+Prepare time: 3.437700033187866
+Average Semantic Similarity: 0.73177037636439
+retrieve time: 0.40114516019821167,	 generate time: 0.8764638503392538
+
+==> 24/result_3.1-8B_k24_q24_hotpotqa-train_bertscore_rag_Index_openai.txt_top5 <==
+Prepare time: 3.811721086502075
+Average Semantic Similarity: 0.6989346891641617
+retrieve time: 0.43902912735939026,	 generate time: 1.3825772802035015
