@@ -1,5 +1,19 @@
 #!/bin/bash
 
+# datasets=("hotpotqa-train")
+# when k = 16, tokens = 21,000
+# when k = 24, tokens = 32,667
+# when k = 32, tokens = 43,000
+# when k = 48, tokens = 64,000
+# when k = 64, tokens = 85,000
+# when k = 80, tokens = 106,000
+
+# datasets=("squad-train")
+# when k = 3, tokens = 21,000
+# when k = 4, tokens = 32,000
+# when k = 5, tokens = 50,000
+
+
 # 在這裡自訂 k 和 p 的值
 # k=3  # 設定 k 值
 # p=100  # 設定 p 值
