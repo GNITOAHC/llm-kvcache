@@ -42,17 +42,17 @@ for dataset in "${datasets[@]}"; do
         echo "Running KVCACHE for $dataset, maxQuestion $maxQuestion, model $model"
         echo "Running KVCACHE for $dataset, maxQuestion $maxQuestion, model $model" >> $logfilename
         python ./kvcache.py --kvcache file --dataset "$dataset" --similarity bertscore \
-          --maxKnowledge "$k" --maxQuestion "$maxQuestion" --usePrompt \
+          --maxKnowledge "$k" --maxQuestion "$k" --usePrompt \
           --modelname "meta-llama/Llama-${model}-Instruct" --randomSeed  "$randomSeed" \
-          --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_kvcache_nokv.txt"
+          --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_kvcache_nokv.txt_${i}"
 
         # Run KVCACHE
         echo "Running KVCACHE for $dataset, maxQuestion $maxQuestion, model $model"
         echo "Running KVCACHE for $dataset, maxQuestion $maxQuestion, model $model" >> $logfilename
         python ./kvcache.py --kvcache file --dataset "$dataset" --similarity bertscore \
-          --maxKnowledge "$k" --maxQuestion "$maxQuestion" \
+          --maxKnowledge "$k" --maxQuestion "$k" \
           --modelname "meta-llama/Llama-${model}-Instruct" --randomSeed  "$randomSeed" \
-          --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_kvcache.txt"
+          --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_kvcache.txt_${i}"
         
         # Run RAG
         for topk in "${top_k[@]}"; do
@@ -60,12 +60,13 @@ for dataset in "${datasets[@]}"; do
               echo "Running RAG with $index for $dataset, maxKnowledge $k, maxParagraph $p, maxQuestion $maxQuestion, model $model, topk ${topk}"
               echo "Running RAG with $index for $dataset, maxKnowledge $k, maxParagraph $p, maxQuestion $maxQuestion, model $model, topk ${topk}" >> $logfilename
               python ./rag.py --index "$index" --dataset "$dataset" --similarity bertscore \
-                --maxKnowledge "$k" --maxQuestion "$maxQuestion" --topk "$topk" \
+                --maxKnowledge "$k" --maxQuestion "$k" --topk "$topk" \
                 --modelname "meta-llama/Llama-${model}-Instruct" --randomSeed  "$randomSeed" \
-                --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_rag_Index_${index}.txt_top${topk}" 
+                --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_rag_Index_${index}_top${topk}.txt_${i}" 
             done
         done
         
+      done
     done
   done
 done
@@ -93,28 +94,32 @@ for dataset in "${datasets[@]}"; do
         # Run KVCACHE without cache
         echo "Running KVCACHE for $dataset, maxQuestion $maxQuestion, model $model" >> $logfilename
         python ./kvcache.py --kvcache file --dataset "$dataset" --similarity bertscore \
-          --maxKnowledge "$k" --maxQuestion "$maxQuestion" --usePrompt \
+          --maxKnowledge "$k" --maxQuestion "$k" --usePrompt \
           --modelname "meta-llama/Llama-${model}-Instruct" --randomSeed  "$randomSeed" \
-          --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_kvcache_nokv.txt"
+          --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_kvcache_nokv.txt_${i}"
 
         # Run KVCACHE
         echo "Running KVCACHE for $dataset, maxQuestion $maxQuestion, model $model" >> $logfilename
         python ./kvcache.py --kvcache file --dataset "$dataset" --similarity bertscore \
-          --maxKnowledge "$k" --maxQuestion "$maxQuestion" \
+          --maxKnowledge "$k" --maxQuestion "$k" \
           --modelname "meta-llama/Llama-${model}-Instruct" --randomSeed  "$randomSeed" \
-          --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_kvcache.txt"
+          --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_kvcache.txt_${i}"
         
         # Run RAG
         for topk in "${top_k[@]}"; do
             for index in "${indices[@]}"; do
               echo "Running RAG with $index for $dataset, maxKnowledge $k, maxParagraph $p, maxQuestion $maxQuestion, model $model, topk ${topk}" >> $logfilename
               python ./rag.py --index "$index" --dataset "$dataset" --similarity bertscore \
-                --maxKnowledge "$k" --maxQuestion "$maxQuestion" --topk "$topk" \
+                --maxKnowledge "$k" --maxQuestion "$k" --topk "$topk" \
                 --modelname "meta-llama/Llama-${model}-Instruct" --randomSeed  "$randomSeed" \
-                --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_rag_Index_${index}.txt_top${topk}" 
+                --output "./random_results/${dataset}/${k}/result_${model}_k${k}_q${maxQuestion}_${dataset}_bertscore_rag_Index_${index}_top${topk}.txt_${i}" 
             done
         done
-        
+      
+
+      done
     done
   done
 done
+
+echo "All done" >> $logfilename

@@ -1,0 +1,38 @@
+Retriever BM25 prepared in 0.07357287406921387 seconds
+[0]: Semantic Similarity: 0.98623,	 retrieve time: 0.002162933349609375,	 generate time: 2.9069979190826416
+[0]: [Cumulative]: Semantic Similarity: 0.98623,	 retrieve time: 0.002162933349609375,	 generate time: 2.9069979190826416
+[1]: Semantic Similarity: 0.31877,	 retrieve time: 0.0018949508666992188,	 generate time: 3.57309627532959
+[1]: [Cumulative]: Semantic Similarity: 0.6525,	 retrieve time: 0.002028942108154297,	 generate time: 3.2400470972061157
+[2]: Semantic Similarity: 0.96117,	 retrieve time: 0.001987457275390625,	 generate time: 2.5038182735443115
+[2]: [Cumulative]: Semantic Similarity: 0.75539,	 retrieve time: 0.0020151138305664062,	 generate time: 2.9946374893188477
+[3]: Semantic Similarity: 0.07262,	 retrieve time: 0.0019829273223876953,	 generate time: 4.922613143920898
+[3]: [Cumulative]: Semantic Similarity: 0.5847,	 retrieve time: 0.0020070672035217285,	 generate time: 3.4766314029693604
+[4]: Semantic Similarity: 1.0,	 retrieve time: 0.0019469261169433594,	 generate time: 2.750905990600586
+[4]: [Cumulative]: Semantic Similarity: 0.66776,	 retrieve time: 0.0019950389862060545,	 generate time: 3.3314863204956056
+[5]: Semantic Similarity: 0.5453,	 retrieve time: 0.001971006393432617,	 generate time: 2.688870906829834
+[5]: [Cumulative]: Semantic Similarity: 0.64735,	 retrieve time: 0.0019910335540771484,	 generate time: 3.22438375155131
+[6]: Semantic Similarity: 0.99056,	 retrieve time: 0.0019745826721191406,	 generate time: 2.833299398422241
+[6]: [Cumulative]: Semantic Similarity: 0.69638,	 retrieve time: 0.0019886834280831473,	 generate time: 3.1685145582471574
+[7]: Semantic Similarity: 1.0,	 retrieve time: 0.0020856857299804688,	 generate time: 2.662198305130005
+[7]: [Cumulative]: Semantic Similarity: 0.73433,	 retrieve time: 0.0020008087158203125,	 generate time: 3.1052250266075134
+[8]: Semantic Similarity: 0.97478,	 retrieve time: 0.001971006393432617,	 generate time: 2.704519748687744
+[8]: [Cumulative]: Semantic Similarity: 0.76105,	 retrieve time: 0.001997497346666124,	 generate time: 3.0607022179497614
+[9]: Semantic Similarity: 0.57729,	 retrieve time: 0.001983165740966797,	 generate time: 4.482355356216431
+[9]: [Cumulative]: Semantic Similarity: 0.74267,	 retrieve time: 0.0019960641860961915,	 generate time: 3.202867531776428
+[10]: Semantic Similarity: 0.97764,	 retrieve time: 0.0022225379943847656,	 generate time: 2.982113838195801
+[10]: [Cumulative]: Semantic Similarity: 0.76403,	 retrieve time: 0.0020166527141224255,	 generate time: 3.1827990141781894
+[11]: Semantic Similarity: 0.9802,	 retrieve time: 0.001992940902709961,	 generate time: 2.8394808769226074
+[11]: [Cumulative]: Semantic Similarity: 0.78205,	 retrieve time: 0.0020146767298380532,	 generate time: 3.154189169406891
+[12]: Semantic Similarity: 0.1743,	 retrieve time: 0.001974821090698242,	 generate time: 3.8425967693328857
+[12]: [Cumulative]: Semantic Similarity: 0.7353,	 retrieve time: 0.002011610911442683,	 generate time: 3.2071436001704288
+[13]: Semantic Similarity: 0.85818,	 retrieve time: 0.0020046234130859375,	 generate time: 3.0815117359161377
+[13]: [Cumulative]: Semantic Similarity: 0.74407,	 retrieve time: 0.0020111118044172016,	 generate time: 3.1981698955808366
+[14]: Semantic Similarity: 0.9814,	 retrieve time: 0.0019850730895996094,	 generate time: 2.9355721473693848
+[14]: [Cumulative]: Semantic Similarity: 0.7599,	 retrieve time: 0.0020093758900960284,	 generate time: 3.1806633790334065
+[15]: Semantic Similarity: 0.08456,	 retrieve time: 0.0019252300262451172,	 generate time: 3.6391732692718506
+[15]: [Cumulative]: Semantic Similarity: 0.71769,	 retrieve time: 0.0020041167736053467,	 generate time: 3.2093202471733093
+
+Result for hotpotqa-train/16/result_3.1-8B_k16_q500_hotpotqa-train_bertscore_rag_Index_bm25_top20.txt_6
+Prepare time: 0.07357287406921387
+Average Semantic Similarity: 0.7176879048347473
+retrieve time: 0.0020041167736053467,	 generate time: 3.2093202471733093

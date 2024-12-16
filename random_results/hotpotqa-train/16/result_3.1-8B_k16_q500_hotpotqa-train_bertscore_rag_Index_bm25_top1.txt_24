@@ -1,0 +1,38 @@
+Retriever BM25 prepared in 0.07750821113586426 seconds
+[0]: Semantic Similarity: 0.98346,	 retrieve time: 0.0011854171752929688,	 generate time: 0.4971933364868164
+[0]: [Cumulative]: Semantic Similarity: 0.98346,	 retrieve time: 0.0011854171752929688,	 generate time: 0.4971933364868164
+[1]: Semantic Similarity: 0.19092,	 retrieve time: 0.0009672641754150391,	 generate time: 0.4805130958557129
+[1]: [Cumulative]: Semantic Similarity: 0.58719,	 retrieve time: 0.001076340675354004,	 generate time: 0.48885321617126465
+[2]: Semantic Similarity: 0.17148,	 retrieve time: 0.0008783340454101562,	 generate time: 0.9429445266723633
+[2]: [Cumulative]: Semantic Similarity: 0.44862,	 retrieve time: 0.0010103384653727214,	 generate time: 0.6402169863382975
+[3]: Semantic Similarity: 0.98598,	 retrieve time: 0.0009806156158447266,	 generate time: 0.2561330795288086
+[3]: [Cumulative]: Semantic Similarity: 0.58296,	 retrieve time: 0.0010029077529907227,	 generate time: 0.5441960096359253
+[4]: Semantic Similarity: 0.88587,	 retrieve time: 0.0009987354278564453,	 generate time: 0.4161238670349121
+[4]: [Cumulative]: Semantic Similarity: 0.64354,	 retrieve time: 0.0010020732879638672,	 generate time: 0.5185815811157226
+[5]: Semantic Similarity: 0.96829,	 retrieve time: 0.0009586811065673828,	 generate time: 0.19641375541687012
+[5]: [Cumulative]: Semantic Similarity: 0.69767,	 retrieve time: 0.0009948412577311199,	 generate time: 0.46488694349924725
+[6]: Semantic Similarity: 0.72125,	 retrieve time: 0.0010421276092529297,	 generate time: 0.22580361366271973
+[6]: [Cumulative]: Semantic Similarity: 0.70104,	 retrieve time: 0.001001596450805664,	 generate time: 0.430732182094029
+[7]: Semantic Similarity: 0.13703,	 retrieve time: 0.0009565353393554688,	 generate time: 1.019139051437378
+[7]: [Cumulative]: Semantic Similarity: 0.63054,	 retrieve time: 0.0009959638118743896,	 generate time: 0.5042830407619476
+[8]: Semantic Similarity: 0.98158,	 retrieve time: 0.0009450912475585938,	 generate time: 0.3839240074157715
+[8]: [Cumulative]: Semantic Similarity: 0.66954,	 retrieve time: 0.0009903113047281902,	 generate time: 0.4909098148345947
+[9]: Semantic Similarity: 0.0606,	 retrieve time: 0.0008921623229980469,	 generate time: 0.4154641628265381
+[9]: [Cumulative]: Semantic Similarity: 0.60865,	 retrieve time: 0.0009804964065551758,	 generate time: 0.4833652496337891
+[10]: Semantic Similarity: 0.8066,	 retrieve time: 0.0009729862213134766,	 generate time: 0.2893240451812744
+[10]: [Cumulative]: Semantic Similarity: 0.62664,	 retrieve time: 0.0009798136624422941,	 generate time: 0.4657251401381059
+[11]: Semantic Similarity: 0.83686,	 retrieve time: 0.0009369850158691406,	 generate time: 0.19482970237731934
+[11]: [Cumulative]: Semantic Similarity: 0.64416,	 retrieve time: 0.0009762446085611979,	 generate time: 0.44315052032470703
+[12]: Semantic Similarity: 0.00072,	 retrieve time: 0.0009777545928955078,	 generate time: 0.2266240119934082
+[12]: [Cumulative]: Semantic Similarity: 0.59466,	 retrieve time: 0.0009763607612022987,	 generate time: 0.42649463506845325
+[13]: Semantic Similarity: 0.73588,	 retrieve time: 0.0010068416595458984,	 generate time: 0.44945263862609863
+[13]: [Cumulative]: Semantic Similarity: 0.60475,	 retrieve time: 0.0009785379682268416,	 generate time: 0.42813449246542795
+[14]: Semantic Similarity: 0.98023,	 retrieve time: 0.0009744167327880859,	 generate time: 0.25918078422546387
+[14]: [Cumulative]: Semantic Similarity: 0.62978,	 retrieve time: 0.0009782632191975911,	 generate time: 0.416870911916097
+[15]: Semantic Similarity: 0.26913,	 retrieve time: 0.000997781753540039,	 generate time: 0.2595059871673584
+[15]: [Cumulative]: Semantic Similarity: 0.60724,	 retrieve time: 0.0009794831275939941,	 generate time: 0.40703560411930084
+
+Result for hotpotqa-train/16/result_3.1-8B_k16_q500_hotpotqa-train_bertscore_rag_Index_bm25_top1.txt_24
+Prepare time: 0.07750821113586426
+Average Semantic Similarity: 0.6072423921432346
+retrieve time: 0.0009794831275939941,	 generate time: 0.40703560411930084

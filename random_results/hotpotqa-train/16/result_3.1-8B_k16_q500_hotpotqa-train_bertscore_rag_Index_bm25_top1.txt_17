@@ -1,0 +1,38 @@
+Retriever BM25 prepared in 0.06148886680603027 seconds
+[0]: Semantic Similarity: 0.83686,	 retrieve time: 0.0010111331939697266,	 generate time: 0.7189822196960449
+[0]: [Cumulative]: Semantic Similarity: 0.83686,	 retrieve time: 0.0010111331939697266,	 generate time: 0.7189822196960449
+[1]: Semantic Similarity: 0.96483,	 retrieve time: 0.0009202957153320312,	 generate time: 0.2551078796386719
+[1]: [Cumulative]: Semantic Similarity: 0.90084,	 retrieve time: 0.0009657144546508789,	 generate time: 0.4870450496673584
+[2]: Semantic Similarity: 0.98058,	 retrieve time: 0.0007710456848144531,	 generate time: 0.3278045654296875
+[2]: [Cumulative]: Semantic Similarity: 0.92742,	 retrieve time: 0.0009008248647054037,	 generate time: 0.43396488825480145
+[3]: Semantic Similarity: 0.09016,	 retrieve time: 0.0006291866302490234,	 generate time: 0.36335277557373047
+[3]: [Cumulative]: Semantic Similarity: 0.71811,	 retrieve time: 0.0008329153060913086,	 generate time: 0.4163118600845337
+[4]: Semantic Similarity: 0.69481,	 retrieve time: 0.0006277561187744141,	 generate time: 0.43921446800231934
+[4]: [Cumulative]: Semantic Similarity: 0.71345,	 retrieve time: 0.0007918834686279297,	 generate time: 0.42089238166809084
+[5]: Semantic Similarity: 0.98519,	 retrieve time: 0.0006506443023681641,	 generate time: 0.3245830535888672
+[5]: [Cumulative]: Semantic Similarity: 0.75874,	 retrieve time: 0.0007683436075846354,	 generate time: 0.4048408269882202
+[6]: Semantic Similarity: 0.97745,	 retrieve time: 0.0006229877471923828,	 generate time: 0.28992295265197754
+[6]: [Cumulative]: Semantic Similarity: 0.78998,	 retrieve time: 0.0007475784846714564,	 generate time: 0.3884239877973284
+[7]: Semantic Similarity: 0.87022,	 retrieve time: 0.0005974769592285156,	 generate time: 0.40077877044677734
+[7]: [Cumulative]: Semantic Similarity: 0.80001,	 retrieve time: 0.0007288157939910889,	 generate time: 0.3899683356285095
+[8]: Semantic Similarity: 0.0941,	 retrieve time: 0.0006167888641357422,	 generate time: 0.5137977600097656
+[8]: [Cumulative]: Semantic Similarity: 0.72158,	 retrieve time: 0.0007163683573404948,	 generate time: 0.4037271605597602
+[9]: Semantic Similarity: 0.96622,	 retrieve time: 0.0006604194641113281,	 generate time: 0.36480712890625
+[9]: [Cumulative]: Semantic Similarity: 0.74604,	 retrieve time: 0.0007107734680175781,	 generate time: 0.39983515739440917
+[10]: Semantic Similarity: 0.46209,	 retrieve time: 0.0006031990051269531,	 generate time: 0.2900400161743164
+[10]: [Cumulative]: Semantic Similarity: 0.72023,	 retrieve time: 0.0007009939713911576,	 generate time: 0.3898537809198553
+[11]: Semantic Similarity: 0.58161,	 retrieve time: 0.0006155967712402344,	 generate time: 0.2538638114929199
+[11]: [Cumulative]: Semantic Similarity: 0.70868,	 retrieve time: 0.0006938775380452474,	 generate time: 0.37852128346761066
+[12]: Semantic Similarity: 0.75592,	 retrieve time: 0.0006277561187744141,	 generate time: 0.4776599407196045
+[12]: [Cumulative]: Semantic Similarity: 0.71231,	 retrieve time: 0.0006887912750244141,	 generate time: 0.38614733402545637
+[13]: Semantic Similarity: 0.95077,	 retrieve time: 0.0007157325744628906,	 generate time: 0.2537376880645752
+[13]: [Cumulative]: Semantic Similarity: 0.72934,	 retrieve time: 0.0006907156535557338,	 generate time: 0.3766895021711077
+[14]: Semantic Similarity: 0.98045,	 retrieve time: 0.0005664825439453125,	 generate time: 0.26598358154296875
+[14]: [Cumulative]: Semantic Similarity: 0.74608,	 retrieve time: 0.0006824334462483724,	 generate time: 0.3693091074625651
+[15]: Semantic Similarity: 0.98806,	 retrieve time: 0.0006825923919677734,	 generate time: 0.4287388324737549
+[15]: [Cumulative]: Semantic Similarity: 0.76121,	 retrieve time: 0.000682443380355835,	 generate time: 0.37302346527576447
+
+Result for hotpotqa-train/16/result_3.1-8B_k16_q500_hotpotqa-train_bertscore_rag_Index_bm25_top1.txt_17
+Prepare time: 0.06148886680603027
+Average Semantic Similarity: 0.7612075265496969
+retrieve time: 0.000682443380355835,	 generate time: 0.37302346527576447

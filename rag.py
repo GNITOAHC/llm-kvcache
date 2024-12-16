@@ -124,7 +124,7 @@ def parse_squad_data(raw):
                 ques = qa['question']
                 answers = [ans['text'] for ans in qa['answers']]
                 dataset['qas'].append({"title": data['title'], "paragraph_index": tuple((k_id, p_id)) ,"question": ques, "answers": answers})
-        dataset['ki_text'].append({"title": data['title'], "paragraphs": article})
+        dataset['ki_text'].append({"id": k_id, "title": data['title'], "paragraphs": article})
     
     return dataset
 
@@ -145,6 +145,8 @@ def get_squad_dataset(filepath: str, max_knowledge: int = None, max_paragraph: i
         random.seed(rand_seed)
         random.shuffle(parsed_data["ki_text"])
         random.shuffle(parsed_data["qas"])
+        k_ids = [i['id'] for i in parsed_data["ki_text"][:max_knowledge]]
+
         
     text_list = []
     # Get the knowledge Articles for at most max_knowledge, or all Articles if max_knowledge is None
@@ -154,8 +156,8 @@ def get_squad_dataset(filepath: str, max_knowledge: int = None, max_paragraph: i
         text_list.append('\n'.join(article['paragraphs'][0:max_para]))
     
     # Check if the knowledge id of qas is less than the max_knowledge
-    questions = [qa['question'] for qa in parsed_data['qas'] if qa['paragraph_index'][0] < max_knowledge and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
-    answers = [qa['answers'][0] for qa in parsed_data['qas'] if qa['paragraph_index'][0] < max_knowledge and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
+    questions = [qa['question'] for qa in parsed_data['qas'] if qa['paragraph_index'][0] in k_ids and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
+    answers = [qa['answers'][0] for qa in parsed_data['qas'] if qa['paragraph_index'][0]  in k_ids and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
     
     dataset = zip(questions, answers)
     
@@ -396,7 +398,6 @@ if __name__ == "__main__":
     
     def unique_path(path, i=0):
         if os.path.exists(path):
-            path = path.split("_")[:-1] if i != 0 else path
             return unique_path(path + "_" + str(i), i + 1)
         return path
     
