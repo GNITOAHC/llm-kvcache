@@ -1,5 +1,14 @@
 import os
 
+def main():
+    dir_path = "hotpotqa-train/"
+    
+    for k in [16, 24, 32, 48, 64, 80]:
+        collect_data(dir_path, k)
+    
+    for k in [16, 24, 32, 48, 64, 80]:
+        summarize_file(dir_path, k)
+
 def collect_data(dir_path, k):
     directory = dir_path + f"{k}/"
     for prefix in [f"result_3.1-8B_k{k}_q500_hotpotqa-train_bertscore_kvcache_nokv.txt", 
@@ -45,9 +54,6 @@ def collect_data(dir_path, k):
                     info_time.append(line)
             
             datas = zip(result, prepare, average, info_time)
-            
-            if os.path.exists(result_file):
-                os.remove(result_file)
             
             with open(result_file, "a") as f:
                 for data in datas:
@@ -117,13 +123,7 @@ def summarize_file(dir_path, k):
             f.writelines(f"Average Semantic Similarity: {avg_similarity}\n")
             f.writelines(f"{info_type} {avg_info_time} \t generate Time: {avg_generate_time}\n")
             f.writelines("\n")
-            
-dir_path = "hotpotqa-train/"
-for k in [16, 24, 32, 48, 64, 80]:
-    # collect_data(dir_path, k)
-    # summarize_file(dir_path, k)
-    pass
 
-# for k in [16, 24, 32, 48, 64, 80]:
-for k in [16, 32, 48, 80]:
-    summarize_file(dir_path, k)
+if __name__ == "__main__":
+    main()
+    pass
