@@ -1,0 +1,62 @@
+# === k3 data ===
+# Our method, kvcache results
+Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_kvcache.txt
+Prepare time: 12.326377868652344
+Average Semantic Similarity: 0.861165217757225
+cache time: 2.1219253540039063e-07,	 generate time: 1.0160864639282225
+# Our method, prompt results
+Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_kvcache.txt_nokv
+Prepare time: 12.416817426681519
+Average Semantic Similarity: 0.8281081096827984
+cache time: 2.4318695068359375e-07,	 generate time: 10.30179711341858
+
+# OpenAI Index, top3 results
+Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_rag_Index_openai.txt_top3
+Prepare time: 3.6358747482299805
+Average Semantic Similarity: 0.8098904158174992
+retrieve time: 0.40141704559326175,	 generate time: 0.38125684499740603
+# OpenAI Index, top1 results
+Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_rag_Index_openai.txt_top1
+Prepare time: 2.7773373126983643
+Average Semantic Similarity: 0.7541229208186269
+retrieve time: 0.43484928607940676,	 generate time: 0.3440356516838074
+
+# BM25 Index, top3 results
+Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_rag_Index_bm25.txt_top3
+Prepare time: 0.05437469482421875
+Average Semantic Similarity: 0.7994295717775821
+retrieve time: 0.0007320046424865723,	 generate time: 0.33429110050201416
+# BM25 Index, top1 results
+Result for ./results/squad-dev/100/result_3.1-8B_k3_p100_q100_squad-dev_bertscore_rag_Index_bm25.txt_top1
+Prepare time: 0.05550217628479004
+Average Semantic Similarity: 0.676961962338537
+retrieve time: 0.0006973910331726075,	 generate time: 0.33901196002960204
+
+# === k4 data ===
+# Our method, kvcache results
+Result for ./results/squad-dev/100/result_3.1-8B_k4_p100_q100_squad-dev_bertscore_kvcache.txt
+Prepare time: 20.91735029220581
+Average Semantic Similarity: 0.866445723772049
+cache time: 2.2649765014648436e-07,	 generate time: 1.370939884185791
+
+# OpenAI Index, top3 results
+Result for ./results/squad-dev/100/result_3.1-8B_k4_p100_q100_squad-dev_bertscore_rag_Index_openai.txt_top3
+Prepare time: 5.04166316986084
+Average Semantic Similarity: 0.8098904158174992
+retrieve time: 0.42337387084960937,	 generate time: 0.37966763734817505
+# OpenAI Index, top1 results
+Result for ./results/squad-dev/100/result_3.1-8B_k4_p100_q100_squad-dev_bertscore_rag_Index_openai.txt_top1
+Prepare time: 6.424228191375732
+Average Semantic Similarity: 0.7541229208186269
+retrieve time: 0.39529258489608765,	 generate time: 0.3732780528068542
+
+# BM25 Index, top3 results
+Result for ./results/squad-dev/100/result_3.1-8B_k4_p100_q100_squad-dev_bertscore_rag_Index_bm25.txt_top3
+Prepare time: 0.0811915397644043
+Average Semantic Similarity: 0.798425601888448
+retrieve time: 0.0007161283493041992,	 generate time: 0.3228806638717651
+# BM25 Index, top1 results
+Result for ./results/squad-dev/100/result_3.1-8B_k4_p100_q100_squad-dev_bertscore_rag_Index_bm25.txt_top1
+Prepare time: 0.0821678638458252
+Average Semantic Similarity: 0.6699939899146556
+retrieve time: 0.0006508708000183105,	 generate time: 0.3370795464515686

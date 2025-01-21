@@ -263,7 +263,7 @@ def rag_test(args: argparse.Namespace):
     <|start_header_id|>system<|end_header_id|>
     You are an assistant for giving short answers based on given context.<|eot_id|>
     <|start_header_id|>user<|end_header_id|>
-    Context information is bellow.
+    Context information is below.
     ------------------------------------------------
     {knowledge}
     ------------------------------------------------
