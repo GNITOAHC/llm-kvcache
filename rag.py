@@ -1,25 +1,30 @@
 import torch
-import torch.nn.functional as F
-import pandas as pd
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from llama_index.core import VectorStoreIndex, Document
 from transformers.cache_utils import DynamicCache
+import cag.dataset as cagds
+import cag.similarity as cagsim
 import argparse
 import os
-import json
 from transformers import BitsAndBytesConfig
-import random
+import logging
 
-def get_env():
-    env_dict = {}
-    with open (file=".env" if os.path.exists(".env") else "env", mode="r") as f:
-        for line in f:
-            key, value = line.strip().split("=")
-            env_dict[key] = value.strip('"')
-    return env_dict
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logger = logging.getLogger(__name__)
+
+from dotenv import load_dotenv
+load_dotenv()
+
+HF_TOKEN = os.getenv("HF_TOKEN")
+if not HF_TOKEN:
+    raise ValueError("HF_TOKEN not found")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+JINA_API_KEY = os.getenv("JINA_API_KEY")
+
 
 """Hugging Face Llama model"""
-HF_TOKEN = get_env()["HF_TOKEN"]
+
 global model_name, model, tokenizer
 global rand_seed
 
@@ -27,37 +32,22 @@ global rand_seed
 torch.serialization.add_safe_globals([DynamicCache])
 torch.serialization.add_safe_globals([set])
 
-# Define a simplified generate function
-
-
-"""Sentence-BERT for evaluate semantic similarity"""
-from sentence_transformers import SentenceTransformer, util
-bert_model = SentenceTransformer('all-MiniLM-L6-v2')  # Use a lightweight sentence-transformer
-
-def get_bert_similarity(response, ground_truth):
-    # Encode the query and text
-    query_embedding = bert_model.encode(response, convert_to_tensor=True)
-    text_embedding = bert_model.encode(ground_truth, convert_to_tensor=True)
-
-    # Compute the cosine similarity between the query and text
-    cosine_score = util.pytorch_cos_sim(query_embedding, text_embedding)
-
-    return cosine_score.item()
 
 from time import time
-
 from llama_index.core import Settings
 
-def getOpenAIRetriever(documents: list[str], similarity_top_k: int = 1):
+def getOpenAIRetriever(documents: list[Document], similarity_top_k: int = 1):
     """OpenAI RAG model"""
     import openai
-    openai.api_key = get_env()["OPENAI_API_KEY"]        
+    if not OPENAI_API_KEY:
+        raise ValueError("OPENAI_API_KEY not found")
+    openai.api_key = OPENAI_API_KEY
     # from llama_index.llms.openai import OpenAI
     # Settings.llm = OpenAI(model="gpt-3.5-turbo")
     
     from llama_index.embeddings.openai import OpenAIEmbedding
     # Set the embed_model in llama_index
-    Settings.embed_model = OpenAIEmbedding(model_name="text-embedding-3-small", api_key=get_env()["OPENAI_API_KEY"], title="openai-embedding")
+    Settings.embed_model = OpenAIEmbedding(model_name="text-embedding-3-small", api_key=OPENAI_API_KEY, title="openai-embedding")
     # model_name: "text-embedding-3-small", "text-embedding-3-large"
     
     # Create the OpenAI retriever
@@ -65,13 +55,14 @@ def getOpenAIRetriever(documents: list[str], similarity_top_k: int = 1):
     index = VectorStoreIndex.from_documents(documents)
     OpenAI_retriever = index.as_retriever(similarity_top_k=similarity_top_k)
     t2 = time()
-    
+    logger.info(f"OpenAI retriever prepared in {t2 - t1:.2f} seconds.")
     return OpenAI_retriever, t2 - t1
     
 
-def getGeminiRetriever(documents: list[str], similarity_top_k: int = 1):
+def getGeminiRetriever(documents: list[Document], similarity_top_k: int = 1):
     """Gemini Embedding RAG model"""
-    GOOGLE_API_KEY = get_env()["GOOGLE_API_KEY"]
+    if not GOOGLE_API_KEY:
+        raise ValueError("GOOGLE_API_KEY not found")
     from llama_index.embeddings.gemini import GeminiEmbedding
     model_name = "models/embedding-001"
     # Set the embed_model in llama_index
@@ -82,10 +73,10 @@ def getGeminiRetriever(documents: list[str], similarity_top_k: int = 1):
     index = VectorStoreIndex.from_documents(documents)
     Gemini_retriever = index.as_retriever(similarity_top_k=similarity_top_k)
     t2 = time()
-    
+    logger.info(f"Gemini retriever prepared in {t2 - t1:.2f} seconds.")
     return Gemini_retriever, t2 - t1
     
-def getBM25Retriever(documents: list[str], similarity_top_k: int = 1):
+def getBM25Retriever(documents: list[Document], similarity_top_k: int = 1):
     from llama_index.core.node_parser import SentenceSplitter  
     from llama_index.retrievers.bm25 import BM25Retriever
     import Stemmer
@@ -106,133 +97,59 @@ def getBM25Retriever(documents: list[str], similarity_top_k: int = 1):
 
     return bm25_retriever, t2 - t1
 
-def get_kis_dataset(filepath: str):
-    df = pd.read_csv(filepath)
-    dataset = zip(df['sample_question'], df['sample_ground_truth'])
-    text_list = df["ki_text"].to_list()
-    
-    return text_list, dataset
+def getJinaRetriever(documents: list[Document], similarity_top_k: int = 1):
+    """Jina Embedding model"""
+    if not JINA_API_KEY:
+        raise ValueError("JINA_API_KEY not found")
+    try:
+        from llama_index.embeddings.jinaai import JinaEmbedding
+        model_name = "jina-embeddings-v3"
+        Settings.embed_model = JinaEmbedding(
+            api_key=JINA_API_KEY,
+            model=model_name,
+            task="retrieval.passage",
+        )
 
-def parse_squad_data(raw):
-    dataset = { "ki_text": [], "qas": [] }
-    
-    for k_id, data in enumerate(raw['data']):
-        article = []
-        for p_id, para in enumerate(data['paragraphs']):
-            article.append(para['context'])
-            for qa in para['qas']:
-                ques = qa['question']
-                answers = [ans['text'] for ans in qa['answers']]
-                dataset['qas'].append({"title": data['title'], "paragraph_index": tuple((k_id, p_id)) ,"question": ques, "answers": answers})
-        dataset['ki_text'].append({"id": k_id, "title": data['title'], "paragraphs": article})
-    
-    return dataset
+        # Create the Jina retriever
+        t1 = time()
+        index = VectorStoreIndex.from_documents(documents)
+        Jina_retriever = index.as_retriever(similarity_top_k=similarity_top_k)
+        t2 = time()
+        logger.info(f"Jina retriever prepared in {t2 - t1:.2f} seconds.")
+        return Jina_retriever, t2 - t1
+    except ImportError:
+        logger.error("Failed to import JinaEmbedding. Please install jinaai package.")
+        raise
+    except Exception as e:
+        logger.error(f"Error creating Jina retriever: {str(e)}")
+        raise
 
-def get_squad_dataset(filepath: str, max_knowledge: int = None, max_paragraph: int = None, max_questions: int = None):
-    # Open and read the JSON file
-    with open(filepath, 'r') as file:
-        data = json.load(file)
-    # Parse the SQuAD data
-    parsed_data = parse_squad_data(data)
-    
-    print("max_knowledge", max_knowledge, "max_paragraph", max_paragraph, "max_questions", max_questions)
-    
-    # Set the limit Maximum Articles, use all Articles if max_knowledge is None or greater than the number of Articles
-    max_knowledge = max_knowledge if max_knowledge != None and max_knowledge < len(parsed_data['ki_text']) else len(parsed_data['ki_text'])
-    
-    # Shuffle the Articles and Questions
-    if rand_seed != None:
-        random.seed(rand_seed)
-        random.shuffle(parsed_data["ki_text"])
-        random.shuffle(parsed_data["qas"])
-        k_ids = [i['id'] for i in parsed_data["ki_text"][:max_knowledge]]
-
-        
-    text_list = []
-    # Get the knowledge Articles for at most max_knowledge, or all Articles if max_knowledge is None
-    for article in parsed_data['ki_text'][:max_knowledge]:
-        max_para = max_paragraph if max_paragraph != None and max_paragraph < len(article['paragraphs']) else len(article['paragraphs'])
-        text_list.append(article['title'])
-        text_list.append('\n'.join(article['paragraphs'][0:max_para]))
-    
-    # Check if the knowledge id of qas is less than the max_knowledge
-    questions = [qa['question'] for qa in parsed_data['qas'] if qa['paragraph_index'][0] in k_ids and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
-    answers = [qa['answers'][0] for qa in parsed_data['qas'] if qa['paragraph_index'][0]  in k_ids and (max_paragraph == None or qa['paragraph_index'][1] < max_paragraph)]
-    
-    dataset = zip(questions, answers)
-    
-    return text_list, dataset
-
-
-def get_hotpotqa_dataset(filepath: str, max_knowledge: int = None):
-    # Open and read the JSON
-    with open (filepath, "r") as file:
-        data = json.load(file)
-    
-    if rand_seed != None:
-        random.seed(rand_seed)
-        random.shuffle(data)
-    
-    questions = [ qa['question'] for qa in data ]
-    answers = [ qa['answer'] for qa in data ]
-    dataset = zip(questions, answers)
-    
-    if max_knowledge == None:
-        max_knowledge = len(data)
-    else:
-        max_knowledge = min(max_knowledge, len(data))
-    
-    text_list = []
-    for i, qa in enumerate(data[:max_knowledge]):
-        context = qa['context']
-        context = [ c[0] + ": \n" + "".join(c[1]) for c in context ]
-        article = "\n\n".join(context)
-
-        text_list.append(article)
-    
-    return text_list, dataset
     
 def rag_test(args: argparse.Namespace):
-    answer_instruction = None
-    if args.dataset == "kis_sample":
-        datapath = "./datasets/rag_sample_qas_from_kis.csv"
-        text_list, dataset = get_kis_dataset(datapath)
-    if args.dataset == "kis":
-        datapath = "./datasets/synthetic_knowledge_items.csv"
-        text_list, dataset = get_kis_dataset(datapath)
-    if args.dataset == "squad-dev":
-        datapath = "./datasets/squad/dev-v1.1.json"
-        text_list, dataset = get_squad_dataset(datapath, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
-    if args.dataset == "squad-train":
-        datapath = "./datasets/squad/train-v1.1.json"
-        text_list, dataset = get_squad_dataset(datapath, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
-        answer_instruction = "Answer the question with a super short answer."
-    if args.dataset == "hotpotqa-dev":
-        datapath = "./datasets/hotpotqa/hotpot_dev_fullwiki_v1.json"
-        text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
-        answer_instruction
-    if args.dataset == "hotpotqa-test":
-        datapath = "./datasets/hotpotqa/hotpot_test_fullwiki_v1.json"
-        text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
-        answer_instruction = "Answer the question with a super short answer."
-    if args.dataset == "hotpotqa-train":
-        datapath = "./datasets/hotpotqa/hotpot_train_v1.1.json"
-        text_list, dataset = get_hotpotqa_dataset(datapath, args.maxKnowledge)
-        answer_instruction = "Answer the question with a super short answer."
+    answer_instruction = "Answer the question with a super short answer."
+    text_list, dataset = cagds.get(args.dataset, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
         
     if answer_instruction != None:
         answer_instruction = "Answer the question with a super short answer."
     
-    kvcache_path = "./data_cache/cache_knowledges.pt"
     # document indexing for the rag retriever
     documents = [Document(text=t) for t in text_list]
     
+    retriever = None
+    prepare_time = 0.0
     if args.index == "gemini":
         retriever, prepare_time = getGeminiRetriever(documents, similarity_top_k=args.topk)
     if args.index == "openai":
         retriever, prepare_time = getOpenAIRetriever(documents, similarity_top_k=args.topk)
+        logger.info(f"Testing {args.index.upper()} retriever with {len(documents)} documents.")
     if args.index == "bm25":
         retriever, prepare_time = getBM25Retriever(documents, similarity_top_k=args.topk)
+    if args.index == "jina":
+        retriever, prepare_time = getJinaRetriever(documents, similarity_top_k=args.topk)
+        logger.info(f"Testing {args.index.upper()} retriever with {len(documents)} documents.")
+
+    if retriever is None:
+        raise ValueError("No retriever, `--index` not set")
         
     print(f"Retriever {args.index.upper()} prepared in {prepare_time} seconds")
     with open(args.output, "a") as f:
@@ -263,7 +180,7 @@ def rag_test(args: argparse.Namespace):
     <|start_header_id|>system<|end_header_id|>
     You are an assistant for giving short answers based on given context.<|eot_id|>
     <|start_header_id|>user<|end_header_id|>
-    Context information is bellow.
+    Context information is below.
     ------------------------------------------------
     {knowledge}
     ------------------------------------------------
@@ -294,7 +211,7 @@ def rag_test(args: argparse.Namespace):
         print("A: ", generated_text)
         
         # Evaluate bert-score similarity
-        similarity = get_bert_similarity(generated_text, ground_truth)
+        similarity = cagsim.bert(generated_text, ground_truth)
         
         print(f"[{id}]: Semantic Similarity: {round(similarity, 5)},\t",
             f"retrieve time: {retrieve_t2 - retrieve_t1},\t",
@@ -363,14 +280,14 @@ if __name__ == "__main__":
     # parser.add_argument('--method', choices=['rag', 'kvcache'], required=True, help='Method to use (rag or kvcache)')
     parser.add_argument('--modelname', required=False, default="meta-llama/Llama-3.2-1B-Instruct", type=str, help='Model name to use')
     parser.add_argument('--quantized', required=False, default=False, type=bool, help='Quantized model')
-    parser.add_argument('--index', choices=['gemini', 'openai', 'bm25'], required=True, help='Index to use (gemini, openai, bm25)')
+    parser.add_argument('--index', choices=['gemini', 'openai', 'bm25', 'jina'], required=True, help='Index to use (gemini, openai, bm25, jina)')
     parser.add_argument('--similarity', choices=['bertscore'], required=True, help='Similarity metric to use (bertscore)')
     parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
     parser.add_argument('--maxQuestion', required=False, default=None ,type=int, help='Maximum number of questions to test')
     parser.add_argument('--maxKnowledge', required=False, default=None ,type=int, help='Maximum number of knowledge items to use')
     parser.add_argument('--maxParagraph', required=False, default=None ,type=int, help='Maximum number of paragraph to use')
     parser.add_argument('--topk', required=False, default=1, type=int, help='Top K retrievals to use')
-    parser.add_argument('--dataset', required=True, help='Dataset to use (kis, kis_sample, squad-dev, squad-train)', 
+    parser.add_argument('--dataset', required=True, help='Dataset to use (kis, squad or hotpotqa)', 
                         choices=['kis', 'kis_sample', 
                                 'squad-dev', 'squad-train', 
                                 'hotpotqa-dev',  'hotpotqa-train', 'hotpotqa-test'])
