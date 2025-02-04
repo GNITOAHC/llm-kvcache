@@ -3,10 +3,6 @@ import random
 import pandas as pd
 from typing import Iterator
 
-
-rand_seed = None
-
-
 def _parse_squad_data(raw):
     dataset = {"ki_text": [], "qas": []}
 
@@ -37,6 +33,7 @@ def squad(
     max_knowledge: int | None = None,
     max_paragraph: int | None = None,
     max_questions: int | None = None,
+    random_seed: int | None = None,
 ) -> tuple[list[str], Iterator[tuple[str, str]]]:
     """
     @param filepath: path to the dataset's JSON file
@@ -51,15 +48,6 @@ def squad(
     # Parse the SQuAD data
     parsed_data = _parse_squad_data(data)
 
-    print(
-        "max_knowledge",
-        max_knowledge,
-        "max_paragraph",
-        max_paragraph,
-        "max_questions",
-        max_questions,
-    )
-
     # Set the limit Maximum Articles, use all Articles if max_knowledge is None or greater than the number of Articles
     max_knowledge = (
         max_knowledge
@@ -69,8 +57,8 @@ def squad(
     max_paragraph = max_paragraph if max_knowledge == 1 else None
 
     # Shuffle the Articles and Questions
-    if rand_seed is not None:
-        random.seed(rand_seed)
+    if random_seed is not None:
+        random.seed(random_seed)
         random.shuffle(parsed_data["ki_text"])
         random.shuffle(parsed_data["qas"])
 
@@ -107,7 +95,9 @@ def squad(
 
 
 def hotpotqa(
-    filepath: str, max_knowledge: int | None = None
+    filepath: str, 
+    max_knowledge: int | None = None, 
+    random_seed: int | None = None
 ) -> tuple[list[str], Iterator[tuple[str, str]]]:
     """
     @param filepath: path to the dataset's JSON file
@@ -118,8 +108,8 @@ def hotpotqa(
     with open(filepath, "r") as file:
         data = json.load(file)
 
-    if rand_seed is not None:
-        random.seed(rand_seed)
+    if random_seed is not None:
+        random.seed(random_seed)
         random.shuffle(data)
 
     questions = [qa["question"] for qa in data]
@@ -156,10 +146,33 @@ def kis(filepath: str) -> tuple[list[str], Iterator[tuple[str, str]]]:
 
 def get(
     dataset: str,
-    max_knowledge: int | None = None,
-    max_paragraph: int | None = None,
-    max_questions: int | None = None,
+    size: str = None,
+    qa_pairs: int = None,
+    random_seed: int = None,
 ) -> tuple[list[str], Iterator[tuple[str, str]]]:
+    """
+    @param dataset: dataset name
+    @param size: dataset size
+    @param qa_pairs: number of question & answer pairs
+    """
+    
+    if size is not in ["small", "medium", "large"]:
+        raise ValueError("size must be one of 'small', 'medium', 'large'")
+    
+    if dataset.startswith("squad") and size is None:
+        max_knowledge = {
+            "small": 3,  # 3 docs ≈ 21k tokens
+            "medium": 4, # 4 docs ≈ 32k tokens
+            "large": 7   # 7 docs ≈ 50k tokens
+        }.get(size, None)
+    
+    if dataset.startswith("hotpotqa") and size is None:
+        max_knowledge = {
+            "small": 16,  # 16 docs ≈ 21k tokens  
+            "medium": 32, # 32 docs ≈ 43k tokens  
+            "large": 64   # 64 docs ≈ 85k tokens  
+        }.get(size, None)
+        
     match dataset:
         case "kis_sample":
             path = "./datasets/rag_sample_qas_from_kis.csv"
@@ -169,18 +182,18 @@ def get(
             return kis(path)
         case "squad-dev":
             path = "./datasets/squad/dev-v1.1.json"
-            return squad(path, max_knowledge, max_paragraph, max_questions)
+            return squad(path, max_knowledge, max_paragraph, max_questions, random_seed)
         case "squad-train":
             path = "./datasets/squad/train-v1.1.json"
-            return squad(path, max_knowledge, max_paragraph, max_questions)
+            return squad(path, max_knowledge, max_paragraph, max_questions, random_seed)
         case "hotpotqa-dev":
             path = "./datasets/hotpotqa/hotpot_dev_fullwiki_v1.json"
-            return hotpotqa(path, max_knowledge)
+            return hotpotqa(path, max_knowledge, random_seed)
         case "hotpotqa-test":
             path = "./datasets/hotpotqa/hotpot_test_fullwiki_v1.json"
-            return hotpotqa(path, max_knowledge)
+            return hotpotqa(path, max_knowledge, random_seed)
         case "hotpotqa-train":
             path = "./datasets/hotpotqa/hotpot_train_v1.1.json"
-            return hotpotqa(path, max_knowledge)
+            return hotpotqa(path, max_knowledge, random_seed)
         case _:
             return [], zip([], [])
