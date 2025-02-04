@@ -158,13 +158,13 @@ def prepare_kvcache(documents, filepath: str = "./data_cache/cache_knowledges.pt
     # Get the knowledge cache
     t1 = time()
     kv = preprocess_knowledge(model, tokenizer, knowledges)
-    print("kvlen: ", kv.key_cache[0].shape[-2])
-    write_kv_cache(kv, filepath)
+    #print("kvlen: ", kv.key_cache[0].shape[-2])
     t2 = time()
+    write_kv_cache(kv, filepath)
     logger.info(f"KV cache prepared in {t2 - t1:.2f} seconds.")
     return kv, t2 - t1
 
-
+import csv
 def kvcache_test(args: argparse.Namespace):
     answer_instruction = "Answer the question with a super short answer."
     text_list, dataset = cagds.get(args.dataset, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
@@ -178,13 +178,11 @@ def kvcache_test(args: argparse.Namespace):
     with open(args.output, "a") as f:
         f.write(f"KVcache prepared in {prepare_time} seconds\n")
 
-    results = {
-        "cache_time": [],
-        "generate_time": [],
-        "similarity": [],
-        "prompts": [],
-        "responses": []
-    }
+    if args.usePrompt:
+        results = ["idx", "generated_response", "ground_truth", "generated_time"]
+    else:
+        results = ["idx","generated_response","ground_truth","reset_cache_time","generate_time"]
+    #idx, generated_response, ground_truth, reset_cache_time, generate_time
 
     dataset = list(dataset)  # Convert the dataset to a list
 
@@ -193,16 +191,6 @@ def kvcache_test(args: argparse.Namespace):
     for id, (question, ground_truth) in enumerate(dataset[:max_questions]):
         torch.cuda.empty_cache()
         torch.cuda.ipc_collect()
-
-        # Read the knowledge cache from the cache file
-        cache_t1 = time()
-        # if args.kvcache == "file":
-        #     knowledge_cache = read_kv_cache(kvcache_path)
-
-        # Not a good idea to use this method, as it will consume a lot of memory
-        # if args.kvcache == "variable":
-        #     knowledge_cache = documents_cache
-        cache_t2 = time()
 
         # Generate Response for the question
         knowledges = '\n\n\n'.join(text_list)
@@ -222,22 +210,40 @@ def kvcache_test(args: argparse.Namespace):
     {question}<|eot_id|>
     <|start_header_id|>assistant<|end_header_id|>
     """
-            generate_t1 = time()
+            generate_start = time()
             input_ids = tokenizer.encode(prompt, return_tensors="pt").to(model.device)
             output = generate(model, input_ids, DynamicCache()) 
             generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
-            generate_t2 = time()
+            generate_end = time()
+            results.append([
+                id,
+                generated_text,
+                ground_truth,
+                generate_time
+            ])
         else:
             prompt = f"""
     {question}<|eot_id|>
     <|start_header_id|>assistant<|end_header_id|>
     """
-            generate_t1 = time()
+            reset_start = time()
             clean_up(knowledge_cache, kv_len)
+            reset_end = time()
+            reset_cache_time = reset_end - reset_start
+            generate_start = time()
             input_ids = tokenizer.encode(prompt, return_tensors="pt").to(model.device)
             output = generate(model, input_ids, knowledge_cache)
             generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
-            generate_t2 = time()
+            generate_end = time()
+            generate_time = generate_end - generate_start
+            results.append([
+                id,
+                generated_text,
+                ground_truth,
+                reset_cache_time,
+                generate_time
+            ])
+
 
         # print("D: ", knowledges)
         print("Q: ", question)
@@ -246,38 +252,9 @@ def kvcache_test(args: argparse.Namespace):
         # Evaluate bert-score similarity
         similarity = cagsim.bert(generated_text, ground_truth)
 
-        print(f"[{id}]: Semantic Similarity: {round(similarity, 5)},",
-              f"cache time: {cache_t2 - cache_t1},",
-              f"generate time: {generate_t2 - generate_t1}")
-        with open(args.output, "a") as f:
-            f.write(f"[{id}]: Semantic Similarity: {round(similarity, 5)},\t cache time: {cache_t2 - cache_t1},\t generate time: {generate_t2 - generate_t1}\n")
-
-        results["prompts"].append(question)
-        results["responses"].append(generated_text)
-        results["cache_time"].append(cache_t2 - cache_t1)
-        results["generate_time"].append(generate_t2 - generate_t1)
-        results["similarity"].append(similarity)
-
-        with open(args.output, "a") as f:
-            f.write(f"[{id}]: [Cumulative]: "
-                    + f"Semantic Similarity: {round(sum(results['similarity']) / (len(results['similarity'])) , 5)},"
-                    + f"\t cache time: {sum(results['cache_time']) / (len(results['cache_time'])) },"
-                    + f"\t generate time: {sum(results['generate_time']) / (len(results['generate_time'])) }\n")
-
-    avg_similarity = sum(results["similarity"]) / len(results["similarity"])
-    avg_cache_time = sum(results["cache_time"]) / len(results["cache_time"])
-    avg_generate_time = sum(results["generate_time"]) / len(results["generate_time"])
-    print()
-    print(f"Prepare time: {prepare_time}")
-    print(f"Average Semantic Similarity: {avg_similarity}")
-    print(f"cache time: {avg_cache_time},\t generate time: {avg_generate_time}")
-    print()
-    with open(args.output, "a") as f:
-        f.write("\n")
-        f.write(f"Result for {args.output}\n")
-        f.write(f"Prepare time: {prepare_time}\n")
-        f.write(f"Average Semantic Similarity: {avg_similarity}\n")
-        f.write(f"cache time: {avg_cache_time},\t generate time: {avg_generate_time}\n")
+        with open(f"{args.size}_{args.dataset}_cag_{args.randomSeed}.csv", "w")  as f:
+            writer = csv.writer(f)
+            writer.writerows(results)
 
 
 # Define quantization configuration
