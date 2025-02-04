@@ -91,12 +91,13 @@ def squad(
 
     dataset = zip(questions, answers)
 
-    return text_list, dataset
+    return text_list, dataset[:max_questions]
 
 
 def hotpotqa(
     filepath: str, 
     max_knowledge: int | None = None, 
+    max_questions: int | None = None,
     random_seed: int | None = None
 ) -> tuple[list[str], Iterator[tuple[str, str]]]:
     """
@@ -129,7 +130,7 @@ def hotpotqa(
 
         text_list.append(article)
 
-    return text_list, dataset
+    return text_list, dataset[:max_questions]
 
 
 def kis(filepath: str) -> tuple[list[str], Iterator[tuple[str, str]]]:
@@ -166,7 +167,7 @@ def get(
             "medium": 4, # 4 docs ≈ 32k tokens
             "large": 7   # 7 docs ≈ 50k tokens
         }.get(size, None)
-    
+
     if dataset.startswith("hotpotqa") and size is None:
         max_knowledge = {
             "small": 16,  # 16 docs ≈ 21k tokens  
@@ -189,12 +190,12 @@ def get(
             return squad(path, max_knowledge, max_paragraph, qa_pairs, random_seed)
         case "hotpotqa-dev":
             path = "./datasets/hotpotqa/hotpot_dev_fullwiki_v1.json"
-            return hotpotqa(path, max_knowledge, random_seed)
+            return hotpotqa(path, max_knowledge, qa_pairs, random_seed)
         case "hotpotqa-test":
             path = "./datasets/hotpotqa/hotpot_test_fullwiki_v1.json"
-            return hotpotqa(path, max_knowledge, random_seed)
+            return hotpotqa(path, max_knowledge, qa_pairs, random_seed)
         case "hotpotqa-train":
             path = "./datasets/hotpotqa/hotpot_train_v1.1.json"
-            return hotpotqa(path, max_knowledge, random_seed)
+            return hotpotqa(path, max_knowledge, qa_pairs, random_seed)
         case _:
             return [], zip([], [])
