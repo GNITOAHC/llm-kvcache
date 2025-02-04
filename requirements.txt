@@ -54,6 +54,7 @@ llama-index-cli==0.4.0
 llama-index-core==0.12.2
 llama-index-embeddings-gemini==0.3.0
 llama-index-embeddings-openai==0.3.1
+llama-index-embeddings-jinaai==0.4.0
 llama-index-indices-managed-llama-cloud==0.6.3
 llama-index-legacy==0.9.48.post4
 llama-index-llms-openai==0.3.2
@@ -118,3 +119,4 @@ uritemplate==4.1.1
 urllib3==2.2.3
 wrapt==1.17.0
 yarl==1.18.3
+python-dotenv==1.0.1
