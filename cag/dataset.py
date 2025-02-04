@@ -160,6 +160,7 @@ def get(
         raise ValueError("size must be one of 'small', 'medium', 'large'")
     
     if dataset.startswith("squad") and size is None:
+        max_paragraph = 0
         max_knowledge = {
             "small": 3,  # 3 docs ≈ 21k tokens
             "medium": 4, # 4 docs ≈ 32k tokens
@@ -182,10 +183,10 @@ def get(
             return kis(path)
         case "squad-dev":
             path = "./datasets/squad/dev-v1.1.json"
-            return squad(path, max_knowledge, max_paragraph, max_questions, random_seed)
+            return squad(path, max_knowledge, max_paragraph, qa_pairs, random_seed)
         case "squad-train":
             path = "./datasets/squad/train-v1.1.json"
-            return squad(path, max_knowledge, max_paragraph, max_questions, random_seed)
+            return squad(path, max_knowledge, max_paragraph, qa_pairs, random_seed)
         case "hotpotqa-dev":
             path = "./datasets/hotpotqa/hotpot_dev_fullwiki_v1.json"
             return hotpotqa(path, max_knowledge, random_seed)
