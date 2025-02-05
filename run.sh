@@ -62,6 +62,10 @@ done
 # "medium": 4  # 4 docs ≈ 32k tokens
 # "large": 7   # 7 docs ≈ 50k tokens
 
+indices=("bm25" "openai")
+top_k=("1" "3" "5" "10")
+total_qa=1500
+
 dataset="squad-train"
 sizes_qa_list=(
     "small 500"
