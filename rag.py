@@ -175,9 +175,7 @@ def rag_test(args: argparse.Namespace):
     
     dataset = list(dataset) # Convert the dataset to a list
     
-    max_questions = min(len(dataset), args.maxQuestion) if args.maxQuestion != None else len(dataset)
-    
-    for idx, (question, ground_truth) in enumerate(dataset[:max_questions]):    # Retrieve the knowledge from the vector database
+    for idx, (question, ground_truth) in enumerate(dataset):    # Retrieve the knowledge from the vector database
         retrieve_t1 = time()
         nodes = retriever.retrieve(question)
         retrieve_t2 = time()
