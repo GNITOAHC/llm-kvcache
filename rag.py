@@ -8,6 +8,7 @@ import argparse
 import os
 from transformers import BitsAndBytesConfig
 import logging
+import csv
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
@@ -75,7 +76,8 @@ def getGeminiRetriever(documents: list[Document], similarity_top_k: int = 1):
     t2 = time()
     logger.info(f"Gemini retriever prepared in {t2 - t1:.2f} seconds.")
     return Gemini_retriever, t2 - t1
-    
+
+
 def getBM25Retriever(documents: list[Document], similarity_top_k: int = 1):
     from llama_index.core.node_parser import SentenceSplitter  
     from llama_index.retrievers.bm25 import BM25Retriever
@@ -96,6 +98,7 @@ def getBM25Retriever(documents: list[Document], similarity_top_k: int = 1):
     bm25_retriever.persist("./bm25_retriever")
 
     return bm25_retriever, t2 - t1
+
 
 def getJinaRetriever(documents: list[Document], similarity_top_k: int = 1):
     """Jina Embedding model"""
@@ -127,11 +130,8 @@ def getJinaRetriever(documents: list[Document], similarity_top_k: int = 1):
     
 def rag_test(args: argparse.Namespace):
     answer_instruction = "Answer the question with a super short answer."
-    text_list, dataset = cagds.get(args.dataset, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
+    text_list, dataset = cagds.get(args.dataset, args.size, args.qa, rand_seed)
         
-    if answer_instruction != None:
-        answer_instruction = "Answer the question with a super short answer."
-    
     # document indexing for the rag retriever
     documents = [Document(text=t) for t in text_list]
     
@@ -139,11 +139,13 @@ def rag_test(args: argparse.Namespace):
     prepare_time = 0.0
     if args.index == "gemini":
         retriever, prepare_time = getGeminiRetriever(documents, similarity_top_k=args.topk)
+        logger.info(f"Testing {args.index.upper()} retriever with {len(documents)} documents.")
     if args.index == "openai":
         retriever, prepare_time = getOpenAIRetriever(documents, similarity_top_k=args.topk)
         logger.info(f"Testing {args.index.upper()} retriever with {len(documents)} documents.")
     if args.index == "bm25":
         retriever, prepare_time = getBM25Retriever(documents, similarity_top_k=args.topk)
+        logger.info(f"Testing {args.index.upper()} retriever with {len(documents)} documents.")
     if args.index == "jina":
         retriever, prepare_time = getJinaRetriever(documents, similarity_top_k=args.topk)
         logger.info(f"Testing {args.index.upper()} retriever with {len(documents)} documents.")
@@ -155,26 +157,32 @@ def rag_test(args: argparse.Namespace):
     with open(args.output, "a") as f:
         f.write(f"Retriever {args.index.upper()} prepared in {prepare_time} seconds\n")
     
+    # results = {
+    #     "retrieve_time": [],
+    #     "generate_time": [],
+    #     "similarity": [],
+    #     "prompts": [],
+    #     "responses": []
+    # }
     results = {
-        "retrieve_time": [],
+        "idx": [],
+        "generated_response": [],
+        "ground_truth": [],
+        "ir_time": [],
         "generate_time": [],
-        "similarity": [],
-        "prompts": [],
-        "responses": []
+        "bert_score": [],
     }
     
     dataset = list(dataset) # Convert the dataset to a list
     
     max_questions = min(len(dataset), args.maxQuestion) if args.maxQuestion != None else len(dataset)
     
-    for id, (question, ground_truth) in enumerate(dataset[:max_questions]):    # Retrieve the knowledge from the vector database
+    for idx, (question, ground_truth) in enumerate(dataset[:max_questions]):    # Retrieve the knowledge from the vector database
         retrieve_t1 = time()
         nodes = retriever.retrieve(question)
         retrieve_t2 = time()
         
         knowledge = "\n---------------------\n".join([node.text for node in nodes])
-        # short_knowledge = knowledge[:knowledge.find("**Step 4")]
-        
         prompt = f"""
         <|begin_of_text|>
         <|start_header_id|>system<|end_header_id|>
@@ -207,46 +215,65 @@ def rag_test(args: argparse.Namespace):
         generated_text = generated_text[generated_text.find('assistant') + len('assistant'):].lstrip()
         
         # print("R: ", knowledge)
-        print("Q: ", question)
-        print("A: ", generated_text)
+        # print("Q: ", question)
+        # print("A: ", generated_text)
         
         # Evaluate bert-score similarity
         similarity = cagsim.bert(generated_text, ground_truth)
         
-        print(f"[{id}]: Semantic Similarity: {round(similarity, 5)},\t",
+        print(f"[{idx}]: Semantic Similarity: {round(similarity, 5)},\t",
             f"retrieve time: {retrieve_t2 - retrieve_t1},\t",
             f"generate time: {generate_t2 - generate_t1}"
-            )
-        with open(args.output, "a") as f:
-            f.write(f"[{id}]: Semantic Similarity: {round(similarity, 5)},\t retrieve time: {retrieve_t2 - retrieve_t1},\t generate time: {generate_t2 - generate_t1}\n")
+        )
+        # with open(args.output, "a") as f:
+        #     f.write(f"[{idx}]: Semantic Similarity: {round(similarity, 5)},\t retrieve time: {retrieve_t2 - retrieve_t1},\t generate time: {generate_t2 - generate_t1}\n")
             
-        results["prompts"].append(prompt)
-        results["responses"].append(generated_text)
-        results["retrieve_time"].append(retrieve_t2 - retrieve_t1)
+        # results["prompts"].append(prompt)
+        # results["responses"].append(generated_text)
+        # results["retrieve_time"].append(retrieve_t2 - retrieve_t1)
+        # results["generate_time"].append(generate_t2 - generate_t1)
+        # results["similarity"].append(similarity)
+
+        results["idx"].append(idx)
+        results["generated_response"].append(generated_text)
+        results["ground_truth"].append(ground_truth)
+        results["ir_time"].append(retrieve_t2 - retrieve_t1)
         results["generate_time"].append(generate_t2 - generate_t1)
-        results["similarity"].append(similarity)
+        results["bert_score"].append(similarity)
         
-        with open(args.output, "a") as f:
-            f.write(f"[{id}]: [Cumulative]: " 
-                    + f"Semantic Similarity: {round(sum(results['similarity']) / (len(results['similarity'])) , 5)}," 
-                    + f"\t retrieve time: {sum(results['retrieve_time']) / (len(results['retrieve_time'])) },"
-                    + f"\t generate time: {sum(results['generate_time']) / (len(results['generate_time'])) }\n")
+        # with open(args.output, "a") as f:
+        #     f.write(f"[{idx}]: [Cumulative]: " 
+        #             + f"Semantic Similarity: {round(sum(results['similarity']) / (len(results['similarity'])) , 5)}," 
+        #             + f"\t retrieve time: {sum(results['retrieve_time']) / (len(results['retrieve_time'])) },"
+        #             + f"\t generate time: {sum(results['generate_time']) / (len(results['generate_time'])) }\n")
         
-        
-    avg_similarity = sum(results["similarity"]) / len(results["similarity"])
-    avg_retrieve_time = sum(results["retrieve_time"]) / len(results["retrieve_time"])
-    avg_generate_time = sum(results["generate_time"]) / len(results["generate_time"])
-    print()
-    print(f"Prepare time: {prepare_time}")
-    print(f"Average Semantic Similarity: {avg_similarity}")
-    print(f"retrieve time: {avg_retrieve_time},\t generate time: {avg_generate_time}")
-    print()
-    with open(args.output, "a") as f:
-        f.write("\n")
-        f.write(f"Result for {args.output}\n")
-        f.write(f"Prepare time: {prepare_time}\n")
-        f.write(f"Average Semantic Similarity: {avg_similarity}\n")
-        f.write(f"retrieve time: {avg_retrieve_time},\t generate time: {avg_generate_time}\n")
+    with open(args.output, 'w', newline='\n') as file:
+        writer = csv.writer(file)
+        writer.writerow(["idx", "generated_response", "ground_truth", "ir_time", "generate_time", "bert_score"])
+        for i in results["idx"]:
+            writer.writerow([
+                results["idx"][i],
+                results["generated_response"][i],
+                results["ground_truth"][i],
+                results["ir_time"][i],
+                results["generate_time"][i],
+                results["bert_score"][i]
+            ])
+        pass
+    # avg_similarity = sum(results["similarity"]) / len(results["similarity"])
+    # avg_retrieve_time = sum(results["retrieve_time"]) / len(results["retrieve_time"])
+    # avg_generate_time = sum(results["generate_time"]) / len(results["generate_time"])
+    # print()
+    # print(f"Prepare time: {prepare_time}")
+    # print(f"Average Semantic Similarity: {avg_similarity}")
+    # print(f"retrieve time: {avg_retrieve_time},\t generate time: {avg_generate_time}")
+    # print()
+    # with open(args.output, "a") as f:
+    #     f.write("\n")
+    #     f.write(f"Result for {args.output}\n")
+    #     f.write(f"Prepare time: {prepare_time}\n")
+    #     f.write(f"Average Semantic Similarity: {avg_similarity}\n")
+    #     f.write(f"retrieve time: {avg_retrieve_time},\t generate time: {avg_generate_time}\n")
 
 
 # Define quantization configuration
@@ -281,7 +308,7 @@ if __name__ == "__main__":
     parser.add_argument('--modelname', required=False, default="meta-llama/Llama-3.2-1B-Instruct", type=str, help='Model name to use')
     parser.add_argument('--quantized', required=False, default=False, type=bool, help='Quantized model')
     parser.add_argument('--index', choices=['gemini', 'openai', 'bm25', 'jina'], required=True, help='Index to use (gemini, openai, bm25, jina)')
-    parser.add_argument('--similarity', choices=['bertscore'], required=True, help='Similarity metric to use (bertscore)')
+    parser.add_argument('--similarity', choices=['bertscore'], required=False, default="bertscore", help='Similarity metric to use')
     parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
     parser.add_argument('--maxQuestion', required=False, default=None ,type=int, help='Maximum number of questions to test')
     parser.add_argument('--maxKnowledge', required=False, default=None ,type=int, help='Maximum number of knowledge items to use')
@@ -292,6 +319,10 @@ if __name__ == "__main__":
                                 'squad-dev', 'squad-train', 
                                 'hotpotqa-dev',  'hotpotqa-train', 'hotpotqa-test'])
     parser.add_argument('--randomSeed', required=False, default=None, type=int, help='Random seed to use')
+
+    # For new teseting
+    parser.add_argument("--size", required=True, type=str, help="Dataset size to use", choices=["small", "medium", "large"])
+    parser.add_argument("--qa", required=False, type=int, default=500, help="Total number of testing QA pairs")
     
     # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
     
