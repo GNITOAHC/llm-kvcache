@@ -197,19 +197,19 @@ def kvcache_test(args: argparse.Namespace):
 
         if args.usePrompt:
             prompt = f"""
-    <|begin_of_text|>
-    <|start_header_id|>system<|end_header_id|>
-    You are an assistant for giving short answers based on given context.<|eot_id|>
-    <|start_header_id|>user<|end_header_id|>
-    Context information is bellow.
-    ------------------------------------------------
-    {knowledges}
-    ------------------------------------------------
-    {answer_instruction}
-    Question:
-    {question}<|eot_id|>
-    <|start_header_id|>assistant<|end_header_id|>
-    """
+            <|begin_of_text|>
+            <|start_header_id|>system<|end_header_id|>
+            You are an assistant for giving short answers based on given context.<|eot_id|>
+            <|start_header_id|>user<|end_header_id|>
+            Context information is bellow.
+            ------------------------------------------------
+            {knowledges}
+            ------------------------------------------------
+            {answer_instruction}
+            Question:
+            {question}<|eot_id|>
+            <|start_header_id|>assistant<|end_header_id|>
+            """
             generate_start = time()
             input_ids = tokenizer.encode(prompt, return_tensors="pt").to(model.device)
             output = generate(model, input_ids, DynamicCache()) 
@@ -223,9 +223,10 @@ def kvcache_test(args: argparse.Namespace):
             ])
         else:
             prompt = f"""
-    {question}<|eot_id|>
-    <|start_header_id|>assistant<|end_header_id|>
-    """
+            {question}<|eot_id|>
+            <|start_header_id|>assistant<|end_header_id|>
+            """
+
             reset_start = time()
             clean_up(knowledge_cache, kv_len)
             reset_end = time()

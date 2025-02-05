@@ -176,20 +176,20 @@ def rag_test(args: argparse.Namespace):
         # short_knowledge = knowledge[:knowledge.find("**Step 4")]
         
         prompt = f"""
-    <|begin_of_text|>
-    <|start_header_id|>system<|end_header_id|>
-    You are an assistant for giving short answers based on given context.<|eot_id|>
-    <|start_header_id|>user<|end_header_id|>
-    Context information is below.
-    ------------------------------------------------
-    {knowledge}
-    ------------------------------------------------
-    {answer_instruction}
-    Question:
-    {question}
-    <|eot_id|>
-    <|start_header_id|>assistant<|end_header_id|>
-    """
+        <|begin_of_text|>
+        <|start_header_id|>system<|end_header_id|>
+        You are an assistant for giving short answers based on given context.<|eot_id|>
+        <|start_header_id|>user<|end_header_id|>
+        Context information is below.
+        ------------------------------------------------
+        {knowledge}
+        ------------------------------------------------
+        {answer_instruction}
+        Question:
+        {question}
+        <|eot_id|>
+        <|start_header_id|>assistant<|end_header_id|>
+        """
 
         # Generate Response for the question
         generate_t1 = time() 
