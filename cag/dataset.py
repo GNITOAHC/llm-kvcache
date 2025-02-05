@@ -89,9 +89,9 @@ def squad(
         and (max_paragraph is None or qa["paragraph_index"][1] < max_paragraph)
     ]
 
-    dataset = zip(questions, answers)
+    dataset = zip(questions[:max_questions], answers[:max_questions])
 
-    return text_list, dataset[:max_questions]
+    return text_list, dataset
 
 
 def hotpotqa(
@@ -113,15 +113,6 @@ def hotpotqa(
         random.seed(random_seed)
         random.shuffle(data)
 
-    questions = [qa["question"] for qa in data]
-    answers = [qa["answer"] for qa in data]
-    dataset = zip(questions, answers)
-
-    if max_knowledge is None:
-        max_knowledge = len(data)
-    else:
-        max_knowledge = min(max_knowledge, len(data))
-
     text_list = []
     for _, qa in enumerate(data[:max_knowledge]):
         context = qa["context"]
@@ -130,7 +121,16 @@ def hotpotqa(
 
         text_list.append(article)
 
-    return text_list, dataset[:max_questions]
+    questions = [qa["question"] for qa in data]
+    answers = [qa["answer"] for qa in data]
+
+    if max_knowledge is None:
+        max_knowledge = len(data)
+    else:
+        max_knowledge = min(max_knowledge, len(data))
+    dataset = zip(questions[:max_questions], answers[:max_questions])
+
+    return text_list, dataset
 
 
 def kis(filepath: str) -> tuple[list[str], Iterator[tuple[str, str]]]:
@@ -147,28 +147,29 @@ def kis(filepath: str) -> tuple[list[str], Iterator[tuple[str, str]]]:
 
 def get(
     dataset: str,
-    size: str = None,
-    qa_pairs: int = None,
-    random_seed: int = None,
+    size: str | None = None,
+    qa_pairs: int | None = None,
+    random_seed: int | None = None,
 ) -> tuple[list[str], Iterator[tuple[str, str]]]:
     """
     @param dataset: dataset name
     @param size: dataset size
     @param qa_pairs: number of question & answer pairs
     """
+
+    max_knowledge = None
     
-    if size is not in ["small", "medium", "large"]:
+    if size not in ["small", "medium", "large"]:
         raise ValueError("size must be one of 'small', 'medium', 'large'")
     
-    if dataset.startswith("squad") and size is None:
-        max_paragraph = 0
+    if dataset.startswith("squad") and size is not None:
         max_knowledge = {
             "small": 3,  # 3 docs ≈ 21k tokens
             "medium": 4, # 4 docs ≈ 32k tokens
             "large": 7   # 7 docs ≈ 50k tokens
         }.get(size, None)
 
-    if dataset.startswith("hotpotqa") and size is None:
+    if dataset.startswith("hotpotqa") and size is not None:
         max_knowledge = {
             "small": 16,  # 16 docs ≈ 21k tokens  
             "medium": 32, # 32 docs ≈ 43k tokens  
@@ -184,10 +185,10 @@ def get(
             return kis(path)
         case "squad-dev":
             path = "./datasets/squad/dev-v1.1.json"
-            return squad(path, max_knowledge, max_paragraph, qa_pairs, random_seed)
+            return squad(path, max_knowledge, None, qa_pairs, random_seed)
         case "squad-train":
             path = "./datasets/squad/train-v1.1.json"
-            return squad(path, max_knowledge, max_paragraph, qa_pairs, random_seed)
+            return squad(path, max_knowledge, None, qa_pairs, random_seed)
         case "hotpotqa-dev":
             path = "./datasets/hotpotqa/hotpot_dev_fullwiki_v1.json"
             return hotpotqa(path, max_knowledge, qa_pairs, random_seed)
