@@ -80,6 +80,55 @@ def generate(
     return output_ids[:, origin_ids.shape[-1]:]
 
 
+from typing import Tuple
+
+def generate_p(
+    model,
+    input_ids: torch.Tensor,
+    past_key_values,
+    max_new_tokens: int = 300
+) -> Tuple[torch.Tensor, float]:
+    """
+    Generate text with greedy decoding.
+
+    Args:
+        model: HuggingFace model with automatic device mapping
+        input_ids: Input token ids
+        past_key_values: KV Cache for knowledge
+        max_new_tokens: Maximum new tokens to generate
+    """
+
+    embed_device = model.model.embed_tokens.weight.device
+
+    origin_ids = input_ids
+    input_ids = input_ids.to(embed_device)
+
+    output_ids = input_ids.clone()
+    next_token = input_ids
+
+    ttft = 0
+    with torch.no_grad():
+        for _ in range(max_new_tokens):
+            ttft_s = time()
+            outputs = model(
+                input_ids=next_token, 
+                past_key_values=past_key_values,
+                use_cache=True
+            )
+            if ttft == 0:
+                ttft = time() - ttft_s
+            next_token_logits = outputs.logits[:, -1, :]
+            next_token = next_token_logits.argmax(dim=-1).unsqueeze(-1)
+            next_token = next_token.to(embed_device)
+
+            past_key_values = outputs.past_key_values
+
+            output_ids = torch.cat([output_ids, next_token], dim=1)
+
+            if next_token.item() in model.config.eos_token_id:
+                break
+    return output_ids[:, origin_ids.shape[-1]:], ttft
+
 def preprocess_knowledge(
     model,
     tokenizer,
@@ -179,9 +228,9 @@ def kvcache_test(args: argparse.Namespace):
         f.write(f"KVcache prepared in {prepare_time} seconds\n")
 
     if args.usePrompt:
-        results = ["idx", "generated_response", "ground_truth", "generated_time"]
+        results =[ ["idx", "generated_response", "ground_truth", "load_knowledge_time", "generate_time"]]
     else:
-        results = ["idx","generated_response","ground_truth","reset_cache_time","generate_time"]
+        results = [["idx","generated_response","ground_truth","reset_cache_time","generate_time"]]
     #idx, generated_response, ground_truth, reset_cache_time, generate_time
 
     dataset = list(dataset)  # Convert the dataset to a list
@@ -253,9 +302,10 @@ def kvcache_test(args: argparse.Namespace):
         # Evaluate bert-score similarity
         similarity = cagsim.bert(generated_text, ground_truth)
 
-        with open(f"{args.size}_{args.dataset}_cag_{args.randomSeed}.csv", "w")  as f:
+        with open(args.output, "w")  as f:
             writer = csv.writer(f)
             writer.writerows(results)
+
 
 
 # Define quantization configuration
