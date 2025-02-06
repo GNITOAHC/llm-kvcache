@@ -310,7 +310,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    print("maxKnowledge", args.maxKnowledge, "maxParagraph", args.maxParagraph, "maxQuestion", args.maxQuestion, "randomeSeed", args.randomSeed)
+    # print("maxKnowledge", args.maxKnowledge, "maxParagraph", args.maxParagraph, "maxQuestion", args.maxQuestion, "randomeSeed", args.randomSeed)
 
     model_name = args.modelname
     rand_seed = args.randomSeed if args.randomSeed is not None else None
