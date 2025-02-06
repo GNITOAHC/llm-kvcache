@@ -261,13 +261,14 @@ def kvcache_test(args: argparse.Namespace):
             """
             generate_start = time()
             input_ids = tokenizer.encode(prompt, return_tensors="pt").to(model.device)
-            output = generate(model, input_ids, DynamicCache()) 
+            output, ttft = generate_p(model, input_ids, DynamicCache()) 
             generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
             generate_end = time()
             results.append([
                 id,
                 generated_text,
                 ground_truth,
+                ttft,
                 generate_time
             ])
         else:
