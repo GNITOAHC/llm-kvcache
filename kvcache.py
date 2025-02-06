@@ -289,15 +289,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run RAG test with specified parameters.")
     parser.add_argument('--kvcache', choices=['file'], required=True, help='Method to use (from_file or from_var)')
     parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
-    parser.add_argument('--maxQuestion', required=False, default=None, type=int, help='Maximum number of questions to test')
-    parser.add_argument('--maxKnowledge', required=False, default=None, type=int, help='Maximum number of knowledge items to use')
-    parser.add_argument('--maxParagraph', required=False, default=None, type=int, help='Maximum number of paragraph to use')
     parser.add_argument('--usePrompt', default=False, action="store_true", help='Do not use cache')
-    parser.add_argument('--dataset', required=True, help='Dataset to use (kis, kis_sample, squad-dev, squad-train)',
-                        choices=['kis', 'kis_sample',
-                                 'squad-dev', 'squad-train',
-                                 'hotpotqa-dev',  'hotpotqa-train', 'hotpotqa-test'])
-    parser.add_argument('--randomSeed', required=False, default=None, type=int, help='Random seed to use')
     # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
     parser.add_argument('--modelname', required=False, default="meta-llama/Llama-3.2-1B-Instruct", type=str, help='Model name to use')
     parser.add_argument('--quantized', required=False, default=False, type=bool, help='Quantized model')
