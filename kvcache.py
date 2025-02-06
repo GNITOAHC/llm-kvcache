@@ -167,9 +167,9 @@ def prepare_kvcache(documents, filepath: str = "./data_cache/cache_knowledges.pt
 import csv
 def kvcache_test(args: argparse.Namespace):
     answer_instruction = "Answer the question with a super short answer."
-    text_list, dataset = cagds.get(args.dataset, max_knowledge=args.maxKnowledge, max_paragraph=args.maxParagraph, max_questions=args.maxQuestion)
-
+    text_list, dataset = cagds.get(args.dataset, args.size, args.qa, rand_seed)
     kvcache_path = "./data_cache/cache_knowledges.pt"
+
 
     knowledges = '\n\n\n\n\n\n'.join(text_list)
     knowledge_cache, prepare_time = prepare_kvcache(knowledges, filepath=kvcache_path, answer_instruction=answer_instruction)
@@ -287,23 +287,26 @@ def load_quantized_model(model_name, hf_token=None):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run RAG test with specified parameters.")
-    # parser.add_argument('--method', choices=['rag', 'kvcache'], required=True, help='Method to use (rag or kvcache)')
-    # parser.add_argument('--kvcache', choices=['file', 'variable'], required=True, help='Method to use (from_file or from_var)')
+    parser.add_argument('--kvcache', choices=['file'], required=True, help='Method to use (from_file or from_var)')
+    parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
+    parser.add_argument('--usePrompt', default=False, action="store_true", help='Do not use cache')
+    # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
     parser.add_argument('--modelname', required=False, default="meta-llama/Llama-3.2-1B-Instruct", type=str, help='Model name to use')
     parser.add_argument('--quantized', required=False, default=False, type=bool, help='Quantized model')
-    parser.add_argument('--kvcache', choices=['file'], required=True, help='Method to use (from_file or from_var)')
-    parser.add_argument('--similarity', choices=['bertscore'], required=True, help='Similarity metric to use (bertscore)')
+    parser.add_argument('--similarity', choices=['bertscore'], required=False, default="bertscore", help='Similarity metric to use')
     parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
-    parser.add_argument('--maxQuestion', required=False, default=None, type=int, help='Maximum number of questions to test')
-    parser.add_argument('--maxKnowledge', required=False, default=None, type=int, help='Maximum number of knowledge items to use')
-    parser.add_argument('--maxParagraph', required=False, default=None, type=int, help='Maximum number of paragraph to use')
-    parser.add_argument('--usePrompt', default=False, action="store_true", help='Do not use cache')
-    parser.add_argument('--dataset', required=True, help='Dataset to use (kis, kis_sample, squad-dev, squad-train)',
-                        choices=['kis', 'kis_sample',
-                                 'squad-dev', 'squad-train',
-                                 'hotpotqa-dev',  'hotpotqa-train', 'hotpotqa-test'])
+    parser.add_argument('--maxQuestion', required=False, default=None ,type=int, help='Maximum number of questions to test')
+    parser.add_argument('--maxKnowledge', required=False, default=None ,type=int, help='Maximum number of knowledge items to use')
+    parser.add_argument('--maxParagraph', required=False, default=None ,type=int, help='Maximum number of paragraph to use')
+    parser.add_argument('--dataset', required=True, help='Dataset to use (kis, squad or hotpotqa)', 
+                        choices=['kis', 'kis_sample', 
+                                'squad-dev', 'squad-train', 
+                                'hotpotqa-dev',  'hotpotqa-train', 'hotpotqa-test'])
     parser.add_argument('--randomSeed', required=False, default=None, type=int, help='Random seed to use')
-    # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
+
+    # For new teseting
+    parser.add_argument("--size", required=True, type=str, help="Dataset size to use", choices=["small", "medium", "large"])
+    parser.add_argument("--qa", required=False, type=int, default=500, help="Total number of testing QA pairs")
 
     args = parser.parse_args()
 
