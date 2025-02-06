@@ -228,9 +228,9 @@ def kvcache_test(args: argparse.Namespace):
         f.write(f"KVcache prepared in {prepare_time} seconds\n")
 
     if args.usePrompt:
-        results =[ ["idx", "generated_response", "ground_truth", "load_knowledge_time", "generate_time"]]
+        results = [["idx", "generated_response", "ground_truth", "load_knowledge_time", "generate_time", "bert_score"]]
     else:
-        results = [["idx","generated_response","ground_truth","reset_cache_time","generate_time"]]
+        results = [["idx","generated_response","ground_truth","reset_cache_time","generate_time", "bert_score"]]
     #idx, generated_response, ground_truth, reset_cache_time, generate_time
 
     dataset = list(dataset)  # Convert the dataset to a list
@@ -264,12 +264,15 @@ def kvcache_test(args: argparse.Namespace):
             output, ttft = generate_p(model, input_ids, DynamicCache()) 
             generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
             generate_end = time()
+            
+            similarity = cagsim.bert(generated_text, ground_truth)
             results.append([
                 id,
                 generated_text,
                 ground_truth,
                 ttft,
-                generate_end - generate_start
+                generate_end - generate_start,
+                similarity
             ])
         else:
             prompt = f"""
@@ -287,21 +290,24 @@ def kvcache_test(args: argparse.Namespace):
             generated_text = tokenizer.decode(output[0], skip_special_tokens=True, temperature=None)
             generate_end = time()
             generate_time = generate_end - generate_start
+
+            similarity = cagsim.bert(generated_text, ground_truth)
             results.append([
                 id,
                 generated_text,
                 ground_truth,
                 reset_cache_time,
-                generate_time
+                generate_time,
+                similarity
             ])
 
 
         # print("D: ", knowledges)
-        print("Q: ", question)
-        print("A: ", generated_text)
+        # print("Q: ", question)
+        # print("A: ", generated_text)
  
         # Evaluate bert-score similarity
-        similarity = cagsim.bert(generated_text, ground_truth)
+        # similarity = cagsim.bert(generated_text, ground_truth)
 
         with open(args.output, "w")  as f:
             writer = csv.writer(f)
