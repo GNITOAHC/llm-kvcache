@@ -31,7 +31,7 @@ for entry in "${sizes_qa_list[@]}"; do
         echo ""
         python ./kvcache.py --dataset "$dataset" --size "$size" --qa "$qa" \
             --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  "$randomSeed" \
-            --similarity "bertscore" \
+            --kvcache file --similarity "bertscore" \
             --output "./results/new_results/${dataset}_${size}_kvcache_withCAG_qa_${qa}_rand_${randomSeed}.csv"
 
         # Without KVCACHE
@@ -40,7 +40,7 @@ for entry in "${sizes_qa_list[@]}"; do
         echo ""
         python ./kvcache.py --dataset "$dataset" --size "$size" --qa "$qa" \
             --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  "$randomSeed" \
-            --usePrompt --similarity "bertscore" \
+            --kvcache file --usePrompt --similarity "bertscore" \
             --output "./results/new_results/${dataset}_${size}_kvcache_noCAG_qa_${qa}_rand_${randomSeed}.csv"    
 
         for index in "${indices[@]}"; do
