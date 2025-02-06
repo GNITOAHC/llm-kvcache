@@ -269,7 +269,7 @@ def kvcache_test(args: argparse.Namespace):
                 generated_text,
                 ground_truth,
                 ttft,
-                generate_time
+                generate_end - generate_start
             ])
         else:
             prompt = f"""
