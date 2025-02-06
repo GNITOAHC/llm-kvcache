@@ -25,6 +25,24 @@ for entry in "${sizes_qa_list[@]}"; do
         randomSeed=$(shuf -i 1-100000 -n 1)
         num=$(($i / $qa))
 
+        # With KVCACHE: Using CAG
+        echo ""
+        echo "[ HotpotQA $size $num, $i / $total_qa ]: Running KVCACHE using CAG"
+        echo ""
+        python ./kvcache.py --dataset "$dataset" --size "$size" --qa "$qa" \
+            --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  "$randomSeed" \
+            --similarity "bertscore" \
+            --output "./results/new_results/${dataset}_${size}_kvcache_withCAG_qa_${qa}_rand_${randomSeed}.csv"
+
+        # Without KVCACHE
+        echo ""
+        echo "[ HotpotQA $size $num, $i / $total_qa ]: Running KVCACHE not using CAG"
+        echo ""
+        python ./kvcache.py --dataset "$dataset" --size "$size" --qa "$qa" \
+            --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  "$randomSeed" \
+            --usePrompt --similarity "bertscore" \
+            --output "./results/new_results/${dataset}_${size}_kvcache_noCAG_qa_${qa}_rand_${randomSeed}.csv"         
+
         for index in "${indices[@]}"; do
             for topk in "${top_k[@]}"; do
                 echo ""
@@ -37,22 +55,5 @@ for entry in "${sizes_qa_list[@]}"; do
             done
         done
 
-        # With KVCACHE: Using CAG
-        echo ""
-        echo "[ HotpotQA $size $num, $i / $total_qa ]: Running KVCACHE using CAG"
-        echo ""
-        python ./kvcache.py --dataset "$dataset" --size "$size" --qa "$qa" \
-            --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  "$randomSeed" \
-            --similarity "bertscore" \
-            --output "./results/new_results/${dataset}_${size}_kvcache_${index}_${topk}_qa_${qa}_rand_${randomSeed}.csv"
-
-        # Without KVCACHE
-        echo ""
-        echo "[ HotpotQA $size $num, $i / $total_qa ]: Running KVCACHE not using CAG"
-        echo ""
-        python ./kvcache.py --dataset "$dataset" --size "$size" --qa "$qa" \
-            --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  "$randomSeed" \
-            --usePrompt --similarity "bertscore" \
-            --output "./results/new_results/${dataset}_${size}_kvcache_${index}_${topk}_qa_${qa}_rand_${randomSeed}.csv"         
     done
 done
