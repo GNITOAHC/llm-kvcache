@@ -1,19 +1,19 @@
 #!/bin/bash
 
-# squad-train
-# "small": 3   # 3 docs ≈ 21k tokens
-# "medium": 4  # 4 docs ≈ 32k tokens
-# "large": 7   # 7 docs ≈ 50k tokens
+# hotpotqa-train
+# "small": 16  # 16 docs ≈ 21k tokens  
+# "medium": 32 # 32 docs ≈ 43k tokens  
+# "large": 64  # 64 docs ≈ 85k tokens  
 
 indices=("bm25" "openai")
 top_k=("1" "3" "5" "10")
-total_qa=1500
+total_qa=500
 
-dataset="squad-train"
+dataset="hotpotqa-train"
 sizes_qa_list=(
-    "small 500"
-    "medium 500"
-    "large 500"
+    # "small 16"
+    "medium 32"
+    # "large 64"
 )
 
 for entry in "${sizes_qa_list[@]}"; do
@@ -28,7 +28,7 @@ for entry in "${sizes_qa_list[@]}"; do
         for index in "${indices[@]}"; do
             for topk in "${top_k[@]}"; do
                 echo ""
-                echo "[ SQuAD $size $num, $i / $total_qa ]: Running RAG with $index, topk ${topk}"
+                echo "[ HotpotQA $size $num, $i / $total_qa ]: Running RAG with $index, topk ${topk}"
                 echo ""
                 python ./rag.py --dataset "$dataset" --size "$size" --qa "$qa" \
                     --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  "$randomSeed" \
@@ -39,7 +39,7 @@ for entry in "${sizes_qa_list[@]}"; do
 
         # With KVCACHE: Using CAG
         echo ""
-        echo "[ SQuAD $size $num, $i / $total_qa ]: Running KVCACHE using CAG"
+        echo "[ HotpotQA $size $num, $i / $total_qa ]: Running KVCACHE using CAG"
         echo ""
         python ./kvcache.py --dataset "$dataset" --size "$size" --qa "$qa" \
             --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  "$randomSeed" \
@@ -48,7 +48,7 @@ for entry in "${sizes_qa_list[@]}"; do
 
         # Without KVCACHE
         echo ""
-        echo "[ SQuAD $size $num, $i / $total_qa ]: Running KVCACHE not using CAG"
+        echo "[ HotpotQA $size $num, $i / $total_qa ]: Running KVCACHE not using CAG"
         echo ""
         python ./kvcache.py --dataset "$dataset" --size "$size" --qa "$qa" \
             --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  "$randomSeed" \
