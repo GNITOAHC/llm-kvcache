@@ -288,7 +288,6 @@ def load_quantized_model(model_name, hf_token=None):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run RAG test with specified parameters.")
     parser.add_argument('--kvcache', choices=['file'], required=True, help='Method to use (from_file or from_var)')
-    parser.add_argument('--output', required=True, type=str, help='Output file to save the results')
     parser.add_argument('--usePrompt', default=False, action="store_true", help='Do not use cache')
     # 48 Articles, each article average 40~50 paragraph, each average 5~10 questions
     parser.add_argument('--modelname', required=False, default="meta-llama/Llama-3.2-1B-Instruct", type=str, help='Model name to use')
