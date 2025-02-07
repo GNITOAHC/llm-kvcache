@@ -1,0 +1,81 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Cannes Film Festival.,Cannes Film Festival,0.0010254383087158203,2.1548116207122803,0.9758018851280212
+1,There is no information about a neighboring location near CityCentre being constructed in the early 1960s.,Memorial City Mall,0.0008742809295654297,0.9690253734588623,0.23796026408672333
+2,Szombathelyi Haladás,Szombathelyi Haladás,0.0007519721984863281,0.4525725841522217,1.0
+3,Cole Aldrich.,Jamal Crawford,0.0007462501525878906,0.2971029281616211,0.45824572443962097
+4,Yes.,yes,0.0006263256072998047,0.21815943717956543,0.836855947971344
+5,There is no information about Jaroslav Seifert's place of origin.,Timothy Francis Leary,0.0006663799285888672,0.7318382263183594,0.04896072298288345
+6,Dan Bilzerian.,Brandon,0.0006728172302246094,0.33730602264404297,0.38871103525161743
+7,Steve Anderson.,Walt Disney,0.0007779598236083984,0.25774645805358887,0.2571249008178711
+8,"The CBS drama ""Wisdom of the Crowd"" in which Blake Lee plays Josh Novak premiered in 2017.","October 1, 2017",0.0006313323974609375,1.0862879753112793,0.15461371839046478
+9,The Bling Ring.,The Bling Ring,0.0006268024444580078,0.3383791446685791,0.9865915775299072
+10,Sympathy for Mr. Vengeance.,Sympathy for Mr. Vengeance,0.0006186962127685547,0.49312782287597656,0.9880066514015198
+11,Macbeth.,"""Macbeth""",0.0006525516510009766,0.25916457176208496,0.9154202938079834
+12,World War I.,World War II,0.0006566047668457031,0.300412654876709,0.7649798393249512
+13,Vijay Iyer.,Vijay Iyer,0.0006074905395507812,0.3170788288116455,0.984186053276062
+14,Jeff Wincott is older.,Jeffrey Wincott,0.0005865097045898438,0.41596293449401855,0.6995419263839722
+15,I couldn't find any information about an Albanian citizen who sings in both Italian and Spanish.,Albano Carrisi,0.0006051063537597656,0.8886463642120361,0.26589637994766235
+16,SpongeBob SquarePants.,Stephen Hillenburg,0.0007159709930419922,0.3765571117401123,0.17023473978042603
+17,British (Howard Skempton),English,0.0006110668182373047,0.3961331844329834,0.33713096380233765
+18,Fox Sports 1.,Fox Sports 1,0.0006396770477294922,0.33866381645202637,0.9868631958961487
+19,Uhrichsville.,Uhrichsville,0.0006470680236816406,0.299527645111084,0.9861499667167664
+20,Stansted Airport terminal building.,London Stansted Airport,0.0007011890411376953,0.37827610969543457,0.819890558719635
+21,"The Indian Tamil film ""Veettuku Veedu"" (1970) was released first.",South Korean comedy horror film.,0.0006353855133056641,0.929091215133667,0.34110838174819946
+22,Tennis.,tennis,0.000667572021484375,0.19645357131958008,0.9499958753585815
+23,Cantinflas and David Niven.,Cantinflas and David Niven,0.0006000995635986328,0.49489378929138184,0.9820008277893066
+24,"West Chester, Pennsylvania.","18,461",0.0006794929504394531,0.3368256092071533,0.0730280876159668
+25,Michael Keaton.,Andy García,0.0006628036499023438,0.2994248867034912,0.2995768189430237
+26,"The film is ""Sleepy Hollow"".",Tim Burton,0.0006303787231445312,0.4576230049133301,0.2791803181171417
+27,Yes.,yes,0.0007307529449462891,0.2195119857788086,0.836855947971344
+28,The Life of Birds (1998) was released before Genghis Blues (1999).,The Life of Birds,0.0006411075592041016,0.8891100883483887,0.5542637705802917
+29,I don't have information about the birth year of the coach of the 2007-08 Feyenoord season.,1952,0.0007300376892089844,1.0866241455078125,0.25900745391845703
+30,"in 1981, Garrin eventually emerged as one of the important collaborators of video art superstar Nam June Paik, working closely from 1982 to 1996.
+
+John Merrick (insurance): 
+John Merrick (1859–1919) was an African-American entrepreneur whose life represents a rags-to-riches story. Born into slavery in Clinton, North Carolina, Merrick relied on his social savvy, entrepreneurial spirit, and inner drive to achieve great personal wealth by founding various companies in the Raleigh, North Carolina and Durham, North Carolina areas, most notably the North Carolina Mutual Life Insurance Company. Portions of his wealth were channeled back into the black community through philanthropy. John Merrick was a great man- his business acumen and social consciousness made him one of the most influential members of the African-American community in his lifetime.
+
+Padman: 
+Padman is an upcoming 2018 Indian Hindi comedy-drama film featuring Akshay Kumar, Sonam Kapoor and Radhika Apte in lead roles. Amitabh Bachchan will appear in a special role. The film is inspired from the life of Arunachalam Muruganantham.
+
+Gold (2018 film): 
+Gold is an upcoming 2018 Indian sports film, directed by Reema Kagti and produced by Ritesh Sidhwani and Farhan Akhtar under the banner Excel Entertainment. It is a biopic based on the life of hockey player Balbir Singh, who was on the team that won the first Olympic medal for India as a free nation in 1948.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What is the invention of the social entrepreneur whose life is the subject of an upcoming 2018 Indian film called 'Padman'?
+        
+        assistant
+         Sanitary napkin.",low-cost sanitary pad making machine,0.0007402896881103516,0.3351552486419678,0.009776346385478973
+31,American Pimp (1999) was created before Where Have All the Flowers Gone? (2008).,American Pimp,0.0006906986236572266,0.933783769607544,0.6410660743713379
+32,Flight of the Navigator.,Flight of the Navigator,0.0006635189056396484,0.34137487411499023,0.9781550765037537
+33,"""Nocturnal Animals""",Tony and Susan,0.0006840229034423828,0.37776994705200195,0.045482784509658813
+34,John Toland.,John Willard Toland,0.0007302761077880859,0.2789340019226074,0.7817814946174622
+35,I don't have information about an actress named Ambili in the film Yamanam.,Archana,0.0007190704345703125,0.85317063331604,0.12080122530460358
+36,Cliffhanger.,Renny Harlin,0.0007405281066894531,0.2988452911376953,0.10882595926523209
+37,"Pema Lhaki, a Tibetan tailor and wife of Peter Aufschnaiter.",Pema Lhaki,0.0007069110870361328,0.8880071640014648,0.6982614994049072
+38,Tuller School.,Tuller School,0.0006120204925537109,0.33883166313171387,0.9858537912368774
+39,University of Hawaii.,Western Association of Schools and Colleges,0.000614166259765625,0.3004751205444336,0.4537854790687561
+40,The Go-Betweens had more bandmates.,The Go-Betweens,0.0005891323089599609,0.5746557712554932,0.7188461422920227
+41,Jim Carrey.,Jim Carrey,0.0006182193756103516,0.2998991012573242,0.9696862101554871
+42,Quentin Elias has had a solo singing career.,Toshimitsu Deyama,0.0006320476531982422,0.4961214065551758,0.030378546565771103
+43,The School Boys.,The School Boys,0.0006840229034423828,0.29953861236572266,0.9777308702468872
+44,Saraghrar.,Saraghrar,0.0006155967712402344,0.3389573097229004,0.9763875007629395
+45,Jena Malone.,Jena Malone,0.0005898475646972656,0.30007410049438477,0.9770190119743347
+46,Mark Burnett.,Charlie Parsons,0.0006692409515380859,0.2616450786590576,0.5085614919662476
+47,The Residences Providence is taller.,Marine Midland Building,0.0006113052368164062,0.39553213119506836,0.2698289453983307
+48,Ruth Plumly Thompson.,John R. Neill,0.0005781650543212891,0.31696057319641113,0.2068236768245697
+49,Los Angeles.,Los Angeles,0.0005915164947509766,0.26146984100341797,0.9625944495201111
+50,The New Kingdom.,New Kingdom of Egypt,0.0006983280181884766,0.30249738693237305,0.709037721157074
+51,2016.,2016,0.0005550384521484375,0.29943370819091797,0.9577949643135071
+52,They are both albums by G-Eazy.,rapper,0.0005729198455810547,0.4969749450683594,0.38048210740089417
+53,"December 2, 1409.","December 2, 1409",0.0005793571472167969,0.44083356857299805,0.9870858788490295
+54,29.5 miles.,29.5 mi south,0.0006728172302246094,0.37888622283935547,0.6571487784385681
+55,Satchel Paige.,Satchel Paige,0.0006482601165771484,0.3392176628112793,0.9862974882125854
+56,Cape Elizabeth.,Cumberland,0.0005712509155273438,0.2591109275817871,0.35089290142059326
+57,1974,1888,0.0006935596466064453,0.25911951065063477,0.39883866906166077
+58,Amarillo.,"199,582",0.0006275177001953125,0.26143765449523926,0.05111996829509735
+59,The Fascist Order of the Roman Eagle.,The National Fascist Party,0.0006072521209716797,0.49369144439697266,0.5539705157279968
+60,268.,268,0.0006124973297119141,0.26182103157043457,0.9527032971382141
+61,Armenian.,Armenian,0.0006046295166015625,0.22216081619262695,0.9639847278594971
+62,October 2011.,In November 2011,0.0005638599395751953,0.3386828899383545,0.8556987047195435
+63,The fourth.,fourth,0.0008141994476318359,0.2637641429901123,0.814795970916748

@@ -1,0 +1,501 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,The term for the liberal groups appearing at this time is not explicitly mentioned in the given context.,New Left,0.0008294582366943359,2.4878084659576416,0.24751368165016174
+1,Cotton yarn can be used in crochet and knitting.,crochet and knitting,0.001073598861694336,0.817312479019165,0.7793648838996887
+2,"""Superheroes in the real world"" approach.","""superheroes in the real world""",0.0009036064147949219,0.7995405197143555,0.9100666046142578
+3,18th and 19th centuries.,late 18th and early 19th,0.0008711814880371094,0.7558143138885498,0.7712532877922058
+4,The FBI and the CIA had a lack of cooperation.,"FBI, CIA",0.0007894039154052734,0.8527827262878418,0.533152163028717
+5,"42,094.","42,094",0.0008995532989501953,0.5686502456665039,0.9812428951263428
+6,Real-life cities.,real-life cities,0.0008528232574462891,0.5190434455871582,0.9723547697067261
+7,Egypt.,Egyptian,0.0007572174072265625,0.44317007064819336,0.8043161630630493
+8,6000-5000 BCE.,Neolithic,0.0007710456848144531,0.7029845714569092,0.42856359481811523
+9,The U.S Supreme Court.,Supreme Court,0.0007917881011962891,0.6097276210784912,0.8750542402267456
+10,"Ladybirds, lacewings, and spiders.","ladybirds, lacewings and spiders",0.0009000301361083984,0.8030333518981934,0.9756391048431396
+11,Some of Marvel's genre titles were published in larger-format black and white magazines under its Curtis Magazines imprint.,"larger-format black and white magazines, under its Curtis Magazines imprint",0.00078582763671875,1.3851385116577148,0.8177821636199951
+12,The text does not mention an agency asking Marvel to tackle an issue.,drug abuse,0.0009074211120605469,0.9178879261016846,0.03445460647344589
+13,The FBI is a federal law enforcement agency.,FBI is primarily a domestic agency,0.0008258819580078125,0.7542819976806641,0.8439191579818726
+14,"""Seekers of the Weird""","""Seekers of the Weird""",0.0008420944213867188,0.6661145687103271,0.9999998807907104
+15,Guardians of the Galaxy.,Guardians of the Galaxy,0.0007822513580322266,0.49244189262390137,0.9728192090988159
+16,"4 men were allowed to be convicted of the March 1965 gangland murder of Edward ""Teddy"" Deegan.",four,0.0009140968322753906,1.5580072402954102,0.20980983972549438
+17,"The US government reacted by investigating and prosecuting the Soviet spies, and also by re-evaluating and reforming the FBI's policies and procedures, including the organized crime informant program, following the discovery of its failures.","The country was ""jolted""",0.0009517669677734375,2.3656723499298096,0.19409824907779694
+18,Pocket Books.,Pocket Books,0.0009088516235351562,0.44142866134643555,0.9722139835357666
+19,1764 (James Hargreaves' spinning jenny),1738,0.0008378028869628906,0.9924912452697754,0.359862744808197
+20,"The Image versions of Marvel characters, as part of the ""Heroes Reborn"" crossover, were set in a parallel universe with a distinct history from the mainstream Marvel Universe.",a parallel universe with a history distinct from the mainstream,0.0009043216705322266,1.9394011497497559,0.49683892726898193
+21,3300-1300 BCE.,3300 and 1300 BCE,0.0008618831634521484,0.7138049602508545,0.9734699726104736
+22,1466,1466,0.0008423328399658203,0.47069334983825684,1.0
+23,Windy conditions.,windy,0.0007538795471191406,0.5414395332336426,0.8928344249725342
+24,An assistant director heads an office or division.,an assistant director,0.0007236003875732422,0.7590105533599854,0.8165291547775269
+25,Cotton can be blended with other fibers such as rayon and synthetic fibers like polyester to make various fabrics.,knitted or woven,0.0009140968322753906,1.3243613243103027,0.4779687523841858
+26,"The FBI Laboratory was located in the J. Edgar Hoover Building until its completion in 1974, and it also maintained a second lab at the FBI Academy.",J. Edgar Hoover Building,0.0008533000946044922,1.8589649200439453,0.6332606077194214
+27,10.6 million hectares.,10.6 million hectares,0.0008788108825683594,0.6677069664001465,0.9912165403366089
+28,"The FBI Academy in Quantico, Virginia.",The FBI Academy,0.0009491443634033203,0.7575724124908447,0.837432324886322
+29,"800,000.","800,000",0.0008411407470703125,0.5685434341430664,0.9745969176292419
+30,Imperial Russian troops.,Russian troops,0.0008821487426757812,0.5168554782867432,0.873579740524292
+31,Diamond Comic Distributors Inc.,Heroes World Distribution,0.0008151531219482422,0.6352856159210205,0.3668670356273651
+32,The United States Senate.,United States Senate,0.0008969306945800781,0.564354658126831,0.9147611260414124
+33,The X-Files.,X-Files,0.0009520053863525391,0.5590214729309082,0.8907632827758789
+34,The Treaty of Versailles.,Versailles,0.0009219646453857422,0.6139822006225586,0.6756105422973633
+35,The text does not explicitly state when Marvel was founded.,1939,0.0008001327514648438,0.8716387748718262,0.21140038967132568
+36,West Germany.,West Germany,0.0008749961853027344,0.47335338592529297,0.9686709642410278
+37,Frank Miller.,Frank Miller,0.0008788108825683594,0.46898889541625977,0.9760807156562805
+38,"The updating of the Comics Code in 1971 allowed Marvel to expand into more adult-themed genre stories, such as horror, martial arts, and science fiction.",the updating of the Comics Code,0.0007803440093994141,1.7733142375946045,0.6195555329322815
+39,Lisle.,Cotton lisle,0.0009541511535644531,0.4747946262359619,0.6205583810806274
+40,Joe Simon.,Joe Simon,0.0008640289306640625,0.46495628356933594,0.9723016023635864
+41,"Yes, the RICO Act is still used today for all organized crime and any individuals who might fall under the Act.",The RICO Act is still used,0.0007879734039306641,1.4657700061798096,0.8504828810691833
+42,"Editor, Managing Editor, and Business Manager.",publisher,0.0008924007415771484,0.7586836814880371,0.44135159254074097
+43,Uncanny X-Men and Daredevil.,Spider-Man and the Fantastic Four,0.0009701251983642578,0.714674711227417,0.5133253335952759
+44,Preference-eligible veterans.,preference-eligible veterans,0.0009665489196777344,0.5645215511322021,0.9801581501960754
+45,Children.,children,0.0007851123809814453,0.447507381439209,0.9571406245231628
+46,The Caribbean.,Caribbean,0.0008001327514648438,0.4907495975494385,0.9137884378433228
+47,Poland and the Soviet Union.,Poland and the Soviet Union,0.0008931159973144531,0.616206169128418,0.9595249891281128
+48,The South Tower.,South Tower,0.0007898807525634766,0.5160622596740723,0.9349942207336426
+49,Marvel ReEvolution.,Marvel ReEvolution,0.0007617473602294922,0.5884363651275635,0.9867786169052124
+50,1773,31 January 1773,0.0007777214050292969,0.47301578521728516,0.7992103099822998
+51,"The 1993 World Trade Center bombing, 1995 Oklahoma City bombing, and the arrest of the Unabomber in 1996 prompted the FBI to increase its counter-terrorism role.",World Trade Center bombing,0.0008242130279541016,2.18034029006958,0.6475627422332764
+52,"The files revealed the FBI's extensive investigations into the lives of ordinary citizens, including assassinations of political activists and the targeting of a black student group and the daughter of a congressman.",investigations into lives of ordinary citizens,0.000865936279296875,2.0293586254119873,0.5287265777587891
+53,The Central Intelligence Agency (CIA).,CIA,0.0009932518005371094,0.7094910144805908,0.8004663586616516
+54,COINTELPRO.,COINTELPRO,0.0007731914520263672,0.5884642601013184,0.9868662357330322
+55,Yes.,Numerous files were taken,0.0009021759033203125,0.4263041019439697,0.05232603847980499
+56,18 months.,18-month,0.0009098052978515625,0.5218982696533203,0.9061068892478943
+57,Selling US secrets to the USSR and Russia for over $1.4 million.,spying for the Soviet Union,0.0007822513580322266,1.080338716506958,0.5777822136878967
+58,Split vacations.,split vacations,0.0008952617645263672,0.47231411933898926,0.9789732694625854
+59,Cotton stripper.,cotton picker,0.0009374618530273438,0.47617101669311523,0.7139633893966675
+60,John Chardin.,John Chardin,0.0009443759918212891,0.5236194133758545,0.9731547236442566
+61,"Virgil Griffith created a database to detect conflict of interest edits on Wikipedia, specifically focusing on edits made by anonymous Wikipedia editors from companies and organizations.",computation and neural-systems,0.0008299350738525391,1.703866958618164,0.08133004605770111
+62,The cotton gin.,cotton gin,0.0009367465972900391,0.5211677551269531,0.9431724548339844
+63,The Teutonic Knights.,Teutonic Knights,0.0008554458618164062,0.6316337585449219,0.9648184776306152
+64,"The Uniform Crime Reports (UCR) compiles data from over 17,000 law enforcement agencies.",The Uniform Crime Reports,0.000885009765625,1.3229320049285889,0.5584663152694702
+65,Model diploid genomes.,diploid counterparts,0.0009465217590332031,0.5656406879425049,0.6825138330459595
+66,"600 to 1,200 mm (24 to 47 in)","600 to 1,200 mm",0.0009028911590576172,1.0402023792266846,0.9186713099479675
+67,Yes.,must also hold American citizenship,0.0008654594421386719,0.4300346374511719,0.10692674666643143
+68,Captain Britain.,Captain Britain,0.0008549690246582031,0.471860408782959,0.970586895942688
+69,The FBI believed they could match bullets to a single box of ammunition using chemical signatures.,single box of bullets,0.0008547306060791016,1.1313352584838867,0.566521167755127
+70,Atlas Comics.,Atlas Comics,0.0007829666137695312,0.47178030014038086,0.9725524187088013
+71,"No, many people, including civil rights leaders, believed they were not served well by the FBI, citing instances of surveillance and inaction in solving murders.",not been well served,0.0007545948028564453,1.7924749851226807,0.1784050464630127
+72,The overall continuity of the fictional Marvel Universe.,overall continuity of the fictional Marvel Universe,0.0009710788726806641,0.7554662227630615,0.9480900764465332
+73,"265,517 bales.","265,517 bales",0.0008645057678222656,0.6644132137298584,0.9830222129821777
+74,"Agency cultures resistant to change, inappropriate incentives for promotion, and a lack of cooperation between the FBI, CIA, and the rest of the US Intelligence Community.",FBI's decentralized structure,0.0008234977722167969,1.7919251918792725,0.4974266290664673
+75,1820s.,"1820's,",0.0008647441864013672,0.584913969039917,0.72884202003479
+76,23 years old.,23,0.0008623600006103516,0.5382308959960938,0.6776984333992004
+77,Erich Koch.,Erich Koch,0.0008232593536376953,0.5420088768005371,0.981653094291687
+78,Provinzialverband.,Provinzialverband,0.0008020401000976562,0.6132094860076904,0.9764822125434875
+79,Germans.,eliminating all remnants of German history,0.0008504390716552734,0.42654991149902344,0.46486127376556396
+80,Pat Boone.,Pat Boone,0.0008664131164550781,0.4681229591369629,0.9750808477401733
+81,Bt cotton.,Bt cotton,0.0007469654083251953,0.5230231285095215,0.9857127070426941
+82,Life in prison.,life in prison,0.0008552074432373047,0.5239813327789307,0.9426422119140625
+83,"45 camps were established for about 200,000-250,000 forced laborers.",45 camps,0.0007996559143066406,1.2324252128601074,0.7089707851409912
+84,"1,500.","1,500",0.0008554458618164062,0.5697088241577148,0.9710748791694641
+85,The National Academy of Sciences found the FBI's analytic model for interpreting bullet-lead analysis results was deeply flawed.,deeply flawed,0.0008914470672607422,1.375659465789795,0.351421058177948
+86,"Memphis, Tennessee.","Memphis, Tennessee",0.0009396076202392578,0.5206215381622314,0.9782525300979614
+87,"Image Comics, in collaboration with Marvel, helped to relaunch and revamp classic Marvel teams The Avengers and the Fantastic Four through the ""Heroes Reborn"" crossover in 1996.",Image Comics,0.0009465217590332031,2.008713960647583,0.6089958548545837
+88,India.,India,0.0008857250213623047,0.4252943992614746,0.9400805234909058
+89,"Altpreußen (""Old Prussia""), the province of Prussia, or ""East Prussia"".","Altpreußen (""Old Prussia"")",0.0007791519165039062,1.3217158317565918,0.8831177949905396
+90,Leonard W. Hatton Jr.,Leonard W. Hatton Jr,0.0008819103240966797,0.6546614170074463,0.9942891597747803
+91,Pedro Albizu Campos.,Pedro Albizu Campos,0.0008385181427001953,0.5609831809997559,0.9848271608352661
+92,Jim Shooter became Marvel's editor-in-chief in 1978.,Jim Shooter,0.0008661746978759766,0.9412269592285156,0.6136564016342163
+93,An executive assistant director manages each branch.,An executive assistant director,0.0008876323699951172,0.7106459140777588,0.7791949510574341
+94,1976,October 1976,0.0009012222290039062,0.47086668014526367,0.864741325378418
+95,Between 2000 and 1000 BC.,2000 and 1000 BC,0.0007536411285400391,0.8061745166778564,0.913970947265625
+96,State and local law enforcement agencies.,state and local law enforcement agencies,0.0008177757263183594,0.6644840240478516,0.9295051097869873
+97,Company-wide crossover story arcs.,crossover story arcs,0.0008652210235595703,0.6081466674804688,0.8576116561889648
+98,Britain.,Britain,0.0007338523864746094,0.4249606132507324,0.9347862601280212
+99,Reduce or eliminate subsidies to the US cotton industry.,reduction,0.0008406639099121094,0.8054745197296143,0.32571208477020264
+100,"The difference was the quality of the cotton, specifically the extra-long staple Maho (Barbadence) cotton grown in Lower Egypt, which was preferred over Indian cotton.","longer, stronger fibers",0.0008831024169921875,1.9389734268188477,0.26506364345550537
+101,M. Jumel.,M. Jumel,0.0008640289306640625,0.6352202892303467,0.9886516332626343
+102,Bill Everett.,Bill Everett,0.0008387565612792969,0.4723806381225586,0.977570652961731
+103,"Violent crimes, hate crimes, and property crimes.","violent crimes, hate crimes, and property crimes",0.0008115768432617188,0.8428933620452881,0.9545746445655823
+104,"Albert's line died out, and the Duchy of Prussia passed to the Electors of Brandenburg, forming Brandenburg-Prussia.",Albert's line died out,0.00083160400390625,1.6937828063964844,0.5947822332382202
+105,Star Wars,Star Wars,0.0009050369262695312,0.4272129535675049,1.0
+106,1772.,1772,0.0008308887481689453,0.5150778293609619,0.9640076160430908
+107,"The ""White Slave Traffic Act,"" or Mann Act, passed on June 25, 1910.",White Slave Traffic Act,0.0007491111755371094,1.321810245513916,0.7626632452011108
+108,They largely evacuated during the war or were expelled shortly thereafter.,evacuated during the war,0.0008702278137207031,0.8967320919036865,0.7804486751556396
+109,Deputy Assistant Directors lead the sub-branches.,deputy assistant directors,0.0007741451263427734,0.7581214904785156,0.7982219457626343
+110,Cotton's steady decline in market share.,decline in market share,0.0009152889251708984,0.7116215229034424,0.6360992789268494
+111,"December 7, 1941.","December 7, 1941",0.000835418701171875,0.732069730758667,0.9869564175605774
+112,The Communications Act of 1934.,Communications Act of 1934,0.0009033679962158203,0.7293004989624023,0.9853013753890991
+113,The Treaty of Versailles.,Treaty of Versailles,0.000911712646484375,0.6346120834350586,0.93744957447052
+114,1824,1824,0.0008237361907958984,0.46978282928466797,1.0
+115,Diamond Comic Distributors Inc.,Diamond Comic Distributors Inc,0.0009350776672363281,0.6315741539001465,0.9929938912391663
+116,Eight Nazi agents were arrested.,Eight,0.0008115768432617188,0.6161890029907227,0.3672746419906616
+117,Because the Duchy of Prussia was outside of the core Holy Roman Empire.,Because the duchy was outside of the core Holy Roman Empire,0.000797271728515625,1.086318016052246,0.8651039600372314
+118,The team of artist and writer that helped popularize the Uncanny X-Men line of comics in the 1980s was Chris Claremont and Jim Lee.,Chris Claremont and John Byrne,0.0008478164672851562,1.8442955017089844,0.577483057975769
+119,The Federal Bureau of Investigation (FBI) is the domestic intelligence and security service for the US.,FBI,0.0008745193481445312,1.2768144607543945,0.7114499807357788
+120,"Computer viruses, worms, and other malicious programs that threatened US operations.",Internet-related problems,0.0008671283721923828,1.0106136798858643,0.32723134756088257
+121,"The United States Department of Health, Education, and Welfare.","United States Department of Health, Education, and Welfare",0.0009753704071044922,0.8941564559936523,0.9612436890602112
+122,Secret identities.,costumes,0.0009469985961914062,0.47098517417907715,0.3650548458099365
+123,The text does not mention the American cotton industry failing.,American Civil War,0.0009381771087646484,0.8509318828582764,0.18639424443244934
+124,Some people described Filiberto Ojeda Ríos's death as an assassination.,assassination,0.0008823871612548828,1.1746141910552979,0.4824897348880768
+125,The Hulk's stories are often set in the American Southwest.,Hulk,0.0008876323699951172,0.8988816738128662,0.5750644207000732
+126,1939.,1939,0.0008420944213867188,0.5405170917510986,0.9678189158439636
+127,289 times.,289,0.0008668899536132812,0.5127856731414795,0.5000767707824707
+128,The cotton plant is a perennial crop.,perennial,0.0008301734924316406,0.7247676849365234,0.6292608976364136
+129,Investigating anti-war activities and alleged ties to the Communist party.,antiwar activities,0.0008132457733154297,0.9643368721008301,0.5397393703460693
+130,Fair trade system.,fair trade,0.0008716583251953125,0.5260374546051025,0.5940890908241272
+131,The FBI shares jurisdiction with the Drug Enforcement Administration (DEA) in enforcing the Controlled Substances Act of 1970.,DEA,0.0008516311645507812,1.5077528953552246,0.5632854700088501
+132,The plague and famine of 1709-1711.,the plague and famine,0.0009682178497314453,0.8963391780853271,0.7483580112457275
+133,The 1930s.,1930s,0.0008087158203125,0.61236572265625,0.9388071894645691
+134,A warrant.,a warrant,0.0008487701416015625,0.4738929271697998,0.9716577529907227
+135,DC Comics.,DC Comics,0.0007691383361816406,0.47601795196533203,0.9635162353515625
+136,The Inhumans and Black Panther.,"Conan the Barbarian, Red Sonja",0.0009543895721435547,0.7062821388244629,0.2461044192314148
+137,Jack Kirby.,Jack Kirby,0.0009038448333740234,0.47559356689453125,0.9732265472412109
+138,1945.,1945,0.0008783340454101562,0.5204384326934814,0.9676908850669861
+139,May–July 1971.,May–July 1971,0.0008375644683837891,0.659898042678833,0.9853945970535278
+140,The Indus Valley Civilization in Ancient India (modern-day Pakistan and some parts of India).,"Mehrgarh, Pakistan",0.0007529258728027344,1.1855220794677734,0.4277530312538147
+141,Cottonseed meal is used as feed for ruminant livestock.,ruminant livestock,0.0008544921875,0.9415984153747559,0.614322304725647
+142,16 years.,16,0.0007987022399902344,0.5251846313476562,0.6754528284072876
+143,New York City.,"New York City, New York",0.0008947849273681641,0.5183007717132568,0.9153382778167725
+144,The Cold War era.,Cold War,0.0008740425109863281,0.5614335536956787,0.7719757556915283
+145,"British rule made Indian cotton processing uncompetitive due to aggressive colonialist policies, forcing India to supply only raw cotton and purchase manufactured textiles from Britain.",declined,0.0009152889251708984,1.7077655792236328,0.05711971968412399
+146,The Marvel Universe.,Marvel Universe,0.0009696483612060547,0.5219302177429199,0.9448559880256653
+147,$12 billion.,$12 billion,0.0008513927459716797,0.5200560092926025,0.9797762632369995
+148,48 years.,48,0.0007808208465576172,0.5183906555175781,0.5394613742828369
+149,"Clarksburg, West Virginia.","Clarksburg, West Virginia",0.0007576942443847656,0.663142204284668,0.9783117771148682
+150,Sampson Gamgee.,Sampson Gamgee,0.0008332729339599609,0.5716960430145264,0.9882314801216125
+151,Christianity.,Christianity,0.0008809566497802734,0.4248933792114258,0.9124829769134521
+152,The ancient methods of spinning and fabrication of cotton continued to be used until the industrialization of India.,industrialization,0.0008182525634765625,1.2809550762176514,0.4046366810798645
+153,The Fantastic Four.,The Fantastic Four,0.0008924007415771484,0.5173313617706299,0.9850859642028809
+154,October 1939.,Oct. 1939,0.0009238719940185547,0.5702798366546631,0.9362398982048035
+155,"Longer, stronger fibers.",cheap,0.0008687973022460938,0.590562105178833,0.1037413477897644
+156,The Director of National Intelligence (DNI).,Director of National Intelligence,0.0007750988006591797,0.7520127296447754,0.8375824093818665
+157,Elector Frederick III.,Frederick III,0.0008676052093505859,0.5677728652954102,0.7921909093856812
+158,Timely Comics.,Timely Publications,0.0008180141448974609,0.5144336223602295,0.5778294801712036
+159,"""Seekers of the Weird"", a five-issue miniseries, was the first title under the joint ""Disney Kingdoms"" imprint.",The Avengers Battle the Earth Wrecker by Otto Binder,0.0008332729339599609,1.6243915557861328,0.14840511977672577
+160,New York City.,New York,0.0009560585021972656,0.5155248641967773,0.9219122529029846
+161,"Yes, with reduced cuts to other well-established departments, the FBI reassigned agents to violent crime.",With reduced cuts to other well-established departments,0.0008771419525146484,1.2811918258666992,0.521592378616333
+162,The President of the United States appoints FBI directors.,President of the United States,0.0009176731109619141,0.8459665775299072,0.4588282108306885
+163,2010.,2010,0.0009012222290039062,0.447800874710083,0.9565384387969971
+164,Japanese Americans.,Japanese Americans,0.0008418560028076172,0.47728657722473145,0.9720603227615356
+165,"The Polish-Lithuanian-Teutonic War, which resulted in the defeat of the Teutonic Order at the Battle of Grunwald (Tannenberg) in 1410.",several wars,0.0008099079132080078,2.215487480163574,0.3102412223815918
+166,The FBI's COINTELPRO program.,COINTELPRO program,0.0008990764617919922,0.751746654510498,0.6806780099868774
+167,"Martin Luther King, Jr. began criticizing the FBI in the mid-1960s.",the Bureau,0.0008172988891601562,1.185800313949585,0.2534577250480652
+168,The text does not provide information about Marvel's business state in 2000. It only discusses the company's history and developments up to 1972.,bankruptcy,0.0008447170257568359,1.7931442260742188,0.1925400048494339
+169,Marvel ReEvolution initiative.,digital comics,0.000850677490234375,0.6154263019561768,0.431547075510025
+170,Hachette Distribution Services.,Hachette Distribution Services,0.000997304916381836,0.6356709003448486,0.9662882089614868
+171,Freedom of Information Act (FOIA),FOIA,0.0008802413940429688,0.7060530185699463,0.7893431782722473
+172,A warrant is required before a wiretap.,beforehand,0.0008845329284667969,0.7608003616333008,0.19493351876735687
+173,"1,996,626 people.","1,996,626 people",0.0008561611175537109,0.7087812423706055,0.9898589253425598
+174,"Lisle, France (now Lille).","Lisle, France",0.0008714199066162109,0.7594993114471436,0.832591712474823
+175,Reduced use of broad-spectrum insecticides.,noninsecticide,0.0009562969207763672,0.7554194927215576,0.4632822573184967
+176,Wiretapping with a warrant.,search a house while the residents are away,0.0008461475372314453,0.6622991561889648,0.18383198976516724
+177,Koch reported to Hitler that unemployment had been banished entirely from East Prussia.,that unemployment had been banished entirely,0.0009145736694335938,1.106651782989502,0.594971239566803
+178,"The FBI started investigating former Prohibition-organized groups, which had become fronts for crime in major cities and small towns.",former Prohibition-organized groups,0.0009448528289794922,1.4654111862182617,0.6445913314819336
+179,Cottonseed is used to produce cottonseed oil and cottonseed meal.,cottonseed oil,0.0009303092956542969,1.0109140872955322,0.815848171710968
+180,India.,India,0.0008864402770996094,0.44508838653564453,0.9400805234909058
+181,"Yes, many state and local agencies use the CJIS data systems as a source for their own investigations and contribute to the database using secure communications.",Many state and local agencies use these data,0.0008397102355957031,1.7030367851257324,0.5145426392555237
+182,The FBI Laboratory.,The FBI,0.0008833408355712891,0.5417699813842773,0.7630791664123535
+183,Glock Model 22 or Glock 23 in.40 S&W caliber.,Glock Model 22 pistol or a Glock 23 in .40 S&W caliber,0.0008218288421630859,1.0367259979248047,0.9434715509414673
+184,The chemicals industry.,chemicals industry,0.0009634494781494141,0.5368750095367432,0.9636421203613281
+185,2007.,2007,0.0009236335754394531,0.44606661796569824,0.9553945660591125
+186,Mikhail Kalinin.,Mikhail Kalinin,0.0008292198181152344,0.5254638195037842,0.978492021560669
+187,The Director of National Intelligence (DNI).,Director of National Intelligence,0.0008594989776611328,0.7571573257446289,0.8375824093818665
+188,"25,000.","25,000",0.0008654594421386719,0.569819450378418,0.9664661884307861
+189,The FBI believed civil rights leaders had communist ties or were unduly influenced by them.,communist ties,0.0008547306060791016,1.140878677368164,0.5295668244361877
+190,"Wikipedia spokespersons received Griffith's ""WikiScanner"" positively, noting it helped prevent conflicts of interest and increased transparency.",positively,0.0009288787841796875,1.4347925186157227,0.19041305780410767
+191,Conflict of interest edits.,conflict of interest edits,0.0008356571197509766,0.563317060470581,0.9652529358863831
+192,"The Fantastic Four #1, which featured the titular superhero team, was released in November 1961.",Nov. 1961,0.0008442401885986328,1.319514513015747,0.4696139097213745
+193,Königsberg (now Kaliningrad) was completely rebuilt after being left in ruins by British bombs in 1944 and the Soviet siege in 1945.,Kaliningrad,0.0008671283721923828,1.9414410591125488,0.4468674063682556
+194,Through publicly funded emergency relief programs.,publicly funded emergency relief programs,0.0009121894836425781,0.6638777256011963,0.8582020998001099
+195,The Glock.40 S&W pistol for general agent use.,Glock .40 S&W pistol,0.0008945465087890625,0.8932464122772217,0.8151612281799316
+196,A senior-level FBI officer serves as the representative of the Director of National Intelligence at an FBI field office.,senior-level FBI officer,0.0008153915405273438,1.3257286548614502,0.8053064346313477
+197,The D-genome relative of cultivated cotton (G. raimondii) must be sequenced first.,diploid,0.0009219646453857422,1.297602653503418,0.18509340286254883
+198,"Yes, for 12 years.",prominently listed,0.0008983612060546875,0.6828534603118896,0.03282031789422035
+199,"Spider-Man, the Fantastic Four, the Avengers, and Daredevil are based in a fictional version of New York City.","the Fantastic Four, the Avengers",0.0008821487426757812,1.4696645736694336,0.5787811279296875
+200,85%,85%,0.0009632110595703125,0.47261714935302734,1.0
+201,1829-1878.,Prussia,0.0009250640869140625,0.682642936706543,0.295833945274353
+202,1995.,1995,0.0007517337799072266,0.5224666595458984,0.9562497138977051
+203,"The USA PATRIOT Act was passed after 9/11, increasing the FBI's powers in wiretapping and monitoring of Internet activity.",Intelligence Reform and Terrorism Prevention Act,0.0007953643798828125,1.7080459594726562,0.5365902185440063
+204,Plants not genetically modified and grown without synthetic agricultural chemicals.,not genetically modified,0.0008771419525146484,0.8470757007598877,0.7151727080345154
+205,"5 years, with a maximum of 10 years if reappointed.",five years,0.0009157657623291016,1.0361783504486084,0.7021721005439758
+206,"The British used a commercial chain to purchase raw cotton fibers from colonial plantations, process them into cotton cloth in Lancashire mills, and then export them to captive colonial markets.",commercial chain,0.0009522438049316406,1.9862639904022217,0.4002891778945923
+207,95%,95%,0.0008835792541503906,0.4932980537414551,1.0000001192092896
+208,"The FBI Academy is located in Quantico, Virginia, and the FBI has facilities in Clarksburg, West Virginia, and Winchester, Virginia.","J. Edgar Hoover Building in Washington, D.C.,",0.0007572174072265625,1.700423240661621,0.41961970925331116
+209,The Walt Disney Company.,The Walt Disney Company,0.0008833408355712891,0.5895571708679199,0.9886208772659302
+210,FBI structure and operations.,structure and operations,0.0009238719940185547,0.5630061626434326,0.4708922505378723
+211,"The FBI stopped doing bullet lead analysis due to a flawed analytic model that was deemed misleading under the rules of evidence, as concluded by the National Research Council in 2003.",National Research Council,0.0008678436279296875,1.9871799945831299,0.1276111602783203
+212,Bacillus thuringiensis (Bt),Bacillus thuringiensis,0.0008761882781982422,0.8045024871826172,0.9386466145515442
+213,The FBI.,FBI,0.0008196830749511719,0.474273681640625,0.885604977607727
+214,Samuel Crompton's invention of 1775 was the spinning mule.,spinning mule,0.0007801055908203125,1.084089756011963,0.6321351528167725
+215,2001.,2001,0.0009629726409912109,0.5417351722717285,0.9585505723953247
+216,Two of the four men died in prison after serving almost 30 years.,Two,0.0008108615875244141,1.059084415435791,0.2327953726053238
+217,"Schools, traffic installations, hospitals, cultural institutions, and jails.","schools, traffic installations, hospitals, cultural institutions, jails",0.0008602142333984375,0.9450113773345947,0.9854753017425537
+218,"The Walt Disney Company. The sale was announced on August 31, 2009.","August 31, 2009",0.0008387565612792969,1.2000701427459717,0.45227622985839844
+219,Disney Kingdoms,"""Disney Kingdoms""",0.0008094310760498047,0.43914222717285156,0.9669346809387207
+220,There is no mention of Kaliningrad in the provided text.,reverting Kaliningrad's name to its historic name of Königsberg,0.0007457733154296875,0.9482698440551758,0.585462749004364
+221,James B. Comey.,James B. Comey,0.0008716583251953125,0.5646650791168213,0.9893808364868164
+222,"The Communications Assistance for Law Enforcement Act (CALEA, 1994), the Health Insurance Portability and Accountability Act (HIPAA, 1996), and the Economic Espionage Act (EEA, 1996).",CALEA,0.0008590221405029297,2.4596292972564697,0.30066490173339844
+223,The Racketeer Influenced and Corrupt Organizations (RICO) Act.,RICO,0.0009348392486572266,1.085113286972046,0.531170129776001
+224,Hong Kong Disneyland.,Hong Kong Disneyland,0.000823974609375,0.4855647087097168,0.9676352143287659
+225,"The CJIS (Criminal Justice Information Services) Division serves as a main repository for information in various data systems, providing tools for identification and information services to local, state, federal, and international law enforcement agencies.",main repository for information,0.0007917881011962891,2.367696762084961,0.34335237741470337
+226,"People believed this because cotton resembled wool, and they thought it was produced by plant-borne sheep.",similarities to wool,0.0008931159973144531,1.2794663906097412,0.585739016532898
+227,Cotton wool.,cotton wool,0.0008487701416015625,0.49096226692199707,0.9773567914962769
+228,"Lisle is considered to be a finely-spun, tightly twisted type of cotton that is strong and durable.",strong and durable,0.0008845329284667969,1.3902733325958252,0.32541424036026
+229,The 1950s and 1960s.,1950s and 1960s,0.0009353160858154297,0.8550806045532227,0.9711214303970337
+230,Local temperature and rainfall.,temperature and rainfall,0.0008981227874755859,0.5615279674530029,0.8469295501708984
+231,Exposure to pesticides.,exposure to pesticides,0.000885009765625,0.5400400161743164,0.952812671661377
+232,Augmented Reality.,augmented reality,0.0008530616760253906,0.5180501937866211,0.9206660389900208
+233,China.,China,0.0008540153503417969,0.4269289970397949,0.945481538772583
+234,Powerhouse Pepper.,"""Powerhouse Pepper""",0.0008835792541503906,0.5141887664794922,0.931805431842804
+235,$100 million.,$100 million,0.0007305145263671875,0.5213313102722168,0.9663606286048889
+236,The 1980s.,1980s,0.0007388591766357422,0.6125149726867676,0.9273015856742859
+237,Jack Kirby.,Jack Kirby,0.0008363723754882812,0.47249555587768555,0.9732265472412109
+238,The mid-1970s.,the mid-1970s,0.0009226799011230469,0.6813290119171143,0.9795201420783997
+239,Raw cotton.,raw cotton,0.0008761882781982422,0.477175235748291,0.9690806269645691
+240,The sixth national priority.,sixth national priority,0.0008742809295654297,0.5706057548522949,0.9698817729949951
+241,Pesticides.,synthetic insecticides.,0.0008552074432373047,0.5215387344360352,0.8360039591789246
+242,1939.,1939,0.0008263587951660156,0.5419309139251709,0.9678189158439636
+243,"The FBI director used to brief the President directly, but now reports to the Director of National Intelligence (DNI).",FBI director,0.0007839202880859375,1.4188289642333984,0.5727359652519226
+244,Great embarrassment to the FBI.,great embarrassment,0.0007965564727783203,0.6170852184295654,0.6382085680961609
+245,Uncanny Avengers and All-New X-Men.,Uncanny Avengers and All-New X-Men,0.00089263916015625,0.7748386859893799,0.9791138768196106
+246,WTO's Dispute Settlement Mechanism.,WTO's Dispute Settlement Mechanism,0.0008974075317382812,0.710092306137085,0.9882442355155945
+247,85%,85%,0.0009548664093017578,0.49318575859069824,1.0
+248,Sharecropping.,sharecropping,0.0009663105010986328,0.5390744209289551,0.9519473314285278
+249,The US GM cotton crop was the second largest in the world in 2011.,second largest,0.0008687973022460938,1.153632402420044,0.5380585789680481
+250,"48,000.","48,000",0.0008335113525390625,0.5683696269989014,0.967738926410675
+251,The goal of the NIBRS is to address limitations in UCR data by collecting and reporting crime data in greater detail.,address limitations inherent in UCR data,0.0008029937744140625,1.441239595413208,0.5044970512390137
+252,The Seedienst Ostpreußen was established to provide an independent transport service to East Prussia.,The Seedienst Ostpreußen,0.0008752346038818359,1.349397897720337,0.6560746431350708
+253,Martin Goodman founded Marvel Comics under the name Timely Publications in 1939.,Martin Goodman,0.0009329319000244141,1.083606481552124,0.49914997816085815
+254,Hand-picking cotton.,hand-pick,0.0007710456848144531,0.5905313491821289,0.5133951902389526
+255,The Holy Roman Empire.,Holy Roman Empire,0.000827789306640625,0.56742262840271,0.9315773844718933
+256,More brilliant.,more brilliant,0.0007352828979492188,0.47383666038513184,0.9197976589202881
+257,Carnivore.,Carnivore,0.0008530616760253906,0.5164318084716797,0.967887282371521
+258,The Human Torch.,the Human Torch,0.0007560253143310547,0.5203149318695068,0.9853832721710205
+259,The bulk of the German Army had been directed towards the Western Front according to the Schlieffen Plan.,German Army had been directed towards the Western Front,0.00077056884765625,1.3258304595947266,0.8235651254653931
+260,New York City.,New York City,0.0009100437164306641,0.49569058418273926,0.9656890034675598
+261,Synthetic fibers.,synthetic competitors,0.0009493827819824219,0.4767453670501709,0.47460439801216125
+262,Heroes World.,Marvel's Heroes World,0.0008761882781982422,0.4716198444366455,0.7397913932800293
+263,The United States.,U.S.,0.0007688999176025391,0.5386855602264404,0.8392894268035889
+264,The US Department of Agriculture.,US Department of Agriculture,0.0007166862487792969,0.6379954814910889,0.9640189409255981
+265,An undercover FBI agent who infiltrated a gang of bank robbers.,undercover FBI agent,0.0008656978607177734,0.9863386154174805,0.8169939517974854
+266,"No, the Southern Christian Leadership Conference, a leading civil rights organization led by Martin Luther King Jr., was a target of the FBI's COINTELPRO operation, but King himself was not directly targeted.","including Martin Luther King, Jr.",0.0007982254028320312,2.270927906036377,0.4852812588214874
+267,"The abandonment of Egyptian cotton led to a deficit spiral, resulting in Egypt declaring bankruptcy in 1876, a key factor in the British Empire's occupation of Egypt in 1882.",bankruptcy,0.0009443759918212891,2.10141658782959,0.2837221920490265
+268,Secret identities.,secret identities,0.0009183883666992188,0.46959567070007324,0.9632933735847473
+269,"The shooting of the innocent Maryland man was deemed justified by the FBI's internal investigation, based on his actions.",the man's actions,0.0008213520050048828,1.3660557270050049,0.31466901302337646
+270,One year.,a one-year run,0.0009496212005615234,0.474992036819458,0.6067822575569153
+271,The administration by the Teutonic Order grandmasters under the jurisdiction of the Emperor.,Teutonic Order,0.0008370876312255859,1.137669563293457,0.5017213821411133
+272,"The US ranks as the largest exporter of cotton, with sales of $4.9 billion, while Africa ranks second with sales of $2.1 billion.",largest exporters,0.000949859619140625,1.848877191543579,0.6687279343605042
+273,Nicaragua.,Mexico,0.00090789794921875,0.4303760528564453,0.6281872987747192
+274,23.,23,0.000942230224609375,0.49192333221435547,0.9395431280136108
+275,Marvelcon '75 and Marvelcon '76.,Marvelcon,0.0009293556213378906,0.801713228225708,0.8110492825508118
+276,An anonymous letter encouraging him to commit suicide.,anonymous,0.0008628368377685547,0.7543227672576904,0.3810449242591858
+277,"Marvel's detective fiction comics were published under the imprint ""Marvel Knights"".",Marvel Mystery Comics,0.0008141994476318359,0.9958615303039551,0.6390228867530823
+278,Protestants.,Protestants,0.0007791519165039062,0.4730982780456543,0.9666718244552612
+279,"The Inhumans, Black Panther, and Daredevil were part of the Marvel Knights comics.","the Inhumans, Black Panther and Daredevil",0.0008270740509033203,1.2492334842681885,0.7351706027984619
+280,Former British colonies and Mozambique.,former British colonies,0.0008707046508789062,0.6661355495452881,0.7828227281570435
+281,1773,1946,0.0009448528289794922,0.4695277214050293,0.4160093367099762
+282,A Single Scope Background Investigation (SSBI) is a series of background checks conducted by the Office of Personnel Management for FBI personnel to obtain a Top Secret (TS) security clearance.,Single Scope Background Investigations,0.0008196830749511719,2.0292227268218994,0.686552107334137
+283,"Marvel Comics, Atlas, and A Marvel Magazine.","""A Marvel Magazine""",0.0009679794311523438,0.8064742088317871,0.7940390706062317
+284,"The FBI refused to release information, citing security and agent privacy issues.",The FBI refused,0.0009677410125732422,0.989781379699707,0.7217170000076294
+285,The National Incident Based Reporting System (NIBRS) is used by law enforcement agencies to collect and report data on crimes in the United States.,collecting and reporting data,0.0008211135864257812,1.7053923606872559,0.42178937792778015
+286,The Amazing Spider-Man #96–98.,Spider-Man,0.0008885860443115234,0.7548925876617432,0.7422227263450623
+287,Repeatedly missed deadlines.,repeatedly missed deadlines,0.0009090900421142578,0.6178550720214844,0.9506285786628723
+288,Cottonseed oil.,vegetable oil.,0.0008265972137451172,0.521859884262085,0.7358608245849609
+289,"Offices and divisions, each headed by an assistant director.",offices and divisions,0.0007615089416503906,0.8455119132995605,0.7231636047363281
+290,"Brazil argued against the US cotton industry through the WTO's Dispute Settlement Mechanism, citing the heavily subsidized US cotton industry.",heavily subsidized,0.0008680820465087891,1.5172147750854492,0.23123864829540253
+291,Poles and Lithuanians.,Poles and Lithuanians,0.0009367465972900391,0.6574866771697998,0.969711184501648
+292,1979-2001.,1979 to 2001,0.0009191036224365234,0.6628580093383789,0.9337388873100281
+293,1410 and 1914.,1914,0.0008654594421386719,0.7101247310638428,0.6397080421447754
+294,"No, terrorism was no longer considered a threat after the end of the Cold War.",terrorism was no longer considered a threat,0.0008533000946044922,1.139298439025879,0.8352161049842834
+295,Diamond Comic Distributors Inc.,Independent News,0.0009202957153320312,0.6385602951049805,0.20483534038066864
+296,The Joint Terrorism Task Force.,Joint Terrorism Task Force,0.0009102821350097656,0.6210417747497559,0.9712682962417603
+297,Nylon.,Nylon,0.0008413791656494141,0.43062782287597656,0.9670931696891785
+298,He died in 1972.,his death,0.0008420944213867188,0.6587135791778564,0.5083926916122437
+299,1918,1918,0.0008738040924072266,0.4946556091308594,1.0
+300,Ziggy Pig and Silly Seal.,Ziggy Pig and Silly Seal,0.0008575916290283203,0.6743361949920654,0.9867813587188721
+301,Esquire magazine featured Spider-Man and the Hulk in a list of 28 college campus heroes in 1965.,Esquire,0.0008759498596191406,1.4183409214019775,0.3632504343986511
+302,Nationalist political party.,Nationalist,0.0007965564727783203,0.5703728199005127,0.7779734134674072
+303,The Polish Partition Sejm ratified the cession on 30 September 1773.,The Polish Partition Sejm,0.0007841587066650391,1.1339592933654785,0.6671286821365356
+304,1935.,"In 1932,",0.0008184909820556641,0.5223536491394043,0.6978024244308472
+305,The Federal Bureau of Investigation (FBI).,ICE-HSI,0.0009367465972900391,0.7535090446472168,0.10030421614646912
+306,By the mid-19th century.,mid-19th century,0.0008358955383300781,0.7266745567321777,0.8416287899017334
+307,The FBI works with the National Transportation Safety Board in investigating airplane crashes and other critical incidents.,investigating airplane crashes,0.0008380413055419922,1.1855757236480713,0.6649888753890991
+308,Issei community leaders.,Issei community leaders,0.0009412765502929688,0.5856354236602783,0.9816581010818481
+309,The British East India Company's policies damaged the Indian cotton industry.,British East India Company,0.0008542537689208984,0.9458942413330078,0.5681252479553223
+310,None.,none,0.0007953643798828125,0.4224541187286377,0.9097728133201599
+311,March 2012,March 2012,0.0007777214050292969,0.4893481731414795,1.0
+312,The Ku Klux Klan and the National States' Rights Party.,Ku Klux Klan and the National States' Rights Party,0.0008714199066162109,0.9494833946228027,0.9546505212783813
+313,A cotton stripper.,cotton stripper,0.0008664131164550781,0.5206930637359619,0.9376962184906006
+314,88%,88%,0.0008347034454345703,0.47560977935791016,1.0000001192092896
+315,The Teutonic Knights took possession of Prussia in the 13th century.,Teutonic Knights,0.0007016658782958984,1.1354525089263916,0.5417416095733643
+316,Glock 17 or Glock 19.,Glock 17 or Glock 19,0.0008568763732910156,0.7094180583953857,0.9717351198196411
+317,1945,1945,0.00081634521484375,0.4724693298339844,1.0000001192092896
+318,The Amazing Spider-Man title was Marvel's most successful book.,The Amazing Spider-Man,0.0008416175842285156,0.8967962265014648,0.7080423831939697
+319,"""King Cotton""",King Cotton,0.0008542537689208984,0.5229387283325195,0.9412730932235718
+320,"As a plant that produced wool, and people thought it was a tree.",imported fiber,0.000911712646484375,1.0375361442565918,0.27018192410469055
+321,1994,1994,0.0009303092956542969,0.4961364269256592,1.0000001192092896
+322,The FBI operates LEGAT offices for coordination with foreign security services.,coordination with foreign security services,0.0007884502410888672,0.9426271915435791,0.5882519483566284
+323,Poles and Lithuanians.,Old-Prussian (north) and Polish (south) toponyms,0.0008320808410644531,0.6630175113677979,0.5317203998565674
+324,Homer Hooper.,Homer Hooper,0.0008921623229980469,0.5187022686004639,0.9838810563087463
+325,"The Indus Valley Civilization in Ancient India (modern-day Pakistan and some parts of India) and Mehrgarh, Pakistan.",Indus Valley,0.0008852481842041016,1.5816385746002197,0.7791467905044556
+326,Yes.,frequently,0.0009121894836425781,0.4288477897644043,0.2121402621269226
+327,Uzbekistan.,Uzbekistan,0.0009005069732666016,0.47136425971984863,0.9621163606643677
+328,Former French colonies.,French,0.0008931159973144531,0.5213217735290527,0.5681739449501038
+329,Olmstead v. United States (1927),Olmstead v. United States,0.0008375644683837891,0.8488805294036865,0.8982577919960022
+330,DuPont.,DuPont,0.0008080005645751953,0.47350573539733887,0.9782781004905701
+331,The FBI Counterterrorism Division.,FBI Counterterrorism Division,0.000827789306640625,0.6076786518096924,0.9658466577529907
+332,2000.,2000,0.0009009838104248047,0.5215318202972412,0.9515540599822998
+333,'poisonous pigment'.,poisonous pigment,0.0009522438049316406,0.6204519271850586,0.9611741900444031
+334,"The ""sneak and peek"" provision, which allowed the FBI to search a house while residents are away without notifying them for several weeks afterwards.",sneak and peek provision,0.00090789794921875,1.751201868057251,0.5618060827255249
+335,1997,1997,0.0009617805480957031,0.49561166763305664,1.0000001192092896
+336,$2 billion per year.,$2 billion per year,0.0008270740509033203,0.6173985004425049,0.9866089820861816
+337,Calvin Coolidge.,Hoover,0.0008492469787597656,0.5218827724456787,0.43307673931121826
+338,The Old Prussian language became extinct in the 17th or early 18th century.,17th or early 18th century,0.0008819103240966797,1.2249319553375244,0.38494449853897095
+339,Rayon and synthetic fibers such as polyester.,synthetic fibers,0.0008440017700195312,0.7562341690063477,0.7125781774520874
+340,Three times.,three,0.0007865428924560547,0.4760570526123047,0.616310179233551
+341,15%,15%,0.0008020401000976562,0.4916105270385742,1.000000238418579
+342,1890s.,1890s,0.0008420944213867188,0.5697708129882812,0.963164210319519
+343,Coordination across government agencies.,coordination,0.0008420944213867188,0.61647629737854,0.5693720579147339
+344,"Law enforcement agencies in the United States, including local, state, and federal agencies.",the United States,0.0007300376892089844,1.1360180377960205,0.37200233340263367
+345,"The FBI was focused on domestic and international investigations, counterterrorism, counterintelligence, and criminal investigations.",domestic,0.0008537769317626953,1.2727601528167725,0.11424252390861511
+346,96 million sets of fingerprints.,96 million,0.0008580684661865234,0.6626195907592773,0.5017954111099243
+347,"No, LEGAT offices primarily exist for coordination with foreign security services and do not usually conduct unilateral operations.",not usually,0.0008609294891357422,1.331902027130127,0.17137658596038818
+348,Wiretapping.,wiretapping,0.0008671283721923828,0.540170431137085,0.9457343816757202
+349,"The most frequent use of cotton is to make soft, breathable textiles for clothing.",fabric,0.000827789306640625,1.0912678241729736,0.40915626287460327
+350,"June 25, 1910.","June 25, 1910",0.0008475780487060547,0.7118179798126221,0.9915660619735718
+351,Once Upon a Time,Once Upon a Time,0.0007917881011962891,0.5168869495391846,0.9999999403953552
+352,The Fantastic Four were treated as heroes.,celebrity status,0.0007860660552978516,0.6387975215911865,0.1856500208377838
+353,His former FBI handler.,his former FBI handler,0.0007016658782958984,0.5865309238433838,0.9786912202835083
+354,"Clarksburg, West Virginia.","Clarksburg, West Virginia",0.0006747245788574219,0.6617672443389893,0.9783117771148682
+355,The removal of Germans in East Prussia was often conducted in a violent and aggressive way by Soviet officials.,violent and aggressive,0.0009467601776123047,1.3452365398406982,0.3356855511665344
+356,MAX.,MAX,0.0009720325469970703,0.4466826915740967,0.9101928472518921
+357,"Most cotton in the United States, Europe, and Australia is harvested mechanically, either by a cotton picker or a cotton stripper.",mechanically,0.0008983612060546875,1.5201430320739746,0.17518964409828186
+358,"An executive assistant director manages each branch, and an assistant director heads each office and division.",his deputies,0.0008666515350341797,1.1839144229888916,0.2099931836128235
+359,1993-1996.,Between 1993 and 1996,0.0009291172027587891,0.6621849536895752,0.9063701629638672
+360,1990.,1990,0.0009393692016601562,0.5178499221801758,0.9542157053947449
+361,The FBI Laboratory.,FBI Laboratory,0.0009300708770751953,0.5403330326080322,0.9564892053604126
+362,Uzbekistan is the world's third largest cotton exporter.,third largest,0.0008678436279296875,0.8705868721008301,0.3952675759792328
+363,Olmstead v. United States.,Olmstead v. United States,0.0009062290191650391,0.7072896957397461,0.9773673415184021
+364,Cotton is somewhat salt and drought tolerant.,salt and drought,0.0008299350738525391,0.7272591590881348,0.6566154956817627
+365,69% of the worldwide total area planted in cotton is GM cotton.,69%,0.0008070468902587891,1.0606975555419922,0.3527643084526062
+366,"Yes, the 9/11 Commission's report led to increased oversight of the FBI.","acceded to most of the recommendations, including oversight",0.0009074211120605469,1.1854627132415771,0.37379464507102966
+367,"Yes, many believed the FBI was resistant to change.",resisting any meaningful changes,0.000873565673828125,0.8545036315917969,0.40207719802856445
+368,To help control pests.,control pests,0.0008594989776611328,0.5878510475158691,0.6830871105194092
+369,$16 million.,$56 million,0.0008804798126220703,0.5434589385986328,0.7027038335800171
+370,They were deported and killed in the Holocaust.,deported and killed in the Holocaust.,0.0008649826049804688,0.7583825588226318,0.8589903712272644
+371,Suwałki to Regierungsbezirk Gumbinnen and Soldau to Regierungsbezirk Allenstein.,Suwałki to Regierungsbezirk Gumbinnen and Soldau to Regierungsbezirk Allenstein,0.0008394718170166016,1.6117379665374756,0.9780372381210327
+372,There is no information in the provided context about Marvel's founder beginning a new venture after leaving the company in the 1970s.,Seaboard Periodicals,0.0009827613830566406,1.627030849456787,0.023369770497083664
+373,The boll weevil.,boll weevil,0.0008771419525146484,0.6170990467071533,0.9101287126541138
+374,The Comics Code Authority.,Comics Code Authority,0.0008633136749267578,0.5651798248291016,0.9650484323501587
+375,Perfect Film and Chemical Corporation.,the Perfect Film and Chemical Corporation,0.0007724761962890625,0.6161611080169678,0.967515766620636
+376,2.49 million.,2.49 million,0.0008146762847900391,0.6144773960113525,0.979893684387207
+377,1940s.,1940s,0.0008382797241210938,0.568636417388916,0.965996503829956
+378,"Before the cotton gin, cotton was separated from seeds by hand, requiring over 600 hours of labor per bale.",by hand,0.0007312297821044922,1.470062494277954,0.12891998887062073
+379,FBI agents.,FBI agents,0.0008652210235595703,0.47136473655700684,0.9691371917724609
+380,New Agent Class 98-1.,New Agent Class 98-1,0.0008728504180908203,0.703204870223999,0.9836596250534058
+381,Marvel Comics #1 (October 1939),Marvel Comics #1,0.0008623600006103516,0.8003606796264648,0.7666788697242737
+382,Jack Kirby.,Jack Kirby,0.0007927417755126953,0.46478700637817383,0.9732265472412109
+383,They were expelled by the Soviet Union and many immigrated to West Germany in 1958.,expelled by the Soviet Union,0.0008418560028076172,1.2521123886108398,0.6315645575523376
+384,Absorbent cotton.,absorbent cotton,0.0009315013885498047,0.5685412883758545,0.9676542282104492
+385,1807,1807,0.0009090900421142578,0.4741947650909424,1.0
+386,The United States Civil Rights Act of 1964.,Civil Rights Act of 1964,0.0008118152618408203,0.8487639427185059,0.9480911493301392
+387,1974.,1974,0.0009307861328125,0.5393753051757812,0.9617180824279785
+388,John F. Kennedy and Bob Dylan.,John F. Kennedy and Bob Dylan,0.000850677490234375,0.7027790546417236,0.9846776723861694
+389,"Yes, under the PATRIOT Act, the FBI can inquire into library records of those suspected of terrorism.",FBI also resumed inquiring into the library records,0.0007534027099609375,1.3916339874267578,0.6834321022033691
+390,Bantam Books.,Bantam Books,0.0008375644683837891,0.5373649597167969,0.9781846404075623
+391,"The most ""notorious liar"" in the United States.",notorious liar,0.00083160400390625,0.9177274703979492,0.8238056302070618
+392,"The Scientific Crime Detection Laboratory, also known as the FBI Laboratory.",Scientific Crime Detection Laboratory,0.0008883476257324219,0.9497013092041016,0.8744755983352661
+393,"Countering every federal crime, including terrorism, cyber security threats, and organized crime.",countering every federal crime,0.0008397102355957031,1.1393020153045654,0.8173160552978516
+394,The Industrial Revolution.,Industrial Revolution,0.0008685588836669922,0.5214595794677734,0.9559770226478577
+395,January 2005.,January 2005,0.0007495880126953125,0.5737473964691162,0.9720529317855835
+396,"Quantico, Virginia.","Quantico, Virginia",0.0009131431579589844,0.5683689117431641,0.9829830527305603
+397,The Ku Klux Klan.,white supremacists,0.0009410381317138672,0.6157195568084717,0.49060487747192383
+398,A Union blockade on Southern ports.,Union blockade,0.0008099079132080078,0.6832618713378906,0.7911899089813232
+399,The United States Department of Justice (DOJ).,DOJ,0.0008864402770996094,0.8057751655578613,0.5605970621109009
+400,The spinning jenny.,spinning jenny,0.0009169578552246094,0.5674331188201904,0.9374493360519409
+401,"Gustav Sauf, a Communist politician.",Gustav Sauf,0.0008971691131591797,0.7613041400909424,0.7963442206382751
+402,5th century BC.,5th century BC,0.0008351802825927734,0.6340041160583496,0.9903003573417664
+403,"Masurians, Kursenieki, and Prussian Lithuanians.","Masurians, Kursenieki and Prussian Lithuanians",0.0008325576782226562,1.1089575290679932,0.9678758382797241
+404,Marco Polo.,Marco Polo,0.000812530517578125,0.4762098789215088,0.9841673374176025
+405,"The Cotton-4 (Benin, Burkina Faso, Chad, and Mali) have been the leading protagonists for the reduction of US cotton subsidies through negotiations.",leading protagonist,0.0008437633514404297,1.8935678005218506,0.10767718404531479
+406,"February 20, 2001.",20 February 2001,0.0008578300476074219,0.7107579708099365,0.9327841997146606
+407,Yes.,far over budget,0.0009315013885498047,0.4277784824371338,0.09743648767471313
+408,The FBI.,United States Congress,0.0007672309875488281,0.4957597255706787,0.41332823038101196
+409,The 2099 line of comics.,2099 line,0.0008921623229980469,0.7139403820037842,0.6830783486366272
+410,Those suspected of terrorism.,those who are suspected of terrorism,0.0009238719940185547,0.5703592300415039,0.9167295098304749
+411,The NIBRS system has more detailed data than the UCR system.,NIBRS,0.000820159912109375,1.0406618118286133,0.4829975366592407
+412,The first duke of the Duchy of Prussia and a vassal of the Polish crown.,first duke of the Duchy of Prussia,0.0008840560913085938,1.2727134227752686,0.8610252737998962
+413,NarusInsight.,commercially available,0.0008940696716308594,0.5732078552246094,0.14374993741512299
+414,DCS1000.,DCS1000,0.0008542537689208984,0.5579519271850586,0.9793027639389038
+415,Transparency and the prevention of conflicts of interest in Wikipedia articles.,transparency,0.000751495361328125,0.9196696281433105,0.3548804521560669
+416,Königsberg.,Königsberg,0.0008189678192138672,0.5639915466308594,0.9766330718994141
+417,1932.,1932,0.0007560253143310547,0.5241274833679199,0.9725922346115112
+418,The FBI director is responsible for the day-to-day operations at the FBI.,The FBI director,0.0007064342498779297,1.03952956199646,0.7873312830924988
+419,More than 200 categories of federal crimes.,200,0.0008020401000976562,0.7544758319854736,0.27675366401672363
+420,"The Venona project, a joint US/UK code-breaking effort, broke Soviet diplomatic and intelligence communications codes.",the Venona project,0.0008444786071777344,1.370417833328247,0.5641306638717651
+421,Threats or extortion attempts.,threats or extortion attempts,0.0009405612945556641,0.6100990772247314,0.9609180688858032
+422,Germans.,Germans,0.0008025169372558594,0.4456171989440918,0.9488800168037415
+423,The National Organic Program (NOP) determines the allowed practices in organic agriculture in the US.,National Organic Program,0.0008418560028076172,1.183781385421753,0.7158595323562622
+424,Universal Studios.,Universal Studios,0.0008027553558349609,0.4389214515686035,0.9764565229415894
+425,"None, according to the Reich's statistics of late 1939, only 31,000 out of 994,092 people in the annexed territory were ethnic Germans.",reunification with Germany,0.0008878707885742188,1.9880149364471436,0.4314120411872864
+426,The Boll Weevil Eradication Program (BWEP) of the US Department of Agriculture.,Boll Weevil Eradication Program,0.0008747577667236328,1.2814011573791504,0.8966639637947083
+427,Email and electronic communications.,email and electronic communications,0.0008568763732910156,0.5684306621551514,0.9340712428092957
+428,"The text does not mention the new director's wants. It only mentions the current director, James B. Comey, who was appointed in 2013.",re-engineering,0.0008444786071777344,1.7944164276123047,0.1102573424577713
+429,The larvae of moths.,larvae,0.0008759498596191406,0.6175434589385986,0.8369593620300293
+430,The FBI.,FBI,0.0008242130279541016,0.49349284172058105,0.885604977607727
+431,The British MI5 and the Russian FSB.,British MI5 and the Russian FSB,0.0007886886596679688,0.8008279800415039,0.9615702629089355
+432,1938.,1938,0.0008993148803710938,0.5230000019073486,0.9626467227935791
+433,"Joseph D. Pistone, an undercover FBI agent.",Joseph D. Pistone,0.0008609294891357422,0.8459415435791016,0.7719006538391113
+434,Fascists.,fascists,0.0009033679962158203,0.4761660099029541,0.9633256196975708
+435,"Yes, the FBI reassigned more than 300 agents from foreign counter-intelligence duties to violent crime in the late 1980s to early 1990s.",the FBI reassigned more than 300 agents from foreign counter-intelligence duties to violent crime,0.0009291172027587891,1.9423303604125977,0.8978278040885925
+436,Stan Lee.,Stan Lee,0.0008783340454101562,0.4704704284667969,0.9670729637145996
+437,"The data for the National Crime Information Center (NCIC) is located in the Criminal Justice Information Services (CJIS) Division in Clarksburg, West Virginia.",Under the roof of the CJIS,0.000823974609375,1.9412026405334473,0.2864854335784912
+438,The FBI works with the US Coast Guard and US Customs and Board Protection in seaport and airport security.,seaport and airport security,0.000885009765625,1.3758704662322998,0.5708712339401245
+439,The Fantastic Four.,"""big three""",0.0008943080902099609,0.5172619819641113,0.46849486231803894
+440,Heroes World Distribution.,Magazine Management Company,0.0008146762847900391,0.5399506092071533,0.23324690759181976
+441,1525,1525,0.0007197856903076172,0.47063136100769043,1.0
+442,Kaliningrad.,Kaliningrad,0.0007181167602539062,0.5431051254272461,0.9822197556495667
+443,Archie Andrews.,Archie Andrews,0.000957489013671875,0.4708747863769531,0.976150393486023
+444,Cotton linters.,Cotton linters,0.0008444786071777344,0.5415878295898438,0.9866009950637817
+445,"Dr. T.R.M. Howard, a civil rights leader, surgeon, and wealthy entrepreneur in Mississippi.",Dr. T.R.M. Howard,0.0009391307830810547,1.3276512622833252,0.7559283375740051
+446,16th century.,16th century,0.0009374618530273438,0.5697779655456543,0.9694935083389282
+447,John Mandeville.,John Mandeville,0.0008602142333984375,0.5715658664703369,0.9851397275924683
+448,Howard the Duck.,Howard the Duck,0.0008673667907714844,0.518744945526123,0.988771378993988
+449,Mobsters in their territories.,mobsters,0.0007758140563964844,0.6111242771148682,0.8403889536857605
+450,Heinrich Friedrich Karl vom und zum Stein and Karl August von Hardenberg.,Heinrich Friedrich Karl vom und zum Stein and Karl August von Hardenberg,0.0007719993591308594,1.039853572845459,0.9791179895401001
+451,The USA PATRIOT Act.,USA PATRIOT Act,0.0007228851318359375,0.6567940711975098,0.9041136503219604
+452,X-Force #119 (October 2001),X-Force #119,0.0009615421295166016,0.8541593551635742,0.8285754323005676
+453,2003.,In 2003,0.0009481906890869141,0.5424561500549316,0.8387804627418518
+454,Organized crime.,organized crime,0.0009217262268066406,0.5400047302246094,0.9703352451324463
+455,Howard the Duck.,Basil Wolverton,0.0008096694946289062,0.5242342948913574,0.2144005298614502
+456,The Communications Act of 1934.,Communications Act of 1934,0.0007193088531494141,0.7093918323516846,0.9853013753890991
+457,Miss America.,Miss America,0.0008738040924072266,0.47478389739990234,0.9716413617134094
+458,Child labor and laborers exposed to pesticides.,child,0.0008733272552490234,0.7547769546508789,0.23675107955932617
+459,"15 cents for 36 pages, then 25 cents for 52 pages, and later 20 cents for 36 pages.",$4 billion or $4.2 billion,0.0007376670837402344,1.6064403057098389,0.194530189037323
+460,2005.,2005,0.0009598731994628906,0.5163209438323975,0.9588066935539246
+461,The FBI is a subset of the United States Department of Justice.,U.S. Department of Justice,0.0007777214050292969,0.9440302848815918,0.6469449996948242
+462,J. Edgar Hoover.,J. Edgar Hoover,0.0008451938629150391,0.5654525756835938,0.9864738583564758
+463,Marvel Press.,Marvel Press,0.0008018016815185547,0.4376037120819092,0.982081413269043
+464,"July 8, 2007.","July 8, 2007",0.0007257461547851562,0.7100818157196045,0.9864388108253479
+465,Effective communication and cooperation among different FBI offices.,effective communication,0.00077056884765625,0.7525818347930908,0.6250184774398804
+466,Recognition for sequencing the cotton genome.,public relations,0.0008296966552734375,0.5903384685516357,-0.00896603986620903
+467,Herodotus.,Herodotus,0.0009152889251708984,0.56459641456604,0.9766292572021484
+468,"Recycled or recovered cotton, rayon, and synthetic fibers such as polyester.",recycled or recovered cotton,0.0009560585021972656,1.1064748764038086,0.8670039176940918
+469,The FBI enforces the Controlled Substances Act of 1970.,Controlled Substances Act of 1970,0.0008401870727539062,0.9932346343994141,0.8218834400177002
+470,The FBI Academy.,FBI Academy,0.0008115768432617188,0.5378262996673584,0.949964702129364
+471,Nardone v. United States (1939),Nardone v. United States,0.0008876323699951172,0.8465409278869629,0.8767859935760498
+472,2006.,2006,0.0008785724639892578,0.536970853805542,0.9468034505844116
+473,They would be sent to concentration camps and held prisoner until their death or liberation.,sent to concentration camps,0.0007708072662353516,1.0872206687927246,0.599622368812561
+474,"As of 2008, Marvel and DC Comics shared over 80% of the American comic-book market.",80%,0.0008897781372070312,1.3739709854125977,0.29129672050476074
+475,"""Suspiciously low.""",suspiciously low,0.0008642673492431641,0.606792688369751,0.6730678677558899
+476,"Many state, local, and international agencies use the FBI lab services free of charge.","state, local, and international agencies",0.0008280277252197266,1.1562728881835938,0.45307135581970215
+477,1972.,1972,0.0009310245513916016,0.5228724479675293,0.9611964821815491
+478,Eli Whitney.,Eli Whitney,0.0008132457733154297,0.4738781452178955,0.9816238880157471
+479,The Achaemenid era (5th century BC).,Achaemenid era,0.0007452964782714844,0.8985755443572998,0.8497382998466492
+480,A warrant.,a warrant,0.0009374618530273438,0.4756660461425781,0.9716577529907227
+481,"The NIBRS collects information on every incident and arrest in the Group A offense category, which includes 46 specific crimes grouped in 22 offense categories.",crimes,0.0009009838104248047,1.7888565063476562,0.39786726236343384
+482,"Ethnic Russians, Belarusians, and Ukrainians.","ethnic Russians, Belarusians, and Ukrainians",0.0008788108825683594,0.8256082534790039,0.9592629671096802
+483,Razorline.,Razorline,0.0007851123809814453,0.47939348220825195,0.9668259024620056
+484,The Citizens' Commission to Investigate the FBI.,Citizens' Commission to Investigate the FBI,0.0007734298706054688,0.8105649948120117,0.9304516911506653
+485,One-third of East Prussia's population died in the plague and famine of 1709–1711.,speakers of Old Prussian,0.0008285045623779297,1.3695812225341797,0.271539568901062
+486,Koch had long-term plans for mass-scale industrialization of East Prussia.,mass-scale industrialization of the largely agricultural province,0.0009434223175048828,1.0369665622711182,0.4526560604572296
+487,G. raimondii and G. arboreum.,cultivated varieties,0.0008521080017089844,0.8737711906433105,0.30130842328071594
+488,Genetically modified (GM) cotton.,Genetically modified,0.0008134841918945312,0.7133400440216064,0.6020646095275879
+489,"""Cotton-4""",Cotton-4,0.0007803440093994141,0.6324787139892578,0.9118260145187378
+490,The Trilogy project.,Trilogy project,0.0007457733154296875,0.5420598983764648,0.8980419635772705
+491,"The US is considered one of the best places to grow cotton, but the text does not specify a particular location as the absolute best.",South Plains,0.0008642673492431641,1.6163322925567627,0.3266345262527466
+492,ABC.,ABC,0.0008785724639892578,0.42734336853027344,0.9703917503356934
+493,Russia.,Russian Empire,0.0008966922760009766,0.4297146797180176,0.589275598526001
+494,Wolf children.,Wolf children,0.0009448528289794922,0.4716806411743164,0.979112982749939
+495,Over 400.,400,0.0008752346038818359,0.5243966579437256,0.8094767332077026
+496,1.5 years.,a year and a half,0.0007953643798828125,0.6199285984039307,0.6151598691940308
+497,The Cotton Research and Promotion Act of 1966.,Cotton Research and Promotion Act,0.000804901123046875,0.8550581932067871,0.8966469168663025
+498,"Cotton linters are fine, silky fibers that are less than 1⁄8 inch (3.2 mm) long and are curly.","fine, silky fibers",0.0008957386016845703,1.7054684162139893,0.5476776361465454
+499,Homer the Happy Ghost.,Homer the Happy Ghost,0.0008909702301025391,0.5673549175262451,0.9919610023498535

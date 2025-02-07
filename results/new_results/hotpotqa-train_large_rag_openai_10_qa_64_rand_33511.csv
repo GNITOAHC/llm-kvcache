@@ -1,0 +1,208 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,The 2017 Cannes Film Festival.,Cannes Film Festival,0.3734767436981201,3.905611753463745,0.8803174495697021
+1,Memorial City Mall.,Memorial City Mall,0.37775325775146484,2.4289116859436035,0.9667278528213501
+2,Szombathelyi Haladás,Szombathelyi Haladás,0.32106685638427734,2.6525449752807617,1.0
+3,Jamal Crawford,Jamal Crawford,0.22910809516906738,2.192626714706421,1.0
+4,Yes.,yes,0.5555515289306641,2.407060146331787,0.836855947971344
+5,"Timothy Leary was from the United States, while Jaroslav Seifert was from Czechoslovakia.",Timothy Francis Leary,0.2505073547363281,3.4300060272216797,0.646040678024292
+6,Dan Bilzerian,Brandon,0.33652710914611816,2.3762640953063965,0.3856216371059418
+7,Walt Disney Productions.,Walt Disney,0.3845198154449463,2.5028626918792725,0.8660064935684204
+8,"October 1, 2017.","October 1, 2017",0.4584479331970215,2.891357898712158,0.9820065498352051
+9,The Bling Ring.,The Bling Ring,0.27789306640625,2.6220040321350098,0.9865915775299072
+10,"Bae Doona in ""Sympathy for Mr. Vengeance"".",Sympathy for Mr. Vengeance,0.36090803146362305,3.377080202102661,0.7318336963653564
+11,Macbeth,"""Macbeth""",0.28922438621520996,2.2902843952178955,0.9539515972137451
+12,World War I.,World War II,0.388974666595459,2.5877320766448975,0.7649798393249512
+13,Vijay Iyer,Vijay Iyer,0.26024317741394043,2.614912509918213,1.0
+14,Jeff Wincott is the older brother.,Jeffrey Wincott,0.543764591217041,2.90714168548584,0.6420331001281738
+15,"Al Bano, an Italian singer, holds Albanian citizenship.",Albano Carrisi,0.37572145462036133,2.8518412113189697,0.3429109454154968
+16,SpongeBob SquarePants,Stephen Hillenburg,0.4111816883087158,2.8558337688446045,0.18215800821781158
+17,English.,English,0.317655086517334,2.118121385574341,0.9305142164230347
+18,Fox Sports 1,Fox Sports 1,0.5808773040771484,2.5387256145477295,1.0
+19,Uhrichsville.,Uhrichsville,0.37998223304748535,2.6485435962677,0.9861499667167664
+20,Stansted Airport terminal building.,London Stansted Airport,0.33541393280029297,3.0022048950195312,0.819890558719635
+21,"The Indian Tamil film ""Ennavale"" was released first.",South Korean comedy horror film.,0.3507559299468994,2.6928863525390625,0.29021716117858887
+22,Tennis.,tennis,0.4071226119995117,2.410517692565918,0.9499958753585815
+23,Cantinflas and David Niven.,Cantinflas and David Niven,0.4415855407714844,2.6632392406463623,0.9820008277893066
+24,"West Chester, Pennsylvania. The population was 18,461 at the 2010 census.","18,461",0.2574293613433838,3.68229341506958,0.43657541275024414
+25,"Joseph Michael Cross starred in ""Running with Scissors"" (2006), which earned Joseph Cross a Satellite Award for Best Actor – Motion Picture.",Andy García,0.30886054039001465,4.2337000370025635,0.19077463448047638
+26,Tim Burton.,Tim Burton,0.5368750095367432,2.479011297225952,0.9732798337936401
+27,Yes.,yes,0.3149547576904297,2.545779228210449,0.836855947971344
+28,The Life of Birds (1998) was released before Genghis Blues (1999).,The Life of Birds,0.29636549949645996,3.2260830402374268,0.5542637705802917
+29,1952,1952,0.4174647331237793,2.350965738296509,0.9999999403953552
+30,"in 1981, Garrin eventually emerged as one of the important collaborators of video art superstar Nam June Paik, working closely from 1982 to 1996.
+
+John Merrick (insurance): 
+John Merrick (1859–1919) was an African-American entrepreneur whose life represents a rags-to-riches story. Born into slavery in Clinton, North Carolina, Merrick relied on his social savvy, entrepreneurial spirit, and inner drive to achieve great personal wealth by founding various companies in the Raleigh, North Carolina and Durham, North Carolina areas, most notably the North Carolina Mutual Life Insurance Company. Portions of his wealth were channeled back into the black community through philanthropy. John Merrick was a great man- his business acumen and social consciousness made him one of the most influential members of the African-American community in his lifetime.
+
+Padman: 
+Padman is an upcoming 2018 Indian Hindi comedy-drama film featuring Akshay Kumar, Sonam Kapoor and Radhika Apte in lead roles. Amitabh Bachchan will appear in a special role. The film is inspired from the life of Arunachalam Muruganantham.
+
+Gold (2018 film): 
+Gold is an upcoming 2018 Indian sports film, directed by Reema Kagti and produced by Ritesh Sidhwani and Farhan Akhtar under the banner Excel Entertainment.
+---------------------
+Portions of his wealth were channeled back into the black community through philanthropy. John Merrick was a great man- his business acumen and social consciousness made him one of the most influential members of the African-American community in his lifetime.
+
+Padman: 
+Padman is an upcoming 2018 Indian Hindi comedy-drama film featuring Akshay Kumar, Sonam Kapoor and Radhika Apte in lead roles. Amitabh Bachchan will appear in a special role. The film is inspired from the life of Arunachalam Muruganantham.
+
+Gold (2018 film): 
+Gold is an upcoming 2018 Indian sports film, directed by Reema Kagti and produced by Ritesh Sidhwani and Farhan Akhtar under the banner Excel Entertainment. It is a biopic based on the life of hockey player Balbir Singh, who was on the team that won the first Olympic medal for India as a free nation in 1948.
+---------------------
+He is only the third actor to receive a National Film Award for Best Actor in the Tamil film industry. Vikram is known for his intense performances, with his work often fetching critical acclaim and commercial success. He has won a National Film Award and seven Filmfare Awards South, of which five are Best Actor awards.
+
+Sneha (actress): 
+Suhasini Rajaram Naidu, popularly known by her stage name Sneha, is an Indian film actress, who works in the South Indian film industry. She debuted in the Malayalam film ""Ingane Oru Nilapakshi"" (2000), directed by Anil – Babu and was later signed for the Tamil film ""Virumbugiren"", though it was only released two years later. She started getting offers in Tamil and moved her focus to Kollywood, and the movie ""Ennavale"", where she starred opposite R. Madhavan, was released first in the same year.
+
+Manthiri Kumari: 
+Manthiri Kumari (English: ""The Minister's Daughter"" ) is a 1950 Indian Tamil historical fiction film directed by Ellis R. Dungan and starring M. G. Ramachandran, M. N. Nambiar. The title of the film is on the character of Amudhvalli, which was played by Madhuri Devi.This film had limited scope for the heroine of M.G.R and hence G. Shakuntala was paired opposite M.G.R. The screen play was written by M. Karunanidhi based on an incident from the Tamil epic ""Kundalakesi"". This was the last Tamil film directed by Dungan and is considered to be among the most successful films of that decade. Shortly after directing this film, Dungan left the Tamil film industry and did not direct Tamil films again. Singer T. M. Soundararajan sang for very first time for Ramachandran in this film.
+
+Mayandi Kudumbathar: 
+Mayandi Kudumbathar (English: Mayandi's family ) is a 2009 Indian Tamil film/family drama written and directed by Rasu Madhuravan, who directed Poomagal Oorvalam and Paandi previously. Starring 10 Tamil film directors, including Manivannan, Seeman, Tarun Gopi and Ponvannan, in lead and supporting roles. The film, scored by Sabesh-Murali and filmed by Balabharani, was released on 5 June 2009, going on to become successful at the box office.
+
+Kedi (2006 film): 
+Kedi is a 2006 Indian Tamil film written and directed by Jyothi Krishna, who earlier directed the 2004 Tamil film ""Enakku 20 Unakku 18"". Starring his brother Ravi Krishna in the lead role, the film marks the Kollywood debut of the female actress Tamannaah Bhatia and Ileana. Where Tamannaah plays a character with negative shade and Ileana plays love interest of Ravi Krishna whilst Ramesh Khanna, Atul Kulkarni, Adithya, M. S. Baskar and Suman Setty played supporting roles in the film. The film's score and soundtrack are composed by Yuvan Shankar Raja. The film released on 24 September 2006 and was later dubbed into Telugu and released as ""Jadoo"".The film earned mixed to positive reviews in both Tamil and Telugu and commercial success.
+
+Bommalattam (2008 film): 
+Bommalattam is a 2008 Tamil film directed by Bharathiraja starring Arjun Sarja and Nana Patekar in the lead roles. Originally filmed in Hindi under the title ""Cinema"", the film was released first in Tamil. Hindi version retitled ""Final Cut of Director"" will be released in 2016. This marked Nana Patekar's Tamil film debut.
+---------------------
+She was born and raised in Andhra Pradesh and spent her childhood in Kakinada. She is the younger of two sisters and has no brothers. Her elder sister's name is Krishna Kumari. She also acted in one of the Telugu movies. They used to live in Munsiff street, near 2-Town police station, Surya rao peta, Kakinada. She studied 1st standard to 5th standard in City Aided Elementary School. She studied from 6th to 10th standard in Municipal Girl's High School, Temple street. During that time they shifted their residence to 50 buildings area, Kakinada. She used to be so beautiful in her childhood as well as in her adolescence, resembling the veteran Hindi actress Rajshree ( V. Shantaram's daughter). She grew up speaking Telugu. She attended and graduated from FTII in 1975. She became very popular and still remains popular for her two hit Hindi films: ""Dulhan Wahi Jo Piya Man Bhaye"" (1977) and ""Aasha"" (1980), the latter earned her a Filmfare Nomination as Best Supporting Actress. She played the character Seetalu in the hit film ""Seetamalakshmi"" (1978), directed by K.Vishwanath, for which she received the Nandi Award for Best actress. Her credits include several other movies include Sunayana, Mera Rakshak, Sharda and others. She also worked in several films in other languages (Malayalam, Kannada, Bengali, Oriya, Bhojpuri). She is not a career savvy individual and never really pushed hard to reach her potential. She is very close and remains close to her family. She married her FTII class mate and pal, Punjabi actor-producer, Deepak Seth and has two sons Bhaskara Pratap Seth and Surya Prem Seth. She took a sabbatical from acting to raise her children, but recently returned to acting in films, playing mature roles. She and her husband produced a Hindi film titled ""Hun Farishte Nahin"" (1988) and a Punjabi film titled ""Mein tuun assin tussin"" (2007) based on the Shakespeare play ""The Comedy of Errors"". Lately she has been working in television series.
+
+Yamanam: 
+A physically disabled girl Ambili (Archana) is restricted to a wheelchair because of a childhood attack of polio. Unable to move out of home, she has only to fantasize the exteriors. She turns terribly introvert, fathoming the truth within and becoming positive towards people. She is skilled at making models and toys. She and her widowed mother are gradually sidelined in their own home by her brother Devan and his wife Raji.
+
+Rohini Hattangadi: 
+Rohini Hattangadi (Marathi: रोहिणी हट्टंगडी ) (born 11 April 1951) is an Indian actress. She has won two Filmfare Awards, one National Film Award, and is the only Indian actress to win the BAFTA Award for Best Actress in a Supporting Role for her performance as Kasturba Gandhi in ""Gandhi"" (1982). An alumna of the National School of Drama of New Delhi, Hattangadi had worked mainly in theatre when she made her movie debut with ""Arvind Desai Ki Ajeeb Dastaan"" in 1978. Some of her noted cinematic roles were in such art films as ""Arth"" (1982), ""Party"" and ""Saaransh"" (1984). Hattangadi was mostly offered character roles in mainstream Hindi cinema after her portrayal in ""Gandhi"", often typecast in mother roles much ahead of her years. Respected for her acting prowess, she has appeared in over 80 feature films, and is active in theatre and television.
+---------------------
+The film sees Bremner visit the Scottish Parliament and interview politicians and other senior public figures as he gets to grips with the issues of the Scottish political scene. Bremner recorded the programme after moving back to live in Scotland and realising he knew very little about the politics of that country.
+
+Jamie Foxx: 
+Eric Marlon Bishop (born December 13, 1967), known professionally by his stage name Jamie Foxx, is an American actor, singer, songwriter, musician, producer, and comedian. He won an Academy Award for Best Actor, BAFTA Award for Best Actor in a Leading Role, and a Golden Globe Award for Best Actor in a Musical or Comedy, for his portrayal of Ray Charles in the 2004 biographical film ""Ray"". The same year, he was nominated for the Academy Award for Best Supporting Actor for his role in the crime film ""Collateral"". As of spring 2017, Foxx serves as host and executive producer of the new Fox game show ""Beat Shazam"".
+
+Jennifer Lopez filmography: 
+American entertainer Jennifer Lopez has appeared in many motion pictures and television programs. She is one of the highest paid actresses in Hollywood and is the highest paid actress of Latin descent, making up to US$15 million per film role. She is also the richest actress in Hollywood, with an estimated net worth of $320 million (as of 2014). Lopez made her acting debut at age 16 with a small role in the 1986 film ""My Little Girl"". From there, she received her first high-profile job in 1991 as a Fly Girl dancer on the television comedy program ""In Living Color"". Following her departure from the show in 1993, Lopez made several guest appearances in the television series ""South Central"", appeared in the made-for-television movie ""Lost in the Wild"" (1993) and starred as Melinda Lopez in the television series ""Second Chances"" (1993) and its spin-off ""Hotel Malibu"" (1994). ""Second Chances"" and ""Hotel Malibu"" ran for only a brief period, receiving negative reviews. Lopez's first major film role came in the 1995 motion picture ""Money Train"", alongside Wesley Snipes and Woody Harrelson. The film faced negative reviews and is considered to be a box office bomb. Her next two film roles in ""Jack"" (1996) and ""Blood and Wine"" (1997) were received similarly; however, critics were divided by the latter. Lopez received her first leading role in the Selena biopic of the same name in 1997. The film was a commercial and critical success and is often cited by critics as her breakout role. Later that year, Lopez starred as Terri Flores in the film ""Anaconda"", which garnered negative reviews by critics despite being a box office success. In 1998, Lopez starred alongside George Clooney in the crime film ""Out of Sight"" (1998). The film met with positive reviews and was a box office success. In the same year, she also lent her voice to the animated film ""Antz"".
+
+The Bling Ring: 
+The Bling Ring is a 2013 internationally co-produced satirical crime film written, directed and produced by Sofia Coppola. It features an ensemble cast, led by Katie Chang, Israel Broussard, Emma Watson, Taissa Farmiga and Claire Julien. It is based on the Vanity Fair article ""The Suspects Wore Louboutins"" by Nancy Jo Sales, which dealt with a real-life gang known as the Bling Ring.
+
+A Shyam Gopal Varma Film: 
+A Shyam Gopal Varma FIlm (Telugu: ఎ శ్యామ్ గోపాల్ వర్మ ఫిల్మ్) is a 2015 Telugu feature film directed by debutante C.S.Reddy alias Rakesh Srinivas, is a satirical crime thriller arguably based on popular Indian film director Ram Gopal Varma. The lead role is played by Shafi (from National School of Drama). The background score is performed by Mantra Anand, cinematography by Rahul Shrivatsav and editing by Karthika Srinivas.
+---------------------
+The One and Only, Genuine, Original Family Band: 
+The One and Only, Genuine, Original Family Band is a 1968 American musical film from Walt Disney Productions based on a biography by Laura Bower Van Nuys, directed by Michael O'Herlihy, with original music and lyrics by the Sherman Brothers. Set against the backdrop of the 1888 presidential election, the film portrays the musically talented Bower family, American pioneers who settle in the Dakota Territory.
+
+Stephen Nicholas (actor): 
+Stephen Nicholas (born 23 August 1978) also known as Stephen Charles Nicholas is an actor and presenter from Doncaster, South Yorkshire, England. Stephen currently lives in Sheffield, his first role was on Sky One's Dream Team, where he played Scott Ward. From there, he filmed the first in the trilogy Goal! (In which he played a Newcastle United Reserves player). Following this, he moved to Los Angeles, where he played Smith in the feature film Futbaal: The Price of Dreams. Stephen then returned to the UK to make a Bollywood film called Dhana Dhana Goal with John Abraham. Stephen then experienced his first opportunity in reality TV with the show Premier League All Stars for Sky One, as well as playing a footballer, he was on-hand to present celebrity gossip and pitch side reports. He then appeared in Celebrity Most Haunted and Date the Enemy. From there he then went on to star in Goal 3 where he not only acted in the film he also became the football choreographer and choreographed all the football scenes in the film. Nicholas then starred in the film Damned United where he played Welsh international Alan Durban, the film was filmed in Chesterfield and Leeds and was directed by Oscar winner Tom Hooper and also starred Oscar nominated Michael Sheen. Stephens next production was the feature film called 'No Way Back Now'about the notorious Manchester district of Moss Side, where Stephen played the lead actor Stuart Gavin,The feature is roughly based on the notorious Gooch gang that terrorised Manchester throughout the years. The next move for Stephen was pantomime where he was part of the production Aladdin over the Christmas period of 2015 in Doncaster playing Abanaza the main villain which he did until January 7, 2016!. He has recently been cast in the up-and-coming Feature Film 'Whiteblade' where he will play Thurstan the head Warlord Whiteblade is currently in production and Stephen is shooting his scenes in August 2016. In September 2016 Stephen will be presenting the Sky TV show 'Britz go Bollywood' the show consists of a group of Celebrities being dressed by The best Indian designers, Stephen is the main presenter of the show which will be screened live September 2, 2016.
+
+WALL-E: 
+WALL-E (stylized with an interpunct as WALL·E) is a 2008 American computer-animated science fiction film produced by Pixar Animation Studios for Walt Disney Pictures. It was directed and co-written by Andrew Stanton, produced by Jim Morris, and co-written by Jim Reardon. It stars the voices of Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard, John Ratzenberger, Kathy Najimy, Sigourney Weaver, and the MacInTalk system, and was the overall ninth feature film produced by the company. It follows a trash compactor robot in a deserted world, left to clean a largely abandoned city. However, he is visited by a probe sent by the ""Axiom"" ship, whom he falls in love with and pursues across the galaxy.
+
+Planet 51: 
+Planet 51 is a 2009 Spanish and American-British-movie 3D computer-animated science fiction comedy film directed by Jorge Blanco, written by Joe Stillman, and starring Dwayne Johnson, Jessica Biel, Justin Long, Gary Oldman, Seann William Scott, and John Cleese. Produced by Madrid-based Ilion Animation Studios and HandMade Films, it was originally acquired for United States distribution by New Line Cinema, but then sold to Sony Pictures before it was completed. ""Planet 51"" was released on 20 November 2009, by TriStar Pictures. It was originally titled ""Planet One"". Produced on a budget of $70 million, as of 2010, ""Planet 51"" was the most expensive film produced in Spain.
+
+Cloudy with a Chance of Meatballs (film): 
+Cloudy with a Chance of Meatballs is a 2009 American computer-animated science fiction comedy film loosely based on the 1978 children's book of the same name by Judi and Ron Barrett. It was produced by Sony Pictures Animation, and released by Columbia Pictures on September 18, 2009.
+---------------------
+Nila Pennae: 
+Nila Pennae (Moon Girl) is a 1990 Indian Tamil film directed by V.Tamilazagan ]]. It stars Anand and Divya Bharti. The film was critically and financially unsuccessful, and is known as Bharti's only Tamil film.
+
+The Quiet Family: 
+The Quiet Family () is a 1998 South Korean comedy horror film. It was director Kim Jee-woon's feature film debut. The story centers on a family who owns a hunting lodge in a remote area, whose customers always happen to end up dying. Among the film's main cast are pre-stardom Choi Min-sik and Song Kang-ho.
+
+Yaamirukka Bayamey: 
+Yaamirukka Bayamey is a 2014 Indian Tamil horror comedy film written and directed by debutant Deekay and produced by Elred Kumar. The cast includes Kreshna, Rupa Manjari, Karuna, Oviya and Anaswara Kumar. 15 technicians were introduced in the film, which started shooting in Nainital in October. Previously titled as ""Illa Aanalum Irukku"", the film released on 9 May 2014 and received positive reviews. The film was later remade into Kannada as ""Namo Boothatma"" and in Telugu as ""Next Nuvve"". ""Yaamirukka Bayamey"" is based on the 1998 Korean film ""The Quiet Family"".
+
+Veettuku Veedu: 
+Veettuku Veedu (Tamil: வீட்டுக்கு வீடு) is a 1970 Indian Tamil film, directed by C. V. Rajendran and produced by S. Suryaprakash, Rajan, R. Renganathan and R. Parthasarathy. The film's script was written by Chitralaya Gopu. Starring Jaishankar, Lakshmi, R. Muthuraman Vennira Aadai Nirmala and Nagesh in lead roles with V. K. Ramasamy and Major Sundararajan playing supporting roles. Soundtrack is composed by M. S. Viswanathan. The 2001 Tamil film ""Viswanathan Ramamoorthy"" is said to be based on this film. ""Veettuku Veedu"" was remade in Kannada as Galate Samsara. The storyline of the movie is based on the English comedy play ""Right Bed Wrong Husband"".
+
+List of awards and nominations received by Vikram: 
+Vikram is an Indian Tamil film actor. After making his cinematic debut in the 1990 film ""En Kadhal Kanmani"", he acted in a series of small-budget Tamil, Telugu and Malayalam films. It was Bala's tragedy film ""Sethu"" (1999) that established Vikram in the Tamil film industry. In the early 2000s Vikram appeared in a series of masala films—""Dhill"", ""Gemini"", ""Dhool"" and ""Saamy"" all becoming commercially successful. During this period, Vikram performed diverse roles and received critical acclaim for his performances in ""Kasi"" and ""Samurai"". In 2003, Vikram's performance as an autistic gravedigger in ""Pithamagan"" won a lot of acclaim and secured his first National Film Award for Best Actor. His portrayal as an innocent man with multiple personality disorder in Shankar's ""Anniyan"" was commercially successful. The film also fetched him a Filmfare Best Actor Award. Vikram's portrayal as a tribal leader in Mani Ratnam's ""Raavanan"" saw him secure further acclaim. He is only the third actor to receive a National Film Award for Best Actor in the Tamil film industry. Vikram is known for his intense performances, with his work often fetching critical acclaim and commercial success. He has won a National Film Award and seven Filmfare Awards South, of which five are Best Actor awards.
+
+Sneha (actress): 
+Suhasini Rajaram Naidu, popularly known by her stage name Sneha, is an Indian film actress, who works in the South Indian film industry. She debuted in the Malayalam film ""Ingane Oru Nilapakshi"" (2000), directed by Anil – Babu and was later signed for the Tamil film ""Virumbugiren"", though it was only released two years later. She started getting offers in Tamil and moved her focus to Kollywood, and the movie ""Ennavale"", where she starred opposite R. Madhavan, was released first in the same year.
+---------------------
+He began his career in 1903 and first gained attention as a stage actor in light comedy, then high drama, culminating in productions of ""Justice"" (1916), ""Richard III"" (1920) and ""Hamlet"" (1922); his portrayal of Hamlet led to him being called the ""greatest living American tragedian"".
+
+Fred Santley: 
+Fred Santley (November 20, 1887 – May 14, 1953), also known variously as Freddie Santley, Fredric Santley, Frederick Santley, Frederic Santley, and Fredric M. Santley, was an American character actor of the silent and sound film eras, as well as an actor on the Broadway stage. Born in Salt Lake City, Utah on November 20, 1887, as Frederic Mansfield, the son of Laurene Santley, and the stepson of stage actor Eugene Santley. He was the brother of filmmaker and stage actor Joseph Santley, both of whom adopted the surname of their stepfather as their stage name. He would make his acting debut in a 1907 short, ""Pony Express"", and would continue to make shorts throughout the 1910s and 1920s. In addition, he would appear in numerous plays during this period, including more than a dozen Broadway productions.
+
+Vijayakumari: 
+Vijayakumari is an Indian stage, television and film actress.She is the wife of stage actor O. Madhavan and mother of film actor Mukesh. She was a stage actor at K.P.A.C and Kalidasa Kalakendra. She is the winner of the Kerala State award for best stage actress. Currently she is the Secretary of Kalidasa Kalakendra.
+
+Falz: 
+Folarin Falana (born October 27, 1990 in Lagos State), better known by his stage name Falz is a Nigerian rapper, actor, and songwriter. He began his career while in secondary school after forming a group called ""The School Boys"" with his friend before his professional career as a music artiste began in 2009. Falz shot into limelight after his song titled ""Marry Me"" (featuring vocals from Poe and Yemi Alade) won him a nomination in the ""Best Collaboration of The Year"" category at the 2015 Nigeria Entertainment Awards. He was also nominated in the ""Best Rap Act of The Year"" and ""Best New Act to Watch"" categories at the same event. He currently owns an independent record label called Bahd Guys Records.
+
+Anthony Franciosa: 
+Anthony Franciosa (born Anthony George Papaleo, October 25, 1928 – January 19, 2006), usually billed as Tony Franciosa during the height of his career, was an American film, TV and stage actor. He made several feature films, including ""A Face in the Crowd"" (1957) and ""Career"" (1959) for which he won the Golden Globe for Best Actor/Drama. In television, along with many minor parts, he played lead roles in five television series: the sitcom ""Valentine's Day"" (1964–65), drama ""The Name of the Game"" (1968–71), ""Search"" (1972–73), ""Matt Helm"" (1975) and ""Finder of Lost Loves"" (1984). However, he began as a successful stage actor, gaining a Tony Award nomination for the drug-addiction play ""A Hatful of Rain"".
+
+Funmi Falana: 
+Funmi Falana is a Nigerian legal practitioner and women's rights activist. She is the wife of Femi Falana, a renowned Nigerian activist and lawyer; and mother to Falz, a Nigerian recording artist and actor. Funmi Falana currently serves as the National Director of Women Empowerment and Legal Aid (WELA), a non-governmental organization that defends the right of women and children.
+---------------------
+Anthony Vaccarello: 
+Anthony Vaccarello is an Italian-Belgian fashion designer and currently creative director at Yves Saint Laurent. Prior to this he held the position of creative director at Versus Versace, as well as designing his own eponymous line.
+
+Yves Saint Laurent (film): 
+Yves Saint Laurent is a 2014 French biographical drama film directed by Jalil Lespert and co-written with Jacques Fieschi, Jérémie Guez and Marie-Pierre Huster. The film is based on the life of Yves Saint Laurent from 1958. The film stars Pierre Niney, Guillaume Gallienne, Charlotte Le Bon, Laura Smet, Marie de Villepin, Xavier Lafitte and Nikolai Kinski. The film opened the Panorama Special section of the 64th Berlin International Film Festival at the renovated Zoo Palast, with director, cast and Pierre Bergé in attendance. The film received seven nominations at the 40th César Awards, winning Best Actor for Pierre Niney.
+
+Tom Ford: 
+Thomas Carlyle ""Tom"" Ford (born August 27, 1961) is an American fashion designer, film director, screenwriter, and film producer. He launched his eponymous luxury brand in 2006, having previously served as the creative director at Gucci and Yves Saint Laurent. Ford directed the Oscar-nominated films ""A Single Man"" (2009) and ""Nocturnal Animals"" (2016).
+
+Roger Scemama: 
+Roger Scemama (1898 – 1989) was a French parurier. Born in Tunis to a wealthy Florentine family, Scemama moved to Paris in 1922 where he began parure-making. Roger Scemama worked for the most famous French Haute Couture houses and resurrected the use of crystal in fashion in the 1950s. Alongside the Black Givenchy dress of Audrey Hepburn, Scemama was asked to design her necklace. As a parurier, Roger Scemama designed jewelleries for Jacques Fath, Balmain, Schiaparelli, Lanvin, Givenchy, Balenciaga, Dior and Yves Saint Laurent. Some of its jewelry creations for Yves Saint Laurent can be found in New York at the Metropolitan Museum of Art and others at the Palais Galliera, Musée de la Mode de la Ville de Paris.
+
+Saint Laurent (film): 
+Saint Laurent is a 2014 French biography drama film co-written and directed by Bertrand Bonello, and starring Gaspard Ulliel as Yves Saint Laurent, Jérémie Renier as Pierre Bergé, and Louis Garrel as Jacques de Bascher. The supporting cast features Léa Seydoux, Amira Casar, Aymeline Valade and Helmut Berger. The film centers on Saint Laurent's life from 1967 to 1976, during which time the famed fashion designer was at the peak of his career. The film competed for the Palme d'Or in the main competition section at the 2014 Cannes Film Festival and was released on 24 September 2014.
+
+Nocturnal Animals: 
+Nocturnal Animals is a 2016 American neo-noir psychological thriller film written, co-produced, and directed by Tom Ford, based on the 1993 novel ""Tony and Susan"" by Austin Wright. The film stars Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor-Johnson, Isla Fisher, Armie Hammer, Laura Linney, Andrea Riseborough, Karl Glusman, and Michael Sheen. Principal photography began on October 5, 2015, in Los Angeles, California. The film was released in the United States on November 18, 2016, by Focus Features, received generally positive reviews from critics and has grossed $30 million worldwide.
+
+Yves Saint Laurent (brand): 
+Yves Saint Laurent YSL (] ; also known as Saint Laurent Paris) is a French luxury fashion house founded by Yves Saint Laurent and his partner, Pierre Bergé. Saint Laurent Paris revived its haute couture collection in 2015 under creative director Hedi Slimane. The new collection, ""Yves Saint Laurent Couture"" or ""Saint Laurent Paris 24, Rue de L’Université"" is the French house's first couture collection ever since the retirement of its legendary founder in 2002.
+
+Patrick Kelly (fashion designer): 
+Patrick Kelly (September 24, 1954 – January 1, 1990) was an American fashion designer. Born in Vicksburg, Mississippi, Kelly studied art at Jackson State University and then attended Parsons School of Design. While in New York Kelly Struggled to find steady employment.
+---------------------
+Thank You for Your Service (2017 film): 
+Thank You for Your Service is an upcoming American biographical war drama film written and directed by Jason Hall in his directorial debut, based on the non-fiction book of the same name by David Finkel. The film is about posttraumatic stress disorder (PTSD), depicting United States soldiers who try to adjust to civilian life after returning from Iraq. The film is produced by DreamWorks Pictures and distributed by Universal Pictures, starring Miles Teller, Haley Bennett, Beulah Koale, Amy Schumer, and Scott Haze. Principal photography began on February 9, 2016 in Atlanta. It is scheduled for release on October 27, 2017.
+
+Lhakpa Tsamchoe: 
+Lhakpa Tsamchoe (born 1972) is an Indian born Tibetan actress. She is the first Tibetan woman ever to break into mainstream film; most famous for starring alongside Brad Pitt and David Thewlis in the 1997 Hollywood blockbuster ""Seven Years in Tibet"", in which she played Pema Lhaki, a Tibetan tailor and wife of Austrian mountaineer, Peter Aufschnaiter.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What is the invention of the social entrepreneur whose life is the subject of an upcoming 2018 Indian film called 'Padman'?
+        
+        assistant
+         A low-cost sanitary pad making machine.",low-cost sanitary pad making machine,0.387484073638916,2.559016227722168,0.009776346385478973
+31,"Where Have All the Flowers Gone? was created first, in 1955.",American Pimp,0.269167423248291,3.4538891315460205,0.10175547748804092
+32,Flight of the Navigator.,Flight of the Navigator,0.5667543411254883,2.6741368770599365,0.9781550765037537
+33,"Austin Wright's ""Tony and Susan"".",Tony and Susan,0.4414491653442383,2.7599055767059326,0.7472995519638062
+34,John Toland,John Willard Toland,0.32402610778808594,2.897587537765503,0.7958048582077026
+35,Archana played the character Ambili in the film Yamanam.,Archana,0.36272382736206055,3.043483257293701,0.4284358620643616
+36,Cliffhanger.,Renny Harlin,0.4884779453277588,2.401135206222534,0.10882595926523209
+37,"Pema Lhaki, a Tibetan tailor and wife of Peter Aufschnaiter.",Pema Lhaki,0.3275926113128662,3.465019464492798,0.6982614994049072
+38,Tuller School.,Tuller School,0.4609377384185791,2.3006651401519775,0.9858537912368774
+39,The University of Hawaii.,Western Association of Schools and Colleges,0.6199135780334473,2.1079275608062744,0.4481133818626404
+40,"The Go-Betweens had more bandmates, with a total of 6 members at one point, while Jersey Budd is a solo artist.",The Go-Betweens,1.4259552955627441,4.452656030654907,0.4825094938278198
+41,Denis O'Hare,Jim Carrey,0.4166831970214844,2.503734827041626,0.35068005323410034
+42,"Toshimitsu Deyama, also known as Toshi, has had a solo singing career.",Toshimitsu Deyama,0.3148996829986572,3.6901278495788574,0.8021327257156372
+43,Falz.,The School Boys,0.31518054008483887,2.37097430229187,0.2221985161304474
+44,Saraghrar.,Saraghrar,0.26546335220336914,2.5774927139282227,0.9763875007629395
+45,Jena Malone.,Jena Malone,6.047896146774292,2.4740543365478516,0.9770190119743347
+46,Charlie Parsons.,Charlie Parsons,0.7375726699829102,2.0321953296661377,0.9745477437973022
+47,"W New York Downtown Hotel and Residences is taller, at 630 ft, compared to the Marine Midland Building, which is 688 ft.",Marine Midland Building,0.3445415496826172,4.458151340484619,0.5878970623016357
+48,John R. Neill.,John R. Neill,0.3060476779937744,2.948199987411499,0.9819061160087585
+49,Los Angeles.,Los Angeles,0.46978235244750977,2.543088912963867,0.9625944495201111
+50,The New Kingdom.,New Kingdom of Egypt,0.3656034469604492,2.4827494621276855,0.709037721157074
+51,2016,2016,0.31409692764282227,2.493062973022461,1.0
+52,They are both songs by American rapper G-Eazy.,rapper,0.6282787322998047,2.8726110458374023,0.42683666944503784
+53,1409,"December 2, 1409",0.23700332641601562,2.2719123363494873,0.5661680698394775
+54,29.5 miles,29.5 mi south,0.5146002769470215,2.675323963165283,0.6874529123306274
+55,Satchel Paige.,Satchel Paige,0.35438966751098633,2.2169175148010254,0.9862974882125854
+56,Cape Elizabeth.,Cumberland,0.39064908027648926,2.6390016078948975,0.35089290142059326
+57,1974,1888,3.753481388092041,2.414036750793457,0.39883866906166077
+58,Amarillo,"199,582",0.2712562084197998,2.5542118549346924,0.058482635766267776
+59,The Italian National Fascist Party.,The National Fascist Party,0.30485057830810547,2.503260850906372,0.8437008857727051
+60,"Goldfield, Nevada.",268,0.35651111602783203,2.5227065086364746,0.28594526648521423
+61,Armenian.,Armenian,0.32520341873168945,2.225696086883545,0.9639847278594971
+62,November 2011,In November 2011,0.28089332580566406,2.5992727279663086,0.9288325309753418
+63,The fourth.,fourth,0.37905335426330566,2.5511176586151123,0.814795970916748

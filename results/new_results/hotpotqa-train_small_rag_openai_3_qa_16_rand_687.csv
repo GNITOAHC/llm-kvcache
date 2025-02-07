@@ -1,0 +1,36 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,New York.,New York,0.2716331481933594,1.861523151397705,0.9648565053939819
+1,"Johannes Longinus was the tutor of Casimir Jagiellon, the person San Casimiro is named after.",Johannes Longinus,0.27576112747192383,1.3857450485229492,0.5911226272583008
+2,"""U Can't Touch This""",U Can't Touch This,0.29668450355529785,0.7920138835906982,0.7539971470832825
+3,English.,English,0.35077619552612305,0.6016700267791748,0.9305142164230347
+4,"Pennsylvania State University was founded in 1855, while the University of East Anglia was founded in 1963.",Pennsylvania State University,0.2790389060974121,1.5563132762908936,0.6435672044754028
+5,2013.,"March 21, 1985",1.0237095355987549,0.6760590076446533,0.3582780957221985
+6,"Todd Phillips directed the 2016 film ""War Dogs"".",Todd Phillips,0.3337690830230713,1.0728578567504883,0.48042547702789307
+7,Lil Dicky.,Chris Brown,0.26344728469848633,0.6782536506652832,0.3593020439147949
+8,They are both types of flowering plants.,genus,0.24025964736938477,0.6764833927154541,0.3589128255844116
+9,Road Kings,Road Kings,0.36310315132141113,0.6057591438293457,1.0000001192092896
+10,Yes.,yes,0.3523566722869873,0.6916201114654541,0.836855947971344
+11,Yes.,yes,0.32596421241760254,0.684377908706665,0.836855947971344
+12,The Rahmi M. Koç Museum opened first in 1994.,Rahmi M. Koç Museum,0.5585663318634033,1.1114344596862793,0.8261754512786865
+13,"coach for the Miami Heat of the National Basketball Association (NBA). Howard formerly played for the Heat from 2010 until 2013. A one-time All-Star and one-time All-NBA power forward, he began his NBA career as the fifth overall pick in the 1994 NBA draft, selected by the Washington Bullets. Before he was drafted, he starred as an All-American on the Michigan Wolverines men's basketball team. At Michigan he was part of the Fab Five recruiting class of 1991 that reached the finals of the National Collegiate Athletic Association (NCAA) Men's Division I Basketball Championship in 1992 and 1993. Howard won his first NBA championship with Miami in the 2012 NBA Finals and his second NBA championship in the 2013 NBA Finals.
+
+2012 NBA Finals: 
+The 2012 NBA Finals was the championship series of the 2011–12 season of the National Basketball Association (NBA), and the conclusion of the season's playoffs. The Eastern Conference champion Miami Heat defeated the Western Conference champion Oklahoma City Thunder 4 games to 1 to win their second NBA title. Heat forward LeBron James was named the Finals MVP.
+
+2001–02 Dallas Mavericks season: 
+The 2001–02 NBA season was the Mavericks' 22nd season in the National Basketball Association. It was also their first season playing at American Airlines Center. During the offseason, the Mavericks acquired All-Star point guard Tim Hardaway from the Miami Heat. The Mavericks continued to play solid basketball as Dirk Nowitzki and Steve Nash were both selected to the 2002 NBA All-Star Game for the first time in their careers. At midseason, Hardaway was traded along with Juwan Howard to the Denver Nuggets for Nick Van Exel and Raef LaFrentz. The Mavericks finished fourth in the Western Conference, and second in the Midwest Division with a 57–25 record, and made the playoffs in back to back seasons for the first time since 1988. Nowitzki led the team in scoring and rebounds, while Nash led them in assists. In the Western Conference Quarterfinals, the Mavericks swept the Minnesota Timberwolves in three straight games, but then lost the next series in five games to the Sacramento Kings.
+
+2004–05 Houston Rockets season: 
+The 2004–05 NBA season was the Rockets' 38th season in the National Basketball Association, and their 34th season in the city of Houston. During the offseason, the Rockets acquired All-Star forward Tracy McGrady and Juwan Howard from the Orlando Magic, acquired All-Star center Dikembe Mutombo from the Chicago Bulls, who acquired him from the New York Knicks, and signed free agent Bob Sura. The Rockets struggled with a 6–11 start to the season, then played around.500 as they traded Jim Jackson to the New Orleans Hornets for David Wesley in late December. The Rockets would later on win eight straight games in February, as McGrady and Yao Ming were both selected to play in the 2005 NBA All-Star Game at Denver. At midseason, the team traded Maurice Taylor to the New York Knicks, and acquired Mike James from the Milwaukee Bucks.
+
+1994–95 Washington Bullets season: 
+The 1994–95 NBA season was the Bullets' 34th season in the National Basketball Association. During the offseason, the Bullets acquired Scott Skiles from the Orlando Magic and hired Jim Lynam as head coach.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Which team won the European Cup Final in which Helmut Winklhofer played?
+        
+        assistant
+         Bayern Munich.",Porto,0.29532909393310547,0.6963157653808594,0.060504816472530365
+14,Miami Heat.,Oklahoma City Thunder,0.42015862464904785,0.600736141204834,0.38785067200660706
+15,"Philip Saville was born on October 28, 1930, and Christophe Gans was born on March 11, 1960, so Philip Saville was born first.",Philip Saville,0.8286521434783936,2.1732935905456543,0.6464529037475586

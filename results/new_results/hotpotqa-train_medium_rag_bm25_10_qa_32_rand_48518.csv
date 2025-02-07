@@ -1,0 +1,64 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Epic.,Epic,0.0012581348419189453,2.480710506439209,0.8869257569313049
+1,"Ida Minerva Tarbell was born on November 5, 1857, and Robert C. Kochersberger was born on April 25, 1950.",Ida Minerva Tarbell,0.0013108253479003906,2.8645920753479004,0.6278417706489563
+2,Uber.,Uber,0.001226186752319336,1.1385557651519775,0.9402108788490295
+3,Dwight Howard.,Aaron Goodwin,0.0011868476867675781,1.1402709484100342,0.34421518445014954
+4,Logan International Airport.,Logan International Airport,0.0012555122375488281,1.286874532699585,0.9586355686187744
+5,Joseph II.,Joseph II,0.0012133121490478516,1.2036550045013428,0.9863032102584839
+6,"Cabañeros National Park covers more boundaries/provinces, as it falls within two provinces (Ciudad Real and Toledo), whereas Picos de Europa National Park falls within three autonomous communities (Asturias, Cantabria, and Castile and León).",Cabañeros National Park,0.0012249946594238281,3.7823243141174316,0.6036221981048584
+7,Lance Bangs directed the documentary on Slint.,Lance Bangs,0.0012083053588867188,1.6610090732574463,0.5759787559509277
+8,John Webster.,John Webster,0.0012493133544921875,1.239076852798462,0.9745813608169556
+9,Ferris Bueller's Day Off.,"""Ferris Bueller's Day Off"" (1986)",0.0012350082397460938,1.5888001918792725,0.8507319688796997
+10,Ryan Tubridy.,Ryan Tubridy,0.0012271404266357422,1.3375706672668457,0.9873680472373962
+11,"director to Mahesh Bhatt in ""Kaash"" (1987). Warsi choreographed the title song of ""Roop Ki Rani Choron Ka Raja"" (1993), before making his acting debut in the Amitabh Bachchan-produced ""Tere Mere Sapne"" (1996). It was followed by ""Betaabi"" (1997), ""Hero Hindustani"" (1998), ""Hogi Pyaar Ki Jeet"" and ""Trishakti"" (both 1999), among others, but most of these films failed to do well at the box office. In 2003, he had his breakthrough by playing the comic sidekick Circuit in Rajkumar Hirani's comedy-drama ""Munna Bhai M.B.B.S.""
+---------------------
+Predators (soundtrack): 
+Predators is the official soundtrack album of the 2010 science fiction film ""Predators"". It was composed by John Debney and released on July 5, 2010 via La-La Land Records. The score is completely orchestral and makes use of several themes from the original film by Alan Silvestri. The main """"Predator""""-theme plays for the first time in the film when the Predators first appear. Later it is used at several points throughout the film.
+
+Serendipity (film): 
+Serendipity is a 2001 American romantic comedy film directed by Peter Chelsom, written by Marc Klein, and starring John Cusack and Kate Beckinsale. The music score was composed by Alan Silvestri.
+
+A Christmas Carol (soundtrack): 
+A Christmas Carol is a soundtrack for the 2009 film of the same name. The music was composed by Alan Silvestri with some of the music being based on actual carols. The album was later issued physically through Intrada Records. The theme song ""God Bless Us Everyone"" was written by Silvestri and Glen Ballard and performed by Italian classical crossover tenor Andrea Bocelli.
+
+Whoa, Nelly!: 
+Whoa, Nelly! is the debut studio album by Canadian singer-songwriter Nelly Furtado. It was released in North America on October 24, 2000 by DreamWorks Records. It peaked at number twenty-four on the US ""Billboard"" 200 chart, and opened to critical acclaim. It produced three international singles: ""I'm Like a Bird"", ""Turn Off the Light"" and ""...on the Radio (Remember the Days)"". ""Party's Just Begun (Again)"" was a club-only single released exclusively in the US before the album's availability in stores, and it was included on the soundtrack of the 1999 film ""Brokedown Palace"". When ""Party's Just Begun (Again)"" was released, Furtado's label was unsure about the genre in which to market her. They eventually remixed ""Party's Just Begun (Again)"" and included it on this album as ""Party"". The DreamWorks label released ""Trynna Finda Way"" as the fourth single in Mexico and South America, and ""Hey, Man!"" as the fourth single in the UK and Germany.
+---------------------
+Jukebox musical: 
+A jukebox musical is a stage or film musical that uses previously released popular songs as its musical score. Usually the songs have a connection with a particular popular musician or group—because they were either written by, or for, the artists in question, or at least covered by them. The songs are contextualized into a dramatic plot: often the biographical story of the performer(s) whose music is featured, although in some cases the plot does not revolve around the particular group at all.
+
+Cyrano, el musical: 
+Cyrano, el musical is a Mexican musical based on the play ""Cyrano de Bergerac"" by Edmond Rostand. The book and lyrics are by Lorenzo Gonzalez. The music is by David Tort. It was the first Mexican musical written in verse, based upon the Spanish translation from the French.
+
+Mariana Treviño: 
+Mariana Treviño is a Mexican stage and screen actress from Monterrey. She became known to a wider domestic audience through her role as Lupita in the popular jukebox musical ""Mentiras"", which she played in over a thousand performances. Following the success of Mentiras, Treviño went on to appear in Mexican comedy films such as ""No sé si cortarme las venas o dejármelas largas"" (2013) and ""Amor de Mis Amores"" (2014). As of 2015, she co-stars with Luis Gerardo Méndez in Netflix' first ever Spanish-language original production ""Club de Cuervos"". Treviño received two nominations at the 59th Ariel Award for Best Supporting Actress for ""La Vida Inmoral de la Pareja Ideal"", and Best Actress in a Minor Role for ""El Sueño del Mara'akame"".
+
+Calamity Jane (musical): 
+Calamity Jane (A Musical Western) is a stage musical based on the historical figure of frontierswoman Calamity Jane. The non-historical, somewhat farcical plot involves the authentic Calamity Jane's professional associate Wild Bill Hickok, and presents the two as having a contentious relationship that ultimately proves to be a facade for mutually amorous feelings. The ""Calamity Jane"" stage musical originated as a live adaption of ""Calamity Jane"", the 1953 Warner Bros. movie musical with Doris Day.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Who directed the film for which Aerosmith performed the song ""Sweet Emotion""? 
+        
+        assistant
+         Michael Bay directed the film ""Armageddon"" for which Aerosmith performed the song ""I Don't Want to Miss a Thing"", not ""Sweet Emotion"".","Michael Bay,",0.0012195110321044922,2.8668406009674072,0.01683349907398224
+12,"John Cage composed ""Roaratorio, an Irish circus on Finnegans Wake"" for Klaus Schöning of West German Radio in 1979.",Klaus Schöning,0.001237630844116211,2.824321746826172,0.4267100691795349
+13,"Cyril Ramaphosa was elected as Deputy President of the African National Congress (ANC) at the ANC National Conference in Mangaung in December 2012, and is married to Tshepo Motsepe, the second lady of South Africa.",Matamela Cyril Ramaphosa,0.0012695789337158203,3.5908725261688232,0.5072160959243774
+14,Vocaloid.,Vocaloid,0.0012345314025878906,1.2234430313110352,0.9707846641540527
+15,The U.S. Navy during World War II.,the United States Navy,0.0012409687042236328,1.630789041519165,0.8022773861885071
+16,American.,American,0.0012054443359375,1.175783634185791,0.9135115146636963
+17,"September 30, 2014.","September 30, 2014",0.0012056827545166016,1.5587992668151855,0.9806258082389832
+18,The University of Paris.,University of Paris,0.0012750625610351562,1.4033989906311035,0.9689004421234131
+19,Xavier Malisse.,Xavier Malisse,0.0012280941009521484,1.2479827404022217,0.9828275442123413
+20,"Suffolk County, New York.",Suffolk County,0.0012285709381103516,1.3023762702941895,0.8849520683288574
+21,Serendipity.,Serendipity,0.0012333393096923828,1.345212697982788,0.9813145399093628
+22,Sierra McCormick played the role of Olive Doyle on A.N.T. Farm.,Olive Doyle,0.0012269020080566406,1.9425280094146729,0.5728938579559326
+23,Vivah,Vivah,0.0012352466583251953,1.1842138767242432,1.0
+24,Avalon Hill,Avalon Hill,0.0012657642364501953,1.2136003971099854,1.0
+25,Ghanaian.,Ghanaian,0.001184701919555664,1.101780891418457,0.968842625617981
+26,musical score.,musical score,0.0012392997741699219,1.237536907196045,0.9491146802902222
+27,Jeff Green,Jeffrey Lynn Green,0.0012373924255371094,1.2368414402008057,0.7668668031692505
+28,Buster Keaton.,The Great Stone Face,0.0012195110321044922,1.3055338859558105,0.2967596650123596
+29,The 3000 metres steeplechase event.,3000 metres steeplechase,0.0012722015380859375,1.7492523193359375,0.894707202911377
+30,Giacomo Gentilomo.,Giacomo Gentilomo,0.0012211799621582031,1.4512965679168701,0.9835648536682129
+31,"Pittsburgh, Pennsylvania.","Pittsburgh, Pennsylvania",0.001215219497680664,1.34507417678833,0.9803575277328491

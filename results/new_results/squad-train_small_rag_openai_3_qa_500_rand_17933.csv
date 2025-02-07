@@ -1,0 +1,488 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,There is no mention of Fun Fun Bar in the provided text.,1935,1.9130864143371582,2.932145833969116,-0.019724296405911446
+1,"No, the number of entrants has increased over the years.",The number of entrants has increased greatly in recent years,0.3803589344024658,1.2231667041778564,0.8571332097053528
+2,"José Batlle y Ordóñez, President of Uruguay from 1911 to 1915.",José Batlle y Ordóñez,0.7053570747375488,1.5475869178771973,0.684239387512207
+3,Francisco Antonio Maciel.,Francisco Antonio Maciel,0.31866908073425293,0.7248349189758301,0.9896161556243896
+4,"Yes, Rebecca Lowe became the first woman to host the FA Cup Final in the UK in 2011.",Rebecca Lowe became the first woman to host the FA Cup Final in the UK.,0.3042318820953369,1.566715955734253,0.9242324829101562
+5,A major storm occurred in 1923.,A major storm,0.387631893157959,0.8899822235107422,0.610338032245636
+6,Gordon Brown.,"his Chancellor, Gordon Brown",0.4995720386505127,0.7845947742462158,0.7710922956466675
+7,May 1994.,May 1994,0.3535144329071045,0.8778383731842041,0.9781463146209717
+8,The Palacio Taranco.,Plaza de la Constitución,0.3824608325958252,0.923043966293335,0.5106980204582214
+9,191,191,0.25458192825317383,0.743640661239624,1.0000001192092896
+10,The BBC and Sky Sports had FA Cup coverage from 1988-1997.,"From 1988 to 1997, the BBC and Sky Sports had coverage of the FA Cup",0.2569863796234131,1.359147071838379,0.9557037353515625
+11,There is no information about who planned the first set of subsidiary forts in the given context.,Portuguese,0.40168213844299316,1.1441311836242676,-0.047715313732624054
+12,Telecommunications company.,telecommunications,0.4999246597290039,0.8324356079101562,0.8162104487419128
+13,1942,1942,0.3167867660522461,0.7912919521331787,1.0
+14,"81,774.","81,774",0.292952299118042,0.877812385559082,0.983536958694458
+15,"Yes, the trophy is decorated with ribbons in the colors of both finalists during the final.","the trophy wears is decorated with ribbons in the colours of both finalists, with the loser's ribbons being removed at the end of the game.",0.39255332946777344,1.4481375217437744,0.8697636127471924
+16,Rimer Cardillo.,Rimer Cardillo,0.3860325813293457,0.8798182010650635,0.9760582447052002
+17,The FA Cup trophy is permanently presented to any club which wins the competition three times.,"the trophy was to be permanently presented to any club which won the competition three times,",0.29888916015625,1.3906104564666748,0.8555436134338379
+18,September 2006.,September 2006,0.3100316524505615,0.8672089576721191,0.9575011730194092
+19,207,207,0.5522487163543701,0.6060867309570312,1.0
+20,Plaza Zabala.,Plaza Zabala,0.3882174491882324,0.8836929798126221,0.97856205701828
+21,Neoclassical.,Romanesque Revival style,0.2994520664215088,0.880307674407959,0.28748345375061035
+22,Doncaster.,Doncaster,0.36852097511291504,0.7809138298034668,0.9744547605514526
+23,BT Sport took over after ESPN.,BT Sport,0.3388938903808594,0.9369428157806396,0.7603031396865845
+24,Daniel Muñoz.,Daniel Muñoz,0.33126306533813477,0.8789031505584717,0.9780284762382507
+25,The Militant newspaper's five member editorial board were expelled on 22 February 1983.,activists and the two MPs who supported the group.,0.2993025779724121,1.4478676319122314,0.2926432490348816
+26,1816.,1816,0.33614230155944824,0.8255443572998047,0.9636778831481934
+27,2014.,"2014 replica of the second design, introduced in 1911",0.5267443656921387,0.8291049003601074,0.24078893661499023
+28,Sir John Chilcot.,Sir John Chilcot,0.36081933975219727,0.7190465927124023,0.9859715700149536
+29,European immigration.,the great European immigration,0.368074893951416,0.7842655181884766,0.8164143562316895
+30,"Yes, it's a regular occurrence in the FA Cup, with many lower-ranked teams beating higher-ranked teams in earlier rounds.",Almost every club in the League Pyramid has a fondly remembered giant-killing act in its history,0.32457995414733887,1.6998093128204346,0.2560631334781647
+31,5,five physical trophies have been presented,0.37496185302734375,0.720496654510498,0.3686099052429199
+32,1856.,1856,0.47619080543518066,0.8403592109680176,0.9725230932235718
+33,100 meters (330 ft),100 metres (330 ft) high,0.32233095169067383,0.9687578678131104,0.8933809995651245
+34,1927,1901,0.42881155014038086,0.7670729160308838,0.511741042137146
+35,Notts County in 1894.,Notts County,0.34168100357055664,0.9853115081787109,0.8057477474212646
+36,The Rodo Park and the Estadio Gran Parque Central serve as poles of the city of Montevideo.,urban development,0.3279099464416504,1.6391475200653076,0.0621047168970108
+37,The government of Montevideo.,the government of Montevideo,4.083704948425293,0.9792265892028809,0.9873817563056946
+38,Buenos Aires.,Buenos Aires,0.3199594020843506,0.5704221725463867,0.9760341048240662
+39,Montevideo.,Montevideo,0.5276029109954834,0.8357822895050049,0.9802385568618774
+40,1998.,1998,0.30098986625671387,0.8378415107727051,0.9467677474021912
+41,Parque Rodó.,Parque Rodó,0.8335607051849365,0.8774614334106445,0.9864100813865662
+42,Henry (Harry) James Burge claimed to have stolen the FA Cup.,80 year old career criminal Henry (Harry) James Burge claimed to have committed the theft,1.592365026473999,1.2839453220367432,0.7103700637817383
+43,The Social Democratic Party.,Social Democratic Party,2.6642873287200928,0.6432745456695557,0.9523102045059204
+44,"José Enrique Rodó, an important Uruguayan writer.",José Enrique Rodó,0.2931368350982666,1.166480302810669,0.7652969360351562
+45,Wembley Stadium.,"predominantly in London, and mainly at the Kennington Oval and then Crystal Palace.",0.4998741149902344,0.8724493980407715,0.5776833295822144
+46,"People consider giant killings, where lower-ranked teams beat higher-placed opposition, an integral part of the FA Cup tradition and prestige.",is considered an integral part of the tradition and prestige of the competition,0.3982071876525879,1.7498691082000732,0.4700024425983429
+47,21 times.,21,0.34437036514282227,0.8286516666412354,0.4996092617511749
+48,1781-1788.,between 1781 and 1788,0.4417896270751953,0.8155903816223145,0.9326534867286682
+49,Cardiff's Millennium Stadium.,between 2001 and 2006 they were hosted at the Millennium Stadium,0.3287689685821533,0.8641133308410645,0.6482124328613281
+50,£12 million.,£12 million,0.6526238918304443,0.8268113136291504,0.9689651131629944
+51,There is no mention of a person named Liniers in the provided text.,Baltasar Hidalgo de Cisneros,0.27202391624450684,1.3038008213043213,0.13101913034915924
+52,I don't see any information about bombillas in the provided context.,(drinking straws,0.26957178115844727,1.2516815662384033,0.054557375609874725
+53,731 clubs.,731,0.2427361011505127,0.8304891586303711,0.6218094825744629
+54,The 1895 replica of the FA Cup was stolen and later melted down to make counterfeit coins.,made strikes illegal,0.29932641983032227,1.5033986568450928,0.22984766960144043
+55,1985.,1985,0.27928733825683594,0.8357088565826416,0.9634966850280762
+56,Four days before the 1924 general election.,1924,0.43389010429382324,1.0909333229064941,0.6383382081985474
+57,307,307,0.2900815010070801,0.7405285835266113,1.0000001192092896
+58,8,eight,0.29453277587890625,0.6074545383453369,0.9316006898880005
+59,"Replays were traditionally played 3-4 days after the original game, but from 1991-92, they were staged at least 10 days later.",". Replays were traditionally played three or four days after the original game, but from 1991–92 they were staged at least 10 days later on police advice.",0.37308669090270996,2.020350217819214,0.9326554536819458
+60,A very popular street market.,a very popular street market,0.321674108505249,0.9207882881164551,0.9889058470726013
+61,The British Cemetery Montevideo is located in the Buceo neighborhood.,Buceo neighborhood,0.2881944179534912,1.0311598777770996,0.537443995475769
+62,The historical residence of General Fructuoso Rivera.,the historical residence of General Fructuoso Rivera,0.4110102653503418,1.130577564239502,0.9936248064041138
+63,No.,never reached the quarter finals,0.3119645118713379,0.7449052333831787,0.07721567153930664
+64,"70,000.","70,000",0.3020491600036621,0.881864070892334,0.9667558073997498
+65,Parque Batlle.,Parque Batlle,0.3155825138092041,0.8824944496154785,0.9846059083938599
+66,The Rio de la Plata region.,Rio de Plata region,0.3283228874206543,1.0083608627319336,0.9562671184539795
+67,The University of the Republic is the country's largest university.,The University of the Republic,0.2818636894226074,1.1747703552246094,0.7720088958740234
+68,Cordon.,Cordon,0.28567957878112793,0.6443259716033936,0.9558085203170776
+69,"Yes, before 1994-95, the FA Cup was not sponsored.",in recent times when this pattern was not followed were 1999–2000,2.853631019592285,1.3577868938446045,0.2059427797794342
+70,The FA decided to permanently use the new Wembley for semi-finals to recoup debts in financing the new stadium.,to recoup debts in financing the new stadium.,0.2993741035461426,1.6871378421783447,0.6402623653411865
+71,There is no mention of a German pocket ship or its Admiral in the given context.,Admiral Graf Spee,0.3213520050048828,1.0804779529571533,0.3440312445163727
+72,There is no mention of an observation post being replaced in 1802 in the given text.,a beacon,0.2988302707672119,1.4726617336273193,0.07983826100826263
+73,1930.,1930,0.4343833923339844,0.8278992176055908,0.9694188833236694
+74,The Scottish National Party (SNP) in Scotland in 2007.,Scottish National Party,0.2685985565185547,1.2994647026062012,0.8206198811531067
+75,674 clubs.,674,0.3342115879058838,0.811805248260498,0.5887205600738525
+76,Montevideo.,Montevideo,0.2958533763885498,0.8383729457855225,0.9802385568618774
+77,The historic residence of Antonio Montero.,Antonio Montero,0.31140732765197754,1.004394292831421,0.7488850355148315
+78,"The FA Cup trophy and a place in the FA Community Shield match, as well as qualification for European football.",the FA Cup trophy,0.40784406661987305,1.5777580738067627,0.8130713105201721
+79,142,142,0.26267480850219727,0.749896764755249,0.9999999403953552
+80,Arthur Scargill.,Arthur Scargill,0.30272531509399414,0.8885893821716309,0.986388623714447
+81,"Chasetown, a team from Level 8 of the English football league system.",Chasetown,0.252105712890625,1.3870389461517334,0.7178118228912354
+82,9 months.,nine months,0.5023648738861084,0.832477331161499,0.9414366483688354
+83,15,15,0.4150424003601074,0.749887228012085,1.0
+84,A torta frita is a pan-fried cake consumed in Montevideo and throughout Uruguay.,a pan-fried cake,0.32888054847717285,1.2415390014648438,0.4963776469230652
+85,John Whitelocke.,John Whitelocke,0.38185763359069824,0.6880176067352295,0.9856759905815125
+86,"I didn't find any information about ""Tablados"" in the given context.",popular scenes,0.29852747917175293,1.388627052307129,0.07664882391691208
+87,Municipalities were abolished.,art,0.23374199867248535,0.8724453449249268,0.06343227624893188
+88,Liverpool (2001) and Chelsea (2007),Chelsea (2010),0.4899868965148926,1.1311094760894775,0.7704355716705322
+89,Aguada.,Aguada,0.48017024993896484,0.7926218509674072,0.9822965264320374
+90,There is no mention of a fortress in the provided text.,1809,0.31653761863708496,1.0163211822509766,0.01854890212416649
+91,Barrio Sur in the southern area of the city.,Barrio Sur,1.1927974224090576,1.1312644481658936,0.8786888122558594
+92,I couldn't find any information about the Iglesia Punta Carretas being built.,between 1917 and 1927,0.3989746570587158,1.4167897701263428,0.06651186943054199
+93,1930,"it opened, in 2007.",0.345412015914917,0.786823034286499,0.18201002478599548
+94,St. Catherine's.,St.Catherine´s,0.5393509864807129,0.8763442039489746,0.9254430532455444
+95,Banking.,Banking,0.4671134948730469,0.7519032955169678,0.9318673610687256
+96,Neoclassical style.,Neoclassical style,0.37511205673217773,0.6949667930603027,0.9651041030883789
+97,Charles Louis Girault and Jules Chifflot León.,French architects Charles Louis Girault and Jules Chifflot León,0.30466270446777344,1.2699401378631592,0.7907092571258545
+98,Our Lady of the Sacred Heart.,Punta Carretas Church,0.38237643241882324,0.9564344882965088,0.19457480311393738
+99,£3 million.,£3 million,0.7676076889038086,0.8330426216125488,0.9681732654571533
+100,"3 parts: the cup itself, a lid, and a base.",The trophy comes in three parts,0.3471708297729492,1.2848303318023682,0.45871812105178833
+101,The Viceroyalty of the Río de la Plata.,Uruguay,0.3178722858428955,0.9983596801757812,0.48463666439056396
+102,C. W. Alcock.,C. W. Alcock,0.2802574634552002,0.9401884078979492,0.9926667809486389
+103,"Yes, if the score is tied after the initial match.",Until the 1990s further replays would be played until one team was victorious.,0.27753186225891113,1.1692779064178467,0.3394780158996582
+104,1978.,1978,0.3409550189971924,0.8328659534454346,0.9614052772521973
+105,"Yes, it has happened.",inaugural winners Wanderers achieved this feat by the 1876 final,0.27527427673339844,0.8994343280792236,-0.022801155224442482
+106,The north side.,north side,0.2977619171142578,0.831779956817627,0.9336278438568115
+107,The Taff Vale Case was a 1901 UK court ruling that Trades Unions in the United Kingdom could no longer donate money to fund the election campaigns and wages of Labour MPs.,a dispute between strikers and a railway company,0.3774561882019043,2.2161943912506104,0.36399728059768677
+108,The 20th century.,early 20th century,0.2805759906768799,0.91874098777771,0.8956294655799866
+109,"The Pall Mall Restaurant in London, four weeks after the 1872 final.",the Pall Mall Restaurant in London,0.3638899326324463,1.325294017791748,0.7737643122673035
+110,The Emirates FA Cup.,The Emirates FA Cup,0.23365044593811035,0.8520598411560059,0.9896088242530823
+111,"The Bay of Montevideo, which forms a natural harbour.",The port on Montevideo Bay,0.27877306938171387,0.9537732601165771,0.8196063041687012
+112,Pocitos.,Pocitos,0.281541109085083,0.8299129009246826,0.9758351445198059
+113,"The FA Cup was originally called the ""little tin idol"".",formerly named the UEFA Cup; until 1998,0.31488466262817383,1.1682095527648926,0.39496225118637085
+114,10 May 2010.,10 May 2010,0.3651864528656006,0.9649543762207031,0.9690914750099182
+115,The Royal Box at Wembley Stadium.,", the presentation is made at the Royal Box",0.4137096405029297,0.7856755256652832,0.5968014597892761
+116,Alcalde (or Alcaldesa if female).,an alcalde,0.3927431106567383,0.9150822162628174,0.7498192191123962
+117,Uruguay.,Uruguay,0.2644522190093994,0.5276546478271484,0.964796245098114
+118,Manchester United in 1999-2000.,"Manchester United did not enter the 1999–2000 FA Cup,",0.2389819622039795,1.0925939083099365,0.6386871337890625
+119,"Yes, Sir Alex Ferguson later admitted his regret regarding Manchester United's withdrawal from the 1999-2000 FA Cup.",Sir Alex Ferguson later admitted his regret regarding their handling of the situation.,0.52862548828125,1.7045812606811523,0.7408941984176636
+120,"The FA Cup games are broadcast on ITV, with BT Sport showing some matches, and the BBC showing highlights on Match of the Day.",", FA Cup matches are shown live by ITV across England and Wales, with UTV broadcasting to Northern Ireland",0.9782121181488037,1.7762694358825684,0.8085123300552368
+121,There is no information about Father Jose Manuel Perez Castellano in the provided context.,1815,0.2467968463897705,1.2205586433410645,0.03984149545431137
+122,I can't find any information about the location of the Museo y Parque Fernando Garcia.,Carrasco,0.2295854091644287,1.4676618576049805,0.19810353219509125
+123,Music in Montevideo.,music,0.3153505325317383,0.9153509140014648,0.5404955148696899
+124,"The tied match is replayed once, and if still tied, a penalty shoot-out is used to determine the winner.",fixtures ending in a tie are replayed once only,0.40516042709350586,1.6860706806182861,0.7519869208335876
+125,"57,913.","57,913",0.38121557235717773,0.8771049976348877,0.9817956686019897
+126,The semi-finals have been played exclusively at the rebuilt Wembley Stadium since 2008.,e semi-finals have been played exclusively at the rebuilt Wembley Stadium,0.39157748222351074,1.472299337387085,0.8904702067375183
+127,I couldn't find any information about Manolita Pina Torres in the provided context.,Torres Garcia,0.35079026222229004,1.4287137985229492,0.5129727721214294
+128,Montevideo.,Montevideo,0.34725260734558105,0.8327436447143555,0.9802385568618774
+129,12,12,0.43882083892822266,0.74617600440979,1.0000001192092896
+130,"To give Uruguayan children a complete education, on par with the best schools of the United Kingdom.",to give Uruguayan children a complete education,0.3191509246826172,1.5568180084228516,0.8894944190979004
+131,Ciudad Vieja area.,Ciudad Vieja area,0.5529270172119141,0.8794782161712646,0.984201192855835
+132,Montevideo.,Montevideo,0.4054110050201416,0.8354990482330322,0.9802385568618774
+133,Roman Catholicism.,Roman Catholicism,0.4015231132507324,0.8341419696807861,0.9299674034118652
+134,The Christian Brothers of Ireland Stella Maris College is located in the wealthy residential southeastern neighborhood of Carrasco.,Carrasco,0.3202676773071289,1.5673494338989258,0.3576091527938843
+135,"No, the loser of the FA Cup does not gain any direct reward.",the losing FA Cup finalist was given the Europa League place,0.37314271926879883,1.275876522064209,0.5424410104751587
+136,Jorge Burgues.,Jorge Burgues,0.33652830123901367,0.8309023380279541,0.9880064725875854
+137,1996,1996,0.3810303211212158,0.7878313064575195,1.0
+138,"156,205.","156,205",0.41259264945983887,0.877028226852417,0.9706205129623413
+139,1955.,1955,0.35098743438720703,0.827953577041626,0.9697723984718323
+140,2 September 1807.,2 September,0.38265466690063477,0.725846529006958,0.541589081287384
+141,Montevideo.,Montevideo,0.33275818824768066,0.840484619140625,0.9802385568618774
+142,There is no information about the founding date of the Golf Club of Punta Carretas in the given context.,1894,0.2883756160736084,1.646177053451538,0.2398112714290619
+143,"Preston North End won the first FA Cup in 1886 and 1889, and they also won the second FA Cup in 1889.",Wanderers were crowned the winners,0.5979104042053223,1.9187829494476318,0.3532165288925171
+144,"I don't see any information about ""Desfile de las Llamadas"" in the provided context.",Parade of the Calls,0.3441190719604492,1.5522112846374512,0.08774933218955994
+145,"92 Premier League and Football League clubs, and several hundred non-league teams in Steps 1 to 6 of the National League System.",Bolton Wanderers and Manchester City,0.42910146713256836,1.8424227237701416,0.48695409297943115
+146,Hospital Vilardebó.,Hospital Vilardebó,0.4763915538787842,0.7716572284698486,0.9839555025100708
+147,A siege of eight years.,a siege,0.38427305221557617,0.9166908264160156,0.7541012763977051
+148,David Shackleton.,David Shackleton,0.2822873592376709,0.8338167667388916,0.9811694622039795
+149,No.,The final has never been contested by two teams from outside the top division,0.2770102024078369,0.7465674877166748,0.09303279966115952
+150,"No, it was held in Millennium Stadium only between 2001 and 2006.","Prior to rebuilding, the final was hosted by the original Wembley Stadium",0.35007476806640625,1.4354078769683838,0.4144848883152008
+151,The text does not mention the people of London's opinion on the action.,the move seen as both unfair to fans of teams located far from London,0.3352339267730713,1.0262067317962646,0.3687297999858856
+152,St. Brendan’s School.,St.Brendan´s school,0.4143967628479004,0.9193778038024902,0.9728414416313171
+153,1838.,27 May 1838,0.3602015972137451,0.8353264331817627,0.8336828351020813
+154,They were striking for higher pay-rises.,higher pay,0.39536166191101074,1.044922113418579,0.5602697730064392
+155,The first six rounds.,first six rounds,0.3446950912475586,0.8687243461608887,0.9626593589782715
+156,"Yes, several Level 2 clubs have reached the finals, including Sunderland (1973), West Bromwich Albion (1931), and Southampton (1976).",Level 2 have never reached the final.,0.2614569664001465,2.053410530090332,0.4508507549762726
+157,Rio de la Plata.,Rio de la Plata,0.3110215663909912,0.92000412940979,0.9860845804214478
+158,"Yes, the FA Cup winners qualify for the UEFA Europa League.",The FA Cup winners qualify for the following season's UEFA Europa League,0.338162899017334,1.1966428756713867,0.8676352500915527
+159,There is no mention of a specific manifesto in the provided text.,"New Labour, New Life For Britain",0.3217954635620117,1.212453842163086,0.2522145211696625
+160,Yes.,competition was suspended due to the First World War,0.3235607147216797,0.7234396934509277,0.07498545199632645
+161,Upper and upper-middle-class residents' modern apartment buildings.,modern apartment buildings,3.923189163208008,1.1547174453735352,0.7886190414428711
+162,"Yes, the cup was stolen in 1895 and was never recovered.","his family kept it in their possession, out of view, until putting it up for auction in 2005",0.4865100383758545,1.2779688835144043,0.356137752532959
+163,The Santa Lucía River.,Santa Lucía River,0.2843043804168701,0.6769075393676758,0.97211092710495
+164,The National Party.,National Party,0.2573580741882324,0.8258163928985596,0.9491369724273682
+165,The eastern part of the Old District.,the eastern part of the Old District,0.3143341541290283,1.002223253250122,0.9916279911994934
+166,BT Sport won the bid.,David Gold,0.35173654556274414,0.8914980888366699,0.13668552041053772
+167,1880.,21 May 1880,0.38575005531311035,0.6878688335418701,0.8366383910179138
+168,The Museo del Gaucho y de la Moneda is located in the Centro.,the Centro,0.27828216552734375,1.4439525604248047,0.43082350492477417
+169,The question is not clear. Could you please rephrase it?,most rounds were played a few weeks earlier than normal as an experiment,0.4394996166229248,1.2131834030151367,0.0051943836733698845
+170,Cementerio del Norte.,Cementerio del Norte,0.5215063095092773,0.9167330265045166,0.9847566485404968
+171,There is no information about movie theater companies in the given context.,two,0.4722585678100586,1.2259016036987305,-0.023279789835214615
+172,The final is played at the rebuilt Wembley Stadium.,The final has been played at the rebuilt Wembley Stadium,0.5858702659606934,1.1456270217895508,0.9808273911476135
+173,There is no information about the Montevideo Cabildo being built in the given context.,between 1804 and 1869,0.5372376441955566,1.427516222000122,0.08372768759727478
+174,The Rambla.,The Rambla,0.23695802688598633,0.8390638828277588,0.9816848039627075
+175,"Yes, the media highlights and anticipates ""giant killings"" in the FA Cup, where lower-ranked teams beat higher-placed opposition.",". It is considered particularly newsworthy when a top Premier League team suffers an upset defeat, or where the giant-killer is a non-league club",0.6804301738739014,1.793597936630249,0.586613655090332
+176,I couldn't find any information about Rimer Cardillo in the provided context.,artists,0.4045145511627197,1.342529058456421,0.10167078673839569
+177,"Yes, the competition is open to any eligible club down to Level 10 of the English football league system.",The competition is open to any club down to Level 10 of the English football league system,0.3360435962677002,1.5638630390167236,0.9229280948638916
+178,"No, the 1895 trophy was the only one to be stolen and melted down.",2010–11 and 2012–13,0.4022507667541504,1.4333090782165527,0.16188035905361176
+179,The BBC.,the BBC,0.32947349548339844,0.766312837600708,0.9811015129089355
+180,Tourism.,Tourism,0.3112668991088867,0.7452671527862549,0.9584835767745972
+181,September 1992.,September 1992,0.3911564350128174,0.8756699562072754,0.9750969409942627
+182,"The Millennium Stadium in Cardiff, Wales.","In 2005, both were held at the Millennium Stadium.",0.47589659690856934,0.9887769222259521,0.7057638168334961
+183,"I don't see any information about the sale of something. The text appears to be about Montevideo, Uruguay.","Christie's auction house on 19 May 2005 for £420,000 (£478,400 including auction fees and taxes)",0.5626280307769775,1.6879470348358154,0.3447197377681732
+184,"1,325,968.","1,325,968 persons",0.34478259086608887,0.9627270698547363,0.7901734709739685
+185,The Montevideo Metropolitan Cathedral.,Montevideo Metropolitan Cathedral,0.500385046005249,0.9585351943969727,0.9832919836044312
+186,2000.,(2000,0.4410743713378906,0.8392157554626465,0.6934834122657776
+187,The first 6 rounds are the Qualifying Competition.,The first six rounds are qualifiers,0.3691976070404053,1.1377172470092773,0.8758541941642761
+188,Clubs in Steps 1 to 6 of the National League System (Levels 5 to 10) can also play.,"Clubs in the next six levels (non-league football) are also eligible provided they have played in either the FA Cup, FA Trophy or FA Vase competitions",0.3032097816467285,1.409616470336914,0.6770956516265869
+189,1923,1922–23,0.4111011028289795,0.7661573886871338,0.7827455997467041
+190,Villa Park in Birmingham (55 times).,Villa Park in Birmingham (55 times),0.2411632537841797,1.0032222270965576,0.9888006448745728
+191,There is no information about a Secretary being elected in the provided context.,Ramsay MacDonald,0.3919064998626709,0.997783899307251,0.21238180994987488
+192,Arsenal is the current holder of the FA Cup.,FA Cup winners enter the Europa League at the group stage.,2.081098794937134,0.8198654651641846,0.5718578100204468
+193,"No, the competition is only open to English football clubs.",Channel Island club entered the competition when Guernsey F.C. competed for the first time.,0.4205198287963867,1.1851186752319336,0.399580180644989
+194,"Lorry drivers, railway workers, car workers, local government workers, and hospital workers.",lorry drivers,0.4741363525390625,1.4341058731079102,0.6655660271644592
+195,"A ""giant killer"" is a team that beats a higher-ranked team in the FA Cup competition.","unlikely victories in the earlier rounds of the competition, where lower ranked teams beat higher placed opposition",0.31906795501708984,1.5236847400665283,0.348708838224411
+196,The Colorado Party.,Colorado Party,0.5925493240356445,0.8363437652587891,0.9542359113693237
+197,1856.,1856,0.3754551410675049,0.8377466201782227,0.9725230932235718
+198,1888-89 season.,"modern cup was beginning to be established by the 1888–89 season,",0.42480945587158203,0.9471485614776611,0.5587888956069946
+199,There is no mention of Manchester's decision in the provided text.,drew considerable criticism as this weakened the tournament's prestige,0.3643627166748047,1.2224879264831543,0.10452570021152496
+200,US President George W. Bush.,President George W. Bush,0.24521541595458984,0.9550857543945312,0.9351800680160522
+201,Portuguese incursions.,frequent insurrections by the Spaniards,0.26863670349121094,0.6065285205841064,0.36304157972335815
+202,"The organization and development of Montevideo's transport infrastructure is attributed to various entities, including the Ferrocarril Central del Uruguay, which inaugurated the first railway line in 1869, and the Compañía de Tranvías al Paso del Molino y Cerro, which established the first tram lines in 1868.",Dirección Nacional de Transporte,0.29821085929870605,3.5994558334350586,0.3554767966270447
+203,763 clubs competed in the 2011-12 FA Cup.,763 clubs,0.41957902908325195,1.2280330657958984,0.6875900030136108
+204,Rotherham United and Scunthorpe United.,Rotherham United eliminated Scunthorpe United.,0.6071803569793701,1.1680519580841064,0.8045087456703186
+205,"The Labour Party underwent significant changes and challenges during the 1970s-2000s, including the ""Winter of Discontent"", the formation of the Social Democratic Party, the miners' strike, the ""yo yo"" in the opinion polls, the rise and fall of various leaders, and the party's eventual loss of power in 2010.","the FA Cup Final was played before the Premier League season had finished, to allow Wembley Stadium to be ready for the UEFA Champions League final",3.797586441040039,3.6769070625305176,-0.005380034446716309
+206,There is no mention of the government compensating the British by moving the cemetery to Buceo in the provided text.,1884,0.29328179359436035,1.673158884048462,0.04793061316013336
+207,42,42,0.29927778244018555,0.7453598976135254,1.0
+208,1853-1861.,1854 to 1861,0.2647581100463867,0.962313175201416,0.8687174916267395
+209,"Yes, 8 times.",there have only been eight winners who weren't in the top flight,0.30385279655456543,0.9246201515197754,0.2443307638168335
+210,The Montevideo Crandon Institute.,The Montevideo Crandon Institute,0.23920226097106934,1.0183367729187012,0.9918108582496643
+211,I can't find any information about El Farolito in the provided context.,the old part of the city,0.3837425708770752,1.3401684761047363,0.19761471450328827
+212,30%,30%,0.26497697830200195,0.7911195755004883,1.0
+213,"Betrayal by his actions in forming a ""National Government"" with the Conservatives and the Liberals in 1931.",he and his supporters were promptly expelled,0.36464905738830566,1.7045693397521973,0.35234466195106506
+214,2002.,2002,0.2681455612182617,0.8343634605407715,0.9519264101982117
+215,2004.,2004,0.3683815002441406,0.8422117233276367,0.9544477462768555
+216,2011,for the 2010–11 to 2012–13 season,0.30582284927368164,0.7751011848449707,0.6038719415664673
+217,A French-style city park.,a French-style city park,0.46369004249572754,0.9213359355926514,0.9913462400436401
+218,The Labour Party has twenty MEPs in the European Parliament.,twenty,0.29781675338745117,0.9231438636779785,0.29271912574768066
+219,Pablo Atchugarry.,Pablo Atchugarry,0.2861137390136719,0.9273674488067627,0.9884508848190308
+220,a municipal library for children.,a municipal library,0.291689395904541,0.9179573059082031,0.8686795234680176
+221,An Act of March 1907.,an Act of March 1907,0.33103227615356445,0.9997484683990479,0.9922335147857666
+222,Teodoro Vilardebó Matuliche.,Teodoro Vilardebó Matuliche,0.31055498123168945,0.9643106460571289,0.9754371643066406
+223,Citizens registered in the constituency.,the citizens registered in the constituency,0.6277487277984619,0.9216089248657227,0.9786553382873535
+224,"Manolita Piña Torres, the widow of Joaquín Torres García.",Manolita Piña Torres,0.44941163063049316,1.3436572551727295,0.8557990789413452
+225,"No, Ramsay MacDonald did not act alone, he was part of the National Government with the Conservatives and the Liberals.",He claimed to have carried out the robbery with two other men,0.3399364948272705,1.6785788536071777,0.195147305727005
+226,1991.,1991,0.3749723434448242,0.8308296203613281,0.9609361290931702
+227,46 kilometers.,46 kilometres,0.3682105541229248,0.6092090606689453,0.9376695156097412
+228,The National Government won the 1931 election in an overwhelming victory.,National Government,0.278806209564209,1.2545154094696045,0.316030353307724
+229,"Yes, Welsh clubs that play in English leagues are eligible to enter the FA Cup.","Welsh sides that play in English leagues are eligible,",0.27658891677856445,1.379521369934082,0.7283220291137695
+230,687 clubs.,687,0.3640580177307129,0.8277902603149414,0.6265673637390137
+231,A natural harbour.,a natural harbour,0.5727176666259766,0.6042931079864502,0.9817795753479004
+232,The Liberal Democrats.,Liberal Democrats,0.49526357650756836,0.8360316753387451,0.8899669051170349
+233,22 times.,. It was played 22 times in the Oval,0.3307805061340332,0.8399112224578857,0.5279600620269775
+234,The Solís Theatre is the oldest theater in Uruguay.,The Solís Theatre,0.44025301933288574,1.1304712295532227,0.6375863552093506
+235,1979,May 2007,0.6248934268951416,0.7915830612182617,0.44713476300239563
+236,Hospital Maciel.,Hospital Maciel,0.5977227687835693,0.690852165222168,0.9872275590896606
+237,11 June 1833.,11 June 1833,0.271986722946167,0.9563281536102295,0.9841616153717041
+238,1998.,1998,1.3160693645477295,0.8340637683868408,0.9467677474021912
+239,32 teams,92 professional teams.,0.44509172439575195,0.7896413803100586,0.7478101253509521
+240,"The pitch must be of FIFA One Star quality, or Two Star for ties involving professional clubs.",they had to switch their tie to the ground of another eligible entrant with a natural grass pitch.,0.41893839836120605,1.4795422554016113,0.3976616859436035
+241,7 clubs have won the FA Cup as part of a league and cup double.,Seven clubs have won the FA Cup as part of a League and Cup double,2.209803581237793,1.388998031616211,0.9902541041374207
+242,129,129,0.27988719940185547,0.5281054973602295,1.0
+243,"1979, 1983, 1992, 2010",1979,0.7016053199768066,1.2999236583709717,0.770556628704071
+244,"The first FA Cup Final on Radio was in 1926 between Bolton Wanderers and Manchester City, but it was only broadcast in Manchester.",The first FA Cup Final on Radio was in 1926,0.3067290782928467,1.8198208808898926,0.8769310712814331
+245,There is no mention of a fortress in the provided text.,1839,0.2550370693206787,1.0084967613220215,-0.027273807674646378
+246,"In front of the Plaza Zabala, in the heart of Ciudad Vieja.",the heart of Ciudad Vieja,0.39574360847473145,1.3880398273468018,0.6748026609420776
+247,The competition is open to any eligible club down to Level 10 of the English football league system.,any eligible club,0.2507028579711914,1.4782836437225342,0.6324827671051025
+248,1911-1915.,1911 to 1915,0.24161434173583984,0.9640445709228516,0.9410436153411865
+249,"Yes, all clubs in the top four levels (Premier League and the three divisions of the Football League) are automatically eligible.",. All clubs in the top four levels (the Premier League and the three divisions of the Football League) are automatically eligible,0.30783987045288086,1.4468472003936768,0.9445536732673645
+250,1998.,1998,0.3949270248413086,0.8332395553588867,0.9467677474021912
+251,1930.,1930,0.3567774295806885,0.8369858264923096,0.9694188833236694
+252,258,258,1.2661724090576172,0.7471311092376709,1.0
+253,"Yes, seven clubs have achieved this feat.",Arsenal became the first side to win both the FA Cup and the League Cup in the same season,0.26140499114990234,1.0328831672668457,0.2181757688522339
+254,1866.,1866,0.3470144271850586,0.8343825340270996,0.9524548053741455
+255,1979.,1979,0.2840430736541748,0.83274245262146,0.9622029662132263
+256,One vote.,one vote,0.368084192276001,0.7982368469238281,0.9312372207641602
+257,1863.,1863,0.4740102291107178,0.8188302516937256,0.967383086681366
+258,1 March 2003.,1 March 2003,0.3200552463531494,0.813237190246582,0.9825197458267212
+259,"""It's Time for a Change""","""It's Time for a Change""",0.41412806510925293,0.7579479217529297,1.0000001192092896
+260,2,two,0.37324023246765137,0.7258689403533936,0.8183472156524658
+261,1849.,18 July 1849,0.4146554470062256,0.8423969745635986,0.8106985092163086
+262,1975.,1975.,0.3965725898742676,0.837702751159668,1.0000001192092896
+263,Raul Sichero.,Raul Sichero,0.3687317371368408,0.9203245639801025,0.9824540615081787
+264,1939.,13 December 1939,2.5072855949401855,0.8373970985412598,0.7877036333084106
+265,"FIFA One Star quality, or Two Star for ties involving one of the 92 professional clubs.","the pitch must be of FIFA One Star quality, or Two Star for ties if they involve one of the 92 professional clubs.",0.37401771545410156,1.4674019813537598,0.8238781094551086
+266,The text does not mention a proposed conference.,Memorial Hall,0.39487648010253906,0.8047363758087158,0.1323903650045395
+267,Joaquín Torres García's unusual portraits of historical icons.,Joaquín Torres García,0.2850058078765869,1.1776413917541504,0.7142635583877563
+268,"The Treinta y Tres Orientales (""Thirty-Three Orientals"").",Treinta y Tres Orientales,0.3479595184326172,1.2982203960418701,0.8192366361618042
+269,1807.,3 February 1807,0.5117602348327637,0.8321323394775391,0.7660914659500122
+270,Juan Pedro Toni.,professor Juan Pedro Toni,0.5977716445922852,0.8420603275299072,0.8052229881286621
+271,There is no information about Mr. Thomas Samuel Hood purchasing a plot of land at the British Cemetery Montevideo in the given context.,1828,0.35602545738220215,1.8263511657714844,0.17534829676151276
+272,"Yes, all clubs entering the FA Cup must have a suitable stadium.",All clubs entering the competition must also have a suitable stadium.,0.4822213649749756,1.2561020851135254,0.872893214225769
+273,12 games by Fulham in 1975.,"12 games over six rounds, which remains the most games played by a team to reach a final",0.3236579895019531,1.1304941177368164,0.3191344141960144
+274,José Gervasio Artigas.,José Gervasio Artigas,0.33121657371520996,1.0127294063568115,0.9893325567245483
+275,The Winter of Discontent.,Winter of Discontent,0.264909029006958,0.9220407009124756,0.9717786312103271
+276,1828.,1828,0.3509821891784668,0.8317458629608154,0.9623295068740845
+277,"Yes, 86% of fans oppose using the new Wembley Stadium for semi-finals, according to a 2013 poll by The Guardian.",86% opposition to Wembley semi-finals.,0.6893763542175293,1.9382777214050293,0.6563076376914978
+278,I don't see a question about a specific event in the provided context. Could you please clarify or provide a specific question about the text?,1993,0.2576179504394531,1.8277220726013184,0.1577593982219696
+279,September 1996.,September 1996,0.35455942153930664,0.8734402656555176,0.9697780013084412
+280,43 metres (141 ft),43 metres,0.42093992233276367,0.714392900466919,0.8494310975074768
+281,Lavalleja.,Lavalleja,0.35500431060791016,0.8336131572723389,0.977595329284668
+282,They were laundered through betting shops at a local racecourse.,stolen silver was being used to forge coins which were then laundered through betting shops at a local racecourse,0.27267956733703613,1.2008988857269287,0.7043840885162354
+283,I couldn't find any information about Bello and Reboratti building homes in the Pocitos district.,1920 and 1940,0.22991514205932617,1.606677770614624,0.07970742881298065
+284,8%,14,0.46883273124694824,0.7867555618286133,0.3981245458126068
+285,"618,271.","618,271",0.26148509979248047,0.8795638084411621,0.9813922047615051
+286,1980.,1980,0.3396267890930176,0.8355247974395752,0.9577760696411133
+287,660 clubs.,660 clubs entered the competition,0.35396885871887207,0.8115823268890381,0.8024940490722656
+288,Levels 1 to 10 of the English football league system.,Premier League and Football League,0.30687665939331055,1.1919426918029785,0.5571197271347046
+289,Neoclassical.,Neoclassical,0.4991741180419922,0.8778541088104248,0.9569213390350342
+290,The Ortiz Taranco brothers.,Ortiz Taranco brothers,0.37053608894348145,0.9257574081420898,0.9769376516342163
+291,"53,500 square meters.","53,500 square metres",0.33507847785949707,0.9619760513305664,0.9297500252723694
+292,Senator Dámaso Antonio Larrañaga.,Senator Dámaso Antonio Larrañaga,0.5274922847747803,1.1323707103729248,0.9846926927566528
+293,2 (Cardiff City and Aston Villa),only 24 finalists have come from outside English football's top tier,0.35181570053100586,1.085120677947998,0.4223029911518097
+294,Level 8.,playing at Level 8 of English football,0.3734250068664551,0.8106591701507568,0.49791932106018066
+295,"I couldn't find any information about a person named Lord Kinnard. However, I did find information about Neil Kinnock, a former leader of the Labour Party.","Lord Kinnaird. Kinnaird died in 1923,",0.8548014163970947,2.1594791412353516,0.519953191280365
+296,Preston North End (1889),Preston North End (1889),0.26513004302978516,0.9447753429412842,1.0
+297,The fifth most gay-friendly major city in the world.,the Switzerland of America,0.689234733581543,0.8724994659423828,0.255832314491272
+298,"Villa Park in Birmingham, Hillsborough in Sheffield, and Old Trafford in Manchester.",semi-finals were played at high-capacity neutral venues around England,0.44791531562805176,1.3407409191131592,0.3781622350215912
+299,The Montevideo Crandon Institute is the main Methodist educational institution in Uruguay.,The Montevideo Crandon Institute,0.4337005615234375,1.3454630374908447,0.7776743173599243
+300,Villa Dolores.,Villa Dolores,0.2768411636352539,0.8291690349578857,0.982141375541687
+301,1851.,1851,0.34888458251953125,0.8377068042755127,0.9688568711280823
+302,Immediately after the final has finished.,"as soon as the final has finished, in order to be ready in time for the presentation ceremony.",1.1964826583862305,0.7116796970367432,0.7734189033508301
+303,2,There have been two designs of trophy in use,0.2972841262817383,0.7272577285766602,0.12971682846546173
+304,April 1993.,April 1993,0.49128270149230957,0.8807945251464844,0.9787160158157349
+305,They missed the competition due to fixture scheduling conflicts and a desire to avoid fielding a weaker side.,The club claimed that they did not want to devalue the FA Cup by fielding a weaker side.,0.331862211227417,1.5108895301818848,0.5141184329986572
+306,The Liberal Government overturned the Taff Vale judgement.,Liberal Government,0.35208654403686523,1.0954334735870361,0.37534385919570923
+307,Black Wednesday was a major economic disaster in September 1992 that left the Conservative government's reputation for monetary excellence in tatters.,economic disaster,0.25219130516052246,1.7783808708190918,0.506711483001709
+308,1853.,1853,0.5304226875305176,0.8350038528442383,0.9680261015892029
+309,Wanderers.,Sheffield United,0.3055245876312256,0.5579595565795898,0.5151774883270264
+310,"Yes, Cardiff City, a Welsh team, won the FA Cup in 1927.","Cardiff City (the only non-English team to win the tournament, in 1927)",0.5682981014251709,1.4302868843078613,0.7517715692520142
+311,18 de Julio Avenue.,18 de Julio Avenue,0.3024170398712158,0.9244849681854248,0.989377498626709
+312,8th.,8th,0.24466919898986816,0.6053829193115234,0.9499881863594055
+313,I don't see a question about a specific event in the provided context. Could you please clarify or provide a specific question about the text?,1894,0.3727853298187256,1.8452599048614502,0.1706637144088745
+314,Maritime commerce.,maritime commerce,0.37268567085266113,0.7853188514709473,0.9869949221611023
+315,1984-85.,1984–85,0.2725386619567871,0.9210343360900879,0.9435477256774902
+316,"No, newly formed clubs may not play in the FA Cup in their first season.","Newly formed clubs, such as F.C. United of Manchester in 2005–06 and also 2006–07, may not therefore play in the FA Cup in their first season.",0.3077056407928467,1.379239797592163,0.8659818172454834
+317,Banco Republica (BROU) is the largest bank in Uruguay.,Banco Republica,0.5163500308990479,1.3053231239318848,0.6435763835906982
+318,26 November 1991.,"penalty shoot-outs being introduced, the first of which came on 26 November 1991",0.4375739097595215,0.9343826770782471,0.4634782075881958
+319,1835,1835,1.4206569194793701,0.6428444385528564,1.0
+320,Paintings.,paintings,0.39621996879577637,0.791853666305542,0.9360926151275635
+321,"The Tres Cruces Bus Terminal is located on the lower level of the Tres Cruces Shopping Center, on the side of Artigas Boulevard.",the lower level of the Tres Cruces Shopping Center,0.2767360210418701,1.9822969436645508,0.6748368740081787
+322,The Río de la Plata.,the Río de la Plata,0.2630178928375244,0.7576630115509033,0.9892959594726562
+323,Lord Kinnaird.,Lord Kinnaird,0.3101491928100586,0.8972511291503906,0.9890905022621155
+324,Montevideo.,Montevideo,0.33359432220458984,0.8334438800811768,0.9802385568618774
+325,The Emirates FA Cup.,Cup Winners' Cup,0.26259350776672363,0.6309876441955566,0.5326495170593262
+326,2009.,2009,0.3164060115814209,0.8363304138183594,0.9539592266082764
+327,1872,"the trophy was not presented to the winners, Wanderers, until a reception held four weeks later",2.3000941276550293,0.7858214378356934,0.04444585368037224
+328,The Labour Party.,The Labour Party,0.5898823738098145,0.6099321842193604,0.9851245284080505
+329,Dr. Rodrigo Arocena.,Dr. Rodrigo Arocena,0.833122730255127,0.9659416675567627,0.9888983368873596
+330,Level 8 of English football.,final 64,4.09567403793335,0.7379953861236572,0.30197322368621826
+331,The final has been played at the rebuilt Wembley Stadium since it opened in 2007.,May,0.2641279697418213,1.161325216293335,0.06534183770418167
+332,1879.,1879,0.322969913482666,0.8368098735809326,0.9691979885101318
+333,The Cabildo was the seat of government during the colonial times of the Viceroyalty of the Río de la Plata.,the seat of colonial government,0.43428850173950195,1.8160526752471924,0.48918020725250244
+334,"The text does not specify a particular event, so I'll choose the year the 1895 replica was sold at auction: 2005.",the 2013–14 season,0.38805270195007324,1.877774715423584,0.1544628143310547
+335,2015,2015,0.437406063079834,0.7889461517333984,1.0
+336,Rambla.,rambla,0.3037900924682617,0.7896022796630859,0.9785091876983643
+337,1924.,1924,0.629831075668335,0.8424570560455322,0.96939617395401
+338,Buenos Aires.,Buenos Aires,0.2688112258911133,0.7981607913970947,0.9760341048240662
+339,Arcadia is located atop the Plaza Victoria in Montevideo.,atop the Plaza Victoria,0.6101963520050049,0.9478633403778076,0.6055669188499451
+340,"No, there is no seeding in the FA Cup.","There is no seeding,",0.4917182922363281,1.1035487651824951,0.6693504452705383
+341,A heart attack in May 1994.,a heart attack,0.2490062713623047,1.051576852798462,0.7615942358970642
+342,A coastal avenue.,"""coastal avenue""",0.2854301929473877,0.8297247886657715,0.888976514339447
+343,The Palacio Taranco was erected in the early 20th century.,early 20th century,0.24687767028808594,1.307448148727417,0.4037335515022278
+344,1980-81.,didn't celebrate its centenary year until 1980–81,0.4486253261566162,0.902008056640625,0.5313226580619812
+345,The Empire Stadium.,Empire Stadium,0.2957439422607422,0.8346812725067139,0.9621208906173706
+346,Maidstone United's Gallagher Stadium.,first match in the proper rounds to be played on a 3G surface was a televised first round replay at Maidstone United's Gallagher Stadium on 20 November 2015.,0.2852158546447754,0.9676575660705566,0.4794141352176666
+347,1899,1899,0.250410795211792,0.7921371459960938,1.0
+348,1836.,1836,0.2968299388885498,0.8374447822570801,0.9685381650924683
+349,1897,1830,0.35170960426330566,0.7957909107208252,0.5575205683708191
+350,By sea.,by sea,0.30022740364074707,0.5764625072479248,0.9700976610183716
+351,22.,8 replays,0.30820298194885254,0.7996809482574463,0.27960148453712463
+352,"Yes, the 2013 fixture between Millwall and Wigan at Wembley Stadium failed to sell out, leading to 6,000 tickets being made available to neutral fans.","the 2013 fixture between Millwall and Wigan led to the unprecedented step of placing 6,000 tickets on sale to neutral fans after the game failed to sell out.",0.31305527687072754,2.2075116634368896,0.814359188079834
+353,Montevideo.,Montevideo,0.3207390308380127,0.8337230682373047,0.9802385568618774
+354,There is no mention of DNT in the given context.,Dirección Nacional de Transporte,0.44325900077819824,0.690096378326416,0.08493691682815552
+355,David Gold purchased the 1895 replica of the FA Cup.,Mr. Thomas Samuel Hood,0.3800394535064697,0.9316890239715576,0.1439632922410965
+356,The Christian Brothers of Ireland Stella Maris College is regarded as one of the best high schools in the country.,The Christian Brothers of Ireland Stella Maris College,0.24587488174438477,1.6120712757110596,0.829058825969696
+357,The Empire of Brazil.,Empire of Brazil,0.5210573673248291,0.6480765342712402,0.944836437702179
+358,Father Dámaso Antonio Larrañaga.,Father Dámaso Antonio Larrañaga,0.3498039245605469,1.1483051776885986,0.9888778328895569
+359,1913.,1913,0.25100064277648926,0.8392477035522461,0.9654048681259155
+360,"Yes, the venue is called the Empire Stadium, now known as the rebuilt Wembley Stadium.",Kennington Oval was used as the semi-final venue,0.3600151538848877,1.5079998970031738,0.41633710265159607
+361,763,731 teams entered that season,0.3660731315612793,0.7417020797729492,0.2836330831050873
+362,Our Lady of the Sacred Heart.,Our Lady of the Sacred Heart,0.31278181076049805,0.967289924621582,0.9734054207801819
+363,The location of the Montevideo Cabildo is not mentioned in the provided context.,front of Constitution Square,0.28418922424316406,1.1074168682098389,0.07796122878789902
+364,"The famous incident involving the German pocket battleship, the Graf Spee, took place in the Battle of the River Plate, off the coast of Uruguay, near Montevideo.",Punta del Este,0.36638593673706055,1.845881700515747,0.20250242948532104
+365,10,10,0.30312538146972656,0.6052680015563965,1.0000001192092896
+366,The Museo Naval is located on the eastern waterfront in Buceo.,the eastern waterfront in Buceo,0.30652618408203125,1.2999069690704346,0.708976686000824
+367,Emirates.,Emirates airline is the sponsor from 2015 to 2018,0.8478477001190186,0.6903843879699707,0.674669086933136
+368,Uruguay.,Uruguay,0.34709644317626953,0.5289254188537598,0.964796245098114
+369,1999-2000,2007–08 competition,61.44244623184204,0.6928658485412598,0.43587440252304077
+370,The neighborhood of Ciudad Vieja was surrounded by the Plaza de la Constitución (or Plaza Matriz) and the Montevideo Metropolitan Cathedral.,a protective wall,0.30513477325439453,1.9008541107177734,0.14498698711395264
+371,"1,325,968 (as of 2004)",around 2 million,0.372882604598999,1.209395170211792,0.19927865266799927
+372,The Solís Theatre is the most prominent theatre in Uruguay and the oldest in South America.,The Solís Theatre,0.5259332656860352,1.4249005317687988,0.6473493576049805
+373,The final has been played at the rebuilt Wembley Stadium since it opened in 2007.,The final is normally held the Saturday after the Premier League season finishes in May.,0.548933744430542,1.156813144683838,0.5491900444030762
+374,Uruguayan tango.,Uruguayan tango,0.33545804023742676,0.9207699298858643,0.9790290594100952
+375,"No, the FA Cup is not sponsored.","Since the start of the 1994–95 season, the FA Cup has been sponsored.",0.39684581756591797,0.7958292961120605,0.8495694398880005
+376,"The ANTEL Telecommunication Tower, 158-metre (518 ft) tall.",ANTEL Telecommunication Tower,0.43556714057922363,1.379228115081787,0.8369826674461365
+377,The text does not mention the initial donation of a private library.,Father José Manuel Pérez Castellano,0.3267209529876709,1.2214436531066895,0.060497380793094635
+378,Carnival Week.,the national festival of Carnival Week,0.31854772567749023,0.5573039054870605,0.7986606359481812
+379,1911.,". The FA decided to change the design after the 1909 winners, Manchester United, made their own replica,",0.3699638843536377,0.835627555847168,0.1715964674949646
+380,"No, the FA Cup is an English domestic cup competition.","other teams from Wales, Ireland and Scotland also took part in the competition,",0.3366587162017822,1.1622800827026367,0.39506763219833374
+381,The text does not mention the electoral college being introduced.,widen the voting franchise,0.28977465629577637,1.1308832168579102,0.14398124814033508
+382,Ramsay MacDonald.,Ramsay MacDonald,0.40050268173217773,0.6081404685974121,0.9805808067321777
+383,The Labour Representation Committee (LRC),"""New Labour""",0.34426045417785645,0.7689907550811768,0.5072311162948608
+384,1894.,1870 and 1930,0.402097225189209,0.8296463489532471,0.5921604633331299
+385,A Beta World City.,a Beta World City,0.5054101943969727,0.6451015472412109,0.9839870929718018
+386,Tottenham Hotspur.,"Tottenham Hotspur is the only non-league ""giant-killer"" to win the Cup",0.6296286582946777,0.8612313270568848,0.6088545322418213
+387,Estadio Centenario.,Estadio Centenario,0.5030806064605713,0.8767151832580566,0.9879047870635986
+388,23%,8%,0.3547999858856201,0.789801836013794,0.7135127782821655
+389,22 January 1724.,22 January 1724,0.3885347843170166,0.7171652317047119,0.9893602132797241
+390,The Montevideo Carnaval.,the annual Montevideo Carnaval,0.9743304252624512,0.956963062286377,0.9236351847648621
+391,1897.,1897,0.4348318576812744,0.8269238471984863,0.9677819013595581
+392,1882.,1882,0.23012757301330566,0.8377788066864014,0.9607445001602173
+393,The Museo de Historia del Arte is located in the Palacio Municipal.,the Palacio Municipal,0.26654648780822754,1.3401310443878174,0.6365566253662109
+394,1908.,1908,0.3236119747161865,0.8260340690612793,0.9727455377578735
+395,Neil Kinnock.,Neil Kinnock,0.41400742530822754,0.6304428577423096,0.98204106092453
+396,20 seats.,20,0.38904905319213867,0.8386297225952148,0.5667675137519836
+397,"Approximately 8,000 students.","about 8,000",0.523975133895874,0.9675304889678955,0.5613278150558472
+398,"The FA Cup trophy comes in three parts: the cup itself, a lid, and a base.","- the cup itself, plus a lid and a base",0.3155360221862793,1.4897792339324951,0.648680567741394
+399,Roy Hattersley.,Roy Hattersley,6.1407201290130615,0.8865525722503662,0.9866925477981567
+400,1895.,60 years,2.4184184074401855,0.8111648559570312,0.4166894853115082
+401,The Premier League and Championship clubs enter in the Third Round Proper.,Premier League and Championship clubs,0.2967715263366699,1.2206130027770996,0.6427879929542542
+402,The FA Cup.,The State Railways Administration of Uruguay,0.27732181549072266,0.5883376598358154,0.24188892543315887
+403,There is no mention of Sentana in the provided text.,ESPN took over the package Setanta,0.40912342071533203,0.9151046276092529,0.1264953762292862
+404,1829.,1701,0.6749238967895508,0.8295893669128418,0.4219321310520172
+405,"No, ESPN's rights package transferred to BT Sport in 2013-14.","Following the sale of ESPN's UK and Ireland channels to BT, ESPN's rights package transferred to BT Sport",0.40983057022094727,1.3567302227020264,0.7387646436691284
+406,There is no mention of George Odger being elected in the provided context.,1870,0.25479960441589355,1.2941551208496094,0.04774407297372818
+407,"707,697.","707,697",1.5102272033691406,0.8730144500732422,0.9866428375244141
+408,"The Cerro de Montevideo, a hill, overlooks the Bay of Montevideo.",Fortaleza del Cerro,0.3041067123413086,1.2248165607452393,0.3489675521850586
+409,8,8,0.32260680198669434,0.7459671497344971,1.0
+410,The Old Town.,the Old Town,0.5512537956237793,0.835960865020752,0.9851585626602173
+411,The National Museum of Visual Arts.,the National Museum of Visual Arts,0.23541760444641113,0.965874195098877,0.9934442043304443
+412,"Yes, the use of artificial turf (3G pitches) is allowed in the FA Cup from the 2014-15 edition and beyond.",The FA permitted artificial turf (3G) pitches in all rounds of the competition from the 2014–15 edition and beyond.,0.29157328605651855,1.8860018253326416,0.8657182455062866
+413,"The population of Montevideo quadrupled by 1880, mainly due to great European immigration.",had quadrupled,0.33107590675354004,1.5634958744049072,0.3049335777759552
+414,There is no mention of the Oval hosting the FA Cup in the provided text.,1872,0.5511147975921631,1.308791160583496,0.06932799518108368
+415,1919-20.,1919–20.,0.31311917304992676,0.9162886142730713,0.9682797193527222
+416,Blair sided with Bush in supporting the Iraq War.,the Iraq War,0.30220961570739746,1.0778675079345703,0.46724849939346313
+417,Parque Batlle is a neighborhood of great significance in Montevideo.,Ciudad Vieja,0.29202938079833984,1.304375171661377,0.22220632433891296
+418,"Yes, the 1926 FA Cup Final between Bolton Wanderers and Manchester City was broadcast in both Manchester and nationally.",this was only broadcast in Manchester,0.3247976303100586,1.6412572860717773,0.6583983302116394
+419,£17 million in debt.,£17 million,0.39717555046081543,0.914508581161499,0.7744691967964172
+420,ORT Uruguay.,ORT Uruguay,0.37384033203125,0.833676815032959,0.9858126640319824
+421,Mario Palanti.,Mario Palanti,0.38515567779541016,0.8337116241455078,0.9874983429908752
+422,Juan Manuel Blanes.,Juan Manuel Blanes,0.25592732429504395,0.8735883235931396,0.9859553575515747
+423,Keir Hardie.,Keir Hardie,0.3437466621398926,0.6428406238555908,0.9860639572143555
+424,The Labour Party was formed in 1900.,late 19th century,0.4686167240142822,0.8442282676696777,0.3857244849205017
+425,5,five actual cups,0.3307359218597412,0.7239089012145996,0.5620476007461548
+426,"Yes, sponsorship deals can be extended for one year.",one-year extensions may be agreed,0.3465704917907715,0.8069806098937988,0.6138297319412231
+427,"1888, when the Hipódromo de Maroñas started operating.",the Maroñas Racecourse reopened,0.3706235885620117,1.346585988998413,0.3286227583885193
+428,"No, the text does not mention Cinderella matches. It talks about the FA Cup, a football tournament.","where lower ranked teams beat higher placed opposition, known as ""giant killings"", is much anticipated by the public",0.2872779369354248,1.2905302047729492,0.15287931263446808
+429,5 minutes.,"the engraver has just five minutes to perform a task which would take twenty under normal conditions,",0.36065220832824707,0.8136847019195557,0.41076600551605225
+430,José Enrique Rodó.,José Enrique Rodó,0.24440622329711914,0.8773941993713379,0.9825446605682373
+431,1921-1923.,between 1921 and 1923,0.4129049777984619,0.9616231918334961,0.9444621801376343
+432,1868.,1868,0.5787274837493896,0.8370010852813721,0.9646062850952148
+433,92.,92,0.7450466156005859,0.770906925201416,0.9589635729789734
+434,Wembley Stadium.,In 2003 the FA took the decision to permanently use the new Wembley for semi-finals,1.346963882446289,0.6471419334411621,0.4739501476287842
+435,Unpopular.,deeply unpopular,0.4365811347961426,0.7947206497192383,0.8729366660118103
+436,Postmodern style.,Postmodern,0.30666470527648926,0.8436167240142822,0.9128415584564209
+437,The House of Lords.,Trade Disputes Act,0.32509374618530273,0.879918098449707,0.1734287440776825
+438,4 years.,Sponsorship deals run for four years,0.3993210792541504,0.8162364959716797,0.5310345888137817
+439,Bruno Mauricio de Zabala.,Bruno Mauricio de Zabala,0.3999783992767334,0.7643313407897949,0.9876937866210938
+440,A single vote.,a single vote,0.3784928321838379,0.8343567848205566,0.9573755264282227
+441,"Yes, STV in Scotland and UTV in Northern Ireland refused to show FA Cup games.",STV refusing to show them,0.45041346549987793,0.9132828712463379,0.49373453855514526
+442,"Yes, top clubs can miss the competition in exceptional circumstances.",It is very rare for top clubs to miss the competition,0.2647860050201416,1.1738576889038086,0.8930795192718506
+443,1927.,the first national final on BBC Radio was between Arsenal and Cardiff in 1927,1.135512113571167,0.7789690494537354,0.326175332069397
+444,90 kilometers.,90 kilometres,0.2999088764190674,0.4747893810272217,0.9336526989936829
+445,Buenos Aires.,The Montevideo Cabildo,0.3030428886413574,0.7910969257354736,0.518723726272583
+446,24 August 1931.,1931,0.2355647087097168,0.9603121280670166,0.8797003030776978
+447,Six to fourteen games.,six to fourteen,0.31812000274658203,0.8699886798858643,0.681292712688446
+448,"309,331.","309,331 inhabitants",0.5099506378173828,0.8721797466278076,0.6991139650344849
+449,He claimed it was melted down to make counterfeit half-crown coins.,the cup had been melted down to make counterfeit half-crown coins,0.3068125247955322,0.9707190990447998,0.8288503289222717
+450,There is no mention of OMOV in the given context.,"one member, one vote",0.41619229316711426,0.9059765338897705,0.002469407394528389
+451,World Trade Center 1.,World Trade Center 1,0.28540945053100586,0.9173421859741211,0.9752509593963623
+452,1993.,1993,0.25888562202453613,0.829728364944458,0.9678646326065063
+453,"Cardiff, Wales.",Cardiff in Wales,0.30055737495422363,0.8309707641601562,0.9292850494384766
+454,Punta Carretas.,Punta Carretas,0.31696653366088867,0.9223074913024902,0.9830281734466553
+455,92.,36 clubs in the Football League,0.278226375579834,0.7905395030975342,0.26316285133361816
+456,"1,500.","1,500 inpatients",0.30966806411743164,0.7294330596923828,0.5252686738967896
+457,November 1871.,November 1871,0.6891360282897949,0.8556056022644043,0.9766126871109009
+458,1878.,1878,0.2964174747467041,0.8383123874664307,0.9702610969543457
+459,1925.,1925,0.27846264839172363,0.8366167545318604,0.9716490507125854
+460,John Smith.,John Smith,0.3825085163116455,0.788006067276001,0.9697473645210266
+461,1868.,1868,0.29981541633605957,0.8318576812744141,0.9646062850952148
+462,There is no mention of damages for a strike in the provided text.,"£23,000",0.46961092948913574,1.268324851989746,0.13006491959095
+463,1916.,1916,0.33484387397766113,0.8289775848388672,0.9689031839370728
+464,Labour runs a minority government in the Welsh Assembly under Carwyn Jones.,Carwyn Jones,0.3357572555541992,1.2552134990692139,0.49158257246017456
+465,Villages.,geographically separate settlements,0.31929922103881836,0.7865030765533447,0.4758586585521698
+466,1882.,The tradition of presenting the trophy immediately after the game did not start until the 1882 final,0.6416847705841064,0.811192512512207,0.3351679742336273
+467,"Yes, the name of the winning team is engraved on the silver band around the base of the cup as soon as the final has finished.",The name of the winning team is engraved on the silver band around the base,0.32955145835876465,1.8263049125671387,0.7895539999008179
+468,Towers Square.,The Towers Square,1.5139870643615723,0.7906327247619629,0.9692157506942749
+469,1886.,1886,0.3990960121154785,0.8337671756744385,0.9660755395889282
+470,Carrasco.,Carrasco,0.29590439796447754,0.5679018497467041,0.9817534685134888
+471,ITV and ESPN.,The 2011 final was also shown live on Sky 3D in addition to ESPN,0.380098819732666,0.5519025325775146,0.5429814457893372
+472,There is no mention of ANCAP in the provided context.,Energy,0.477769136428833,0.689950704574585,0.00881853699684143
+473,Because the Scottish Football Association and the Welsh Football Association barred them from entering.,barred from entering by the Scottish Football Association.,0.35581445693969727,1.2669148445129395,0.8056172132492065
+474,"Clubs above Level 9 enter the competition at later stages, with a system of byes.",clubs above Level 9 and 10 enter the competition at later stages,0.42446255683898926,1.430968999862671,0.8990863561630249
+475,"The Mercado del Puerto (""Port Market"") is the center of traditional Uruguayan food and beverage in Montevideo.",the Mercado del Puerto,1.2066397666931152,1.7212131023406982,0.7008743286132812
+476,232,232,0.355393648147583,0.7478058338165283,1.0
+477,4,four,0.34987950325012207,0.7487471103668213,0.8942000865936279
+478,The 1901 Taff Vale Case.,Taff Vale Case,0.8720149993896484,1.0206596851348877,0.8099786043167114
+479,The Uruguayan Constitution of 1918.,Uruguayan Constitution of 1918,0.3186521530151367,1.0818512439727783,0.9777325987815857
+480,1814.,1814,0.6215550899505615,0.8273811340332031,0.9717538356781006
+481,1888.,1888,0.3524742126464844,0.8286242485046387,0.9602977633476257
+482,"3,241,003.","3,241,003",0.3200497627258301,0.964669942855835,0.9840344786643982
+483,The FA Cup has been sponsored since the 1994-95 season.,1994,0.3042435646057129,1.2937641143798828,0.35045069456100464
+484,1869.,1869,0.29825425148010254,0.8321409225463867,0.9654102921485901
+485,1888.,The Football League was founded in 1888,0.2805144786834717,0.8179142475128174,0.4877013564109802
+486,18 December 1908.,18 December 1908,0.3069891929626465,0.9614098072052002,0.9827830791473389

@@ -1,0 +1,507 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,27 million.,27 million,0.3060464859008789,2.0918126106262207,0.9667468667030334
+1,"There is no mention of ""Lynx"" in the provided context.",text based web browser,0.33585667610168457,0.8337750434875488,0.2626938223838806
+2,Pope Gregory VII's chancery.,"chancery of Pope Gregory VII,",0.4854612350463867,0.5596194267272949,0.9309698343276978
+3,The city management and urban policy program was ranked first in the nation.,city management and urban policy,0.31671905517578125,0.953157901763916,0.6329970955848694
+4,Chest pain.,Chest pain,0.8125548362731934,0.369976282119751,0.9313799142837524
+5,30,30,0.24894309043884277,0.3509953022003174,1.0000001192092896
+6,They are called Germans of German ancestry.,Auswanderer,0.4259951114654541,0.6489248275756836,0.20400100946426392
+7,"No, the text does not mention Canada.",United States never developed bilingualism as Canada did.,0.3251810073852539,0.5910959243774414,0.4557764232158661
+8,Political instability and the Sandinista revolution in the late 1970s and 1980s.,the economic collapse of the country many more Nicaraguans migrated to the United States amongst other countries.,0.3958268165588379,1.2996275424957275,0.33820387721061707
+9,"California voters rejected bilingual education initiatives in 1986 and 1998, effectively making English the primary language of instruction.",the convention's English-speaking participants felt that the state's remaining minority of Spanish-speakers should simply learn English,0.2942996025085449,1.2742438316345215,0.4501708447933197
+10,2.4%,2.4,0.37792110443115234,0.5031509399414062,0.6556990146636963
+11,There is no mention of the V-12 program in the provided context.,World War II,0.33875393867492676,1.0053596496582031,0.12632937729358673
+12,The text does not mention when Americans came to Texas. It mentions the influx of Spanish-speaking immigrants to Texas.,"A large influx of Americans soon followed, originally with the approval of Mexico's president. In 1836",0.3324456214904785,1.2473118305206299,0.5215239524841309
+13,1888.,1888,4.141040802001953,0.45336079597473145,0.9602977633476257
+14,"The answer is not explicitly mentioned in the text, but it is implied that the headquarters of Carnival Corporation & plc, which includes brands such as Princess Cruises, P&O Cruises, and Cunard Line, is in Southampton.",Marine Accident Investigation Branch,0.44727134704589844,2.6585521697998047,0.15372249484062195
+15,"The Thirty Years War was primarily fought in Central Europe, specifically in the Holy Roman Empire, which covered a vast territory that included present-day Germany, Austria, Switzerland, and parts of France, Italy, and the Netherlands.",Germany,0.4331026077270508,2.4524993896484375,0.2960379123687744
+16,Hampshire.,Hampshire,0.3837697505950928,0.3598346710205078,0.9606670141220093
+17,1923.,1923,0.25532007217407227,0.4618654251098633,0.9702735543251038
+18,"Student programs, such as Student Union Activities.",Student Union Activities,0.32108187675476074,0.5751943588256836,0.867924153804779
+19,Stephen Morgan,Dr. Alan Whitehead,0.40073394775390625,0.1733553409576416,0.4194161295890808
+20,Most MIs occur due to coronary artery disease.,coronary artery disease,0.31734395027160645,0.7276310920715332,0.5302587151527405
+21,2007,2007,0.2796809673309326,0.41119837760925293,1.0000001192092896
+22,5,5,0.3411405086517334,0.36190056800842285,1.0
+23,The first reform concerning the calendar was the reform of the Julian calendar.,Julian calendar,0.3535950183868408,0.9634640216827393,0.660405695438385
+24,They generally made a compromise so both churches could celebrate on the same day.,compromise,0.3229095935821533,1.0115797519683838,0.2757730782032013
+25,"No, the Hanseatic League was not exclusively German, it had a multi-ethnic and multi-lingual structure.",The Hanseatic League was not exclusively German,0.30703234672546387,1.5117650032043457,0.8878384828567505
+26,"Yes, the School Plays are normally fully booked every night.",fully booked every night,0.26802611351013184,0.8642754554748535,0.6181667447090149
+27,The Queen.,HRH The Duchess of Cornwall,0.3924572467803955,0.41089630126953125,0.37129920721054077
+28,30.3%,30.3,0.3420131206512451,0.5133743286132812,0.7069361209869385
+29,The Rhine.,12 BC,0.3326427936553955,0.45906877517700195,0.2451634556055069
+30,There is no mention of Oppidan Scholarships in the provided context.,consistently performing with distinction in School and external examinations,0.31420063972473145,0.9641444683074951,0.09229276329278946
+31,The Election Chamber.,"Parlour, Election Hall, and Election Chamber",0.3539142608642578,0.4614393711090088,0.74503093957901
+32,There is no mention of Carnival in the text.,Royal Caribbean,1.9420464038848877,0.7634625434875488,0.23025992512702942
+33,There is no mention of a specific crop being processed in Southampton for a long time.,tobacco,0.655515193939209,1.112856149673462,0.11334766447544098
+34,2014.,2014,0.37709832191467285,0.4610722064971924,0.9431241750717163
+35,King Henry VI.,the school was founded by King Henry VI,0.31142425537109375,0.4595301151275635,0.6326433420181274
+36,The Austro-Prussian War.,(Battle of Königgrätz,0.34365034103393555,0.6652758121490479,0.41213202476501465
+37,Pop-Tanning.,"""Pop-Tanning""",0.35097694396972656,0.46094179153442383,0.922032356262207
+38,21 March.,21 March,0.22283601760864258,0.46195387840270996,0.9650287628173828
+39,1891.,1891,0.29871058464050293,0.3093729019165039,0.9689809083938599
+40,Southampton Docks company.,Southern Railway Company,0.41732072830200195,0.5115725994110107,0.4439295530319214
+41,Roxbury Latin School.,Roxbury Latin School,2.55495023727417,0.48586225509643555,0.9813416600227356
+42,Emporia.,Emporia,0.3526926040649414,0.41289329528808594,0.9787183403968811
+43,"No, New Mexico has no official language, but Spanish is widely used and promoted in the state.",the state has no official language.,0.4377126693725586,1.2363300323486328,0.5183490514755249
+44,The text does not mention the Savile club.,Rare Books and Manuscripts,0.7695202827453613,0.7678186893463135,0.06842692196369171
+45,1 spot.,one,0.4443981647491455,0.46157217025756836,0.4638720154762268
+46,Bill Self is the head coach of the University of Kansas men's basketball team.,Sheahon Zenger,0.5572874546051025,1.0652050971984863,-0.037482887506484985
+47,The culprit was ordered to appear in old trousers to prevent the caning from cutting the cloth of their regular trousers to shreds.,the caning would cut the cloth to shreds,0.27028369903564453,1.563910722732544,0.6037431955337524
+48,"£3,800.","£1,700",0.3087279796600342,0.5111880302429199,0.832465410232544
+49,"People of German ancestry who have lived in other parts of Europe, such as the post-Soviet states (mainly in Russia and Kazakhstan), and then returned to Germany.",Aussiedler,0.27399516105651855,2.0143473148345947,0.21457259356975555
+50,Bill Self.,Bill Self,0.25659823417663574,0.4097714424133301,0.9688641428947449
+51,Approximately 12.8 million students in the US public schools are Spanish speakers.,six million Spanish language students.,0.3319275379180908,0.8754603862762451,0.8074133396148682
+52,Tim Johnson.,Tim Johnson,0.2986929416656494,0.41066908836364746,0.9791494011878967
+53,There is no mention of the Peace of Westphalia in the given context.,1648,0.34574174880981445,1.0608201026916504,0.20128180086612701
+54,The accumulated difference between the Julian calendar year (365.25 days) and the solar year (365.2425 days).,length of the year,0.33750391006469727,1.512077808380127,0.5731083154678345
+55,16,16,0.38810133934020996,0.3606741428375244,1.0
+56,AACSB.,AACSB,0.31600499153137207,0.37840986251831055,0.9822710752487183
+57,London.,London,0.6870920658111572,0.33928442001342773,0.9624133110046387
+58,The Battle of the Teutoburg Forest.,Battle of the Teutoburg Forest,0.49635767936706543,0.6534032821655273,0.9778212904930115
+59,HMS Grace Dieu.,HMS Grace Dieu,1.099231243133545,0.45804357528686523,0.9884202480316162
+60,The Teutonic Knights.,Catholic German Teutonic Knights,0.29825639724731445,0.31064534187316895,0.8366623520851135
+61,3,subtract one day,0.5655257701873779,0.18697261810302734,0.17550824582576752
+62,The Red Lion public house.,Red Lion,0.4070897102355957,0.49457478523254395,0.7220526337623596
+63,5,five,0.8562068939208984,0.33906054496765137,0.9229784607887268
+64,20 September 1582.,20 September 1582,1.11934494972229,0.5786945819854736,0.9859449863433838
+65,Southampton Central Station.,Southampton Central,0.280562162399292,0.46283888816833496,0.8074395060539246
+66,There is no mention of a motorway crossing the River Test in the given context.,the M27,0.2999858856201172,0.95513916015625,0.09807690978050232
+67,There is no mention of the God's House Tower in the provided text.,1417,0.3496816158294678,1.0136730670928955,0.08796444535255432
+68,Southampton.,Winchester,0.24573636054992676,0.36043286323547363,0.37800443172454834
+69,£28 million.,£28 million,0.369187593460083,0.45815348625183105,0.9704371690750122
+70,"Southampton was the home port for the transatlantic passenger services operated by Cunard, but the exact percentage of UK's passenger traffic it handled during the inter-war period is not specified in the text.",half,0.3844931125640869,2.310563325881958,0.13930773735046387
+71,Sea City.,Sea City,0.30694031715393066,0.4084436893463135,0.9748167991638184
+72,2.5%,2.5,0.3283874988555908,0.4536137580871582,0.7069843411445618
+73,2005.,2005,0.37467002868652344,0.41754937171936035,0.9588066935539246
+74,The Duke of Wellington.,Duke of Wellington,0.48766565322875977,0.45317816734313965,0.9686573147773743
+75,I'm not aware of any information that a band broke up in 2014 that was formed in Southampton.,Kids Can't Fly,0.3945634365081787,1.3653709888458252,0.11093135923147202
+76,"236,900.","236,900",0.540179967880249,0.5123770236968994,0.9689364433288574
+77,The 10th century.,10th century,0.4015536308288574,0.5635242462158203,0.96128249168396
+78,"No, the text does not mention a war between Mexicans and Texans.","Texans, fought a war of independence from the central government of Mexico",0.3808414936065674,0.8499679565429688,0.6610151529312134
+79,An embankment.,embankment,0.3150362968444824,0.5124554634094238,0.9396384358406067
+80,Germany.,Germany,0.2832958698272705,0.36023592948913574,0.9486981630325317
+81,Expressionist architecture.,Georgian,0.6235802173614502,0.46251845359802246,0.13831175863742828
+82,There is no mention of the Vikings attacking Hamwic in the provided text.,840,0.30961036682128906,1.0595736503601074,-0.07074636965990067
+83,East Francia and the Holy Roman Empire.,East Francia,0.3715384006500244,0.70912766456604,0.6521831154823303
+84,The popularity of German identity arose in the aftermath of the French Revolution.,Nationalism,0.2541525363922119,0.9627940654754639,0.3340156674385071
+85,35th.,35th,0.2836620807647705,0.4586217403411865,0.9748780131340027
+86,"Conduit Head, near Hill Lane, Shirley.",Conduit Head,0.327472448348999,0.7649385929107666,0.6505284309387207
+87,12 times.,12,0.2492659091949463,0.4615612030029297,0.5806261301040649
+88,POWs (Prisoners of War).,POWs,2.466506004333496,0.7142510414123535,0.653912365436554
+89,"The three constituents of the medical center at KU are not explicitly mentioned in the text. However, it is mentioned that the Medical Center has a campus in Wichita and a campus in Salina, Kansas, in addition to the main campus.","the School of Medicine, School of Nursing, and School of Health Professions",0.3915705680847168,2.6597046852111816,0.329814612865448
+90,"ein diutscher means ""a German"".",a German,0.3287787437438965,0.7086873054504395,0.609780490398407
+91,"""Home on the Range""","""Kansas Song""",0.43987154960632324,0.5611536502838135,0.24635115265846252
+92,Max Skladanowsky.,Max Skladanowsky,0.28929829597473145,0.5871078968048096,0.9831914901733398
+93,Johann Tillmann was from Germany.,East Prussia,0.7077860832214355,0.4236612319946289,0.3854914605617523
+94,The Metonic cycle was used to compute the day of the moon.,tabular method,0.3683812618255615,0.9609417915344238,0.10330794751644135
+95,96th.,96th,0.3845648765563965,0.45990943908691406,0.9717196822166443
+96,"Prince Richard, Duke of Gloucester.",Prince Richard,0.2844812870025635,0.6343746185302734,0.7898318767547607
+97,The 14th century.,12th,0.7334258556365967,0.560208797454834,0.24307620525360107
+98,Cruise ships.,cruise ships,0.32770872116088867,0.4127211570739746,0.9659344553947449
+99,"St. Augustine, Florida.","St. Augustine, Florida",0.4422032833099365,0.559636116027832,0.9705454111099243
+100,West Quay region.,West Quay,0.2531909942626953,0.5106151103973389,0.9118635058403015
+101,Easter.,Easter,0.32281064987182617,0.36040401458740234,0.9623860716819763
+102,Charles Grimaldi.,Charles Grimaldi,0.28432130813598633,0.5109214782714844,0.9727030992507935
+103,Allied forces.,Allied forces,0.30487537384033203,0.4111475944519043,0.9697635173797607
+104,The THES - QS World University Rankings.,THES - QS World University Rankings,0.42240095138549805,0.7126097679138184,0.9797978401184082
+105,There is no information about the M'era Luna Festival in the provided context.,"up to 30,000",0.26338696479797363,1.0629456043243408,0.08882599323987961
+106,600,600,0.3057880401611328,0.35892701148986816,1.0
+107,"The Community Tool Box offers over 7,000 pages of content.","more than 7,000 pages",0.2524149417877197,0.8116838932037354,0.6628932356834412
+108,Charles Moore.,Charles Moore,0.2911839485168457,0.3552846908569336,0.9767385125160217
+109,There is no information about a popular RnB singer from Southampton in the given context.,Craig David,0.30985236167907715,1.161998987197876,0.22905555367469788
+110,There is no information about a new interdisciplinary management program being launched at KU's School of Business.,1965,1.2446513175964355,1.2593498229980469,0.024376673623919487
+111,"According to the text, many Hispanics are bilingual and adopt English as their preferred language, especially the young and native-born.","Roughly half of all American Spanish-speakers also speak English ""very well,"" based on their self-assessment in the U.S. Census.",0.32015371322631836,1.3488926887512207,0.5746508836746216
+112,The Daily Kansan is not mentioned in the given context.,print and online,0.37128138542175293,0.7608637809753418,0.007166227325797081
+113,"Yes, New Mexico's Spanish includes elements from Nahuatl, Pueblo languages, and English.","New Mexican Spanish also contains loan words from the Pueblo languages of the upper Rio Grande Valley, Mexican-Spanish words (mexicanismos)",0.47676610946655273,1.2390735149383545,0.6782170534133911
+114,"""Info"" is short for ""infarction"".",sign for information,0.3499796390533447,0.6270303726196289,0.47680845856666565
+115,"Yes, 8 states were ruled by the Spanish: Florida, Texas, Colorado, New Mexico, Arizona, Nevada, Utah, and California.","western regions of the Louisiana Territory were under Spanish rule between 1763 to 1800,",0.30858421325683594,1.7129652500152588,0.4738549590110779
+116,"They lived for a few centuries, but the exact time is not specified in the text.",for centuries,0.25664448738098145,1.160233736038208,0.3642734885215759
+117,1964.,1964,0.30668067932128906,0.4608736038208008,0.9599661827087402
+118,Farrer Theatre.,Farrer,0.31618404388427734,0.46477723121643066,0.6717225909233093
+119,"The title ""King of the Germans"" was first used in the late 11th century.",late 11th century,0.2981998920440674,1.213397741317749,0.48273640871047974
+120,"Over 40,000.","over 40,000",2.6497836112976074,0.5641064643859863,0.9765278697013855
+121,Solar calendar.,solar,0.31345057487487793,0.22383761405944824,0.7439557313919067
+122,"17,000.","17,000",0.5193824768066406,0.5096256732940674,0.9722518920898438
+123,There is no mention of the Independent and State School Partnership in the provided context.,"raise pupil achievement, improve pupil self-esteem, raise pupil aspirations and improve professional practice across the schools",0.38080716133117676,1.0662469863891602,0.17019109427928925
+124,When coronary artery blockage is severe and medication is not effective.,blockages of multiple coronary arteries and diabetes,0.5391077995300293,0.7224950790405273,0.5372446775436401
+125,"Very popular, with over 41 million students enrolled in Spanish classes in the U.S.",Spanish is the most widely taught language in American colleges and universities with 53 percent of the total number of people enrolled,0.3644406795501709,0.9731333255767822,0.7122939825057983
+126,29 June 1199.,29 June 1199,0.3214290142059326,0.6106910705566406,0.9910411238670349
+127,The applicant's father being British by birth.,applicant's father being British by birth,0.3493776321411133,0.715825080871582,0.9498574137687683
+128,1.5 miles.,one mile and a half,0.2774062156677246,0.5612208843231201,0.7429904937744141
+129,Hamtun.,Ocean FM,0.32366347312927246,0.4604663848876953,0.1826757788658142
+130,Rome.,Rome,0.3969459533691406,0.36077332496643066,0.9608421325683594
+131,1939.,1939,0.25093722343444824,0.4600057601928711,0.9678189158439636
+132,Pound Tree Road.,Pound Tree Road,0.46599245071411133,0.3028075695037842,0.979988694190979
+133,AACSB.,ABET,0.3209354877471924,0.4100806713104248,0.4419562816619873
+134,ESOL programmes and Access courses.,Access courses,0.37380099296569824,0.6111979484558105,0.7548999786376953
+135,Christianity.,Christianity,0.2833378314971924,0.358565092086792,0.9124829769134521
+136,The 1992 Local Government Act.,1992 Local Government Act,0.3365600109100342,0.6610455513000488,0.96928870677948
+137,Etonians who had died in the Boer War.,Etonians who had died in the Boer War,0.3541872501373291,0.8636560440063477,0.961435854434967
+138,Hantscire.,Hantscire,0.42081260681152344,0.5159749984741211,0.9824450612068176
+139,Pope Gregory XIII awarded the rights to publish the calendar to Antonio Lilio.,the pope,0.35013866424560547,1.0138680934906006,0.37856972217559814
+140,Sending an outstanding piece of work to be stored in the College Archives.,If any boy produces an outstanding piece of work,0.6287002563476562,0.9659023284912109,0.31575876474380493
+141,There is no mention of an Antarctic explorer attending Eton in the provided context.,Lawrence Oates,0.4913184642791748,1.0357773303985596,0.0749182477593422
+142,1835.,1835,0.38375067710876465,0.460895299911499,0.9735250473022461
+143,M3.,M271,0.3930165767669678,0.4128763675689697,0.42200958728790283
+144,Economic fluctuations and the desire for a higher salary.,"Many Venezuelans settled in the United States with hopes of receiving a better education, only to remain in there following graduation.",0.4118051528930664,0.7613887786865234,0.1855810582637787
+145,There is no information in the text about when Turkey started using the Gregorian calendar for all purposes.,1 January 1926,0.24924588203430176,1.264270305633545,0.26514557003974915
+146,They were assimilated into German culture.,were assimilated into German culture,0.298861026763916,0.6629250049591064,0.945102334022522
+147,World War II.,World War II,0.765960693359375,0.4619925022125244,0.9605373740196228
+148,University of Southampton.,University of Southampton,0.3621397018432617,0.27321934700012207,0.9682572484016418
+149,The 19th century.,20th,2.6054892539978027,0.5636799335479736,0.34884709119796753
+150,2010.,2006,3.2705793380737305,0.46338462829589844,0.7131075263023376
+151,"Yes, his studies on language shift and bilingualism are still relevant to understanding the assimilation of Hispanic Americans today.","his study based itself upon a large 1976 sample from the Bureau of the Census (which has not been repeated),",1.0019934177398682,1.296393632888794,0.35273781418800354
+152,"Miami, New York City, and Houston.","Some of the urban areas with a high Venezuelan community include Miami, New York City, Los Angeles, and Washington, D.C.",0.23397135734558105,0.688629150390625,0.5300408005714417
+153,Three times.,three,0.28598451614379883,0.41020631790161133,0.616310179233551
+154,Men's Fitness magazine.,Men's Fitness,0.2940480709075928,0.5125668048858643,0.7588411569595337
+155,"""Day boys""",Oppidans,1.9502761363983154,0.274580717086792,0.2505960762500763
+156,40 acres (16 ha) of land.,forty acres,0.31017565727233887,0.7622520923614502,0.7875458002090454
+157,"Yes, New Mexico had a majority of Spanish-speaking natives due to its unique history and geographical isolation.",The area of the former Gadsden Purchase contained a majority of Spanish-speakers until the 1940s,0.232133150100708,1.2608451843261719,0.5102587938308716
+158,There is no information about swimming pools in the given context.,two,0.3570291996002197,0.8613638877868652,-0.0346716046333313
+159,There is no mention of speedway racing in the provided context.,Banister Court Stadium,0.3271956443786621,0.9154930114746094,0.2701430916786194
+160,Dance music.,dance,0.9649159908294678,0.4112546443939209,0.8027423024177551
+161,"1 day in 3,300 years.",10 minutes 48 seconds,0.43445611000061035,0.6105647087097168,0.2704426348209381
+162,"The consular year began when consuls first entered office, which was probably 1 May before 222 BC, 15 March from 222 BC, and 1 January from 153 BC.",consuls first entered office,0.33481788635253906,2.241651773452759,0.6370525360107422
+163,30%,30%,0.3429863452911377,0.3782956600189209,1.0
+164,There is no mention of a legendary band with a color in its name playing at the Guildhall in the given context.,Pink Floyd,0.3231637477874756,1.4652073383331299,0.2501491904258728
+165,Adult contemporary music.,adult contemporary,0.3319120407104492,0.4627540111541748,0.7897395491600037
+166,"Economic and political instability, including civil wars and natural disasters.",civil wars engulfed several Central American countries in the 1980s,0.406552791595459,0.866039514541626,0.49909406900405884
+167,The vernal equinox.,motions of the sun and moon,0.31212687492370605,0.5626089572906494,0.31401100754737854
+168,There is no information provided about the population of Southampton in 1996 or 2004.,4.9,0.32262611389160156,1.2167577743530273,-0.026077890768647194
+169,The 1970s and 1980s.,Throughout the 1980s with the United States supported Contra War (or Contra-revolutionary war) which continued up until 1988,0.31328749656677246,0.8138649463653564,0.38046973943710327
+170,"Dan Glickman, former CEO of MGM Studios and former US Secretary of Agriculture, is an alumnus of the University of Kansas.",Charles E. Spahr,0.43570780754089355,1.4765660762786865,0.2547279894351959
+171,The text does not mention an organization anticipating a 2% population growth from 2006 to 2013.,Hampshire County Council,0.35216569900512695,1.2965095043182373,0.08451129496097565
+172,You subtract 10 days.,-4,0.44757533073425293,0.5648624897003174,0.17742130160331726
+173,The second reform of the calendar was the reform of the lunar cycle used by the Church to calculate the date of Easter.,lunar cycle,0.33785319328308105,1.4678821563720703,0.5375388860702515
+174,Myocardial Infarction.,Myocardial infarction,0.3015427589416504,0.5792675018310547,0.9471462965011597
+175,"Eton College is one of the 100 largest charities in the UK, benefiting from substantial tax breaks, estimated to be around £1,945 per pupil per year.",sixth most expensive,0.3679194450378418,1.9668030738830566,0.17583909630775452
+176,Roger Lupton.,Roger Lupton,0.5708136558532715,0.5128843784332275,0.9813072681427002
+177,The Napoleonic Wars.,The Napoleonic Wars,0.2915213108062744,0.5630631446838379,0.9745693206787109
+178,1 day.,1 day,0.31275272369384766,0.30867648124694824,0.9218755960464478
+179,Meridian.,Meridian,0.3945612907409668,0.41140007972717285,0.966504693031311
+180,Hampshire.,Hampshire,0.391803503036499,0.35921454429626465,0.9606670141220093
+181,The Swiss resisted the idea of uniting under Hitler.,The Swiss,2.801705837249756,0.8137707710266113,0.5151293277740479
+182,"Whiteley, around 9 miles from the city.",Whiteley,0.4814321994781494,0.811450719833374,0.7153676748275757
+183,East Germanic language.,East Germanic,0.27619409561157227,0.511307954788208,0.8966047763824463
+184,"No, the text does not mention Cubans. It talks about Puerto Ricans, Mexicans, and other Hispanic groups in the US.",most are fluent in Spanish,0.4524655342102051,1.6147985458374023,0.3103795051574707
+185,1 January.,1 January,0.6097824573516846,0.4625082015991211,0.9598766565322876
+186,"The University of Kansas School of Architecture, Design, and Planning (SADP).","The University of Kansas School of Architecture, Design, and Planning",0.8426628112792969,1.1138710975646973,0.8654190301895142
+187,The text does not mention knuckle-space count being used to determine months.,language-independent,0.28685879707336426,0.8608818054199219,0.13391678035259247
+188,Approximately 80 million.,50 million,0.30481696128845215,0.45220112800598145,0.7855699062347412
+189,1752.,1800,0.324444055557251,0.4146895408630371,0.4177256226539612
+190,There is no information about the White Irish population in the given context.,one,0.4534149169921875,0.6860780715942383,-0.008557029068470001
+191,"The Walhalla temple is located in Regensburg, Germany.",Bavaria,0.27007365226745605,0.7579555511474609,0.34272971749305725
+192,"New Style (N.S.) dates indicate that the start of the year has been adjusted to start on January 1, even if documents written at the time use a different start of year.",Gregorian,0.37389492988586426,1.7261273860931396,0.32898855209350586
+193,South Western Railway operates Southampton's local train service.,South West Trains,0.23686432838439941,0.6453509330749512,0.649938702583313
+194,The date of Easter.,date of Easter,0.3914792537689209,0.45094990730285645,0.9515215158462524
+195,Sunday.,Sunday,0.4596128463745117,0.3393583297729492,0.9630643725395203
+196,King John's charter in 1199 and King Charles I's charter in 1640.,Charles I,0.302905797958374,0.9895460605621338,0.4410591423511505
+197,Town Quay.,Town Quay,0.3119189739227295,0.2583472728729248,0.9791644811630249
+198,"Yes, the Spanish have a significant legacy in America from their forefathers, with a presence dating back to the 16th and 17th centuries.","after the French and Indian War, further extending the Spanish influence throughout modern-day United States of America.",0.3159608840942383,1.8296961784362793,0.6532586812973022
+199,Pope Gregory XIII.,Pope Gregory XIII,3.4265716075897217,0.464292049407959,0.9800379276275635
+200,Precentor.,"""Precentor""",0.5329365730285645,0.4616236686706543,0.9338504672050476
+201,1968.,1968,0.35181260108947754,0.4596536159515381,0.9550771117210388
+202,The Fulbright Fund is dedicated for travel to non-English speaking countries.,Marsden Fund,0.5263381004333496,0.82427978515625,0.2601083517074585
+203,"The Common Agricultural Policy (CAP) for ""environmental improvements"".",Common Agricultural Policy,0.3636202812194824,0.9169108867645264,0.7262560129165649
+204,"None, the text does not mention Phillip ruling any areas besides part of Italy.",Spain and Portugal,0.31910252571105957,1.0635714530944824,0.2772391736507416
+205,The index knuckles of the left and right hands.,one's two fists,0.3717920780181885,0.8129370212554932,0.43144503235816956
+206,1 May.,1 May,0.2864260673522949,0.45857810974121094,0.9631880521774292
+207,Geordie Greig.,Geordie Greig,0.49477553367614746,0.5059158802032471,0.9690356850624084
+208,Depth.,depth,0.35030698776245117,0.359968900680542,0.9530918002128601
+209,Five times.,five,3.6014797687530518,0.4120666980743408,0.6817899346351624
+210,Earl of Ulster.,Ulster,0.3808410167694092,0.4883921146392822,0.6954813599586487
+211,The Princeton Review.,Princeton Review,0.35634708404541016,0.45970582962036133,0.9508841037750244
+212,The Battle of Agincourt.,Saint Crispin's Day,0.4967961311340332,0.6149585247039795,0.2716362476348877
+213,The University Daily Kansan.,University Daily Kansan,0.9914581775665283,0.42505407333374023,0.9697438478469849
+214,White (92.4%),Polish,0.33951902389526367,0.5615570545196533,0.2640455961227417
+215,"Eton was criticized for unfairly dismissing Sarah Forsyth, bullying her, and failing to follow capability procedures.",failing to produce its capability procedures,0.28183960914611816,1.3144590854644775,0.30596938729286194
+216,There is no information about two houses being built in 1845.,"Hawtrey House, Durnford House",0.29250288009643555,0.9608144760131836,0.19593411684036255
+217,The Guildhall.,the Guildhall,0.3434562683105469,0.46218347549438477,0.976093053817749
+218,The 1980s.,The largest immigration wave occurred as a result of the Salvadoran Civil War in the 1980s,0.2553994655609131,0.5613360404968262,0.24760256707668304
+219,Urban policy.,decision science,0.3603687286376953,0.37734007835388184,0.3784942030906677
+220,"None, the text does not mention Council executives running any leisure venues.",11,0.38742709159851074,0.7980804443359375,0.11502015590667725
+221,There is no information about a 1965 launch by the business school at KU in the provided context.,interdisciplinary management science graduate studies in operations research,0.41153573989868164,1.1207935810089111,0.1729704886674881
+222,The Gaumont.,the Gaumont,0.28049373626708984,0.4108915328979492,0.984516441822052
+223,"Yes, New Mexico Spanish has retained elements of 16th- and 17th-century Spanish and has developed its own vocabulary, including words from Nahuatl, Pueblo languages, and English.","borrowings from English. Grammatical changes include the loss of the second person verb form, changes in verb endings",0.3240244388580322,1.7840397357940674,0.23712635040283203
+224,"The University of Kansas Medical Center features three schools: 
+1. School of Medicine
+2. School of Nursing
+3. School of Health Professions.",its own programs of graduate study,0.35938119888305664,1.4676547050476074,0.34422600269317627
+225,"Some female schools close to Eton College include: 
+         - St George's School, Windsor 
+         - St George's School, Ascot 
+         - St Mary's School, Ascot","St George's, Ascot, St Mary's School Ascot, Windsor Girls' School and Heathfield St Mary's School",0.3561239242553711,1.5851101875305176,0.8167588114738464
+226,The Rhine River.,naval innovations,2.0826363563537598,0.2677934169769287,0.11834810674190521
+227,"The text does not provide a specific number of students who receive financial aid at Eton, but it mentions that the fee for the academic year 2010-2011 was £29,862, and that the sum is ""considerably lower"" for those pupils on bursaries and scholarships.",20%,0.41843247413635254,3.2388999462127686,0.06568790972232819
+228,Hot adult contemporary music.,Hot adult contemporary,0.33096933364868164,0.5115668773651123,0.826103687286377
+229,Henry VIII.,Henry VIII,0.2967567443847656,0.41159629821777344,0.9773843288421631
+230,The Middle Ages.,High Middle Ages,0.24173641204833984,0.4611787796020508,0.9068623185157776
+231,September.,September,0.2515690326690674,0.360858678817749,0.9489479660987854
+232,"The regions excluded from the German Empire were primarily the Slavic and Baltic areas, including parts of present-day Poland, Czech Republic, and parts of Russia.",effectively excluding the multi-ethnic Austrian Habsburg monarchy,0.2931172847747803,1.8164258003234863,0.43645110726356506
+233,"Yes, Florida has a significant Hispanic population, particularly in areas such as Miami, where Spanish is the primary language.","increasing the Spanish-speaking populations and in some areas being the majority of the Hispanophone population, especially in Central Florida. In Hawaii",0.30728816986083984,1.417555570602417,0.600391149520874
+234,Approximately 80 million.,100 million,0.271953821182251,0.5100786685943604,0.791405439376831
+235,16.2%,16.2,0.49469709396362305,0.5129878520965576,0.6915366053581238
+236,There is no information about the number of wards in Southampton in the given context.,16,0.4136521816253662,0.8764858245849609,0.06705890595912933
+237,"No, there is no official language of the United States.","United States has no de jure official language, English is the dominant language",0.2703406810760498,0.7206284999847412,0.686827540397644
+238,Moorgreen Hospital.,Moorgreen Hospital,1.7567832469940186,0.4538908004760742,0.9892792105674744
+239,Tuition at KU is 13 percent below the national average.,additional fees,0.38391590118408203,0.801058292388916,0.1965574026107788
+240,"Kansas City, Kansas.",Kansas City,1.6498534679412842,0.45747971534729004,0.9406465888023376
+241,The Head Master of Eton College.,the Head Master,0.3532686233520508,0.5680019855499268,0.56928551197052
+242,"Yes, the US government tried to make Puerto Rico an English-speaking territory, but it was unsuccessful.",U.S. federal government strenuously tried to force Puerto Ricans to adopt English,0.3283061981201172,1.0282371044158936,0.7430845499038696
+243,"The event is called ""Queen's Day"".",Arrival of the Three Queens,0.40387582778930664,0.6064257621765137,0.47083473205566406
+244,"Yes, Texas was part of Mexico.","In 1821, after Mexico's War of Independence from Spain, Texas was part of the United Mexican States as the state of Coahuila y Tejas",0.30693745613098145,0.4564969539642334,0.6774451732635498
+245,Ostsiedlung.,Ostsiedlung,0.33263087272644043,0.45195746421813965,0.9760695695877075
+246,St Mary's Stadium.,St Mary's Stadium,0.2521352767944336,0.2642543315887451,0.9905040264129639
+247,"Yes, an employment tribunal in 2005 found that Sarah Forsyth was unfairly dismissed and criticized Eton College for bullying.",the convention ultimately voted 46-39 to revise the earlier clause so that all official proceedings would henceforth be published only in English.,0.9180774688720703,1.222264051437378,0.12124931067228317
+248,1898.,1898,0.46813368797302246,0.41840195655822754,0.9670541286468506
+249,The text does not mention the types of media taught at KU's School of Journalism.,"print, online and broadcast",0.3376481533050537,0.8293664455413818,0.15406756103038788
+250,There is no information in the text that suggests any other independent school has hosted more outreach events than Eton.,Wellington College,0.25821447372436523,1.1062979698181152,0.20396548509597778
+251,There is no mention of the Fourth of June in the provided text.,the Wednesday before the first weekend of June,0.33545875549316406,0.7988770008087158,0.4410450756549835
+252,"2,663.","2,663",0.3589046001434326,0.4531283378601074,0.9846563339233398
+253,"Jean Scott, head of the Independent Schools Council.",Jean Scott,0.2816276550292969,0.6476271152496338,0.6470232009887695
+254,Calvin Veltman's.,Aloysius Lilius,0.3606076240539551,0.37657976150512695,0.1761065125465393
+255,Eight.,eight,0.31932997703552246,0.3360724449157715,0.9341223239898682
+256,March.,March,0.3587675094604492,0.3371880054473877,0.9379435777664185
+257,There is no mention of the V-12 program in the provided context.,131,0.36917543411254883,0.8375067710876465,0.13689127564430237
+258,Aspirin.,Aspirin,0.3500053882598877,0.3837556838989258,0.9523016214370728
+259,"The Spanish language has been present in the US since the 16th and 17th centuries with Spanish colonization, and has a rich history in the country, with various territories and states having been under Spanish rule at different times.","The state outside the Gadsden Purchase of 1853 was part of the New Mexico Territory until 1863, when the western half was made into the Arizona Territory.",0.28078508377075195,2.0374715328216553,0.22713492810726166
+260,Eton encourages people to find what they love and nurture it.,They champion the talent of the individual,0.3193342685699463,0.7041831016540527,0.21009491384029388
+261,Buses.,Buses,0.35445594787597656,0.37611818313598633,0.9431967735290527
+262,Civil and environmental engineering.,civil and environmental engineering,0.35974693298339844,0.449432373046875,0.964552104473114
+263,Austro-German tradition.,Austro-German,0.27706360816955566,0.4646577835083008,0.8340274095535278
+264,The 12th century.,12th,0.4541618824005127,0.49160265922546387,0.4788839817047119
+265,The Saints.,The Saints,0.2979750633239746,0.18811535835266113,0.9780176877975464
+266,Wichita and Salina.,Wichita and Salina,0.41998291015625,0.452301025390625,0.9883187413215637
+267,Austria led the way for the Congress of Vienna.,Austria,1.7945995330810547,0.6474778652191162,0.5888159871101379
+268,There is no mention of Johann Herder in the provided text.,German philosopher,0.33180761337280273,0.7648956775665283,0.2913035452365875
+269,The English Civil War.,English Civil War,0.5730783939361572,0.45586371421813965,0.9459998607635498
+270,The M3 motorway connects Southampton to London.,M3,0.40728139877319336,0.6457240581512451,0.44773679971694946
+271,a space,a space,0.33359432220458984,0.33533787727355957,1.0
+272,Archaeology museum.,Museum of Archaeology,0.25828123092651367,0.41276121139526367,0.9531053900718689
+273,The 12th century.,12th century,0.3134491443634033,0.4881420135498047,0.9569544792175293
+274,North.,North,0.3818662166595459,0.3405022621154785,0.9630559086799622
+275,The main mechanism for MI is the complete blockage of a coronary artery caused by a rupture of an atherosclerotic plaque.,complete blockage of a coronary artery,0.3432645797729492,1.2636256217956543,0.595808744430542
+276,1966.,1966,0.26438426971435547,0.4138195514678955,0.9566715955734253
+277,There is no mention of the Board of Regents or a fixed tuition program in the provided context.,Four-Year Tuition Compact,0.27326416969299316,0.9951367378234863,0.46125704050064087
+278,Redbridge.,Redbridge,0.3743445873260498,0.3747694492340088,0.9776812791824341
+279,City of Southampton Sunday Football League.,City of Southampton Sunday Football League,0.29163169860839844,0.5316505432128906,0.9809761047363281
+280,Undergraduate and graduate programs in business and accounting.,business and accounting,0.4257090091705322,0.6448047161102295,0.7128679752349854
+281,Non-curriculum course.,non-curriculum,0.39336609840393066,0.5167076587677002,0.8581717014312744
+282,Crime statistics between Hampshire and Dorset are debated due to differences in recording methodologies.,comparative crime statisitics,0.4254002571105957,1.0640449523925781,0.5997956991195679
+283,Petrus Pitatus of Verona.,Petrus Pitatus,0.397261381149292,0.661388635635376,0.8362963199615479
+284,The Itchen.,Itchen,0.5069525241851807,0.46173691749572754,0.8805756568908691
+285,Stadtrecht.,Stadtrecht,0.266390323638916,0.4099702835083008,0.9812514781951904
+286,The adoption of Christianity by the Germans from the Romans.,Germanic and Roman peoples intermarried,0.3133392333984375,0.8130757808685303,0.560918927192688
+287,"Puerto Rico maintained its Spanish language and culture due to its small, densely populated island and the fact that it was never flooded with a large influx of English speakers.","Puerto Rico was able to maintain its Spanish language, culture, and identity because the relatively small, densely populated island",0.3041818141937256,1.8628902435302734,0.8701057434082031
+288,"They may rely on Spanish-language media, such as 500 Spanish newspapers, 152 magazines, and local television, as well as online resources like WhiteHouse.gov, which provides official Spanish translations of presidential speeches.","There are 500 Spanish newspapers, 152 magazines, and 205 publishers in the United States; magazine and local television",0.28057003021240234,2.2519731521606445,0.5555423498153687
+289,The marinas.,Southampton Sports Centre,0.655968189239502,0.4614133834838867,0.2395080327987671
+290,The Community Tool Box.,The Community Tool Box,0.4730870723724365,0.35998034477233887,0.9684413075447083
+291,Anthony Chenevix-Trench.,Anthony Chenevix-Trench,0.2941772937774658,0.6611073017120361,0.982191264629364
+292,Langstone.,Langstone,0.7513821125030518,0.41055822372436523,0.9741658568382263
+293,"San Juan, the capital of Puerto Rico.","The oldest city in all of the U.S. territory, as of 1898, is San Juan, capital of Puerto Rico",0.38984060287475586,0.7101292610168457,0.6440415382385254
+294,Heartburn.,heartburn,0.35804080963134766,0.37822532653808594,0.9369086027145386
+295,"There is no information in the given context about an orchestra with a name that starts with ""B"" playing at the Guildhall.",Bournemouth Symphony Orchestra,0.3618013858795166,1.5640583038330078,0.529380202293396
+296,Austria and the Austrians were threatened by German nationalism.,aristocratic regimes,0.4008963108062744,0.812279462814331,0.2609018385410309
+297,The M27 motorway.,M27,0.27339696884155273,0.5612499713897705,0.6900037527084351
+298,Unity and economic stability.,Prussian history,0.636376142501831,0.32366514205932617,0.28657352924346924
+299,Harrow College,London Academy of Excellence,0.29531002044677734,0.22385573387145996,0.5250465869903564
+300,The Holocaust.,Nazi past,0.4542243480682373,0.22585773468017578,0.5698373913764954
+301,Tudor House Museum.,Tudor House Museum,0.3352622985839844,0.5109062194824219,0.9804937839508057
+302,"German nationalists, led by figures like Eduard Lasker, wanted to unite all Germans.",The Nazis,0.252718448638916,1.2101366519927979,0.4771612286567688
+303,Pope Gregory VII's chancery.,Pope Gregory VII,0.3283092975616455,0.6617913246154785,0.8159911632537842
+304,There is no information about what was first instituted for first year students in the 2007-2008 school year.,fixed tuition rate,0.7186093330383301,1.4665629863739014,0.2047939896583557
+305,"The Sunday after the 15th day of the moon, whose 14th day preceded the equinox.",15th day,0.3002192974090576,1.363600730895996,0.6671238541603088
+306,There is no information about Eugen Buss in the given context.,University of Hohenheim,0.5289077758789062,0.8098938465118408,0.06358428299427032
+307,"Didcot, Newbury and Southampton Railway.","Didcot, Newbury and Southampton Railway",0.4574003219604492,0.7125227451324463,0.9808330535888672
+308,"There is no mention of the ""Fourth of June"" in the given context. However, the ""Fourth of July"" is mentioned, which is a reference to the United States' Independence Day, celebrated on July 4th.",the birthday of King George III,4.524134159088135,2.567960739135742,0.2960689961910248
+309,There is no information about Green Hall being named after anyone in the given context.,James Green,0.2903623580932617,1.065767526626587,0.4180395305156708
+310,Julian calendar.,Julian,0.34215807914733887,0.22333025932312012,0.6025360226631165
+311,There is no mention of Lynx in the given context.,hypertext browsing and navigation,0.5808453559875488,0.864591121673584,0.1842007339000702
+312,KU,KU,1.040109634399414,0.17328858375549316,1.0
+313,There is no information about an aviation museum in the given context.,Solent Sky,1.009469747543335,0.911578893661499,0.03199583292007446
+314,The Work Group for Community Health and Development.,the Work Group for Community Health and Development,0.3152585029602051,0.5624566078186035,0.9931275844573975
+315,Shirley.,Portswood,0.5754837989807129,0.17258071899414062,0.22917355597019196
+316,Karl von Clausewitz.,Karl von Clausewitz,0.30181431770324707,0.5621318817138672,0.9794161319732666
+317,Charlemagne (Karl der Große) united the 5 tribes.,king Charlemagne,0.470583438873291,1.0595033168792725,0.6382064819335938
+318,3,three,0.41953206062316895,0.3629770278930664,0.8656187057495117
+319,Yes.,New Mexico is commonly thought to have Spanish as an official language alongside English because of its wide usage and legal promotion of Spanish in the state,0.6748206615447998,0.33476805686950684,0.01703890971839428
+320,3,three,0.4155714511871338,0.3608834743499756,0.8656187057495117
+321,There is no specific information about an Eton society dedicated to philosophy in the given context.,Wine and Wotton’s,0.396059513092041,1.1059515476226807,0.10724309086799622
+322,The University of Kansas houses the University Daily Kansan.,William Allen White School of Journalism,0.3211405277252197,0.8625829219818115,0.23275312781333923
+323,The text does not mention the year Hampshire was officially named.,1959,0.6374268531799316,0.8643872737884521,0.10687801241874695
+324,Will Champion.,Will Champion,0.8561201095581055,0.22360467910766602,0.9088850617408752
+325,1840.,1840,0.629788875579834,0.4609031677246094,0.9667807817459106
+326,God's House Tower.,God's House Tower,0.34223151206970215,0.5119993686676025,0.98355633020401
+327,"No, it's a relatively recent development, starting with the Bill Clinton administration.",following the precedent set by the Bill Clinton administration. Official Spanish translations are available at WhiteHouse.gov.,0.2539224624633789,0.9467265605926514,0.2070094347000122
+328,1952.,1862,0.40106749534606934,0.4608135223388672,0.46072423458099365
+329,Wilhelm Conrad Röntgen.,Wilhelm Conrad Röntgen,1.0198616981506348,0.42356443405151367,0.9779690504074097
+330,Oceanic climate (Köppen Cfb).,oceanic,0.40050196647644043,0.8118693828582764,0.537361741065979
+331,The Soul Cellar.,the Dolphin,0.35703301429748535,0.5107200145721436,0.18806052207946777
+332,1582.,"Friday, 15 October 1582",0.2726755142211914,0.46277403831481934,0.5997097492218018
+333,Political instability and the Sandinista revolution in the 1970s and 1980s.,political instability during the end of the 1970s and the 1980s,0.3391883373260498,1.2640056610107422,0.7393006086349487
+334,The main campus.,main campus,0.7699382305145264,0.4613664150238037,0.9608952403068542
+335,There is no information about the Wide Lane Sports Facility in the given context.,Eastleigh,4.567009449005127,1.0155525207519531,0.207069993019104
+336,There is no mention of King John's House in the text.,Canute's Palace,0.43643975257873535,0.9144971370697021,0.17152024805545807
+337,West End.,West End,0.23067593574523926,0.41381025314331055,0.9795365929603577
+338,"""unfounded and irrelevant.""",unfounded and irrelevant,0.8780727386474609,0.6152517795562744,0.7481503486633301
+339,There is no information about a wildlife center in Southampton Common in the given context.,Hawthorns Urban Wildlife Centre,0.3570675849914551,1.0633909702301025,0.427663117647171
+340,There is no information in the given context about who are cast in Eton's female roles in their productions.,girls from surrounding schools,0.31302571296691895,1.3643205165863037,0.3430779278278351
+341,Crimson and royal blue.,crimson and royal blue,0.3082737922668457,0.5141201019287109,0.9826592803001404
+342,Four out of five.,Four,0.2381916046142578,0.5111644268035889,0.7236721515655518
+343,Trieste.,Trieste,0.3122718334197998,0.4109680652618408,0.9796170592308044
+344,1.0%,1.0,1.0822880268096924,0.5141422748565674,0.7010407447814941
+345,The School of Public Affairs & Administration.,the Robert J. Dole Institute of Politics,0.2930943965911865,0.6634945869445801,0.40941259264945984
+346,West Quay.,Town Quay,0.32436180114746094,0.46245908737182617,0.8861868381500244
+347,There is no mention of the University of Kansas contributing to the development of the internet in the provided context.,academic computing,0.33095431327819824,1.3131771087646484,0.1844465732574463
+348,German town law (Stadtrecht).,Stadtrecht,0.3530886173248291,0.6604626178741455,0.7053396701812744
+349,The Roman Catholic Church.,Roman Catholic Church,0.37713623046875,0.5123491287231445,0.9268498420715332
+350,Monaco.,Monaco,0.45493340492248535,0.36159229278564453,0.9673390984535217
+351,"The student receives a card to be signed by their House Master, tutor, and division master.","House Master, tutor and division master",0.3383510112762451,1.2152419090270996,0.6079525351524353
+352,There is no information about the Thames Valley Athletics Centre in the given context.,April 1999,0.24562382698059082,1.0105924606323242,0.04323184862732887
+353,Celts.,Celts,0.43767476081848145,0.22367024421691895,0.9814999103546143
+354,The lands of the Roman Empire.,Roman Empire,0.28144264221191406,0.611213207244873,0.7731249332427979
+355,"Unfortunately, the provided context does not include information about the age demographics of Southampton.","17,800",0.49426865577697754,1.0637524127960205,0.030981620773673058
+356,There is no information about outreach events held at Eton by Oxford University in 2010 in the given context.,nine,0.29334402084350586,1.4141974449157715,0.011521955952048302
+357,"No, the text does not mention Calvin Veltman.",data from the 1990 Census tend to confirm the great Anglicization of the US Hispanic American origin population.,0.4056684970855713,0.839158296585083,0.14462225139141083
+358,The health and education sector.,health and education,0.3128490447998047,0.56278395652771,0.8415077924728394
+359,"26,968 students.","26,968",0.509514570236206,0.5638577938079834,0.6231793165206909
+360,There is no information about tax breaks in 1992 in the given context.,"£1,945 per pupil per year",0.46092963218688965,1.0648455619812012,0.1077265739440918
+361,Normandy.,Normandy,0.36370134353637695,0.4109184741973877,0.9656023979187012
+362,"The text does not mention a ""survey"" showing a specific form of bullying. However, it does mention that an employment tribunal found that Ian Burke, a senior staff member, bullied Sarah Forsyth.",verbal,0.28015565872192383,2.2684009075164795,0.09861724078655243
+363,There is no information about an event being held on the Fourth of June.,Procession of Boats,0.2725210189819336,1.013596773147583,0.07876013219356537
+364,"The University of Kansas School of Business is not mentioned in the provided text as being established. However, the text does mention the school of Business as one of the schools at the University of Kansas.",1924,0.37302541732788086,2.215263605117798,-0.007006241008639336
+365,1952.,1952,0.2804582118988037,0.30880117416381836,0.9718616008758545
+366,"A card to be signed by House Master, tutor, and division master.",a card,0.2444002628326416,1.0156805515289307,0.5524721741676331
+367,There is no mention of a first year student being given a task yelled for by the Librarian in the provided context.,The last boy to arrive,0.28079986572265625,1.4643349647521973,0.08916376531124115
+368,The northern tip.,northern,0.21937823295593262,0.46018457412719727,0.681547999382019
+369,The Crimean War.,the Crimean war,0.30434250831604004,0.5124063491821289,0.9786608219146729
+370,There is no information about the number of Oppidan houses at Eton in the given context.,24,0.3303215503692627,1.2120938301086426,0.11748342216014862
+371,"I don't have information on when ""fagging"" was phased out of most houses.",1970s,0.4277791976928711,1.2135937213897705,0.22361120581626892
+372,"Mount Oread, the site of the University of Kansas main campus, is the highest point in Lawrence.",Mount Oread,0.3641533851623535,1.3133459091186523,0.5407289266586304
+373,Cunard.,Cunard Line,0.41043758392333984,0.45978665351867676,0.8160776495933533
+374,There is no mention of the Franco-Prussian War in the given context.,Prussia and its new allies in Southern Germany,0.5177123546600342,1.0635712146759033,0.46129268407821655
+375,Roman Catholicism.,Roman Catholicism,0.3024463653564453,0.46224164962768555,0.9299674034118652
+376,The eastern border.,eastern border,0.42229676246643066,0.4634835720062256,0.9474759101867676
+377,"236,900.",1.5 million,0.28037023544311523,0.5114293098449707,0.3494025468826294
+378,Godolphin House and Jourdelay's.,"Godolphin House, Jourdelay's",0.3652040958404541,0.7618460655212402,0.9597719311714172
+379,"Eton provides access to its 400-acre parkland around Dorney Lake to the public, free of charge, almost all year round.",use of its facilities,0.44237637519836426,1.6667296886444092,0.17601843178272247
+380,There is no information about KUJH-LP in the given context.,public affairs,0.3778681755065918,0.9105334281921387,0.04164948686957359
+381,The boy's housemaster.,the boy's housemaster,0.2847604751586914,0.5607774257659912,0.9835156202316284
+382,"The Victorian period, around 1888.",Victorian period,0.2836735248565674,0.7121684551239014,0.826752781867981
+383,1740.,1740,0.2648501396179199,0.4601619243621826,0.9703365564346313
+384,"The London Academy of Excellence is free of charge, whereas Eton College charges up to £11,478 per term.",free of charge,0.2757289409637451,1.462517261505127,0.32267528772354126
+385,The 9th century.,in the aftermath of the French Revolution,0.3902575969696045,0.49113917350769043,0.27075833082199097
+386,There is no mention of Bear Grylls attending Eton in the provided context.,Eton,0.536236047744751,1.0472712516784668,0.49773597717285156
+387,"A House Master is the primary person responsible for a boy's studies, assisted by a tutor.",the teacher who lives in the house and manages the pupils in it,0.4666709899902344,1.217268943786621,0.62448650598526
+388,"The Old Style (OS) date refers to the Julian calendar, which was used before the adoption of the Gregorian calendar.",Julian calendar,0.4146595001220703,1.4888238906860352,0.47385233640670776
+389,Calvin Veltman discovered the W and Z bosons.,"high bilingualism rates and subsequent adoption of English as the preferred language of Hispanics, particularly by the young and the native-born.",0.37203192710876465,0.6744661331176758,0.04144562780857086
+390,I don't have the information to answer that question. The provided context is about the Gregorian calendar and its accuracy compared to the Julian calendar.,96.1,0.30085325241088867,1.5616230964660645,0.15949983894824982
+391,The School of the Arts and the School of Public Affairs & Administration.,the School of the Arts and the School of Public Affairs & Administration,1.315432071685791,0.9671156406402588,0.9788521528244019
+392,Hausfraus.,"""dames""",0.26983642578125,0.273745059967041,0.22923295199871063
+393,202 crimes.,202,0.341235876083374,0.4629364013671875,0.6434098482131958
+394,West.,north-west,0.4722127914428711,0.3628222942352295,0.8168285489082336
+395,21 March.,325,0.37126612663269043,0.46252965927124023,0.11764132231473923
+396,1873.,1873,0.4814791679382324,0.4605424404144287,0.9635894894599915
+397,1940s.,1940s,2.0759706497192383,0.5134561061859131,0.965996503829956
+398,"Yes, many American schools offer Spanish as a foreign language course.",More than 1.4 million university students were enrolled in language courses,0.3416569232940674,0.723801851272583,0.5177690982818604
+399,"No, English was not successful in Puerto Rico.","It was completely unsuccessful,",0.4423985481262207,0.7616908550262451,0.2715267539024353
+400,The Community Tool Box.,KUpedia,1.382016897201538,0.3722498416900635,0.1406705230474472
+401,Eton College.,the School of Architecture and Urban Design,0.6930015087127686,0.4643232822418213,0.34267106652259827
+402,Theft from a vehicle.,verbal,0.3543844223022461,0.5147843360900879,0.188971608877182
+403,The Community Tool Box is a free online resource located on the University of Kansas website.,online,0.4275639057159424,0.9603502750396729,0.21548743546009064
+404,The Julian calendar had an error of 1 day in 128 years.,slightly too long,0.3369414806365967,0.8573296070098877,0.1560341715812683
+405,60%,60,0.23947954177856445,0.4135763645172119,0.6715091466903687
+406,21 March.,22 March,0.2582263946533203,0.4629650115966797,0.9119174480438232
+407,Non-metropolitan district.,non-metropolitan district,0.31273555755615234,0.5605349540710449,0.9786039590835571
+408,I'm not aware of any information about the police headquarters in Southampton.,Southern Road,0.5751667022705078,0.964820384979248,0.0882684588432312
+409,"I couldn't find any information about a station formerly known as ""The Saint"" in the given context.",The Breeze,1.8214170932769775,1.316185712814331,0.067903533577919
+410,"George Lascelles, 7th Earl of Harewood.",George Lascelles,0.45804905891418457,0.9374208450317383,0.7380915880203247
+411,"At least 30,000 daily readers.","at least 30,000",0.21546244621276855,0.7129192352294922,0.5771352648735046
+412,Adolf Hitler.,Adolf Hitler,0.3237345218658447,0.22282886505126953,0.9556906223297119
+413,very handsome width.,clean,0.2685887813568115,0.4637880325317383,0.09653674811124802
+414,The Julian Period and the Anno Domini era.,system of weeks,0.3929564952850342,0.6242740154266357,0.16064107418060303
+415,£200.,£200,0.27982640266418457,0.41063737869262695,0.9648289680480957
+416,Approximately 80 million.,100 million,0.3023369312286377,0.5091700553894043,0.791405439376831
+417,National Station (referring to Southampton's train station),New Style,0.2843818664550781,0.6219398975372314,0.07319249212741852
+418,Secretly recording a conversation with Prince Harry.,Forsyth's decision to record a conversation with Harry,0.36368703842163086,0.7168266773223877,0.5719729661941528
+419,90th.,90th,0.32868242263793945,0.4593362808227539,0.9700469970703125
+420,handsome,elegant,0.3365180492401123,0.31251096725463867,0.40837693214416504
+421,"Amos Adams Lawrence donated $10,000, which was the majority of the $15,000 needed to secure the site.",Amos Adams Lawrence,0.39942264556884766,1.5664474964141846,0.5382201075553894
+422,The Rose Bowl in West End.,the Rose Bowl,0.2660343647003174,0.6127548217773438,0.8815140724182129
+423,"Overland Park, Kansas.",Overland Park,0.38336896896362305,0.5620076656341553,0.8808357119560242
+424,"Yes, Venezuela has immigrants from other countries, particularly from Europe.","Between the 18th and early 19th centuries, there were many European immigrants who went to Venezuela",0.31194519996643066,0.9145290851593018,0.6499640941619873
+425,Julian calendar.,Julian calendar,0.33208441734313965,0.4122493267059326,0.9421199560165405
+426,Three years out of four.,three,0.35236167907714844,0.5605292320251465,0.4832170605659485
+427,RMS Queen Elizabeth 2.,RMS Queen Elizabeth 2,0.3541853427886963,0.5624678134918213,0.9727027416229248
+428,1290.,1290,0.6461141109466553,0.4639706611633301,0.949512243270874
+429,Approximately 12 million Germans were expelled from their homes after World War II.,"12 and 16,5 million ethnic Germans and German citizens",0.36903905868530273,0.8279054164886475,0.664111316204071
+430,There is no information in the given context about the Swiss viewing themselves as their own country.,1648,0.43102455139160156,1.1642892360687256,0.02792445197701454
+431,There is no mention of geothermal power or a West Quay plant providing hot water in the given context.,Southampton District Energy Scheme,0.3841691017150879,1.2032909393310547,0.32237738370895386
+432,The Crusades.,Crusades,0.5388717651367188,0.4610159397125244,0.9514925479888916
+433,1 day in 128 years.,1 day in 128 years,0.29086947441101074,0.5079672336578369,0.9802092909812927
+434,"The Mayflower Theatre, with a capacity of 2,300.",Mayflower Theatre,0.32603907585144043,0.9606266021728516,0.8040758371353149
+435,59%,59,0.2772996425628662,0.4119999408721924,0.6618633270263672
+436,1996.,1996,0.5343477725982666,0.46597743034362793,0.9552468657493591
+437,Evie Hone.,Evie Hone,0.7005383968353271,0.5136218070983887,0.9772741794586182
+438,The Berlin International Film Festival is held yearly since 1951.,yearly,0.6209943294525146,0.9153311252593994,0.33073899149894714
+439,The Napoleonic Wars.,Napoleonic Wars,0.5036301612854004,0.5606074333190918,0.9524319171905518
+440,"Yes, English is the de facto official language, but Spanish is widely spoken and used in government, particularly in counties bordering Mexico.",", the continual influx of Spanish-speaking immigrants increased the import of Spanish in Texas.",0.32483911514282227,1.4968202114105225,0.40775954723358154
+441,2010.,2010,0.24311280250549316,0.46271514892578125,0.9565384387969971
+442,Members of the teaching staff.,Members of the teaching staff,2.597799301147461,0.5630166530609131,0.9882384538650513
+443,There is no mention of a record high temperature for June in the provided context.,1976,0.2903149127960205,1.0653424263000488,0.1872435212135315
+444,There is no mention of Calvin Veltman in the given context.,the most complete study of English language adoption by Hispanophone immigrants,0.3125009536743164,0.9659976959228516,-0.03262997046113014
+445,"A ""Show Up"".","the ""Bill""",0.2918879985809326,0.5128395557403564,0.24901185929775238
+446,Hampshire County Council.,Hampshire County Council,0.33426809310913086,0.4619605541229248,0.9761727452278137
+447,"£22,267.","£22,267",0.4621279239654541,0.513251781463623,0.9782264232635498
+448,Events are usually shown as they appeared on the Julian calendar as OS (Old Style).,prior to 15 October 1582,0.44005584716796875,0.9588987827301025,0.2903769314289093
+449,The Julian calendar.,Julian,0.25898051261901855,0.4602534770965576,0.5512369275093079
+450,Every 400 years.,every 400 years,0.586012601852417,0.5110862255096436,0.9837743639945984
+451,Germans of German ancestry.,Restdeutsche,0.29377079010009766,0.510608434677124,0.21600908041000366
+452,Electrical engineering.,electrical,0.3326699733734131,0.4108316898345947,0.7357303500175476
+453,Classical Greek.,Classical Greek,0.2866077423095703,0.4132876396179199,0.9724469184875488
+454,I don't have information on the number of local authorities in England.,354,0.490123987197876,0.9625194072723389,0.09590908139944077
+455,The special education program was ranked second in the nation.,special education,0.7066302299499512,0.8124914169311523,0.6544084548950195
+456,"Godolphin House and Jourdelay's, both built around 1720.","Godolphin House, Jourdelay's",0.30351758003234863,1.1108322143554688,0.7576503157615662
+457,They noticed discrepancies in the time of the vernal equinox and the length of the mean tropical year.,discrepancies,3.841832160949707,1.3140685558319092,0.4182828366756439
+458,King John.,King John,0.23527288436889648,0.41058850288391113,0.9794596433639526
+459,The text does not mention the Norman Conquest.,1066,0.3539748191833496,0.762080192565918,0.18715409934520721
+460,"10 minutes 48 seconds per year, or 0.0024% of the calendar year.",0.002%,6.462080717086792,1.3168561458587646,0.3147285580635071
+461,Augustus.,Augustus,0.4139220714569092,0.4117159843444824,0.9775546193122864
+462,The Crusades.,World War II,0.27971458435058594,0.46194982528686523,0.35424864292144775
+463,Germans.,ethnic Germans,0.25967955589294434,0.3594777584075928,0.7924081087112427
+464,KJHK.,KUJH-LP,3.3956077098846436,0.31160998344421387,0.5947127342224121
+465,"""Crimson and the Blue"" and ""Red and Blue"".","""Crimson and the Blue"", ""Red and Blue""",0.5529274940490723,0.9622402191162109,0.9622876644134521
+466,There is no mention of the Urban Wildlife Centre in the text.,Southampton Zoo,0.28364133834838867,0.9115734100341797,0.2061821073293686
+467,The College Archives.,College Archives,0.46616101264953613,0.4638497829437256,0.9563797116279602
+468,Wilhelm Conrad Röntgen.,Wilhelm Conrad Röntgen,0.4918947219848633,0.5913522243499756,0.9779690504074097
+469,The text does not mention when Texas became a state.,"In 1846, the Republic dissolved when Texas entered the United States of America as a state.",0.25120115280151367,0.6967864036560059,0.573189377784729
+470,Azura.,Ventura,0.2992706298828125,0.4153017997741699,0.3513919711112976
+471,National universities.,national universities,0.3785552978515625,0.40927934646606445,0.9631260633468628
+472,There is no mention of the SADP in the provided context.,2009,0.2644801139831543,0.9629509449005127,0.04954145848751068
+473,There is no mention of block-making in the provided context.,Walter Taylor,0.4048752784729004,0.864811897277832,-0.0531252846121788
+474,Southampton Hockey Club.,Southampton Hockey Club,0.3908102512359619,0.46173572540283203,0.9800198078155518
+475,The Art Vaults project.,Art Vaults,0.271878719329834,0.509558916091919,0.9271302819252014
+476,Eduard Lasker was a German politician.,a prominent German nationalist figure who promoted the unification of Germany in the mid-19th century,0.27362680435180664,0.5724899768829346,0.4994909465312958
+477,£30 million.,£30 million,0.31434082984924316,0.4614589214324951,0.969928503036499
+478,2014.,2014,0.4028928279876709,0.4592561721801758,0.9431241750717163
+479,About 50 boys.,fifty,0.43739748001098633,0.5126297473907471,0.4611245393753052
+480,Approximately 1500 students.,1500,0.8430955410003662,0.5604362487792969,0.4762696921825409
+481,The State of the Union Addresses.,The State of the Union Addresses and other presidential speeches are translated to Spanish,0.25411152839660645,0.49812889099121094,0.5916507840156555
+482,The question is not present in the given context.,Southampton Plot,0.31615734100341797,0.736318826675415,0.04850044101476669
+483,1563.,1563,1.5288341045379639,0.46399712562561035,0.9740923643112183
+484,"1821, after Mexico's War of Independence from Spain.",After the Mexican War of Independence from Spain,0.2586994171142578,0.9162178039550781,0.827423095703125
+485,I couldn't find any information about the number of fire stations in Southampton.,three,0.3125290870666504,1.0106725692749023,0.15223538875579834
+486,Mansbridge.,Mansbridge,0.29555678367614746,0.4096858501434326,0.9813340306282043
+487,The Eastern Docks.,Eastern Docks,0.2821786403656006,0.5126020908355713,0.9430781006813049
+488,They were expelled from Germany during the Crusades.,allied-occupied Germany,0.5448465347290039,0.7651655673980713,0.46277153491973877
+489,"German is related to English and Dutch, and shares similarities with North Germanic and Scandinavian languages.",English and Dutch,0.2588489055633545,1.2196173667907715,0.539167046546936
+490,Southampton South.,west,0.27169299125671387,0.4119529724121094,0.49374476075172424
+491,1917.,1 March 1917,0.3407316207885742,0.46175432205200195,0.7688758373260498
+492,There is no mention of a magazine published at KU in the given context.,Jayplay magazine,0.9472711086273193,0.9108531475067139,0.3780941963195801
+493,Two consecutive years.,two consecutive years,0.36727404594421387,0.46382594108581543,0.9691290855407715
+494,Cunard.,Carnival Corporation & plc,0.5678861141204834,0.4600353240966797,0.19731952250003815
+495,There is no mention of St. Augustine's founding in the provided text.,"the Spaniards, by way of Juan Ponce de León, founded St. Augustine, Florida",0.27344465255737305,1.0136182308197021,0.5167481899261475
+496,2007.,2007,0.3050353527069092,0.4631378650665283,0.9553945660591125
+497,"120,305.","120,305",0.5411190986633301,0.5144784450531006,0.9824740290641785
+498,Trojans RFC.,Trojans RFC,0.2693190574645996,0.5134711265563965,0.9719470739364624
+499,"When the damage to the heart limits the output of the left ventricle, causing left ventricular failure and pulmonary edema.",heart limits the output of the left ventricle,0.42079830169677734,1.5336897373199463,0.7203131914138794
