@@ -1,0 +1,41 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Vietnam.,American,0.0009310245513916016,1.6720705032348633,0.380405992269516
+1,Georgia Power.,Georgia Power,0.0009729862213134766,0.44176602363586426,0.9767221212387085
+2,Hakuna Matoma,Hakuna Matoma,0.0008606910705566406,0.4368460178375244,1.0
+3,Roman Polanski.,Roman Polanski,0.000865936279296875,0.528050422668457,0.978569507598877
+4,Ken Russell.,"Henry Kenneth Alfred ""Ken"" Russell",0.0008435249328613281,0.4048905372619629,0.7148195505142212
+5,"600,000.","more than 500,000",0.0008723735809326172,0.5110032558441162,0.7770989537239075
+6,2014,2014,0.0008764266967773438,0.40622472763061523,1.0
+7,"John Gerard's ""Herball, or Generall Historie of Plantes"" was the most widely circulated botany book in English in the 17th century.",John Gerard,0.0008428096771240234,1.5301177501678467,0.3896622657775879
+8,Berry College.,Berry College,0.0010020732879638672,0.4626915454864502,0.97838294506073
+9,"Jason Miller has fought in the UFC, Strikeforce, WFA, WEC, and DREAM, while Tim Kennedy has fought in the UFC, Strikeforce, WEC, ShoMMA, HDNet Fights, and IFL.",Tim Kennedy,0.0008394718170166016,2.1052207946777344,0.4530159831047058
+10,The director of the film is not mentioned in the given context.,Wilson Yip,0.0009000301361083984,0.8232419490814209,0.13003703951835632
+11,"U.S. attorney in the Southern District of Texas, until he was tapped as Chief of Police by Mayor Bob Lanier until leaving under the Lee Brown administration.
+
+Vappala Balachandran: 
+Vappala Balachandran is an Indian national security intelligence specialist and a former Indian police officer who served 17 years in the state of Maharashtra, India and 19 years in foreign intelligence service. He retired as Special Secretary, Cabinet Secretariat, Government of India in 1995 and is based in Mumbai.
+
+Frank Warnke: 
+Frank J. Warnke (May 18, 1933 September 23, 2011) was an American politician of the Democratic Party. A Native American, Warnke served 12 years in the Washington House of Representatives in Washington's 30th legislative district and 8 years in the Washington State Senate in Washington's 31st legislative district. He helped create the Public School Employees of Washington (PSE), a union for school district employees, and served 17 years as the organization's executive director.
+
+Flower Mocher: 
+General Flower Mocher (c. 1729 – 18 July 1801), was a British army officer who served 50 years in the cavalry. He initially obtained a commission with Hawley's Dragoons then, following 12 years service with the Horse Grenadier Guards, he served 17 years with the Dragoon Guards as their Lieutenant Colonel and Colonel. Two years before his appointment as a general officer he was made Colonel of the 9th Regiment of Dragoons in Ireland. After some years service as deputy to the commander-in-chief Ireland he retired in 1794 shortly before his appointment to the rank of full General.
+
+Michael Alig: 
+Michael Alig (born April 29, 1966) is an American former club promoter, musician, and writer who served almost 17 years in prison for manslaughter. Alig was a founder and ringleader of the Club Kids, a group of young New York City clubgoers that became a cultural phenomenon during the late 1980s and early 1990s.
+---------------------
+James about his life as a Manhattan celebutante and club kid. The book specifically chronicles his friend Michael Alig's rise to fame, and Alig and his roommate's subsequent murder of fellow club kid and drug dealer Andre ""Angel"" Melendez. St. James was Alig's mentor, rival, and collaborator in the Manhattan party scene, and was familiar with many of its key figures. The memoir was later retitled ""Party Monster"", after the 2003 motion picture of that name starring Macaulay Culkin, Seth Green, Chloë Sevigny, and Marilyn Manson.
+
+Jean-Jacques Eydelie: 
+Jean-Jacques Eydelie (born 3 February 1966 in Angoulême, Charente) is a French former footballer most noted for his role in the Marseille match-fixing scandal of 1993. A midfielder, Eydelie began his career with Nantes, before joining Marseille in 1992. His first season at Marseille was a success, with the club finishing top of the league, and winning the Champions League, but shortly after the Champions League final, it was revealed that he had contacted three players at Ligue 1 club Valenciennes (Jorge Burruchaga, Christophe Robert and Jacques Glassman) on behalf of the Marseille board, in order to offer bribes. Marseille needed to beat Valenciennes to secure the championship, and had induced the Valenciennes players to ""go easy"" in order that the Marseille players would not be overly exerted before the Champions League final. It was Glassman who reported the bribe, which resulted in Marseille being stripped of the 1993 French title, banned from defending the Champions League (although the win still stood), and relegated to Ligue 2. Eydelie was banned for a year by FIFA, given a one-year suspended sentence, and served 17 days in prison. Members of the Marseille board were given longer prison sentences, and Valenciennes players Burruchaga and Robert received FIFA bans for their involvement. Upon his return to football, Eydelie had a nomadic career, he trained for a few months at Benfica, played in England, Switzerland and back in France before retiring in 2003. From 2006 to 2007 he was the manager of amateur club Limoges Foot 87.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Who wrote the memoir about a friend who was a club promoter, musician, writer and served 17 years in prison for manslaughter?
+        
+        assistant
+         James St. James.",James St. James,0.0008933544158935547,0.5321645736694336,0.06286750733852386
+12,Sigmund Jähn.,Sigmund Werner Paul Jähn,0.0008301734924316406,0.5571846961975098,0.7781449556350708
+13,1958,1958,0.0008640289306640625,0.43541526794433594,1.0000001192092896
+14,New York City.,New York City,0.000827789306640625,0.4012765884399414,0.9656890034675598
+15,"No, they are not. Androlepis is in the family Bromeliaceae, while Corymbia is in the family Myrtaceae.",no,0.0008296966552734375,1.3888585567474365,0.08687570691108704

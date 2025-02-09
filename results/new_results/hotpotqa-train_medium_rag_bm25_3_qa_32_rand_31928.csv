@@ -1,0 +1,51 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Charlie.,Charlie,0.0010395050048828125,2.0031676292419434,0.9550973773002625
+1,Literature.,Literature,0.0009796619415283203,0.39352941513061523,0.9116609692573547
+2,Netherlands,Netherlands,0.0009164810180664062,0.29607129096984863,1.0
+3,Gioachino Rossini wrote 39 operas.,39,0.0008685588836669922,0.7357957363128662,0.19361472129821777
+4,Mauser (German),German,0.0008795261383056641,0.5231504440307617,0.492179811000824
+5,MIT Sloan School of Management.,"Cambridge, Massachusetts",0.0009195804595947266,0.579136848449707,0.4037342369556427
+6,"coach. The club has taken park in many tournaments and state final matches in Georgia and the Southeast United States. A major goal of the Trojans Rugby Football Club is to teach and play the sport of rugby in the United States. This is a great struggle throughout Georgia because of opposition from the high school's football coaches and athletic directors. The club plays the most common version of rugby, called rugby union but often just referred to as rugby. Although the club plays by rugby union rules, they also play by the rules of the International Rugby Board (IRB) for those under 19 years of age. In the summer of 2011, the Trojan Rugby Football Club took part in another version of rugby called rugby sevens. This variation of rugby is faster paced, with the same size fields but fewer people, and shorter half lengths.
+
+Odds BK: 
+Odds Ballklubb, commonly known as Odd, is a Norwegian football club from Skien. Originally the football section of a multi-sports club, founded in 1894 nine years after the club's founding. All other sports than football were discontinued and the club became dedicated to football only.
+---------------------
+This is a great struggle throughout Georgia because of opposition from the high school's football coaches and athletic directors. The club plays the most common version of rugby, called rugby union but often just referred to as rugby. Although the club plays by rugby union rules, they also play by the rules of the International Rugby Board (IRB) for those under 19 years of age. In the summer of 2011, the Trojan Rugby Football Club took part in another version of rugby called rugby sevens. This variation of rugby is faster paced, with the same size fields but fewer people, and shorter half lengths.
+
+Odds BK: 
+Odds Ballklubb, commonly known as Odd, is a Norwegian football club from Skien. Originally the football section of a multi-sports club, founded in 1894 nine years after the club's founding. All other sports than football were discontinued and the club became dedicated to football only. Odd plays in the Norwegian top division, Tippeligaen, and holds the record winning the Norwegian Football Cup the most times, the last coming in 2000. The club was known as Odd Grenland between 1994 and 2012. Founded in 1894, Odd is the oldest football club in Norway. As of May 13, 2017 the club was granted a membership in Club of Pioneers. It then became the first nordic football club to be granted this membership.
+
+FC Augsburg: 
+Fußball-Club Augsburg 1907 e. V., commonly known as FC Augsburg (] ) or Augsburg, is a German football club based in Augsburg, Bavaria. FC Augsburg play in the Bundesliga, the top tier of the German football league system. The team was founded as Fußball-Klub Alemania Augsburg in 1907 and played as BC Augsburg from 1921 to 1969. With over 12,200 members, it is the largest football club in Swabian Bavaria.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Christoph Janker plays for a football club that was founded in which year?
+        
+        assistant
+         1907",1907,0.0008428096771240234,0.4399564266204834,0.05649250000715256
+7,Fatsia has more species.,Fatsia,0.0008656978607177734,0.5925991535186768,0.7185660600662231
+8,Goalkeeper.,Goalkeeper,0.0008573532104492188,0.4624965190887451,0.9592459201812744
+9,United States.,United States,0.0009298324584960938,0.46651148796081543,0.9286460876464844
+10,George Schnell.,George Schnell,0.0010039806365966797,0.5092675685882568,0.9850906133651733
+11,Rosalind.,Rosalind,0.000888824462890625,0.454479455947876,0.9784196019172668
+12,Mothercare.,Mothercare,0.0008924007415771484,0.4451937675476074,0.967211127281189
+13,"Jennifer Tilly was nominated for an Academy Award for her role as Olive Neal in the film ""Bullets over Broadway"" (1994).",Olive Neal,0.0009088516235351562,1.3855628967285156,0.4536236822605133
+14,American.,American,0.0008504390716552734,0.3756139278411865,0.9135115146636963
+15,"Georgy Voronoy was born first, in 1868.",Georgy Feodosevich Voronoy,0.0008559226989746094,0.853600263595581,0.6389026641845703
+16,The Guinness Book of World Records.,Guinness Book of World Records,0.0009381771087646484,0.599139928817749,0.9661760926246643
+17,The Legend of Korra.,"""The Legend of Korra""",0.0008676052093505859,0.5796303749084473,0.9431094527244568
+18,A. R. Rahman.,A. R. Rahman,0.0009174346923828125,0.5607583522796631,0.9925702214241028
+19,George Harrison,Paul McCartney,0.0008885860443115234,0.40310144424438477,0.6091645359992981
+20,New York City.,New York,0.000942230224609375,0.4806487560272217,0.9219122529029846
+21,The University of Iowa.,University of Iowa,0.0009338855743408203,0.5413391590118408,0.9659820199012756
+22,Hiroshi Mikitani.,Hiroshi Mikitani,0.0009479522705078125,0.5794529914855957,0.9851273894309998
+23,David Attwood's birthday (August 28th) falls closer to the beginning of the calendar year than Frank Borzage's birthday (April 23rd).,Frank Borzage,0.0008764266967773438,1.5356886386871338,0.47417178750038147
+24,David Walsh.,David Walsh,0.0009622573852539062,0.44299817085266113,0.9787070751190186
+25,"Unfortunately, the information about the artist's birth year is not provided in the given context.",1945,0.0008816719055175781,1.0430915355682373,0.27454283833503723
+26,The Cosmopolitan of Las Vegas.,Cosmopolitan of Las Vegas,0.0009737014770507812,0.5986208915710449,0.9510511159896851
+27,Cannes Film Festival.,Cannes Film Festival,0.0008955001831054688,0.45497822761535645,0.9758018851280212
+28,Michael Fassbender.,Michael Fassbender,0.0009493827819824219,0.5813889503479004,0.9846913814544678
+29,"Fairbanks International Airport is farther north, not south.",Palm Beach International Airport,0.0008668899536132812,0.7407829761505127,0.3581618368625641
+30,"A Rocket to the Moon was formed in 2006, while Superheaven was formed in 2008.",A Rocket to the Moon,0.0008854866027832031,1.205272912979126,0.5458753108978271
+31,Dick Dale.,Dick Dale,0.0009131431579589844,0.4466583728790283,0.966056227684021

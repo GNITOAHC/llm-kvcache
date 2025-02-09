@@ -1,0 +1,443 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time
+0, Whites and males.,whites and males,0.04731035232543945,4.991631269454956
+1, The academic computing department at the University of Kansas contributed to the development of the internet.,academic computing,0.061495065689086914,6.193079948425293
+2, The Princeton Review.,Princeton Review,0.053232431411743164,4.978075742721558
+3, Anthocyanins in purple grape skin.,anthocyanins,0.05733346939086914,5.4493207931518555
+4," ""Home on the Range""","""Kansas Song""",0.046260833740234375,5.165274381637573
+5, Office for Civil Rights,Office for Civil Rights,0.047627925872802734,4.991814613342285
+6, The state of race relations.,the state of race relations,0.05002713203430176,5.181064605712891
+7, Lyndon B. Johnson,Harold L. Ickes,0.06679511070251465,5.072009563446045
+8, Lower-class European Americans.,lower-class European Americans,0.048581838607788086,5.083231449127197
+9, Bill Self is the head coach of the KU men's basketball team.,Bill Self,0.06432652473449707,6.010112524032593
+10, The Education and Justice Departments.,Education and Justice Departments,0.05905961990356445,5.150091648101807
+11, Vitis vinifera,Vitis vinifera,0.044762372970581055,5.083879232406616
+12, Wilt Chamberlain,Wilt Chamberlain,0.045093536376953125,4.9808807373046875
+13," Alan Mulally, former President and CEO of Ford Motor Company.",Alan Mulally,0.05491065979003906,5.825433015823364
+14, Crimson and royal blue.,crimson and royal blue,0.05272364616394043,5.071043252944946
+15, June 1963,June 1963,0.0540461540222168,4.98294997215271
+16," The report ""To Secure These Rights"" stated that when an individual enters the armed services, they surrender some of their rights and privileges as an American citizen, but the government undertakes to protect their integrity as an individual.",surrenders some of the rights and privileges,0.0498654842376709,8.704941511154175
+17, Ricci v. DeStefano (2009),Richmond v. J.A. Croson Co.,0.04599642753601074,5.739026069641113
+18," New Haven, Connecticut.","New Haven, Connecticut",0.049237728118896484,5.07558012008667
+19, Red wine.,red wine,0.05158090591430664,4.88850998878479
+20, 1993,1993,0.052530765533447266,4.857576847076416
+21," Overland Park, Kansas.",Overland Park,0.050850629806518555,5.171253442764282
+22, Table grapes.,table grapes,0.07489418983459473,4.846498250961304
+23," Additional fees are charged at KU's specialized professional schools, including the schools of architecture, music, arts, business, education, engineering, journalism, law, pharmacy, and social welfare.",additional fees,0.04952383041381836,8.147982358932495
+24, Nike,Nike,0.05561947822570801,4.702469348907471
+25, Vitis vinifera,Vitis vinifera,0.04870414733886719,5.086056470870972
+26, Title VII of the Civil Rights Act aimed to end discrimination in all firms with 25 or more employees.,to end discrimination in all firms with 25 or more employees,0.05109405517578125,6.579960107803345
+27," Princeton Dean of Admissions Janet Rapelye stated that Li was not admitted because ""many others had far better qualifications.""",many others had far better qualifications,0.047975778579711914,6.8592493534088135
+28, Shelby Steele believes that the true concept of affirmative action is enforcing equal opportunity.,enforcing equal opportunity,0.047211647033691406,6.020962238311768
+29," The University of Kansas School of Engineering was ranked tied for 90th among national universities in the U.S. News & World Report's ""America’s Best Colleges"" 2016 issue, compared to other national universities.",national universities,0.05200338363647461,8.71011734008789
+30, The KU Endowment seeks to partner with donors.,donors,0.04495668411254883,5.63578987121582
+31, The Kansas Jayhawks.,Kansas Jayhawks,0.04526329040527344,5.042701482772827
+32, 131,131,0.04504823684692383,4.8056981563568115
+33, John F. Kennedy,John F. Kennedy,0.05682873725891113,4.986674070358276
+34, School segregation laws.,school segregation,0.05564260482788086,4.962851285934448
+35, The U.S. Equal Employment Opportunity Commission.,U.S. Equal Employment Opportunity Commission,0.051349639892578125,5.4563398361206055
+36, Create an environment in which there is a culture of respect for individual differences and the ability to draw in talent and ideas from all segments of the population.,draw in talent and ideas from all segments of the population,0.04583263397216797,7.404463291168213
+37, Five times.,five,0.05432271957397461,4.893758296966553
+38," Shiraz, a city in Persia (modern-day Iran).",Shiraz,0.04645228385925293,5.8197550773620605
+39, The main purpose of the Government Contract Committee was to conduct surveys of the racial composition of federal employees and tax-supported contractors and to impose contractors with the primary responsibility of desegregation within their own companies and corporations.,conducted surveys of the racial composition of federal employees and tax-supported contractors,0.04537820816040039,8.530144929885864
+40, Total phenolic content.,Total phenolic content,0.05713367462158203,5.071134328842163
+41," The plaintiffs claimed the university had a ""race-conscious policy"" that ""violated their civil and constitutional rights"".",race-conscious policy,0.05082106590270996,6.665822982788086
+42," Philip Anschutz, a businessman and oil company leader, is an alumnus of the University of Kansas.",Charles E. Spahr,0.054668426513671875,6.756723642349243
+43, UCLA,UCLA,0.04636812210083008,4.701754570007324
+44, Defense contractors.,Federal Government and on government contracts,0.04727888107299805,4.8991148471832275
+45, Harry S. Truman,Truman,0.05840325355529785,4.9923095703125
+46, Student programs.,Student Union Activities,0.045746803283691406,4.886202573776245
+47, Economics,economics,0.0589451789855957,4.698349714279175
+48, 1952,1952,0.05864906311035156,4.875503063201904
+49," The ""Philadelphia Order""",Philadelphia Order,0.05241894721984863,5.079935073852539
+50, Ward Connerly,Ward Connerly,0.06606936454772949,4.991518497467041
+51, Arthur Fletcher,Arthur Fletcher,0.05882120132446289,4.769865274429321
+52," Those who oppose affirmative action argue that the compensation argument is morally indefensible because if blacks were harmed for being black in the past, then preferential treatment for this same trait is illogical.",preferential treatment for this same trait is illogical,0.04838109016418457,8.139899253845215
+53, Nearly 8 million servicemen and women were educated under the provisions of the GI Bill after World War II.,Nearly 8 million,0.047666072845458984,6.668806791305542
+54, Caucasian students.,Caucasian students,0.07579731941223145,4.877788305282593
+55, The Fair Employment Practices Committee.,Fair Employment Practices Committee,0.05241966247558594,5.144977331161499
+56," ""The descendants""",the descendants,0.0459597110748291,4.9822916984558105
+57, Minority enrollment returned to pre-1996 levels.,returned minority enrollment to pre-1996 levels,0.055928945541381836,5.548497915267944
+58, Racial classifications.,racial,0.04584074020385742,4.955600738525391
+59, The University of Kansas.,Northwestern,0.04523110389709473,5.048891305923462
+60, American Association of University Professors,American Association of University Professors,0.05594444274902344,5.2460081577301025
+61, Ancient Egyptian hieroglyphics record the cultivation of purple grapes.,hieroglyphics,0.0514979362487793,5.840040922164917
+62, June 2016.,June 2016,0.10190701484680176,5.079192161560059
+63," 3,371 students","3,371",0.04758167266845703,5.0862627029418945
+64, Reservations.,reservations,0.04730081558227539,4.893160581588745
+65," Overland Park, Kansas.",Overland Park,0.05466628074645996,5.155595779418945
+66, Vice President Lyndon B. Johnson.,Vice President Johnson,0.050269126892089844,5.34758734703064
+67, Senate Minority Leader,Senate Minority Leader,0.053375244140625,4.892061948776245
+68," The main branch of the University of Kansas is located in Lawrence, Kansas, on Mount Oread, the highest location in Lawrence.",Lawrence,0.06425333023071289,7.0329976081848145
+69," The term ""affirmative action"" was chosen over ""positive action"" because of its alliterative quality.",alliterative quality,0.0499730110168457,6.76877498626709
+70, The main aim of Executive Order 11114 was to encourage the elimination of discrimination in employment by requiring federal funds recipients to comply with the government's policies on affirmative action.,elimination of discrimination in employment,0.04442572593688965,7.785807847976685
+71, They experienced prejudice and discrimination in the forms of not being able to become naturalized citizens and struggling with school segregation laws.,not having the ability to become naturalized citizens,0.04713630676269531,6.81895112991333
+72, Inclusion.,make special efforts at inclusion,0.048116445541381836,4.89958643913269
+73," They were required to take affirmative action to ensure that applicants were employed, and employees were treated during employment, without regard to their race, creed, color, or national origin.",comply to the government's policies on affirmative action,0.059230804443359375,7.867427825927734
+74," Latinos are the least well-educated major ethnic group in the US, with a 3% drop in high school completion rate between 1975-1990.",least well educated,0.05711030960083008,7.590494155883789
+75," According to the text, a racial classification could only be upheld if it was necessary to promote a compelling governmental interest.",necessary to promote a compelling governmental interest,0.08541297912597656,6.748619556427002
+76," Kansas City, Kansas.",Kansas City,0.049924612045288086,5.077634572982788
+77, The two tracts of study offered at KU's School of Journalism and Mass Communications are: 1) News and Information and 2) Strategic Communication.,News and Information and Strategic Communication,0.04854440689086914,7.590196371078491
+78," The University of Kansas School of Architecture, Design, and Planning (SADP)","The University of Kansas School of Architecture, Design, and Planning",0.06478071212768555,6.193147897720337
+79, 5,five,0.06456375122070312,4.7724082469940186
+80, Harvard University and the University of North Carolina at Chapel Hill had lawsuits filed against them.,University of Texas,0.05582141876220703,6.18493390083313
+81, Faculty members believed that diversity helps students to reach the essential goals of a college education.,helps students to reach the essential goals of a college education,0.045462608337402344,6.200038194656372
+82, U.S. Senator Robert F. Wagner of New York.,Senator Robert F. Wagner,0.049622297286987305,5.734848976135254
+83, 62,62,0.061228036880493164,4.793803453445435
+84, 1924,1924,0.046872615814208984,4.89471960067749
+85, 5 executive orders were issued to help prevent discrimination.,two,0.0473628044128418,5.641334772109985
+86, Minorities.,racial minorities,0.06293988227844238,4.888938665390015
+87, KANU,KANU,0.05441570281982422,4.890082359313965
+88, The African American Policy Forum.,African American Policy Forum,0.04538846015930176,5.156720399856567
+89, Proposition 209.,Proposition 209,0.06125020980834961,4.986835241317749
+90, Resveratrol.,resveratrol,0.04552292823791504,5.080531120300293
+91, The two parts of the University of Kansas house in the College of Liberal Arts and Sciences are the School of the Arts and the School of Public Affairs & Administration.,the School of the Arts and the School of Public Affairs & Administration,0.04413580894470215,7.59605860710144
+92, The Project on Fair Representation.,Project on Fair Representation,0.04479646682739258,5.1751933097839355
+93, Vitis vinifera,Vitis vinifera,0.06548762321472168,5.042080640792847
+94, The University Daily Kansan is available in print and online.,print and online,0.0442051887512207,5.811671257019043
+95, Legacy admissions.,legacy admissions,0.05905938148498535,4.893478631973267
+96, 1976,1976,0.050940752029418945,4.893808364868164
+97, Education.,education,0.053665876388549805,4.798297643661499
+98," Set ""goals"" and ""timetables"" for diversity.","""goals"" and ""timetables"" for diversity could be set",0.04822683334350586,5.825910568237305
+99, Affirmative action advancements slowed down after the Nixon administration.,became less prevalent,0.04583740234375,5.730257034301758
+100," Amos Adams Lawrence provided $10,000 of the necessary endowment fund.",Amos Adams Lawrence,0.05069875717163086,6.098742961883545
+101, The Kansas State Legislature authorized the opening of the University of Kansas.,the Kansas State Legislature,0.04528951644897461,5.793889284133911
+102, 70 times,70,0.0500340461730957,4.886346340179443
+103," 26,968 students.","26,968",0.052047014236450195,5.174782037734985
+104, Deuteronomy,Deuteronomy,0.04442405700683594,4.893524169921875
+105, Adult learners can obtain college degrees through the Edwards Campus of the University of Kansas.,college degrees,0.047571659088134766,6.103874683380127
+106, The Work Group for Community Health and Development.,the Work Group for Community Health and Development,0.04969000816345215,5.449443578720093
+107, Richard Sander.,Richard Sander,0.050603389739990234,4.987505674362183
+108, Matthew Porubsky,Matthew Porubsky,0.04981279373168945,4.9960854053497314
+109," Abigail Fisher and Jian Li, and a coalition of more than 60 Asian-American organizations.",Students for Fair Admissions,0.05509829521179199,6.35366678237915
+110, Flavan-3-ols (i.e. catechins),flavan-3-ols,0.06542468070983887,5.893383264541626
+111, Nearly two and a half years.,two and a half years,0.049036264419555664,5.267277240753174
+112," The study by the American Association of University Professors (AAUP) in 2000 found that affirmative action promoted diversity within colleges and universities, leading to positive effects on educational outcomes and experiences of college students, as well as the teaching of faculty members.",positive effects on the educational outcomes and experiences of college students,0.05508708953857422,9.471017360687256
+113, humiliating badge of inferiority.,a humiliating badge of inferiority,0.04752659797668457,5.178380012512207
+114, Minorities.,minorities,0.05814099311828613,4.889634132385254
+115, The Sergeant Isaac Woodard incident.,Sergeant Isaac Woodard incident,0.051351070404052734,5.266586542129517
+116, $785,$828,0.050925493240356445,4.786734342575073
+117, The prestigious William Randolph Hearst Writing Foundation competition.,Intercollegiate Writing Competition,0.04474067687988281,5.5458245277404785
+118," Brian McClendon, VP of Engineering at Google, studied at the University of Kansas.",Brian McClendon,0.04429030418395996,6.195411205291748
+119, Mount Oread.,Mount Oread,0.0456697940826416,4.961121320724487
+120," Herbert Hill, the NAACP labor secretary, filed complaints against the hiring and promoting practices of Lockheed Aircraft Corporation.",NAACP labor secretary Herbert Hill,0.05108833312988281,6.668347597122192
+121, A path to a Navy commission.,a path to a Navy commission,0.0446324348449707,5.265118360519409
+122, relatively cold climates of northeastern United States and southern Ontario.,cold,0.044356346130371094,5.629934549331665
+123," Three times: 1948, 1968, and 2008.",three,0.05051398277282715,6.099088430404663
+124," 10,000 people.","10,000",0.04702591896057129,5.169432640075684
+125, Grutter v. Bollinger,Bakke v. Regents,0.060791730880737305,5.260550022125244
+126, The Community Tool Box.,The Community Tool Box,0.04953265190124512,5.075978517532349
+127," One of the issues with affirmative action is that it can be seen as reverse discrimination, where members of the majority group are discriminated against in favor of historically disadvantaged groups.",inherently unequal,0.06399750709533691,7.760314464569092
+128, U.S. News & World Report,U.S. News & World Report,0.055452585220336914,5.264416456222534
+129," Lyndon B. Johnson's ""Freedom is not Enough"" speech.","President Lyndon B. Johnson's ""Freedom is not Enough""",0.056345224380493164,5.917773723602295
+130," Hispanic students, Native Americans, and white students.",white,0.04689431190490723,5.551692247390747
+131, Wichita and Salina.,Wichita and Salina,0.06841230392456055,5.0890233516693115
+132, People of color.,people of color,0.051358938217163086,4.95762300491333
+133, The GI Bill after World War II.,end of World War II,0.04521584510803223,5.366394996643066
+134, 1965,1965,0.05116105079650879,4.886526823043823
+135, They pointed out that only about a third of black Harvard undergraduates were from families in which all four grandparents were born into the African American community.,an unintended effect of affirmative action policies at Harvard,0.05163884162902832,7.3111231327056885
+136, To take advantage of group preference policies and gain benefits from affirmative action.,to take advantage of group preference policies,0.04990053176879883,5.918734312057495
+137," Public universities are not allowed to set specific numerical targets based on race for admissions or employment, according to the Supreme Court's ruling in Bakke v. Regents (1978).",set specific numerical targets based on race for admissions or employment,0.050427913665771484,7.829294919967651
+138, KU,KU,0.04878711700439453,4.795896530151367
+139, Class rank.,gender quotas,0.054399728775024414,4.898919343948364
+140, The risk of heart disease.,death,0.04675030708312988,5.182206630706787
+141, The KU School of Business has more than 80 faculty members.,more than 80,0.051297903060913086,5.914959192276001
+142, A public business school.,public,0.04666471481323242,5.081669330596924
+143, Green Hall at W 15th St and Burdick Dr.,Green Hall,0.06488943099975586,5.915625810623169
+144, Transubstantiation.,transubstantiation,0.0456545352935791,5.0747058391571045
+145, 15 to 300,15 to 300,0.048464298248291016,5.0563414096832275
+146, Armenia.,Armenia,0.06350040435791016,4.777044296264648
+147, Gratz v. Bollinger.,Gratz v. Bollinger,0.058170318603515625,5.367117404937744
+148, City University of New York.,City University of New York,0.04761695861816406,5.167616844177246
+149, 11th,11th,0.05031275749206543,4.897274494171143
+150," $15,000","$15,000",0.0516664981842041,4.988101005554199
+151, The Equal Protection Clause of the 14th Amendment.,Equal Protection Clause of the 14th Amendment,0.047650814056396484,5.643626689910889
+152, Mediocrity and incompetence.,mediocrity and incompetence,0.06018686294555664,5.171635627746582
+153, 2007,2007,0.04882192611694336,4.8883562088012695
+154, 52%,14,0.047612667083740234,4.888190269470215
+155, KUpedia,KUpedia,0.05273079872131348,4.890315532684326
+156, Abigail Fisher's civil and constitutional rights.,their civil and constitutional rights,0.06312870979309082,5.455024480819702
+157, KJHK,KJHK,0.04546499252319336,4.892620086669922
+158," 26,968 students attended the University of Kansas at its Edwards and Lawrence locations in the fall semester of 2014.","23,597",0.04836297035217285,6.941792249679565
+159, More than 60,more than 60,0.06419706344604492,4.987847328186035
+160, DesignIntelligence,DesignIntelligence,0.049317121505737305,4.900662660598755
+161, Decision science applications supporting NASA Project Apollo Command Capsule Recovery Operations.,decision science,0.045175790786743164,5.81161904335022
+162, 17,17,0.0449976921081543,4.7971837520599365
+163, 24%,approximately 24%,0.09902453422546387,4.928570985794067
+164, Rim Rock Farm.,Rim Rock Farm,0.0534663200378418,4.960850715637207
+165," Opponents claim that affirmative action has undesirable side effects, such as hindering reconciliation, replacing old wrongs with new wrongs, undermining the achievements of minorities, and encouraging groups to identify themselves as disadvantaged, even if they are not.",undesirable side-effects,0.05662107467651367,8.990710496902466
+166, Canon 924.,Canon 924,0.04551839828491211,4.989362955093384
+167, The School of Architecture and Urban Design at the University of Kansas was named the best in the Midwest and ranked 11th among all undergraduate architecture programs in the U.S in 2012.,best in the Midwest,0.05214881896972656,8.14411211013794
+168, They claimed that affirmative action policies had created the African American middle class and opened doors for historically excluded groups in workplace settings and higher education.,help to open doors for historically excluded groups in workplace settings and higher education,0.04604673385620117,7.135456562042236
+169," The argument is that if blacks were harmed for being black in the past, then preferential treatment for this same trait is illogical.",whites today who innocently benefited from past injustices should not be punished for something they had no control over,0.06628298759460449,7.13569188117981
+170, The KU School of Journalism and Mass Communications was ranked second in the nation in the 2010 Hearst Foundation national writing competition.,special education,0.044715166091918945,7.128586769104004
+171, California and Washington.,California,0.04593014717102051,4.985170125961304
+172, Five times.,five,0.1000375747680664,4.89371395111084
+173, The Federal government.,federal,0.04876422882080078,4.98918890953064
+174, Genesis 9:20–21.,Genesis 9:20–21,0.05231904983520508,5.331607341766357
+175, Standard Oil of Ohio.,Standard Oil of Ohio,0.04934358596801758,5.0813515186309814
+176, 1926,1926,0.05494546890258789,4.857394218444824
+177, The Salina location of the University of Kansas Medical Center is focused on rural health care.,rural health care,0.0515751838684082,6.2962646484375
+178, Executive Order 8802.,Executive Order 8802,0.05138063430786133,5.164124250411987
+179, KUJH-LP,KUJH-LP,0.0738210678100586,5.173016786575317
+180, 90th among national universities.,90th,0.0494542121887207,5.281520843505859
+181, Interdisciplinary management science graduate studies in operations research.,interdisciplinary management science graduate studies in operations research,0.0626375675201416,5.531654119491577
+182, The union was intended to serve as a campus community center.,campus community center,0.051039695739746094,5.695716857910156
+183, Memorial Stadium,Memorial Stadium,0.05135679244995117,4.800963401794434
+184, By increasing minority enrollment in high schools of those states.,increasing minority enrollment in high schools,0.05945158004760742,5.633748769760132
+185, Janet Rapelye,Janet Rapelye,0.04810762405395508,4.986451625823975
+186, Interior Secretary.,Interior Secretary,0.06018257141113281,4.892216205596924
+187, There are more than a dozen varieties of seedless grapes for commercial cultivators.,three,0.12464094161987305,6.102432727813721
+188, The diverse group of people who lived in North America before European settlement.,people who lived in North America before European settlement,0.06168651580810547,5.894712924957275
+189, The Ford administration.,Ford,0.07328939437866211,4.999211549758911
+190," The issue of affirmative action lost momentum due to the changing focus of society, with new issues emerging and affirmative action being seen as a glorified issue of the past.",there were other areas that needed focus,0.04731130599975586,7.689716815948486
+191," In the United States, racial preferences are highlighted the most in the context of college and university admissions, particularly in the debate over affirmative action policies.",admission to universities and other forms of higher education,0.05369210243225098,7.311827659606934
+192, 48 months.,48 months,0.06422662734985352,4.99179220199585
+193, Union members.,employees associated with unions,0.04832959175109863,4.866510629653931
+194, Class.,class,0.04651021957397461,4.80045485496521
+195, Executive Order 10925,Executive Order 10925,0.05748295783996582,5.083241939544678
+196," According to the text, affirmative action can be judged acceptable in terms of admissions if it does not discriminate against applicants based on hatred or contempt, and if it aligns with the mission of the university.",If diversity is a goal of the university and their racial preferences do not discriminate,0.05517268180847168,8.333961486816406
+197, More than a dozen.,more than a dozen,0.050217390060424805,5.080528497695923
+198, NASA,NASA,0.04475903511047363,4.70076584815979
+199, The Four-Year Tuition Compact.,Four-Year Tuition Compact,0.0462949275970459,5.273015260696411
+200, Christ's blood.,Christ,0.05116724967956543,4.986266613006592
+201," Lou Montulli, co-founder of Netscape and author of the Lynx web browser, was a student at KU.",Lou Montulli,0.04907560348510742,7.030472755432129
+202, 1952,1952,0.10882234573364258,4.8770997524261475
+203, Red wine.,red wine,0.04634451866149902,4.855610609054565
+204, Table grapes.,Table grape,0.04920363426208496,4.894593000411987
+205," The National Labor Relations Act, also known as the Wagner Act, of 1935.",National Labor Relations Act,0.050846099853515625,6.289081335067749
+206, The governing body of KU is the Board of Regents.,Board of Regents,0.05152320861816406,5.703084707260132
+207, Everett Dirksen,Everett Dirksen,0.04492974281311035,4.879083156585693
+208, Lockheed Aircraft Corporation,Lockheed Aircraft Corporation,0.06243443489074707,4.8960654735565186
+209, The Reconstruction Era (1865-1877),Reconstruction Era,0.04566621780395508,5.512188196182251
+210, General William Tecumseh Sherman.,General William Tecumseh Sherman,0.04604220390319824,5.353021860122681
+211, Class-based affirmative action.,class-based affirmative action,0.04508781433105469,5.072309732437134
+212, President John F. Kennedy.,President John F. Kennedy,0.05503678321838379,5.176100730895996
+213, Establishing the President's Committee on Equality of Treatment and Opportunity in the Armed Services.,Establishing the President's Committee on Equality of Treatment and Opportunity in the Armed Services,0.05100440979003906,6.198413133621216
+214, 8%,eight percent,0.04665970802307129,4.89077353477478
+215," The University of Kansas Medical Center features three schools: 
+1. The School of Medicine 
+2. The School of Nursing 
+3. The School of Health Professions.",its own programs of graduate study,0.04516029357910156,7.77554726600647
+216, 1947,1947,0.04488229751586914,4.892424583435059
+217, Vice President Lyndon B. Johnson was the chairman of the President's Committee on Equal Employment Opportunity (PCEEO).,Vice President Richard Nixon,0.049936771392822266,6.824044942855835
+218," 3,349 students.","3,349",0.05448484420776367,5.173116445541382
+219, An ellipsoid shape resembling a prolate spheroid.,prolate spheroid,0.044692039489746094,5.6977949142456055
+220," The benefits of affirmative action going to those who did not need it, mostly middle-class minorities.",how the benefits of affirmative action would go to those who did not need it,0.06255054473876953,6.379377841949463
+221, One.,one,0.04874849319458008,4.79723596572876
+222, The National Debate Tournament.,Copeland Award,0.08697152137756348,5.080593824386597
+223," They view affirmative action as an effort towards inclusion, overcoming prejudicial treatment, and promoting diversity and equality.",an effort towards inclusion rather than a discriminatory practice,0.04888510704040527,6.572482585906982
+224," ""Positive action""",positive action,0.04528665542602539,4.988821029663086
+225," ""Home on the Range""","""Home on the Range""",0.04477667808532715,5.17015266418457
+226, David Beaty,David Beaty,0.045502424240112305,4.89080023765564
+227, Proceeds from donations go back to support student programs.,philanthropic support,0.0450131893157959,5.594197511672974
+228, Merit.,achievement,0.059394121170043945,4.891793966293335
+229, Vice President Lyndon B. Johnson.,Vice President Johnson,0.052211761474609375,5.364175319671631
+230, KJHK and KANU.,"KJHK, 90.7 FM, and KANU, 91.5 FM",0.06226778030395508,5.364194869995117
+231, The African American middle class.,African American middle class,0.09020590782165527,5.187243938446045
+232, Four times as likely to fail.,four times,0.04573345184326172,5.280048608779907
+233, 40 acres (16 ha),forty acres,0.07558560371398926,5.26882529258728
+234, Title VII of the Civil Rights Act.,Title VII,0.052655696868896484,5.356463193893433
+235, They felt frustrated and unfairly victimized by affirmative action.,reverse discrimination,0.050900936126708984,5.642063140869141
+236, The Immigration Act of 1924.,Immigration Act of 1924,0.06635856628417969,5.348611116409302
+237, The Government Contract Committee.,Government Contract Committee,0.04525470733642578,5.05565881729126
+238, The University of Kansas School of Business offers undergraduate and graduate programs in business and accounting.,business and accounting,0.047989606857299805,6.2007246017456055
+239," 2,663","2,663",0.06892895698547363,4.985205411911011
+240," The Community Tool Box is a free online resource that can benefit various groups around the world, including professionals and grassroots groups engaged in community health and development, particularly those from historically excluded groups such as racial minorities, women, and low-income communities.",professionals and grassroots groups engaged in the work of community health and development,0.045578718185424805,9.08898663520813
+241, He was waitlisted.,placement on the waitlist,0.11579775810241699,5.090014696121216
+242, 2009,2009,0.04487752914428711,4.887643575668335
+243, Emporia.,Emporia,0.04887652397155762,4.889704704284668
+244, The African American Policy Forum (AAPF) believes that the goal of affirmative action should be to address race-based obstacles that block the path to success of countless people of color of all classes.,to address race-based obstacles that block the path to success,0.05017209053039551,8.13674259185791
+245," Eastland believes that the founders of affirmative action did not anticipate how the benefits of affirmative action would go to those who did not need it, mostly middle-class minorities.",remedying past discrimination,0.044583797454833984,7.6793317794799805
+246, Loans at the same rate as whites.,loans at the same rate as whites,0.04904818534851074,5.328850984573364
+247, Executive Order 10925,Executive Order 10925,0.06053948402404785,5.06188440322876
+248, Executive Order 10925,Executive Order 10925,0.04799628257751465,5.087202310562134
+249, U.S. News & World Report,U.S. News & World Report,0.05399298667907715,5.230182886123657
+250," During the U.S. government's westward expansion, Native Americans were displaced from their land, which had been their home for centuries, and were forced onto reservations, which were far smaller and less productive.",During the U.S. government's westward expansion,0.04489016532897949,8.403199195861816
+251, The reasons for the underrepresentation of historic African Americans at Harvard University.,possible remedies,0.055231332778930664,5.9202587604522705
+252," ""Best Graduate Schools"" edition.",Best Graduate Schools,0.04923605918884277,5.255513906478882
+253," Admission should represent a way to advance the mission of the university, not a reward for superior merit.",a way to advance the mission as each university defines it,0.08378815650939941,6.473569631576538
+254, Animal fat.,animal fat,0.048754215240478516,4.88689923286438
+255, Approximately 1500 students attend the KU School of Business.,1500,0.05683493614196777,5.815057277679443
+256," The University of Kansas School of Business is located on the main campus of the University of Kansas in Lawrence, Kansas.",Lawrence,0.06950759887695312,6.742488622665405
+257, Civil and environmental engineering.,civil and environmental engineering,0.10948944091796875,5.0739617347717285
+258, Wine grapes.,wine grapes,0.06068992614746094,4.894745111465454
+259, 1890,1890,0.04458498954772949,4.88703727722168
+260, Dionysus,Dionysus,0.04759073257446289,4.8577752113342285
+261, Reverse discrimination.,reverse,0.04545712471008301,4.88986873626709
+262, President's Committee on Equal Employment Opportunity,President's Committee on Equal Employment Opportunity,0.08152103424072266,5.234179735183716
+263, Class rank.,class rank,0.044321298599243164,4.8874452114105225
+264, Education and employment.,construction,0.05068254470825195,4.9546661376953125
+265, 1891,1891,0.04595232009887695,4.873570919036865
+266," Sowell argues that affirmative action policies reduce the incentives of both preferred and non-preferred groups to perform at their best, as the former may feel unnecessary to do so, and the latter may find it futile.",because it can prove futile,0.04910087585449219,8.51999545097351
+267, The Catholic Church.,The Catholic Church,0.044867753982543945,4.979663372039795
+268, Whites who innocently benefited from past injustices.,society today should compensate for the injuries,0.045244455337524414,5.5561888217926025
+269, 1873,1873,0.052140235900878906,4.890589714050293
+270," According to the text, Asians are perceived to be lacking in communication skills and personality.",communication skills and personality,0.050284385681152344,6.205336332321167
+271," ""Affirmative Action Around the World: An Empirical Study""",Affirmative Action Around the World: An Empirical Study,0.046028852462768555,5.91733193397522
+272," Some commentators claim that affirmative action policies result in reverse discrimination, where members of the majority are discriminated against in favor of historically disadvantaged groups.",these policies are just another form of discrimination,0.04536938667297363,7.2188804149627686
+273," Sowell believes that affirmative action reduces the incentives of both the preferred and non-preferred groups to perform at their best, as the preferred group may feel that their performance is unnecessary, and the non-preferred group may feel that their efforts will be futile.",because doing so is unnecessary,0.04473543167114258,9.372703313827515
+274, Noah,Noah,0.0590815544128418,4.700182914733887
+275, The French paradox.,the French paradox,0.04604697227478027,4.987926244735718
+276, Public affairs programs.,public affairs,0.05876564979553223,4.984558582305908
+277, Bill Clinton,Bill Clinton,0.06705021858215332,4.790920972824097
+278, Jayplay magazine,Jayplay magazine,0.11234617233276367,4.893423557281494
+279, 80%,80%,0.04781532287597656,4.892532587051392
+280, Lynx is a text-based web browser.,text based web browser,0.05130648612976074,5.427110195159912
+281, March 1865,"February 20, 1863",0.052290916442871094,4.98297643661499
+282," Philip Anschutz, a businessman and alumnus of the University.",Philip Anschutz,0.04465055465698242,6.019613742828369
+283, The Spencer Museum of Art.,the Spencer Museum of Art,0.04478120803833008,5.173105001449585
+284, Niagara grapes and Concord grapes are commonly used to make white grape juice.,Niagara grapes,0.04773306846618652,5.916957855224609
+285, Charles L. Robinson.,Charles L. Robinson,0.07878828048706055,5.0875303745269775
+286, 1891,1891,0.04489493370056152,4.86486554145813
+287, The Four-Year Tuition Compact was first instituted for first-time freshmen in the 2007-2008 school year.,fixed tuition rate,0.044838666915893555,6.849640846252441
+288, Red wine.,Red wine,0.09052395820617676,4.890970230102539
+289, Lower-class European Americans and Asian Americans.,white students,0.05382418632507324,5.369525671005249
+290," The racial preferences debate indicates that universities and colleges have competing notions of their mission, with some prioritizing scholarly excellence and others prioritizing civic goods and diversity.",competing notions of the mission of colleges,0.051009178161621094,7.496818780899048
+291, 12,12,0.04482460021972656,4.801416635513306
+292, The University of Kansas.,William Allen White School of Journalism,0.045671939849853516,5.066063165664673
+293, One-third.,a third,0.04550457000732422,4.889881134033203
+294," Another argument against affirmative action is that it hinders reconciliation, replaces old wrongs with new wrongs, undermines the achievements of minorities, and encourages groups to identify themselves as disadvantaged, even if they are not.",may increase racial tension,0.04773116111755371,8.521530151367188
+295, 1873,1873,0.04472684860229492,4.895744323730469
+296, Employ a fixed percentage of Black workers.,employ a fixed percentage of Black workers,0.04605913162231445,5.3610334396362305
+297, Nearly 60% of Michigan voters.,60%,0.04498720169067383,5.3630454540252686
+298, The Civil Rights Act.,Civil Rights Act,0.04558920860290527,5.086346626281738
+299, The Association to Advance Collegiate Schools of Business (AACSB) provides oversight for business schools like KU's.,the Association to Advance Collegiate Schools of Business,0.04763174057006836,6.7523393630981445
+300, Those who willingly and knowingly benefited from discriminatory practices.,people who willingly and knowingly benefited from discriminatory practices,0.052861928939819336,5.545445203781128
+301," The University of Kansas has the School of Public Affairs & Administration, which serves students learning about government.",the Robert J. Dole Institute of Politics,0.057340145111083984,6.462278842926025
+302, Hobart Taylor Jr.,Hobart Taylor Jr.,0.04502129554748535,5.067278861999512
+303, Public research university.,state-sponsored,0.04483985900878906,4.989217519760132
+304, There is no specific information in the provided context about the type of grapes used to make vinegar.,fermented,0.056825876235961914,6.361573696136475
+305, The School of Engineering.,the School of Architecture and Urban Design,0.04481196403503418,5.0747880935668945
+306, Yeast.,Yeast,0.0508272647857666,4.881662845611572
+307, The U.S. Supreme Court.,U.S. Supreme Court,0.04490327835083008,5.270813941955566
+308, AACSB,AACSB,0.04700946807861328,4.803208589553833
+309, Commencement and convocation.,commencement and convocation,0.056444406509399414,5.271900415420532
+310, Princeton University,Princeton University,0.06312441825866699,4.761245489120483
+311," 6,000-8,000 years ago.","6,000–8,000 years ago",0.04479384422302246,5.621159791946411
+312, Nixon,his successor Nixon,0.04484915733337402,4.704207897186279
+313," The GI Bill, which was introduced after World War II, was a major cause of the increase in educational gap between white and black Americans.",Dwight D. Eisenhower's GI Bill,0.06351709365844727,7.220959901809692
+314, Executive Order 11114.,11114,0.054666757583618164,5.161034107208252
+315, The goal of the Equal Employment Opportunity Commission (EEOC) was to end discrimination in the nation's workplace.,ending discrimination in the nation's workplace,0.06090593338012695,6.748164653778076
+316, Contract cancellation and possible debarment from future government contracts.,contract cancellation,0.0450901985168457,5.7297282218933105
+317, Create an environment in which there is a culture of respect for individual differences and draw in talent and ideas from all segments of the population.,actively seek to promote an inclusive workplace,0.0451207160949707,7.13094425201416
+318, Reverse discrimination is a policy or practice in which members of a majority are discriminated against in favor of a historically disadvantaged group or minority.,a policy or practice in which members of a majority are discriminated against in favor of a historically disadvantaged group or minority,0.04923653602600098,7.1059699058532715
+319," ""Best buy in the region""",best buy,0.04487252235412598,5.2747883796691895
+320," The ""Forty acres and a mule"" policy.",Forty acres and a mule,0.048787593841552734,5.737743616104126
+321, The African American Policy Forum (AAPF) believes that the class based argument is based on the idea that non-poor minorities do not experience racial and gender based discrimination.,non-poor minorities do not experience racial and gender based discrimination,0.05341506004333496,7.770258903503418
+322, Craft unions.,craft unions,0.047841548919677734,4.895725727081299
+323, From Ending Affirmative Action: The Case for Colorblind Justice,From Ending Affirmative Action: The Case for Colorblind Justice,0.05449032783508301,5.809529066085815
+324, 1898,1898,0.04773592948913574,4.898651838302612
+325," During the 2003-04 academic year, two prominent black professors at Harvard, Lani Guinier and Henry Louis Gates, pointed out an unintended effect of affirmative action policies at Harvard, stating that only about a third of black Harvard undergraduates were from families in which all four grandparents were born into the African American community.",a panel discussion,0.0751340389251709,10.755396842956543
+326," The Community Tool Box is a public service of the University of Kansas, maintained by the Work Group for Community Health and Development.",online,0.04519987106323242,6.921721458435059
+327, The University of Kansas (KU) is one of the 62 members of the Association of American Universities.,the Association of American Universities,0.045386314392089844,6.645308256149292
+328, The Armed Forces.,Armed Forces,0.049817800521850586,4.992169618606567
+329, Fruits,fruit,0.04971718788146973,4.7724621295928955
+330, Grape juice.,Grape juice,0.04821515083312988,4.898985862731934
+331, 2006,2006,0.046022653579711914,4.89892578125
+332," Reporting for print, online, and broadcast.","print, online and broadcast",0.045075416564941406,5.452789068222046
+333, 5-4,5-4,0.04650568962097168,4.986222505569458
+334, 3.1%,3.1%,0.04992961883544922,5.082732677459717
+335, The William Randolph Hearst Writing Foundation sponsors a contest for journalistic writing.,Hearst Foundation,0.0511171817779541,5.894583702087402
+336, Ricci v. DeStefano,Ricci v. DeStefano,0.05108976364135742,5.349603176116943
+337, Merit.,merit,0.04483318328857422,4.8944690227508545
+338, Fair Employment Officer.,Fair Employment Officer,0.04550886154174805,4.973283052444458
+339, Sander's study showed that half of all black law students rank near the bottom of their class after the first year of law school.,half of all black law students rank near the bottom of their class after the first year of law school,0.04501485824584961,7.124929428100586
+340," The three schools that make up the University of Kansas Medical Center are: 
+1. The School of Medicine
+2. The School of Nursing
+3. The School of Health Professions.","the School of Medicine, School of Nursing, and School of Health Professions",0.04538726806640625,8.149115800857544
+341," The University of Kansas School of Architecture, Design, and Planning was ranked 11th among all undergraduate architecture programs in the U.S.",city management and urban policy,0.05224919319152832,7.124526500701904
+342, Phenolic content.,Phenolic content,0.04860544204711914,4.993842124938965
+343, Higher educational opportunities were few for black veterans after World War II.,higher educational,0.048148393630981445,5.794193267822266
+344," Jian Li, a Chinese undergraduate at Yale University.",Harvard University,0.04528236389160156,5.511166095733643
+345, Stanford Law Review,Stanford Law Review,0.04696512222290039,4.893680572509766
+346, NASA Project Apollo Command Capsule Recovery Operations.,NASA Project Apollo Command Capsule Recovery Operations,0.05097150802612305,5.4537107944488525
+347," Mount Oread, the highest location in Lawrence, is the site of the University of Kansas main campus.",Mount Oread,0.059972286224365234,6.542404651641846
+348," ""Crimson and the Blue"" and ""Red and Blue""","""Crimson and the Blue"", ""Red and Blue""",0.04685235023498535,5.914957761764526
+349, The bottom 20 percent.,bottom 20 percent,0.044750213623046875,5.169081687927246
+350, KU has a contract with ESPN Regional Television.,ESPN Regional Television,0.04468536376953125,5.543191909790039
+351, Top 25 among U.S. universities.,the top 25,0.04646015167236328,5.44693398475647
+352, Grutter v. Bollinger,Grutter v. Bollinger,0.05089521408081055,5.237152338027954
+353, KU's engineering school is a public engineering school.,public,0.047154903411865234,5.632838487625122
+354, 20%,top-one-percent grade point averages,0.06685733795166016,4.908047199249268
+355, 32,32,0.04865837097167969,4.801063776016235
+356, 52 million acres.,52 million acres,0.0483856201171875,5.078843355178833
+357, Reduced platelet aggregation and vasodilation.,vasodilation,0.04459953308105469,5.424152135848999
+358," The KU Bookstore is the official bookstore of KU, and it is run by the KU Memorial Unions Corporation.",KU Memorial Unions Corporation,0.048751115798950195,7.003309726715088
+359, The main campus of the University of Kansas.,main campus,0.04519343376159668,5.4502644538879395
+360, Jayhawk Central,Jayhawk Central,0.059319257736206055,4.887317180633545
+361," July 26, 1948",July 26,0.045015573501586914,5.257296085357666
+362, Concord grapes.,Concord grapes,0.05736184120178223,4.888722658157349
+363," Shelby Steele holds that blacks must take full responsibility for their education and job maintenance, and that affirmative action is not the solution to eradicating discrimination.",against affirmative action,0.04802203178405762,7.385657548904419
+364, The Chinese Exclusion Act of 1882.,Chinese Exclusion Act of 1882,0.04502058029174805,5.5476179122924805
+365, Affirmative action aims to increase diversity in a field.,are more representative of the populations they serve,0.05663323402404785,5.723503351211548
+366," Anschutz Library is dedicated to Philip Anschutz, a former student of the University of Kansas.",Anschutz Library,0.04755282402038574,6.564791917800903
+367, President Eisenhower's failure to end discrimination in federally supported housing.,not ending discrimination in federally supported housing,0.047679901123046875,5.7181079387664795
+368," ""America's Best Architecture and Design Schools""",America's Best Architecture and Design Schools,0.04483675956726074,5.442814350128174
+369, Admission to any public college or university in Texas for high school students who graduate in the top 10% of their class.,entry to any state university if a student finished in the top 10% of their graduating class,0.04533696174621582,6.948565721511841
+370, 12%,12%,0.05098104476928711,4.892904043197632
+371, Invisible Victims: White Males and the Crisis of Affirmative Action,Invisible Victims: White Males and the Crisis of Affirmative Action,0.05192852020263672,5.9052324295043945
+372, White wine.,white wine,0.045435428619384766,4.886418342590332
+373," The main kinds of students at the Edwards Campus are adults, with an average age of 32, pursuing college degrees.",adults,0.04488253593444824,6.832927465438843
+374, Washington D.C.,Washington D.C.,0.049027442932128906,4.98386812210083
+375, Sheahon Zenger is the athletic director of the University of Kansas.,Sheahon Zenger,0.05199766159057617,6.0173728466033936
+376," November 17, 2014","November 17, 2014",0.05872178077697754,5.282626390457153
+377," The other aim of the Civil Rights Act was to integrate public facilities, such as motels, restaurants, theaters, and gas stations, as well as public schools, hospitals, libraries, and parks.",integrate public facilities,0.04953956604003906,8.330588817596436
+378, World War II,World War II,0.04494881629943848,4.889202117919922
+379, The University of Kansas Medical Center.,Wichita,0.0716702938079834,5.267494440078735
+380, Adidas,Adidas,0.044561147689819336,4.6995697021484375
+381, Green Hall is named after former dean James Green.,James Green,0.054312944412231445,5.52387261390686
+382," The Community Tool Box offers more than 7,000 pages of practical information for promoting community health and development.","more than 7,000 pages",0.04462766647338867,6.630549669265747
+383, White,white,0.04901480674743652,4.699406623840332
+384, Kansas,Kansas,0.05533289909362793,4.698266506195068
+385, 68th nationally.,68th,0.0778801441192627,5.079334020614624
+386, The NAACP had issues with JFK's proposal.,NAACP,0.04504203796386719,5.516263484954834
+387, More than triple that of the whites.,more than triple,0.05794572830200195,5.343346118927002
+388, Jim Crow laws.,Jim Crow,0.049797773361206055,4.985025644302368
+389, 5 times.,5,0.06419157981872559,4.997076988220215
+390, Hubert Humphrey,Hubert Humphrey,0.05252361297607422,4.980692148208618
+391, Dr. Paul Brest,Dr. Paul Brest,0.04460430145263672,5.083352088928223
+392, Ronald Dworkin claimed that no college applicant has a right to expect that a university will design its admissions policies in a way that prizes any particular set of qualities.,a right to expect that a university will design its admissions policies in a way that prizes any particular set of qualities,0.0509190559387207,7.675576448440552
+393, President Clinton stated that affirmative action was not the source of the problems faced by the white middle class.,the policy was not the source of their problems,0.048363447189331055,6.472649097442627
+394, The lawsuit was dismissed in July 2015 because the Students for Fair Admissions lawsuit made similar allegations.,the Students for Fair Admissions lawsuit makes similar allegations,0.0504302978515625,6.536810874938965
+395, The National Labor Relations Board.,National Labor Relations Board,0.04916048049926758,5.174519062042236
+396, Grape juice.,grape juice,0.05104470252990723,4.890961170196533
+397, University Daily Kansan,University Daily Kansan,0.04533982276916504,5.073025226593018
+398, The William Allen White School of Journalism and Mass Communications.,The William Allen White School of Journalism and Mass Communications,0.04662013053894043,5.641428709030151
+399, 2000,2000,0.04485726356506348,4.885586261749268
+400, The Lynx text-based web browser.,hypertext browsing and navigation,0.048349857330322266,5.334210395812988
+401, President John F. Kennedy,Kennedy,0.04960775375366211,5.082303285598755
+402, A de facto quota system.,a de facto quota system,0.04463076591491699,5.163747072219849
+403," Affirmative action aims to promote equal opportunity and address past and present discrimination by granting special consideration to historically excluded groups, such as racial minorities, women, and other underrepresented groups.",overcome prejudicial treatment through inclusion,0.05164647102355957,8.030844449996948
+404, The ruling in Hopwood v. Texas banned the use of race in school admissions.,banning any use of race in school admissions,0.05018925666809082,6.196184396743774
+405," According to Richard Sander, a negative effect of affirmative action is that it discourages minority students and tends to engender failure and high dropout rates for these students.",high dropout rates,0.04562783241271973,7.690474510192871
+406, Outlawing discrimination.,just outlawing discrimination,0.045593976974487305,5.09099817276001
+407, The Lincoln Memorial.,Lincoln Memorial,0.04454660415649414,4.961894750595093
+408," The typical argument in favor of affirmative action is that it helps to overcome past and present discrimination by providing opportunities for historically excluded groups, promoting diversity, and fostering a more inclusive society.",compensation argument,0.05131173133850098,7.966816186904907
+409, Lew Perkins,Lew Perkins,0.04740738868713379,4.797119617462158
+410," At least 30,000 daily readers.","at least 30,000",0.04685521125793457,5.454834938049316
+411, The states.,the states,0.0555570125579834,4.898162603378296
+412, Thompson Seedless.,Thompson Seedless,0.0462033748626709,4.9870524406433105
+413, The KU Jayhawks defeated the Virginia Tech Hokies 24-21 in the 2008 Orange Bowl.,Virginia Tech Hokies,0.05151939392089844,6.755919694900513
+414, Regulations Governing for Employment Practices within the Federal Establishment,Regulations Governing for Employment Practices within the Federal Establishment,0.04965710639953613,5.547646999359131
+415," The University of Kansas School of Architecture, Design, and Planning (SADP) is housed in Marvin Hall.",Marvin Hall,0.044847726821899414,6.730276107788086
+416, Anthocyanins.,Anthocyanins,0.04503917694091797,5.082255840301514
+417, 345,345,0.04691934585571289,4.795529127120972
+418, 1939,1939,0.06043386459350586,4.898297309875488
+419, The Last Supper.,the Last Supper,0.04551124572753906,5.088084936141968
+420, The genes responsible for the purple color of grapes are anthocyanins.,anthocyanins,0.04697561264038086,5.97184944152832
+421, Lyndon B. Johnson,Lyndon B. Johnson,0.047215938568115234,5.079386234283447
+422, The College Board.,the College Board,0.044797658920288086,4.963415861129761
+423, Hispanic Americans and Asian Americans.,Hispanic Americans,0.04526257514953613,5.170709609985352
+424, Green,green,0.054741621017456055,4.683051824569702
+425," The controversy of affirmative action is primarily based on the idea of class inequality, with opponents arguing that the policy benefits middle- and upper-class minorities at the expense of lower-class European Americans and Asian Americans.",class inequality,0.04701542854309082,8.342673778533936
+426, KU Endowment,KU Endowment,0.04810619354248047,4.984961032867432
+427, ABET,ABET,0.04491829872131348,4.790909767150879
+428, 23%,23,0.04942154884338379,4.8973472118377686
+429, 1861,1861,0.04540228843688965,4.8975348472595215
+430," The US Court of Appeals for the Fifth Circuit concluded that the University of Texas maintained a ""holistic"" approach to affirmative action.",US Court of Appeals for the Fifth Circuit,0.05149102210998535,7.025621175765991
+431, The University of Texas is waiting for the US Supreme Court to provide clarification of relevant law by ruling in Fisher v. University of Texas at Austin for the second time.,until the U.S. Supreme Court provides clarification of relevant law,0.061377525329589844,7.685845375061035
+432, 1877,1877,0.04510140419006348,4.8575098514556885
+433, equality of opportunity.,equality of opportunity,0.05316567420959473,4.990016937255859
+434, The President's Committee on Civil Rights.,President's Committee on Civil Rights,0.04460740089416504,5.357251405715942
+435, 2007,2007,0.04789423942565918,4.864153623580933

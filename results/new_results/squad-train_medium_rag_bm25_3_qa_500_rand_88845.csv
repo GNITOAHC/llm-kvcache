@@ -1,0 +1,526 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,To symbolize the blood of Christ and Christian martyrs.,to symbolize the blood of Christ and the Christian martyrs,0.0011372566223144531,2.073629856109619,0.9685169458389282
+1,1295.,1295,0.0010178089141845703,0.514270544052124,0.9551343321800232
+2,There is no information in the provided context about the standardization of red as a color for stop lights.,1968,0.000835418701171875,1.1555829048156738,0.02485913410782814
+3,The study of fluid flows in the high vacuum regime.,study of fluid flows,0.00086212158203125,0.7487590312957764,0.6581950187683105
+4,Kyoto.,Kyoto,0.0008783340454101562,0.40789198875427246,0.9672473669052124
+5,By a key switch located inside the elevator on the centralized control panel.,Phase-two mode can only be activated by a key switch located inside the elevator on the centralized control panel,0.0008759498596191406,0.8597691059112549,0.6161851286888123
+6,"Red, Green, and Blue.","red, green and blue",0.0009293556213378906,0.6120707988739014,0.9497935771942139
+7,"Increased performance in competitions, including professional sport and multiplayer video games.",increased performance,0.0008270740509033203,0.8226099014282227,0.6351094245910645
+8,1853.,1853,0.0009589195251464844,0.4820835590362549,0.9680261015892029
+9,Reduce it by around 20%.,reduce air pressure by around 20%,0.0008907318115234375,0.5932648181915283,0.5618721842765808
+10,"A red flag in the Middle Ages signaled that the defenders of a town or castle would fight to defend it, or that a warship would show no mercy to its enemy.",defenders of a town or castle would fight to defend it,0.0008587837219238281,1.6516656875610352,0.5459845066070557
+11,The grooves in the drive sheave controlled the traction.,a motor mechanic utilizing a system of toothed wheels,0.0008480548858642578,0.7770612239837646,0.3631759285926819
+12,"Approximately 300,000.","300,000",0.0008645057678222656,0.5560123920440674,0.7606668472290039
+13,A tiny grain.,a tiny grain,0.0008389949798583984,0.48413872718811035,0.9812091588973999
+14,10 torr to 10−3 torr.,10 torr to 10−3 torr,0.0008752346038818359,0.783780574798584,0.9750394821166992
+15,Complicated programs could be developed and debugged in days rather than the weeks required for plugboarding the old ENIAC.,programs could be developed and debugged in days rather than the weeks,0.0009086132049560547,1.274017095565796,0.6864473819732666
+16,Violet.,violet,0.0008537769317626953,0.40372467041015625,0.9618127942085266
+17,The elevator will shut down.,"The doors then close after an adjustable time period and the car remains unusable until reset, usually by cycling the elevator main power switch",0.0008451938629150391,0.5496020317077637,0.4296596646308899
+18,"Pure mathematics (60 papers), physics (20 papers), and applied mathematics (60 papers).","60 in pure mathematics, 20 in physics, and 60 in applied mathematics",0.0009331703186035156,1.032078742980957,0.8067021369934082
+19,"Red lake was made from mixing organic dyes, made from insects or plants, with white chalk or alum.","insects or plants, with white chalk or alum",0.0008537769317626953,1.1573574542999268,0.5072134733200073
+20,The ground state of matter.,the ground state of matter.,0.0009200572967529297,0.560081958770752,1.0000001192092896
+21,Einstein's field equations.,Einstein,0.0009057521820068359,0.5402138233184814,0.6223654747009277
+22,Hot cathode and cold cathode.,hot cathode and cold cathode.,0.0009129047393798828,0.6307046413421631,1.0000001192092896
+23,Tissues are elastic and porous enough to prevent rupture.,tissues are elastic and porous,0.0009541511535644531,0.7604396343231201,0.8080534338951111
+24,One-sixth the speed.,new ENIAC ran at one-sixth the speed,0.0008199214935302734,0.5577430725097656,0.5593393445014954
+25,Kermes insects.,kermes insects,0.0009186267852783203,0.5151047706604004,0.9795173406600952
+26,Nobles.,nobles,0.0008568763732910156,0.43828725814819336,0.9659461975097656
+27,Protection against loss of all electrically powered instruments.,"protection against loss of all (electrically powered) instruments,",0.0009307861328125,0.7040159702301025,0.9835466742515564
+28,Red and blue light at equal intensity.,red and blue,0.0008616447448730469,0.6481389999389648,0.5370028018951416
+29,Cartesian mechanical philosophy.,Cartesian mechanical philosophy,0.0009579658508300781,0.497194766998291,0.9853569865226746
+30,"Vermilion, made from the mineral cinnabar.",vermilion,0.00078582763671875,0.743720531463623,0.6770267486572266
+31,The Cincinnati Red Stockings became the Atlanta Braves.,the Atlanta Braves,0.0008454322814941406,0.7023322582244873,0.7116590738296509
+32,It would change color.,change color,0.0008921623229980469,0.5185449123382568,0.6351834535598755
+33,A big red cross.,one big red cross,0.0008337497711181641,0.4825763702392578,0.9298007488250732
+34,"The McLeod gauge can measure vacuums as high as 10−6 torr (0.1 mPa), which is the lowest direct measurement of pressure possible with current technology.",can measure vacuums as high as 10−6 torr,0.0008625984191894531,1.7791872024536133,0.6975983381271362
+35,Casco Viejo station in the Bilbao Metro.,"The ""stretching room""",0.0009300708770751953,0.745851993560791,0.19815553724765778
+36,Elevators built in pairs are designed to work together to optimize traffic flow and reduce wait times.,"their cars always move synchronously in opposite directions,",0.0008466243743896484,1.044156789779663,0.26788294315338135
+37,A few seconds.,after a few seconds,0.0009567737579345703,0.4953641891479492,0.7456517815589905
+38,"Color was the central element in Matisse's paintings, chosen to evoke emotions.",the central element,0.0008392333984375,0.9674832820892334,0.24648287892341614
+39,"Claustrophobia, anthropophobia, or social anxiety.",People in the remaining elevators may see an indicator light or hear a voice announcement informing them that the elevator will return to the lobby shortly,0.0008759498596191406,0.8039608001708984,0.16044041514396667
+40,Momentum transfer pumps.,Momentum transfer pumps,0.0009131431579589844,0.4548807144165039,0.959930956363678
+41,They ensure that the material moves forward.,ensure that the material moves forward,0.0008604526519775391,0.6269183158874512,0.7053883671760559
+42,Henry Pickering.,Henry Pickering,0.0008552074432373047,0.4812052249908447,0.9840220808982849
+43,Inaccuracy of the missile wouldn't be a problem with an H-bomb.,relative inaccuracy of the missile,0.0007922649383544922,0.9377896785736084,0.6611161828041077
+44,He argued that the problem of measure is essentially group-theoretic in character.,In a series of famous papers,0.0009622573852539062,0.9583983421325684,0.25005826354026794
+45,2004,2004,0.0008797645568847656,0.44377803802490234,1.0
+46,Morning arrival of people going to work and lunch-time periods.,people arrive for work or at the conclusion of a lunch-time period,0.0009396076202392578,0.78316330909729,0.7824829816818237
+47,"The elevators come to a halt, then return one by one to the lobby floor, open their doors, and shut down.","One by one, each car in the group will return to the lobby floor, open its doors and shut down",0.0009593963623046875,1.3113279342651367,0.6523251533508301
+48,"16,777,216.","16,777,216",0.0008654594421386719,0.5983984470367432,0.9892551898956299
+49,13 kPa (100 Torr),"13 kPa (100 Torr),",0.0009655952453613281,0.6899909973144531,0.9927351474761963
+50,A smoke sensor or heat sensor in the building.,a corresponding smoke sensor or heat sensor in the building,0.0008594989776611328,0.7075777053833008,0.9651350378990173
+51,1523.,1523,0.0008392333984375,0.47841691970825195,0.9790068864822388
+52,It parks with its doors open.,will remain in code-blue service until switched off in the car,0.0008237361907958984,0.5924978256225586,0.15088853240013123
+53,Suction pump.,suction pump,0.0008993148803710938,0.4511995315551758,0.9287863373756409
+54,1962.,1962,0.0008127689361572266,0.4976181983947754,0.9593217968940735
+55,1740s.,the 1740s,0.0009152889251708984,0.536494255065918,0.8708820343017578
+56,Cable-borne elevators.,cable-borne elevators,0.0008280277252197266,0.5568406581878662,0.9821046590805054
+57,Werner von Siemens built the first electric elevator in 1880 in Germany.,Werner von Siemens,0.0008530616760253906,0.9057955741882324,0.5482778549194336
+58,CAN/CSA B44 Safety Standard.,CAN/CSA B44 Safety Standard,0.0008435249328613281,0.6918535232543945,0.9786862134933472
+59,City transportation.,city transportation,0.0008301734924316406,0.4626350402832031,0.9251629114151001
+60,"No, von Neumann's proof did not completely rule out hidden variable theories.",von Neumann did not claim that his proof completely ruled out hidden variable theories,0.0009016990661621094,0.9618747234344482,0.9112063646316528
+61,Mathematician and computer scientist.,"pure and applied mathematician, physicist, inventor, computer scientist, and polymath",0.0008656978607177734,0.5295875072479248,0.7536588907241821
+62,"A single panel door is referred to as a ""slab"" door.","""slab"" door",0.0008411407470703125,0.8901290893554688,0.8027483224868774
+63,February 1848.,February 1848,0.0008449554443359375,0.4829831123352051,0.9726898074150085
+64,The national flower of Nepal.,the national flower,0.0008466243743896484,0.4847433567047119,0.7264196276664734
+65,Red.,red,0.0008513927459716797,0.3720369338989258,0.9193431735038757
+66,Scarlet.,Scarlet,0.0009083747863769531,0.40148258209228516,0.9603756070137024
+67,Klaus Fuchs.,Klaus Fuchs,0.0008037090301513672,0.47762346267700195,0.9822190999984741
+68,A cylindrical design.,cylindrical,0.0008182525634765625,0.48168468475341797,0.8445520401000977
+69,Spain.,Spain,0.0008218288421630859,0.3686974048614502,0.9543189406394958
+70,Vacuum is generally measured by its absolute pressure.,its absolute pressure,0.0007879734039306641,0.6718130111694336,0.5109353065490723
+71,Red.,Red,0.0009105205535888672,0.40364909172058105,0.9193431735038757
+72,"Metal, Wood, and Water.","metal, wood, water",0.0008904933929443359,0.597496747970581,0.968339204788208
+73,By running current through it.,by running current through it,0.0009310245513916016,0.5587489604949951,0.9843335151672363
+74,A diaphragm or a piston.,a diaphragm or a piston,0.0009107589721679688,0.6337096691131592,0.9756793975830078
+75,Washing.,during washing,0.0008876323699951172,0.40334320068359375,0.8153376579284668
+76,A golden cup.,golden,0.0009031295776367188,0.48023509979248047,0.6637568473815918
+77,The implosive lens project was greatly expanded and von Neumann's idea of using plutonium-239 was implemented.,implosive lens project was greatly expanded,0.0008761882781982422,1.2380735874176025,0.7032055854797363
+78,A red flag is raised in auto racing if there is danger to the drivers.,if there is danger to the drivers,0.0008552074432373047,0.8615448474884033,0.543117880821228
+79,a cake,a cake,0.000850677490234375,0.40524911880493164,1.0
+80,Dumbwaiters.,Dumbwaiters,0.0008521080017089844,0.5259010791778564,0.9868203401565552
+81,"Yes, he actually enjoyed thinking, maybe even to the exclusion of everything else.","Neumann actually enjoyed thinking, maybe even to the exclusion of everything else.",0.0008544921875,0.8984968662261963,0.696091890335083
+82,The Paris Commune.,Bastille,0.0008761882781982422,0.5367491245269775,0.2746078670024872
+83,Frank Sprague.,Frank Sprague,0.0009162425994873047,0.47559213638305664,0.9878112077713013
+84,sustain life at pressures much lower than atmospheric.,"sustain life at pressures much lower than atmospheric,",0.0009441375732421875,0.688528299331665,0.9899260997772217
+85,The French Army was defeated in the Franco-Prussian War.,the French Army,0.0009214878082275391,0.8404972553253174,0.6435373425483704
+86,His work on various forms of operator theory.,operator theory,0.0009615421295166016,0.6707303524017334,0.7730273008346558
+87,Optimal strategies minimize the maximum loss for each player.,minimize the maximum loss for each player,0.0009019374847412109,0.7410857677459717,0.9129046201705933
+88,University of Berlin.,University of Berlin,0.0009233951568603516,0.47951507568359375,0.9839852452278137
+89,"q represents the ""intensity"" at which the production process would run.","q represents the ""intensity"" at which the production process would run",0.0009365081787109375,0.918738842010498,0.9916048645973206
+90,Causes fatal rupture of the delicate alveoli.,rupture of the delicate alveoli,0.0008671283721923828,0.7080397605895996,0.9039561152458191
+91,Walls of temples and imperial residences.,temples and imperial residences,0.0009224414825439453,0.5919921398162842,0.9280055165290833
+92,The world's largest manufacturer of vertical transport systems.,world's largest manufacturer of vertical transport systems,0.0008728504180908203,0.7105445861816406,0.9865443110466003
+93,A counterweight.,a counterweight,0.0008521080017089844,0.4809551239013672,0.9791327714920044
+94,4000 BC.,4000 BC,0.0009207725524902344,0.5215179920196533,0.9870989322662354
+95,"""Below atmospheric"".","""Below atmospheric""",0.0009388923645019531,0.4858119487762451,0.9746701121330261
+96,"""Nature abhors a vacuum"" (horror vacui).",nature abhorred a vacuum,0.0008733272552490234,0.8664975166320801,0.8137588500976562
+97,"The text does not explicitly state how the information helps the system, but it appears to be a historical and scientific explanation of the concept of a vacuum, providing context and background information.",the system knows every user call and can cancel the first call if the passenger decides to travel to another destination to prevent empty calls,0.0009126663208007812,1.7114930152893066,0.1221916526556015
+98,A Roman soldier who refused to renounce his Christian faith and was martyred.,a Roman soldier,0.000911712646484375,0.9317429065704346,0.7376896142959595
+99,Red lac.,Red lac,0.0009324550628662109,0.4430243968963623,0.9826094508171082
+100,"Up to 20 m/s (4,000 ft/min).","20 m/s (4,000 ft/min)",0.0008223056793212891,0.8146257400512695,0.8971343040466309
+101,Morning and lunch-time periods.,most typically in the morning,0.0009379386901855469,0.5772960186004639,0.5686547160148621
+102,Kokkos.,Kokkos,0.0008294582366943359,0.41240882873535156,0.983406662940979
+103,"He served on the General Advisory Committee of the United States Atomic Energy Commission, and later as one of its commissioners.",General Advisory Committee of the United States Atomic Energy Commission,0.0008902549743652344,1.2286438941955566,0.844065248966217
+104,Power failure.,spring force,0.000911712646484375,0.4385678768157959,0.16313055157661438
+105,The rubia tinctorum plant.,rubia tinctorum plant,0.0008161067962646484,0.6316328048706055,0.9628975987434387
+106,Shaped charges and less fissionable material to increase the speed of assembly.,"more powerful shaped charges and less fissionable material to greatly increase the speed of ""assembly""",0.0009598731994628906,0.9392046928405762,0.9409475326538086
+107,Pheomelanin.,pheomelanin,0.0009329319000244141,0.5593576431274414,0.983069658279419
+108,"The EDVAC was the first computer to use the stored-program architecture, where data and program are stored in the same memory space.","architecture is to this day the basis of modern computer design,",0.0008487701416015625,1.3829896450042725,0.46174049377441406
+109,"The production of anthocyanin pigments, triggered by the breakdown of sugars in the fall, leads to the production of the bright colors in the fall.",It creates 3d video panorama using live feed from cameras placed vertically along the facade and synchronizes it with cab movement,0.0009162425994873047,1.5468189716339111,0.04055897146463394
+110,A black hole.,black hole,0.0009090900421142578,0.47437286376953125,0.9007303714752197
+111,7,seven heads,0.0008664131164550781,0.4044811725616455,0.5759541392326355
+112,Red.,red,0.0008795261383056641,0.4225497245788574,0.9193431735038757
+113,The interest rate.,rate of growth equals the interest rate,0.0008692741394042969,0.5004911422729492,0.6243335008621216
+114,The Tyneside docks.,Tyneside docks,0.0008525848388671875,0.5529365539550781,0.9683530926704407
+115,Exposure to red decreases performance in cognitive tasks.,decreases performance,0.0008766651153564453,0.6913557052612305,0.39150938391685486
+116,The 19th century.,19th,0.0008177757263183594,0.564685583114624,0.701187789440155
+117,East,south,0.0008955001831054688,0.2976386547088623,0.6193468570709229
+118,Oils and greases.,Some oils and greases,0.0008296966552734375,0.5586838722229004,0.9447812438011169
+119,Johann.,Margittai Neumann János,0.0008838176727294922,0.4247112274169922,0.3269384503364563
+120,Partial pressure.,gaseous,0.0008292198181152344,0.4456064701080322,0.40580523014068604
+121,Steam power.,switches operated by pulling on adjacent ropes,0.0008244514465332031,0.44354915618896484,0.0971331000328064
+122,500 ft/min.,500,0.0008909702301025391,0.5128555297851562,0.4539206027984619
+123,Bounded operators on a Hilbert space.,study of rings of operators,0.0008671283721923828,0.6740150451660156,0.43911635875701904
+124,"1,010 meters per minute (61 km/h).","1,010 metres per minute (61 km/h) in 16 seconds",0.0009150505065917969,0.7783310413360596,0.9133032560348511
+125,A black hole.,The black hole,0.0008761882781982422,0.5019733905792236,0.9039730429649353
+126,The elevator will no longer respond to hall calls and will remain parked on a floor with its doors open until a floor is selected and the door close button is held.,it will no longer respond to hall calls,0.0008122920989990234,1.5930805206298828,0.5673125982284546
+127,"The mineral cinnabar, a common ore of mercury.",the mineral cinnabar,0.0008540153503417969,0.7885057926177979,0.7914156317710876
+128,1928,1928,0.0008509159088134766,0.43898558616638184,1.0
+129,The St. George's Cross.,St. George's Cross,0.0007817745208740234,0.5937037467956543,0.9698426723480225
+130,Kurt Gödel.,Kurt Gödel,0.0008983612060546875,0.48195767402648926,0.984581708908081
+131,Marina,Marina,0.0008306503295898438,0.3659801483154297,1.0
+132,General Advisory Committee.,General Advisory Committee,0.0008695125579833984,0.49764227867126465,0.9776003360748291
+133,The carmine was made from the carminic acid in tiny female scale insects that lived on the leaves of oak trees in Eastern Europe and around the Mediterranean.,the carminic acid in tiny female scale insects,0.0008096694946289062,1.5306832790374756,0.6886074542999268
+134,"Kermes, made from a tiny scale insect that fed on oak tree branches and leaves.",Polish Cochineal,0.0008592605590820312,1.0417070388793945,0.2317434847354889
+135,Millimeters of mercury (mmHg) or pascals (Pa) below standard atmospheric pressure.,barometric scale,0.0008738040924072266,1.1353437900543213,0.310940682888031
+136,Gábor Szegő.,Gábor Szegő,0.0009477138519287109,0.5987722873687744,0.9862494468688965
+137,"The merge sort algorithm sorts an array by dividing it into two halves, sorting each half recursively, and then merging them.",the first and second halves of an array are each sorted recursively and then merged,0.0009293556213378906,1.258171796798706,0.8059473633766174
+138,Boston.,Boston,0.0009322166442871094,0.4022030830383301,0.9526292085647583
+139,"The elevator waits, then goes into nudging mode to signal it's leaving the floor.","The elevator will wait an amount of time, then proceed to go into nudging mode to tell everyone the elevator is leaving the floor",0.0008432865142822266,1.0085139274597168,0.9112422466278076
+140,Courage.,courage,0.00086212158203125,0.4226396083831787,0.8856794834136963
+141,J. Robert Oppenheimer and Edward Teller.,J. Robert Oppenheimer and Edward Teller,0.0008020401000976562,0.7476413249969482,0.9811796545982361
+142,Vacuum exposure itself.,vacuum exposure,0.0008215904235839844,0.48495054244995117,0.8722269535064697
+143,The counterweight is located in the hoist-way and rides a separate railway system.,in the hoist-way,0.0008864402770996094,0.9716360569000244,0.39460211992263794
+144,Game theory.,continuous geometry.,0.0008633136749267578,0.4439830780029297,0.11739686131477356
+145,Exodus.,the Book of Exodus,0.0008950233459472656,0.4214746952056885,0.7831935882568359
+146,The United States.,United States,0.0007617473602294922,0.4773886203765869,0.8440276384353638
+147,A beam pushed outwards by a steel spring.,a beam pushed outwards by a steel spring,0.00077056884765625,0.7073636054992676,0.9712854623794556
+148,On the shaft way.,on the shaft way,0.0008130073547363281,0.5375773906707764,0.9813287258148193
+149,Double deck elevators.,Double deck elevators,0.000946044921875,0.5176780223846436,0.9725394248962402
+150,The Party anthem of the Communist Party of China.,the Party anthem,0.0008280277252197266,0.6730647087097168,0.7306305766105652
+151,Floor indicators.,direction lanterns,0.0008707046508789062,0.44373321533203125,0.2647818326950073
+152,Green and blue.,Green Blue,0.000865936279296875,0.5006699562072754,0.8422619104385376
+153,"Von Neumann made significant contributions to computing, including the development of the Von Neumann architecture, linear programming, self-replicating machines, and stochastic computing. He also designed the IAS machine and the IBM 701, and proposed the concept of a universal constructor.","Von Neumann architecture, linear programming, self-replicating machines, stochastic computing",0.0009441375732421875,2.443460464477539,0.7673591375350952
+154,"Yes, it was a groundbreaking success.","proving that the growth rate equals the interest rate were remarkable achievements, even for von Neumann",0.0008466243743896484,0.6330530643463135,0.2472131997346878
+155,The Renaissance.,the Renaissance,0.0008587837219238281,0.4615957736968994,0.9806352257728577
+156,39 days.,39,0.0008525848388671875,0.5027997493743896,0.5556211471557617
+157,social protocols.,social protocols,0.0009410381317138672,0.4437739849090576,0.9653396606445312
+158,The text does not mention the year the Chinese flag became red.,1949,0.0009393692016601562,0.8199012279510498,0.20963847637176514
+159,Low Earth orbit.,low Earth orbit,0.0009241104125976562,0.47861385345458984,0.9019339084625244
+160,René Descartes.,Descartes,0.0009453296661376953,0.556969404220581,0.7264277935028076
+161,Helps passengers adapt smoothly to pressure changes.,help passengers adapt smoothly to pressure changes,0.0007674694061279297,0.6347877979278564,0.9288209676742554
+162,"In quantum mechanics, a disjunction can be true even when both disjuncts are false, unlike in classical logic.",can be true even when both of the disjuncts are false,0.0008378028869628906,1.285165786743164,0.75030118227005
+163,1949.,1949,0.0009372234344482422,0.4471437931060791,0.9726004600524902
+164,Radiation pressure from the Sun and the dynamic pressure of the solar winds.,radiation pressure from the Sun and the dynamic pressure of the solar winds,0.0008757114410400391,0.861842155456543,0.9849931597709656
+165,Jokes.,a new collection of jokes,0.0009419918060302734,0.4444899559020996,0.45414483547210693
+166,Catholicism.,he was baptized a Catholic.,0.0008523464202880859,0.44097352027893066,0.5618286728858948
+167,Lattice theory.,lattice theory,0.0008556842803955078,0.48251771926879883,0.9737252593040466
+168,Determinism versus non-determinism.,determinism versus non-determinism,0.0009419918060302734,0.6015565395355225,0.9911086559295654
+169,"The system detects when it's running low on power and brings the running cars to the lobby or nearest floor, opens the doors, and shuts down.","when the system detects that it is running low on power, it will bring the running cars to the lobby or nearest floor, open the doors and shut down",0.0008187294006347656,1.4551308155059814,0.9304523468017578
+170,Kitchens.,They often connect kitchens to rooms on other floors,0.0008718967437744141,0.4435570240020752,0.6667051315307617
+171,Linear programming.,viewed as a special case of linear programming,0.0008738040924072266,0.4612157344818115,0.7810032963752747
+172,The living room.,living room writing-table,0.0008156299591064453,0.5007245540618896,0.5036791563034058
+173,Outer space.,outer space,0.0008320808410644531,0.4438347816467285,0.9148366451263428
+174,1903,"December 28, 1903",0.0008382797241210938,0.44472789764404297,0.7915441989898682
+175,a few hydrogen atoms per cubic meter.,a few hydrogen atoms per cubic meter,0.0008609294891357422,0.6349966526031494,0.9797884225845337
+176,"Hoist cables or belts, governor, copper or silicon nitride brake shoes, and oil/hydraulic or spring or polyurethane or telescopic oil/hydraulic buffer.",The elevator has no ceiling and its shaft is decorated to look like walls of a mansion,0.0008497238159179688,1.6948893070220947,0.13557887077331543
+177,"Instantly, according to George Pólya, who said von Neumann would often come to him with complete solutions to problems scribbled on a slip of paper.",stunned other mathematicians,0.0008776187896728516,1.6184208393096924,0.3717228174209595
+178,"for giving short answers based on given context.
+        user
+        Context information is below.
+        ------------------------------------------------
+        Starting in the coal mines, by the mid-19th century elevators were operated with steam power and were used for moving goods in bulk in mines and factories. These steam driven devices were soon being applied to a diverse set of purposes - in 1823, two architects working in London, Burton and Hormer, built and operated a novel tourist attraction, which they called the ""ascending room"". It elevated paying customers to a considerable height in the center of London, allowing them a magnificent panoramic view of downtown.
+The hydraulic crane was invented by Sir William Armstrong in 1846, primarily for use at the Tyneside docks for loading cargo. These quickly supplanted the earlier steam driven elevators: exploiting Pascal's law, they provided a much greater force. A water pump supplied a variable level of water pressure to a plunger encased inside a vertical cylinder, allowing the level of the platform (carrying a heavy load) to be raised and lowered. Counterweights and balances were also used to increase the lifting power of the apparatus.
+In 1845, the Neapolitan architect Gaetano Genovese installed in the Royal Palace of Caserta the ""Flying Chair"", an elevator ahead of its time, covered with chestnut wood outside and with maple wood inside. It included a light, two benches and a hand operated signal, and could be activated from the outside, without any effort on the part of the occupants. Traction was controlled by a motor mechanic utilizing a system of toothed wheels. A safety system was designed to take effect if the cords broke. It consisted of a beam pushed outwards by a steel spring.
+In 1852, Elisha Otis introduced the safety elevator, which prevented the fall of the cab if the cable broke. The design of the Otis safety elevator is somewhat similar to one type still used today. A governor device engages knurled roller(s), locking the elevator to its guides should the elevator descend at excessive speed. He demonstrated it at the New York exposition in the Crystal Palace in a dramatic, death-defying presentation in 1854, and the first such passenger elevator was installed at 488 Broadway in New York City on March 23, 1857.
+The first elevator shaft preceded the first elevator by four years. Construction for Peter Cooper's Cooper Union Foundation building in New York began in 1853.
+---------------------
+To continue evacuating a chamber indefinitely without requiring infinite growth, a compartment of the vacuum can be repeatedly closed off, exhausted, and expanded again. This is the principle behind positive displacement pumps, like the manual water pump for example. Inside the pump, a mechanism expands a small sealed cavity to create a vacuum. Because of the pressure differential, some fluid from the chamber (or the well, in our example) is pushed into the pump's small cavity. The pump's cavity is then sealed from the chamber, opened to the atmosphere, and squeezed back to a minute size.
+The above explanation is merely a simple introduction to vacuum pumping, and is not representative of the entire range of pumps in use. Many variations of the positive displacement pump have been developed, and many other pump designs rely on fundamentally different principles. Momentum transfer pumps, which bear some similarities to dynamic pumps used at higher pressures, can achieve much higher quality vacuums than positive displacement pumps. Entrapment pumps can capture gases in a solid or absorbed state, often with no moving parts, no seals and no vibration. None of these pumps are universal; each type has important performance limitations. They all share a difficulty in pumping low molecular weight gases, especially hydrogen, helium, and neon.
+The lowest pressure that can be attained in a system is also dependent on many things other than the nature of the pumps. Multiple pumps may be connected in series, called stages, to achieve higher vacuums. The choice of seals, chamber geometry, materials, and pump-down procedures will all have an impact. Collectively, these are called vacuum technique. And sometimes, the final pressure is not the only relevant characteristic. Pumping systems differ in oil contamination, vibration, preferential pumping of certain gases, pump-down speeds, intermittent duty cycle, reliability, or tolerance to high leakage rates.
+---------------------
+they usually do not have the same safety features found in passenger elevators, like various ropes for redundancy. they have a lower capacity, and they can be up to 1 meter (3 ft.) tall. there's a control panel at every stop, that mimics the ones found in passenger elevators, like calling, door control, floor selection.
+Material transport elevators generally consist of an inclined plane on which a conveyor belt runs. The conveyor often includes partitions to ensure that the material moves forward. These elevators are often used in industrial and agricultural applications. When such mechanisms (or spiral screws or pneumatic transport) are used to elevate grain for storage in large vertical silos, the entire structure is called a grain elevator. Belt elevators are often used in docks for loading loose materials such as coal, iron ore and grain into the holds of bulk carriers
+Elevators necessitated new social protocols. When Nicholas II of Russia visited the Hotel Adlon in Berlin, his courtiers panicked about who would enter the elevator first, and who would press the buttons. In Lifted: A Cultural History of the Elevator, author Andreas Bernard documents other social impacts caused by the modern elevator, including thriller movies about stuck elevators, casual encounters and sexual tension on elevators, the reduction of personal space, and concerns about personal hygiene.
+In addition to the call buttons, elevators usually have floor indicators (often illuminated by LED) and direction lanterns. The former are almost universal in cab interiors with more than two stops and may be found outside the elevators as well on one or more of the floors. Floor indicators can consist of a dial with a rotating needle, but the most common types are those with successively illuminated floor indications or LCDs. Likewise, a change of floors or an arrival at a floor is indicated by a sound, depending on the elevator.
+Direction lanterns are also found both inside and outside elevator cars, but they should always be visible from outside because their primary purpose is to help people decide whether or not to get on the elevator. If somebody waiting for the elevator wants to go up, but a car comes first that indicates that it is going down, then the person may decide not to get on the elevator. If the person waits, then one will still stop going up.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What type of wood was used on the inside?
+        
+        assistant
+         Maple wood.",maple,0.0009124279022216797,0.41929173469543457,-0.013816818594932556
+179,The building owner's name is typically on the permit required for the operation of an elevator.,the building owner,0.0009279251098632812,1.0103321075439453,0.5811092853546143
+180,1869.,1869,0.0009343624114990234,0.4774634838104248,0.9654102921485901
+181,Low-volume hours.,low-volume hours,0.0008494853973388672,0.47178101539611816,0.9304720759391785
+182,The hall buttons are disabled.,the hall buttons are disabled,0.0008623600006103516,0.5739362239837646,0.984359622001648
+183,The largest star on the flag of China in 1949 symbolized the Communist Party.,the Communist Party,0.0008280277252197266,0.9728376865386963,0.4618270695209503
+184,The text does not mention John Von Neumann's birth date.,"December 28, 1903",0.0008640289306640625,0.7860262393951416,0.2333136796951294
+185,The method of inner models.,method of inner models,0.0008754730224609375,0.5563812255859375,0.9553850293159485
+186,A red cross on a white field.,a red cross on a white field,0.0007777214050292969,0.6517124176025391,0.9908658862113953
+187,The Kármán line.,Kármán line,0.0009465217590332031,0.5899519920349121,0.9121639728546143
+188,The Vienna Convention on Road Signs and Signals of 1968.,Vienna Convention on Road Signs and Signals of 1968,0.00079345703125,0.8218302726745605,0.9851568341255188
+189,i rossoneri,i rossoneri,0.0009167194366455078,0.5173101425170898,1.0000001192092896
+190,Gaetano Genovese.,Gaetano Genovese,0.0009148120880126953,0.5944564342498779,0.9897316694259644
+191,"The axiom of foundation, introduced by von Neumann, excluded a set from belonging to itself.",if one set belongs to another then the first must necessarily come before the second in the succession,0.0008823871612548828,1.050208330154419,0.3205493092536926
+192,Approximately 1 in 12 million (eight millionths of one percent) of elevator rides resulted in an anomaly.,eight millionths of one percent (1 in 12 million) of elevator rides,0.0008921623229980469,1.204582691192627,0.822871208190918
+193,Armed Forces Special Weapons Project (AFSWP),Armed Forces Special Weapons Project,0.0009157657623291016,0.7085616588592529,0.8412832021713257
+194,Axiomatization of set theory.,axiomatization of set theory,0.0008962154388427734,0.6511294841766357,0.992120623588562
+195,Vladimir Lenin.,Vladimir Lenin,0.0008699893951416016,0.4461195468902588,0.974613606929779
+196,Aluminium and Palladium.,stainless steel or titanium,0.0008344650268554688,0.5121603012084961,0.5102903246879578
+197,A nonnegative least squares subproblem with a convexity constraint.,pivoting algorithm between simplices,0.0009164810180664062,0.8404171466827393,0.05819510668516159
+198,"The fire-service key switch on the fire-recall floor is used to turn fire service off, then switch it to bypass after the alarms have reset.",The only way to return the elevator to normal service is to switch it to bypass after the alarms have reset,0.0008499622344970703,1.4722723960876465,0.5641049742698669
+199,Additive primary colors.,additive primary colors,0.000926971435546875,0.5397038459777832,0.9728425741195679
+200,The Paris Commune.,the Paris Commune,0.0009477138519287109,0.5403673648834229,0.9902989864349365
+201,A wall-sized screen.,on a wall-sized screens,0.0009582042694091797,0.5385878086090088,0.8474261164665222
+202,Rayleigh scattering.,Rayleigh,0.0008602142333984375,0.48095178604125977,0.6060718894004822
+203,"He was the cleverest man Bronowski ever knew, a genius.","He was the cleverest man I ever knew, without exception. He was a genius.",0.0008521080017089844,0.8297288417816162,0.7526756525039673
+204,The Royal Palace of Caserta.,Royal Palace of Caserta,0.0008432865142822266,0.5925619602203369,0.9828966856002808
+205,The 4th century.,4th century,0.0009243488311767578,0.5249862670898438,0.9366088509559631
+206,The color red is often associated with the blood of Christ and Christian martyrs in Christian nations.,Christ's blood,0.0008597373962402344,1.044966459274292,0.558513879776001
+207,"John von Neumann's major contribution to economics was his model of an expanding economy, which introduced fixed-point theorems, linear inequalities, and other concepts that revolutionized economic theory.",game theory,0.0008721351623535156,1.7588107585906982,0.3022140860557556
+208,Red ochre was composed of iron oxide.,minerals,0.0009140968322753906,0.6678688526153564,0.3008398115634918
+209,"Red, blue, and white.",the colors of the Russian flag,0.0008487701416015625,0.6107869148254395,0.416479229927063
+210,Summer.,the summer growing season,0.0008800029754638672,0.4053075313568115,0.7365460991859436
+211,London.,London,0.0009226799011230469,0.3993680477142334,0.9624133110046387
+212,"""Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin.""",this will make the computer think multiple people are waiting and will allocate empty cars to serve this one person,0.0008676052093505859,1.2446200847625732,0.09520974010229111
+213,When the vacuum pressure falls below the material's vapour pressure.,vacuum pressure falls below this vapour pressure,0.0008726119995117188,0.819779634475708,0.8207335472106934
+214,Celebrate each execution.,celebrate,0.0008862018585205078,0.5120623111724854,0.5530907511711121
+215,32,thirty-two papers,0.00080108642578125,0.405834436416626,0.4103594422340393
+216,"The root of the rubia tinctorum, the madder plant.",rubia tinctorum,0.0008728504180908203,0.8949000835418701,0.7376506328582764
+217,The French Army.,the French Army,0.0009334087371826172,0.49797916412353516,0.9851058721542358
+218,"Von Neumann's model of an expanding economy proved the existence and uniqueness of an equilibrium, introducing fixed-point theorems and linear inequalities to economic theory.",unique in having made significant contributions to economic theory itself.,0.0008656978607177734,1.5044276714324951,0.52068030834198
+219,"October 20, 1789.","October 20, 1789",0.0008840560913085938,0.6341025829315186,0.9900662899017334
+220,Madder.,madder,0.0008420944213867188,0.44098520278930664,0.9493960738182068
+221,Quantum logics.,propositional calculus,0.0009491443634033203,0.48015737533569336,0.4489865005016327
+222,"Aristotle believed that no void could occur naturally, as the denser surrounding material continuum would immediately fill any incipient rarity that might give rise to a void.","no void could occur naturally,",0.0008835792541503906,1.495382308959961,0.7738630771636963
+223,Water absorption.,water absorption,0.0008859634399414062,0.4448890686035156,0.9318520426750183
+224,"255, 00, 00.","255, 00, 00",0.0008256435394287109,0.6954178810119629,0.9736074805259705
+225,Group theory.,algebraic concept of solvability of a group is relevant,0.0009326934814453125,0.46653032302856445,0.530418872833252
+226,The 4th century.,4th,0.0009303092956542969,0.5660908222198486,0.38453662395477295
+227,"The Kármán line, at 100 km (62 mi) of altitude.",the Kármán line,0.0008625984191894531,1.0138287544250488,0.5616729855537415
+228,"During up-peak mode, elevators are dispatched one-by-one when they reach a pre-determined passenger load, or when they have had their doors opened for a certain period of time.","when they reach a pre-determined passenger load, or when they have had their doors opened for a certain period of time",0.000843048095703125,1.7706372737884521,0.6410825252532959
+229,"The direction lantern, which indicates whether the elevator is going up or down.","If somebody waiting for the elevator wants to go up, but a car comes first that indicates that it is going down",0.00087738037109375,0.9008238315582275,0.6152428388595581
+230,Reduced travel time.,travel time is reduced as the elevator makes fewer stops for individual passengers,0.0008440017700195312,0.485123872756958,0.6681386828422546
+231,The Locomotives on Highways Act 1896.,the Locomotives on Highways Act 1896,0.0009567737579345703,0.8234415054321289,0.9955824613571167
+232,The methods of argument he employed.,methods of argument he employed,0.0009527206420898438,0.5957996845245361,0.9687248468399048
+233,Elevators with more than 30 m (98 ft) of travel.,Elevators with more than 30 m (98 ft) of travel,0.0008530616760253906,0.9256975650787354,0.9789280295372009
+234,An elevator.,takes place on an elevator,0.0009214878082275391,0.43935132026672363,0.8805281519889832
+235,The chemical composition of the gases being measured.,chemical composition of the gases being measured,0.0009000301361083984,0.6705005168914795,0.9764981269836426
+236,Incompleteness.,they cannot prove every truth which is expressible in their language,0.0009443759918212891,0.5187885761260986,0.2781069874763489
+237,To be visible from a distance in a crowd.,to be visible from a distance in a crowd,0.0008382797241210938,0.703223705291748,0.8921253681182861
+238,Phosphate.,phosphate,0.0009074211120605469,0.4440786838531494,0.9607870578765869
+239,Elevating grain for storage in large vertical silos.,to elevate grain for storage in large vertical silos,0.0008039474487304688,0.7448990345001221,0.986467719078064
+240,1941,1941,0.0009312629699707031,0.4636852741241455,0.9999999403953552
+241,The elevator to move faster.,the faster the elevator would move,0.0009262561798095703,0.5586452484130859,0.882842481136322
+242,A 660 nm laser diode.,a 660 nm laser,0.000888824462890625,0.6280856132507324,0.8505772948265076
+243,Knurled roller(s),knurled roller(s),0.0008325576782226562,0.5563173294067383,1.0
+244,"In case of a power failure, the cab will automatically go down.",The elevator will then travel non-stop to the selected floor,0.0008225440979003906,0.86570143699646,0.28805896639823914
+245,2000.,2000,0.0008907318115234375,0.48000431060791016,0.9515540599822998
+246,Vacuum servo.,vacuum servo,0.000885009765625,0.44562506675720215,0.9330974817276001
+247,Look out from the top of the structure.,look out from the top of the structure,0.0009398460388183594,0.6618862152099609,0.9814385771751404
+248,Four.,four,0.0008251667022705078,0.42197489738464355,0.9432603716850281
+249,18 months.,eighteen months,0.0008285045623779297,0.4798243045806885,0.9173035621643066
+250,Saint Denis was the Christian martyr and patron saint of Paris.,Christian martyr and patron saint of Paris,0.000789642333984375,0.783240556716919,0.8330072164535522
+251,AC or DC motor.,high-speed drive motor,0.0009226799011230469,0.5165536403656006,0.44988080859184265
+252,handheld plungers in water.,handheld plungers in water.,0.0009517669677734375,0.5549812316894531,1.000000238418579
+253,Positive displacement pumps.,displacement pumps,0.0008726119995117188,0.4709155559539795,0.8635550737380981
+254,White light.,white,0.0008547306060791016,0.45914649963378906,0.7110196352005005
+255,Available floor space.,the available floor space,0.0007722377777099609,0.48359107971191406,0.9429064989089966
+256,Large goods transportation or moving groups of people between certain floors.,when transporting large goods or moving groups of people between certain floors,0.0008461475372314453,0.7806813716888428,0.9233653545379639
+257,Conserved by perspective mappings and ordered by inclusion.,"conserved by perspective mappings (""perspectivities"") and ordered by inclusion",0.0008692741394042969,0.711517333984375,0.9305218458175659
+258,Single-bottom hydraulic cylinders.,single-bottom,0.0009486675262451172,0.5196003913879395,0.5661894679069519
+259,To hurry the elevator.,people believe this to be an effective way to hurry elevators,0.0009303092956542969,0.5155453681945801,0.7648352384567261
+260,Mathematics and literature.,"gossiping and giggling, swapping Jewish jokes, and drifting in and out of mathematical talk",0.0008523464202880859,0.4514904022216797,0.2968282103538513
+261,"The doorways of the top few ""floors"" are open to the outdoor environment.","The doorways of the top few ""floors"" of the attraction are open to the outdoor environment",0.0008206367492675781,1.00579833984375,0.9067196846008301
+262,Nonnegative matrices A and B.,matrix pencil  A − λB with nonnegative matrices A and B,0.0008785724639892578,0.593454122543335,0.7593578696250916
+263,2,two major mathematical papers,0.0009310245513916016,0.4032323360443115,0.18409846723079681
+264,The 1960s.,advances in computing of the 1960s.,0.0009119510650634766,0.5567116737365723,0.5617746710777283
+265,A barrel.,a barrel,0.0007746219635009766,0.4635465145111084,0.9793840646743774
+266,To encourage passengers to make maximum use of the available elevator system capacity.,to encourage passengers to make maximum use of the available elevator system capacity,0.0008471012115478516,0.8577313423156738,0.9508379101753235
+267,10 years old.,ten,0.0008630752563476562,0.5217998027801514,0.5998224020004272
+268,Residential elevators.,residential,0.00093841552734375,0.4802234172821045,0.5614330768585205
+269,"No, he was one of its most persistent proponents.","he was one of its most persistent proponents, encouraging its continued development",0.0008108615875244141,0.745262861251831,0.7789461612701416
+270,A separate set of cables or a chain attached to the bottom of the counterweight and the bottom of the elevator cab.,a separate set of cables or a chain attached to the bottom of the counterweight and the bottom of the elevator cab,0.0008325576782226562,1.2637176513671875,0.9821717143058777
+271,Otto von Guericke.,Otto von Guericke,0.0008597373962402344,0.5542051792144775,0.9884521961212158
+272,The elevator doors open.,it will park with its doors open and the car buttons will be disabled to prevent a passenger from taking control of the elevator,0.0009074211120605469,0.5163838863372803,0.521793007850647
+273,A red Phrygian cap.,"red Phrygian cap, or liberty cap",0.0008285045623779297,0.5978736877441406,0.819333016872406
+274,"Freight elevators are larger, heavier-duty, and designed to carry goods, whereas passenger elevators are designed for people.",Freight elevators are typically larger and capable of carrying heavier loads than a passenger elevator,0.0008232593536376953,1.2380359172821045,0.8841143846511841
+275,"Red is found at the end of the spectrum of visible light, next to orange and opposite violet.",620–740 nanometres,0.0008580684661865234,1.107769250869751,0.12133178114891052
+276,The dispatching algorithm.,The dispatching algorithm,0.0008792877197265625,0.5212857723236084,0.9810367226600647
+277,"High-speed, high-rise, and large capacity elevators require a more complex braking system, often using disc type brakes for breaking power, compactness, and redundancy.",the need for infinitely variable speed control over the traction machine,0.0009343624114990234,1.5934193134307861,0.3362392485141754
+278,1962.,1962,0.0009286403656005859,0.45511674880981445,0.9593217968940735
+279,"The atmospheric density within the first few hundred kilometers above the Kármán line produces significant drag on satellites, requiring them to fire their engines every few days to maintain orbit.",atmospheric density,0.0009317398071289062,1.6475577354431152,0.4109536111354828
+280,Each of its members are necessarily indeterminate.,each of its members are necessarily indeterminate,0.0008876323699951172,0.6874167919158936,0.9759960174560547
+281,The end of the 1880s.,end of the 1880s,0.0008578300476074219,0.6706893444061279,0.9722754955291748
+282,Solar sails.,solar sails,0.0009298324584960938,0.4388396739959717,0.9626151323318481
+283,The components of the IAS machine were designed and built at the RCA Research Laboratory.,RCA Research Laboratory,0.000865936279296875,0.9746382236480713,0.6075119972229004
+284,It could not rightly be said to exist.,cannot rightly be said to exist,0.0009007453918457031,0.6732215881347656,0.8327687382698059
+285,A red flag is often used to signal bad water conditions or storms at a beach.,bad water conditions,0.0008156299591064453,0.9911751747131348,0.3271665871143341
+286,620–740 nanometres.,roughly 620–740,0.0008482933044433594,0.6555566787719727,0.5214822292327881
+287,the elevator's cab to its guides in case of excessive speed.,that the inner and outer doors were closed before the elevator was allowed to move,0.0009019374847412109,0.8197798728942871,0.5000317096710205
+288,The von Neumann bicommutant theorem shows that the analytic definition of a von Neumann algebra is equivalent to a purely algebraic definition as an algebra of symmetries.,the analytic definition is equivalent to a purely algebraic definition as an algebra of symmetries.,0.0008749961853027344,1.6884055137634277,0.7149186730384827
+289,Late nineteenth century.,the late nineteenth century,0.0009262561798095703,0.4985365867614746,0.9698877334594727
+290,Moderate incoming traffic.,moderate incoming traffic,0.0008463859558105469,0.49776268005371094,0.9386692047119141
+291,QED vacuum.,QED,0.000850677490234375,0.4818124771118164,0.6775937080383301
+292,1930 (to Mariette Kövesi) and 1938 (to Klara Dan),New Year's Day in 1930,0.0008885860443115234,1.1236166954040527,0.490098237991333
+293,Naphtol and Lithol.,Naphtol and Lithol,0.0008733272552490234,0.6147778034210205,0.9804139137268066
+294,"The composition of gases at high vacuums is unpredictable, so a mass spectrometer is needed to provide accurate measurement.",composition of gases at high vacuums will usually be unpredictable,0.0008046627044677734,1.2455646991729736,0.5761873126029968
+295,Yes.,"class of all sets which do not belong to themselves can be constructed, but it is a proper class and not a set.",0.0009531974792480469,0.405991792678833,-0.00038583017885684967
+296,Zero to 255.,"zero to 255,",0.0007648468017578125,0.5199406147003174,0.9752112627029419
+297,"Mechanically, allowing continuous use of elevator shafts while passengers board and disembark.",mechanically,0.0008893013000488281,0.9665369987487793,0.5816970467567444
+298,Hungarian-American.,Hungarian,0.0009124279022216797,0.4118344783782959,0.8714057207107544
+299,A residential elevator.,high-speed glass-top,0.0008788108825683594,0.48259520530700684,0.15181761980056763
+300,1979.,1979,0.0008831024169921875,0.49848103523254395,0.9622029662132263
+301,Two weeks.,died within two weeks,0.0008804798126220703,0.41037511825561523,0.5356478691101074
+302,3 km.,of up to 3 km,0.0008568763732910156,0.5000088214874268,0.8228687047958374
+303,133.3223684 pascals above absolute zero pressure.,displacement of a millimeter of mercury,0.0008332729339599609,0.8691554069519043,0.2664111852645874
+304,1945.,1945,0.0008625984191894531,0.48187875747680664,0.9676908850669861
+305,A proper class is a class that does not belong to other classes.,a class which does not belong to other classes,0.0008311271667480469,0.8609051704406738,0.6256436109542847
+306,Iron oxide.,iron oxide,0.0008471012115478516,0.46320104598999023,0.9548722505569458
+307,"A manifold vacuum on a car is used to drive accessories, such as the vacuum servo for power assistance on the brakes.",drive accessories,0.0008261203765869141,1.233896017074585,0.46243011951446533
+308,"The Romans acquired cinnabar from mines near Almadén, southwest of Madrid, in Spain.","Almadén, southwest of Madrid, in Spain",0.0009305477142333984,1.0650062561035156,0.4389685392379761
+309,The mean free path (MFP) of residual gases indicates the average distance that molecules will travel between collisions with each other.,average distance that molecules will travel between collisions with each other.,0.0009195804595947266,1.2904934883117676,0.5544601678848267
+310,The production of anthocyanin pigments.,greater the production of anthocyanins,0.0008685588836669922,0.7301850318908691,0.810759425163269
+311,Material transport elevator.,Material transport elevators,0.0008897781372070312,0.4801912307739258,0.9376618266105652
+312,"No, some jurisdictions allow the permit to be kept on file elsewhere and displayed on demand.","some jurisdictions require the permit to be displayed in the elevator cab, other jurisdictions allow for the operating permit to be kept on file elsewhere",0.0008461475372314453,1.0091629028320312,0.6160072684288025
+313,It's used to raise and lower entire sections of a theater stage.,"to raise an entire orchestra, or an entire cast of performers (including live elephants) up to stage level from below",0.0009133815765380859,0.8579490184783936,0.49793916940689087
+314,10 horns.,ten,0.0008373260498046875,0.4783134460449219,0.579556941986084
+315,"A climbing elevator is a self-ascending elevator with its own propulsion, typically used in guyed masts or towers for maintenance access.",a self-ascending elevator with its own propulsion,0.0008437633514404297,1.347743034362793,0.7182098627090454
+316,Zermelo–Fraenkel approach.,Zermelo–Fraenkel,0.0008957386016845703,0.6693971157073975,0.8351097702980042
+317,Orange.,orange,0.0009212493896484375,0.4033958911895752,0.9254191517829895
+318,Garrett Birkhoff.,Garrett Birkhoff,0.0009503364562988281,0.5379788875579834,0.9867660999298096
+319,No information is provided about Von Neumann's siblings in the given context.,two younger brothers,0.0008037090301513672,0.9002668857574463,0.3271510601043701
+320,Göttingen (1926) and Berlin (1927-1929).,Göttingen,0.0009250640869140625,0.9955732822418213,0.7446654438972473
+321,ENIAC.,ENIAC,0.0008776187896728516,0.48271775245666504,0.9751596450805664
+322,All possible responses of his adversary.,all the possible responses of his adversary.,0.000946044921875,0.5927815437316895,0.9928492307662964
+323,"Red, green, and blue.",Red Green Blue,0.0009241104125976562,0.6118602752685547,0.7184091210365295
+324,Italy.,Italy,0.0009126663208007812,0.33504724502563477,0.952889084815979
+325,200 ft/min.,200,0.0008656978607177734,0.5156447887420654,0.35871392488479614
+326,Von Neumann's digital computers.,von Neumann's digital computers,0.0007991790771484375,0.5954234600067139,0.9621000289916992
+327,The ground state of the Hilbert space.,vacuum,0.0008697509765625,0.6948592662811279,0.09591177105903625
+328,Four other scientists and various military personnel.,four other scientists and various military personnel,0.0009331703186035156,0.6326136589050293,0.9853930473327637
+329,Burton and Hormer.,Burton and Hormer,0.0008487701416015625,0.5126585960388184,0.9913667440414429
+330,5%,not depart by more than 5% from spherical symmetry,0.0008370876312255859,0.4364323616027832,0.30544906854629517
+331,Abū Rayhān al-Bīrūnī,Abū Rayhān al-Bīrūnī,0.0009255409240722656,0.7822942733764648,1.0
+332,Red helium–neon laser.,Red helium–neon,0.0009279251098632812,0.5934338569641113,0.7824440598487854
+333,Inside the elevator on the centralized control panel.,on the COP,0.0008363723754882812,0.6711306571960449,0.2422226518392563
+334,Bishop Etienne Tempier.,Bishop Etienne Tempier,0.0008504390716552734,0.5576515197753906,0.9844739437103271
+335,"In emergencies, hydraulic elevators lower to the lowest landing, open the doors, and remain unusable until reset.",emergency power will lower the elevators to the lowest landing and open the doors to allow passengers to exit,0.0008919239044189453,1.1935837268829346,0.7167474031448364
+336,A single-level elevator stopping at all adjacent floors.,a single-level elevator stopping at all adjacent floors,0.0009357929229736328,0.7032835483551025,0.9772710800170898
+337,A *-algebra of bounded operators on a Hilbert space that is closed in the weak operator topology and contains the identity operator.,algebra of bounded operators on a Hilbert space that is closed in the weak operator topology and contains the identity operator,0.0008542537689208984,1.3499572277069092,0.9201685786247253
+338,Klara Dan,Mariette Kövesi,0.0008554458618164062,0.44447779655456543,0.5567111968994141
+339,A 3-station underground public elevator.,underground public elevator,0.0009593963623046875,0.6638696193695068,0.8770403861999512
+340,"There are 4 hydraulic elevators at Radio City Music Hall, but they are actually stage lifts, not passenger elevators.",four,0.0008668899536132812,1.284052848815918,0.23976880311965942
+341,"Yes, he could recall written text verbatim years later.",he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes.,0.0008955001831054688,0.8063435554504395,0.24845847487449646
+342,1850,1850,0.000812530517578125,0.44296717643737793,0.9999999403953552
+343,Rouge d'Adrinople.,rouge d'Adrinople,0.0007932186126708984,0.5935568809509277,0.987099289894104
+344,"The uncertainty principle, formulated by Werner Heisenberg, states that there is a fundamental limit to the precision with which certain properties, such as position and momentum, or energy and time, can be measured simultaneously.",determination of the position of a particle prevents the determination of its momentum and vice versa,0.0009214878082275391,1.942955493927002,0.49370846152305603
+345,The null hypothesis is tested against the alternative hypothesis.,alternative that they follow a stationary first order autoregression,0.0008637905120849609,0.726210355758667,0.10254602879285812
+346,"It allows passengers to register their floor calls before entering the car, reducing travel time by directing them to the most efficient elevator.",a passenger registers their floor calls before entering the car,0.0008246898651123047,1.2988297939300537,0.6871092319488525
+347,Red ochre.,Red ochre,0.0008647441864013672,0.4832947254180908,0.9795914888381958
+348,Nicholas Kaldor.,Nicholas Kaldor,0.0009007453918457031,0.5190844535827637,0.9835061430931091
+349,"The Russians were building a similar weapon system to the hydrogen bomb, according to von Neumann.","Russians believed that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons",0.0008306503295898438,1.0516753196716309,0.7745836973190308
+350,"""Soft-start"" contactors.","""soft-start"" contactors",0.0009181499481201172,0.5928540229797363,0.9688547849655151
+351,1792 and 1793.,1792 and 1793,0.0008444786071777344,0.6290078163146973,0.9856377840042114
+352,The 1972 ASME A17.1 Elevator Safety Code change.,1972 ASME A17.1,0.0009138584136962891,0.9367685317993164,0.6561877727508545
+353,"Yes, many mathematicians were amazed by von Neumann's incredible mental abilities and speed.","Paul Halmos states that ""von Neumann's speed was awe-inspiring.""",0.0008695125579833984,1.0317704677581787,0.7035795450210571
+354,To turn common elevators into panoramic.,to turn common elevator into panoramic,0.0008571147918701172,0.6537034511566162,0.8252981305122375
+355,a vertical cylinder.,encased inside a vertical cylinder,0.0008566379547119141,0.45412540435791016,0.7182410955429077
+356,Funiculars.,funiculars,0.0008833408355712891,0.5137193202972412,0.9757822751998901
+357,Residential elevator.,residential,0.0008912086486816406,0.44623303413391113,0.6068836450576782
+358,2,150,0.0008306503295898438,0.40211057662963867,0.48178422451019287
+359,Mercury.,mercury,0.0008022785186767578,0.424083948135376,0.9648433923721313
+360,"In Chinese Imperial architecture, particularly in the gates of palaces and the walls of nobles' mansions.",all court ceremonies,0.0008554458618164062,1.1551671028137207,0.15713992714881897
+361,"Von Neumann argued that the relative inaccuracy of ICBMs wouldn't be a problem with H-bombs, making them the most effective weapon possible.","while the technical obstacles were sizable, they could be overcome in time",0.0008635520935058594,1.5136268138885498,0.23033961653709412
+362,"""horror vacui""",horror vacui,0.0008704662322998047,0.5570878982543945,0.9386595487594604
+363,A notice informing riders of where the actual permits are kept.,a notice is posted in its place informing riders of where the actual permits are kept.,0.0008287429809570312,0.7846658229827881,0.949965238571167
+364,Hans Bethe wondered if von Neumann's brain indicated a species superior to that of man.,I have sometimes wondered whether a brain like von Neumann's does not indicate a species superior to that of man,0.0009014606475830078,1.0147268772125244,0.8524273633956909
+365,36 and 60.,"36 and 60, upper-deck car",0.0009098052978515625,0.554875373840332,0.6020903587341309
+366,Abbe Suger.,Abbe Suger,0.0008494853973388672,0.5185990333557129,0.9796276092529297
+367,Low temperature outgassing.,Deep vacuum lowers the boiling point of liquids and promotes low temperature outgassing,0.0008664131164550781,0.555077314376831,0.646109938621521
+368,The engine and an external venturi.,engine and an external venturi,0.0008807182312011719,0.6270291805267334,0.8718901872634888
+369,Neolithic Period.,Neolithic Period,0.0008862018585205078,0.4778413772583008,0.9695636034011841
+370,"The hold feature keeps the elevator at a floor, locked out of service, until the code-blue key switch is deactivated.",allows the elevator to remain at a floor locked out of service until code blue is deactivated,0.0007898807525634766,1.244621992111206,0.7860414385795593
+371,Princeton University.,New York exposition in the Crystal Palace,0.0009160041809082031,0.44629907608032227,0.21988847851753235
+372,Environmental concerns.,environmental concerns,0.00080108642578125,0.44338130950927734,0.9530333280563354
+373,The first vacuum pump.,vacuum pump,0.0008275508880615234,0.5185542106628418,0.8278170228004456
+374,1937,1937,0.0008630752563476562,0.44484972953796387,1.0
+375,June 1848.,June 1848,0.0008897781372070312,0.5407633781433105,0.9771339297294617
+376,1959,1959,0.0009043216705322266,0.4422588348388672,1.000000238418579
+377,The Eötvös Prize.,"Eötvös Prize, a national prize for mathematics",0.0008218288421630859,0.5991332530975342,0.8249627351760864
+378,The player is immediately disqualified from further play and their team must continue with one less player for the game's duration.,the player is immediately disqualified from further play,0.0008714199066162109,1.1915957927703857,0.8710644841194153
+379,Rise.,to rise,0.0009019374847412109,0.40404605865478516,0.8335243463516235
+380,LED.,LED,0.0009386539459228516,0.40570664405822754,0.9077572822570801
+381,A counterweight.,cables are attached to a hitch plate on top of the cab,0.0008342266082763672,0.47724366188049316,0.07714065909385681
+382,An AC/DC motor generator.,MG set,0.0007736682891845703,0.5903992652893066,0.16476422548294067
+383,DigiGage.,DigiGage,0.0008704662322998047,0.5159132480621338,0.9774612784385681
+384,To decide on the feasibility of building an ICBM large enough to carry a thermonuclear weapon.,decide on the feasibility of building an ICBM large enough to carry a thermonuclear weapon,0.0009162425994873047,1.1240170001983643,0.9205852746963501
+385,"The handle was considered a ""dead man switch"" because it would return to its upright position if the operator let go of it, causing the elevator to stop.","if the operator let go of the handle, it would return to its upright position, causing the elevator cab to stop",0.0008513927459716797,1.5533311367034912,0.7668957710266113
+386,By the spin of an electron in two different directions.,illustrated by a simple example,0.0008783340454101562,0.7468290328979492,0.2079479843378067
+387,Radiation implosion.,using a fission bomb to compress fusion fuel to initiate nuclear fusion,0.0008442401885986328,0.4475421905517578,0.2519169747829437
+388,Garrett Birkhoff.,Garrett Birkhoff,0.0009310245513916016,0.5201127529144287,0.9867660999298096
+389,Rope or chain hoists.,moving goods in bulk in mines and factories,0.0009088516235351562,0.5551097393035889,0.11482586711645126
+390,"Turning the phase-two key switch to the ""on"" position.","a key switch on the car operating panel usually labeled 'Inspection', 'Car Top', 'Access Enable' or 'HWENAB",0.0009050369262695312,0.8211908340454102,0.3890419006347656
+391,"Father Anselm Strittmatter, O.S.B.",Father Strittmatter,0.0008687973022460938,0.7509298324584961,0.7784910798072815
+392,Mao Zedong.,Mao Zedong,0.0009047985076904297,0.48354363441467285,0.9780166745185852
+393,Königsberg.,Congress of Königsberg,0.0008809566497802734,0.5174849033355713,0.7204737067222595
+394,They exploited Pascal's law to provide a much greater force by supplying a variable level of water pressure to a plunger.,they provided a much greater force,0.0007953643798828125,1.202350378036499,0.5204845666885376
+395,"Oskar Morgenstern believed that John von Neumann was ""completely agnostic"" all his life.","always believed him to be ""completely agnostic.""",0.0008714199066162109,1.2057147026062012,0.658820629119873
+396,1920s.,1920s,0.0008664131164550781,0.5203213691711426,0.9677363038063049
+397,906–1279.,906–1279,0.0008580684661865234,0.5523338317871094,0.9773305058479309
+398,Charlemagne.,Emperor Charlemagne,0.0008587837219238281,0.47823143005371094,0.8812198638916016
+399,"July 17, 1791.","July 17, 1791",0.0007917881011962891,0.6533043384552002,0.9920657873153687
+400,Ebullism.,ebullism,0.0008738040924072266,0.5009708404541016,0.9731025695800781
+401,Theo.,Theo,0.0007410049438476562,0.40726757049560547,0.9684399962425232
+402,Chemical engineering.,chemical engineer,0.000720977783203125,0.4446420669555664,0.9020625948905945
+403,Gravitational field.,tidal forces and gravitational waves,0.0007708072662353516,0.5225005149841309,0.4537532329559326
+404,"Vacuum fluctuation: Virtual particles that temporarily exist and disappear in a vacuum, causing energy fluctuations.",virtual particles that hop into and out of existence,0.0007572174072265625,1.048187494277954,0.6693152189254761
+405,The 14th century.,14th century,0.0008847713470458984,0.5451653003692627,0.9570556879043579
+406,2007,2007,0.0008594989776611328,0.44416260719299316,1.0000001192092896
+407,"A name written: ""Babylon the Great, the Mother of Harlots and of all the abominations of the earth"".",a name,0.000911712646484375,1.3464927673339844,0.3157352805137634
+408,1957,"February 8, 1957",0.0008449554443359375,0.4442629814147949,0.8200234174728394
+409,Computer virus.,computer virus,0.0007843971252441406,0.4438445568084717,0.7921870946884155
+410,There is no mention of Von Neumann's last work in the given context.,The Computer and the Brain,0.0008130073547363281,0.9013681411743164,0.17396759986877441
+411,The elevator will go to the fire-recall floor.,the elevator will go to the fire-recall floor,0.0008482933044433594,0.7459914684295654,0.9885775446891785
+412,Most elevators before WWII were manually controlled by elevator operators using a rheostat connected to the motor.,by elevator operators using a rheostat connected to the motor,0.0008511543273925781,1.0964608192443848,0.7716085910797119
+413,Measuring the temperature of the filament.,to measure the temperature of the filament,0.0009331703186035156,0.6353199481964111,0.9721808433532715
+414,80 million.,eighty million members,0.0008914470672607422,0.4441823959350586,0.6590997576713562
+415,20th century.,20th,0.0008130073547363281,0.5201096534729004,0.5784198045730591
+416,The blood of the martyrs of Jesus.,the blood of the martyrs of Jesus,0.0009202957153320312,0.6730725765228271,0.9558910727500916
+417,To allow firefighters to rescue people from a burning building.,This mode was created for firefighters so that they may rescue people from a burning building,0.0008409023284912109,0.7473220825195312,0.7510799169540405
+418,15,15,0.0009369850158691406,0.40483927726745605,1.0
+419,Electron microscopes and vacuum tubes.,electron microscopes and vacuum tubes,0.0008931159973144531,0.5931007862091064,0.980742335319519
+420,Chemical inertness.,chemical inertness,0.0007927417755126953,0.47850704193115234,0.952186644077301
+421,Aether.,aether,0.0008101463317871094,0.4439680576324463,0.9696049690246582
+422,"Dumbwaiters have control panels at every stop that mimic those found in passenger elevators, with features like calling, door control, and floor selection.","calling, door control, floor selection",0.0009059906005859375,1.5001850128173828,0.5778932571411133
+423,Reinforced.,strengthened,0.0008804798126220703,0.444913387298584,0.6733732223510742
+424,A written notice prohibiting passenger use.,a written notice in the car that the use by passengers is prohibited,0.0008401870727539062,0.6138699054718018,0.8827531337738037
+425,"The proof of von Neumann's that the statistical results of quantum mechanics could not be averages of an underlying set of determined ""hidden variables"" is limited and does not rule out all hidden variable theories.",the system is subject to gaming,0.0008590221405029297,1.8477327823638916,0.003513198345899582
+426,Louis Philippe.,Louis Philippe,0.0008425712585449219,0.46309995651245117,0.981336236000061
+427,"Steam and water hydraulic pistons, or by hand.",steam and water hydraulic pistons or by hand,0.0008614063262939453,0.7453804016113281,0.9354768991470337
+428,Hitler's.,Hitler's personal design,0.0008246898651123047,0.44483041763305664,0.5948801040649414
+429,Rarefied air.,rigid indestructible material,0.0009133815765380859,0.5208327770233154,0.17011374235153198
+430,1938.,October 1938,0.0009064674377441406,0.47719430923461914,0.8201518654823303
+431,The murals turned light blue.,ruined and had to be taken down,0.0007748603820800781,0.6130216121673584,0.12124121934175491
+432,A partial vacuum of about 10 Pa (0.1 Torr).,partial vacuum of about 10 Pa (0.1 Torr).,0.0007476806640625,0.8857059478759766,0.9824151992797852
+433,The illusion of the room stretching.,the illusion of the room stretching,0.0008301734924316406,0.587639570236206,0.9826119542121887
+434,An ivory painter's palette.,ivory painter's palette,0.0008168220520019531,0.5573387145996094,0.9543018937110901
+435,To detect a minute drag on the Earth's orbit.,"""While the interstellar absorbing medium may be simply the ether, [it] is characteris",0.0007605552673339844,0.7468430995941162,0.173292875289917
+436,Anthocyanin pigments.,anthocyanin pigments,0.0008764266967773438,0.5954165458679199,0.9841102957725525
+437,Quantum Chromodynamics vacuum.,"vacuum of quantum chromodynamics,",0.0007278919219970703,0.48735833168029785,0.9849100708961487
+438,Carmine.,carmine,0.0007803440093994141,0.44086265563964844,0.9590849876403809
+439,The Communist Party of China.,the Communist Party of China,0.0007195472717285156,0.52197265625,0.977904736995697
+440,There is no information in the given context about Von Neumann's mother and siblings joining him in the U.S.,1939,0.0008072853088378906,1.165403127670288,0.18764068186283112
+441,"The firefighter must locate the phase-two key switch inside the elevator on the centralized control panel and turn it to the ""on"" position.",manually pushes and holds the door close button,0.0009381771087646484,1.3509905338287354,0.24236750602722168
+442,Georg Cantor's definition.,Georg Cantor,0.0009462833404541016,0.555877685546875,0.8185791969299316
+443,There is no mention of a 1932 paper by von Neumann in the provided context.,Mathematical Foundations of Quantum Mechanics,0.0008308887481689453,1.0561254024505615,0.24275439977645874
+444,"""Top of the Rock""","""Top of the Rock""",0.0009396076202392578,0.5291869640350342,1.0000001192092896
+445,"Alamogordo Army Airfield, New Mexico.","Alamogordo Army Airfield,",0.0008356571197509766,0.7088363170623779,0.9044888019561768
+446,Danger and warning.,danger and warning,0.0008633136749267578,0.4824502468109131,0.962573766708374
+447,Air.,air's volume,0.0008647441864013672,0.4041438102722168,0.6275115013122559
+448,Hernán Cortés.,Hernán Cortés,0.0008587837219238281,0.5202376842498779,0.9824250340461731
+449,A bar mounted between the counterweight railway lines.,a bar mounted between the counterweight railway lines,0.0007715225219726562,0.7261710166931152,0.991352379322052
+450,"A mechanism expands a small sealed cavity to create a vacuum, pushing fluid from the chamber into the pump's small cavity due to pressure differential.",a mechanism expands a small sealed cavity,0.0008845329284667969,1.3784127235412598,0.7048205137252808
+451,"Red lake pigments were made by mixing organic dyes, made from insects or plants, with white chalk or alum.",mixing organic dyes,0.0008602142333984375,1.2501423358917236,0.532772421836853
+452,"No, it did not.","did not receive much peace or comfort from it, as he still remained terrified of death",0.000885009765625,0.526127815246582,0.1710018515586853
+453,A hoistway.,hoistway,0.0008764266967773438,0.5226988792419434,0.847398042678833
+454,"Switching to the ""bypass"" position on the fire-service key switch.",The elevator can now only be moved by the corresponding 'Access' key switches,0.0009131431579589844,0.9458730220794678,0.4102351665496826
+455,"""In vacuo""",in vacuo,0.0008759498596191406,0.5219511985778809,0.8851710557937622
+456,The first example of a continuous geometry other than projective space was the projections of the hyperfinite type II factor.,projections of the hyperfinite type II factor,0.0008199214935302734,1.1860830783843994,0.4145128130912781
+457,To provide access to the hoistway and car top for inspection and maintenance purposes by qualified elevator mechanics.,to provide access to the hoistway and car top for inspection and maintenance,0.0008893013000488281,1.1344897747039795,0.8266739249229431
+458,The stem of the plant.,the stem of the plant,0.0008490085601806641,0.5797567367553711,0.9804452657699585
+459,Pázmány Péter University in Budapest.,Pázmány Péter University in Budapest,0.0008680820465087891,0.7080624103546143,0.9740645885467529
+460,"488 Broadway in New York City on March 23, 1857.",488 Broadway in New York City,0.0009012222290039062,0.9364285469055176,0.8419758081436157
+461,Pump-down speeds and intermittent duty cycle.,"oil contamination, vibration",0.0008754730224609375,0.6058328151702881,0.12798582017421722
+462,40-50% of the elevator's capacity.,up to 525 lbs,0.0008234977722167969,0.7650916576385498,0.30087554454803467
+463,Carmine.,carmine,0.0008609294891357422,0.4406905174255371,0.9590849876403809
+464,God could create a vacuum if he so wished.,God could create a vacuum if he so wished.,0.0008196830749511719,0.7321157455444336,1.0
+465,The Virgin Mary.,Virgin Mary,0.0007903575897216797,0.47936534881591797,0.9294611215591431
+466,1927.,"1927,",0.0008645057678222656,0.5007157325744629,0.9669348001480103
+467,"Mutual Assured Destruction, a strategy of nuclear deterrence.",mutual assured destruction,0.0007441043853759766,0.7856690883636475,0.7849612236022949
+468,"The mean square ratio, derived by von Neumann, is applied to the residuals from regression models as the Durbin–Watson statistic for testing the null hypothesis that the errors are serially independent against the alternative that they follow a stationary first-order autoregression.",Durbin–Watson statistic,0.000835418701171875,2.3487095832824707,0.5667240023612976
+469,16th century.,16th,0.0008869171142578125,0.5198571681976318,0.4696597456932068
+470,Holidays or special occasions.,holidays,0.0008578300476074219,0.522756814956665,0.7706910371780396
+471,Theory of Games and Economic Behavior (with Oskar Morgenstern) and his papers on the Manhattan project.,Theory of Games and Economic Behavior,0.0007264614105224609,1.242811918258667,0.7332261204719543
+472,Counterweights and balances.,Counterweights and balances,0.0008723735809326172,0.521141529083252,0.960380494594574
+473,Anton Freissler.,Anton Freissler,0.0008511543273925781,0.5217275619506836,0.9887643456459045
+474,from the bottom up in an ordered succession of steps.,from the bottom up in an ordered succession of steps,0.0008807182312011719,0.751309871673584,0.9553200006484985
+475,Eumelanin.,eumelanin,0.0009410381317138672,0.5387036800384521,0.981220006942749
+476,There is no mention of von Neumann's economic model in the provided text.,"fixed-point theorems, linear inequalities, complementary slackness, and saddlepoint duality",0.0008857250213623047,0.9346187114715576,0.10882779955863953
+477,A simulated free-fall achieved through a high-speed elevator system.,a simulated free-fall achieved through the use of a high-speed elevator system,0.0008943080902099609,0.8132266998291016,0.9898290634155273
+478,1519-1521.,1519-1521,0.0009088516235351562,0.5907914638519287,0.9886147379875183
+479,"Budapest, Kingdom of Hungary.",Budapest,0.0007529258728027344,0.5751497745513916,0.8777238726615906
+480,John von Neumann.,Von Neumann,0.0008280277252197266,0.5404744148254395,0.8827890157699585
+481,Léon Walras.,Léon Walras,0.0008847713470458984,0.5773065090179443,0.984027087688446
+482,"Von Neumann's method used a pivoting algorithm between simplices, with the pivoting decision determined by a nonnegative least squares subproblem with a convexity constraint.",homogeneous linear system of Gordan,0.0009438991546630859,1.6404681205749512,0.1459111124277115
+483,Violet.,violet,0.0008373260498046875,0.4228236675262451,0.9618127942085266
+484,High current draw when starting the pump motor.,due to the high current draw when starting the pump motor,0.0008335113525390625,0.6680266857147217,0.9582730531692505
+485,Spain.,Spain,0.0008347034454345703,0.423647403717041,0.9543189406394958
+486,Computers tried to put too many grid points at regions of sharp discontinuity (shock waves).,they tried to put too many computational grid points at regions of sharp discontinuity (shock waves),0.0008840560913085938,1.073739767074585,0.9123890399932861
+487,"Courage, loyalty, honor, success, fortune, fertility, happiness, passion, and summer.",good fortune and prosperity,0.0008533000946044922,1.051945447921753,0.36144259572029114
+488,A Neolithic cave-burial.,Neolithic cave-burial,0.0008666515350341797,0.6551709175109863,0.9714912176132202
+489,An offer to become a professor at Princeton University.,Princeton University,0.0009379386901855469,0.7082922458648682,0.6985064744949341
+490,Crew Altitude Protection Suit (CAPS),the Crew Altitude Protection Suit (CAPS),0.0008456707000732422,0.6947827339172363,0.981818437576294
+491,Compact hydrogen bombs were suitable for Intercontinental Ballistic Missile (ICBM) delivery.,Intercontinental ballistic missile delivery,0.0008428096771240234,0.976935625076294,0.6098664402961731
+492,The Otis Elevator Company.,Otis Elevator Company,0.0008714199066162109,0.6021931171417236,0.9571362733840942
+493,600 meters per minute.,600 meters per minute,0.0009450912475585938,0.5576553344726562,0.9821719527244568
+494,ASME A17.2 Standard.,ASME A17.2 Standard,0.0009341239929199219,0.6366586685180664,0.983136773109436
+495,Anthocyanin.,anthocyanins,0.0009121894836425781,0.5205338001251221,0.9187910556793213
+496,Entrapment pumps.,Entrapment pumps,0.0008418560028076172,0.4930539131164551,0.9751590490341187
+497,"""Stages""",stages,0.0008707046508789062,0.45444226264953613,0.9513767957687378
+498,"Mutual assured destruction, or MAD, was a strategy to quickly develop ICBMs and compact hydrogen bombs to deter the USSR.",quickly develop ICBMs and the compact hydrogen bombs that they could deliver to the USSR,0.0008568763732910156,1.2800168991088867,0.7650610208511353
+499,The Weapons Systems Evaluation Group (WSEG).,Weapons Systems Evaluation Group,0.0008685588836669922,0.673161506652832,0.9009547829627991

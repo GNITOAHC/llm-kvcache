@@ -1,0 +1,501 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Sponges typically feed by drawing in water through pores.,drawing in water through pores,0.22773408889770508,2.742060661315918,0.5807777643203735
+1,1773.,1773,0.37221384048461914,0.8531484603881836,0.9729280471801758
+2,"The Act of ""Nihil novi nisi commune consensu"" (Latin for ""I accept nothing new except by common consent"") granted the nobility the right to approve any new laws passed by the king, effectively transferring legislative power from the king to the Sejm.",forbade the king to pass any new law without the consent of the representatives of the nobility,0.2946898937225342,3.171238899230957,0.4205596148967743
+3,J. Brent Walker.,J. Brent Walker,0.2517733573913574,0.797288179397583,0.9862083196640015
+4,"March 24 to August 8, 2008.",April 28.,0.3179478645324707,0.9432415962219238,0.6952589750289917
+5,The Silk Road.,Silk Road,0.3413357734680176,0.8418014049530029,0.9549000263214111
+6,"Olympia, Greece.","Olympia, Greece",0.24867916107177734,0.6553616523742676,0.9843223690986633
+7,Museum of Contemporary Art Detroit.,Museum of Contemporary Art Detroit,0.37627077102661133,0.9618375301361084,0.9895951151847839
+8,The separation of church and state.,constitutional limitation on religious establishment,0.3436722755432129,1.0101203918457031,0.6398825645446777
+9,Hereditary and privileged.,"formalized, hereditary",0.28549957275390625,0.7039802074432373,0.6432408690452576
+10,Co-proprietors of Piast realms.,co-proprietors of Piast realms,0.28432273864746094,1.0872116088867188,0.976728081703186
+11,A religious dimension.,a religious dimension,0.2399308681488037,0.5592765808105469,0.9742680191993713
+12,Night blooming cereus.,cereus,0.46679258346557617,0.7447645664215088,0.7025151252746582
+13,Belle Isle Park.,Belle Isle Park,0.5727584362030029,0.8642692565917969,0.9831501841545105
+14,The Paralympic Games.,Paralympic Games,0.8166778087615967,0.8009843826293945,0.967146098613739
+15,Crime rate and improving city services.,high crime rate,0.3850846290588379,1.0075218677520752,0.7341787219047546
+16,The establishment clause.,"""establishment clause""",0.3597235679626465,0.8631627559661865,0.9246662855148315
+17,The Plymouth Colony and Massachusetts Bay Colony both established churches.,churches,0.29363083839416504,1.2107367515563965,0.3779279589653015
+18,"""High (river)bank""","""high (river)bank""",0.2373960018157959,0.8023602962493896,1.0000001192092896
+19,Roger Williams was a Baptist theologian and the founder of the colony of Rhode Island.,Baptist theologian,0.34372377395629883,1.4253194332122803,0.3785722255706787
+20,The newspaper founded in 1935 is not mentioned in the given context.,Michigan Chronicle,0.4150989055633545,1.405778408050537,0.1768745481967926
+21,"Hannover 96, the top local football team.",Hannover 96,0.29338812828063965,1.2063846588134766,0.8051174283027649
+22,Pervasive secularism.,pervasive,0.5838563442230225,0.6604142189025879,0.5746066570281982
+23,Mieszko I of Poland.,Ducal Prussia,0.29351353645324707,1.0036125183105469,0.4980798363685608
+24,"The period of division between church and state in the United States was not a specific period, but rather a gradual development that began in the 17th century with the writings of Roger Williams and continued through the 18th century with the influence of Thomas Jefferson and James Madison.","A.D., 1138 – A.D., 1314",0.3958103656768799,3.1797983646392822,0.08794360607862473
+25,The Eiffel Tower in Paris.,Paris,0.3798952102661133,1.0712780952453613,0.680320143699646
+26,I'm not aware of any information about Jens Galschiøt leading a group.,The Color Orange,0.9747395515441895,1.3503568172454834,-0.028230872005224228
+27,Glacial and lake clay.,clay,0.36029863357543945,0.9574339389801025,0.5645800828933716
+28,"None, the text does not mention any additional teams helping with the Mainland China route.",Two,0.3178398609161377,1.550605297088623,0.11987917125225067
+29,There is no mention of Sherman in the provided text.,Constitution only gave Congress stated powers,0.3317840099334717,1.2159342765808105,0.2330886721611023
+30,Three.,three,0.3026256561279297,0.7626280784606934,0.9212040305137634
+31,400.,400,0.49210596084594727,0.801257848739624,0.9447997808456421
+32,"Sulaf Fawakherji, a Syrian actress, carried the torch in Muscat, Oman.",Sulaf Fawakherji,0.36699795722961426,1.708787441253662,0.5367971658706665
+33,"A Polish nobleman was referred to as a ""rycerz"" before the 15th century.",rycerz,0.39568567276000977,1.7132935523986816,0.4853900671005249
+34,"The torch finished the relay in Paris by bus, at the demand of Chinese officials.",by bus,0.31960034370422363,1.508350133895874,0.3046059012413025
+35,The historic Library Pavillon.,Library Pavillon,0.44200778007507324,0.9648478031158447,0.8927910327911377
+36,Public transportation for students to attend both public and Catholic schools.,transportation of students to religious schools,0.30885982513427734,1.2552745342254639,0.7645070552825928
+37,Mieszko I of Poland.,the highest members of the nobility,0.26691627502441406,0.999075174331665,0.24065950512886047
+38,democracy,democracy.,0.2998521327972412,0.7169420719146729,0.9092913866043091
+39,Global torch relays.,global relays,0.4692072868347168,0.7065639495849609,0.8098901510238647
+40,1988.,1988 Summer Olympics,0.43105030059814453,0.6510131359100342,0.6508016586303711
+41,Censorship and calls for calm through state media.,censorship,0.39353299140930176,1.132624626159668,0.6552972197532654
+42,Mia Farrow.,Mia Farrow,0.3251349925994873,0.8591592311859131,0.9854749441146851
+43,The religious clauses in the state constitutions.,religious clauses in the state constitutions,0.5027551651000977,1.1178960800170898,0.9779637455940247
+44,88,88,0.31389713287353516,0.764772891998291,1.000000238418579
+45,I-275.,I-275,0.25467705726623535,0.7855722904205322,0.9759057760238647
+46,To worship freely and escape religious persecution.,governmentally composed prayers for religious services,0.270188570022583,1.0677378177642822,0.444150447845459
+47,1956.,1956,0.6436026096343994,0.7350800037384033,0.9631407856941223
+48,"The Fisher Building and Cadillac Place in the New Center area near Wayne State University are examples of the Art Deco style, but there is no specific information about the most famous mansion in Detroit.",David Whitney House,0.5930521488189697,2.5582759380340576,0.17742812633514404
+49,The internal body cavity of animals in the Bilateria group is called a coelom or pseudocoelom.,coelom or pseudocoelom,0.2889406681060791,1.810966968536377,0.6920514106750488
+50,New Center.,New Center,0.2699909210205078,0.8148655891418457,0.9733954668045044
+51,Gustavia.,Gustavia,0.27380871772766113,0.6903629302978516,0.9822341203689575
+52,"Diego Maradona, a footballer, pulled out of the relay in Buenos Aires.",a warehouse,0.3231236934661865,1.352126121520996,0.015505574643611908
+53,86% of Detroit's homes are in good condition.,86%,0.3889639377593994,1.2638983726501465,0.5024391412734985
+54,Reporters Without Borders.,Reporters Without Borders,0.32531285285949707,0.9037933349609375,0.9765651226043701
+55,"Jinnah Stadium in Islamabad, Pakistan.",Jinnah Stadium,0.340360164642334,0.9064245223999023,0.8842946887016296
+56,Over 1.6 million people visited the Hanover Zoo in 2010.,1.6 million,0.2933986186981201,1.510758399963379,0.3736035227775574
+57,A Macau resident was arrested on April 26 for posting a message on cyberctm.com encouraging people to disrupt the relay.,A Macau resident,0.292651891708374,1.9517219066619873,0.5868409872055054
+58,Hannover Re.,Hannover Re,0.3389091491699219,0.8626229763031006,0.9873281717300415
+59,The szlachta's legal status was dependent on the Russian Empire's sovereignty until 1918.,szlachta,0.4253361225128174,1.712498426437378,0.5062472820281982
+60,La Pointe.,La Pointe,0.42017507553100586,0.7393465042114258,0.9798427820205688
+61,I-696 (Reuther Freeway) runs east–west through the northern suburbs of Detroit.,I-696,0.33447694778442383,1.5736818313598633,0.4442489445209503
+62,"""Respect for Human Rights in China""",Respect for Human Rights in China,0.325819730758667,1.1047382354736328,0.9601730108261108
+63,"The authorities took Chan away ""for her own protection"".",police,3.558650493621826,1.1000337600708008,0.27315178513526917
+64,"£750,000.","£750,000",0.2551460266113281,0.7045795917510986,0.9620665311813354
+65,"""animalis"" means ""having breath, having soul or living being"" in Latin.","having breath, having soul or living being",0.44407153129577637,1.350121259689331,0.4729251265525818
+66,die beste leuten,die beste leuten,0.3203604221343994,0.8685450553894043,1.0000001192092896
+67,The GOP Variety theatre.,GOP Variety theatre,0.34688711166381836,0.9161276817321777,0.9627581238746643
+68,The population of Detroit shifted to the suburbs in the second half of the 20th century.,suburbs,0.2890758514404297,1.6077628135681152,0.43494972586631775
+69,1501.,23 October 1501,0.28342413902282715,0.8566005229949951,0.5283575057983398
+70,szlachta,indygenat,0.25870466232299805,0.8385870456695557,0.1950680911540985
+71,1817,1817,0.3296775817871094,0.8070850372314453,1.0000001192092896
+72,"April 9, 2008.",April 9,0.4895641803741455,0.8542943000793457,0.797935962677002
+73,Terrorist targets.,terrorist targets.,0.28284406661987305,0.857266902923584,0.9999999403953552
+74,Berlin.,Berlin,0.2862813472747803,0.707690954208374,0.9744782447814941
+75,2001,2001,0.3896448612213135,0.8134195804595947,1.0
+76,The lucrative fur trade.,fur,0.3531174659729004,0.9141407012939453,0.6407455205917358
+77,15 torchbearers did not participate in the relay due to their concerns with Tibet.,five,0.34499359130859375,1.5594217777252197,0.1268633008003235
+78,1422.,1422,0.3724076747894287,0.8626163005828857,0.9731607437133789
+79,The 13th century.,13th century,0.24362659454345703,0.7503204345703125,0.9498639702796936
+80,Richard Gere.,Richard Gere,0.3059718608856201,0.8620274066925049,0.9848474264144897
+81,Zenkō-ji temple.,Japanese Buddhist temple Zenkō-ji,0.3647284507751465,0.8029999732971191,0.8787220120429993
+82,Delta blues.,blues,0.27222132682800293,0.8114020824432373,0.7340799570083618
+83,1355 (Casimir III the Great) and onwards.,at the time of their election to the throne,0.4858226776123047,1.3132727146148682,0.20207297801971436
+84,Platyhelminthes.,Platyhelminthes,0.4193098545074463,0.8259105682373047,0.9877396821975708
+85,Strict separationism.,strict separationism,0.25717806816101074,0.8663842678070068,0.9632949829101562
+86,B65.,B65,0.30217695236206055,0.819871187210083,0.9757128953933716
+87,The first Jews from Hanover were deported to Riga.,Wannsee Conference,0.4884462356567383,1.2706267833709717,-0.06675773113965988
+88,The Detroit Red Wings won the Stanley Cup in 1936.,Red Wings,0.47962474822998047,1.3185362815856934,0.6345856189727783
+89,The suburbs.,suburbs,0.22931671142578125,0.8112988471984863,0.9161810874938965
+90,The Obelisk to the city hall.,from the Obelisk to the city hall,0.2864391803741455,1.1140391826629639,0.9641181230545044
+91,Władysław II Jagiełło.,King Casimir III the Great,0.315248966217041,1.1584231853485107,0.298938512802124
+92,The Nederlander family.,Nederlander,0.6987621784210205,0.9681210517883301,0.7680319547653198
+93,The text does not mention what happened to the right to mint coinage.,ceded,0.25196361541748047,1.4152488708496094,0.16981005668640137
+94,King Louis of Hungary approved the Privilege of Koszyce to guarantee the Polish throne for his daughter Jadwiga.,in order to guarantee the Polish throne for his daughter Jadwiga,0.26184630393981934,1.8470556735992432,0.7251917719841003
+95,Non-human members of the kingdom Animalia.,non-human members of the kingdom Animalia,0.28644323348999023,0.8455979824066162,0.9906907081604004
+96,"Cacti, succulents, sea grapes, palm trees, mangroves, and various tropical plants.",succulent,0.31177735328674316,1.8038661479949951,0.4157000184059143
+97,The Great Migration.,Great Migration,0.2643141746520996,0.8614416122436523,0.8911918997764587
+98,They called it Île de Saint-Barthélemy.,Ouanalao,0.3067183494567871,1.10068678855896,0.3522682785987854
+99,The wall of separation between church and state must be kept by confining religion to a private sphere and not allowing government aid to religious institutions.,high and impregnable,0.33144044876098633,1.8484477996826172,0.01285722479224205
+100,Republic Day celebrations.,Republic Day celebrations,0.3627321720123291,0.8643629550933838,0.9770504236221313
+101,"The text does not provide information about the szlachta's population percentage in 1791. However, it mentions that there were approximately one million szlachta.",8%,0.4020049571990967,2.1873810291290283,0.1957172304391861
+102,Placards.,placards,0.32964396476745605,0.8477587699890137,0.9920910596847534
+103,Hieronim Nekanda Trepka.,Hieronim Nekanda Trepka,0.6671485900878906,1.1586382389068604,0.978815495967865
+104,CNN.,CNN,0.39244937896728516,0.760852575302124,0.927415668964386
+105,1868,1868,0.3751835823059082,0.816565752029419,1.0
+106,Hanover.,Gustavia,0.3070180416107178,0.6366734504699707,0.30744659900665283
+107,Kiran Bedi and Soha Ali Khan withdrew from the Olympic torch relay.,their staff,0.3893270492553711,1.3735196590423584,0.07631498575210571
+108,Ho Chi Minh City.,Ho Chi Minh City,0.3873567581176758,0.6916582584381104,0.9903604984283447
+109,May.,May,0.5369677543640137,0.7578930854797363,0.889477014541626
+110,"1 river, the Leine.",two,0.32858920097351074,0.8513214588165283,0.22269737720489502
+111,Van Ness Avenue.,Van Ness Avenue,0.41730356216430664,0.6536931991577148,0.9870333671569824
+112,The Little Caesars Pizza Bowl is held at Ford Field in Detroit.,Little Caesars Pizza Bowl,0.3099181652069092,1.2014234066009521,0.7321890592575073
+113,Approximately 2 ennoblements per year.,two ennoblements per year,0.3674919605255127,1.0968718528747559,0.9343776702880859
+114,There is no information about Miesko I of Poland in the provided context.,(c. 935 – 25 May 992),0.4832634925842285,1.4590816497802734,0.11720985174179077
+115,"A protest banner reading ""Paris defends human rights throughout the world"" was hung from the Eiffel Tower.",banner,0.33182382583618164,1.7534477710723877,0.33632978796958923
+116,The Pillar of Shame.,Pillar of Shame,0.2619297504425049,0.9628334045410156,0.9465668201446533
+117,The Cranbrook Art Museum is in Bloomfield Hills.,Cranbrook Art Museum,0.379331111907959,1.2137362957000732,0.8157822489738464
+118,Being biased.,Western media bias.,0.2541797161102295,0.8124942779541016,0.5728314518928528
+119,The first syllable.,first,0.38372159004211426,0.7079477310180664,0.3764425814151764
+120,"The Poles of the 17th century thought the term szlachta came from the German ""schlachten"" (""to slaughter"" or ""to butcher"").","German ""schlachten""",0.2370619773864746,2.1524722576141357,0.6377981901168823
+121,Pacifism.,peace and pacifism,0.3328874111175537,0.8378205299377441,0.7641388773918152
+122,7,seven,0.23858428001403809,0.7500522136688232,0.9258614778518677
+123,"1,400.","1,400",0.3625178337097168,0.9159681797027588,0.9798928499221802
+124,Earthworms.,earthworms,0.344562292098999,0.8642842769622803,0.9649503827095032
+125,"Nagano, Japan.",Olympic Park,0.34290313720703125,0.6986255645751953,0.35351938009262085
+126,The reserve team Hannover 96 II plays in the fourth league.,fourth league,0.4379427433013916,1.14335036277771,0.5203627943992615
+127,"The word ""animal"" comes from the Latin ""animalis"", meaning ""having breath"", ""having soul"", or ""living being"".",Latin animalis,0.34599947929382324,1.7849297523498535,0.6649327278137207
+128,Midtown and Downtown Detroit.,in the hotels,0.2542123794555664,0.9577322006225586,0.36841437220573425
+129,Mauricio Macri.,Mauricio Macri,0.27051830291748047,0.9111175537109375,0.9882285594940186
+130,Board of Education of Kiryas Joel Village School District v. Grumet (1994) was a recent case involving the application of the principle of the establishment clause against states.,Board of Education of Kiryas Joel Village School District v. Grumet,0.30370640754699707,2.4460325241088867,0.7169561386108398
+131,"The traditional English spelling, ""Hanover"", is used in historical contexts.",traditional English spelling,0.32336974143981934,1.19374418258667,0.5170557498931885
+132,I don't see any information about Nursultan Nazarbaev in the provided context.,the President of Kazakhstan,0.322904109954834,1.5493013858795166,0.326549232006073
+133,"The ""Silver Dollar""",The Midnight Express,0.3236255645751953,0.49767160415649414,0.21332743763923645
+134,Raw eggs.,plastic air-filled batons,0.2845127582550049,0.8159651756286621,0.05024188756942749
+135,The relay ended at the iconic Petronas Twin Towers in Kuala Lumpur.,Petronas Twin Towers.,0.2728254795074463,1.413680076599121,0.6308363676071167
+136,Health.,health,0.3761899471282959,0.7663006782531738,0.8801814913749695
+137,"Dutch Reformed, Quaker, and Presbyterian.","Dutch Reformed, Quaker or Presbyterian",0.3742809295654297,1.1637053489685059,0.9457613825798035
+138,They were prohibited from practicing any religion other than the Dutch Reformed Church in the Dutch colony of New Netherland.,owning land,0.2525146007537842,1.845886468887329,0.05674481391906738
+139,Religious beliefs.,Religious,0.38030481338500977,0.8148074150085449,0.7774500846862793
+140,5 times.,five,0.26688241958618164,0.7790391445159912,0.6086008548736572
+141,Procedural grounds.,liberum veto,0.4796757698059082,0.9093337059020996,0.10708977282047272
+142,The flatworms' closest relatives are the microscopic Gastrotricha.,Gastrotricha,0.33729100227355957,1.2647318840026855,0.5417774319648743
+143,Justin Herman Plaza.,Justin Herman Plaza,0.6230363845825195,0.6553752422332764,0.9870412349700928
+144,130 days.,130 days,0.2940356731414795,0.8596429824829102,0.9682961702346802
+145,Mauricio Macri.,Mauricio Macri,0.507235050201416,0.7057652473449707,0.9882285594940186
+146,"713,777.","700,000",0.2900078296661377,0.9139940738677979,0.41904890537261963
+147,Over 70 restaurants.,over 70,0.3119635581970215,0.9030289649963379,0.583065927028656
+148,48.9% of land in Russian Poland was in peasant hands.,48.9%,0.4270365238189697,1.4060075283050537,0.4074297547340393
+149,484,484,0.257002592086792,0.5372529029846191,1.0
+150,The text does not provide information on the distance of the relay route in the Middle East.,20,0.2630729675292969,1.175905466079712,0.06306706368923187
+151,Île Frégate is a small satellite islet belonging to St. Barthélemy.,satellite islets,0.3490619659423828,1.5471653938293457,0.5607266426086426
+152,The police.,police.,0.35509800910949707,0.8122470378875732,0.882660984992981
+153,The low-density areas of Detroit are concentrated in the northeast and on the city's fringes.,northeast and on the city's fringes,0.4223654270172119,1.6072595119476318,0.5995141863822937
+154,Thousands of people protested on the San Francisco torch route.,hundreds,0.25162315368652344,1.2090272903442383,0.2408410608768463
+155,America's Thanksgiving Parade.,America's Thanksgiving Parade,0.26822543144226074,0.910966157913208,0.9771842956542969
+156,May 1.,May 1,0.3166847229003906,0.7829701900482178,0.9723951816558838
+157,The second syllable.,second,0.2637147903442383,0.7028219699859619,0.35081928968429565
+158,The topic of Reynolds v. U.S. was the application of the First Amendment's establishment clause to a law prohibiting polygamy.,Mormon polygamy,0.34305548667907715,2.002765417098999,0.4304419755935669
+159,1950.,1950,0.30263710021972656,0.8612957000732422,0.9701073169708252
+160,Corktown.,Corktown,0.25934386253356934,0.8138196468353271,0.9805973172187805
+161,The Province of West Jersey specified that there would not be any religious test for those running for an office in 1681.,religious test,0.27106213569641113,1.8967740535736084,0.4918670058250427
+162,Garage rock.,garage rock,0.3225545883178711,0.8162672519683838,0.9771806001663208
+163,The text does not mention the specific religious group operating the two Catholic high schools.,Society of Jesus,0.28069281578063965,1.375532627105713,0.24903365969657898
+164,Obscure.,obscure,0.2841782569885254,0.840904951095581,0.9699122905731201
+165,1964 Tokyo edition.,1964,0.25548458099365234,0.7535359859466553,0.6140679121017456
+166,The Midwest.,Midwest,0.5027880668640137,0.8125925064086914,0.9221113324165344
+167,"The airport, Gustaf III Airport, is located on the north coast of the island.",the north coast,0.3243405818939209,1.5538263320922852,0.378371924161911
+168,Tissues and organs.,tissues and organs,0.44391393661499023,0.9155302047729492,0.9654146432876587
+169,"The Palace of Auburn Hills is the former home of the Detroit Pistons, but they moved to Little Caesars Arena in 2017.",The Palace of Auburn Hills,0.36408281326293945,2.0518593788146973,0.6778033971786499
+170,Tri-Centennial State Park and Harbor.,Tri-Centennial State Park,0.32053327560424805,1.1130986213684082,0.88036048412323
+171,"The two clauses of the First Amendment, the ""Establishment Clause"" and the ""Free Exercise Clause"", form the textual basis for the Supreme Court's interpretations of the ""separation of church and state"" doctrine.","the Supreme Court's interpretations of the ""separation of church and state"" doctrine.",0.38590049743652344,2.792978048324585,0.7956322431564331
+172,Green Party officials.,Green Party officials.,0.3063974380493164,0.877976655960083,0.9999999403953552
+173,"Because the Supreme Court ruled that the passage, ""With God, all things are possible"", displayed no preference for a particular religion.",because it displayed no preference for a particular religion,0.31874728202819824,1.9534320831298828,0.7510318160057068
+174,The torch relay was not held in Pakistan due to security concerns.,Paralympic Games,0.4800689220428467,1.3105475902557373,0.08233575522899628
+175,1919.,1919,0.4996833801269531,0.8579754829406738,0.9723919630050659
+176,80 people carried the torch in London for the 2008 Olympics.,80,0.2886693477630615,1.1933677196502686,0.32274967432022095
+177,"The downtown and New Center areas, as well as upper-class neighborhoods such as the East Riverfront and Palmer Park.",Midtown,0.2650911808013916,1.8027219772338867,0.48586970567703247
+178,Religious minorities.,religious minorities,0.3607051372528076,0.8155257701873779,0.9695450067520142
+179,Incorporation of all relevant federal rights against the states.,incorporation of all relevant federal rights against the states,0.2719602584838867,1.2141757011413574,0.9502099752426147
+180,Mule trains.,mule trains,0.29428935050964355,0.6536781787872314,0.9858025908470154
+181,To escape Jim Crow laws in the South and find jobs.,Jim Crow,0.26129722595214844,1.2589483261108398,0.6098616719245911
+182,None mentioned in the text.,Stanley Ho.,0.2715456485748291,0.7543017864227295,0.06778973340988159
+183,Fortune Records.,Fortune,0.353177547454834,0.8119287490844727,0.7112916111946106
+184,Total separation.,absolute,0.3555278778076172,0.6084933280944824,0.270582914352417
+185,French.,English,0.3061788082122803,0.5511808395385742,0.635948657989502
+186,Ohio.,Ohio,0.31134581565856934,0.6784889698028564,0.9470069408416748
+187,The Detroit Salt Company mine.,Detroit Salt Company,0.24688291549682617,0.9550659656524658,0.8695964813232422
+188,Vytautas the Great.,Vytautas the Great,0.34571099281311035,0.9608738422393799,0.9895118474960327
+189,Sweden.,Swedish,0.32349324226379395,0.6324701309204102,0.7101798057556152
+190,The Detroit Riverfront.,riverfront,0.37255096435546875,0.9109838008880615,0.7584996223449707
+191,They are easy to keep and breed.,they are easy to keep and breed,0.295818567276001,0.9218487739562988,0.9912415742874146
+192,The Olympic torch did not visit Jakarta.,April 22,0.29118895530700684,0.8476443290710449,-0.03666496276855469
+193,"""Roques"" is French for ""little turtle rocks"".",little Turtle rocks,0.3051278591156006,1.1283502578735352,0.5700931549072266
+194,Zenkō-ji temple's main building (Zenkō-ji Hondō) was vandalized with spraypaint.,a major Buddhist temple,0.34011006355285645,1.6854119300842285,0.4031510353088379
+195,Libération.,Libération,0.3951241970062256,0.8031213283538818,0.9344599843025208
+196,I couldn't find any information about the number of seconds a streetcar ran along Woodward Ave in 1941.,60,0.2766270637512207,1.5235984325408936,0.18933255970478058
+197,A limited-access highway.,limited-access,0.8708806037902832,0.6096041202545166,0.5651068091392517
+198,December.,December,0.8070347309112549,0.7608275413513184,0.9478479623794556
+199,Pakistan.,Kazakhstan,0.315352201461792,0.5529935359954834,0.5724108219146729
+200,African Americans.,Hanoverian Jewish families,0.2933921813964844,0.8117241859436035,0.1977832168340683
+201,The Hong Kong Cultural Centre in Tsim Sha Tsui.,Hong Kong Cultural Centre,0.2826657295227051,1.2534534931182861,0.8029419779777527
+202,Predation.,Predation,0.33702516555786133,0.4566798210144043,0.9639573097229004
+203,The east bank of the River Leine.,east bank of the River Leine,0.2358105182647705,0.899261474609375,0.9869940280914307
+204,"The mistranslation of szlachta as ""gentry"" rather than ""nobility"" came about due to the economic status of some szlachta members being inferior to that of the nobility in other European countries.",included those almost rich and powerful enough to be magnates down to rascals,0.30790209770202637,2.772800922393799,0.29735735058784485
+205,Water or fire extinguishers.,the French flag,0.28681325912475586,0.9035775661468506,0.08361949026584625
+206,April 6.,April 6,0.4322643280029297,0.6545670032501221,0.970879077911377
+207,Southwest Detroit.,Southwest Detroit,0.4526796340942383,0.8216495513916016,0.979873776435852
+208,President of Kazakhstan Nursultan Nazarbaev.,Nursultan Nazarbaev.,0.30428528785705566,1.1719486713409424,0.7734065055847168
+209,The Orchid House.,Orchid House,0.40621042251586914,0.8591957092285156,0.9482890367507935
+210,"The question is not about Saint Petersburg, but about the Olympic torch relay in general.",Palace Square,0.30889034271240234,1.2985665798187256,0.13395455479621887
+211,September 2014.,September 2014,0.23850321769714355,0.6963269710540771,0.9647214412689209
+212,The Pledge of Allegiance.,the Pledge of Allegiance,0.2915918827056885,1.010671615600586,0.9795112609863281
+213,"The plural version of ""możny"" is ""możni"".",możni,0.27408528327941895,1.38450288772583,0.6638607382774353
+214,Laurel Sutherlin,Laurel Sutherlin,0.4582831859588623,0.8564832210540771,1.0
+215,Detroit.,Detroit,0.34903383255004883,0.5515806674957275,0.9437262415885925
+216,The question is not explicitly stated in the text.,IOC members.,0.2529776096343994,0.9501533508300781,0.10711021721363068
+217,Four.,four,0.4469797611236572,0.7627518177032471,0.9432603716850281
+218,Jedlnia and Kraków.,at Kraków in 1433,0.27216124534606934,1.0153732299804688,0.569251298904419
+219,I don't see any information about Hanover's population in the provided context.,"518,000",0.2341139316558838,1.2437145709991455,0.17804500460624695
+220,President of Kazakhstan Nursultan Nazarbaev.,Alexandros Nikolaidis,0.32314133644104004,0.9447975158691406,0.45027923583984375
+221,Religious persecution from the Anglican King of England.,religious persecution,0.38297581672668457,0.9524962902069092,0.7588838934898376
+222,"More than 6,000.","more than 6,000",0.25257134437561035,1.012901782989502,0.9788428544998169
+223,"Tight junctions, gap junctions, and desmosomes.","tight junctions, gap junctions, and desmosomes",0.3810091018676758,1.3016643524169922,0.9890171885490417
+224,"I don't have information about the ""Mile of Sculptures"" in the given context.",Trammplatz,0.3046231269836426,1.6004080772399902,-0.0024362998083233833
+225,By airplane.,by airplane,0.2416543960571289,0.8019595146179199,0.9715868234634399
+226,"400,000 people came to Detroit between 1941 and 1943.","400,000",0.6986761093139648,1.5040626525878906,0.30604371428489685
+227,2 inches per hour.,2,0.34655046463012695,0.7462475299835205,0.20039711892604828
+228,"The final leg of the torch relay was in Buenos Aires, Argentina, and the last torchbearer was Gabriela Sabatini.",Ian Thorpe,0.293898344039917,1.7388527393341064,0.16091395914554596
+229,I couldn't find any information about a person named Philip Hamburger being associated with a school in the given context.,Columbia Law school,0.2932569980621338,1.5085413455963135,0.3583899140357971
+230,Two.,two,0.27069711685180664,0.7587122917175293,0.8910362720489502
+231,"""Lucky Cloud""",Lucky Cloud,0.31666064262390137,0.6935069561004639,0.9176501035690308
+232,The doctrine of the Living Constitution is not mentioned in the provided text.,progressivist,0.3638613224029541,1.2754724025726318,-0.047821614891290665
+233,"A bill that would permit any Virginian to belong to any denomination, but would require him to belong to some denomination and pay taxes to support it, chiefly supported by Patrick Henry.",a bill,0.28255200386047363,2.4417874813079834,0.5476953983306885
+234,"No, the number of coats of arms in the late Middle Ages in Poland did not fall, it was rather low and did not exceed 200.",low and did not exceed 200,0.33542370796203613,2.122410774230957,0.32016533613204956
+235,They were not hereditary.,not hereditary,0.4542536735534668,0.9410006999969482,0.7687996029853821
+236,Robert Graham.,Robert Graham,0.2763404846191406,0.8117315769195557,0.9809721112251282
+237,"Paris, London, San Francisco, and Buenos Aires.",Ladbroke Grove,0.3751945495605469,1.0005195140838623,0.2007860392332077
+238,"""Tibet independence' secessionists and a handful of so-called human rights-minded NGO activists""",radicals,0.3471534252166748,1.5723042488098145,0.09532280266284943
+239,Sea grapes.,Sea grapes,0.23042535781860352,0.8097567558288574,0.9780016541481018
+240,"A ""sort of civic religion"" that includes a generally-shared belief in a creator who ""expects better of us.""",a sort of civic religion,0.43404579162597656,1.7196025848388672,0.7934063673019409
+241,Polish tribes.,Polish,0.2708854675292969,0.7922155857086182,0.7204482555389404
+242,"The People's Daily published a report entitled ""Overseas Chinese rally against biased media coverage, for Olympics"".",People's Daily,0.33640241622924805,1.7511870861053467,0.3588853180408478
+243,Aluminum.,aluminum.,0.30859994888305664,0.5350706577301025,1.0
+244,5 continents.,six,0.46964025497436523,0.8772561550140381,0.4283774197101593
+245,Soha Ali Khan.,Soha Ali Khan,0.2342522144317627,0.8285400867462158,0.9852313995361328
+246,The Great Lakes.,Great Lakes,3.8936100006103516,0.8676717281341553,0.9370681643486023
+247,The Thirty-Sixth District Court.,Thirty-Sixth,0.26669979095458984,1.0625808238983154,0.5106126666069031
+248,There is no mention of Mark Palmer or a non-profit organization funded by him in the provided text.,Friends of Falun Gong,0.24706816673278809,1.6569321155548096,0.05456081032752991
+249,The animal gets the energy required for motion.,giving the animal the energy required for motion,0.2924818992614746,0.9670982360839844,0.955672025680542
+250,The torch relay did not begin in Indonesia.,Jakarta,0.320540189743042,0.8994622230529785,0.2637465000152588
+251,The Schützenfest Hannover.,Detroit Festival of the Arts,0.3072547912597656,1.0046842098236084,0.39456477761268616
+252,Around 13.,13,0.31356334686279297,0.8525991439819336,0.7363973259925842
+253,There is no mention of a person named Philip Hamburger in the provided context.,professor,0.33553504943847656,1.2429754734039307,0.10911822319030762
+254,Arid climate with a rainy season from May to November.,arid,0.38534069061279297,1.1250832080841064,0.6876817941665649
+255,Taiwan.,Sansha,0.36306023597717285,0.761430025100708,0.23331502079963684
+256,22 public beaches.,22,0.4350714683532715,0.8978359699249268,0.501048743724823
+257,I don't have information about the capital city of Malaysia in the given context.,Kuala Lumpur,0.2728416919708252,1.4565703868865967,0.6519008874893188
+258,The 1940s.,1940s,0.6536102294921875,0.965214729309082,0.9453063011169434
+259,The szlachta was inferior to the nobility in other European countries in terms of economic status.,szlachta,0.2641026973724365,1.7257912158966064,0.519864022731781
+260,The suburbs.,suburbs,0.2625429630279541,0.8086292743682861,0.9161810874938965
+261,"I couldn't find any information about ""Kleines Fest im Großen Garten"".",most successful Cabaret Festival in Germany,0.398578405380249,1.4540743827819824,0.423601359128952
+262,April 29.,April 29,0.607867956161499,0.8464682102203369,0.9713062644004822
+263,John F. Kennedy's inaugural speech.,John F. Kennedy,0.41129207611083984,0.977332353591919,0.6970431208610535
+264,"The Masonic Temple Theatre has 4,404 seats.",Masonic Temple Theatre,0.3301241397857666,1.2529323101043701,0.7095028758049011
+265,Aqueous environments.,in aqueous environments,0.32526183128356934,0.773017406463623,0.9407110810279846
+266,"Sponges (Porifera) were long thought to be the oldest animal phylum, but recent studies suggest that Ctenophora (comb jellies) may be the basal lineage of animals.",sponges,0.5650713443756104,2.733696699142456,0.4377463757991791
+267,szlachta,szlachta,0.3244459629058838,0.8649477958679199,0.9999999403953552
+268,"The Constitution guarantees freedom of religion, prohibiting the establishment of a national religion and ensuring the free exercise of any religion.",freedom,0.25970935821533203,1.7996118068695068,0.494743287563324
+269,"In theory, all Polish noblemen were social equals and legal peers.",equals,0.3457925319671631,1.3406057357788086,0.22543372213840485
+270,The exemption of religious beliefs as a qualification for federal employees.,"1374 exemption from the land tax,",0.2792356014251709,1.2598323822021484,0.30437803268432617
+271,Fedor Emelianenko.,Fedor Emelianenko,0.3389723300933838,0.7480120658874512,0.9868559241294861
+272,Knight.,knight,0.7602441310882568,0.7388782501220703,0.9413421750068665
+273,"""running dog,"" ""traitor,"" ""get out!,"" and ""I love the Communist Party.""",Taiwan and Tibet belong to China.,0.3764486312866211,1.6945607662200928,0.12980972230434418
+274,"70 runners were used in the relay through New Delhi, India.",70,0.2561378479003906,1.3536486625671387,0.24338585138320923
+275,The Kunsthalle Faust is the most important Cabaret-Event in Hanover.,Kleines Fest im Großen Garten,0.28110337257385254,1.4885830879211426,0.4113396406173706
+276,Paris.,Paris,0.28954124450683594,0.7632966041564941,0.9628871083259583
+277,grόd,grόd,0.2668757438659668,0.6041586399078369,1.0
+278,Deuterostomes.,deuterostomes,0.2972121238708496,0.9082539081573486,0.9645245671272278
+279,"The case of Elk Grove Unified School District v. Newdow was overturned in June 2004 solely on procedural grounds, specifically that the plaintiff, Newdow, lacked standing to sue as a non-custodial parent.",procedural grounds,0.3168001174926758,2.9371914863586426,0.16686782240867615
+280,There is no information in the text about the number of attendants used from the People's Armed Police for the flame's entire journey.,30,0.35592198371887207,2.015564441680908,0.08949287235736847
+281,San Francisco International Airport.,the Military Zone 7 Competition Hall stadium,0.25732946395874023,0.7064907550811768,0.3497731685638428
+282,"The Chinese media focused on the more disruptive protesters, referring to them as ""a very small number of 'Tibet independence' secessionists and a handful of so-called human rights-minded NGO activists"" intent on ""disrupting and sabotaging the Beijing Olympic Games"".",the more disruptive protesters,0.2794029712677002,3.2825875282287598,0.5610836744308472
+283,There is no information about a 1701 expedition led by a French officer in the provided context.,Antoine de la Mothe Cadillac,0.342393159866333,1.3218472003936768,0.2915620505809784
+284,"Approximately 200,000 tourists visit St. Barts each year.","200,000",0.3084416389465332,1.338273048400879,0.2897080183029175
+285,Leong Hong Man.,Leong Hong Man,0.3585495948791504,0.7841942310333252,0.9863314628601074
+286,7 states.,Seven,0.293412446975708,0.8623065948486328,0.6374192833900452
+287,The Great Migration.,The Great Migration,0.33546900749206543,0.8655006885528564,0.978024959564209
+288,The first route was not taken in India due to concerns about pro-Tibet protests.,security worries,0.4069559574127197,1.464437484741211,0.048310887068510056
+289,5-4.,5-4,0.27990126609802246,0.9095034599304199,0.9748042821884155
+290,"9,035 (Jan. 2011 estimate)","9,035",0.48911309242248535,1.2464630603790283,0.6591113209724426
+291,I don't see any information about Elbridge Gerry in the provided context.,Massachusetts,0.3328089714050293,1.1908347606658936,0.07776406407356262
+292,The War of 1812.,War of 1812,0.2955949306488037,1.0097389221191406,0.9472758769989014
+293,Mayor Gavin Newsom of San Francisco.,the Chinese embassy,0.3129391670227051,0.9741044044494629,0.27492308616638184
+294,"58 per 100,000.","58 per 100,000",0.33113980293273926,1.0563278198242188,0.9866123795509338
+295,The Gordie Howe International Bridge.,Detroit–Windsor Truck Ferry,0.46266937255859375,0.927926778793335,0.38504117727279663
+296,Pak Du Ik.,Pak Du Ik,0.30970215797424316,0.8571805953979492,0.9818233251571655
+297,"The Lola Mora amphitheatre in Costanera Sur, Buenos Aires, Argentina.",Lola Mora amphitheatre,0.5716021060943604,1.3414039611816406,0.6979846358299255
+298,peaceful protest.,peaceful,0.3500077724456787,0.607452392578125,0.72690749168396
+299,"""Slahta"" is derived from the Old High German word ""slahta"" (modern German ""Geschlecht""), which means ""(noble) family"".","(""to slaughter"" or ""to butcher"")",0.3273155689239502,2.128129243850708,0.11270621418952942
+300,szlachta by courtesy or error,szlachta,0.3314375877380371,1.0339856147766113,0.7369089126586914
+301,Around 40 parks.,40,0.3195819854736328,0.6710600852966309,0.4559200704097748
+302,The answer is not mentioned in the given context.,Windsor–Detroit International Freedom Festival,0.2702322006225586,1.1627109050750732,0.04253165051341057
+303,"The chartered plane was red and yellow, the colors of the Olympic Games.",red and yellow,0.6239542961120605,1.3533234596252441,0.533664882183075
+304,John Lee Hooker.,John Lee Hooker,0.2706944942474365,0.883587121963501,0.9797980785369873
+305,I don't have information about the outreach director of HRTR.,Susan Prager,0.2619900703430176,0.9911370277404785,0.24058270454406738
+306,"The text does not mention the Duke, but it does mention that the Plymouth Colony and Massachusetts Bay Colony had established churches, which were Anglican.","openly divine-right Catholic,",0.309891939163208,1.9686369895935059,0.29275044798851013
+307,There is no mention of VLW in the provided context.,United light metal works,0.45627450942993164,0.8224785327911377,0.04803311824798584
+308,Detroit.,Detroit,0.3180968761444092,0.7547049522399902,0.9437262415885925
+309,A blastula.,blastula,0.3006904125213623,0.8386883735656738,0.908291757106781
+310,985 grams.,985 grams,0.22149157524108887,0.61116623878479,0.9822501540184021
+311,Libération,The Daily Telegraph,0.33767199516296387,0.7483651638031006,0.11904539912939072
+312,"The ""Journey of Harmony"".","""Journey of Harmony""",0.29148030281066895,0.7415120601654053,0.9260873198509216
+313,Diego Maradona.,Diego Maradona,0.25411295890808105,0.7973554134368896,0.9850090146064758
+314,"Three activists, including San Francisco resident Laurel Sutherlin, may be charged with crimes for the Golden Gate Bridge stunt.",three,0.3693809509277344,1.7301173210144043,0.18012282252311707
+315,April 16.,April 16,0.37755298614501953,0.8493118286132812,0.9604401588439941
+316,Boats.,boats,0.30811500549316406,0.5816893577575684,0.9668905735015869
+317,There is no mention of a protest in Delhi in the provided text.,April 16,0.30236101150512695,1.2921257019042969,0.08965146541595459
+318,The pro-Tibetan protesters in Paris and London put out the torch along the route.,Chinese security officials,0.26361870765686035,1.2338712215423584,0.32208186388015747
+319,One senator represents St. Barts in the French Senate.,A senator,0.336529016494751,0.9360873699188232,0.4033030569553375
+320,Canada is paying for the entire cost of the $250 million U.S. Customs plaza adjacent to the bridge.,95 per cent,0.32238149642944336,1.533287525177002,0.10082301497459412
+321,6-1.,6-1,0.4706754684448242,0.887479305267334,0.9837151765823364
+322,magnat,magnat,0.2813401222229004,0.7502493858337402,1.0
+323,Fruit fly (Drosophila melanogaster) and the nematode (Caenorhabditis elegans).,fruit fly Drosophila melanogaster and the nematode Caenorhabditis elegans,0.4077010154724121,1.7687370777130127,0.9221348762512207
+324,There is no mention of a lower than usual drinking age in the provided text.,"Windsor, Ontario",0.3258178234100342,1.3734862804412842,0.03717762976884842
+325,Ford Field in Detroit.,Ford Field,0.3801004886627197,0.8834593296051025,0.8804076910018921
+326,Comerica Park.,Comerica Park,0.27699732780456543,0.6514029502868652,0.9839733242988586
+327,A display of the Ten Commandments as part of a larger display on American legal traditions.,the Ten Commandments,0.46355152130126953,1.4595890045166016,0.721335768699646
+328,"Slahta is an Old High German word meaning ""(noble) family"".","""(noble) family""",0.7959129810333252,1.1054127216339111,0.4544532001018524
+329,Freedom of speech.,freedom of speech,0.38648056983947754,0.8374025821685791,0.916954517364502
+330,Shinola.,Shinola,0.289247989654541,0.8010189533233643,0.971213698387146
+331,"Acoelomates are animals that lack a body cavity, also known as a coelom.",lacking a body cavity,0.260174036026001,1.601874828338623,0.5760642886161804
+332,"Placozoans are being sequenced to explain the arrival of 1500 ancestral genes unique to the Eumetazoa, but the text does not explicitly state what differentiates them from ctenophora and cnidaria.",they do not have a permanent digestive chamber,0.24082517623901367,2.539552927017212,0.07463474571704865
+333,The NSDAP stands for Nazi party.,Nazi party,0.3382396697998047,1.0753285884857178,0.6164634227752686
+334,Justice Abe Fortas.,Justice Abe Fortas,0.30591440200805664,0.8828871250152588,0.9884210824966431
+335,1605.,1605,0.2855966091156006,0.8337421417236328,0.970159113407135
+336,Maps of the torch relay at the official Beijing Olympic website depicting the disputed islands as Chinese territory and dotted lines marking China's maritime claims in the South China Sea.,disputed islands and dotted lines marking China's maritime claims,0.2650279998779297,2.070014238357544,0.6111600399017334
+337,There is no mention of protests in Xinjiang in the provided text.,Uyghurs living in Turkey,0.2562549114227295,1.180664300918579,0.1572725474834442
+338,Jellyfish.,jellyfish,0.26874804496765137,0.7916090488433838,0.9682295322418213
+339,Wayne State University.,Wayne State University,0.35822439193725586,0.8442795276641846,0.9821428060531616
+340,"The ""executionist movement"".","""executionist movement",0.272000789642334,0.9400663375854492,0.9440951347351074
+341,Carlos Espínola.,Carlos Espínola.,0.27243924140930176,0.6623687744140625,1.0000001192092896
+342,Redlining is an example of economic discrimination mentioned in the text.,redlining,0.32335996627807617,1.2507505416870117,0.5677674412727356
+343,Hip-hop producer.,producer,0.3046259880065918,0.8490779399871826,0.7116941213607788
+344,2002.,2002,0.3846473693847656,0.84474778175354,0.9519264101982117
+345,Western media.,Western media,0.4240090847015381,0.7075951099395752,0.9683929085731506
+346,Walter Reuther.,Walter Reuther,0.5744500160217285,0.8452460765838623,0.9867433309555054
+347,Chinese students.,counter-protesters,0.27283430099487305,0.7098052501678467,0.2487933337688446
+348,"The text does not mention the mayor of Detroit in 2011. However, it does mention that Coleman Young was the mayor of Detroit from 1974 to 1994.",Mayor Bing,0.2949864864349365,2.293506145477295,0.36757051944732666
+349,I couldn't find any information about John Mogk's teaching position in the provided context.,Wayne State University,0.37273669242858887,1.19586181640625,0.27115774154663086
+350,Bilateria.,bilaterian,5.068124055862427,0.8083467483520508,0.8266175985336304
+351,Cacti and succulent plants.,Sweet potato,0.3819270133972168,0.8803675174713135,0.17418861389160156
+352,There is no information about 1244 in the given context.,define knightly status,0.28666090965270996,1.251328468322754,0.03405948355793953
+353,"The city employee of the Nagano City Office said they were doing something ""foolish"".",the Tibetan government in exile,0.311220645904541,1.1047749519348145,0.10857027769088745
+354,Pennsylvania.,Pennsylvania,0.41568517684936523,0.7563469409942627,0.9627590775489807
+355,Elijah J. McCoy Satellite Office.,Elijah J. McCoy Satellite Office,0.2935447692871094,0.9764540195465088,0.9855751991271973
+356,"1,337 square miles.","1,337 square miles",0.332172155380249,0.9776260852813721,0.9816938638687134
+357,"The mission of the organizations mentioned is to promote religious liberty and freedom of conscience, with some organizations, such as the Baptist Joint Committee, specifically advocating for the separation of church and state.",raising awareness of conditions for children,0.27261805534362793,2.1677186489105225,0.08243073523044586
+358,Mooring buoys.,mooring buoys,0.38673973083496094,0.7879226207733154,0.9842997789382935
+359,"Pro-Tibetan, pro-Darfur, and Falun Gong supporters, as well as anti-Chinese government protesters, were seen along the torch route in various cities, including London, San Francisco, and Seoul.",protesting,0.34159135818481445,2.6761138439178467,0.32862910628318787
+360,"Geographically, not racially.",racially,0.3239784240722656,0.7902693748474121,0.6456677913665771
+361,15.,15,0.2869391441345215,0.7804825305938721,0.9291602969169617
+362,Human rights.,against human rights.,0.4482700824737549,0.7915372848510742,0.800487220287323
+363,March 24.,"March 24, 2008",0.3993206024169922,0.6113278865814209,0.736502468585968
+364,Nagano.,Nagano,0.2932889461517334,0.5759861469268799,0.9719948768615723
+365,I-75 (Chrysler and Fisher freeways) is the major north-south route.,I-75,0.3710181713104248,1.3911242485046387,0.43269026279449463
+366,The Mach constitution is not mentioned in the provided text.,legal privileges of the szlachta were legally abolished,0.27928805351257324,1.1497576236724854,0.15176282823085785
+367,The Charles H. Wright Museum of African American History.,Charles H. Wright Museum of African American History,0.5644652843475342,1.1523454189300537,0.986919641494751
+368,1974.,1974,0.2871110439300537,0.8393361568450928,0.9617180824279785
+369,13 °C.,13 °C,0.4094204902648926,0.7423241138458252,0.9694454669952393
+370,"Detroit has multiple routes to Canada, including the Gordie Howe International Bridge and the Ambassador Bridge, as well as the Detroit-Windsor Tunnel.",four,0.3076293468475342,1.826709508895874,0.08040569722652435
+371,Teachers of secular subjects in private religious schools.,teachers of secular subjects,3.5624825954437256,1.0833659172058105,0.8818116188049316
+372,France.,France,0.2656538486480713,0.5356574058532715,0.9445564150810242
+373,1785.,1785,0.349224328994751,0.7110774517059326,0.9593791365623474
+374,34 people were killed in the Detroit race riot of 1943.,34,0.3369410037994385,1.3335344791412354,0.27399545907974243
+375,1813.,1813,0.2377336025238037,0.8394298553466797,0.9584267735481262
+376,April 11.,April 11,0.40996408462524414,0.6192276477813721,0.969863772392273
+377,Gustavia.,Gustavia,0.44753122329711914,0.7905073165893555,0.9822341203689575
+378,They vowed to carry the torch.,run for spirit of Olympics,0.4121818542480469,0.9772262573242188,0.2737632691860199
+379,Windsurfing.,windsurfing,0.35295653343200684,0.841010332107544,0.9810414910316467
+380,"Chan is suing the Hong Kong government for breaching her human rights after she was taken away by authorities ""for her own protection"" during a protest.",her human rights were breached.,0.3451995849609375,1.8289713859558105,0.4639776349067688
+381,Water bottles.,Tibetan flags,1.0810716152191162,0.8093221187591553,0.04902390018105507
+382,"The Mayor of Nagano, Shoichi Washizawa, cancelled a trip to Beijing in protest.",India's Commerce Minister,0.250377893447876,1.4354569911956787,0.12862110137939453
+383,Chinese supporters and the Chinese government.,counter-protesters,0.23626136779785156,0.9675023555755615,0.3390091061592102
+384,Obscure and mysterious.,obscurity and mystery,0.23319244384765625,0.9135003089904785,0.74861079454422
+385,Lechici/Lekhi (Lechitów),Lechici/Lekhi (Lechitów):,0.4561886787414551,1.2063262462615967,0.9924769997596741
+386,Wealth generated by wealthy tourists.,wealth generated by wealthy tourists,0.3028542995452881,0.9265742301940918,0.9901614785194397
+387,Saturday.,Saturdays,0.5338332653045654,0.7562909126281738,0.8298378586769104
+388,Sultanahmet Square.,Sultanahmet Square,0.2832317352294922,0.8864469528198242,0.9842713475227356
+389,295.,295,0.4122638702392578,0.7900073528289795,0.9466949701309204
+390,King Casimir III the Great issued the first country-wide privilege for the nobility in 1355.,Buda King Casimir III the Great,0.3394582271575928,1.61537766456604,0.6380693316459656
+391,Reynolds v. U.S.,Reynolds v. U.S.,0.23875856399536133,0.9409513473510742,1.0
+392,Four major Interstate Highways surround the city of Detroit.,Four,0.3062469959259033,1.0619843006134033,0.2836942970752716
+393,The Onychophora and Tardigrada are close relatives of the arthropods.,Onychophora and Tardigrada,0.31743693351745605,1.524911880493164,0.8111448287963867
+394,The Graystone International Jazz Museum documents jazz in Detroit.,Graystone International Jazz Museum,0.3972809314727783,1.1606595516204834,0.8519206047058105
+395,Palmer Park.,Palmer Park,0.32105445861816406,0.7943544387817383,0.98377525806427
+396,"metaphors like the ""wall of separation""",metaphors,0.8358485698699951,1.067462682723999,0.5824159979820251
+397,1698.,1698,0.31352686882019043,0.8451533317565918,0.9681737422943115
+398,Fedor Emelianenko.,Fedor Emelianenko,0.27315735816955566,0.6988317966461182,0.9868559241294861
+399,The text does not mention the architect of the Gehry Tower.,American,0.30815768241882324,1.2389962673187256,-0.031234435737133026
+400,The 313.,313,0.2856147289276123,0.8377552032470703,0.8019928932189941
+401,Konnie Huq.,Andrew Michael,0.3670368194580078,0.8864641189575195,0.29751330614089966
+402,The Chinese government removed Carrefour boycott comments from Sohu.com.,the Chinese government,0.2437572479248047,1.1836390495300293,0.4321722090244293
+403,Sea Life Centre Hanover.,Sea Life Centre Hanover,0.37483835220336914,0.8653554916381836,0.9831363558769226
+404,"A ""caged woman"".",caged woman,0.3549785614013672,0.926304817199707,0.9420803189277649
+405,March 2008.,March 2008,0.392092227935791,0.8899812698364258,0.977948009967804
+406,"Nagano, Japan.",Nagano,0.31205224990844727,0.6576015949249268,0.7679622173309326
+407,"The London Mayor Ken Livingstone and Lord Coe, chairman of the London Olympic Committee, condemned the Chinese security guards as ""thugs"".",the Chinese government,0.4384956359863281,1.7740967273712158,0.3003178834915161
+408,Nematoda.,Nematoda,0.3424642086029053,0.6873645782470703,0.9807956218719482
+409,The Detroit Newspaper Partnership.,Detroit Newspaper Partnership,0.4629330635070801,0.88578200340271,0.9681734442710876
+410,Chapter 9 municipal bankruptcy.,Chapter 9,0.3273904323577881,0.9288654327392578,0.5549405813217163
+411,Bilateria.,Bilateria,0.5052239894866943,0.7938981056213379,0.9792728424072266
+412,Canberra.,Canberra,0.24558568000793457,0.5290303230285645,0.9792311191558838
+413,Saint Petersburg.,Victory Square,0.3303260803222656,0.5762560367584229,0.3364819884300232
+414,The HDI-Arena.,HDI-Arena,0.286038875579834,0.6924257278442383,0.9507743120193481
+415,The 14th century.,Around the 14th century,0.27382612228393555,0.7046067714691162,0.9276238083839417
+416,Ford Field.,Ford Field,0.27527451515197754,0.5770437717437744,0.9730141758918762
+417,"Between 2,000 and 10,000 Chinese supporters were expected to attend the torch relay in Canberra.","between 2,000 and 10,000",0.3176605701446533,1.6466095447540283,0.23146739602088928
+418,People's Daily.,People's Daily,0.3969724178314209,0.7524168491363525,0.97602778673172
+419,Nguyễn Văn Hải,Nguyễn Văn Hải,0.25614333152770996,0.6664965152740479,1.0
+420,"Sarmatism, a myth of the szlachta's origin in the powerful ancient nation of Sarmatians, gave the Polish nobility a sense of solidarity.",related by blood or marriage,0.3078184127807617,2.1699700355529785,0.21110881865024567
+421,Creole houses and ancient fishing boats.,Creole,0.42030930519104004,0.8685731887817383,0.5798951387405396
+422,William Milliken.,William Milliken,0.31128525733947754,0.8328855037689209,0.9837127327919006
+423,Hotel de la Collectivité.,Hotel de la Collectivité,0.23913836479187012,0.8294479846954346,0.9850600361824036
+424,"King John I Albert granted the Privilege of Piotrków on April 26, 1496.",King John I Albert,0.373762845993042,1.651703119277954,0.5646688342094421
+425,The Eilenriedestadium.,Eilenriedestadium,0.301006555557251,0.7367804050445557,0.936581015586853
+426,Lophophorates.,lophophore,0.31333446502685547,0.7758886814117432,0.6175899505615234
+427,"Hong Kong's one country, two systems policy.","one country, two systems",0.44208335876464844,1.1000685691833496,0.6064567565917969
+428,"49 men of the Black Legion were convicted of numerous crimes, with many sentenced to life in prison for murder.",49,0.2908048629760742,1.6899008750915527,0.26269087195396423
+429,Vacant and abandoned properties.,abandonment of properties,0.2353813648223877,0.9335877895355225,0.7103573679924011
+430,"They often kept the gifts, which were temporary leases, permanently.",never returned,0.2426443099975586,1.234511375427246,0.09314769506454468
+431,Tax evasion.,tax evasion.,0.4092414379119873,0.778801441192627,1.0
+432,Sea turtles.,Turtles,0.3284289836883545,0.7911596298217773,0.9129096865653992
+433,"The szlachta, the Polish nobility, were allowed to leave the village.",one son (not the eldest),0.26685404777526855,1.2020509243011475,0.13697299361228943
+434,Saint Martin.,Saint Martin,0.24849677085876465,0.7956087589263916,0.9841004014015198
+435,"The name ""Sarmatism"" originated from a myth of the szlachta's (Polish nobility) origin in the powerful ancient nation of Sarmatians.",powerful ancient nation of Sarmatians,0.25095272064208984,2.227572202682495,0.6083667278289795
+436,"The pervasive secularism that came to dominate American public life, which sought to confine religion to a private sphere.",no-aid,0.34119248390197754,1.6905505657196045,0.020265750586986542
+437,Violent and disruptive.,peaceful,0.323561429977417,0.7916979789733887,0.494377464056015
+438,The state governments.,state governments,0.37671589851379395,0.8429911136627197,0.9317010045051575
+439,Francesca Martinez and Richard Vaughan.,Francesca Martinez and Richard Vaughan,0.2555084228515625,0.9764053821563721,0.9839458465576172
+440,Sacred Heart Major Seminary.,Sacred Heart Major Seminary,0.39539027214050293,0.9271416664123535,0.9784358739852905
+441,The Act of Mielno (Polish: Przywilej mielnicki) of 25 October strengthened the magnate-dominated Senate of Poland.,more to strengthen the magnate dominated Senate of Poland then the lesser nobility,0.37148404121398926,2.125796318054199,0.6071221828460693
+442,"48,679.","48,679",0.339369535446167,0.8835563659667969,0.982158362865448
+443,The Detroit River.,Detroit River,0.277036190032959,0.8343374729156494,0.9507721662521362
+444,Modern art.,Modern art,0.25284481048583984,0.7376325130462646,0.9292287826538086
+445,Senators.,senators,0.38206982612609863,0.5272269248962402,0.9518052339553833
+446,"July 18, 2013.","July 18, 2013",0.2610819339752197,1.0176873207092285,0.9801534414291382
+447,The west side of the city.,west,0.25855064392089844,0.9753773212432861,0.695830225944519
+448,"A more numerous nobility, constituting 10-12% of the total population, compared to 1-3% in most other European countries.",many rights,0.33154773712158203,2.0236568450927734,0.15793712437152863
+449,The Trocadéro.,the Trocadéro.,0.3764359951019287,0.8859879970550537,1.0
+450,Religious observance.,religious observance,0.38294458389282227,0.8412294387817383,0.9771318435668945
+451,"In Lithuanian, nobles were named ""ponai"" and the higher nobility were named ""kunigai"" or ""kunigaikščiai"".",ponai,0.5195550918579102,2.346168279647827,0.41869693994522095
+452,"Most animals use the energy of sunlight by eating plants or plant-eating animals, which have converted sunlight into chemical energy in the form of carbohydrates, fats, and proteins.",eating plants or plant-eating animals,0.4062075614929199,1.9742910861968994,0.5920997858047485
+453,Bundesliga,Bundesliga,0.2698667049407959,0.7135534286499023,1.000000238418579
+454,"There is no information about the ""Parade of the Marksmen"" in the given context.",12.000,0.272564172744751,1.5616908073425293,0.058967046439647675
+455,Weekly.,weekly,0.32320499420166016,0.7564976215362549,0.9526283144950867
+456,The conceptions of separation of church and state by Thomas Jefferson and James Madison have long been argued over.,Jefferson and James Madison's,0.4342169761657715,1.4972255229949951,0.5646225214004517
+457,15 July 2007.,15 July 2007,0.5032176971435547,0.9698653221130371,0.9764400124549866
+458,Ritter,Ritter,0.39488911628723145,0.7517762184143066,1.0000001192092896
+459,The Nanas of Niki de Saint-Phalle.,Nanas of Niki de Saint-Phalle,0.32356929779052734,1.132429838180542,0.9876872897148132
+460,The Imperial Diet.,Imperial Diet,0.26689767837524414,0.8451137542724609,0.92823326587677
+461,"""Rycerz""",rycerz,0.3653411865234375,0.9056148529052734,0.8993750810623169
+462,"The Olympic Torch was initially lit at the birthplace of the Olympic Games in Olympia, Greece.",Maria Nafpliotou,0.5948002338409424,1.217970609664917,0.1065375953912735
+463,Macanese.,athletes,1.6405763626098633,0.7559263706207275,0.13481268286705017
+464,"In sponges, blastula larvae swim to a new location and develop into a new sponge.",swim to a new location,0.6534221172332764,1.5553438663482666,0.2998296022415161
+465,"Triploblastic worms, like metazoans, roughly as large as earthworms.",triploblastic worms,0.3411986827850342,1.4722132682800293,0.7495260238647461
+466,The Golden Gate Bridge.,Golden Gate Bridge,0.2669532299041748,0.882915735244751,0.9581010341644287
+467,The Chinese government.,Ted Quinlan,0.5094871520996094,0.8351035118103027,0.20486387610435486
+468,Criticism.,views distasteful to them,0.3634204864501953,0.7114849090576172,0.26703962683677673
+469,"Rep. Elbridge Gerry of Massachusetts and Rep. Roger Sherman of Connecticut, as well as Rep. Thomas Tucker of South Carolina.",Elbridge Gerry,0.3148000240325928,1.8227882385253906,0.5430116057395935
+470,Social duties or subversive of good order.,religion,0.3114926815032959,1.1134376525878906,0.3335121273994446
+471,Motown Records.,Motown,0.23760318756103516,0.845625638961792,0.8805859684944153
+472,"""so help me God.""",so help me God,0.330430269241333,0.9369409084320068,0.6200395822525024
+473,"The ""Human Rights Torch"".",Human Rights Torch Relay,0.3265054225921631,0.7047028541564941,0.7835047841072083
+474,Conch.,conch,0.38252854347229004,0.5711534023284912,0.9662288427352905
+475,Baptist minister.,Baptist minister,0.3882105350494385,0.5736804008483887,0.9741615056991577
+476,"May 3, 2006.","May 3, 2006",0.3523285388946533,1.0262279510498047,0.9757800698280334
+477,They descended from a common ancestor.,theoretically descending from a common ancestor,0.27266764640808105,0.9506986141204834,0.6251606345176697
+478,Seoul.,Seoul,0.2859480381011963,0.5270533561706543,0.9669973850250244
+479,"32 per 1,000.","16.73 per 1,000",0.22944974899291992,1.017608404159546,0.7579387426376343
+480,"May 5, 2014.","May 5, 2014",0.273425817489624,1.0207188129425049,0.9667420387268066
+481,"Shells, bones, and spicules.","shells, bones, and spicules",0.26845407485961914,1.1047627925872803,0.976383626461029
+482,"August 8, 2008.",March 31.,0.3837461471557617,1.0152442455291748,0.5892556309700012
+483,"None, as the text does not mention a Republican mayor of Detroit.",Louis Miriani,0.37586116790771484,1.280843734741211,0.14445585012435913
+484,1974.,1974,0.31209564208984375,0.8380639553070068,0.9617180824279785
+485,The Capitol.,at the Capitol,0.26555681228637695,0.8030486106872559,0.8177165389060974
+486,Coleman Young.,Coleman Young,0.3418118953704834,0.799973726272583,0.9837982058525085
+487,Any Polish noble or foreigner of royal blood.,any Polish noble or foreigner of royal blood,1.7697885036468506,1.1172575950622559,0.9748610258102417
+488,"April 1, 2008.","April 1, 2008",0.3043384552001953,1.0170750617980957,0.9832015037536621
+489,"Jane Birkin and Thupten Gyatso, President of the French Tibetan community.",Jane Birkin,0.36031293869018555,1.3469161987304688,0.5542253255844116
+490,The French Parliament.,Parliament,0.28543949127197266,0.837085485458374,0.750775933265686
+491,The Chinese presented a list of vulnerable relay locations to the Australian authorities.,Nirupama Sen.,0.57448410987854,1.2866992950439453,0.0784035176038742
+492,Tibetan snow lion flag.,Tibetan,0.3641083240509033,0.8871564865112305,0.6170803308486938
+493,The Battle of Langensalza.,Battle of Langensalza,0.2621443271636963,0.7801742553710938,0.9744974374771118
+494,Japan and South Korea.,Nepal.,0.6089038848876953,0.879220724105835,0.3797135353088379
+495,The Polish-Lithuanian Commonwealth.,oligarchy,0.44109034538269043,1.0135893821716309,0.2688192129135132
+496,It is officially known as a national motto.,ceremonial deism,0.45913219451904297,0.9717397689819336,0.30447059869766235
+497,2004.,2004,0.2368018627166748,0.8412003517150879,0.9544477462768555
+498,I don't have information about VWN.,Volkswagen Commercial Vehicles Transporter,0.790717363357544,0.6005980968475342,0.29720744490623474
+499,The old royal sports hall is now called the Great Garden.,Ballhof theatre,0.436842679977417,1.2008781433105469,0.3322792649269104

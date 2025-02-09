@@ -1,0 +1,55 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,African-American.,African American,0.0009813308715820312,2.738960027694702,0.8992266654968262
+1,The Devil Wears Prada film.,Lauren Weisberger's 2003 novel of the same name,0.0008318424224853516,0.4367947578430176,0.08815746009349823
+2,Emeritus Professor of Economics and Visiting Fellow.,Emeritus Professor of Economics,0.0008838176727294922,0.5137374401092529,0.904814600944519
+3,Harold Wilson.,Harold Wilson,0.0007467269897460938,0.3633546829223633,0.978937029838562
+4,Draymond Green.,Draymond Green,0.0008740425109863281,0.33063673973083496,0.9875936508178711
+5,Tool.,Tool,0.0007998943328857422,0.21250200271606445,0.9141275882720947
+6,The CIA created the R. V. Jones Intelligence Award.,the CIA,0.0008382797241210938,0.5888681411743164,0.5656139850616455
+7,74,100,0.0007829666137695312,0.2113170623779297,0.5315753817558289
+8,Pete's Tavern on Irving Place in New York City.,at Pete's Tavern on Irving Place in New York City,0.0007727146148681641,0.5496995449066162,0.9687362909317017
+9,Asian Paralympic Committee (APC),Asian Paralympic Committee,0.0007548332214355469,0.513861894607544,0.8976110816001892
+10,The Town of Hempstead is in the 7th State Senate district.,8th,0.0007348060607910156,0.701164722442627,0.21355736255645752
+11,A Pulitzer Prize in 1984.,Pulitzer Prize,0.0007441043853759766,0.43534326553344727,0.7861354947090149
+12,1888,1892,0.0007507801055908203,0.24896979331970215,0.6908988952636719
+13,Michael Williams.,Mike Will Made It,0.0007169246673583984,0.2488574981689453,0.3566696047782898
+14,The Amazon rainforest.,Amazon rainforest,0.0007312297821044922,0.32617974281311035,0.9383839964866638
+15,Jules Massenet.,Jules Émile Frédéric Massenet,0.0007205009460449219,0.3255031108856201,0.8539185523986816
+16,They are both film directors.,film director,0.0007257461547851562,0.3589296340942383,0.7297666072845459
+17,"The seventh season of the show ""Hawaii Five-0"" premiered on September 23, 2016, not 2010, and it had 25 episodes.",25,0.0007686614990234375,1.45603346824646,0.17034082114696503
+18,1948,1940,0.0007650852203369141,0.25676465034484863,0.739179790019989
+19,"None, the text does not mention Florence and the Machine.",music,0.0007259845733642578,0.5901966094970703,0.1248999759554863
+20,Picric acid.,Turpenite,0.0008332729339599609,0.29515814781188965,0.3367322087287903
+21,Rihanna.,Rihanna,0.0008013248443603516,0.21787762641906738,0.9637503623962402
+22,1962.,1962,0.0007314682006835938,0.2917039394378662,0.9593217968940735
+23,"Ferula genus is more useful to humans as it contains plants with medicinal properties and ferulic acid, a precursor to other aromatic compounds.",Ferula,0.0006854534149169922,1.199554204940796,0.5974414944648743
+24,Jeremy,Jeremy,0.000797271728515625,0.18089938163757324,0.9999999403953552
+25,"manager to Noel Blake's England national under-19 football team.
+
+Nigel Pearson: 
+Nigel Graham Pearson (born 21 August 1963) is an English football manager and former professional player who is currently manager of OH Leuven. He previously managed Hull City, Southampton, Carlisle United and Leicester City and was assistant manager for England Under-21s and Newcastle United. During his playing career, he was a defender and played for Shrewsbury Town, Sheffield Wednesday and Middlesbrough.
+
+History of Leicester City F.C.: 
+This is the history of Leicester City Football Club, based in Leicester, England, the United Kingdom. Having been founded over a 100 years ago, for the first time, in the 2015–16 season, Leicester City won the Premier League, with manager Claudio Ranieri being the manager. Also, in this same season, the team qualified for the UEFA Champions League.
+
+2014–15 Oxford United F.C. season: 
+The 2014–15 season was Oxford United's fifth season in League Two after returning from the Conference, and their first under new manager Michael Appleton. They finished 13th in the table, following an 8th-place finish in League Two in 2013–14. It was the club's 121st year in existence, their 115th of competitive football and their 66th since turning professional. This article covers the period from 1 July 2014 to 30 June 2015.
+
+Michael Appleton: 
+Michael Antony Appleton (born 4 December 1975) is an English football coach and former player who is currently the assistant manager of Leicester City.
+
+Brian Carey: 
+Brian Patrick Carey (born 31 May 1968) is a former Irish international footballer who played in the Football League for Leicester City as well as Wrexham, whom he also served as manager. Since his playing retirement he has worked as the Assistant Manager at Doncaster and Wolves and Chesterfield FC. He was the Lead Professional Development a Coach at Blackburn Rovers until May 2015 until early diapered for First Team League Football once again.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        The current assistant manager of Leicester City used to coach which team in the 2014-15 Season?
+        
+        assistant
+         Oxford United.",Oxford United,0.0007519721984863281,0.2558887004852295,0.40756678581237793
+26,Robert G. Ingersoll.,Thomas Paine,0.0007414817810058594,0.40479207038879395,0.44075441360473633
+27,English.,English,0.0007021427154541016,0.21426606178283691,0.9305142164230347
+28,"""A Long Way Home"" by Saroo Brierley.","""A Long Way Home""",0.0007452964782714844,0.6349167823791504,0.7175344228744507
+29,ALi released a song based on the Nayoung Case.,k-os,0.0007634162902832031,0.6298928260803223,0.11114545911550522
+30,"Paris, France.","Pittsburgh, Pennsylvania",0.0007300376892089844,0.291583776473999,0.5183020830154419
+31,The Inner Sunset area near Golden Gate Park.,887,0.0007297992706298828,0.47818493843078613,0.06287941336631775

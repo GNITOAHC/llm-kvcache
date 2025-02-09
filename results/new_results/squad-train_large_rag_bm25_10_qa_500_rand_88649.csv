@@ -1,0 +1,501 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,A brewery or brewing company.,a brewing company,0.0014984607696533203,2.915066957473755,0.9112646579742432
+1,Arthur and his queen's bones were discovered at Glastonbury Abbey.,Avalon became associated with Glastonbury Tor when monks at Glastonbury Abbey claimed to have discovered the bones of King Arthur and his queen,0.001497507095336914,1.9555096626281738,0.807288408279419
+2,Sugars.,sugars,0.001293182373046875,1.2813389301300049,0.9714799523353577
+3,Solsternus from 1207.,Solsternus,0.0013306140899658203,1.594874620437622,0.8248016834259033
+4,1848.,1848,0.00130462646484375,1.3576736450195312,0.9567419290542603
+5,0.13 seconds.,0.13 seconds,0.0013227462768554688,1.4310436248779297,0.9743090867996216
+6,Tile.,tile,0.0013201236724853516,1.263507604598999,0.933769941329956
+7,RIBA Enterprises.,RIBA Enterprises,0.0013511180877685547,1.4147796630859375,0.9868645071983337
+8,Two ways: Radiant luminous efficacy (LER) and Source luminous efficacy (LES).,two ways,0.0012972354888916016,2.0649008750915527,0.20540037751197815
+9,"The zodiac wheel, with Helios in the center.",Helios,0.0013263225555419922,1.7964873313903809,0.637382447719574
+10,Multan.,Multan,0.0013194084167480469,1.2700371742248535,0.9794173836708069
+11,BPS-22.,usually a BPS-22 Civil Servant,0.0013003349304199219,1.390110969543457,0.617867648601532
+12,The former main lines of the Great Western Railway (GWR) are still in use today.,"The former main lines of the GWR are still in use today, although many of its branch lines were scrapped under the notorious Beeching Axe",0.001322031021118164,2.159528970718384,0.6443676352500916
+13,Emblemata.,emblemata,0.0013332366943359375,1.3148844242095947,0.9690627455711365
+14,Holland.,Holland,0.001359701156616211,1.2235829830169678,0.9607134461402893
+15,"Yes, Duchamp's work ""Nude Descending a Staircase, No. 2"" was considered scandalous and was even rejected by the hanging committee at the 1912 Salon des Indépendants.",caused a scandal,0.001255035400390625,3.5419116020202637,0.2559155821800232
+16,"A fire damaged the mosque extensively in 1893, resulting in the loss of many mosaics.",a fire,0.0013344287872314453,2.319993495941162,0.2741653323173523
+17,Newcastle upon Tyne.,15 Bonhill Street in London,0.0013377666473388672,1.400954246520996,0.3332533836364746
+18,17.1 lumens per watt.,17.1 lumens per watt,0.00135040283203125,1.5853309631347656,0.9851430058479309
+19,Iran.,Iran,0.0013148784637451172,1.2576196193695068,0.92861407995224
+20,London.,London,0.0012710094451904297,1.2571070194244385,0.9624133110046387
+21,Higher than the regional and national average.,is higher than the regional and national average,0.0013217926025390625,1.5333013534545898,0.9145365953445435
+22,"Hisham's Palace, Palestine.",the bath house of Hisham's Palace,0.0013127326965332031,1.5813381671905518,0.6965058445930481
+23,1000 hours.,1000 hours,0.0012874603271484375,1.3662605285644531,0.9439005255699158
+24,"""The Hymn to Ninkasi"".",The Hymn to Ninkasi,0.0013473033905029297,1.6775736808776855,0.9693310260772705
+25,Less.,much less,0.001329183578491211,1.2651805877685547,0.8138306736946106
+26,Ghazals and folk songs.,Ghazals and folk songs,0.00122833251953125,1.4339990615844727,0.9860418438911438
+27,The Ascension of Christ with the apostles below.,Christ,0.0013742446899414062,1.7297890186309814,0.28451305627822876
+28,"Inert gas conducts heat from the filament, cooling it and reducing efficiency.","conducts heat from the filament, thereby cooling the filament",0.0013124942779541016,1.9474232196807861,0.7463840842247009
+29,Ravenna.,Ravenna,0.001268148422241211,1.3086423873901367,0.9746361374855042
+30,1909 to 1914.,1909 to 1914,0.001337289810180664,1.5413899421691895,0.9799554347991943
+31,"1,000 hours.","1,000 hours",0.001325368881225586,1.4683184623718262,0.967837929725647
+32,"Urs are fairs held at the shrines of Sufi saints, typically marking the death anniversary of the saint.",fairs held at the shrines of Sufi saints,0.0012772083282470703,2.3752365112304688,0.7870389223098755
+33,Demetrius I of Georgia.,Demetrius I of Georgia,0.0013227462768554688,1.4916718006134033,0.9888476729393005
+34,"Besides Seurat, the roots of Cubism are also found in the later work of Paul Cézanne, particularly his breaking of the painted surface into small multifaceted areas of paint and his simplification of natural forms into geometric shapes.",in the two distinct tendencies of Cézanne's later work,0.0013132095336914062,3.73476505279541,0.45645755529403687
+35,Ethyl alcohol.,ethyl alcohol,0.0013115406036376953,1.3760285377502441,0.9688552618026733
+36,Elijah.,Elijah,0.0013623237609863281,1.2614624500274658,0.9682337045669556
+37,1920,early as 1920,0.0013513565063476562,1.3028390407562256,0.843306839466095
+38,CAD (Computer Aided Design) software.,CAD,0.0012836456298828125,1.6153786182403564,0.8085414171218872
+39,1953.,1953,0.0013437271118164062,1.3825464248657227,0.9732455015182495
+40,Nearly 60% of Pakistan's population lives in Punjab.,Nearly 60%,0.0012509822845458984,1.761268138885498,0.4389559030532837
+41,"The inert gas reduces filament evaporation, allowing the filament to run hotter and more efficiently, while prolonging its life.",reduces filament evaporation,0.0012516975402832031,2.424901008605957,0.5563575625419617
+42,Taunton and Wincanton.,Horse racing courses are at Taunton and Wincanton,0.0013179779052734375,1.5247769355773926,0.8132237195968628
+43,"Potassium, silicon, and aluminium oxides.","potassium, silicon, and aluminium oxides",0.0012903213500976562,1.633878469467163,0.9670339226722717
+44,Italy,Rome,0.0013141632080078125,1.2132480144500732,0.6318598985671997
+45,The Architects Registration Act 1997.,"the Housing Grants, Construction and Regeneration Act",0.001384735107421875,1.5806879997253418,0.3617463707923889
+46,"Prophets, saints, and patriarchs.","prophets, saints and patriarchs",0.0013260841369628906,1.6828422546386719,0.9669497013092041
+47,The national horse and cattle show at Lahore is the biggest festival in Punjab.,The national horse and cattle show,0.001230001449584961,1.9250879287719727,0.5640925168991089
+48,1971.,1971,0.0013079643249511719,1.303293228149414,0.9627463817596436
+49,The East of England.,the East of England,0.0012657642364501953,1.4143247604370117,0.978477954864502
+50,Guru Nanak.,Guru Nanak,0.0011982917785644531,1.3561267852783203,0.9880831241607666
+51,Filippo Tommaso Marinetti.,Filippo Tommaso Marinetti,0.0013344287872314453,1.5559515953063965,0.989513635635376
+52,Heat from a building's heating system is more cost-effective.,heat from the heating system,0.0013322830200195312,1.7909862995147705,0.6309818625450134
+53,Moses.,Moses,0.0012836456298828125,1.2565679550170898,0.9638767838478088
+54,Somerset Coalfield,The Somerset Coalfield is part of a larger coalfield which stretches into Gloucestershire,0.0013012886047363281,1.2454864978790283,0.7975793480873108
+55,"The French Invader creates ""Rubikcubism"" styled mosaics by using a dual layer mosaic via grids of scrambled Rubik's Cubes.",grids of scrambled Rubik's Cubes,0.001344919204711914,2.8863706588745117,0.5186155438423157
+56,"C&J Clark transferred its shoe manufacturing to lower-wage areas, such as China and Asia.","the work was transferred to lower-wage areas, such as China and Asia",0.0013012886047363281,2.1540348529815674,0.5651483535766602
+57,"6 rivers, including the Indus, Jhelum, Beas, Chenab, Ravi, and Sutlej.",five,0.0013217926025390625,2.5757052898406982,0.20415520668029785
+58,The broad valleys on the clay substrate in the south of the Mendip hills.,"on the clay substrate, are broad valleys which support dairy farming and drain into the Somerset Levels.",0.0012755393981933594,1.9701697826385498,0.6370641589164734
+59,Fermentation.,fermentation,0.0013339519500732422,1.3088936805725098,0.9433563947677612
+60,10 °C (50 °F),below 15.5 °C,0.0013499259948730469,1.6366550922393799,0.7437220811843872
+61,Gareth Hoskins Architects.,Gareth Hoskins Architects,0.0012924671173095703,1.4328904151916504,0.985068678855896
+62,"Governments set minimum efficacy standards higher than incandescent lamps can achieve, effectively banning their use.",by setting minimum efficacy standards higher than can be achieved by incandescent lamps,0.0013225078582763672,2.1668715476989746,0.8452880382537842
+63,91.379.615,91.379.615,0.0012664794921875,1.4547646045684814,1.0
+64,Roger II of Sicily.,Georgios of Antiochia,0.0012204647064208984,1.4553041458129883,0.41269153356552124
+65,"In West Somerset, the three-tier system of first, middle, and upper schools is used.","a three-tier system of first, middle and upper schools in the Cheddar Valley, and in West Somerset",0.0012886524200439453,2.1039836406707764,0.7731386423110962
+66,110,110,0.0012879371643066406,1.2576029300689697,1.0
+67,Punjab provides the largest pool of professionals and highly skilled (technically trained) manpower in Pakistan.,largest pool of professionals and highly skilled (technically trained) manpower in Pakistan,0.0012714862823486328,2.150369882583618,0.9185349941253662
+68,1040.,1040,0.0013451576232910156,1.3202061653137207,0.9759649634361267
+69,Lisbon.,streets,0.0013132095336914062,1.251016616821289,0.4027811288833618
+70,"The eucharist, the symbol of the sacrifice of Christ leading to salvation.",the eucharist,0.0012192726135253906,2.008302688598633,0.7457046508789062
+71,They were architects.,Architects,0.0013599395751953125,1.3370990753173828,0.7780507802963257
+72,Bridgwater Bay,"Bridgwater Bay, and is a National Nature Reserve",0.0013120174407958984,1.3609890937805176,0.7814265489578247
+73,Somerset Rural Life Museum in Glastonbury.,the Somerset Rural Life Museum in Glastonbury,0.001230478286743164,1.6758837699890137,0.9828594923019409
+74,130,130,0.0013041496276855469,1.2169442176818848,1.0000001192092896
+75,1904.,1904,0.0013306140899658203,1.3585798740386963,0.9711980223655701
+76,"Early carbon filaments had a negative temperature coefficient of resistance, making them sensitive to fluctuations in the power supply.","as they got hotter, their electrical resistance decreased",0.0013003349304199219,2.331106662750244,0.5209091305732727
+77,Hard water.,hard water,0.0012967586517333984,1.3100426197052002,0.9611092805862427
+78,Alvíssmál,Alvíssmál,0.0013506412506103516,1.3856050968170166,1.0000001192092896
+79,144 ohms.,144 ohms,0.0013043880462646484,1.3785104751586914,0.9809834957122803
+80,89%,89%,0.0012750625610351562,1.2241909503936768,1.0000001192092896
+81,Yeast.,yeast,0.0013408660888671875,1.3089220523834229,0.9573681354522705
+82,The 12th century.,in the 12th century,0.0013027191162109375,1.4629781246185303,0.9585852026939392
+83,Soft water.,soft water,0.0013010501861572266,1.3125433921813965,0.957123875617981
+84,The Byzantine Empire.,Byzantine,0.0012650489807128906,1.4197006225585938,0.8742735981941223
+85,"Fesco, Gepco, and Mepco.","Fesco, Gepco and Mepco",0.0013146400451660156,1.7855126857757568,0.970243513584137
+86,Constantine Monomachos.,Constantine Monomachos,0.0012750625610351562,1.4911177158355713,0.9859490394592285
+87,787-797.,787–797,0.0012667179107666016,1.421985149383545,0.9393500089645386
+88,11 May 2013.,11 May 2013,0.0013089179992675781,1.5212664604187012,0.9531197547912598
+89,"The West Somerset Railway, the Fleet Air Arm Museum, and the Glastonbury Festival are some other attractions in Somerset.","Claverton Pumping Station, Dunster Working Watermill, the Fleet Air Arm Museum at Yeovilton, Nunney Castle, The Helicopter Museum in Weston-super-Mare",0.0012753009796142578,2.502448558807373,0.5583057403564453
+90,"The color of light produced by an incandescent bulb is not perfect, as it has a broad ""tail"" of invisible infrared emissions, which can be difficult to balance for applications such as photography and cinematography.","the light emitted does not appear white,",0.001295328140258789,3.4679114818573,0.4464538097381592
+91,22.8 inches (580 mm),22.8 inches,0.0013256072998046875,1.6673545837402344,0.8265101909637451
+92,"Barnes believed that the architectural associations, in which 80% of practicing architects were members, were best able to advance the interests of architects.",architectural associations,0.0013000965118408203,2.575573444366455,0.5833740830421448
+93,Malted barley.,barley malt,0.0012962818145751953,1.35801362991333,0.9037152528762817
+94,The Church of the Nativity in Bethlehem.,Santa Pudenziana,0.0012576580047607422,1.6471810340881348,0.30012160539627075
+95,The letters represent the shape of the bulb.,the shape of the bulb,0.0013306140899658203,1.640624761581421,0.8186033368110657
+96,The original Charter of 1837.,The original Charter of 1837,0.0013365745544433594,1.5763635635375977,0.9882237315177917
+97,1743,1743,0.0013098716735839844,1.3121297359466553,0.9999999403953552
+98,Architectural design.,public realm artworks,0.0013086795806884766,1.3284831047058105,0.29228776693344116
+99,Woman Walking.,Woman Walking,0.001316070556640625,1.2827653884887695,0.993730902671814
+100,20-22 hours a day.,20–22 hours a day,0.0012791156768798828,1.5471813678741455,0.9612708687782288
+101,2.5 square meters (26 square feet),2.5 square meters,0.0013039112091064453,1.7012863159179688,0.8354793787002563
+102,The late 11th century.,the late 11th century,0.0013129711151123047,1.5249457359313965,0.9875963926315308
+103,1892.,1892,0.001268148422241211,1.348822832107544,0.9691181778907776
+104,Yeast.,yeast,0.0012917518615722656,1.2767226696014404,0.9573681354522705
+105,Yeast.,yeast,0.0013344287872314453,1.3057074546813965,0.9573681354522705
+106,1 in × 1 in (25 mm × 25 mm),1 in × 1 in,0.0012936592102050781,1.9093046188354492,0.6374673247337341
+107,To protect Bristol and other towns from bombers by mimicking their geometry and simulating activities to encourage bombers to drop their bombs on the decoy towns instead.,"decoy towns were constructed in Somerset in World War II to protect Bristol and other towns, at night",0.0012581348419189453,2.785351037979126,0.5028988122940063
+108,9 Conduit Street.,9 Conduit Street,0.0013060569763183594,1.412137508392334,0.9856371283531189
+109,North Somerset and Bath & North East Somerset.,"North Somerset, and Bath & North East Somerset",0.0013027191162109375,1.6445813179016113,0.9763851165771484
+110,"Pierre Reverdy, Maurice Raynal, and Daniel-Henry Kahnweiler.","Gris, Léger and Gleizes",0.0013489723205566406,2.0338263511657715,0.35283589363098145
+111,Head of a Woman (Fernande),Head of a Woman,0.0013275146484375,1.6004254817962646,0.752649188041687
+112,"The resistance of the filament, which depends on its length, thickness, and material.",the resistance of the filament,0.0013082027435302734,2.064023971557617,0.9098409414291382
+113,"Designs or canvases from artists like Ciro Ferri, Guido Reni, Domenichino, Carlo Maratta, and Raphael.",designs or canvases,0.0012912750244140625,2.703967571258545,0.7141906023025513
+114,The text does not mention the Royal Institute promoting setting lower limits on the size of new homes in Britain.,2007,0.0013508796691894531,2.26444149017334,0.015797877684235573
+115,An opera house.,an opera house,0.0012936592102050781,1.3660588264465332,0.9819216728210449
+116,Woman's Head.,The first true Cubist sculpture,0.0013446807861328125,1.334841012954712,0.10689983516931534
+117,"The Monreale mosaics in Sicily are the largest mosaics in Italy, covering 0.75 hectares with at least 100 million glass and stone tesserae.",The Monreale mosaics,0.0013027191162109375,3.1850054264068604,0.6254680156707764
+118,"A landslide in the 12th century covered the mosaics, protecting them for 700 years.",a landslide,0.0013110637664794922,2.319725751876831,0.35837322473526
+119,Deer or stags were commonly used as images of the faithful aspiring to Christ.,the faithful aspiring to Christ,0.0012996196746826172,2.014058828353882,0.5113925933837891
+120,Alcohol.,alcohol,0.0013103485107421875,1.2558045387268066,0.9097024202346802
+121,133 billion litres.,More than 133 billion,0.0013356208801269531,1.416260004043579,0.5702420473098755
+122,A stem or glass mount anchored to the bulb's base allows the electrical contacts to run through the envelope without air or gas leaks.,a stem or glass mount anchored to the bulb's base,0.0013096332550048828,2.536402702331543,0.8500444889068604
+123,The Kingdom of Hungary.,Hungary,0.0012962818145751953,1.3827075958251953,0.7877905368804932
+124,Classical tradition.,Classical,0.0013186931610107422,1.2763984203338623,0.6733291149139404
+125,Siemens,Siemens,0.0012853145599365234,1.1582403182983398,1.0000001192092896
+126,"The House of the Black Madonna in Prague, built in 1912 by Josef Gočár, is the best-known Cubist architecture building.",House of the Black Madonna,0.0012693405151367188,2.65396785736084,0.48418158292770386
+127,The Byzantine Emperor sent a master mosaicist to Spain to supervise the decoration of the Great Mosque in Corduba.,the Byzantine Emperor,0.001287698745727539,2.381608009338379,0.5095493793487549
+128,Nankana Sahib.,Nankana Sahib,0.0012454986572265625,1.4653868675231934,0.9827262163162231
+129,The Devon and Somerset Fire and Rescue Service.,The Devon and Somerset Fire and Rescue Service was formed in 2007 upon the merger of the Somerset Fire and Rescue Service with its neighbouring Devon service,0.0013172626495361328,1.6354212760925293,0.7750657796859741
+130,Defence equipment and technology.,defence equipment and technology.,0.0012710094451904297,1.4149823188781738,1.000000238418579
+131,371,371,0.0012416839599609375,1.2152049541473389,1.0
+132,Cambridge.,Cambridge,0.0013108253479003906,1.2213664054870605,0.9781219363212585
+133,"Pilton, near Shepton Mallet.","takes place most years in Pilton, near Shepton Mallet",0.0012593269348144531,1.5851404666900635,0.8079827427864075
+134,Quality.,quality,0.0012836456298828125,1.2529947757720947,0.9166614413261414
+135,Folk music.,folk,0.0012121200561523438,1.1638844013214111,0.7429081797599792
+136,Alba Regia.,Alba Regia,0.0012505054473876953,1.392261266708374,0.9857629537582397
+137,1966,"The University of Bath gained its Royal Charter in 1966, although its origins go back to the Bristol Trade School",0.0012061595916748047,1.2487671375274658,0.1457286775112152
+138,The fourteenth edition of the Encyclopædia Britannica.,Encyclopædia Britannica,0.0012674331665039062,1.9042994976043701,0.89031982421875
+139,Bethany.,Bethany,0.0013077259063720703,1.3114988803863525,0.9703396558761597
+140,The Mendip Hills.,the Mendip Hills are moderately high limestone hills,0.0013120174407958984,1.4055659770965576,0.7755764722824097
+141,Geometric patterns.,geometric,0.0012557506561279297,1.358043909072876,0.6646536588668823
+142,Calligraphic inscriptions from the Quran.,Calligraphic inscriptions from the Quran,0.001239776611328125,1.6122193336486816,0.9911225438117981
+143,The Architecture Exhibition Space.,Architecture Exhibition Space,0.0013041496276855469,1.4223542213439941,0.9743694067001343
+144,Sicily.,Sicily,0.001332998275756836,1.3258545398712158,0.9715990424156189
+145,Architects Registration Board (ARB),Architects Registration Board,0.0013120174407958984,1.4633598327636719,0.8617191314697266
+146,1872.,1872,0.0012812614440917969,1.3011524677276611,0.96599942445755
+147,1834,1837,0.0012829303741455078,1.2874910831451416,0.6991536021232605
+148,A 5% reduction in operating voltage.,a 5% reduction in operating voltage,0.0012323856353759766,1.602186679840088,0.9699103832244873
+149,Bayonet base.,Bayonet base lamps,0.001207590103149414,1.3732845783233643,0.6643452048301697
+150,The Royal Institute of British Architects (RIBA) supported the obligation to comply with European Union Directives concerning mutual recognition of professional qualifications in order to keep up with housing in mainland Europe.,minimum space standards,0.001325845718383789,3.175494909286499,0.20706039667129517
+151,A high resistance in Edison's lamp made power distribution from a centralized source economically viable.,high resistance,0.0013051033020019531,2.029228925704956,0.4070793688297272
+152,"The ""T"" rating symbol on an electrical contact indicates that it is designed to control circuits with the high inrush current characteristic of tungsten lamps.",they are designed to control circuits with the high inrush current characteristic of tungsten lamps,0.0013089179992675781,2.7627546787261963,0.6722128987312317
+153,The Bath Literature Festival is held each summer.,The annual Bath Literature Festival is one of several local festivals in the county,0.0012803077697753906,1.5957684516906738,0.8554220199584961
+154,"The whole interior of St Mark's Basilica in Venice is clad with elaborate, golden mosaics.",façades were also decorated,0.0013031959533691406,2.2652125358581543,0.2873154580593109
+155,Calçada Portuguesa.,Calçada Portuguesa,0.0013098716735839844,1.4890244007110596,0.9874681234359741
+156,Accidents of survival.,accidents of survival,0.0013163089752197266,1.427882432937622,0.9628874659538269
+157,"Desiderius, the Abbot of Monte Cassino.",The Abbot of Monte Cassino,0.001306772232055664,1.792022466659546,0.8447792530059814
+158,La Femme au Cheval (Woman with a horse),La Femme au Cheval (Woman with a horse) 1911-1912,0.0013582706451416016,1.7501049041748047,0.8422080278396606
+159,King David IV.,king David IV,0.0012617111206054688,1.3589394092559814,0.9862359762191772
+160,"The Royal Institute of British Architects (RIBA) played a large role in promoting the Architects (Registration) Acts of 1931 to 1938, which established the Architects' Registration Council of the United Kingdom (ARCUK) and the Board of Architectural Education.","the Board of Architectural Education under the Architects (Registration) Acts, 1931 to 1938",0.0012891292572021484,4.068376779556274,0.6705929040908813
+161,10.5% abv.,10.5%,0.0013058185577392578,1.5767669677734375,0.7572207450866699
+162,King William II of Sicily.,King William II of Sicily,0.0013227462768554688,1.5348834991455078,0.9780722260475159
+163,Painting.,paintings,0.0012822151184082031,1.264488697052002,0.7645806074142456
+164,Political chaos and the subsequent battles of succession and infighting between factions at court weakened the state.,political chaos,0.001232147216796875,2.161439895629883,0.5395307540893555
+165,"The entire South West of England, including all of Somerset.","covers the entire South West of England, including all of Somerset",0.001318216323852539,1.783160924911499,0.9012125730514526
+166,La Femme aux phlox.,La Femme aux phlox,0.0013310909271240234,1.4299492835998535,0.9874335527420044
+167,Georgia.,Georgia,0.0012743473052978516,1.2333834171295166,0.962153434753418
+168,"Argon, nitrogen, and krypton are typically used in a light bulb.","argon and some nitrogen, or sometimes krypton",0.0013113021850585938,2.0064632892608643,0.640343189239502
+169,Yeovil Town.,Yeovil Town won promotion to Division Three as Football Conference champions,0.0012831687927246094,1.4148025512695312,0.5978596210479736
+170,Bayonet base.,bipin base,0.0012655258178710938,1.3601155281066895,0.5155583024024963
+171,Bath stone and Blue Lias.,supplying freestone and building stone,0.0012335777282714844,1.5258705615997314,0.3712295591831207
+172,The 3rd century BC.,the 3rd century BC,0.0012068748474121094,1.5310518741607666,0.9921653270721436
+173,"Beer is generally sold in bottles, cans, and on draught.",bottles and cans,0.0012426376342773438,1.8850605487823486,0.6325989961624146
+174,The 12th century.,the 12th century,0.0012974739074707031,1.479452133178711,0.9856574535369873
+175,A power factor of 1 means the actual power consumed (in watts) and the apparent power (in volt-amperes) are equal.,the actual power consumed (in watts) and the apparent power (in volt-amperes) are equal,0.0013082027435302734,2.6574320793151855,0.7194088697433472
+176,The RIBA Architecture Study Rooms are located in the Henry Cole Wing of the V&A.,the Henry Cole Wing of the V&A,0.0012955665588378906,2.1829943656921387,0.6175562143325806
+177,The thirteenth century.,the sixteenth century,0.0013287067413330078,1.4508488178253174,0.7637162804603577
+178,"The Oregon Railroad and Navigation Company steamer, Columbia.",Columbia,0.0012097358703613281,1.6985092163085938,0.5736821889877319
+179,The end of the 5th century.,the end of the 5th century,0.001270294189453125,1.6297879219055176,0.9858481287956238
+180,1960.,1960,0.0013113021850585938,1.368112325668335,0.9616642594337463
+181,Plain gold mosaics with a single great cross in the apse.,gold mosaics with only one great cross,0.001251220703125,1.9614193439483643,0.8685239553451538
+182,"Paul Gauguin, Henri Matisse, and Pablo Picasso were inspired by the newly discovered African, Native American, Micronesian, and Polynesian art.","Paul Gauguin, Henri Matisse, and Pablo Picasso",0.0013289451599121094,2.9438679218292236,0.7936743497848511
+183,The Chief Secretary of Punjab.,the Chief Secretary of Punjab,0.0012865066528320312,1.4709928035736084,0.9893714785575867
+184,Umayyad mosaics.,Umayyad mosaics,0.0012636184692382812,1.5689070224761963,0.9874765276908875
+185,The 5th century.,the 5th century,0.0013053417205810547,1.478086233139038,0.984073281288147
+186,C&J Clark.,"Dr. Martens shoes were also made in Somerset, by the Northampton-based R. Griggs Group",0.0013072490692138672,1.4188809394836426,0.13556762039661407
+187,George Grey Wornum.,George Grey Wornum,0.001241445541381836,1.4101901054382324,0.9875456094741821
+188,Swan's first lamp was not commercially viable because it had low resistance and required very large conductors to supply the necessary current.,'parchmentised thread',0.0012173652648925781,2.433607816696167,0.13443197309970856
+189,"The filament becomes more stable and less sensitive to fluctuations in power supply, and its power consumption, temperature, and light output are stabilized against minor variations in supply voltage.","helped stabilize the lamp's power consumption, temperature and light output against minor variations in supply voltage",0.0013041496276855469,2.845332622528076,0.6970586180686951
+190,The double indirect method of mosaic is useful when it is important to see the work during the creation process as it will appear when completed.,when it is important to see the work,0.0013060569763183594,2.599606990814209,0.2959771156311035
+191,Jerusalem.,Jerusalem,0.0013086795806884766,1.2525179386138916,0.9702392816543579
+192,6%,6%,0.0012080669403076172,1.3051917552947998,1.0
+193,"The Russian abbot Daniel, who visited Jerusalem in 1106–1107.",the Russian abbot Daniel,0.0012264251708984375,2.069794178009033,0.7234342098236084
+194,The base of the bulb.,feed-through terminals or wires embedded in the glass,0.001312255859375,1.4737513065338135,0.3040742874145508
+195,Beer belly.,beer belly,0.001295328140258789,1.3164141178131104,0.9701558351516724
+196,Alcohol by Volume.,alcohol by volume,0.0012977123260498047,1.3705101013183594,0.9229834675788879
+197,The British Architectural Library.,The British Architectural Library,0.0012938976287841797,1.4684453010559082,0.9909349083900452
+198,A Samaritan synagogue.,a Samaritan synagogue,0.0012602806091308594,1.412092924118042,0.9839144349098206
+199,52 lumens per watt.,52 lumens per watt,0.0012161731719970703,1.4855589866638184,0.9818349480628967
+200,Figural mosaics were condemned as idolatry during the Iconoclastic era.,condemned as idolatry,0.0012798309326171875,2.124626874923706,0.5561144351959229
+201,The Indus River alluvial plain.,the alluvial plain of the Indus River,0.001241922378540039,1.6280152797698975,0.9814548492431641
+202,The energy that an incandescent bulb does not convert into light is converted into heat.,The remaining energy is converted into heat.,0.0012967586517333984,2.129995107650757,0.6047484874725342
+203,The historical study of Cubism began in the late 1920s.,in the late 1920s,0.0013031959533691406,1.9139792919158936,0.5186188817024231
+204,"A type of ""ribbon machine"" is used to blow the glass bulbs into their characteristic shape.",precisely aligned air nozzles,0.0012979507446289062,2.156510353088379,0.20004017651081085
+205,Abbess Hildegard of Bingen.,Abbess Hildegard,0.0012979507446289062,1.6046679019927979,0.8852283954620361
+206,1960s.,the 1960s,0.001264333724975586,1.4284780025482178,0.9367828369140625
+207,"The small vaulted room in the Great Palace of Constantinople was called the ""small sekreton"".",small sekreton,0.001234292984008789,2.2807798385620117,0.5030044317245483
+208,Small-scale light industries.,"Many towns have encouraged small-scale light industries, such as Crewkerne's Ariel Motor Company, one of the UK's smallest car manufacturers",0.0012884140014648438,1.3815150260925293,0.6186213493347168
+209,A planned 11.7 km (7.3 mi) branch to Midford.,A planned 11.7 km (7.3 mi) branch to Midford was never built,0.0011749267578125,2.1004884243011475,0.8275208473205566
+210,Xenon gas is not more widely used because it is expensive.,"more expensive, so its use is limited to smaller lamps",0.0012433528900146484,1.8442962169647217,0.458335816860199
+211,1st or 2nd century AD.,1st or 2nd century AD,0.0012969970703125,1.6944890022277832,0.9827221035957336
+212,The inner surface of the glass envelope.,across the entire surface of the envelope,0.0012907981872558594,1.539879560470581,0.628728449344635
+213,Picabia and the Duchamp brothers.,Picabia and the Duchamp brothers,0.0013451576232910156,1.6422812938690186,0.9894362092018127
+214,1912.,1912,0.001321554183959961,1.3623268604278564,0.9596837759017944
+215,Potsdam.,the Friedenskirche of Potsdam,0.0012278556823730469,1.3572039604187012,0.7874452471733093
+216,"Water vapor inside a light bulb dissociates into hydrogen and oxygen at the hot filament, causing the oxygen to attack the tungsten metal and create tungsten oxide particles that travel to cooler parts of the lamp, contributing to darkening.",significantly increase darkening,0.0012192726135253906,3.6535377502441406,0.5258833169937134
+217,Paul Cézanne.,Paul Cézanne,0.0013370513916015625,1.5045878887176514,0.9868301153182983
+218,69% of Pakistan's sugar.,69%,0.0012543201446533203,1.5965399742126465,0.512245237827301
+219,The general advancement of Civil Architecture.,the advancement of architecture,0.0013000965118408203,1.493786096572876,0.7580306529998779
+220,The River Avon forms much of the border with Gloucestershire.,"The River Avon formed much of the border with Gloucestershire, except that the hundred of Bath Forum",0.0012714862823486328,1.8581902980804443,0.845111072063446
+221,A bicycle wheel and a kitchen stool.,a bicycle wheel to a kitchen stool,0.00131988525390625,1.5827431678771973,0.9168671369552612
+222,1910.,1910,0.0013036727905273438,1.325319766998291,0.9679754376411438
+223,"The word ""ale"" comes from Old English ""ealu"" and Proto-Germanic ""*alu"", ultimately from the Proto-Indo-European base ""*h₂elut-"", which means ""sorcery, magic, possession, intoxication"".",Old English ealu,0.0012359619140625,3.77825665473938,0.35129356384277344
+224,The Anglo-Saxon peoples.,Britain was invaded by Anglo-Saxon peoples,0.001270294189453125,1.4133567810058594,0.6978862285614014
+225,41% abv.,41%,0.0012862682342529297,1.4805090427398682,0.7504963874816895
+226,Roger II of Sicily.,King William II,0.0012962818145751953,1.471604347229004,0.42079952359199524
+227,The Otranto Cathedral mosaic pavement from 1166.,pavement of the Otranto Cathedral,0.001341104507446289,1.791506290435791,0.838237464427948
+228,Light Emitting Diode.,light-emitting diode,0.0013217926025390625,1.4612374305725098,0.9434576034545898
+229,There is no mention of King Edward the 3 in the provided context.,"Edward III proclaimed ""that the town of Bristol with its suburbs and precincts shall henceforth be separate from the counties of Gloucester and Somerset",0.0012459754943847656,1.9089038372039795,0.4164268672466278
+230,I don't see any information about orchids in the provided text.,"Apple orchards were once plentiful, and Somerset is still a major producer of cider",0.00130462646484375,1.8981730937957764,0.2314998358488083
+231,"'Usui civium, decori urbium'.",Usui civium decori urbium,0.0012743473052978516,1.7027654647827148,0.9258939623832703
+232,1169.,1169,0.0013303756713867188,1.360438585281372,0.9680554866790771
+233,The purpose of contacts in the lamp socket is to allow the electric current to pass through the base to the filament.,allow the electric current to pass through the base to the filament,0.0012252330780029297,2.31044602394104,0.4810710549354553
+234,Bayonet base.,bayonet base,0.0012998580932617188,1.367619514465332,0.983130693435669
+235,Blue.,blue,0.0012938976287841797,1.2270526885986328,0.9266413450241089
+236,The text does not provide information on the number of members of the Royal Institute of British Architects (RIBA).,"44,000",0.0012955665588378906,2.3224639892578125,0.09909921884536743
+237,Christ.,the Theotokos,0.0013158321380615234,1.2550904750823975,0.1087455302476883
+238,Basket willow.,The Somerset Levels is now the only area in the UK where basket willow is grown commercially.,0.0012331008911132812,1.3665671348571777,0.5385710597038269
+239,17 January 1882.,17 January 1882,0.0013244152069091797,1.5243415832519531,0.9797293543815613
+240,Electric current.,electric current,0.0012745857238769531,1.309349775314331,0.8910855054855347
+241,"Incandescent lights have a continuous blackbody spectrum, which yields near-perfect color rendition with a color rendering index of 100.",the continuous blackbody spectrum emitted from an incandescent light-bulb filament,0.0012199878692626953,2.576673984527588,0.6326390504837036
+242,"Punjab is Pakistan's second largest province in terms of land area, after Balochistan.",second largest,0.001291513442993164,2.115096092224121,0.3748505413532257
+243,5th century.,the 5th,0.0012979507446289062,1.4160373210906982,0.5635222792625427
+244,Agave.,agave,0.0012536048889160156,1.278644323348999,0.9763909578323364
+245,"A dedicatory inscription, specifically a public demonstration of the benefactors' humility and an acknowledgement of God's omniscience.",prayer,0.0012748241424560547,2.52188777923584,0.3539928197860718
+246,Arta.,Arta,0.0012524127960205078,1.3261563777923584,0.9724165797233582
+247,Table beer.,table beer,0.0013267993927001953,1.316619873046875,0.9641996026039124
+248,1589.,1589,0.0013065338134765625,1.3710825443267822,0.9674283266067505
+249,"Vehicles, auto parts, bicycles, rickshaws, and aircraft.",bicycles and rickshaws,0.0012698173522949219,1.9538841247558594,0.7517968416213989
+250,The rate of evaporation of a tungsten filament is determined by its temperature.,"hotter, more-efficient filaments evaporate faster",0.001264810562133789,1.9646990299224854,0.615174412727356
+251,"Jean Metzinger, Albert Gleizes, Robert Delaunay, and Henri Le Fauconnier.","Jean Metzinger, Albert Gleizes, Robert Delaunay and Henri Le Fauconnier",0.0013434886932373047,2.3220386505126953,0.9825546741485596
+252,Sorghum.,sorghum or millet,0.0012850761413574219,1.3621914386749268,0.8840532302856445
+253,The Royal Portbury Dock was constructed to provide extra capacity for the Port of Bristol in the 1970s.,fellowships,0.0012922286987304688,2.3289365768432617,-0.0648583322763443
+254,$294.5 billion (£147.7 billion),$294.5 billion,0.001317739486694336,1.7229633331298828,0.9031124114990234
+255,Alcohol.,water,0.0012845993041992188,1.2607812881469727,0.6016745567321777
+256,Public anger.,public anger,0.0013551712036132812,1.2954914569854736,0.9606518149375916
+257,Byzantine influence.,They were all destroyed later,0.001249551773071289,1.3779301643371582,0.24027371406555176
+258,is lower than the regional and national average.,the unemployment rate is lower than the regional and national average.,0.0012359619140625,1.6525225639343262,0.6280796527862549
+259,270 lm/W.,270 lm/W,0.0013117790222167969,1.429638147354126,0.9890515804290771
+260,Papal gifts.,papal gifts,0.0012977123260498047,1.3848137855529785,0.9726927280426025
+261,Peacocks represent paradise and resurrection in Christian symbolism.,paradise and resurrection,0.0011982917785644531,1.7183911800384521,0.5091571807861328
+262,Fermentation.,fermentation,0.0012292861938476562,1.2839362621307373,0.9433563947677612
+263,Alexander Lodygin.,Alexander Lodygin,0.0013074874877929688,1.4101550579071045,0.9820689558982849
+264,Greyhounds.,greyhounds,0.0012466907501220703,1.368969202041626,0.9741989374160767
+265,The bulb sizes are measured in inches or millimeters.,"1⁄8 of an inch, or in millimeters",0.001218557357788086,1.7382466793060303,0.526180624961853
+266,"King Arthur, the Holy Grail, and Camelot.","mythical associations, including legends of a visit by the young Jesus of Nazareth and Joseph of Arimathea, with links to the Holy Grail, King Arthur",0.0012874603271484375,1.7917461395263672,0.7224869728088379
+267,1839.,summer of 1839,0.0012607574462890625,1.3338804244995117,0.7817343473434448
+268,"""Rubikcubism""",Rubikcubism,0.0012459754943847656,1.4867258071899414,0.9418207406997681
+269,The Early Middle Ages.,the Early Middle Ages,0.0012447834014892578,1.3988547325134277,0.9841724634170532
+270,Murano.,Murano,0.0013115406036376953,1.3264806270599365,0.9807481169700623
+271,Venice.,Venice,0.0013096332550048828,1.2129247188568115,0.9732497930526733
+272,Mosaic art was widespread in Southern Italy during the 11th–13th centuries.,mosaic art was widespread,0.0012044906616210938,2.1162610054016113,0.7191758155822754
+273,Chemical inertness and high atomic or molecular weight.,chemical inertness and high atomic or molecular weight,0.0013113021850585938,1.6819517612457275,0.9687005877494812
+274,110.,110,0.0012996196746826172,1.3030924797058105,0.9477043151855469
+275,1914.,1914,0.00127410888671875,1.3306608200073242,0.9601083993911743
+276,"Cubism revolutionized the way things could be seen in art by representing all the surfaces of depicted objects in a single picture plane, as if the objects had all their faces visible at the same time.","all the surfaces of depicted objects in a single picture plane, as if the objects had all their faces visible at the same time.",0.001329660415649414,3.2141096591949463,0.6834162473678589
+277,Over four million items.,over four million,0.0013103485107421875,1.4087753295898438,0.7381360530853271
+278,30 ft.,30 ft,0.001291036605834961,1.334096908569336,0.9761109352111816
+279,"Pour slowly, leaving the yeast sediment at the bottom of the bottle, or swirl the sediment before pouring.",slowly,0.0013256072998046875,2.269928455352783,0.27063190937042236
+280,Approximately 70 staff are based in Newcastle.,180,0.0012936592102050781,1.637798547744751,0.0282142274081707
+281,Paris.,Paris,0.001352071762084961,1.2695982456207275,0.9628871083259583
+282,The radiant luminous efficacy (LER) is the ratio of the visible light flux emitted (luminous flux) to the total power radiated over all wavelengths.,the ratio of the visible light flux emitted (the luminous flux) to the total power radiated over all wavelengths,0.0012919902801513672,2.811788558959961,0.5689914226531982
+283,A hand pump.,a hand pump,0.0013339519500732422,1.354994773864746,0.9850043058395386
+284,"The images at the synagogue in Khirbet Susiya suggest that the community was conservative, as they depict important figures from the Jewish past but not their images.",rather conservative,0.0013425350189208984,2.842921018600464,0.4716677665710449
+285,Lisbon.,Lisbon,0.0013043880462646484,1.2217938899993896,0.9658610820770264
+286,"The resistance of the filament is determined by its length, thickness, and material.","the filament's length, thickness, and material",0.0012385845184326172,1.9647266864776611,0.7846081852912903
+287,1320 AD,1320 AD,0.0012378692626953125,1.2727200984954834,1.0000001192092896
+288,The text does not mention the Zargos Mountains.,Iran,0.0012395381927490234,1.6990501880645752,0.16088315844535828
+289,The ban on figurative depiction.,figurative depiction,0.0012907981872558594,1.5171217918395996,0.7681138515472412
+290,39.2%,39.2%,0.0013108253479003906,1.395153284072876,1.000000238418579
+291,1909.,1909,0.0012679100036621094,1.3687992095947266,0.9728071689605713
+292,Fermentable sugars and enzymes.,champagne yeasts,0.0013213157653808594,1.510831356048584,0.4339367151260376
+293,The Privy Council's approval is required for any revisions to the Charter or Byelaws.,the Privy Council's approval,0.0013608932495117188,2.149792194366455,0.7627465724945068
+294,The Despot of Epirus.,the Despot of Epirus,0.0012726783752441406,1.5271079540252686,0.9842512011528015
+295,The envelope or bulb.,the envelope,0.0013072490692138672,1.4162142276763916,0.6948035955429077
+296,More efficient and could operate at higher temperatures.,These lamps were more efficient than even graphitized carbon filaments and could operate at higher temperatures.,0.0013163089752197266,1.6216964721679688,0.6415361166000366
+297,The Chora Church in Constantinople.,the Hagia Sophia,0.0012843608856201172,1.5730705261230469,0.5018647909164429
+298,Pale ale.,pale ale,0.0013244152069091797,1.3145060539245605,0.9812712669372559
+299,"The French ideologies shifted towards conservatism, leading to a wide ideological shift towards conservatism in both French society and culture.",conservatism,0.0013687610626220703,2.232372999191284,0.5802723169326782
+300,Edison used the Sprengel pump to achieve a higher vacuum than other inventors.,by use of the Sprengel pump,0.001276254653930664,2.0697193145751953,0.5099443793296814
+301,"Marcel Duchamp's Nude Descending a Staircase, No. 2.","Nude Descending a Staircase, No. 2",0.0013208389282226562,2.063112735748291,0.7620101571083069
+302,a mausoleum.,a mausoleum,0.0012981891632080078,1.4718568325042725,0.9873024821281433
+303,Albania.,Albania,0.00128173828125,1.252777338027954,0.9644533395767212
+304,"The national horse and cattle show at Lahore is the biggest festival where sports, exhibitions, and livestock competitions are held.","sports, exhibitions, and livestock competitions",0.0012216567993164062,2.36393141746521,0.6751753091812134
+305,Eugène Figuière,Eugène Figuière,0.0013000965118408203,1.4083688259124756,1.0000001192092896
+306,"Marcel Sembat, a Socialist deputy.","Socialist deputy, Marcel Sembat.",0.0012862682342529297,1.6406807899475098,0.9838417172431946
+307,The Pammakaristos mosaics.,Pammakaristos,0.0012791156768798828,1.754359245300293,0.7449215650558472
+308,South Punjab.,south Punjab,0.0012698173522949219,1.3117718696594238,0.9794635772705078
+309,Low temperatures and too little fermentation time.,Low temperatures,0.0012416839599609375,1.5654926300048828,0.5973787307739258
+310,A terrestrial paradise of God's creation.,a terrestrial paradise,0.0012936592102050781,1.578737497329712,0.867825984954834
+311,Protocubism.,Protocubism,0.0012824535369873047,1.3917791843414307,0.9784044027328491
+312,After 740.,after 740,0.0012853145599365234,1.376558780670166,0.9730257987976074
+313,1986,1986,0.001224517822265625,1.3139393329620361,1.0000001192092896
+314,Hefeweizen wheat beer.,wheat beers,0.0013210773468017578,1.5208089351654053,0.6989113688468933
+315,An independent jury panel of design professionals and client representatives.,independence of the jury,0.001293182373046875,1.7013647556304932,0.490273654460907
+316,64 AD.,64 AD,0.0012269020080566406,1.3593897819519043,0.9721383452415466
+317,Restrooms in rest areas along some Texas interstate highways.,the rest areas,0.0011935234069824219,1.7432198524475098,0.45690229535102844
+318,"Punjab, India and Rajasthan.",Punjab and Rajasthan,0.0012569427490234375,1.4322700500488281,0.9209336638450623
+319,"The dissolution and reconstitution of three-dimensional form, using simple geometric shapes, juxtaposed without the illusions of classical perspective.",the dissolution and reconstitution of three-dimensional form,0.0012362003326416016,2.423548698425293,0.9029450416564941
+320,"The panels from the naos of the Chora Church in Constantinople show the influence of the Italian trecento on Byzantine art, especially in their more natural settings, landscapes, and figures.",Italian trecento,0.0013055801391601562,3.3202054500579834,0.47856605052948
+321,The Somerset and Dorset Joint Railway (S&DJR) purchased the tramway in 1871.,"In 1871 the tramway was purchased by the Somerset and Dorset Joint Railway (S&DJR), and operated until the 1950s",0.0012691020965576172,2.301577568054199,0.9606285691261292
+322,"The filament and its supports are assembled on a glass stem, which is fused to the bulb.","assembled on a glass stem, which is fused to the bulb",0.0012655258178710938,2.1902499198913574,0.8469839096069336
+323,2,The ceremonial county of Somerset consists of a two-tier non-metropolitan county,0.0012891292572021484,1.2755615711212158,0.03353170305490494
+324,Lahore.,Lahore,0.0012333393096923828,1.2356197834014893,0.972389280796051
+325,A vine.,a vine with many branches,0.001310110092163086,1.3084022998809814,0.7894330620765686
+326,Justinian era (565/6).,Justinian,0.0012962818145751953,1.5874710083007812,0.5317234992980957
+327,Milan.,Milan,0.0012874603271484375,1.2575640678405762,0.9749245643615723
+328,Enzymes left over from the mashing stage.,enzymes,0.0013606548309326172,1.7088987827301025,0.6650813221931458
+329,Constantine Monomachos.,Constantine Monomachos,0.0012617111206054688,1.5200328826904297,0.9859490394592285
+330,Eisbock.,fractional freezing,0.0012485980987548828,1.3447856903076172,-0.025393735617399216
+331,1906.,1906,0.0012843608856201172,1.3585522174835205,0.9640109539031982
+332,The Hindu calendar.,the Hindu calendar,0.0012867450714111328,1.331247091293335,0.9900062680244446
+333,"The usefulness of the canals was short-lived, though some have now been restored for recreation.","usefulness of the canals was short-lived, though some have now been restored for recreation",0.0012640953063964844,2.142392635345459,0.9845659732818604
+334,Farming.,Farming continued to flourish,0.0012743473052978516,1.31306791305542,0.6770085692405701
+335,54.7%,54.7%,0.0012903213500976562,1.4242229461669922,1.0
+336,1210,1210,0.0012960433959960938,1.2815032005310059,1.0
+337,"The coiled-coil filament evaporates more slowly than a straight filament of the same surface area and light-emitting power, allowing it to run hotter and be more efficient.",The coiled-coil filament evaporates more slowly,0.0012803077697753906,3.041534185409546,0.8175376057624817
+338,Simultaneous Windows and Formes Circulaires.,"Simultaneous Windows,",0.0013306140899658203,1.7415707111358643,0.6577671766281128
+339,North Africa.,North Africa,0.0012733936309814453,1.3101913928985596,0.9645023345947266
+340,10 years.,around ten,0.0013148784637451172,1.3764493465423584,0.5270541906356812
+341,St. Peter.,St. Peter,0.0012907981872558594,1.3675861358642578,0.9840590357780457
+342,Repetitive elements or areas needing site-specific shapes.,repetitive,0.0013072490692138672,1.7482070922851562,0.3993186056613922
+343,Hops.,hops,0.0012750625610351562,1.2670619487762451,0.9759762287139893
+344,Jordan.,Jordan,0.0013380050659179688,1.253948450088501,0.9610145092010498
+345,"""Punjab"" means ""five waters"" in Urdu and Punjabi.",five waters,0.0012428760528564453,2.0036404132843018,0.41384080052375793
+346,To increase the alcohol content of the beer.,to increase alcohol content,0.0012819766998291016,1.6009066104888916,0.7807426452636719
+347,"The mosaics in the church discovered in 1990 in Christian Petra depicted native and exotic animals, personifications of the Seasons, Ocean, Earth, and Wisdom.",only the floor panels,0.0012767314910888672,2.9732956886291504,0.08772344887256622
+348,Wheat.,wheat,0.0013146400451660156,1.2939085960388184,0.9601465463638306
+349,Montmartre and Montparnasse.,Montmartre,0.0013346672058105469,1.5900158882141113,0.8636472225189209
+350,"""Thirteen Ways of Looking at a Blackbird""",Thirteen Ways of Looking at a Blackbird,0.0013630390167236328,1.7043046951293945,0.9368183016777039
+351,The Tomb of the Julii is located near the crypt beneath St Peter's Basilica.,St Peter's Basilica,0.0012483596801757812,2.085264205932617,0.641150176525116
+352,FRIBA.,RIBA,0.001312255859375,1.3652806282043457,0.2282247394323349
+353,26 square feet.,26,0.0012619495391845703,1.373063564300537,0.40360909700393677
+354,The Museum of Somerset is located in Taunton.,in Taunton,0.001196146011352539,1.7049193382263184,0.6694920063018799
+355,3rd millennium BC,the 3rd millennium BC,0.0012516975402832031,1.4126639366149902,0.9743869304656982
+356,multiple perspective.,Henri Bergson,0.001332998275756836,1.2798666954040527,0.12334899604320526
+357,"Christmas colored light bulbs are created by coloring the glass with a dopant, often a metal like cobalt (blue) or chromium (green).",by coloring the glass with a dopant,0.001245260238647461,2.689924478530884,0.46717870235443115
+358,ANSI standard C81.67 and IEC standard 60061-1.,ANSI standard C81.67 and IEC standard 60061-1,0.0013127326965332031,2.0086939334869385,0.9798614978790283
+359,The Indus Valley Civilization.,the Indus Valley Civilization,0.0012621879577636719,1.378335952758789,0.9865553379058838
+360,Hops.,Hops,0.0012679100036621094,1.314277172088623,0.9759762287139893
+361,Liverpool University School of Architecture.,the Liverpool University School of Architecture,0.0012693405151367188,1.4382314682006836,0.9801942706108093
+362,The Mausoleum of Galla Placidia was another famous landmark in Ravenna established by Galla Placidia.,the church of San Giovanni Evangelista,0.0013146400451660156,2.5755789279937744,0.24392575025558472
+363,"LED lights are more efficient, with a luminous efficacy of 150 lm/W compared to compact fluorescent bulbs at 60 lm/W.",LED,0.0012884140014648438,2.590859889984131,0.4201190769672394
+364,Iron ore from the Brendon Hills to Watchet.,iron ore in the late 19th century; this was taken by the West Somerset Mineral Railway to Watchet Harbour for shipment to the furnaces at Ebbw Vale,0.0012803077697753906,1.7338602542877197,0.5520868301391602
+365,Juan Gris,Juan Gris,0.0012578964233398438,1.241070032119751,0.9999999403953552
+366,Somerset and Punjab.,"in terms of population are Bath, Weston-super-Mare, Taunton, Yeovil and Bridgwater",0.0012814998626708984,1.3585116863250732,0.4029672145843506
+367,The Taunton Stop Line was a defensive line set up to repel a potential German invasion during World War II.,The Taunton Stop Line was set up to repel a potential German invasion,0.0012278556823730469,2.453080415725708,0.9097223281860352
+368,539.,After 539,0.001239776611328125,1.318617820739746,0.751571536064148
+369,Giotto di Bondone.,Giotto di Bondone,0.0012140274047851562,1.5268359184265137,0.9841534495353699
+370,The robot picks and places tiles individually according to a command file from the design software.,a command file,0.0013086795806884766,2.0063955783843994,0.3131293058395386
+371,Three.,three,0.0012743473052978516,1.2145700454711914,0.9212040305137634
+372,"During lautering, when the sweet wort is separated from insoluble grain material.",during lautering,0.0013010501861572266,2.0331971645355225,0.6521949768066406
+373,Three panels.,three,0.0012998580932617188,1.3109264373779297,0.4577942490577698
+374,19th century.,19th,0.0012769699096679688,1.4013159275054932,0.7332381010055542
+375,A mausoleum for one or more of the Imperial family.,a mausoleum,0.0012409687042236328,1.9134657382965088,0.7118299603462219
+376,1747.,1747,0.0013129711151123047,1.3753647804260254,0.9656630754470825
+377,The Chief Minister.,the Chief Minister,0.0011785030364990234,1.2936007976531982,0.984340250492096
+378,1913.,1913,0.0012464523315429688,1.3604645729064941,0.9654048681259155
+379,A copper.,copper,0.001255035400390625,1.2912070751190186,0.8910748362541199
+380,1055,1055,0.0012557506561279297,1.3002727031707764,1.0000001192092896
+381,The bitterness in most beers is measured on the International Bitterness Units (IBU) scale.,the International Bitterness Units scale,0.001262664794921875,2.165919542312622,0.7377243041992188
+382,54 °C in June 1993.,54 °C,0.0012664794921875,1.6764450073242188,0.737085223197937
+383,The only surviving 12th-century mosaic work in Constantinople is a panel in Hagia Sophia depicting Emperor John II and Empress Eirene with the Theotokos (1122–34).,Hagia Sophia,0.001310586929321289,3.3333451747894287,0.4603540897369385
+384,Less.,less,0.001317739486694336,1.289684772491455,0.8749943971633911
+385,13 December 1904.,13 December 1904,0.0013267993927001953,1.525693416595459,0.9852520227432251
+386,Molecular weight and cross-sectional area of the gas molecules.,molecular weight of the gas and the cross sectional area of the gas molecules,0.0012328624725341797,1.7090964317321777,0.9666048884391785
+387,The Armory Show.,Armory Show,0.0012848377227783203,1.4221491813659668,0.9367164373397827
+388,Byzantine.,Byzantine,0.0012960433959960938,1.3129174709320068,0.9628485441207886
+389,"After it has been allowed to ""drop"" (clear) again after being disturbed during the tapping process.",unchilled,0.0012714862823486328,2.25193452835083,0.21614405512809753
+390,Constantine Monomachos.,Constantine Monomachos,0.0012733936309814453,1.5256242752075195,0.9859490394592285
+391,"A type of two-tone stone mosaic paving created in Portugal, often featuring geometric patterns or pictorial mosaics.",two-tone stone mosaic paving,0.0012602806091308594,2.331824541091919,0.7812223434448242
+392,The Arabs were influenced by the great tradition of Roman and Early Christian mosaic art in Syria and Egypt.,Roman,0.0012845993041992188,2.2079546451568604,0.2540881931781769
+393,"Larger mosaics were usually constructed using the opus tessellatum technique, which involved laying larger tesserae on site.",face-down to a backing paper,0.0012886524200439453,2.5628645420074463,0.19053088128566742
+394,1878,1915,0.0012698173522949219,1.3179974555969238,0.500368595123291
+395,Shepperton Studios,"Shepperton Studios, based on aerial photographs of the city's railway marshalling yards. The decoys were fitted with dim red lights",0.0012829303741455078,1.321575403213501,0.6431668996810913
+396,"To create a static image, often a design or theme related to the beach or water.",express text,0.0012979507446289062,2.0814380645751953,0.07982316613197327
+397,48 departments.,48,0.001291036605834961,1.3668186664581299,0.474642813205719
+398,Namibia.,Namibia,0.0012543201446533203,1.3156914710998535,0.971403956413269
+399,June 1993.,June 1993,0.0012650489807128906,1.3839361667633057,0.9830814003944397
+400,13.5 hours.,13.5 hours,0.0013480186462402344,1.470240831375122,0.9754452705383301
+401,Alexander Lodygin changed his name to Alexander de Lodyguine after moving to the USA.,Alexander de Lodyguine,0.0012807846069335938,2.2046360969543457,0.7381869554519653
+402,Beer Pong.,beer pong,0.0012793540954589844,1.354442834854126,0.977001965045929
+403,Bozo.,Bozo,0.0012555122375488281,1.295933723449707,0.9732090830802917
+404,Art Deco.,Art Deco,0.0012898445129394531,1.361774206161499,0.9733458161354065
+405,Saint Sophia Cathedral.,Saint Sophia Cathedral,0.0012137889862060547,1.3562095165252686,0.9788365364074707
+406,Torcello.,Torcello,0.001275777816772461,1.376664638519287,0.9835922718048096
+407,1826.,December 1826,0.0012598037719726562,1.3345873355865479,0.8020063638687134
+408,Feed-through terminals or wires embedded in the glass.,a socket,0.0012805461883544922,1.6839346885681152,0.4229002594947815
+409,More than 4000 years ago.,more than 4000 years ago,0.0012538433074951172,1.5673072338104248,0.9804357886314392
+410,Cheddar cheese.,"locally produced cheese, although there is now only one remaining cheese maker in the village of Cheddar",0.0012707710266113281,1.3569176197052002,0.6112016439437866
+411,"1 to months, depending on the type of yeast and strength of the beer.",a week to months,0.0012364387512207031,2.0318970680236816,0.5492958426475525
+412,Tungsten.,Tungsten,0.0012679100036621094,1.3303947448730469,0.9785422086715698
+413,"A lower voltage lamp has a thicker filament for the same power rating, allowing it to run hotter for the same lifetime before the filament evaporates.",Lower voltage lamps have a thicker filament,0.00128936767578125,2.680004596710205,0.7878081798553467
+414,"Incandescent lamps, particularly those used in flood lamps for photographic lighting, may have particularly short lives, lasting as short as two hours.","Theatrical, photographic, and projection lamps",0.0012896060943603516,2.62530517578125,0.3516722619533539
+415,Rondo-Cubism.,Rondo-Cubism,0.0013115406036376953,1.4684655666351318,0.9818847179412842
+416,Dorset and Somerset Air Ambulance.,The Dorset and Somerset Air Ambulance,0.0012781620025634766,1.590160846710205,0.979385256767273
+417,"Butrint, Albania.",Butrint,0.001257181167602539,1.4163942337036133,0.6249521374702454
+418,Crown Holdings.,Crown Holdings,0.0012285709381103516,1.3041608333587646,0.9795584678649902
+419,"The word ""beer"" comes from Old English ""bēor"", from Proto-Germanic ""*beuzą"", and the word ""ale"" comes from Old English ""ealu"", from Proto-Germanic ""*alu"".",Old English bēor,0.001253366470336914,3.6466174125671387,0.3442702889442444
+420,New York City.,New York City,0.0013377666473388672,1.397829532623291,0.9656890034675598
+421,1204.,1204,0.0012388229370117188,1.3722877502441406,0.9647897481918335
+422,1870s,the 1870s,0.0012907981872558594,1.3569128513336182,0.9400646686553955
+423,"The ""Ascension of Christ"" mosaic is located in the Latin Chapel of the Church of the Holy Sepulchre in Jerusalem.",in the Latin Chapel,0.001285552978515625,2.6027708053588867,0.5994235277175903
+424,Clement Greenberg.,"Picasso, Braque, Gris and Léger",0.0013129711151123047,1.3270962238311768,0.20581257343292236
+425,70%,70%,0.0012607574462890625,1.315638542175293,1.0000001192092896
+426,The Cathians and the people of Multan.,Raja Dahir,0.0012524127960205078,1.679215431213379,0.1508738398551941
+427,Luminous Efficacy Ratio.,radiant luminous efficacy,0.0013051033020019531,1.5786645412445068,0.7827752232551575
+428,Near the Boulevard de Montparnasse.,Boulevard de Montparnasse,0.0012416839599609375,1.5987780094146729,0.8557385802268982
+429,"A drop of water distributed over 500,000 lamps will significantly increase darkening.","The equivalent of a drop of water distributed over 500,000 lamps",0.0012917518615722656,2.0091896057128906,0.696330189704895
+430,InBev.,InBev,0.0012989044189453125,1.3531222343444824,0.9835470914840698
+431,"""Liquor"" in brewing terms.",liquor,0.0012850761413574219,1.619645357131958,0.7754778861999512
+432,The V&A + RIBA Architecture Partnership.,the V&A + RIBA Architecture Partnership,0.0013561248779296875,1.6776115894317627,0.9944067001342773
+433,Incandescent lamps are nearly pure resistive loads with a power factor of 1.,Incandescent lamps are nearly pure resistive loads,0.0012745857238769531,2.0605058670043945,0.9007289409637451
+434,Grand Prince of the Kievan Rus',Grand Prince of the Kievan Rus',0.0012481212615966797,1.5951063632965088,0.9999998807907104
+435,The grain bill.,the grain bill,0.001318216323852539,1.3037874698638916,0.9869672060012817
+436,"The Umayyad Mosque in Damascus, Syria, and the palaces of the caliphs and other high-ranking officials in the Eastern Mediterranean, such as Hisham's Palace in Palestine and Qasr al-Hallabat in Jordan.",Moorish Spain,0.001268148422241211,3.850829839706421,0.2886559069156647
+437,Red.,red,0.0013163089752197266,1.2551264762878418,0.9193431735038757
+438,1834,1834,0.0012576580047607422,1.275043249130249,1.0
+439,Source luminous efficacy.,source luminous efficacy,0.0012314319610595703,1.4246633052825928,0.9813399314880371
+440,The refectory.,the refectory,0.0013048648834228516,1.4234120845794678,0.9801200032234192
+441,"Nothing survived of the mosaics, but a Russian abbot, Daniel, left a written description of them in 1106-1107.",Nothing,0.001256704330444336,2.759059429168701,0.12196853756904602
+442,Philips.,Philips,0.0012934207916259766,1.2518463134765625,0.9791206121444702
+443,The facade of the Santa Maria church in Trastevere depicts Christ and Mary sitting next to each other on the heavenly throne.,Christ and Mary,0.0012538433074951172,2.5537075996398926,0.5819470286369324
+444,The Architects' Registration Council of the United Kingdom (ARCUK) and the Board of Architectural Education.,the Architects' Registration Council of the United Kingdom,0.001270294189453125,2.2414395809173584,0.8504660725593567
+445,2002,2002,0.001283407211303711,1.2745094299316406,1.0
+446,"After malting, barley is milled, which finally removes the hull, breaking it into large pieces.",After malting,0.0012598037719726562,2.2174582481384277,0.4522748589515686
+447,The Mendip Hills and the Quantock Hills were designated as Areas of Outstanding Natural Beauty.,Quantock Hills which was England's first Area of Outstanding Natural Beauty designated in 1956,0.0012936592102050781,2.116299629211426,0.7183003425598145
+448,The best new building of the year.,the best new building of the year,0.0013058185577392578,1.575524091720581,0.9856273531913757
+449,"Luddi, Bhangra and Sammi singers sing about the joy of living.","Luddi, Bhangra and Sammi",0.0012369155883789062,1.9801807403564453,0.614429771900177
+450,The Christian era.,the Christian era,0.001302957534790039,1.3718805313110352,0.9862959384918213
+451,Paul Gauguin and Paul Cézanne.,Paul Gauguin and Paul Cézanne,0.001329660415649414,1.7083244323730469,0.9873037338256836
+452,Pakistan's nuclear program.,Pakistan's nuclear program,0.0012531280517578125,1.3933594226837158,0.9496951103210449
+453,63.9%,63.9%,0.0013158321380615234,1.4158694744110107,1.0
+454,Analytic Cubism.,Analytic Cubism,0.0013003349304199219,1.3871276378631592,0.9782823324203491
+455,"Over 250 staff, with approximately 180 based in Newcastle.",over 250,0.0012903213500976562,1.8021559715270996,0.48538875579833984
+456,1043–1056.,1043–1056,0.0012555122375488281,1.5348443984985352,0.9730628728866577
+457,785.,in 785,0.0012881755828857422,1.324833869934082,0.7476836442947388
+458,Amorpha-Fugue à deux couleurs and Amorpha chromatique chaude.,Amorpha-Fugue à deux couleurs and Amorpha chromatique chaude,0.0012929439544677734,2.1890809535980225,0.9898937344551086
+459,The boundaries of Somerset are largely unaltered from medieval times.,are largely unaltered from medieval times,0.0012700557708740234,1.8528416156768799,0.6219639182090759
+460,2 hours.,as short as two hours,0.0012667179107666016,1.3264257907867432,0.698599100112915
+461,Mashing.,mashing,0.0012707710266113281,1.305953025817871,0.9706416726112366
+462,The Industrial Revolution in the Midlands and Northern England.,The Industrial Revolution in the Midlands and Northern England spelled the end for most of Somerset's cottage industries,0.001279592514038086,1.6776649951934814,0.7430036664009094
+463,1989,1989,0.0012798309326171875,1.3153836727142334,0.9999999403953552
+464,The Somerset Levels are divided into two sections by the Polden Hills: land to the south is drained by the River Parrett and land to the north is drained by the River Axe and the River Brue.,the Polden Hills; land to the south is drained by the River Parrett while land to the north is drained by the River Axe and the River Brue,0.0011703968048095703,3.465358018875122,0.7915226221084595
+465,Edison used wood splints in his early experiments with filaments.,bamboo,0.0012862682342529297,1.8368282318115234,0.20233991742134094
+466,Osios Loukas mosaics.,Osios Loukas,0.0013036727905273438,1.5973122119903564,0.748892068862915
+467,The floor of the Beit Alfa synagogue.,the floor of the Beit Alfa synagogue,0.001325845718383789,1.6380507946014404,0.9913098812103271
+468,19.8 lumens per watt.,as much as 19.8 lumens per watt,0.0012698173522949219,1.5795061588287354,0.9415764808654785
+469,"Axe, Brue, Cary, Parrett, Sheppey, Tone, and Yeo.","the Axe, Brue, Cary, Parrett, Sheppey, Tone and Yeo",0.0012123584747314453,2.2223997116088867,0.9698840975761414
+470,Prague and other Bohemian towns.,Prague,0.001306295394897461,1.5550429821014404,0.7884206771850586
+471,"Pavel Janák, Josef Gočár, Vlastislav Hofman, Emil Králíček, and Josef Chochol.","Pavel Janák, Josef Gočár, Vlastislav Hofman, Emil Králíček and Josef Chochol",0.001285552978515625,2.536818265914917,0.9890503287315369
+472,Ethyl alcohol.,ethyl alcohol,0.0012962818145751953,1.3686070442199707,0.9688552618026733
+473,"They produce discrete spectral lines, not a continuous spectrum.",Due to the discrete spectral lines rather than a continuous spectrum,0.0012824535369873047,1.6779365539550781,0.8809199333190918
+474,Dynamism and expressive plasticity.,dynamism and expressive plasticity,0.0013227462768554688,1.483269453048706,0.9869978427886963
+475,1150 AD.,1150 AD,0.001249074935913086,1.3707795143127441,0.9773686528205872
+476,"The Sikh Empire, after the Second Anglo-Sikh War in 1849.",the Sikh Empire,0.001268625259399414,1.9615061283111572,0.8018481135368347
+477,Screw base.,screw base,0.00130462646484375,1.2780959606170654,0.9560916423797607
+478,Adolf Loos' work was preserved by the Royal Institute's Library throughout World War II.,Adolf Loos,0.0013065338134765625,2.082750082015991,0.6233587861061096
+479,Northeast.,northeasterly,0.001253366470336914,1.2544238567352295,0.781619668006897
+480,Roger II of Sicily and Christ.,Christ,0.0012290477752685547,1.5757982730865479,0.24355226755142212
+481,"Hops contribute bitterness, flavor, and aroma to beer, and the longer they are boiled, the more bitterness they contribute, but the less hop flavor and aroma remains in the beer.",bitterness,0.0011913776397705078,3.0826504230499268,0.38194578886032104
+482,Floral and geometric patterns.,only floral and geometric,0.001287221908569336,1.4096202850341797,0.8268402218818665
+483,Student Members.,Student Members,0.0013239383697509766,1.3125739097595215,0.9834483861923218
+484,Jerusalem.,Jerusalem,0.0012445449829101562,1.2538087368011475,0.9702392816543579
+485,The evacuation tube in the stem is sealed by a flame.,by a flame,0.001271963119506836,1.7471377849578857,0.5074645280838013
+486,1 to 2 hours.,1 to 2 hours,0.0012750625610351562,1.5209951400756836,0.956789493560791
+487,Electro-Dynamic Light Company was organized first.,Electro-Dynamic Light Company,0.0012927055358886719,1.6277508735656738,0.8574265837669373
+488,The Monmouth Rebellion.,Monmouth Rebellion was played out in Somerset and neighbouring Dorset,0.0012862682342529297,1.3909990787506104,0.6876421570777893
+489,Air conditioning system.,a building's air conditioning system,0.0013370513916015625,1.365626335144043,0.8300183415412903
+490,Theodore Metochites.,Theodore Metochites,0.0012409687042236328,1.4279634952545166,0.9837956428527832
+491,River crossings and valleys in ranges of hills.,"strategic importance in relation to geographical features, such as river crossings or valleys in ranges of hills",0.0011925697326660156,1.6353785991668701,0.7392156720161438
+492,Brewing.,brewing,0.0012712478637695312,1.2555882930755615,0.9152350425720215
+493,1761.,1761,0.0012564659118652344,1.362220048904419,0.9691464900970459
+494,2004.,2004,0.0013241767883300781,1.3668956756591797,0.9544477462768555
+495,"44.5% of Somerset students achieved 5 grades A-C including English and Maths, compared to 45.8% for England.","In 2006, 5,900 pupils in Somerset sat GCSE examinations, with 44.5% achieving 5 grades A-C including English and Maths (compared to 45.8% for England).",0.001264810562133789,2.649285078048706,0.8393529057502747
+496,The Victoria and Albert Museum (V&A).,Victoria and Albert Museum,0.0013239383697509766,1.5944173336029053,0.9442459940910339
+497,1721.,1721,0.0012671947479248047,1.3319604396820068,0.9668411612510681
+498,Wheat and cotton.,Wheat and cotton,0.0012335777282714844,1.3620071411132812,0.9804730415344238
+499,A slower-evaporating filament enables a more efficient light source and a longer lifespan.,more efficient light source,0.0013146400451660156,2.00978684425354,0.5602275729179382
