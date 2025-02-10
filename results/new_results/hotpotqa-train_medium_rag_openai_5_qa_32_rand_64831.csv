@@ -1,0 +1,46 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,"A robot was used to deliver a charge of C4, which was then detonated next to the gunman.",C4,0.3186922073364258,3.3154284954071045,0.43697935342788696
+1,Harrisburg is licensed to serve Dauphin County.,Dauphin County.,0.3935701847076416,1.501434564590454,0.709536075592041
+2,"Darwinia has more species, with about 70 species, while Willow (Salix) has around 400 species.",Darwinia,0.24066805839538574,1.9404826164245605,0.49790459871292114
+3,Cartoon Network and Frederator Studios.,Cartoon Network Studios and Frederator Studios,0.35791468620300293,1.2922399044036865,0.965957760810852
+4,Indianapolis.,Indianapolis,0.2670938968658447,1.0112056732177734,0.9579234719276428
+5,Reggiolo.,Lorenzo Bandini,0.33860015869140625,1.0786609649658203,0.31419992446899414
+6,"Kingsley Amis was from the United Kingdom, not the United States. Don DeLillo is the American novelist.","Donald Richard ""Don"" DeLillo",0.3941309452056885,2.035142660140991,0.5582970380783081
+7,Blue's Clues,Blue's Clues,0.31070780754089355,1.1708903312683105,1.0000001192092896
+8,Yes.,no,0.2986905574798584,0.9412415027618408,0.5598188042640686
+9,Season 1.,winter,0.45794105529785156,1.2556500434875488,0.40673884749412537
+10,SBS.,SBS,1.4645168781280518,1.0564115047454834,0.9702335596084595
+11,"No, Anatole France was a novelist, journalist, and poet, but Charles Reznikoff was primarily a poet.",yes,0.2929825782775879,1.8432245254516602,0.07985703647136688
+12,", then the offensive coordinator for the Buffalo Bills before becoming the Chargers head coach in 2017.
+
+List of Los Angeles Chargers head coaches: 
+The Los Angeles Chargers are a professional American football team based in the Greater Los Angeles Area. The Chargers compete in the National Football League (NFL) as a member club of the league's American Football Conference (AFC) West division. There have been 15 coaches in Los Angeles Chargers franchise history, including Sid Gillman, who coached the Los Angeles Chargers' first and only season in 1960 before the team's move to San Diego, California in 1961. Gillman is also the only Hall of Fame coach from the Chargers franchise.
+
+2017 Oakland Raiders season: 
+The 2017 Oakland Raiders season is the 58th overall season of the Oakland Raiders franchise, the franchise's 48th season in the National Football League, their 24th season since their return to Oakland, and the third under head coach Jack Del Rio. The Raiders are looking to win their first AFC West title since 2002 and the Super Bowl for the first time since 1983, when the club was still in Los Angeles. The Raiders began the season on September 10 at the Tennessee Titans and will finish the season December 31 at the Los Angeles Chargers. The Raiders, as they did in 2016, will play one home game in Mexico City, this time against the New England Patriots.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Ravenscroft lies on a plateau that goes through which US states?
+        
+        assistant
+         Tennessee.","much of eastern Kentucky and Tennessee, and portions of northern Alabama and northwest Georgia",0.2922217845916748,0.9772579669952393,-0.06824532896280289
+13,Quentin Tarantino.,Quentin Jerome Tarantino,0.3903770446777344,1.14790940284729,0.8714307546615601
+14,Disney–ABC Domestic Television.,The Walt Disney Company,0.7380814552307129,1.03084135055542,0.6123592853546143
+15,A shipment of gold to Brazzaville.,a shipment of gold,0.3985633850097656,1.5602293014526367,0.7299821972846985
+16,Yes.,yes,0.594719648361206,0.9274072647094727,0.836855947971344
+17,Texas Instruments.,Texas Instruments,0.3323068618774414,1.0702857971191406,0.9664025902748108
+18,2000.,2000,0.42115044593811035,1.2056798934936523,0.9515540599822998
+19,Bill Pullman,"William James ""Bill"" Pullman",0.35683298110961914,1.1497817039489746,0.8420197367668152
+20,Betty Blue.,37° 2 le matin,0.28004026412963867,1.1031599044799805,0.08693996071815491
+21,Pakistan.,Pakistan,0.325927734375,1.0446324348449707,0.9362217783927917
+22,Clark University.,adjacent to University Park about 50 miles west of Boston,0.3256556987762451,0.8731722831726074,0.4029541611671448
+23,Anton Bruckner,Anton Bruckner,0.46770167350769043,1.1159274578094482,1.0
+24,stOrk.,stOrk,0.3170435428619385,1.1704308986663818,0.9724289178848267
+25,London Bridge.,Westminster Bridge,0.26875805854797363,1.097804069519043,0.8014179468154907
+26,"No, they have different nationalities. Peter Maxwell Davies is English and Mikhail Glinka is Russian.",no,0.49436473846435547,2.069579839706421,0.1560373306274414
+27,Diplocyclos is a type of vine.,Diplocyclos,0.3498091697692871,1.490051507949829,0.7960250377655029
+28,"Orientalist painting was a specialism of 19th-century academic art, and it was of special interest to Nigel Leask, who taught at the University of Glasgow.",University of Glasgow,0.3289785385131836,2.606323003768921,0.3874739706516266
+29,1966,1967,0.4362630844116211,1.2631478309631348,0.7585389614105225
+30,Performance art.,performance art,0.29770851135253906,1.2281732559204102,0.953574538230896
+31,Anthony Lynn.,Anthony Lynn,0.2431793212890625,1.2513346672058105,0.9760314226150513

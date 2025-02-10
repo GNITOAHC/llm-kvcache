@@ -1,0 +1,510 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,The rooms in the Belgian Suite are linked by narrow corridors.,by narrow corridors,0.0008907318115234375,1.9627196788787842,0.49660420417785645
+1,It is also an art gallery.,art gallery,0.0009591579437255859,0.6065564155578613,0.8012039661407471
+2,Braque and Picasso.,Braque and Picasso,0.0008575916290283203,0.5065720081329346,0.9787653684616089
+3,Juan Gris.,Juan Gris,0.0008575916290283203,0.4449770450592041,0.9844105839729309
+4,The Crown Estate owns Buckingham Palace and Windsor Castle.,Crown Estate,0.0008554458618164062,0.7001132965087891,0.7044792175292969
+5,Goring Great Garden.,Goring Great Garden,0.0008234977722167969,0.5142245292663574,0.9819589257240295
+6,To highlight minority party goals and achievements.,write books or articles that highlight minority party goals and achievements,0.0008718967437744141,0.6210572719573975,0.7689049243927002
+7,The Speaker of the House is the leader of the majority party in the House.,Speaker,0.0008404254913330078,0.914318323135376,0.4600050449371338
+8,Buckingham House.,Buckingham House,0.0008347034454345703,0.4624443054199219,0.9801653623580933
+9,Sir James Pennethorne.,Sir James Pennethorne.,0.0008306503295898438,0.5731816291809082,1.0
+10,Dornier Do 17 bomber.,Dornier Do 17 bomber,0.0008273124694824219,0.550912618637085,0.9816239476203918
+11,Woman Walking.,Woman Walking,0.0008637905120849609,0.4356546401977539,0.993730902671814
+12,1762.,1762,0.0008368492126464844,0.47914958000183105,0.9633775353431702
+13,The Duke of Buckingham and Normanby in 1703.,Duke of Buckingham and Normanby,0.00083160400390625,0.7953588962554932,0.8390429019927979
+14,James Blaine of Maine.,James Blaine,0.0008366107940673828,0.5528810024261475,0.854963481426239
+15,King George V.,George V,0.0008640289306640625,0.4998586177825928,0.8678106069564819
+16,A King's Messenger.,King's Messenger,0.0008032321929931641,0.4443185329437256,0.8973678350448608
+17,"£21,000.","£21,000",0.0008447170257568359,0.5176253318786621,0.9723057150840759
+18,A minority leader can attempt to set some agenda for the House by employing or threatening to use discharge petitions to bring minority priorities to the floor.,"may employ, or threaten to use, discharge petitions to try and bring minority priorities to the floor.",0.000873565673828125,1.3532352447509766,0.797534167766571
+19,Coach horses.,horses,0.0008101463317871094,0.4347078800201416,0.8238334655761719
+20,1905-1908.,"1905 and 1908,",0.0008585453033447266,0.6099932193756104,0.952204704284668
+21,The Throne Room.,the throne room,0.0008373260498046875,0.4713749885559082,0.9784623384475708
+22,Glass.,glass,0.0008490085601806641,0.42467546463012695,0.951978325843811
+23,"The Queen's Gallery, near the Royal Mews.",at the Queen's Gallery,0.000823974609375,0.7364494800567627,0.829236626625061
+24,Queen Victoria.,Queen Victoria,0.0008332729339599609,0.4607083797454834,0.9674348831176758
+25,The Making of Americans.,The Making of Americans,0.0008382797241210938,0.48329901695251465,0.9760099649429321
+26,Paul Gauguin and Paul Cézanne.,Paul Gauguin and Paul Cézanne,0.0008988380432128906,0.7341034412384033,0.9873037338256836
+27,Silk.,silk.,0.0008227825164794922,0.40488362312316895,1.0
+28,The freehold of the palace was subject to frenzied speculation in the 17th century.,the freehold,0.000835418701171875,1.0862605571746826,0.4466991424560547
+29,52.,52,0.0008344650268554688,0.45960187911987305,0.9440832734107971
+30,hardship,their subjects' hardship,0.0008244514465332031,0.3295447826385498,0.6945285797119141
+31,King George V.,George V,0.0008499622344970703,0.48081016540527344,0.8678106069564819
+32,The style of the saucer domes in the Belgian Suite is designed by Nash in the style of Soane.,the style of Soane,0.0008285045623779297,1.1971709728240967,0.5798629522323608
+33,Internal party disunity and a lack of formal party leadership structure made it difficult to identify House leadership.,Internal party disunity,0.0008437633514404297,1.0578243732452393,0.648302435874939
+34,"The palace's chimneys smoked excessively, causing fires to be allowed to die down to avoid the smoke.",the chimneys smoked,0.0008225440979003906,1.1200971603393555,0.7081068754196167
+35,"František Kupka's works, specifically ""Amorpha-Fugue à deux couleurs"" and ""Amorpha chromatique chaude"", exhibited at the 1912 Salon d'Automne, were highly abstract and repetitive, similar to Cubist art.",Gertrude Stein,0.0008516311645507812,2.2926948070526123,0.22840166091918945
+36,A great deal. They are typically energetic and aggressive campaigners for partisan incumbents and challengers.,hardly any major aspect of campaigning that does not engage their attention,0.0008614063262939453,1.0218067169189453,0.4100547730922699
+37,18th century.,18th-century design,0.0008490085601806641,0.5155916213989258,0.7354475259780884
+38,Dynamism and expressive plasticity.,dynamism and expressive plasticity,0.0008571147918701172,0.6089608669281006,0.9869978427886963
+39,"476,000 people.","476,000 people",0.0008471012115478516,0.5704951286315918,0.9892148971557617
+40,Josef Gočár.,Vlastislav Hofman,0.0008206367492675781,0.5153348445892334,0.37110626697540283
+41,Hale Boggs.,Hale Boggs,0.0008032321929931641,0.4398767948150635,0.9893848299980164
+42,World War I.,World War I,0.0008292198181152344,0.4808621406555176,0.9355374574661255
+43,On the first evening of a state visit by a foreign head of state.,the first evening of a state visit by a foreign head of state,0.0008115768432617188,0.8757734298706055,0.964943528175354
+44,1909 to 1914.,1909 to 1914,0.0008268356323242188,0.6155097484588623,0.9799554347991943
+45,To develop a united front on issues and present a coordinated opposition to the majority party.,to represent a party comprising a distinct minority,0.0008552074432373047,0.9729716777801514,0.5586773157119751
+46,Queen Mary.,Queen Mary,0.0008296966552734375,0.45864248275756836,0.9791020154953003
+47,Nine times.,nine times,0.0008044242858886719,0.368929386138916,0.9235760569572449
+48,Johann Strauss II.,Johann Strauss II,0.0008859634399414062,0.4821500778198242,0.9821540117263794
+49,King William IV.,William IV,0.0008356571197509766,0.4815537929534912,0.8675158023834229
+50,The minority leader consults and participates in a joint news conference with their counterparts in the Senate and with the President if their party controls the White House.,counterparts in the Senate—and with the president if their party controls the White House,0.0008392333984375,1.4151592254638672,0.5980457663536072
+51,A large oriental chimney piece sculpted by Richard Westmacott.,large oriental chimney piece,0.0008378028869628906,0.8631401062011719,0.7376225590705872
+52,Montparnasse.,Montparnasse,0.0008273124694824219,0.530693769454956,0.9808236956596375
+53,"Windsor Castle, Balmoral Castle, and Osborne House.",Osborne House,0.0008647441864013672,0.7881662845611572,0.674654483795166
+54,1762.,1762,0.0008273124694824219,0.47402501106262207,0.9633775353431702
+55,Robert Jones.,Robert Jones,0.0008447170257568359,0.4597644805908203,0.9779086709022522
+56,Dennis Hastert.,Dennis Hastert,0.0008256435394287109,0.47839951515197754,0.9845566749572754
+57,Prince Albert died before 1840.,1861,0.0008215904235839844,0.648550271987915,0.2381896674633026
+58,"The minority leader is able to accomplish additional demands and tasks by employing various strategies, such as using discharge petitions, publicizing their party's agenda, and engaging in activities like organizing town meetings, sponsoring party retreats, and creating theme teams to craft party messages.",minority leader is provided with extra staff resources—beyond those accorded him or her as a Representative,0.000843048095703125,2.219102382659912,0.6837251782417297
+59,The Duke of Buckingham.,Duke of Buckingham,0.0008111000061035156,0.5136444568634033,0.9702171087265015
+60,20-138 candidates.,at least twenty different candidates,0.0008330345153808594,0.54537034034729,0.7765998840332031
+61,The text does not provide an exact number of state rooms in Buckingham Palace.,19 state rooms,0.0008270740509033203,0.87961745262146,0.5264919996261597
+62,1914.,1914,0.0008330345153808594,0.47440624237060547,0.9601083993911743
+63,1703.,1703,0.0008518695831298828,0.49791598320007324,0.96819007396698
+64,Tom DeLay.,Majority Leader Tom DeLay,0.0008156299591064453,0.514930248260498,0.7744901776313782
+65,Eye Cross.,Eye Cross,0.00083160400390625,0.46045398712158203,0.972714364528656
+66,Emperor Napoleon III of France.,Emperor Napoleon III of France,0.0008060932159423828,0.5748231410980225,0.9632226228713989
+67,Three tall ostrich feathers.,ostrich feathers,0.0008370876312255859,0.5506491661071777,0.8904358744621277
+68,"The Prince of Wales, later George IV.",Prince of Wales,0.0008153915405273438,0.6573648452758789,0.7310481071472168
+69,The party's floor leader plays an influential role in the formulation of party policy.,A party's floor leader,0.0008370876312255859,0.9365448951721191,0.7877590656280518
+70,The Houses of Parliament.,new Houses of Parliament,0.0008444786071777344,0.5140926837921143,0.8716641664505005
+71,Clement Greenberg.,"Picasso, Braque, Gris and Léger",0.0008461475372314453,0.47076940536499023,0.20581257343292236
+72,Portland stone.,Portland stone,0.0008788108825683594,0.4416935443878174,0.9827080368995667
+73,Nancy Pelosi.,Nancy Pelosi,0.0008020401000976562,0.4132087230682373,0.9781918525695801
+74,King George V.,George V,0.0008227825164794922,0.47847437858581543,0.8678106069564819
+75,Léger.,Léger,0.0008373260498046875,0.49443697929382324,0.9703016877174377
+76,Rondo-Cubism.,Rondo-Cubism,0.0008552074432373047,0.5493435859680176,0.9818847179412842
+77,Musical entertainments.,musical entertainments,0.0008335113525390625,0.49936366081237793,0.9702510237693787
+78,"Yes, the dissension and cohesion of the majority party can significantly impact the minority leader's strategy, providing more opportunities for the minority party to achieve its priorities when the majority party is divided.",may provide the minority leader with greater opportunities to achieve his or her priorities than if the majority party exhibited high degrees of party cohesion,0.0008361339569091797,1.7158000469207764,0.8147182464599609
+79,"No, minority leaders also confer with the White House, provide campaign assistance, and devise minority party strategies.",in consultation with other party colleagues,0.0008571147918701172,1.0882353782653809,0.21323224902153015
+80,78,78 bathrooms,0.0008182525634765625,0.4034302234649658,0.43885338306427
+81,Inspecting their bombed home.,inspecting their bombed home,0.0008149147033691406,0.5132763385772705,0.9782441854476929
+82,"Nude Descending a Staircase, No. 2.","Nude Descending a Staircase, No. 2",0.0008399486541748047,0.8271491527557373,0.9872941970825195
+83,Issues and the party's public image.,"issues and assess the party's public image; they create ""theme teams"" to craft party messages",0.0008296966552734375,0.6186888217926025,0.6366236805915833
+84,"African, Polynesian, Micronesian, and Native American art inspired Matisse, Picasso, and Gauguin.",stark power and simplicity,0.0008258819580078125,1.2982351779937744,0.008485496044158936
+85,"The Speaker, after consultation with the minority leader, may place legislation on the Corrections Calendar.",minority leader,0.0008306503295898438,1.0105054378509521,0.27358001470565796
+86,1911.,1911,0.0008275508880615234,0.4956991672515869,0.9687958359718323
+87,"The Grand Service was made for the Prince of Wales, later George IV.",the Prince of Wales,0.0008046627044677734,0.8809418678283691,0.5051443576812744
+88,Simultaneous Windows and Formes Circulaires.,"Simultaneous Windows,",0.0008184909820556641,0.7510569095611572,0.6577671766281128
+89,The 1844 Room.,1844 Room,0.0008251667022705078,0.5714304447174072,0.9478841423988342
+90,The House is more partisan.,more partisan nature of the House,0.0008230209350585938,0.5481100082397461,0.9242168068885803
+91,David Lloyd George.,David Lloyd George,0.0008339881896972656,0.48076844215393066,0.9815050959587097
+92,Geoffrey de Mandeville.,Geoffrey de Mandeville,0.0008161067962646484,0.5703225135803223,0.9874058961868286
+93,1913-14.,1913–14,0.0008347034454345703,0.5704395771026611,0.9705308675765991
+94,"Guillaume Apollinaire, Blaise Cendrars, Jean Cocteau, Max Jacob, André Salmon, and Pierre Reverdy.","Guillaume Apollinaire, Blaise Cendrars, Jean Cocteau, Max Jacob, André Salmon and Pierre Reverdy",0.0008130073547363281,1.378098964691162,0.9850574731826782
+95,Eye Cross.,Eye Cross,0.0008132457733154297,0.45871591567993164,0.972714364528656
+96,2005,2005,0.0007987022399902344,0.368837833404541,1.0
+97,"Christopher Green said that it's unclear how much Salon Cubists depended on Picasso and Braque for their techniques, and they could have developed them independently, guided by their own understanding of Cézanne.","It is by no means clear, in any case",0.0008404254913330078,1.834679365158081,0.050897542387247086
+98,The Manor of Ebury (also called Eia).,Manor of Ebury,0.0008108615875244141,0.755406379699707,0.8945546746253967
+99,"Late Cubism is not explicitly mentioned in the text, but the historical study of Cubism began in the late 1920s, and the terms ""analytical"" and ""synthetic"" emerged in the mid-1930s.",1914 to 1921,0.0008335113525390625,2.0690619945526123,0.1750805526971817
+100,"No, employing a negative strategy carries risks and may not be effective if the minority party fails to offer policy alternatives that appeal to the general public.","""going negative"" carries risks",0.0008213520050048828,1.3866097927093506,0.5715905427932739
+101,A sword.,a sword,0.0008342266082763672,0.437924861907959,0.9663410186767578
+102,"No, the Speaker of the House typically does not participate in debate and rarely votes on the floor.","Typically, the Speaker does not participate in debate",0.0008087158203125,1.0631475448608398,0.7309784293174744
+103,David Lloyd George.,David Lloyd George,0.0008273124694824219,0.49758052825927734,0.9815050959587097
+104,"1909-1914, known as ""High Cubism"".",between 1917 and 1920,0.0008540153503417969,0.834998369216919,0.389843225479126
+105,The Palace.,the Palace,0.0008151531219482422,0.3689229488372803,0.9710109233856201
+106,The semi-state apartments.,semi-state apartments,0.0008361339569091797,0.5397031307220459,0.9579905867576599
+107,"There is no information about parties in the given context. The text mentions the House of Commons and the parties in the US Congress, but not in the context of early 19th century.",(Federalists and Democratic-Republicans),0.0008275508880615234,1.7422535419464111,0.36019518971443176
+108,"No, typically the Speaker of the House is more influential than the Senate Majority Leader.",Majority Leaders have been more influential than the Speaker,0.0008771419525146484,0.9502260684967041,0.7038676738739014
+109,Goring Great Garden.,Goring Great Garden,0.0007917881011962891,0.5337271690368652,0.9819589257240295
+110,Coach horses.,horses,0.0008273124694824219,0.43763232231140137,0.8238334655761719
+111,King Charles I.,King Charles I,0.0008487701416015625,0.49821019172668457,0.9788752794265747
+112,Sir Charles Allom.,Sir Charles Allom,0.0008409023284912109,0.5361485481262207,0.9837779998779297
+113,1973.,1973,0.0008065700531005859,0.4773738384246826,0.9672453999519348
+114,Futurism.,Futurist,0.0008215904235839844,0.49601101875305176,0.8343220949172974
+115,The Marlborough House Set.,"""the Marlborough House Set""",0.0008373260498046875,0.5481414794921875,0.938494086265564
+116,1861.,1861,0.0008161067962646484,0.49804043769836426,0.9636132717132568
+117,"Metzinger, Gleizes, Delaunay, and Léger.","Metzinger, Gleizes, Delaunay and Léger",0.0008206367492675781,0.9517347812652588,0.9596037864685059
+118,John Boehner.,John Boehner,0.0008428096771240234,0.4365274906158447,0.9809682965278625
+119,Tsar Nicholas I of Russia.,Tsar Nicholas I of Russia,0.0008037090301513672,0.6096394062042236,0.9674249887466431
+120,"The floor leader is instrumental in guiding legislation favored by their party through the House, or in resisting those programs of the other party that are considered undesirable by their own party.","guiding legislation favored by his party through the House, or in resisting those programs of the other party that are considered undesirable by his own party",0.0008344650268554688,1.5823931694030762,0.5627503395080566
+121,Majority party leaders.,majority party leaders,0.0008428096771240234,0.47411417961120605,0.9664141535758972
+122,Les Arbres (1907),Les Arbres,0.0008432865142822266,0.606823205947876,0.7905901074409485
+123,2,two of these seven Congresses,0.0008423328399658203,0.4055602550506592,0.26884204149246216
+124,The Centre Room.,Centre Room,0.0008223056793212891,0.5009152889251709,0.9501157999038696
+125,"The overall party strategy for a minority leader is to develop and promote the party's agenda, neutralize the opposition's arguments, and present a united front on issues.","develop a coordinated communications strategy, to share ideas and information, and to present a united front on issues",0.0008318424224853516,1.5314102172851562,0.4309850037097931
+126,Picabia and the Duchamp brothers.,Picabia and the Duchamp brothers,0.0008141994476318359,0.6603586673736572,0.9894362092018127
+127,Queen Mary.,Queen Mary,0.0008230209350585938,0.45994019508361816,0.9791020154953003
+128,The minority leader is a member of the House Office Building Commission and the United States Capitol Preservation Commission.,House Office Building Commission; he or she is a member of the United States Capitol Preservation Commission,0.0008373260498046875,1.0638799667358398,0.7209510207176208
+129,"Robert Michel functioned as the ""point man"" for Republican presidents, particularly Ronald Reagan, and was effective in wooing ""Reagan Democrats"" to support the Administration's legislative initiatives.","point man"" for Republican presidents",0.0008251667022705078,1.664961338043213,0.6910417079925537
+130,Queen Mary.,Queen Mary,0.0008020401000976562,0.4588890075683594,0.9791020154953003
+131,The Democratic Congressional Campaign Committee.,Democratic Leadership Council,0.0008382797241210938,0.5743858814239502,0.5121039748191833
+132,Guillaume Apollinaire.,Guillaume Apollinaire,0.0008370876312255859,0.5183231830596924,0.9873360991477966
+133,Tradition and custom.,tradition and custom,0.000843048095703125,0.4969925880432129,0.9657902121543884
+134,Lavish costume balls.,lavish costume balls,0.0008149147033691406,0.534677267074585,0.9854355454444885
+135,"Francis Picabia, Louis Marcoussis, Roger de La Fresnaye, František Kupka, Diego Rivera, Léopold Survage, Auguste Herbin, André Lhote, Gino Severini, María Blanchard, and Georges Valmier.","Jean Metzinger, Albert Gleizes, Robert Delaunay and Henri Le Fauconnier",0.00086212158203125,2.412292003631592,0.5439640879631042
+136,The palace chapel.,the palace chapel,0.0007677078247070312,0.43752408027648926,0.9842407703399658
+137,"Cézanne's later work, particularly his breaking of the painted surface into small multifaceted areas of paint and his simplification of natural forms into geometric shapes.",in the two distinct tendencies of Cézanne's later work,0.0008103847503662109,1.5306379795074463,0.612847089767456
+138,The Ballroom.,Ballroom,0.0008108615875244141,0.47918701171875,0.903744101524353
+139,"No, according to art historian Douglas Cooper, The Demoiselles is not yet Cubist, but a major step towards it.",although it was a major first step towards Cubism it is not yet Cubist.,0.0008132457733154297,1.2874987125396729,0.7102463841438293
+140,Sir William Chambers.,Sir William Chambers,0.0008609294891357422,0.47379302978515625,0.9783315658569336
+141,218 signatures.,218,0.0008282661437988281,0.48026204109191895,0.6361640095710754
+142,The Democratic Congressional Campaign Committee.,Democratic Congressional Campaign Committee,0.0008490085601806641,0.5719876289367676,0.9562698006629944
+143,Over 800.,775 rooms,0.0008165836334228516,0.4968397617340088,0.3752076029777527
+144,"Strong party organization, professional politicians, and high levels of party voting.",strong party organization and professional politicians,0.0008518695831298828,0.8484892845153809,0.8501975536346436
+145,Minority leaders travel around the country to speak on behalf of party candidates.,floor speeches and close debate on major issues before the House; they deliver addresses in diverse forums across the country,0.0008349418640136719,0.8447475433349609,0.43357545137405396
+146,Almost 20 years.,20 years,0.0008447170257568359,0.5107245445251465,0.8364406228065491
+147,"Keifer was discredited and became an empty leader because he arbitrarily handed out jobs to his relatives at handsome salaries while Speaker, leading to his loss of support from his party associates.","arbitrarily handed out ""choice jobs to close relatives ... all at handsome salaries.",0.0008187294006347656,1.6342058181762695,0.37057173252105713
+148,Neo-Impressionism and Les Nabis.,Les Nabis and the Symbolists,0.0008509159088134766,0.665930986404419,0.7022715210914612
+149,The Battle of Britain Day.,the Battle of Britain Day,0.0007882118225097656,0.47600245475769043,0.984315037727356
+150,Thomas Reed.,"Thomas Reed,",0.0008478164672851562,0.46033549308776855,0.9767451882362366
+151,Westminster Abbey.,Westminster Abbey,0.0008177757263183594,0.4613683223724365,0.9682819247245789
+152,"The 1912 exhibition of Cubism, known as the Salon de la Section d'Or, showed over 200 works, including successive stages of Cubism's development from 1909 to 1912.",indicates the artists' intention of making their work comprehensible to a wide audience,0.0008296966552734375,1.927729606628418,0.2539387345314026
+153,Gertrude Stein.,Gertrude Stein,0.0008318424224853516,0.5087826251983643,0.9821693897247314
+154,1873.,1873,0.0008249282836914062,0.4955120086669922,0.9635894894599915
+155,Two smaller flanking service wings.,two,0.00083160400390625,0.5874893665313721,0.1859608143568039
+156,Hexagonal windows.,hexagonal,0.00084686279296875,0.47969484329223633,0.7848818898200989
+157,1762.,1762,0.0008118152618408203,0.47672152519226074,0.9633775353431702
+158,Dennis Hastert.,Dennis Hastert,0.00080108642578125,0.4782521724700928,0.9845566749572754
+159,A chapel that was destroyed by an air raid in World War II.,chapel,0.0008175373077392578,0.8651995658874512,0.5333728194236755
+160,The Ballroom.,in the Ballroom,0.0008127689361572266,0.47449302673339844,0.8738654851913452
+161,George III.,King George III,0.0008027553558349609,0.4595601558685303,0.8952464461326599
+162,"Simultaneity, multiple viewpoints, and relative motion.",relative motion),0.0008273124694824219,0.8003268241882324,0.5870790481567383
+163,The Royal Mews.,the Royal Mews,0.000797271728515625,0.5106081962585449,0.9905898571014404
+164,Alexander Hamilton.,Alexander Hamilton,0.0007998943328857422,0.4392411708831787,0.9718208312988281
+165,"Faceted treatment of solid and space, and multiple viewpoints to convey a sense of simultaneity and fluidity of consciousness.",The Salon Cubists,0.0008332729339599609,1.2461967468261719,0.18416538834571838
+166,Between 1905 and 1908.,1914 and 1916,0.0008268356323242188,0.6617395877838135,0.6226885914802551
+167,"Neither, the House has both a Majority Leader and a Minority Leader.",minority party has one less leadership position,0.000843048095703125,0.8391218185424805,0.6342194080352783
+168,"Offer their program as a substitute for the majority proposal, or offer it as a motion to recommit and get a vote on that.",offer our program as a substitute,0.0008192062377929688,1.267979621887207,0.448586106300354
+169,Public opinion.,public opinion,0.0008056163787841797,0.4572257995605469,0.9124815464019775
+170,"Gerald Ford, Richard Gephardt, Nancy Pelosi, and John Boehner.","Gerald Ford, Richard Gephardt, Nancy Pelosi, and John Boehner",0.0008552074432373047,0.9025485515594482,0.9856125116348267
+171,There is no official dress code at Buckingham Palace today.,there is no official dress code,0.0008058547973632812,0.736807107925415,0.6825271844863892
+172,Queen Victoria.,Queen Victoria,0.0008182525634765625,0.45844578742980957,0.9674348831176758
+173,The House rule book.,House rule book.,0.0008096694946289062,0.5106210708618164,0.9767897129058838
+174,George III.,Sir Charles Sheffield,0.0008139610290527344,0.4596405029296875,0.2853129208087921
+175,The public face of Buckingham Palace.,"""public face"" of Buckingham Palace",0.0008096694946289062,0.5913722515106201,0.9667189121246338
+176,"Narrow corridors, one with saucer domes and another with Gothic influenced cross over vaulting.",by narrow corridors,0.0008194446563720703,1.0492076873779297,0.5605276226997375
+177,The Palace.,the Palace,0.0008220672607421875,0.40073466300964355,0.9710109233856201
+178,Henri Bergson's concept of duration was left behind.,Henri Bergson's,0.0008649826049804688,0.7272958755493164,0.5836763381958008
+179,Cream and gold.,Belle Époque cream and gold,0.0008463859558105469,0.49676942825317383,0.6800265312194824
+180,Eugène Figuière.,Eugène Figuière,0.0008203983306884766,0.5774664878845215,0.9862204194068909
+181,The Cubists.,Cézanne,0.0008940696716308594,0.4783029556274414,0.11256760358810425
+182,Emperor Napoleon III of France.,Emperor Napoleon III of France,0.0008170604705810547,0.5713837146759033,0.9632226228713989
+183,Frustrating the majority party's ability to govern or attracting press and media attention to the alleged ineffectiveness of the majority party.,frustrating the majority party's ability to govern or attracting press and media attention to the alleged ineffectiveness,0.0008411407470703125,1.3528127670288086,0.9617429971694946
+184,Eccentric School of Painting Increases Its Vogue in the Current Art Exhibition - What Its Followers Attempt to Do.,Eccentric School of Painting Increases Its Vogue in the Current Art Exhibition - What Its Followers Attempt to Do,0.0008499622344970703,1.1260778903961182,0.9591671824455261
+185,"Pavel Janák, Josef Gočár, Vlastislav Hofman, Emil Králíček, and Josef Chochol.","Pavel Janák, Josef Gočár, Vlastislav Hofman, Emil Králíček and Josef Chochol",0.0008387565612792969,1.2818005084991455,0.9890503287315369
+186,1826.,1826,0.000827789306640625,0.477081298828125,0.9721485376358032
+187,Gino Severini linked De Stijl to Cubist theory through the writings of Albert Gleizes.,Gino Severini,0.0008251667022705078,1.118793249130249,0.4901130199432373
+188,1920.,early as 1920,0.0008287429809570312,0.471937894821167,0.8495855927467346
+189,Independents and swing voters.,independents and swing voters,0.0008511543273925781,0.5718414783477783,0.9363410472869873
+190,Regularly.,minority leader confers regularly with the President and his aides about issues before Congress,0.0008573532104492188,0.4412882328033447,0.20491302013397217
+191,The Crown Estate.,Crown Estate,0.0008275508880615234,0.4777688980102539,0.944835364818573
+192,The Demoiselles d'Avignon.,The Demoiselles,0.0008299350738525391,0.6856870651245117,0.6783571243286133
+193,James Madison of Virginia.,James Madison,0.0008435249328613281,0.5314483642578125,0.8804114460945129
+194,King Edward VII's heavy redecorations.,King Edward's heavy redecorations,0.0008227825164794922,0.6813833713531494,0.928908109664917
+195,1993.,since 1993,0.0008323192596435547,0.4735267162322998,0.7145758867263794
+196,"The Belgian Suite, located at the foot of the Minister's Staircase, on the ground floor of the north-facing Garden Wing.",the Belgian Suite,0.0008156299591064453,1.3135437965393066,0.637648344039917
+197,"""Coming out""",coming out,0.0008351802825927734,0.47444725036621094,0.8307291269302368
+198,King George VI and Queen Elizabeth (later Queen Elizabeth II) were the monarchs in residence at Buckingham Palace during WWII.,King George VI and Queen Elizabeth,0.0008275508880615234,1.2310378551483154,0.7228147387504578
+199,"Faceting of form, spatial ambiguity, transparency, and multiplicity.","faceting of form, spatial ambiguity, transparency, and multiplicity.",0.0008268356323242188,0.8373270034790039,1.0
+200,Task forces composed of partisan colleagues with conflicting views.,partisan colleagues with conflicting views,0.0008184909820556641,0.6629905700683594,0.8337440490722656
+201,"Yes, Cubism influenced literature and architecture.","The influence of cubism extended to other artistic fields,",0.0008208751678466797,0.6283900737762451,0.7494128942489624
+202,Drinking alcohol.,alcohol,0.0007967948913574219,0.36897945404052734,0.8475644588470459
+203,A swimming pool.,swimming pool,0.0008306503295898438,0.49652528762817383,0.9338383674621582
+204,King George V.,King George V,0.0008447170257568359,0.4749321937561035,0.9870680570602417
+205,Piet Mondrian developed Neo-Plasticism under the influence of Cubism in Paris.,Piet Mondrian,0.0008177757263183594,1.0110692977905273,0.5382155179977417
+206,"Minority leaders publicize their party's priorities through various means, including press releases, town meetings, party retreats, theme teams, websites, and task forces.","""talking points"" for constituent meetings in their districts; they help to organize ""town meetings""",0.0008585453033447266,1.4933786392211914,0.41520917415618896
+207,Leo.,Leo,0.0008111000061035156,0.3761413097381592,0.9538343548774719
+208,Protocubism.,Protocubism,0.0008158683776855469,0.5184869766235352,0.9784044027328491
+209,1837.,1837,0.0008263587951660156,0.49961423873901367,0.968521237373352
+210,"The Grand Service, a collection of silver-gilt plate made in 1811 for the Prince of Wales, later George IV.",the Grand Service,0.0008091926574707031,1.2803103923797607,0.5801405310630798
+211,"77,000 m2 (830,000 sq ft)","77,000 m2 (830,000 sq ft)",0.0008065700531005859,0.8023955821990967,1.000000238418579
+212,The Belgian Suite.,the Belgian Suite,0.0008251667022705078,0.47847628593444824,0.9870486855506897
+213,Nash's original work.,Nash's,0.0008909702301025391,0.53713059425354,0.6989504098892212
+214,1911.,"October 8, 1911",0.0008528232574462891,0.49757862091064453,0.6187119483947754
+215,Prince Albert.,Prince Albert,0.000827789306640625,0.4601919651031494,0.9757370352745056
+216,James I.,James I,0.0007977485656738281,0.46011781692504883,0.970252513885498
+217,1847-1850.,Between 1847 and 1850,0.0008668899536132812,0.5921833515167236,0.9488887190818787
+218,10-by-3-meter.,10-by-3-meter,0.0008349418640136719,0.5906991958618164,0.9756379723548889
+219,Carlton House and the Royal Pavilion at Brighton.,Carlton House,0.0008361339569091797,0.6817977428436279,0.7748897075653076
+220,A bottle-drying rack.,bottle-drying rack,0.0008313655853271484,0.5706591606140137,0.9427046179771423
+221,1994.,1994,0.0008521080017089844,0.4756767749786377,0.9562965631484985
+222,Montmartre.,Montmartre,0.0008318424224853516,0.46840715408325195,0.9818522334098816
+223,Edward VII.,Edward VII,0.0008296966552734375,0.44039320945739746,0.9836665391921997
+224,"Yes, minority leaders are typically experienced lawmakers.",Minority Leaders are typically experienced lawmakers when they win election to this position,0.0007963180541992188,0.6505947113037109,0.8559094667434692
+225,1873.,1873,0.0008437633514404297,0.49547576904296875,0.9635894894599915
+226,There is no mention of valuable items being taken from Buckingham Palace during WWI in the provided context.,Windsor,0.0008420944213867188,1.0812528133392334,0.11459647119045258
+227,Salle 41.,Salle 41,0.0008246898651123047,0.5107905864715576,0.9894131422042847
+228,John Nash.,Nash,0.0008070468902587891,0.43741726875305176,0.8804718255996704
+229,King Charles I.,King Charles I,0.0008530616760253906,0.4984874725341797,0.9788752794265747
+230,Queen Mary.,Queen Mary,0.0008571147918701172,0.44409871101379395,0.9791020154953003
+231,Edward VII.,Edward VII,0.000835418701171875,0.4457876682281494,0.9836665391921997
+232,The Queen and Prince Philip use a smaller suite of rooms in the north wing.,the north wing,0.0008189678192138672,0.9378805160522461,0.4344944953918457
+233,"Research into form, in opposition to the Neo-Impressionist emphasis on color.","research into form, in opposition to the Neo-Impressionist emphasis on color.",0.0008387565612792969,0.9726612567901611,1.0000001192092896
+234,Chinese Regency style.,Chinese regency style,0.0008206367492675781,0.5340824127197266,0.9836516380310059
+235,King William IV.,William IV,0.0007941722869873047,0.4044301509857178,0.8675158023834229
+236,Matisse.,"Gertrude Stein,",0.0008814334869384766,0.4992060661315918,0.33924543857574463
+237,"André Lhote, Marcel Duchamp, Jacques Villon, Roger de La Fresnaye, André Dunoyer de Segonzac, and František Kupka.","André Lhote, Marcel Duchamp, Jacques Villon, Roger de La Fresnaye, André Dunoyer de Segonzac and František Kupka",0.0008487701416015625,1.5588562488555908,0.9851936101913452
+238,"They can vote against the majority program and say they did their best to come up with a better alternative, or vote for it and make the same argument.",say we did our best to come up with a better alternative. Or they could vote for it and make the same argument,0.0008218288421630859,1.4209074974060059,0.6878702640533447
+239,The semi-state apartments.,the semi-state apartments,0.0008347034454345703,0.5295958518981934,0.9889691472053528
+240,"The large East Front, facing The Mall.",The large East Front,0.0008146762847900391,0.68747878074646,0.6152032017707825
+241,The palace chapel.,the chapel,0.0008037090301513672,0.4408390522003174,0.8592869639396667
+242,James A. Garfield of Ohio.,James A. Garfield,0.0008387565612792969,0.6275379657745361,0.8891013860702515
+243,A motion to recommit with instructions.,motion to recommit and get a vote on that,0.0008451938629150391,0.6496841907501221,0.5563019514083862
+244,Sir William Blake built the first house on the site around 1624.,Sir William Blake,0.0008046627044677734,0.9019789695739746,0.5449848175048828
+245,The 108th Congress.,108th Congress,0.0008480548858642578,0.5502316951751709,0.9525785446166992
+246,Amorpha-Fugue à deux couleurs and Amorpha chromatique chaude.,Amorpha-Fugue à deux couleurs and Amorpha chromatique chaude,0.0008189678192138672,1.048929214477539,0.9898937344551086
+247,Tiaras or feathers.,tiaras or feathers,0.0008456707000732422,0.5695514678955078,0.9853839874267578
+248,Over 800 people work at the palace.,92 offices,0.0008234977722167969,0.6624133586883545,0.32106640934944153
+249,Woman's Head.,The first true Cubist sculpture,0.0008285045623779297,0.4711167812347412,0.10689983516931534
+250,The Centre Room.,Centre Room,0.0008032321929931641,0.4976487159729004,0.9501157999038696
+251,John Nash.,John Nash,0.0008261203765869141,0.45876383781433105,0.9810198545455933
+252,"The answer is not specified in the given context, but it is known that King George V and Queen Mary lived at Buckingham Palace during WWI.",King George V and Queen Mary,0.0008091926574707031,1.4155991077423096,0.7606611251831055
+253,"No, minority leaders employ variable strategies that can vary from bill to bill and be used in combination or at different stages of the lawmaking process.",options selected depend on a wide range of circumstances,0.0008413791656494141,1.384202003479004,0.12740883231163025
+254,The ballroom wing.,The ballroom wing,0.0008466243743896484,0.5153565406799316,0.9778501987457275
+255,The Armory Show.,Armory Show,0.0008440017700195312,0.5352005958557129,0.9367164373397827
+256,Yes.,Cubist architecture is very rare,0.00081634521484375,0.4052927494049072,0.05270492285490036
+257,Mirrored doors.,mirrored doors,0.0008020401000976562,0.4994680881500244,0.9560244679450989
+258,1837.,1837,0.0008180141448974609,0.49720025062561035,0.968521237373352
+259,Near the Boulevard de Montparnasse.,Boulevard de Montparnasse,0.0008032321929931641,0.6584296226501465,0.8557385802268982
+260,The Chinese Luncheon Room.,The red and blue Chinese Luncheon Room,0.0008437633514404297,0.5699138641357422,0.8921326398849487
+261,Guillaume Apollinaire.,Guillaume Apollinaire,0.0008423328399658203,0.5472655296325684,0.9873360991477966
+262,Multiple perspective.,Henri Bergson,0.0008499622344970703,0.4419119358062744,0.12334899604320526
+263,"""Thirteen Ways of Looking at a Blackbird""",Thirteen Ways of Looking at a Blackbird,0.0008604526519775391,0.7219500541687012,0.9368183016777039
+264,Early Cubism.,Analytic Cubism,0.0008091926574707031,0.47501564025878906,0.7043893337249756
+265,"Clement Walker in his book ""Anarchia Anglicana"" (1649) suggests that the mulberry garden at St. James's may have been a place of debauchery.",Clement Walker,0.0008220672607421875,1.7415175437927246,0.3735111355781555
+266,The Royal Collection of furniture and art.,Royal Collection of furniture and art,0.0008382797241210938,0.622077465057373,0.9894303679466248
+267,1938.,1938,0.0008356571197509766,0.49588608741760254,0.9626467227935791
+268,78,78,0.0008146762847900391,0.40678834915161133,1.0
+269,"Marcel Sembat, a Socialist deputy.","Socialist deputy, Marcel Sembat.",0.0008139610290527344,0.681391716003418,0.9838417172431946
+270,The Policy Committee.,Policy Committee,0.0008449554443359375,0.49561023712158203,0.9586701393127441
+271,The Chief Deputy Whip.,Patrick McHenry.,0.0008172988891601562,0.5050640106201172,0.2330448031425476
+272,Republicans were upset with Mann because he had angered them by objecting to their private bills on the floor and was also a protégé of autocratic Speaker Joseph Cannon.,objecting to their private bills on the floor,0.0008299350738525391,1.5664165019989014,0.25605446100234985
+273,He gave up alcohol.,alcohol,0.0008182525634765625,0.5327503681182861,0.5653860569000244
+274,"""Alice Polka""",Alice Polka,0.000835418701171875,0.5345311164855957,0.9634807109832764
+275,Paul Cézanne.,Paul Cézanne,0.0008525848388671875,0.5503993034362793,0.9868301153182983
+276,The Duke of York and the Earl and Countess of Wessex.,Duke of York,0.0008234977722167969,0.8652911186218262,0.620734691619873
+277,The ground floor of the north-facing Garden Wing.,the ground floor,0.0008018016815185547,0.7147972583770752,0.5047266483306885
+278,Constructivism.,Constructivism,0.0008053779602050781,0.4116661548614502,0.9612134695053101
+279,John Nash and Edward Blore.,John Nash and Edward Blore,0.0008113384246826172,0.5897963047027588,0.9821239709854126
+280,The Senior Chief Deputy Whip.,Senior Chief Deputy Whip,0.0008141994476318359,0.5423085689544678,0.9744484424591064
+281,"Minority leaders are very involved in campaigns outside of Washington, often traveling the country to speak on behalf of party candidates, recruiting qualified candidates, and encouraging financial contributions to the party's campaign committee.",travel around the country to speak on behalf of party candidates; and they encourage incumbent colleagues to make significant financial contributions,0.0008547306060791016,1.7185614109039307,0.5471771955490112
+282,3,three,0.0008492469787597656,0.4203619956970215,0.8656187057495117
+283,15 September 1940.,15 September 1940,0.0008022785186767578,0.515380859375,0.9783247709274292
+284,The new east wing of Buckingham Palace.,the new east wing,0.0008070468902587891,0.6451025009155273,0.647710919380188
+285,"Nude Descending a Staircase, No. 2",Le Dépiquage des Moissons (Harvest Threshing),0.0008273124694824219,0.7914769649505615,0.15282386541366577
+286,Ostrich.,ostrich feathers,0.0008172988891601562,0.48171091079711914,0.7799747586250305
+287,"Edward Blore, built by Thomas Cubitt.",Thomas Cubitt,0.0008082389831542969,0.699934720993042,0.5336483120918274
+288,Minority leaders establish leadership PACs to raise and distribute funds to House candidates of their party.,Minority leaders,0.0008208751678466797,0.992314338684082,0.6299233436584473
+289,1936.,1936,0.0008208751678466797,0.48263120651245117,0.9675049185752869
+290,Minority Leader.,Minority Leader,0.00080108642578125,0.44466185569763184,0.9776791930198669
+291,Clement Greenberg.,Clement Greenberg.,0.0008485317230224609,0.4735679626464844,1.0000001192092896
+292,La Femme aux phlox.,La Femme aux phlox,0.0008454322814941406,0.5725994110107422,0.9874335527420044
+293,Filippo Tommaso Marinetti.,Filippo Tommaso Marinetti,0.0008451938629150391,0.6476466655731201,0.989513635635376
+294,"£21,000.","£21,000",0.0008106231689453125,0.5161583423614502,0.9723057150840759
+295,Raymond Duchamp-Villon and André Mare,Raymond Duchamp-Villon and André Mare,0.0008444786071777344,0.6127769947052002,1.0
+296,"Futurism, Suprematism, Dada, Constructivism, and De Stijl.","Futurism, Suprematism, Dada, Constructivism and De Stijl",0.0008294582366943359,1.064197301864624,0.9862395524978638
+297,Sir Charles Long.,Sir Charles Long,0.0008585453033447266,0.49408674240112305,0.981592059135437
+298,"The chimneys smoked excessively, causing fires to be allowed to die down to prevent overheating.",the chimneys smoked,0.0008068084716796875,1.0469841957092285,0.8111459612846375
+299,Paris.,Paris,0.0008442401885986328,0.4017038345336914,0.9628871083259583
+300,2005,2005,0.0007920265197753906,0.37089967727661133,1.0
+301,The creation of leadership positions allows for the inclusion and empowerment of a greater diversity of partisans in the leadership structure.,way to reach out and involve a greater diversity of partisans in the leadership structure,0.0008122920989990234,1.1325650215148926,0.8159321546554565
+302,The Minister's Staircase.,the Minister's Staircase,0.0008158683776855469,0.6097440719604492,0.9886784553527832
+303,King George III.,King George III,0.0008389949798583984,0.4963717460632324,0.9777086973190308
+304,The Manor of Ebury.,Manor of Ebury,0.0008318424224853516,0.5734238624572754,0.9660735726356506
+305,1854.,1854,0.0008008480072021484,0.49811768531799316,0.9737570285797119
+306,Dornier Do 17 bomber.,Dornier Do 17 bomber,0.000812530517578125,0.5513560771942139,0.9816239476203918
+307,The palace's state rooms.,The palace's state rooms,0.0008673667907714844,0.5737249851226807,0.9906995892524719
+308,Afternoon receptions.,less formal afternoon receptions,0.0008080005645751953,0.45151185989379883,0.8468039035797119
+309,Over 800 people work at Buckingham Palace.,more than 800,0.0008056163787841797,0.6646368503570557,0.4256768822669983
+310,There is no official dress code at Buckingham Palace today.,there is no official dress code,0.0008189678192138672,0.7353613376617432,0.6825271844863892
+311,"Yes, Marcel Duchamp's work ""Nude Descending a Staircase, No. 2"" was rejected by the hanging committee at the 1912 Salon des Indépendants and caused a scandal.",caused a scandal,0.0008292198181152344,1.9627602100372314,0.24793702363967896
+312,"A small, comfortable home.","a small, comfortable home",0.0008382797241210938,0.5543363094329834,0.9848203063011169
+313,Eye Cross.,Eye Cross,0.0008111000061035156,0.4435746669769287,0.972714364528656
+314,The Ballroom.,in the palace's Ballroom,0.0008053779602050781,0.4772486686706543,0.7821563482284546
+315,Lord Goring.,Lord Goring,0.0008130073547363281,0.4991874694824219,0.9721939563751221
+316,The Queen's House.,"""The Queen's House""",0.0008363723754882812,0.5399634838104248,0.9090434908866882
+317,John Nash and Edward Blore.,John Nash and Edward Blore,0.0008435249328613281,0.6097183227539062,0.9821239709854126
+318,Afternoon receptions.,less formal afternoon receptions,0.0008311271667480469,0.4674694538116455,0.8468039035797119
+319,Floor leaders are kept informed of legislative status through contacts with party members serving on House committees and the party's whip organization.,"contacts with his party's members serving on House committees, and with the members of the party's whip organization",0.0008809566497802734,1.2059624195098877,0.556030809879303
+320,The Royal Mews.,the Royal Mews,0.0008044242858886719,0.5094590187072754,0.9905898571014404
+321,The Royal Pavilion at Brighton and Carlton House.,Carlton House,0.0008289813995361328,0.6831941604614258,0.6947136521339417
+322,Léonce Rosenberg.,Léonce Rosenberg,0.0008463859558105469,0.5105257034301758,0.9835518598556519
+323,"Cubism revolutionized the way objects could be visualized in painting and art by representing all their surfaces in a single picture plane, as if all their faces were visible at the same time.","all the surfaces of depicted objects in a single picture plane, as if the objects had all their faces visible at the same time.",0.0008318424224853516,1.7044920921325684,0.6702405214309692
+324,1907-1914,1907 and 1911,0.0008289813995361328,0.5686373710632324,0.8240110874176025
+325,Lavish costume balls.,lavish costume balls,0.000820159912109375,0.5325472354888916,0.9854355454444885
+326,Portland stone.,Portland stone,0.0008323192596435547,0.44324684143066406,0.9827080368995667
+327,"Republican House leader and Minority Leader from 2007 to 2011, then Speaker when the House reconvened in 2011.",Republican House leader and Minority Leader from 2007 to 2011,0.0008351802825927734,1.3763833045959473,0.8149768114089966
+328,"Daniel Robbins said that regarding Demoiselles as the origin of Cubism is ""unhistorical"" and fails to consider the complexities of the art movement before and during that period.",such deductions are unhistorical,0.0008347034454345703,1.625359058380127,0.15260960161685944
+329,"A small, comfortable home.","a small, comfortable home",0.0008199214935302734,0.5498764514923096,0.9848203063011169
+330,New York City.,Paris,0.0008234977722167969,0.47504115104675293,0.5085038542747498
+331,"Representative Bertrand Snell, R-N.Y.",Representative Bertrand Snell,0.0008614063262939453,0.6949739456176758,0.8959298729896545
+332,Spokesman for his party and enunciates its policies.,He is spokesman for his party and enunciates its policies.,0.0008149147033691406,0.8259212970733643,0.9513982534408569
+333,"The minority leader position was created as a 20th-century innovation to provide a clear opposition leader in the House of Representatives, with the first informal minority leader being Representative James Madison of Virginia in the First Congress.",not always evident who functioned as the opposition floor leader,0.0008175373077392578,1.8585596084594727,0.3757607042789459
+334,The Bromsgrove Guild completed the palace's gilded railings and gates in 1911.,Bromsgrove Guild,0.000820159912109375,1.083852767944336,0.607401967048645
+335,The Guard Room.,The Guard Room,0.0008401870727539062,0.49335551261901855,0.9858306646347046
+336,Felix Mendelssohn.,Felix Mendelssohn,0.0008103847503662109,0.5496783256530762,0.9875295758247375
+337,"France, Germany, the Netherlands, and Czechoslovakia.","France, Germany, the Netherlands and Czechoslovakia",0.0008671283721923828,0.8037979602813721,0.9606245756149292
+338,To become Speaker of the House if their party takes control.,develop an electorally attractive agenda of ideas and proposals,0.0008230209350585938,0.7643420696258545,0.28686684370040894
+339,"No, minority leadership roles are not specified closely, as they are often defined by tradition and custom.",are not well-defined,0.000823974609375,1.0835387706756592,0.04931434243917465
+340,"No, there is disagreement among historical analysts about the exact time period when the minority leadership emerged officially as a party position.",there is disagreement among historical analysts,0.0008318424224853516,1.2281808853149414,0.5821664333343506
+341,The Minority Leader is the leader of the minority party in the House.,Minority Leader,0.0008244514465332031,0.8413534164428711,0.73846435546875
+342,The Bow Room.,Bow Room,0.0008349418640136719,0.4979250431060791,0.9356111288070679
+343,"Randall Ripley, a political scientist.",Randall Ripley,0.0008537769317626953,0.6259121894836426,0.7922671437263489
+344,Windsor.,Windsor,0.0008182525634765625,0.40640759468078613,0.9749230146408081
+345,The House of the Black Madonna is located in the Old Town of Prague.,Old Town of Prague,0.0008187294006347656,0.8832595348358154,0.6304931044578552
+346,"Obstruction can be employed through dilatory motions to adjourn, appeals of the presiding officer's ruling, or numerous requests for roll call votes.","motions to adjourn, appeals of the presiding officer's ruling, or numerous requests for roll call votes",0.0008082389831542969,1.37815523147583,0.691336452960968
+347,The Bromsgrove Guild completed the gilded railings and gates in 1911.,Bromsgrove Guild,0.0008237361907958984,1.0084302425384521,0.6194225549697876
+348,John Ashbery and Ron Padgett.,John Ashbery and Ron Padgett,0.0008451938629150391,0.5871667861938477,0.9880123138427734
+349,"""High Cubism""",Synthetic Cubism,0.0008003711700439453,0.5077900886535645,0.720741331577301
+350,The River Tyburn.,river Tyburn,0.0007967948913574219,0.44025158882141113,0.9452400207519531
+351,"No, the minority leader's strategic role varies depending on whether the President is of the same party or the other party.",will vary depending on whether the President is of the same party or the other party,0.0008318424224853516,1.2092936038970947,0.5258301496505737
+352,The Democrats lost control of the House in the 2010 elections.,Democrats,0.0008165836334228516,0.8688902854919434,0.47186169028282166
+353,The balcony from which the royal family acknowledge the crowds on momentous occasions.,the balcony,0.0008001327514648438,0.8791377544403076,0.6183791160583496
+354,The late 1920s.,in the late 1920s,0.0008220672607421875,0.5798633098602295,0.9687774181365967
+355,"Inclusion and empowerment of the people on the line, as well as daily meetings to lay out floor strategy or political objectives.",appointment of task forces,0.0008268356323242188,1.2272462844848633,0.32378339767456055
+356,The Marlborough House Set.,the Marlborough House Set,0.0008299350738525391,0.5468032360076904,0.9899078607559204
+357,Daniel Robbins.,Daniel Robbins,0.0008609294891357422,0.4370558261871338,0.9786627888679504
+358,Belle Époque cream and gold.,Belle époque cream and gold,0.0008335113525390625,0.6212770938873291,0.9889315366744995
+359,Sir Hugh Audley.,Sir Hugh Audley,0.0008275508880615234,0.5154209136962891,0.9868226647377014
+360,Kenneth Rexroth.,Kenneth Rexroth,0.0008573532104492188,0.5041360855102539,0.9861443638801575
+361,Sir James Pennethorne.,Sir James Pennethorne,0.0008246898651123047,0.5489747524261475,0.9827332496643066
+362,Over 800 people work at Buckingham Palace.,800 people,0.0008287429809570312,0.6595048904418945,0.5249155163764954
+363,King Edward VII.,King Edward,0.0008547306060791016,0.47788524627685547,0.8802734613418579
+364,Two smaller flanking service wings.,two,0.0008318424224853516,0.6073153018951416,0.1859608143568039
+365,"Georges Braque, Pablo Picasso, Jean Metzinger, Albert Gleizes, Robert Delaunay, Henri Le Fauconnier, Fernand Léger, and Juan Gris.","Georges Braque and Pablo Picasso, joined by Jean Metzinger, Albert Gleizes, Robert Delaunay, Henri Le Fauconnier, Fernand Léger and Juan Gris.",0.0008249282836914062,1.7739777565002441,0.9354526996612549
+366,Musical entertainments.,musical entertainments,0.0008308887481689453,0.4986705780029297,0.9702510237693787
+367,New York City.,New York City,0.0008325576782226562,0.49935173988342285,0.9656890034675598
+368,Edward Blore.,Edward Blore,0.0008256435394287109,0.4812283515930176,0.9796848893165588
+369,Edward Blore.,Edward Blore,0.0008599758148193359,0.49968481063842773,0.9796848893165588
+370,"When the majority party holds the White House, the Minority leader assumes a larger role in formulating alternatives to executive branch initiatives and acts as a national spokesperson for their party.",assumes a larger role in formulating alternatives to executive branch initiatives and in acting as a national spokesperson for his or her party,0.0008587837219238281,1.5757248401641846,0.679711103439331
+371,Thomas Cubitt.,Thomas Cubitt,0.0007977485656738281,0.47762417793273926,0.9853812456130981
+372,Chinese.,Chinese,0.0008013248443603516,0.42116594314575195,0.9442561864852905
+373,1774.,1774,0.0008146762847900391,0.4990391731262207,0.9730980396270752
+374,18th-century design.,18th-century design,0.0008573532104492188,0.573408842086792,0.9874308705329895
+375,Painting and sculpture.,art and architecture.,0.0008587837219238281,0.49587392807006836,0.7197127938270569
+376,"Decorative considerations and the role of art in modern, bourgeois life.","the use of government owned buildings,",0.0008823871612548828,0.8646724224090576,0.28390204906463623
+377,Head of a Woman (Fernande),Head of a Woman,0.0008475780487060547,0.6599528789520264,0.752649188041687
+378,Ford's alternatives provided Republicans with a way to offer their own proposals while protecting themselves from being seen as opposing the majority's proposals.,political protection,0.0008039474487304688,1.2359726428985596,0.30439966917037964
+379,The Duke of Buckingham.,Duke of Buckingham,0.0008089542388916016,0.5166184902191162,0.9702171087265015
+380,"The Queen's Gallery, near the Royal Mews.",Queen's Gallery,0.0008678436279296875,0.7355015277862549,0.8164834380149841
+381,Dynamism and expressive plasticity.,dynamism,0.0008444786071777344,0.6111962795257568,0.7026933431625366
+382,"The throne dais beneath a giant, domed velvet canopy, known as a shamiana or a baldachin.",the throne dais,0.0008046627044677734,1.2056005001068115,0.6594494581222534
+383,The palace was seldom used and even neglected after Queen Victoria left in 1861.,"palace was seldom used, even neglected",0.0008258819580078125,0.9762389659881592,0.7570509314537048
+384,Neo-plasticism.,Neo-plasticism,0.0008327960968017578,0.5328598022460938,0.978312611579895
+385,Oriental.,oriental,0.0008184909820556641,0.4202919006347656,0.9503766298294067
+386,Edward Blore.,Edward Blore,0.0008571147918701172,0.4816017150878906,0.9796848893165588
+387,Silk.,silk,0.0008289813995361328,0.42293596267700195,0.9584869146347046
+388,Failing to offer policy alternatives that appeal to broad segments of the general public.,if his party fails to offer policy alternatives that appeal to broad segments of the general public,0.0008304119110107422,0.9190235137939453,0.7452853918075562
+389,The Music Room.,the Music Room,0.0008265972137451172,0.4952845573425293,0.9895588159561157
+390,"Braque and Picasso aimed their works at a small circle of connoisseurs, thanks to the support of art dealer Daniel-Henry Kahnweiler.",large public,0.0008256435394287109,1.4978928565979004,0.06334799528121948
+391,Dick Armey.,Dick Armey,0.0008289813995361328,0.47275495529174805,0.9785622358322144
+392,1912.,1912,0.0008234977722167969,0.49887728691101074,0.9596837759017944
+393,1901.,1901,0.000804901123046875,0.4752616882324219,0.963381290435791
+394,"Pierre Reverdy, Maurice Raynal, and Daniel-Henry Kahnweiler.","Gris, Léger and Gleizes",0.0008509159088134766,0.9495534896850586,0.35283589363098145
+395,Daniel-Henry Kahnweiler.,Daniel-Henry Kahnweiler,0.0008242130279541016,0.6246623992919922,0.9862637519836426
+396,1911.,1911,0.0008349418640136719,0.4726064205169678,0.9687958359718323
+397,The bombing of Buckingham Palace showed that the royal family shared their subjects' hardship.,the common suffering of rich and poor,0.0007951259613037109,0.8378186225891113,0.30789053440093994
+398,"The confusion raging around the word ""Cubism"".",public anger,0.0008475780487060547,0.7567238807678223,0.04496082291007042
+399,The Minority Leader typically becomes the Speaker if the minority party gains control of the House.,Minority Leader is usually the party's top choice for Speaker,0.0008349418640136719,0.9484405517578125,0.7919250726699829
+400,"The House of the Black Madonna in Prague, built in 1912 by Josef Gočár.",House of the Black Madonna,0.0008289813995361328,1.086435317993164,0.544139564037323
+401,A mulberry garden for the production of silk.,mulberry,0.0008051395416259766,0.7145812511444092,0.688374400138855
+402,Apollinaire.,Apollinaire,0.0008165836334228516,0.4764363765716553,0.9807560443878174
+403,"The Czech Republic (specifically, Prague) applied Cubism to architecture the most.",Bohemia (today Czech Republic,0.0008275508880615234,0.9559972286224365,0.4983753561973572
+404,"The Queen, Prince Philip, the Duke of York, the Earl and Countess of Wessex, the Princess Royal, and Princess Alexandra, as well as over 800 staff members.",the British monarchy,0.0008091926574707031,1.7024288177490234,0.4357830882072449
+405,The Speaker assumes a lower profile and defers to the President.,Speaker normally assumes a lower profile and defers to the President,0.0008349418640136719,0.7957775592803955,0.9553686380386353
+406,King George III.,King George III,0.0008127689361572266,0.49517178535461426,0.9777086973190308
+407,Mirrored doors.,mirrored doors,0.0008101463317871094,0.47853589057922363,0.9560244679450989
+408,"The Queen left Buckingham Palace to live at Windsor Castle, Balmoral Castle, and Osborne House after Prince Albert's death in 1861.","the palace was seldom used, even neglected.",0.0008130073547363281,1.4119129180908203,0.3234170079231262
+409,Windsor Castle.,Windsor Castle,0.0008411407470703125,0.4600203037261963,0.9691438674926758
+410,Democrats.,Democrats,0.0008482933044433594,0.4260892868041992,0.9549746513366699
+411,The Minority Leader and the Majority Leader usually meet to discuss agreements on controversial issues.,agreements on controversial issues,0.0008192062377929688,0.9107894897460938,0.6084911823272705
+412,Majority Leader.,Majority Leader,0.000827789306640625,0.46004557609558105,0.9778989553451538
+413,The Ballroom.,the palace's Ballroom,0.0007979869842529297,0.4816458225250244,0.7853877544403076
+414,James I.,James I,0.0008153915405273438,0.45760178565979004,0.970252513885498
+415,Sir William Chambers.,Sir William Chambers,0.0007951259613037109,0.47515344619750977,0.9783315658569336
+416,Der Weg zum Kubismus by Daniel-Henry Kahnweiler.,Daniel-Henry Kahnweiler's book Der Weg zum Kubismus,0.000881195068359375,0.8367655277252197,0.866515040397644
+417,Oriental.,oriental,0.0008046627044677734,0.4201788902282715,0.9503766298294067
+418,Edward Blore.,Edward Blore,0.0008099079132080078,0.4990689754486084,0.9796848893165588
+419,Certain federal entities.,certain federal entities.,0.0008306503295898438,0.48232531547546387,1.0
+420,Brightly coloured scagliola and blue and pink lapis.,brightly coloured scagliola and blue and pink lapis,0.0008518695831298828,0.8123586177825928,0.9916272759437561
+421,"Personality, contextual factors, and institutional obligations.",personality and contextual factors,0.0008313655853271484,0.65751051902771,0.6975080966949463
+422,1829.,1829,0.0008106231689453125,0.4930131435394287,0.9701173305511475
+423,John Nash.,Nash,0.0008025169372558594,0.4383552074432373,0.8804718255996704
+424,The Throne Room.,the throne room,0.0008273124694824219,0.4797062873840332,0.9784623384475708
+425,"1904, 1905, and 1906.",1905 and 1906,0.0008394718170166016,0.8254742622375488,0.9330539107322693
+426,Sir Aston Webb.,Sir Aston Webb,0.0008320808410644531,0.4777224063873291,0.978729248046875
+427,Lord Goring.,Lord Goring,0.0008158683776855469,0.49699974060058594,0.9721939563751221
+428,Minority leaders conduct surveys of party colleagues to discern their policy preferences.,conduct surveys of party colleagues,0.0008187294006347656,0.8016793727874756,0.7280815839767456
+429,Establishing a more highly differentiated House leadership structure.,establishment of a more highly differentiated House leadership structure.,0.0008447170257568359,0.6944184303283691,0.9877923727035522
+430,William Winde.,William Winde,0.0008008480072021484,0.4945995807647705,0.9829467535018921
+431,John Nash.,John Nash,0.0008156299591064453,0.45967793464660645,0.9810198545455933
+432,50 yards.,55 yards,0.0007967948913574219,0.4799516201019287,0.917512059211731
+433,The Ballroom.,the Ballroom,0.0008168220520019531,0.4747803211212158,0.9726371765136719
+434,Le Corbusier opened his Paris studio with his cousin Charles-Édouard Jeanneret in 1922.,his cousin Jeanneret,0.0008409023284912109,1.2339551448822021,0.48254290223121643
+435,Woman with a Fan.,Woman with a Fan,0.0008327960968017578,0.5318679809570312,0.9962876439094543
+436,Paris.,Montmartre,0.0008182525634765625,0.3990495204925537,0.34159231185913086
+437,1981.,1981,0.0008223056793212891,0.47919368743896484,0.9663255214691162
+438,Felix Mendelssohn.,Felix Mendelssohn,0.000804901123046875,0.5535619258880615,0.9875295758247375
+439,The Minority Whip.,Minority Leader,0.0008304119110107422,0.47722840309143066,0.6981871128082275
+440,20 years.,"senior chief deputy minority whip, John Lewis, has held his post since 1991",0.0008094310760498047,0.4681408405303955,0.06364027410745621
+441,King George V.,King George V,0.0008275508880615234,0.47742438316345215,0.9870680570602417
+442,The Policy Committee.,Steering Committee,0.0008492469787597656,0.47865939140319824,0.6164278388023376
+443,The ground floor of the north-facing Garden Wing.,ground floor,0.0008082389831542969,0.7212653160095215,0.4991668462753296
+444,Windsor Castle.,Windsor Castle,0.0008420944213867188,0.4580667018890381,0.9691438674926758
+445,The Brighton Pavilion.,Brighton Pavilion,0.0008218288421630859,0.49820542335510254,0.9594075679779053
+446,"In the early days of Congress, party leadership was often informal and not clearly defined, but some notable figures, such as Representative James Madison of Virginia, informally functioned as opposition leaders.",it was more usual that neither major party grouping (Federalists and Democratic-Republicans) had an official leader,0.0008249282836914062,1.7414727210998535,0.6353135108947754
+447,"for giving short answers based on given context.
+        user
+        Context information is below.
+        ------------------------------------------------
+        Thus, what had become a revolution in both painting and sculpture was applied as part of ""a profound reorientation towards a changed world"". The Cubo-Futurist ideas of Filippo Tommaso Marinetti influenced attitudes in avant-garde architecture. The influential De Stijl movement embraced the aesthetic principles of Neo-plasticism developed by Piet Mondrian under the influence of Cubism in Paris. De Stijl was also linked by Gino Severini to Cubist theory through the writings of Albert Gleizes. However, the linking of basic geometric forms with inherent beauty and ease of industrial application—which had been prefigured by Marcel Duchamp from 1914—was left to the founders of Purism, Amédée Ozenfant and Charles-Édouard Jeanneret (better known as Le Corbusier,) who exhibited paintings together in Paris and published Après le cubisme in 1918. Le Corbusier's ambition had been to translate the properties of his own style of Cubism to architecture. Between 1918 and 1922, Le Corbusier concentrated his efforts on Purist theory and painting. In 1922, Le Corbusier and his cousin Jeanneret opened a studio in Paris at 35 rue de Sèvres. His theoretical studies soon advanced into many different architectural projects.
+At the 1912 Salon d'Automne an architectural installation was exhibited that quickly became known as Maison Cubiste (Cubist House), signed Raymond Duchamp-Villon and André Mare along with a group of collaborators. Metzinger and Gleizes in Du ""Cubisme"", written during the assemblage of the ""Maison Cubiste"", wrote about the autonomous nature of art, stressing the point that decorative considerations should not govern the spirit of art. Decorative work, to them, was the ""antithesis of the picture"". ""The true picture"" wrote Metzinger and Gleizes, ""bears its raison d'être within itself. It can be moved from a church to a drawing-room, from a museum to a study. Essentially independent, necessarily complete, it need not immediately satisfy the mind: on the contrary, it should lead it, little by little, towards the fictitious depths in which the coordinative light resides. It does not harmonize with this or that ensemble; it harmonizes with things in general, with the universe: it is an organism..."".
+---------------------
+Metzinger and Gleizes in Du ""Cubisme"", written during the assemblage of the ""Maison Cubiste"", wrote about the autonomous nature of art, stressing the point that decorative considerations should not govern the spirit of art. Decorative work, to them, was the ""antithesis of the picture"". ""The true picture"" wrote Metzinger and Gleizes, ""bears its raison d'être within itself. It can be moved from a church to a drawing-room, from a museum to a study. Essentially independent, necessarily complete, it need not immediately satisfy the mind: on the contrary, it should lead it, little by little, towards the fictitious depths in which the coordinative light resides. It does not harmonize with this or that ensemble; it harmonizes with things in general, with the universe: it is an organism..."". ""Mare's ensembles were accepted as frames for Cubist works because they allowed paintings and sculptures their independence"", writes Christopher Green, ""creating a play of contrasts, hence the involvement not only of Gleizes and Metzinger themselves, but of Marie Laurencin, the Duchamp brothers (Raymond Duchamp-Villon designed the facade) and Mare's old friends Léger and Roger La Fresnaye"". La Maison Cubiste was a fully furnished house, with a staircase, wrought iron banisters, a living room—the Salon Bourgeois, where paintings by Marcel Duchamp, Metzinger (Woman with a Fan), Gleizes, Laurencin and Léger were hung—and a bedroom. It was an example of L'art décoratif, a home within which Cubist art could be displayed in the comfort and style of modern, bourgeois life. Spectators at the Salon d'Automne passed through the full-scale 10-by-3-meter plaster model of the ground floor of the facade, designed by Duchamp-Villon. This architectural installation was subsequently exhibited at the 1913 Armory Show, New York, Chicago and Boston, listed in the catalogue of the New York exhibit as Raymond Duchamp-Villon, number 609, and entitled ""Facade architectural, plaster"" (Façade architecturale).
+The original Cubist architecture is very rare. There is only one country in the world where Cubism was really applied to architecture – namely Bohemia (today Czech Republic) and especially its capital, Prague.
+---------------------
+Cubism as a publicly debated movement became relatively unified and open to definition. Its theoretical purity made it a gauge against which such diverse tendencies as Realism or Naturalism, Dada, Surrealism and abstraction could be compared.
+Cubism formed an important link between early-20th-century art and architecture. The historical, theoretical, and socio-political relationships between avant-garde practices in painting, sculpture and architecture had early ramifications in France, Germany, the Netherlands and Czechoslovakia. Though there are many points of intersection between Cubism and architecture, only a few direct links between them can be drawn. Most often the connections are made by reference to shared formal characteristics: faceting of form, spatial ambiguity, transparency, and multiplicity.
+Architectural interest in Cubism centered on the dissolution and reconstitution of three-dimensional form, using simple geometric shapes, juxtaposed without the illusions of classical perspective. Diverse elements could be superimposed, made transparent or penetrate one another, while retaining their spatial relationships. Cubism had become an influential factor in the development of modern architecture from 1912 (La Maison Cubiste, by Raymond Duchamp-Villon and André Mare) onwards, developing in parallel with architects such as Peter Behrens and Walter Gropius, with the simplification of building design, the use of materials appropriate to industrial production, and the increased use of glass.
+Cubism was relevant to an architecture seeking a style that needed not refer to the past. Thus, what had become a revolution in both painting and sculpture was applied as part of ""a profound reorientation towards a changed world"". The Cubo-Futurist ideas of Filippo Tommaso Marinetti influenced attitudes in avant-garde architecture. The influential De Stijl movement embraced the aesthetic principles of Neo-plasticism developed by Piet Mondrian under the influence of Cubism in Paris. De Stijl was also linked by Gino Severini to Cubist theory through the writings of Albert Gleizes. However, the linking of basic geometric forms with inherent beauty and ease of industrial application—which had been prefigured by Marcel Duchamp from 1914—was left to the founders of Purism, Amédée Ozenfant and Charles-Édouard Jeanneret (better known as Le Corbusier,) who exhibited paintings together in Paris and published Après le cubisme in 1918.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What was La Maison Cubiste?
+        
+        assistant
+         La Maison Cubiste was a fully furnished house that showcased Cubist art in a modern, bourgeois setting, exhibited at the 1912 Salon d'Automne.",a fully furnished house,0.0008161067962646484,1.5603392124176025,0.02174534648656845
+448,La Femme au Cheval (Woman with a horse) 1911-1912.,La Femme au Cheval (Woman with a horse) 1911-1912,0.0008466243743896484,1.0132207870483398,0.9937995076179504
+449,Queen Mary.,Queen Mary,0.0008213520050048828,0.4608304500579834,0.9791020154953003
+450,Geoffrey de Mandeville.,Geoffrey de Mandeville,0.0008127689361572266,0.5735385417938232,0.9874058961868286
+451,"Cubism's architectural interest was based on the dissolution and reconstitution of three-dimensional form, using simple geometric shapes, juxtaposed without the illusions of classical perspective.",the dissolution and reconstitution of three-dimensional form,0.0008521080017089844,1.5199062824249268,0.5355668067932129
+452,Prague and other Bohemian towns.,Prague,0.0008313655853271484,0.6223084926605225,0.7884206771850586
+453,"Orphism, Abstract art, and Purism.","Orphism, Abstract art and later Purism",0.0008347034454345703,0.7347719669342041,0.9602452516555786
+454,"""Coming out""","""coming out""",0.0008189678192138672,0.474484920501709,1.0000001192092896
+455,Jean Pierre Philippe Lampué.,Jean Pierre Philippe Lampué,0.0008502006530761719,0.5748755931854248,0.9842591285705566
+456,"The Grand Service, a collection of silver-gilt plate made in 1811 for the Prince of Wales, later George IV.",the Grand Service,0.0008096694946289062,1.2762236595153809,0.5801405310630798
+457,The Minister's Staircase.,Minister's Staircase,0.0008118152618408203,0.6090381145477295,0.9763028621673584
+458,1871 and 1873.,1871 and 1873,0.0008473396301269531,0.6248319149017334,0.984581470489502
+459,He rammed it.,ram it,0.0008056163787841797,0.4402141571044922,0.40375739336013794
+460,The Impressionists used a double point of view to flatten the picture plane and reduce their subjects to simple geometric forms.,double point of view,0.0008432865142822266,1.1890008449554443,0.5608119964599609
+461,Edith of Wessex.,Edith of Wessex,0.0008387565612792969,0.5511248111724854,0.9767143726348877
+462,'Crystal' Cubism.,'crystal' Cubism,0.0008516311645507812,0.5468263626098633,0.9768807888031006
+463,Luncheon parties and private audiences.,less formal entertaining,0.0008149147033691406,0.5918889045715332,0.31745442748069763
+464,"Rule XII, clause 6.","Rule XII, clause 6",0.0008511543273925781,0.5852105617523193,0.9886040091514587
+465,1837.,1837,0.0008165836334228516,0.4971585273742676,0.968521237373352
+466,She married Prince Albert.,left Buckingham Palace,0.0008330345153808594,0.5346486568450928,0.32146644592285156
+467,"Paul Gauguin, Henri Matisse, and Pablo Picasso.","Paul Gauguin, Henri Matisse, and Pablo Picasso",0.0008718967437744141,0.8114004135131836,0.9858976602554321
+468,The whip is the chief vote counter for their party.,The Chief Deputy Whip,0.0008192062377929688,0.7187356948852539,0.6786003112792969
+469,November.,November,0.0008244514465332031,0.4031844139099121,0.9463767409324646
+470,1918.,1918,0.0008404254913330078,0.47846102714538574,0.9612902998924255
+471,1811.,1811,0.0007932186126708984,0.47880077362060547,0.9659741520881653
+472,George III.,George III,0.0008032321929931641,0.4651145935058594,0.9807562828063965
+473,1840.,1840,0.0008313655853271484,0.5045778751373291,0.9667807817459106
+474,The Queen and Prince Philip use a smaller suite of rooms in the north wing.,the north wing,0.0008001327514648438,0.9482772350311279,0.4344944953918457
+475,Soane's style.,the style of Soane,0.0007963180541992188,0.5092909336090088,0.9030768871307373
+476,"Pierre Reverdy, Maurice Raynal, and Daniel-Henry Kahnweiler.","Pierre Reverdy, Maurice Raynal and Daniel-Henry Kahnweiler",0.0008449554443359375,0.9475255012512207,0.9802039861679077
+477,Over 200 works.,Over 200,0.0008609294891357422,0.5332305431365967,0.7247759699821472
+478,Sir William Blake.,Sir William Blake,0.0008075237274169922,0.49638795852661133,0.9799339175224304
+479,1901.,1901,0.0008299350738525391,0.4764540195465088,0.963381290435791
+480,A bicycle wheel and a kitchen stool.,a bicycle wheel to a kitchen stool,0.0008313655853271484,0.642042875289917,0.9168671369552612
+481,Queen Mary.,Queen Mary,0.0008227825164794922,0.44187259674072266,0.9791020154953003
+482,Chinese Regency style.,Chinese regency style,0.0008051395416259766,0.5366511344909668,0.9836516380310059
+483,The 1950s and 1960s.,"1950s and 1960s,",0.0008404254913330078,0.7299885749816895,0.9755945205688477
+484,King Edward VII.,King Edward VII,0.0008983612060546875,0.4759483337402344,0.9781240224838257
+485,"Gerald Ford served as Minority Leader under President Lyndon Johnson's Democratic administration, proposing Republican alternatives to the administration's initiatives.",propose Republican alternatives,0.0008425712585449219,1.1980719566345215,0.42091476917266846
+486,"The minority leader position emerged during the latter part of the 19th century, specifically during a period of strong party organization and professional politicians.",20th-century,0.0007948875427246094,1.346116065979004,0.31650930643081665
+487,Towards conservatism.,conservatism,0.0008695125579833984,0.4370276927947998,0.9004608392715454
+488,1911,1911,0.0008378028869628906,0.4410207271575928,1.0

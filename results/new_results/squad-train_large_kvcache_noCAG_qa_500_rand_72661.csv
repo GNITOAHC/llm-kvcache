@@ -1,0 +1,505 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score
+0, Steel and concrete.,brick,0.13341665267944336,22.3891544342041,0.483687162399292
+1, Morphine injection.,morphine,0.14793133735656738,22.321255683898926,0.8729566931724548
+2," June 21, 1940.",21 June,0.13858938217163086,23.207149744033813,0.5466349720954895
+3, The Soviet Union.,Soviet Union,0.13158440589904785,22.164863109588623,0.9204875230789185
+4," Social, economic, and cultural conditions.","social, economic and cultural",0.14930200576782227,23.21040940284729,0.8241304159164429
+5, Addiction.,potentially addicting drugs,0.14124345779418945,21.84603190422058,0.7049434185028076
+6," South Korea, Singapore, Japan, Taiwan, and Hong Kong are the Asian countries that are robustly committed to a law-bound state.","South Korea, Singapore, Japan, Taiwan and Hong Kong",0.14455533027648926,27.361641883850098,0.7509430050849915
+7, A Maavanem is the county governor in Estonia.,county governor,0.1283559799194336,23.824404001235962,0.40864676237106323
+8, The Estonian SSR.,the Estonian SSR,0.1486656665802002,22.560888051986694,0.9876571297645569
+9, 1.562 billion kilowatt hours.,1.562 billion kilowatt hours,0.2910783290863037,23.73588252067566,0.9837513566017151
+10, The Super Nintendo Entertainment System (SNES) succeeded the Famicom.,Super Nintendo Entertainment System,0.14992809295654297,24.798619508743286,0.6165597438812256
+11, YYT,YYT,0.2995285987854004,21.994496822357178,1.0000001192092896
+12," The UK, Italy, and Australia share the PAL A region.","UK, Italy and Australia",0.15238451957702637,24.379270315170288,0.6666010022163391
+13, The 1990s.,1990s,0.14873671531677246,22.849053382873535,0.9253845810890198
+14, 2006,2006,0.14110302925109863,22.180465936660767,1.0000001192092896
+15, Indian reservations.,Indian reservations,0.14945244789123535,22.05363178253174,0.9519280195236206
+16, Greenman v. Yuba Power Products.,Greenman v. Yuba Power Products,0.1428980827331543,23.50974440574646,0.9580318331718445
+17, 3.4%,(3.4%,0.14856386184692383,22.566749334335327,0.8777468204498291
+18, St. John's.,St. John's,0.16172313690185547,22.59821343421936,0.9868456125259399
+19, The Prime Minister of Estonia has the right to appoint other ministers.,The Prime Minister,0.15487146377563477,24.459086179733276,0.37267839908599854
+20, Licensed US NES cartridges.,licensed US cartridges,0.14887261390686035,22.628275156021118,0.8379769921302795
+21," Estonia is located in the Baltic region of Northern Europe, bordered by the Gulf of Finland to the north, the Baltic Sea to the west, Latvia to the south, and Russia to the east.",the Baltic region,0.1389141082763672,30.31718921661377,0.6649390459060669
+22, Nordic-Baltic Eight (NB-8),Nordic-Baltic Eight,0.14344525337219238,23.74899435043335,0.9039938449859619
+23," According to the text, English law is received into the United States through ""reception statutes"" which state that the common law of England is the law of the state to the extent that it is not repugnant to domestic law or indigenous conditions.",nearly identical,0.1390392780303955,32.40953874588013,0.05119362100958824
+24," Each state possesses its own constitution, government, and laws, which are separate from the federal government and laws.","state constitutions, state governments, and state courts",0.14517664909362793,26.257385969161987,0.6953696608543396
+25, The Age of Awakening.,the Age of Awakening,0.11919927597045898,22.55308985710144,0.9799741506576538
+26, General Sir Kevin O'Donoghue,General Sir Kevin O’Donoghue,0.13821148872375488,23.18696141242981,0.9952805638313293
+27, The NES Max.,The NES Max,0.13804340362548828,22.444649696350098,0.9834779500961304
+28, Federal criminal law focuses on these areas.,Federal criminal law,0.14278912544250488,23.196836471557617,0.7294054627418518
+29, The United States Code.,The United States Code,0.14224004745483398,22.531639099121094,0.9667985439300537
+30, The Estonian Defence Forces (Estonian: Kaitsevägi),Maavägi,0.12166190147399902,24.977728843688965,0.19376957416534424
+31, RF modulator output.,radio frequency (RF),0.1578676700592041,22.621592044830322,0.6010959148406982
+32, Alberta,Alberta,0.14429211616516113,21.726942539215088,1.0000001192092896
+33, 1925,1925,0.14178800582885742,22.165468215942383,1.0
+34, 3,three,0.14980530738830566,21.80634307861328,0.8656187057495117
+35, Finland and Sweden.,Finland or Sweden,0.13833141326904297,22.3422372341156,0.8828338980674744
+36, To avoid paying licensing fees and to continue producing and selling games without Nintendo's approval.,refusing to pay the licensing fee or having been rejected by Nintendo,0.132399320602417,25.13415241241455,0.6058011054992676
+37, Mechanical pain.,mechanical,0.14391231536865234,22.066688776016235,0.6618198752403259
+38, Economic reform and integration with the West.,closer ties with the Nordic countries,0.164306640625,23.279080390930176,0.224834144115448
+39," Natural law theories of law, which believed that law had an existence independent of what individual judges said.",law was believed to have an existence independent of what individual judges said,0.31700968742370605,25.87158989906311,0.8075413703918457
+40, 2006,2006,0.13616728782653809,22.234943866729736,1.0000001192092896
+41," There is no definitive answer, as people with congenital insensitivity to pain have a reduced life expectancy, but the exact life expectancy is not well-documented.",reduced,0.12590813636779785,28.539892435073853,-0.026051312685012817
+42, 1991,1918,0.1380305290222168,22.162909746170044,0.4531841278076172
+43, Comboy,Comboy,0.29027605056762695,22.045279502868652,1.0000001192092896
+44," They incur carelessly-repeated damage to their tongues, eyes, joints, skin, and muscles, and may have a reduced life expectancy.","repeated damage to their tongues, eyes, joints, skin, and muscles",0.14857840538024902,27.647724866867065,0.8025813698768616
+45, The Twin Famicom was compatible with both Famicom cartridges and Famicom Disk System disks.,Twin Famicom,0.13396573066711426,26.11371922492981,0.5995055437088013
+46," Wood, peat, and biomass.","wood, peat, and biomass",0.1571962833404541,23.193113327026367,0.9871045351028442
+47, Contract law covers obligations established by agreement (express or implied) between private parties.,express or implied,0.13803839683532715,24.955953121185303,0.36168456077575684
+48, Paris,Paris,0.14728498458862305,21.702696084976196,1.0000001192092896
+49, Federal courts cannot dictate the content of state law when there is no federal issue in a case.,federal courts cannot dictate the content of state law when there is no federal issue,0.3221144676208496,25.559494256973267,0.9447898268699646
+50," Specialists currently believe that all vertebrates can feel pain, and that certain invertebrates, like the octopus, might too.",unclear,0.14170598983764648,27.02530336380005,0.04599432274699211
+51, 2002,2002,0.12601161003112793,22.102883100509644,1.0
+52, The lawmakers were beginning to drown in the sea of corruption and mismanagement within the Ministry of Defence.,judicial literature,0.13898754119873047,25.821295976638794,0.2109784483909607
+53, The United States Code.,The United States Code,0.13937926292419434,22.671326875686646,0.9667985439300537
+54, The Liber Census Daniae.,The Liber Census Daniae,0.1393117904663086,22.97777247428894,0.992061197757721
+55, Confucianism.,Confucianism,0.12530517578125,22.515814781188965,0.9532307982444763
+56, A massive cyberattack on Estonia in 2007 led to a need for e-military action.,massive cyberattacks,0.12517786026000977,25.84973955154419,0.6101508736610413
+57," September 17, 1991.",17 September 1991,0.310009241104126,23.196366786956787,0.9404370784759521
+58, Ray Kassar,Ray Kassar,0.146514892578125,22.244194984436035,1.0
+59, The Swedish archbishop Johannes.,Swedish archbishop Johannes,0.1549844741821289,22.916748046875,0.9653494358062744
+60," The countries with similar levels of GDP with Estonia are: 
+             - Slovakia
+             - Lithuania
+             - Latvia
+             - Slovenia",Slovak Republic and Lithuania,0.13022303581237793,27.39773917198181,0.6198885440826416
+61, The executive branch.,executive branch,0.29370617866516113,22.389695644378662,0.9534595012664795
+62, The 1950s.,the late 1950s,0.139967679977417,22.795583724975586,0.9478188753128052
+63, American civil procedure.,American civil procedure,0.14300918579101562,22.30384874343872,0.9772577285766602
+64, 2003-2018,2003 and 2018,0.13655376434326172,22.700634956359863,0.9026299715042114
+65, The World Bank.,the World Bank,0.3082244396209717,22.370091438293457,0.9780967235565186
+66," The federal government, specifically the Constitution, governs things such as military, money, foreign relations, etc.",federal law,0.14460062980651855,26.143878698349,0.4888753294944763
+67, The rule of law.,rule of law,0.1454453468322754,22.52485227584839,0.9092080593109131
+68, The Constitution.,the Constitution,0.12255167961120605,22.122891187667847,0.9583823084831238
+69, 9 years,nine,0.14166712760925293,22.232282400131226,0.59058678150177
+70, The Estonian Defence Forces (Estonian: Kaitsevägi),the Estonian Defence Forces,0.16000699996948242,25.081784963607788,0.9338539242744446
+71, Prevent them from stultifying individual efforts by ad hoc action.,frustrate his efforts,0.31747937202453613,24.197288274765015,0.37834495306015015
+72, On St. George's Night (Estonian: Jüriöö ülestõus) 23 April 1343.,St. George's Night,0.1435558795928955,27.673198223114014,0.5860497951507568
+73, The provincial government is the largest employer in the city of St. John's.,The provincial government,0.13083600997924805,25.0764479637146,0.5362783074378967
+74, A replica Vickers Vimy aircraft.,replica Vickers Vimy,0.14209556579589844,23.30799436569214,0.8546741604804993
+75, The Restatement of Torts.,Restatement of Torts,0.13702654838562012,23.006561756134033,0.9566440582275391
+76, 1787,1787,0.12615466117858887,22.04388737678528,1.0000001192092896
+77, 19,19,0.13466715812683105,22.02017641067505,1.0
+78, The federal law begins with the United States Constitution.,the Constitution,0.14190316200256348,23.696058750152588,0.5299749374389648
+79," April 3, 1997.","April 3, 1997",0.14216041564941406,23.343319416046143,0.9817317128181458
+80, Pierre Le Moyne d'Iberville,Pierre Le Moyne,0.13825011253356934,23.21196484565735,0.8493263125419617
+81, The Russian Orthodox Church.,the Russian Orthodox Church,0.29732441902160645,22.486610651016235,0.9827744960784912
+82, The disks were originally obtained from kiosks in malls and other public places where buyers could select a title and have it written to the disk.,buyers could select a title and have it written to the disk,0.12636733055114746,27.732871770858765,0.7416931390762329
+83, Gold-plastic carts.,gold,0.1403501033782959,22.592973232269287,0.44435548782348633
+84, Court rules promulgated by the state supreme court.,court rules promulgated by the state supreme court,0.15879273414611816,23.885141849517822,0.9431658983230591
+85, Louisiana.,Louisiana,0.3164355754852295,21.84242057800293,0.9610179662704468
+86, The unlicensed clone market.,unlicensed clone market,0.1577153205871582,22.746514797210693,0.9379714131355286
+87, The county governor (Maavanem) represents the national government on a local level in Estonia.,Maavanem,0.1504364013671875,25.609885692596436,0.42536023259162903
+88, 1527,1527,0.15071988105773926,22.11309552192688,1.0
+89, 10%,10%,0.14513158798217773,22.119196891784668,0.9999999403953552
+90," A definition of pain widely employed in nursing, emphasizing its subjective nature and the importance of believing patient reports.",definition of pain,0.14675402641296387,26.01097059249878,0.7340683937072754
+91, Colorado State University,Colorado State University,0.30118274688720703,22.125751495361328,1.0000001192092896
+92, Pasofami,iNES,0.14665651321411133,22.145835161209106,0.21174731850624084
+93," The Famicom Disk System (FDS) used 5 cm (2"") single-sided, proprietary disks that stored games and allowed for saving progress.",storing the game and saving progress,0.14132380485534668,28.434571027755737,0.4109557271003723
+94, 36,36,0.15371155738830566,22.003777265548706,1.0
+95, Felony convictions.,felony convictions,0.1259000301361084,22.367708683013916,0.9403213858604431
+96, 12,twelve,0.1439502239227295,21.993815422058105,0.901904821395874
+97, A judge can determine if a law should be approached differently.,administrators,0.14426636695861816,24.01314115524292,0.03847220167517662
+98, 8,16,0.1546187400817871,21.90243673324585,0.7090133428573608
+99," The Chief Justice of the Supreme Court, who is appointed by the parliament for a nine-year term on nomination by the President.",the Supreme Court or Riigikohus,0.1402440071105957,27.003230094909668,0.44483834505081177
+100, None.,"little, or not at all",0.13576984405517578,21.888362646102905,0.250010222196579
+101," Pain can last anywhere from a few seconds to a lifetime, depending on the cause and severity of the pain.",only until the noxious stimulus is removed,0.3171851634979248,26.369781970977783,0.3144228756427765
+102, The International Association for the Study of Pain's definition of pain is widely used.,The International Association for the Study of Pain,0.16150212287902832,25.016894340515137,0.8573428392410278
+103," Over 8,000.","8,000",0.2889420986175537,22.713478803634644,0.8583800792694092
+104, Pain.,pain,0.1424577236175537,21.92141842842102,0.8760337829589844
+105, A Nordic country.,the gateway between East and West,0.12931108474731445,22.469605922698975,0.17850135266780853
+106," June 14, 1940.",14 June,0.14691829681396484,23.31279230117798,0.5325788259506226
+107," Yes, states can grant rights to citizens that are not defined by the federal Constitution, as long as they do not infringe on any federal constitutional rights.",as long as they do not infringe on any federal constitutional rights,0.14576172828674316,28.202576875686646,0.6069560050964355
+108, RF modulator output.,RF modulator,0.14136648178100586,22.517400979995728,0.9128111004829407
+109, Newfoundland,Newfoundland,0.15351486206054688,21.678455352783203,1.0000001192092896
+110, Pegasus,Pegasus,0.14643406867980957,21.86748242378235,1.0
+111," Estonian employed workers are known for their high level of education and skills, with a strong emphasis on technical and vocational training.",highly skilled,0.1457984447479248,26.945642471313477,0.38125795125961304
+112, Higher quality software titles.,higher quality,0.1298379898071289,22.562381267547607,0.5813261866569519
+113, A vote was taken by those elected in the elections held the previous month.,elections,0.1398007869720459,24.721213817596436,0.5769110918045044
+114, The Baltic Sea.,the Baltic Sea,0.14153456687927246,22.319185256958008,0.9833081960678101
+115," The Estonian parliament, known as the Riigikogu, has the right to ratify and denounce international treaties with other states and international organisations.",ratify and denounce international treaties,0.1395421028137207,28.392507314682007,0.6138511896133423
+116, Criminal law involves the prosecution by the state of wrongful acts considered serious enough to breach the sovereign's peace and cannot be deterred or remedied by lawsuits between private parties.,prosecution by the state of wrongful acts,0.14087724685668945,28.933595418930054,0.6710190773010254
+117, Kratos,kratos,0.2831141948699951,22.071611166000366,1.0
+118, Noxious stimuli.,intense or damaging,0.14439940452575684,22.473249197006226,0.4742700457572937
+119," Everyone, including law makers themselves.",every citizen,0.3001289367675781,23.082998991012573,0.5721557140350342
+120," George Mason stated that judges ""could declare an unconstitutional law void. But with regard to every law, however unjust, oppressive or pernicious, which did not come plainly under this description, they would be under the necessity as judges to give it a free course.""",declare an unconstitutional law void,0.13468146324157715,33.23966312408447,0.5448328256607056
+121, 4%,4%,0.31928539276123047,22.11518692970276,0.9999999403953552
+122, statutes.,relevant statutes,0.1561117172241211,21.911743879318237,0.7958691120147705
+123, 2010,2010,0.13835668563842773,22.063547134399414,1.0
+124, April 2008,April 2008,0.1423332691192627,22.362122535705566,1.0000001192092896
+125, Burning or tingling.,burning or tingling,0.29484081268310547,22.601463079452515,0.9727559685707092
+126, Saaremaa is an Estonian island in the Baltic Sea.,the Baltic Sea,0.13406872749328613,24.606709718704224,0.5715572834014893
+127, The United States Constitution.,The Constitution,0.15159153938293457,22.620766401290894,0.9075641632080078
+128," The typical television recommended for the NES was 11"" to 14"" in size.","typically 11"" to 14""",0.14078903198242188,25.269601821899414,0.4664352536201477
+129, 15,15,0.32089900970458984,21.947986125946045,1.0
+130, £500m,£500m,0.13803529739379883,22.12573480606079,1.0
+131, Companies created circuits that used a voltage spike to temporarily disable the 10NES chip in the NES.,voltage spike to temporarily disable the 10NES chip,0.327390193939209,25.77470588684082,0.7714937925338745
+132, Summer.,summer,0.1438002586364746,21.855180740356445,0.9578108191490173
+133," Plato compared a government that follows laws to a ship that is guided by a skilled helmsman, where the law is the master of the government and the government is its slave.",slave,0.3072528839111328,29.393921375274658,0.40743401646614075
+134, The auxiliary port used to connect additional devices on the Famicom was called the DA-15 expansion port.,DA-15,0.1515636444091797,26.268410444259644,0.38139045238494873
+135," The king was offended by the statement that he would be under the law, which he considered treasonous.",greatly offended,0.13365745544433594,26.118590593338013,0.2537577748298645
+136, Canada.,Canada,0.14174795150756836,21.807952404022217,0.9222739934921265
+137, Breakthrough pain.,Breakthrough,0.30206894874572754,22.278249263763428,0.6661815643310547
+138," Nociceptive pain is classified according to the mode of noxious stimulation, which can be thermal, mechanical, or chemical.",according to the mode of noxious stimulation,0.14222311973571777,27.233164310455322,0.535066545009613
+139," Halifax, Nova Scotia.",Halifax,0.1335744857788086,22.69856548309326,0.8769357204437256
+140, The Field Code in 1850.,code pleading,0.1445906162261963,23.354079008102417,0.3629147708415985
+141, consciousness,consciousness,0.15097308158874512,21.835174560546875,1.0
+142, The Avalon Peninsula in Newfoundland.,Avalon Peninsula,0.12984466552734375,23.07265281677246,0.7943798899650574
+143, CBNT-DT,CBNT-DT,0.31984591484069824,22.385534048080444,0.9999999403953552
+144, The NES Advantage and the NES Max.,NES Advantage and the NES Max,0.14743256568908691,23.230794191360474,0.9568628668785095
+145, Northern part.,northern part,0.15189051628112793,22.159754037857056,0.9771847128868103
+146," Days, weeks, or sometimes permanently.",permanently,0.14106178283691406,23.160999059677124,0.5141299962997437
+147," Pain treatment, not only by trying to cut down the sensory input, but also by influencing the motivational-affective and cognitive factors.",action,0.12110495567321777,27.111811637878418,0.23230943083763123
+148, The rule of law can decay if a government does not have an effective system for maintenance and restoration.,decay,0.14417791366577148,25.824039697647095,0.43224477767944336
+149," Governments with a high degree of the ""rule of law"" have limited discretion, as the law is supreme and all citizens, including government officials, are subject to it.",little,0.3197193145751953,28.92474675178528,0.01655450463294983
+150," The third approach to defining the rule of law is the ""functional"" conception.",functional,0.14844369888305664,25.00883197784424,0.2896955609321594
+151, 50,50,0.14085769653320312,21.909175395965576,1.0
+152, Myelin.,myelin,0.1352083683013916,22.062894821166992,0.9568557143211365
+153, Drives.,drives,0.30872321128845215,22.084941387176514,0.9159090518951416
+154, 290 kilometers.,290 kilometers,0.1532609462738037,22.299404621124268,0.9640641212463379
+155, The Estonian Navy is called the Merevägi.,Merevägi,0.13431572914123535,24.0912024974823,0.6234647035598755
+156, The Constitution.,the Constitution,0.1393415927886963,22.171077489852905,0.9583823084831238
+157, regulating them.,regulating them,0.29499316215515137,22.168336391448975,0.9767019152641296
+158, The locations of the first computer centers were Tartu and Tallinn in Estonia.,Tartu and Tallinn,0.14211702346801758,25.02746844291687,0.6298545598983765
+159, The UK consists of Great Britain and Northern Ireland.,Great Britain and Northern Ireland,0.3159160614013672,23.6857647895813,0.8554294109344482
+160," It remains on the books, but no sensible lower court will enforce it, and any court that does so will be reversed by the Supreme Court.",no sensible lower court will enforce,0.1436595916748047,27.735824584960938,0.7660588026046753
+161, The largest private university in Estonia is the Estonian Business School.,Estonian Business School,0.13335704803466797,24.30744481086731,0.7795735597610474
+162, A symptom.,a symptom,0.1518847942352295,22.092893600463867,0.9431846141815186
+163, Independence.,the country's independence,0.29790377616882324,21.997326374053955,0.7980602979660034
+164, the federal judiciary.,federal judiciary,0.16948437690734863,22.364888429641724,0.9293469786643982
+165, Ancient prejudices and political bias in the three branches of government.,Ancient prejudices and political bias,0.3148932456970215,23.996285915374756,0.8067446947097778
+166, Between 1940 and 1979.,between 1940 and 1979,0.12631678581237793,23.319254398345947,0.974675178527832
+167, The government.,rule of judges,0.29758739471435547,22.110414028167725,0.236760675907135
+168, Masayuki Uemura designed the Famicom system.,Masayuki Uemura,0.13746309280395508,24.367273092269897,0.601413905620575
+169," St. John's, Newfoundland and Labrador.",St. John's,0.12700867652893066,23.33257555961609,0.6835935115814209
+170, Ministry of Defence,the cabinet,0.1416912078857422,22.088305711746216,0.35732871294021606
+171, Chronic pain.,chronic pain,0.14649248123168945,22.159330129623413,0.9553978443145752
+172, Economist,economist,0.13438892364501953,21.743277311325073,1.0
+173, 13,Thirteen,0.14923858642578125,21.882254600524902,0.9115337133407593
+174, The Estonian Independent Signal Battalion.,the Estonian Independent Signal Battalion,0.14288330078125,23.02044939994812,0.9915896654129028
+175, The Estonian Cultural Autonomy law.,The Estonian Cultural Autonomy law,0.1482079029083252,23.207606554031372,0.9919997453689575
+176, 5%,5%,0.1376793384552002,22.077462434768677,1.0
+177, The headquarters of the MoD is called Main Building.,Main Building,0.1344153881072998,23.89281129837036,0.6457231044769287
+178," Because appellate decisions from many American courts were not regularly reported until the mid-19th century, lawyers and judges used English legal materials to fill the gap.",reporters often simply rewrote or failed to publish decisions which they disliked,0.1361238956451416,28.054081201553345,0.23309913277626038
+179, The writ of habeas corpus.,writ of habeas corpus,0.15517926216125488,23.04057002067566,0.9794912934303284
+180," June 22, 1941.",22 June 1941,0.12913298606872559,23.245877265930176,0.9719340801239014
+181," Behaviors such as facial grimacing and guarding, increase or decrease in vocalizations, changes in routine behavior patterns, and mental status changes.",specific behaviors,0.13785004615783691,27.775184869766235,0.5529235005378723
+182, Radiant heat intensities.,Europeans,0.14362144470214844,22.8160297870636,0.0363927036523819
+183, Henry of Latvia,Henry of Latvia,0.13776588439941406,22.25511074066162,1.0
+184, 98.4%,98.4%,0.14735841751098633,22.66937494277954,1.0000001192092896
+185, They promised to ensure that the machines were properly repaired.,ensure that the machines were properly repaired,0.13457608222961426,24.03831195831299,0.8390296697616577
+186, The Riigikogu.,Riigikogu,0.13206100463867188,23.07637310028076,0.9170908331871033
+187," State courts in the United States handle a wide range of cases, including traffic cases, criminal cases, civil cases, domestic relations cases, and juvenile cases.",involve claims and defenses under state laws,0.13109803199768066,28.295542240142822,0.4361317753791809
+188, 5,5,0.1384894847869873,21.862654209136963,1.0
+189," The indigenous Estonian population in the Duchy of Estonia, the Bishopric of Ösel-Wiek and the insular territories of the State of the Teutonic Order tried to rid themselves of the Danish and German rulers and landlords in 1343.",German rule,0.13744592666625977,32.75641417503357,0.2552192807197571
+190," The ""Mattel Version"" and ""NES Version"".","""Mattel Version"" and ""NES Version""",0.12335395812988281,23.866427421569824,0.9485561847686768
+191," 4 (publicly declared, prospective application, generality, equality, and certainty)",no requirements,0.15564990043640137,25.394261837005615,0.2650725841522217
+192, Duck Hunt,Duck Hunt,0.14148807525634766,21.91112208366394,1.0
+193, Developing and transitional countries.,developing and transitional,0.14735722541809082,22.593353748321533,0.677469789981842
+194, A nuclear submarine training centre.,A notable closed military installation,0.14566946029663086,22.756435871124268,0.38895854353904724
+195," The rule of precedent was allowed as an extension of the judiciary's public policy of effective judicial administration, to efficiently exercise the judicial power, and to provide fairness and stability in the absence of case law.","in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided",0.12944483757019043,30.231070280075073,0.4045338034629822
+196, Northern Europe.,Northern Europe,0.12856674194335938,22.187012195587158,0.9554752111434937
+197, The HVC-101 model of the Famicom was called the AV Famicom.,AV Famicom,0.13982200622558594,25.66234540939331,0.6705079078674316
+198, 172.22 sq mi,172.22,0.14752864837646484,22.832207202911377,0.7092341184616089
+199, The rule of law.,serfdom,0.29430174827575684,22.722115755081177,0.2593274712562561
+200, May 2011,May 2011,0.16594815254211426,22.370838403701782,1.0
+201, Wario's Woods,Wario's Woods,0.3191406726837158,22.342413425445557,1.0
+202, 1990.,1990,0.1430516242980957,22.38340663909912,0.9542157053947449
+203, The executive branch.,executive branch,0.13974475860595703,22.383623123168945,0.9534595012664795
+204," The Indian clone of the Nintendo Entertainment System (NES) was called the ""Play Station""",Samurai,0.13743019104003906,25.49920916557312,0.1314224898815155
+205, Executive branch agencies.,executive branch agencies,0.1364295482635498,22.32650876045227,0.9719520807266235
+206, Visceral structures.,Visceral,0.15140867233276367,22.70302677154541,0.7983748912811279
+207, The Wehrmacht crossed the Estonian southern border on 7 July 1941.,7 July,0.14784789085388184,25.59674096107483,0.30278271436691284
+208, 1938,1938,0.14603376388549805,22.191147804260254,1.0
+209, Ministry of Defence,Ministry of Defence,0.308530330657959,22.122560501098633,1.0
+210, Nomocracy,nomocracy,0.15078115463256836,21.869890451431274,1.0
+211," The Riigikogu (Parliament of Estonia) elects and appoints several high officials of the state, including the President of the Republic.",The Riigikogu,0.14097356796264648,28.33170509338379,0.5179402232170105
+212, 1992,1992,0.14931035041809082,22.011310338974,1.0
+213, Nomocracy.,democracy,0.13454627990722656,22.133792400360107,0.5873486399650574
+214, Tort law.,Tort law,0.1376492977142334,22.146515369415283,0.9706741571426392
+215, 6,6,0.32266688346862793,21.821261882781982,1.0
+216, Ricoh,Ricoh,0.14854097366333008,21.878389596939087,0.9999999403953552
+217," St. John's, Newfoundland and Labrador, Canada.",Newfoundland,0.16255593299865723,23.726007223129272,0.71099853515625
+218, Estonia.,Estonia,0.1362149715423584,21.95361638069153,0.9490765333175659
+219, 1923,1923,0.146270751953125,22.237929582595825,1.0
+220, The pain signal travels from the periphery to the spinal cord along an A-delta or C fiber.,along an A-delta or C fiber,0.1262195110321045,26.114041328430176,0.523510754108429
+221, Official Nintendo Seal of Quality,Official Nintendo Seal of Quality,0.16369271278381348,22.60484528541565,1.0
+222," Corruption by individuals is often referred to as ""petty corruption"".",corruption by private actors,0.1262979507446289,24.33979630470276,0.6024212837219238
+223, John Rut,John Rut,0.14859700202941895,21.95496153831482,1.0000001192092896
+224, Charles Evans Hughes was a Chief Justice of the United States.,a Chief Justice of the United States,0.1394646167755127,23.921916007995605,0.5904299020767212
+225, Dozens.,Dozens,0.29987168312072754,22.136825561523438,0.9646953344345093
+226, Boeing,Boeing,0.14491486549377441,21.721633195877075,1.0000001192092896
+227," The Estonian nationalist movement began in the 19th century, specifically on a cultural level, resulting in the establishment of Estonian language literature, theatre, and professional music.",19th century,0.14647912979125977,29.013311624526978,0.3949624300003052
+228, Peter Main,Peter Main,0.13386797904968262,21.98350191116333,1.0
+229, Autonomy.,autonomy,0.3190922737121582,22.06613540649414,0.9289524555206299
+230, NEC PC-8001,NEC PC-8001,0.1484532356262207,22.571707248687744,1.0
+231," Those who do not follow the rule of law may face consequences such as punishment, fines, or imprisonment, depending on the severity of the offense and the jurisdiction.",punishment,0.13546538352966309,28.317842960357666,0.45981916785240173
+232, Article Three of the United States Constitution.,Article Three,0.1299116611480713,23.132991313934326,0.7778658866882324
+233, English,English,0.18877530097961426,21.684648752212524,1.0
+234, The Permanent Secretary.,the Defence Services Secretary in the Royal Household of the Sovereign of the United Kingdom,0.1479499340057373,22.39586639404297,0.5253875851631165
+235," The ""substantive"" interpretation of the rule of law is less commonly used.",substantive,0.14215636253356934,25.216691732406616,0.5538610219955444
+236, First-party games.,first-party games,0.13869810104370117,22.382442712783813,0.9788283705711365
+237, The police believe the bribes were intended to influence the allocation of contracts.,influence the allocation of contracts,0.1415703296661377,24.636030673980713,0.5050515532493591
+238, Joseph Stalin,Joseph Stalin,0.15247392654418945,21.884824991226196,1.0000001192092896
+239, the risk.,risk,0.29646778106689453,22.048397541046143,0.8584973216056824
+240, Europe and Australia.,Europe and Australia,0.1406857967376709,22.40867829322815,0.9573859572410583
+241, A benevolent monarchy ruled by an idealized philosopher king.,benevolent monarchy,0.13269376754760742,24.191510677337646,0.7946460247039795
+242, Philip Jackson,Philip Jackson,0.15620779991149902,21.988797664642334,1.0
+243, 1630,1630,0.298475980758667,22.057878732681274,1.0
+244, A maakond (county),kihelkond,0.12987995147705078,23.00045680999756,0.43479782342910767
+245, The Northern Crusades.,the Northern Crusades,0.1339726448059082,22.589675426483154,0.9883427619934082
+246, The Nordic Council.,the Nordic Council,0.14562177658081055,22.371554613113403,0.9876649379730225
+247, 2,2,0.1351172924041748,21.93251347541809,1.0
+248, $89.99,US$89.99,0.15637612342834473,22.231993913650513,0.8487783074378967
+249, The city council has restrictions on the height of buildings in the downtown area.,height of buildings,0.1471567153930664,24.730583429336548,0.585464596748352
+250," No, every state in the United States has its own laws, which can vary significantly from one state to another.",vary greatly from one state to the next.,0.13891816139221191,26.52768874168396,0.3917468190193176
+251, Foreign investors.,foreign investors,0.14185380935668945,22.12175226211548,0.9526113271713257
+252, The original HVC-001 model of the Family Computer.,HVC-001,0.1401827335357666,24.007840156555176,0.6872071027755737
+253, Two,two,0.28381967544555664,21.64734721183777,1.0
+254, NES,NES,0.1260981559753418,21.65717387199402,1.0
+255, Clifford J. Woolf and others have criticized the IASP's system for describing chronic pain.,Clifford J. Woolf and others,0.1349351406097412,25.743134260177612,0.5309099555015564
+256," The Palace of Whitehall, located in the basement of the Main Building of the Ministry of Defence.",the basement of Main Building,0.1345667839050293,25.869345664978027,0.5950403809547424
+257, The Russian military bases in Estonia were removed in 1994.,Russian military bases,0.2976856231689453,24.437537670135498,0.5601476430892944
+258, Criminal law.,wrongs also punishable by criminal law,0.12946295738220215,22.139012336730957,0.5541001558303833
+259, The Rabbit,"""Rabbit"" chip",0.29160141944885254,21.867838621139526,0.6406871676445007
+260," Tartu, Estonia.",Tartu,0.14071321487426758,22.62849712371826,0.6589098572731018
+261, Silver thaw,silver thaws,0.14158129692077637,22.083131074905396,0.9534671306610107
+262, China and Australia.,China and Australia,0.13416099548339844,22.287273168563843,0.9659954905509949
+263, £3.5m,at least £3.5m,0.3028242588043213,22.599262952804565,0.9171873927116394
+264, 1994,1994,0.14214730262756348,22.109124898910522,1.0000001192092896
+265, 84.0%,84.0%,0.2986185550689697,22.542362928390503,1.0
+266," Heritage regulations were amended to create the ""Commercial Central Retail – West Zone"" to allow for buildings of greater height.",heritage regulations,0.13347363471984863,26.320042610168457,0.5316728353500366
+267," ""Law should govern""",Law should govern,0.3184514045715332,22.49582052230835,0.9277193546295166
+268," ""Rändajad"" by Urban Symphony.","""Rändajad"" by Urban Symphony",0.1570587158203125,23.665825128555298,0.9825441837310791
+269, Specificity theory.,Specificity,0.14796161651611328,22.298038482666016,0.8193486928939819
+270, Blowing air onto the cartridge connectors.,blowing air onto the cartridge connectors,0.1337437629699707,23.134430170059204,0.9027215242385864
+271, The fortress of Castrum Danorum.,the fortress of Castrum Danorum,0.14327454566955566,23.427741527557373,0.9893673062324524
+272, 1410.,1410,0.12465834617614746,22.423178911209106,0.9724188446998596
+273, Tartu Ülikool/Rock,Tartu Ülikool/Rock,0.13791537284851074,22.959272623062134,1.0000001192092896
+274, Tallinn,Tallinn,0.1416478157043457,21.91133141517639,1.0
+275," The United States Statutes at Large is a compilation of the laws enacted by the United States Congress, presented in chronological order, with each session of Congress compiled into bound volumes.",a chronological arrangement of the laws in the exact order that they have been enacted,0.13182640075683594,29.125396966934204,0.6111912727355957
+276, San Francisco,San Francisco,0.13361191749572754,22.056575059890747,0.9999999403953552
+277, The McCarran-Ferguson Act.,McCarran-Ferguson Act,0.3130028247833252,23.231086254119873,0.976732075214386
+278, 1514–1516,1514–1516,0.13511395454406738,22.918971300125122,1.0
+279, 13 studies.,13,0.14146661758422852,22.2733051776886,0.5175758600234985
+280, 1,two,0.14012360572814941,21.923561811447144,0.6732219457626343
+281, 1955,1955,0.1483137607574463,22.12427806854248,0.9999999403953552
+282, The Estonian national awakening started in the 19th century.,the period of national awakening,0.1417865753173828,24.287559032440186,0.6330534815788269
+283, Milton Friedman,Milton Friedman,0.2963979244232178,22.009853839874268,1.0
+284, 200 countries.,more than 200 countries,0.1518840789794922,22.368379831314087,0.9193016290664673
+285," Autocracy, dictatorship, and oligarchy.","autocracy, dictatorship, or oligarchy",0.15502166748046875,23.449812173843384,0.9632688760757446
+286, 2007,2007,0.14404535293579102,22.238473415374756,1.0000001192092896
+287, Frederick Mark Gedicks,Law Professor Frederick Mark Gedicks,0.1358642578125,22.27916407585144,0.8405832648277283
+288, Henry of Latvia,Henry of Latvia,0.14452624320983887,22.24773120880127,1.0
+289," Released them in black, robin egg blue, and gold, and are all slightly different shapes than standard NES cartridges.",develop their own customized chips,0.3151097297668457,26.49921226501465,0.3013071119785309
+290, Copyright infringement.,copyright infringement,0.150712251663208,22.094762563705444,0.9171348810195923
+291, It granted federal courts the power to formulate legal precedent like their English predecessors.,granted federal courts the power to formulate legal precedent,0.12903475761413574,24.83277440071106,0.8440829515457153
+292, 2007,2007,0.15166902542114258,22.213853120803833,1.0000001192092896
+293," Estonia has been advancing in digital technology, particularly in the area of e-government and e-state.",Internet voting,0.30019140243530273,25.60082483291626,0.16816869378089905
+294, 48 colors and 6 grays.,48,0.1281585693359375,23.34483790397644,0.5224485397338867
+295, The collapse of the Northern cod fishery led to an economic boom in St. John's due to the discovery of oil and gas reserves in the area.,"Hibernia, Terra Nova and White Rose oil fields",0.2961585521697998,28.1754047870636,0.16520531475543976
+296, 3 months and 6 months since the onset of pain.,interval of time from onset,0.1490464210510254,24.259289026260376,0.16756191849708557
+297, Because the judge believes the opinion is an incorrect statement of the law.,incorrect statement of the law,0.15801477432250977,24.546003580093384,0.5177837014198303
+298," Andrus Ansip, the former Prime Minister of Estonia, is Europe's longest-serving Prime Minister, serving from 2005 to 2014.",Andrus Ansip,0.14035749435424805,28.04281759262085,0.5653793215751648
+299," Native construction, native blacksmithing, native textile design, traditional handicraft, and traditional music, as well as jazz and church music.","native construction, native blacksmithing, native textile design",0.29712867736816406,27.506797790527344,0.7876402139663696
+300, $475 in 2016,$475,0.1337895393371582,22.700538158416748,0.8048052787780762
+301," The divided highway, also known as ""Outer Ring Road"" in the city, runs just outside the main part of the city, with exits to various neighbourhoods served by those streets.",relatively easy access to neighbourhoods,0.1295616626739502,29.71017837524414,0.2957574725151062
+302, 1981-1984,1981 to 1984,0.15036797523498535,22.791664838790894,0.9501705169677734
+303, 7,7,0.1438910961151123,21.946563959121704,1.0000001192092896
+304, Square,square,0.13751912117004395,21.701936960220337,1.0
+305, Because it hurts too much.,because it hurts too much,0.15510940551757812,22.837331295013428,0.9890382289886475
+306, The economy of Estonia.,economy,0.15375065803527832,22.46333408355713,0.5628073215484619
+307," 227,300 hectares.","227,300 hectares",0.13439488410949707,22.8355131149292,0.989499568939209
+308, The Federal Register.,in the Federal Register,0.13302898406982422,22.243385791778564,0.9390025734901428
+309, Late 1993.,late 1993,0.29286909103393555,22.58495807647705,0.983073353767395
+310, The Civil Rights Act of 1871 and Bivens actions.,Civil Rights Act of 1871 and Bivens actions,0.13736939430236816,24.464431047439575,0.9827375411987305
+311, 1607,1607,0.13299846649169922,22.14770221710205,1.0
+312, Advanced equipment.,more advanced equipment,0.12360596656799316,22.099804639816284,0.9036728143692017
+313," Johann Voldemar Jannsen, Jakob Hurt, and Carl Robert Jakobson were the leaders of the Estonian national movement during the Age of Awakening.","Johann Voldemar Jannsen, Jakob Hurt and Carl Robert Jakobson.",0.13493943214416504,28.796021223068237,0.6318877339363098
+314, The United States Constitution.,the United States Constitution,0.14904546737670898,22.54367423057556,0.9625259637832642
+315, QinetiQ,QinetiQ,0.13753104209899902,22.37036657333374,1.0000001192092896
+316, 1610,1610,0.15117979049682617,22.08261227607727,1.0
+317, Latvia and Lithuania.,Latvia and Lithuania,0.3029134273529053,22.49654459953308,0.9743568301200867
+318, 10 minutes,10 minutes,0.15646910667419434,22.069156885147095,1.0000001192092896
+319, 0 to 10,0 to 10,0.14684653282165527,22.578616857528687,1.0000001192092896
+320, Bannerman Park.,Bannerman Park,0.1357259750366211,22.590580463409424,0.9885141253471375
+321, Infractions.,infractions,0.13969206809997559,22.351507902145386,0.9594480991363525
+322, Reval (Tallinn),Reval,0.1419205665588379,23.04655146598816,0.6480656266212463
+323, English common law.,the common law of England,0.1336672306060791,22.396305799484253,0.8732295632362366
+324," May 1, 2004.",1 May 2004,0.12871479988098145,23.17302632331848,0.9261434674263
+325," St. John's, Newfoundland and Labrador.",St. John's,0.29608988761901855,23.406487703323364,0.6835935115814209
+326, 53.3 billion kroons (approximately 3.4 billion euros),53.3 billion kroons (3.4 billion euros),0.1489708423614502,24.993022680282593,0.9955479502677917
+327," Estonian shares similar words with Germanic languages, particularly Low Saxon (Middle Low German) and High German (including standard German).",Germanic,0.1349329948425293,27.422117471694946,0.4898945987224579
+328, Phantom limb pain.,phantom limb pain,0.14806604385375977,22.291346073150635,0.9804303646087646
+329, Quality of their pain.,which words best describe their pain,0.3146524429321289,22.497004508972168,0.6094447374343872
+330, 15,15,0.137953519821167,21.880468606948853,1.0
+331, The Surgeon General.,The Surgeon General,0.14982175827026367,22.53166627883911,0.9869884252548218
+332," St. John's, Newfoundland and Labrador.",St. John's,0.13518929481506348,23.451791524887085,0.6835935115814209
+333," Day-to-day, operational law is considered the law of the land, or the law that governs a nation, as opposed to being governed by arbitrary decisions of individual government officials.","""living law""",0.13952040672302246,29.386350393295288,0.4811762273311615
+334, A portable system with a color LCD.,color LCD,0.14505958557128906,23.1886465549469,0.7074497938156128
+335, 1950,1950,0.280228853225708,22.214680433273315,1.0000001192092896
+336, 1546,1546,0.12970709800720215,22.070780277252197,1.0
+337, £6.5 billion,£6.5bn,0.2936561107635498,22.549591302871704,0.8614732623100281
+338, Intensive use of opioids.,Management,0.14916372299194336,22.74908709526062,0.10843587666749954
+339, St. John's.,St. John's,0.12432503700256348,22.685532331466675,0.9868456125259399
+340," In Estonia, the government has to explain their actions to the Parliament of Estonia (Riigikogu), which is the legislative branch of the government.",the Riigikogu,0.15575408935546875,28.555255651474,0.42069900035858154
+341," The Resource Centre for the Arts is located in the LSPU Hall in St. John's, Newfoundland and Labrador, Canada.",The LSPU Hall,0.3077678680419922,27.172448873519897,0.5032092928886414
+342," $28,781","$28,781",0.161698579788208,22.32894277572632,1.0
+343," pain thresholds for electric shock, muscle cramp, and heat.",pain thresholds,0.315746545791626,24.286711931228638,0.7483519315719604
+344, Hiiumaa,Hiiumaa,0.13925766944885254,22.143959999084473,1.0000001192092896
+345," Spinal cord fibers dedicated to carrying A-delta fiber pain signals, and others that carry both A-delta and C fiber pain signals up the spinal cord to the thalamus in the brain.",A-delta,0.1286773681640625,30.219828367233276,0.21088868379592896
+346, A subsequent statute.,a subsequent statute,0.14238524436950684,22.456026554107666,0.9728955030441284
+347, Natural selection is a type of evolutionary designer.,poor,0.12988638877868652,23.624887466430664,-0.08345344662666321
+348, 54%,54%,0.14377522468566895,22.283278465270996,0.9999999403953552
+349, A 15-pin expansion port.,15-pin expansion port,0.1400754451751709,23.012783765792847,0.8986330032348633
+350, 8th,8th,0.1467146873474121,22.00532841682434,1.0
+351," Dirty, aging and bent connectors.","Dirty, aging and bent connectors",0.1568305492401123,23.122007369995117,0.9688214063644409
+352, federal constitutional rights.,federal constitutional rights,0.12539386749267578,22.38940453529358,0.9533823728561401
+353, The rule of liability for defective products originated from the landmark case of Greenman v. Yuba Power Products in 1963.,law of warranty,0.1352396011352539,27.12321400642395,0.4069843292236328
+354, Famicom,Family Computer,0.12154245376586914,22.140515089035034,0.32635626196861267
+355, Multidimensional Pain Inventory,Multidimensional Pain Inventory,0.14631080627441406,22.665591955184937,1.0000001192092896
+356," A misdemeanor is a minor crime that is punishable by a fine, imprisonment for a short period, or both.",minor crimes,0.11468958854675293,26.24135398864746,0.5273863673210144
+357, A meteor disaster estimated to have happened in 660 ± 85 BC.,meteor disaster,0.29956769943237305,24.77079200744629,0.6596896052360535
+358, 1994,1994,0.1616377830505371,22.15872573852539,1.0000001192092896
+359, Blockbuster Video.,Blockbuster Video,0.11884331703186035,22.29045605659485,0.9381685853004456
+360, 1986,1986,0.16426873207092285,22.145330905914307,1.0000001192092896
+361," March 29, 2004",29 March 2004,0.3092639446258545,23.03478765487671,0.970096230506897
+362," The International Commission of Jurists, the United Nations, and the International Development Law Organization (IDLO) are some of the organizations that meet to discuss and determine the countries that are considered by the rule of law.",The Peacebuilding Commission,0.132918119430542,30.801692724227905,0.2877236604690552
+363, Regaining consumer and retailer confidence.,confidence,0.32076358795166016,22.961974382400513,0.5369760990142822
+364, The United States Department of Justice and several states began probing Nintendo's business practices.,United States Department of Justice,0.14109349250793457,24.957324504852295,0.4736219644546509
+365," Stare decisis is a limited form of lawmaking because it allows appellate courts to bind themselves and lower courts in future cases, thereby creating binding precedent, but it does not grant them the power to make law from scratch, which is a characteristic of plenary lawmaking.",an appellate court's rulings will thereby bind itself and lower courts in future cases,0.14789533615112305,33.592334032058716,0.4319048225879669
+366, General Sir Nicholas Houghton,General Sir Nicholas Houghton,0.12155699729919434,22.81119656562805,1.0
+367, Charles Wheeler,Charles Wheeler,0.31754612922668457,21.89054822921753,1.000000238418579
+368, 6 August 1940.,6 August 1940,0.15364360809326172,22.935810089111328,0.9754107594490051
+369, Louisiana.,Louisiana,0.12975072860717773,21.95418953895569,0.9610179662704468
+370, Misdemeanors may lead to a year or less in jail and a substantial fine.,a year or less in jail and a substantial fine,0.1392831802368164,25.35940957069397,0.7492716908454895
+371, Newfoundland and Labrador.,Newfoundland,0.2949986457824707,22.511999130249023,0.8762071132659912
+372, a seat in the Cabinet.,a seat in the Cabinet,0.13607430458068848,22.815656423568726,0.9870781898498535
+373, Criminal law.,Tort law,0.14806675910949707,22.270862340927124,0.45978325605392456
+374, 1675,1675,0.1249547004699707,22.174413919448853,1.0000001192092896
+375, The Commodore 64.,Commodore 64s,0.1403970718383789,22.824816703796387,0.9516990184783936
+376, The Oeselians or Osilians.,The Oeselians,0.12471747398376465,23.21097183227539,0.9032291769981384
+377," Individuals should be able to challenge administrative orders in court, as stated in A. V. Dicey's rule of law: ""no man is punishable or can be lawfully made to suffer in body or goods except for a distinct breach of law established in the ordinary legal manner before the ordinary Courts of the land.""",individuals,0.1319868564605713,35.28588318824768,0.17466101050376892
+378," The most important foreign policy priorities of Estonia include NATO and European Union membership, close co-operation with the Nordic countries, and a strong relationship with the United States.",accession into NATO and the European Union,0.13808631896972656,28.412158012390137,0.521598219871521
+379, The United States Code.,The United States Code,0.1480238437652588,22.564103603363037,0.9667985439300537
+380, The Ministry of Defence's yearly statement is called the Strategic Defence and Security Review.,The Strategic Defence and Security Review,0.1451587677001953,24.88847517967224,0.7635841369628906
+381, The Permanent Under-Secretary of State for Defence is generally known as the Permanent Secretary.,Permanent Secretary,0.1324453353881836,25.447874069213867,0.7539507746696472
+382, Until 2003.,2003,0.14294910430908203,22.497010707855225,0.7252178192138672
+383," The Restatement of Torts has not been fully adopted by all states, and many states have chosen to adopt only certain sections of the Restatements and reject others.",many states have chosen to adopt only certain sections,0.14546966552734375,28.940863609313965,0.6415406465530396
+384, The Baltic Defence College in Tartu.,the Baltic Defence College,0.139970064163208,23.192954063415527,0.9034692049026489
+385, The post-SNES era.,post-SNES era,0.13879060745239258,22.803139448165894,0.9814895391464233
+386," Blockbuster produced their own short instructions, usually in the form of a small booklet, card, or label stuck on the back of the rental box.",produced their own short instructions,0.12896323204040527,28.03110361099243,0.491452693939209
+387," ""It can't be beaten.""",It can't be beaten,0.14135980606079102,23.149161100387573,0.7476022243499756
+388, 53,53,0.12958073616027832,21.98547077178955,1.0000001192092896
+389, The people.,law,0.13788461685180664,22.132282257080078,0.2684456408023834
+390, Atari.,Atari,0.14336037635803223,21.99271869659424,0.9720725417137146
+391, Energy.,export-generating industries,0.14251232147216797,21.985072374343872,0.184536412358284
+392, The Permanent Secretary serves as the senior civil servant at the Ministry of Defence (MoD).,MoD,0.14296245574951172,25.38687777519226,0.3287879228591919
+393, The rule of law was ignored from the Constitution of the Republic of Estonia.,the Estonian constitution,0.14296698570251465,24.791589975357056,0.5625250339508057
+394, 4%,4%,0.13241839408874512,22.092843055725098,0.9999999403953552
+395," The most influential American 20th-century tort law was the rule of strict liability for defective products, which originated with judicial glosses on the law of warranty in the landmark case of Greenman v. Yuba Power Products in 1963.",rule of strict liability for defective products,0.12855839729309082,32.190855979919434,0.6142022609710693
+396, The Supreme Court.,the Supreme Court,0.14473485946655273,22.362871885299683,0.9724016785621643
+397, Confidence in a successful return on investment.,confidence in a successful return on investment,0.29489755630493164,23.173487901687622,0.9781366586685181
+398, World War I,World War I,0.14365220069885254,22.194180965423584,1.0
+399, Defence diplomacy.,defence diplomacy,0.13553380966186523,22.055362701416016,0.960283100605011
+400," Suur Munamägi, with an elevation of 318 metres (1,043 ft).",the Suur Munamägi,0.1408858299255371,25.861636638641357,0.621099054813385
+401, Tengen,Tengen,0.15210819244384766,22.256864070892334,1.000000238418579
+402, The Atlantic Ocean.,Atlantic Ocean,0.1306602954864502,22.466364860534668,0.9352760910987854
+403, The creation of a clear court hierarchy (under the Judiciary Acts) and the beginning of regular verbatim publication of U.S. appellate decisions by West Publishing.,"creation of a clear court hierarchy (under the Judiciary Acts), and the beginning of regular verbatim publication of U.S. appellate decisions by West Publishing",0.1631631851196289,28.319021463394165,0.9856046438217163
+404," The Ministry of Defence (MoD) has faced several criticisms, including poor management and financial control, overspending on equipment, and investing in projects that take too long to deliver.",poor management and financial control,0.1261751651763916,29.426329374313354,0.3650663495063782
+405, Superficial pain.,Superficial,0.12772083282470703,22.5657696723938,0.6036040186882019
+406," The Ministry of Defence (United Kingdom) still exists from medieval times, with its roots dating back to the 14th century.",castles and churches,0.12652349472045898,27.21197772026062,0.23366518318653107
+407, June 1985's Consumer Electronics Show (CES),"October 18, 1985",0.1282813549041748,23.94614267349243,0.4232180118560791
+408," The Permanent Secretary is the senior civil servant at the Ministry of Defence, responsible for ensuring the department operates effectively as a part of the government.",to ensure the MoD operates effectively as a department of the government,0.13401579856872559,27.69691562652588,0.5050671696662903
+409, 1936,1936,0.29397130012512207,22.118032932281494,1.0000001192092896
+410, The Swedish town of Sigtuna.,the Swedish town of Sigtuna,0.14002609252929688,23.15701413154602,0.9913874864578247
+411," American courts rarely follow post-Revolution Commonwealth rulings unless there is no American ruling on point, the facts and law at issue are nearly identical, and the reasoning is strongly persuasive.",post-Revolution Commonwealth rulings,0.13190412521362305,29.57470464706421,0.649344801902771
+412, Uniform Commercial Code.,Uniform Commercial Code,0.13936781883239746,22.290520191192627,0.9773421287536621
+413, Legalism,Legalism,0.29708242416381836,21.871660947799683,1.0000001192092896
+414, The principle of Chevron deference.,the principle of Chevron,0.16694903373718262,22.950008630752563,0.9184359312057495
+415, Mediagenic,Mediagenic,0.14489221572875977,22.11485719680786,1.0
+416, The Defence Infrastructure Organisation manages the defence estate.,Defence Infrastructure Organisation,0.1637108325958252,23.38772416114807,0.8091554641723633
+417, The lower court would be reversed by the Supreme Court.,reversed by the Supreme Court,0.28119993209838867,23.842427730560303,0.7396258115768433
+418," ""Entertainment System""",Game Pak,0.13876652717590332,22.57271647453308,0.35099804401397705
+419," American courts rarely follow post-revolution Commonwealth rulings unless there is no American ruling on point, the facts and law at issue are nearly identical, and the reasoning is strongly persuasive.",there is no American ruling on point,0.14611411094665527,29.172189235687256,0.5184767842292786
+420, Nintendo,Nintendo,0.14403963088989258,21.649285316467285,1.0000001192092896
+421, £20m,£20m,0.1318671703338623,22.10988688468933,1.0
+422, Henry VIII,Henry VIII,0.14560461044311523,21.897249460220337,1.0000001192092896
+423, The executive branch.,the executive branch,0.12849688529968262,22.42580008506775,0.9803861379623413
+424, 1 September 1435,1 September 1435,0.14095592498779297,22.9111008644104,1.0
+425, 1999,November 1999,0.33013176918029785,22.192413806915283,0.817649781703949
+426, The United States Constitution.,U.S. Constitution,0.14604949951171875,22.570353031158447,0.910422682762146
+427, The 1920 Summer Olympics.,the 1920 Summer Olympics,0.31386613845825195,22.98560619354248,0.9902663230895996
+428, 82%,nearly 82%,0.1458148956298828,22.17811155319214,0.8843472599983215
+429, Guglielmo Marconi,Guglielmo Marconi,0.13424181938171387,22.955370903015137,1.0000001192092896
+430, 1959,1959,0.13922333717346191,22.24607539176941,1.000000238418579
+431," The law to a ""golden met-wand and measure to try the causes of the subjects"".",golden met-wand,0.2936694622039795,25.71686553955078,0.44438791275024414
+432," The individual privacy rights granted to citizens include the right to protection from unreasonable searches and seizures, the right to be secure in their persons, houses, papers, and effects, and the right to be free from government surveillance and monitoring.",belief and religion,0.14997124671936035,31.604093551635742,0.13914591073989868
+433, Intellectual property.,intellectual property,0.12943220138549805,22.279494524002075,0.9422829151153564
+434, Estonia holds the ideal of being close to nature and self-sufficiency.,closeness to nature,0.14327716827392578,24.812744140625,0.4529173970222473
+435, Tens of millions.,tens of millions,0.2959868907928467,22.679964303970337,0.9725335836410522
+436," ""Life is like a hurricane""",Life is like a hurricane,0.14097309112548828,22.993464946746826,0.8831072449684143
+437," Nociceptors respond to thermal, mechanical, and chemical stimuli.","noxious, high intensity",0.14977121353149414,24.776336193084717,0.2121380865573883
+438, Pain severity.,severity,0.14902830123901367,22.005797386169434,0.6832277178764343
+439, Self-esteem and anxiety.,Self-esteem,0.14427924156188965,22.561707973480225,0.8084412217140198
+440, State law.,state law,0.13470029830932617,22.06653642654419,0.9329242706298828
+441," When both the federal and state governments have regulations that overlap, the federal government's regulations take precedence, as they are considered supreme under the Supremacy Clause of the US Constitution.",coexist with each other,0.15482401847839355,29.327559232711792,0.24597181379795074
+442, Between 1945 and 1989.,Between 1945 and 1989,0.13567161560058594,23.457900047302246,0.9779323935508728
+443, A modified Vickers Vimy IV bomber.,Vickers Vimy IV bomber,0.14882183074951172,23.392480611801147,0.9320518970489502
+444, 1517,1517,0.1517014503479004,22.021639108657837,1.0000001192092896
+445, 1932,1932,0.16776633262634277,22.022278785705566,0.9999998807907104
+446, The Red Army disarmed the Estonian Defence Forces in 1940.,the Red Army,0.14586186408996582,24.79096531867981,0.5629099607467651
+447," The three existing service Ministers—the Secretary of State for War, the First Lord of the Admiralty, and the Secretary of State for Air—remained in direct operational control of their respective services, but ceased to attend Cabinet.","the Secretary of State for War, the First Lord of the Admiralty, and the Secretary of State for Air",0.2958555221557617,31.220120191574097,0.6910618543624878
+448, 16.3 °C (61.3 °F),16.3 °C (61.3 °F),0.1508035659790039,24.285393714904785,1.0
+449," Pursue their personal ends and desires, certain that the powers of government will not be used deliberately to frustrate their efforts.",pursue his personal ends and desires,0.15501666069030762,26.893204927444458,0.3964221179485321
+450, 18,eighteen,0.1451122760772705,21.879403114318848,0.8655341267585754
+451," The cabinet carries out the country's domestic and foreign policy, shaped by parliament; it directs and co-ordinates the work of government institutions and bears full responsibility for everything occurring within the authority of executive power.",domestic and foreign policy,0.15407371520996094,30.50875425338745,0.5650664567947388
+452, 22-25%,nearly one third,0.14065313339233398,22.614357709884644,0.37628501653671265
+453," The bill is delivered to the Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA) where it is assigned a law number, and prepared for publication as a slip law.",delivered to the Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA),0.2938508987426758,30.827375650405884,0.7762991189956665
+454, Zero Insertion Force,zero insertion force,0.15221476554870605,22.372514724731445,1.0
+455, 128k (64k per side),128k,0.16471314430236816,23.609895706176758,0.7284882068634033
+456, Oppressors.,liberators,0.15896892547607422,22.497371912002563,0.39048081636428833
+457, Spinal cord damage.,"serious spinal cord damage,",0.3111422061920166,22.638209104537964,0.9153497219085693
+458, The exclusionary rule provided a method for the federal judiciary to enforce the constitutional rights of criminal suspects and convicts by excluding evidence obtained in violation of those rights from being used in court.,inability of legislatures in the U.S. to enact statutes that would actually force law enforcement officers to respect the constitutional rights,0.13887500762939453,29.473897218704224,0.4404146671295166
+459, St. John's.,St. John's,0.1328420639038086,22.694732904434204,0.9868456125259399
+460, The Famicom controllers were hardwired to the back of the console.,hardwired,0.15210175514221191,25.066351652145386,0.45722058415412903
+461, Vincent Harris,Vincent Harris,0.1434924602508545,21.92405343055725,1.0
+462, Thailand,Thailand,0.1582050323486328,21.55297040939331,1.0000001192092896
+463, Samuel Rutherford used the principle of the rule of law to argue against the divine right of kings.,against the divine right of kings,0.3006770610809326,25.9014093875885,0.5255401134490967
+464," The cabinet carries out the country's domestic and foreign policy, shaped by parliament; it directs and co-ordinates the work of government institutions and bears full responsibility for everything occurring within the authority of executive power.",everything occurring within the authority of executive power,0.16479897499084473,30.50204634666443,0.4732658267021179
+465, The Nazis.,the Estonian Forest Brothers,0.13633298873901367,22.300824642181396,0.2922850549221039
+466, Laulupidu,Laulupidu,0.14903926849365234,22.291422605514526,1.0
+467, Diplomatic relations.,diplomatic relations,0.1297285556793213,22.476603746414185,0.964900016784668
+468," The Estonian Academy of Arts (EKA) provides higher education in art, design, architecture, media, art history, and conservation.",The Estonian Academy of Arts,0.16235780715942383,27.77764868736267,0.7729650139808655
+469," 192,326","192,326",0.14894938468933105,22.353164196014404,1.0
+470, Felonies and misdemeanors.,felonies and misdemeanors,0.15108871459960938,23.00921869277954,0.9559382200241089
+471, Lorraine Michael,Lorraine Michael,0.14559698104858398,22.10369372367859,1.0000001192092896
+472, £500m,£240m,0.15085577964782715,22.187857151031494,0.8867037892341614
+473," Tort law is hard to standardize because of its immense size and diversity, with many states adopting only certain sections of the Restatements and rejecting others.",immense size and diversity,0.16180014610290527,28.245030641555786,0.2977912127971649
+474, Bishop John Ponet,Bishop John Ponet,0.16020441055297852,22.347488403320312,1.0
+475," October 31, 2007.","October 31, 2007",0.17377519607543945,23.233882904052734,0.9883288145065308
+476, The Commerce and Spending Clauses of the Constitution.,Commerce and Spending Clauses,0.16610193252563477,23.625309705734253,0.8116081953048706
+477, The rule of law.,rule of law,0.1394495964050293,22.56558132171631,0.9092080593109131
+478, The United States Constitution.,United States Constitution,0.14617347717285156,22.527690410614014,0.9165570735931396
+479, Many federal and state statutes.,federal and state statutes,0.14860248565673828,22.744740962982178,0.8806226253509521
+480," Over 2 million people formed a human chain stretching through Estonia, Latvia, and Lithuania in 1989, known as the Baltic Way.",more than two million people,0.14401578903198242,27.632705688476562,0.3781893253326416
+481, The Republic of Estonia.,the Republic of Estonia,0.1502523422241211,22.621669054031372,0.9725123643875122
+482, The regulations from executive branch agencies are found in the Federal Register and codified into the Code of Federal Regulations.,the Code of Federal Regulations,0.13319134712219238,26.1531925201416,0.7102687358856201
+483, State law.,state law,0.2945108413696289,22.143153429031372,0.9329242706298828
+484, 12,12,0.14617347717285156,22.03704333305359,1.0000001192092896
+485, Acupuncture.,herbal,0.1380007266998291,22.11904811859131,0.4777059555053711
+486, 12 storeys,47-metre,0.15895533561706543,22.379141569137573,0.47547298669815063
+487, Tallinn,Tallinn,0.13406848907470703,22.083256483078003,1.0
+488, The United States.,United States,0.15009593963623047,22.458614826202393,0.8440276384353638
+489, Credible controls for placebo and/or expectation.,credible controls for placebo and/or expectation,0.3238096237182617,23.688876628875732,0.9879089593887329
+490, The rule of stare decisis.,stare decisis,0.1458578109741211,23.047252655029297,0.9091296195983887
+491, 1940,1940,0.1379098892211914,22.10112166404724,0.9999999403953552
+492," 3,000","more than 3,000 people",0.12493157386779785,22.331387519836426,0.6436022520065308
+493," An opt-in class action is a type of class action lawsuit where class members must join the class by opting-in, rather than being automatically included, as in an opt-out class action.",class members must join into the class,0.14107775688171387,29.554394483566284,0.37487825751304626
+494, 1946 to 1964.,1946 to 1964,0.15288496017456055,23.31974744796753,0.9779143333435059
+495, BC Kalev/Cramo,BC Kalev/Cramo,0.13590097427368164,22.756677865982056,1.0
+496, Congenital insensitivity to pain.,Indifference,0.13849592208862305,23.148367404937744,0.19034579396247864
+497, 24.3 km/h (15.1 mph),15.1 mph,0.14423012733459473,24.14707899093628,0.798938512802124
+498, The Danes and the Teutonic Order.,the USSR,0.1368577480316162,23.589553833007812,0.3056080639362335
+499, 2.5 million units.,2.5 million units,0.2939028739929199,22.944031953811646,0.9869212508201599

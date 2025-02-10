@@ -1,0 +1,87 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Raoul Walsh and John Lasseter are both film directors.,film director,0.630561113357544,4.078964471817017,0.5667428970336914
+1,Katharine Ross.,Katharine Ross,0.4080526828765869,2.406726598739624,0.9753739833831787
+2,Orange County.,Orange,0.33884191513061523,2.392498016357422,0.5506259799003601
+3,American.,American,0.5421090126037598,2.2177343368530273,0.9135115146636963
+4,Chelsea.,Chelsea Football Club,0.8213944435119629,2.1845338344573975,0.8088436126708984
+5,"Totopoly was created earlier, in 1938, while Inkan aarre was created in 2005.",Totopoly,0.344677209854126,3.8531436920166016,0.5065720081329346
+6,The True Colors Tour.,The True Colors Tour,0.4863095283508301,2.1675918102264404,0.9913730621337891
+7,"Patrick Lussier directed the movie ""My Bloody Valentine 3D"" where Jensen Ross Ackles plays Jason Todd.",Patrick Lussier,0.4385383129119873,3.397845506668091,0.3046983480453491
+8,The Good Wife.,The Good Wife,0.4306967258453369,2.288980722427368,0.9769506454467773
+9,"Daytona Beach, Florida.","Daytona Beach, Florida",0.31290411949157715,2.384887933731079,0.982018232345581
+10,"The Con Mine started production in 1938, while the Giant Mine started production in 1944.",The Con Mine,0.4413788318634033,3.5630452632904053,0.430807501077652
+11,1988.,1988,0.5894358158111572,2.560439109802246,0.954633355140686
+12,United States.,U.S.,0.389080286026001,2.2463667392730713,0.8812195062637329
+13,"""All in the Family"".",All in the Family,0.26570820808410645,2.259895086288452,0.8050900101661682
+14,"Thums Up has a higher market share, commanding approximately 42% in the cola segment in India, while IBC Root Beer's market share is not specified.",Thums Up,0.2508406639099121,4.946699380874634,0.47651124000549316
+15,Yes.,yes,0.35240864753723145,1.8656127452850342,0.836855947971344
+16,"Tongshanjiabu is taller at 7,207m compared to Kanjut Sar at 7,000m.",Kanjut Sar,5.911005973815918,3.777625560760498,0.4995059669017792
+17,Leeds United.,Leeds United Football Club,0.298248291015625,2.27976393699646,0.8439096212387085
+18,"Lance E. Nichols played Larry Williams in the 2008 film ""Treme"".",David Fincher,0.24363350868225098,3.0134384632110596,0.1954571008682251
+19,Albert Ray made more movies after 1939.,Melvin Frank,0.3180382251739502,2.629046678543091,0.2880256772041321
+20,The Archers.,The Archers,0.5013651847839355,2.3592922687530518,0.9766709804534912
+21,"professor at Williams College. Moore used the pseudonym Ernest Moore while teaching at Williams. On September 23, 2010, Moore was sentenced to 50 months in prison and ordered to pay $760,000 for various financial frauds. Moore originally pleaded guilty in November 2009.
+
+Naseem Hamed: 
+Naseem Hamed (Arabic: نسيم حميد‎ ‎ ; born 12 February 1974), commonly known as ""Prince"" Naseem or ""Naz"", is a British former professional boxer who competed from 1992 to 2002. He held multiple world championships at featherweight, including the WBO title from 1995 to 2000; the IBF title in 1997; and the WBC title from 1999 to 2000. He also reigned as lineal champion from 1998 to 2001; IBO champion from 2002 to 2003; and held the European bantamweight title from 1994 to 1995. Hamed is ranked as the third best British featherweight boxer of all time by BoxRec. In 2015 he was inducted into the International Boxing Hall of Fame.
+
+Emery Hawkins: 
+Emery Hawkins (April 30, 1912 – June 1989) was an American animator who worked at various studios such as Disney, Screen Gems, Walter Lantz, Warner Bros., MGM, and UPA during the golden age of animation. His most prominent work is the Woody Woodpecker cartoons from the 1940s. Along with Art Heinemann, Hawkins helped redesign Woody and made him more streamlined. He also worked with Art Babbitt and Ken Harris on Richard Williams's unfinished animated feature The Thief and the Cobbler. Hawkins was known for the speed in which he animated, completing scenes quickly, but with perfection. Hawkins (along with Babbitt, Harris and Grim Natwick) is frequently mentioned in Richard Williams' book ""The Animator's Survival Kit"".
+
+Richard Williams (basketball coach): 
+Richard Williams was the college basketball head coach at Mississippi State from 1986 to 1998. He is the 2nd most successful coach in school history with 191 victories (191–163.540) bested only by his former assistant, Rick Stansbury. His 1991 squad won the Southeastern Conference championship and made the NCAA tournament losing in the first round to Eastern Michigan. His 1995 squad made the Sweet Sixteen, and his 1996 squad made the school's only Final Four appearance losing to Syracuse 77–69. He received two SEC Coach of the Year awards. Richard Williams resigned as the head coach at MSU two years removed from his Final Four appearance. After leaving MSU, he coached the Memphis Houn'Dawgs of the ABA and the Jackson Rage of the WBA. and coached for a time at his alma mater, Pearl High School. He served as the Director of Basketball Administration at UAB in 2008 and in 2009 he was named the Director of Basketball Administration and Program Coordinator for the Louisiana Tech men’s basketball team on a volunteer basis.
+
+Dover Christ Church Academy: 
+The Dover Christ Church Academy opened in September 2010 when it replaced Archers Court Maths and Computing College which had been placed in the National Challenge. Dover Christ Church was backed by the Dover Grammar schools, Canterbury Christ Church University as well as the Local Education Authority (Kent). Richard Williams was the first principal to be at the school, joining the school at the start of its era from Medina High School on the Isle of Wight. Richard Williams left the school in 2013 Samantha Williamson took over the role of principal, temporarily at first, then on a permanent basis in 2014.
+
+Mike Tyson vs. Michael Spinks: 
+Mike Tyson vs. Michael Spinks was a boxing match which took place on Monday June 27, 1988. Both men were undefeated and each had a claim to being the legitimate heavyweight champion. At the time, Tyson held the belts of all three of the major sanctioning organizations (World Boxing Council, World Boxing Association, and International Boxing Federation) while Spinks was the ""Ring"" champion and was considered the lineal champion.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        How many times did the leader of the criminal gang, of which Russell Clark was a member, escape from jail?
+        
+        assistant
+         2 times.",twice,0.4399299621582031,2.3590497970581055,0.029896769672632217
+22,Illinois.,Illinois,0.49494457244873047,2.1535558700561523,0.9449329376220703
+23,The Grand Ole Opry.,The Grand Ole Opry,1.198706865310669,2.4259862899780273,0.989985466003418
+24,Hyderabad.,Hyderabad,0.3013894557952881,2.179762840270996,0.976740837097168
+25,Arizona State University.,Arizona State University,0.409970760345459,2.5693089962005615,0.9807743430137634
+26,1151,1133,0.4107370376586914,2.3245253562927246,0.7113078832626343
+27,Libya,Libya,0.9867434501647949,2.258434295654297,1.0
+28,China,China,0.3551664352416992,2.464141368865967,1.0000001192092896
+29,pharmaceutical companies.,pharmaceutical companies,0.3492162227630615,2.320949077606201,0.9730814099311829
+30,A.F.C. Blackpool was founded in 1947.,1947,0.2550523281097412,3.0706470012664795,0.37898898124694824
+31,Troy.,Troy,0.30274009704589844,2.4084279537200928,0.968387246131897
+32,Amanda Bynes.,Amanda Laura Bynes,0.8421652317047119,2.523158073425293,0.9161428809165955
+33,Abbas Shafiee was the president of faculty of pharmacy at Tehran University.,Abbas Shafiee,0.30398058891296387,3.3991761207580566,0.64909827709198
+34,United States.,United States of America,0.41743898391723633,2.4296751022338867,0.8166301250457764
+35,The World nightclub hosted RuPaul and Prince.,RuPaul Andre Charles,0.31827259063720703,2.6871306896209717,0.44662201404571533
+36,6 September 1988,born 6 September 1988,0.25064730644226074,2.8653321266174316,0.6807543039321899
+37,"I couldn't find any information about a song called ""If Anyone Falls"" by the given context.",Queen of Rock and Roll.,0.2965049743652344,3.2184524536132812,0.25012391805648804
+38,"Gospel Advocate has been in publication since 1866, while Star Wars Insider was first published in 1987.",Gospel Advocate,0.31465697288513184,3.0254950523376465,0.5457509160041809
+39,New York City.,New York City,0.6672370433807373,2.4028217792510986,0.9656890034675598
+40,Nabil Kanso.,Nabil Kanso,0.26018643379211426,2.4786763191223145,0.9825340509414673
+41,"The Dwayne Wayans-directed film ""Semi-Pro"" (2008).",Kent Alterman,0.7578625679016113,2.943768262863159,0.14926475286483765
+42,Long Island County.,Nassau County,0.32187533378601074,2.2839956283569336,0.6934494972229004
+43,Hartford Whalers.,The Hartford Whalers,0.3237879276275635,2.229739189147949,0.9800195693969727
+44,Char 2C.,operational tank ever made,0.6071674823760986,2.1118078231811523,0.1759103685617447
+45,Dornier Do 228.,Dornier Do 228,0.36972832679748535,2.3350777626037598,0.9861541986465454
+46,Jared Leto has acted in more films.,Jared Joseph Leto,0.8627777099609375,2.605644702911377,0.7530385851860046
+47,Island Records.,Island Records,0.48546695709228516,2.002622127532959,0.9789121150970459
+48,1970.,1970,0.3044455051422119,2.162323474884033,0.9549062848091125
+49,"""Tsst""","on May 3, 2006",0.5040316581726074,2.3360049724578857,0.0011727958917617798
+50,"Altoona, Pennsylvania. The population was 46,320 at the time of the 2010 Census.","46,320",0.3954029083251953,3.5355539321899414,0.4051322638988495
+51,International Data Group (IDG),International Data Group,0.4294283390045166,2.6809325218200684,0.8374391794204712
+52,Jennifer Love Hewitt.,Jennifer Love Hewitt,0.2786126136779785,2.213670015335083,0.9805790781974792
+53,Neither Acantholimon nor Podranea are categories. Acantholimon is a genus of flowering plants and Podranea is a genus of flowering vines.,genus,0.6554815769195557,4.838117361068726,0.386512815952301
+54,Sergio Martinez,Sergio Gabriel Martínez,0.5089209079742432,2.6358916759490967,0.9377797842025757
+55,15 animals.,15 animals,0.3627309799194336,2.2893524169921875,0.988761842250824
+56,Laptop,"Received the nickname ""Laptop""",0.40305185317993164,2.4150784015655518,0.6650179028511047
+57,Mayo Methot,Mayo Methot,0.8857357501983643,2.0662829875946045,1.000000238418579
+58,New York City.,New York City,0.2803802490234375,2.4506747722625732,0.9656890034675598
+59,"""Dark Command"" (1940)",Roogie's Bump,0.324460506439209,2.394918441772461,0.054427869617938995
+60,Gallery,Gallery,0.27819228172302246,2.1779565811157227,1.0
+61,"Yes, they are both film directors.",yes,0.24759984016418457,2.6141700744628906,0.192481130361557
+62,Carlo Rovelli.,Carlo Rovelli,0.3171236515045166,2.649379014968872,0.9864603281021118
+63,"May 28, 2016.","May 28, 2016",0.3025979995727539,2.3222496509552,0.9752662181854248
