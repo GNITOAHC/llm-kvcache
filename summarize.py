@@ -81,7 +81,7 @@ if __name__ == "__main__":
             for method in methods:
                 topic = f"{dir_path}{dataset}_{size}_{method}"
                 
-                chosen_path = [path for path in path_list if path.startswith(topic)]
+                chosen_path = [path for path in path_list if path.startswith(topic+"_")]
                 
                 # for path in chosen_path:    
                 #     count, results = summarize(path)
