@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,reset_cache_time,generate_time
-0," No, they are not in the same state. The Colorado River Aqueduct is in California, while the Eastside Canal is in Kern County, California.",yes,0.0004892349243164062,4.139330863952637
-1, The United States.,the United States,0.0005035400390625,0.676661491394043
-2, They were both writers.,writer,0.00047516822814941406,0.7815694808959961
-3, Cibotium has more species.,Cibotium,0.00048732757568359375,1.1607303619384766
-4," Perry Hall is located in Baltimore County, Maryland, which is the third-most populous county in Maryland.",third-most,0.00048160552978515625,2.6826820373535156
-5, Jason Aldean,Jason Aldean,0.0011034011840820312,0.6629848480224609
-6, Angelina Grimké,Angelina Grimké,0.0008699893951416016,0.6652700901031494
-7," California, New York, and Pennsylvania.",New York,0.0014412403106689453,1.1723365783691406
-8, University of Tennessee.,University of New Mexico,0.0004928112030029297,0.6534490585327148
-9, Gerry Rafferty,"Gerald ""Gerry"" Rafferty",0.00047779083251953125,0.653677225112915
-10, National Collegiate Honors Council,the New England Association of Schools and Colleges,0.0007016658782958984,0.9090573787689209
-11, Tucumán Province,Tucumán Province,0.00047326087951660156,0.7818691730499268
-12, Composer.,composer,0.0004837512969970703,0.40138983726501465
-13, United States.,United States,0.0005199909210205078,0.5374140739440918
-14, mandolin,mandolin,0.0004916191101074219,0.40648889541625977
-15, American,Irish,0.0004956722259521484,0.30384302139282227
+idx,generated_response,ground_truth,reset_cache_time,generate_time,bert_score
+0," No, they are not in the same state. The Colorado River Aqueduct is in California, while the Eastside Canal is in Kern County, California.",yes,0.0004892349243164062,4.139330863952637,0.08384713530540466
+1, The United States.,the United States,0.0005035400390625,0.676661491394043,0.9500843286514282
+2, They were both writers.,writer,0.00047516822814941406,0.7815694808959961,0.5271021127700806
+3, Cibotium has more species.,Cibotium,0.00048732757568359375,1.1607303619384766,0.7233430743217468
+4," Perry Hall is located in Baltimore County, Maryland, which is the third-most populous county in Maryland.",third-most,0.00048160552978515625,2.6826820373535156,-0.00214565172791481
+5, Jason Aldean,Jason Aldean,0.0011034011840820312,0.6629848480224609,1.0
+6, Angelina Grimké,Angelina Grimké,0.0008699893951416016,0.6652700901031494,1.0000001192092896
+7," California, New York, and Pennsylvania.",New York,0.0014412403106689453,1.1723365783691406,0.6203574538230896
+8, University of Tennessee.,University of New Mexico,0.0004928112030029297,0.6534490585327148,0.6951932311058044
+9, Gerry Rafferty,"Gerald ""Gerry"" Rafferty",0.00047779083251953125,0.653677225112915,0.8640726804733276
+10, National Collegiate Honors Council,the New England Association of Schools and Colleges,0.0007016658782958984,0.9090573787689209,0.4764370322227478
+11, Tucumán Province,Tucumán Province,0.00047326087951660156,0.7818691730499268,1.000000238418579
+12, Composer.,composer,0.0004837512969970703,0.40138983726501465,0.9182189106941223
+13, United States.,United States,0.0005199909210205078,0.5374140739440918,0.9286460876464844
+14, mandolin,mandolin,0.0004916191101074219,0.40648889541625977,1.0
+15, American,Irish,0.0004956722259521484,0.30384302139282227,0.55744868516922

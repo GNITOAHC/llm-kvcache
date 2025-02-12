@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,load_knowledge_time,generate_time
-0, Vanishing of the Bees.,Vanishing of the Bees,0.0512087345123291,8.862542867660522
-1, 10 Years,10 Years,0.05238461494445801,8.349467754364014
-2, Pro Kabaddi League.,Kabaddi,0.11828970909118652,8.788157224655151
-3, The Diamond Jubilee of Queen Elizabeth II.,60th,0.10860848426818848,9.110811471939087
-4," Tumen, Jilin is located closer to North Korea.",Tumen,0.058626413345336914,9.433444738388062
-5, Banzai Pipeline on the North Shore (O'ahu).,Hawaii,0.04760599136352539,9.604957342147827
-6," Tulsa, Oklahoma.","Tulsa, Oklahoma",0.04756784439086914,8.47523045539856
-7," No, Allan Bloom was from the United States and Heiner Müller was from Germany.",no,0.12360548973083496,10.107227563858032
-8, Tad was formed first in 1988.,Tad,0.055635690689086914,9.24784541130066
-9," The Hedley Mascot Mine was in operation longer, from 1936 to 1949, while the Burwash Mine was in operation from 1935 to an unknown date.",The Hedley Mascot Mine,0.08858966827392578,12.572290420532227
-10, Fabiana Udenio,Fabiana Udenio,0.052332401275634766,8.612542629241943
-11, Calvin Klein.,Calvin Klein,0.04750800132751465,8.3609778881073
-12," August 6, 1961.","August 6, 1961",0.06345057487487793,9.000669717788696
-13, Nao,Nao,0.061809539794921875,8.247354745864868
-14, Stagecoach robbery.,stagecoach robbery,0.07317280769348145,8.502312660217285
-15, Bill Melendez.,Bill Melendez,0.05057716369628906,8.480821371078491
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score
+0, Vanishing of the Bees.,Vanishing of the Bees,0.0512087345123291,8.862542867660522,0.9787932634353638
+1, 10 Years,10 Years,0.05238461494445801,8.349467754364014,1.0
+2, Pro Kabaddi League.,Kabaddi,0.11828970909118652,8.788157224655151,0.7273894548416138
+3, The Diamond Jubilee of Queen Elizabeth II.,60th,0.10860848426818848,9.110811471939087,0.24704603850841522
+4," Tumen, Jilin is located closer to North Korea.",Tumen,0.058626413345336914,9.433444738388062,0.36595597863197327
+5, Banzai Pipeline on the North Shore (O'ahu).,Hawaii,0.04760599136352539,9.604957342147827,0.3428078889846802
+6," Tulsa, Oklahoma.","Tulsa, Oklahoma",0.04756784439086914,8.47523045539856,0.9791758060455322
+7," No, Allan Bloom was from the United States and Heiner Müller was from Germany.",no,0.12360548973083496,10.107227563858032,0.16158625483512878
+8, Tad was formed first in 1988.,Tad,0.055635690689086914,9.24784541130066,0.3870760500431061
+9," The Hedley Mascot Mine was in operation longer, from 1936 to 1949, while the Burwash Mine was in operation from 1935 to an unknown date.",The Hedley Mascot Mine,0.08858966827392578,12.572290420532227,0.7174206972122192
+10, Fabiana Udenio,Fabiana Udenio,0.052332401275634766,8.612542629241943,1.0
+11, Calvin Klein.,Calvin Klein,0.04750800132751465,8.3609778881073,0.957818329334259
+12," August 6, 1961.","August 6, 1961",0.06345057487487793,9.000669717788696,0.9888356328010559
+13, Nao,Nao,0.061809539794921875,8.247354745864868,1.0
+14, Stagecoach robbery.,stagecoach robbery,0.07317280769348145,8.502312660217285,0.9656916856765747
+15, Bill Melendez.,Bill Melendez,0.05057716369628906,8.480821371078491,0.9716829061508179

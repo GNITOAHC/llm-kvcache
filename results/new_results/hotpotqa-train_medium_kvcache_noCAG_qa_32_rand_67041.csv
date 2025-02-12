@@ -1,33 +1,33 @@
-idx,generated_response,ground_truth,load_knowledge_time,generate_time
-0," Adelaide Hills, south-east of Adelaide in South Australia.",south-east of Adelaide in South Australia.,0.30141615867614746,26.26049518585205
-1, Armchair General,Armchair General,0.31911206245422363,24.586448669433594
-2, The Moon-Spinners (1964) was produced earlier than The Fighting Prince of Donegal (1966).,The Moon-Spinners,0.3571805953979492,28.874850034713745
-3, Brad Bird,Brad Bird.,0.3655848503112793,24.20662808418274
-4, Autopia,Autopia,0.38021326065063477,24.313343286514282
-5, White blood cells.,White blood cells,0.3618500232696533,24.687297821044922
-6, Mississippi's 2nd congressional district.,Mississippi's 2nd congressional district,0.3636031150817871,25.712002277374268
-7, The Simpsons,"""The Simpsons""",0.3532295227050781,24.188655614852905
-8," No, they were not.",no,0.36533689498901367,25.153894901275635
-9, Runcorn F.C. Halton,Runcorn F.C. Halton,0.37843942642211914,25.805444717407227
-10, Nye County,Nye County,0.37365007400512695,24.535228729248047
-11," ""This Is Acting""",This Is Acting,0.37328052520751953,24.896329641342163
-12, Switchfoot,Jon Foreman,0.4102602005004883,24.344887733459473
-13, San Antonio Spurs,San Antonio Spurs,0.3682980537414551,24.40940546989441
-14, Hume Highway,Hume Highway,0.36864185333251953,24.577356100082397
-15, Victor Ortiz,Victor Ortiz,0.32631850242614746,24.228281021118164
-16," Aladdin Theatre for the Performing Arts in Las Vegas, Nevada.",the Aladdin Theatre,0.3605344295501709,26.82971501350403
-17, Gary Sinise,Gary Sinise,0.43536829948425293,24.51723313331604
-18, South America.,South America,0.3371157646179199,24.569674015045166
-19, Yes.,no,0.36979103088378906,24.145617961883545
-20, Family Circle is a home magazine and Avantages is a women's magazine.,magazine,0.32012224197387695,27.209439992904663
-21, Barry Fitzgerald,Barry Fitzgerald,0.3806469440460205,24.372613668441772
-22, DeWitt Bodeen,DeWitt Bodeen,0.36002373695373535,25.240919589996338
-23, 2009,"January 21, 1955",0.3606126308441162,24.59328269958496
-24, Rice,It is made with up to 30% rice,0.3681471347808838,24.17600440979004
-25, David Niven,James David Graham Niven,0.3636503219604492,24.472584009170532
-26, Islamophobia.,larger rise of Islamophobia,0.3699347972869873,24.72826600074768
-27, Kourtney Kardashian.,Kourtney Mary Kardashian,0.3627645969390869,25.025307416915894
-28, The Seattle Seahawks.,Paul Allen,0.3297147750854492,24.865134954452515
-29, Art Briles,Art Briles,0.38269996643066406,24.448161363601685
-30," The Desert Inn was a casino hotel on the Las Vegas Strip in Paradise, Nevada.",casino hotel,0.3616166114807129,27.52707600593567
-31," Bannawag, Bisaya Magasin, and Hiligaynon.","Bannawag, Bisaya Magasin, and Hiligaynon",0.38135194778442383,27.477072954177856
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score
+0," Adelaide Hills, south-east of Adelaide in South Australia.",south-east of Adelaide in South Australia.,0.30141615867614746,26.26049518585205,0.9271061420440674
+1, Armchair General,Armchair General,0.31911206245422363,24.586448669433594,1.0
+2, The Moon-Spinners (1964) was produced earlier than The Fighting Prince of Donegal (1966).,The Moon-Spinners,0.3571805953979492,28.874850034713745,0.6463078856468201
+3, Brad Bird,Brad Bird.,0.3655848503112793,24.20662808418274,0.9786725044250488
+4, Autopia,Autopia,0.38021326065063477,24.313343286514282,1.0
+5, White blood cells.,White blood cells,0.3618500232696533,24.687297821044922,0.9305682182312012
+6, Mississippi's 2nd congressional district.,Mississippi's 2nd congressional district,0.3636031150817871,25.712002277374268,0.9663487076759338
+7, The Simpsons,"""The Simpsons""",0.3532295227050781,24.188655614852905,0.9299965500831604
+8," No, they were not.",no,0.36533689498901367,25.153894901275635,0.2195051908493042
+9, Runcorn F.C. Halton,Runcorn F.C. Halton,0.37843942642211914,25.805444717407227,1.0
+10, Nye County,Nye County,0.37365007400512695,24.535228729248047,1.0000001192092896
+11," ""This Is Acting""",This Is Acting,0.37328052520751953,24.896329641342163,0.8185102939605713
+12, Switchfoot,Jon Foreman,0.4102602005004883,24.344887733459473,0.2082521915435791
+13, San Antonio Spurs,San Antonio Spurs,0.3682980537414551,24.40940546989441,1.0
+14, Hume Highway,Hume Highway,0.36864185333251953,24.577356100082397,1.0
+15, Victor Ortiz,Victor Ortiz,0.32631850242614746,24.228281021118164,1.0000001192092896
+16," Aladdin Theatre for the Performing Arts in Las Vegas, Nevada.",the Aladdin Theatre,0.3605344295501709,26.82971501350403,0.8717203736305237
+17, Gary Sinise,Gary Sinise,0.43536829948425293,24.51723313331604,1.0
+18, South America.,South America,0.3371157646179199,24.569674015045166,0.9592499136924744
+19, Yes.,no,0.36979103088378906,24.145617961883545,0.5598188042640686
+20, Family Circle is a home magazine and Avantages is a women's magazine.,magazine,0.32012224197387695,27.209439992904663,0.5275954008102417
+21, Barry Fitzgerald,Barry Fitzgerald,0.3806469440460205,24.372613668441772,1.0
+22, DeWitt Bodeen,DeWitt Bodeen,0.36002373695373535,25.240919589996338,1.0
+23, 2009,"January 21, 1955",0.3606126308441162,24.59328269958496,0.26022279262542725
+24, Rice,It is made with up to 30% rice,0.3681471347808838,24.17600440979004,0.6573202610015869
+25, David Niven,James David Graham Niven,0.3636503219604492,24.472584009170532,0.7988944053649902
+26, Islamophobia.,larger rise of Islamophobia,0.3699347972869873,24.72826600074768,0.8085342645645142
+27, Kourtney Kardashian.,Kourtney Mary Kardashian,0.3627645969390869,25.025307416915894,0.899743378162384
+28, The Seattle Seahawks.,Paul Allen,0.3297147750854492,24.865134954452515,0.2621532082557678
+29, Art Briles,Art Briles,0.38269996643066406,24.448161363601685,1.0
+30," The Desert Inn was a casino hotel on the Las Vegas Strip in Paradise, Nevada.",casino hotel,0.3616166114807129,27.52707600593567,0.6204696893692017
+31," Bannawag, Bisaya Magasin, and Hiligaynon.","Bannawag, Bisaya Magasin, and Hiligaynon",0.38135194778442383,27.477072954177856,0.982212483882904

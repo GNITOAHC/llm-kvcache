@@ -1,33 +1,33 @@
-idx,generated_response,ground_truth,load_knowledge_time,generate_time
-0," 2,956","2,956",0.3088071346282959,25.6894474029541
-1, Edgar Kaiser Jr.,Edgar Kaiser,0.273998498916626,25.571892738342285
-2," ""Master of Complications""",Master of Complications,0.32841038703918457,26.10807991027832
-3, 2014,"July 23 to September 11, 2014",0.3622109889984131,25.446710348129272
-4, The 1970s.,1970s,0.3680598735809326,26.159212112426758
-5, Trussed Concrete Steel Company,Trussed Concrete Steel Company,0.3650391101837158,25.880972146987915
-6, Alessandro Scarlatti (1660-1725) is older than Philip Glass (born 1937).,Pietro Alessandro Gaspare Scarlatti,0.3397648334503174,29.99652647972107
-7, They are both documentaries.,documentary,0.3570716381072998,25.760198831558228
-8, AVN Adult Entertainment Expo,AVN Adult Entertainment Expo,0.33928608894348145,25.951229333877563
-9," Tulane Stadium in New Orleans, Louisiana.",Los Angeles Memorial Coliseum,0.3447275161743164,26.78218388557434
-10, Barrow Haven,New Holland,0.3349597454071045,25.478053092956543
-11, Amar'e Stoudemire,Amar'e Carsares Stoudemire,0.33861494064331055,26.133942127227783
-12, Hozier,Hozier,0.3344392776489258,25.599355936050415
-13, Central Landfill,Central Landfill,0.3869800567626953,25.47510838508606
-14, I do not have information on how many times the sports club Ron-Robert Zieler is a part of has won the national championship.,five times,0.3550431728363037,31.016524076461792
-15, Zydrunas Ilgauskas,Zydrunas Ilgauskas,0.3514285087585449,26.286701440811157
-16, Blues rock and acoustic jazz.,rock and blues,0.33698010444641113,26.11994957923889
-17, Jodie Comer,"Esther ""Essie"" Davis",0.4057941436767578,25.647138357162476
-18," Mark Stuart is the lead vocalist for Audio Adrenaline, and Vincent Walker is the lead singer of Suburban Legends.",singer,0.400104284286499,30.216917991638184
-19," No, One Ok Rock is from Japan and Galaxie 500 is from the United States.",no,0.3464477062225342,29.191360473632812
-20, James Arness,Gage Clarke,0.3373749256134033,25.357792377471924
-21, Christian Nodal,Adiós Amor,0.34220337867736816,25.35845971107483
-22, Grant Imahara,Grant Imahara,0.3532068729400635,25.722134590148926
-23," No, they are not. Daniela Hantuchová is Slovak and Balázs Taróczy is Hungarian.",no,0.43715691566467285,30.069388389587402
-24, William James,William James,0.3551650047302246,25.156744480133057
-25, Sobhan Babu,Anjali Pictures,0.36579442024230957,25.682251453399658
-26," No, they are not located in the same state. Tucson International Airport is in Arizona, and Juneau International Airport is in Alaska.",no,0.3350353240966797,30.722212553024292
-27," Colby College in Waterville, Maine.","Waterville, Maine",0.34668421745300293,26.719504833221436
-28, Yes.,yes,0.35327672958374023,25.23513960838318
-29, Park Jin-pyo,Park Jin-pyo,0.35184192657470703,25.691383123397827
-30, Yes.,yes,0.3408322334289551,25.065236806869507
-31, Yes.,yes,0.3573315143585205,25.205891847610474
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score
+0," 2,956","2,956",0.3088071346282959,25.6894474029541,0.9999999403953552
+1, Edgar Kaiser Jr.,Edgar Kaiser,0.273998498916626,25.571892738342285,0.9382388591766357
+2," ""Master of Complications""",Master of Complications,0.32841038703918457,26.10807991027832,0.955991804599762
+3, 2014,"July 23 to September 11, 2014",0.3622109889984131,25.446710348129272,0.5690401196479797
+4, The 1970s.,1970s,0.3680598735809326,26.159212112426758,0.9295619130134583
+5, Trussed Concrete Steel Company,Trussed Concrete Steel Company,0.3650391101837158,25.880972146987915,1.0
+6, Alessandro Scarlatti (1660-1725) is older than Philip Glass (born 1937).,Pietro Alessandro Gaspare Scarlatti,0.3397648334503174,29.99652647972107,0.6325886249542236
+7, They are both documentaries.,documentary,0.3570716381072998,25.760198831558228,0.6201286315917969
+8, AVN Adult Entertainment Expo,AVN Adult Entertainment Expo,0.33928608894348145,25.951229333877563,1.0
+9," Tulane Stadium in New Orleans, Louisiana.",Los Angeles Memorial Coliseum,0.3447275161743164,26.78218388557434,0.6337506175041199
+10, Barrow Haven,New Holland,0.3349597454071045,25.478053092956543,0.3353418707847595
+11, Amar'e Stoudemire,Amar'e Carsares Stoudemire,0.33861494064331055,26.133942127227783,0.8602802753448486
+12, Hozier,Hozier,0.3344392776489258,25.599355936050415,1.0000001192092896
+13, Central Landfill,Central Landfill,0.3869800567626953,25.47510838508606,1.0000001192092896
+14, I do not have information on how many times the sports club Ron-Robert Zieler is a part of has won the national championship.,five times,0.3550431728363037,31.016524076461792,0.16792379319667816
+15, Zydrunas Ilgauskas,Zydrunas Ilgauskas,0.3514285087585449,26.286701440811157,1.0000001192092896
+16, Blues rock and acoustic jazz.,rock and blues,0.33698010444641113,26.11994957923889,0.7878526449203491
+17, Jodie Comer,"Esther ""Essie"" Davis",0.4057941436767578,25.647138357162476,0.419430673122406
+18," Mark Stuart is the lead vocalist for Audio Adrenaline, and Vincent Walker is the lead singer of Suburban Legends.",singer,0.400104284286499,30.216917991638184,0.37142306566238403
+19," No, One Ok Rock is from Japan and Galaxie 500 is from the United States.",no,0.3464477062225342,29.191360473632812,0.18150557577610016
+20, James Arness,Gage Clarke,0.3373749256134033,25.357792377471924,0.32625842094421387
+21, Christian Nodal,Adiós Amor,0.34220337867736816,25.35845971107483,0.14881065487861633
+22, Grant Imahara,Grant Imahara,0.3532068729400635,25.722134590148926,1.0
+23," No, they are not. Daniela Hantuchová is Slovak and Balázs Taróczy is Hungarian.",no,0.43715691566467285,30.069388389587402,0.10599776357412338
+24, William James,William James,0.3551650047302246,25.156744480133057,1.0
+25, Sobhan Babu,Anjali Pictures,0.36579442024230957,25.682251453399658,0.3781531751155853
+26," No, they are not located in the same state. Tucson International Airport is in Arizona, and Juneau International Airport is in Alaska.",no,0.3350353240966797,30.722212553024292,0.04230966418981552
+27," Colby College in Waterville, Maine.","Waterville, Maine",0.34668421745300293,26.719504833221436,0.5372666120529175
+28, Yes.,yes,0.35327672958374023,25.23513960838318,0.836855947971344
+29, Park Jin-pyo,Park Jin-pyo,0.35184192657470703,25.691383123397827,1.0
+30, Yes.,yes,0.3408322334289551,25.065236806869507,0.836855947971344
+31, Yes.,yes,0.3573315143585205,25.205891847610474,0.836855947971344
