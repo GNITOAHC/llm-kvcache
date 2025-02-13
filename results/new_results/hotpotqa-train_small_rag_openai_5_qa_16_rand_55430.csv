@@ -1,5 +1,5 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Actors.,actor,1.2050573825836182,2.3157806396484375,0.765259325504303
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Actors.,actor,1.2050573825836182,2.3157806396484375,0.765259325504303,1.0,1.0
 1,", matte artist, and photographer. His feature directorial debut was the 1981 release """". The next film he directed was the science fiction action thriller ""The Terminator"" (1984). It starred Arnold Schwarzenegger as the titular cyborg assassin, and was Cameron's breakthrough feature. In 1986, he directed and wrote the science fiction action sequel ""Aliens"" starring Sigourney Weaver. He followed this by directing another science fiction film ""The Abyss"" (1989). In 1991, Cameron directed the sequel to ""The Terminator"", """" (with Schwarzenegger reprising his role), and also executive produced the action crime film ""Point Break"". Three years later he directed a third Schwarzenegger-starring action film ""True Lies"" (1994).
 
 Meatballs Part II: 
@@ -46,18 +46,18 @@ The Take is a 2007 crime drama film directed by Brad Furman and starring John Le
         John Gatins was nominated for the Academy Award for Best Original Screenplay for a movie directed by who?
         
         assistant
-         Robert Zemeckis.",Robert Zemeckis,0.3362386226654053,1.2173285484313965,0.09899061918258667
-2,Rupert Penry-Jones.,Rupert Penry-Jones,0.30097436904907227,1.269845724105835,0.9725751876831055
-3,"Taylor Hackford was born on December 31, 1944, and Howard Zieff was born on October 21, 1927. Therefore, Howard Zieff was born first.",Howard B. Zieff,0.350757360458374,2.6449317932128906,0.5602454543113708
-4,Ron Weasley.,"Ronald Bilius ""Ron"" Weasley",0.7226223945617676,1.1789915561676025,0.7337749004364014
-5,The Banker.,The Banker,0.4113588333129883,1.3150303363800049,0.9742785096168518
-6,1919,1919,0.35001254081726074,1.1909332275390625,1.0000001192092896
-7,Commando Elite.,Commando Elite,0.44060325622558594,1.0766713619232178,0.9790815114974976
-8,Paul Bettany.,Paul Bettany,6.762005090713501,1.1714799404144287,0.9851870536804199
-9,Massachusetts.,Massachusetts,0.3303709030151367,0.9374337196350098,0.9563392400741577
-10,Dick Wolf and Matt Olmstead.,Dick Wolf and Matt Olmstead,0.29948949813842773,1.3767504692077637,0.9905557632446289
-11,"Sergio Leone, the inventor of the ""Spaghetti Western"" genre.","""Spaghetti Western"" genre",0.2960805892944336,1.6117918491363525,0.7022147178649902
-12,1973.,1973,0.22330403327941895,1.0805296897888184,0.9672453999519348
-13,Samuel West.,Samuel West,0.5146794319152832,1.10237455368042,0.9798023104667664
-14,They are both musicians.,singer and songwriter,0.30477261543273926,1.235140323638916,0.47308406233787537
-15,Eyes of Laura Mars.,Eyes of Laura Mars,0.28400254249572754,1.0745189189910889,0.9861021637916565
+         Robert Zemeckis.",Robert Zemeckis,0.3362386226654053,1.2173285484313965,0.09899061918258667,0.0029476787030213707,0.0029476787030213707
+2,Rupert Penry-Jones.,Rupert Penry-Jones,0.30097436904907227,1.269845724105835,0.9725751876831055,1.0,1.0
+3,"Taylor Hackford was born on December 31, 1944, and Howard Zieff was born on October 21, 1927. Therefore, Howard Zieff was born first.",Howard B. Zieff,0.350757360458374,2.6449317932128906,0.5602454543113708,0.15384615384615383,0.15384615384615383
+4,Ron Weasley.,"Ronald Bilius ""Ron"" Weasley",0.7226223945617676,1.1789915561676025,0.7337749004364014,0.6666666666666666,0.6666666666666666
+5,The Banker.,The Banker,0.4113588333129883,1.3150303363800049,0.9742785096168518,1.0,1.0
+6,1919,1919,0.35001254081726074,1.1909332275390625,1.0000001192092896,1.0,1.0
+7,Commando Elite.,Commando Elite,0.44060325622558594,1.0766713619232178,0.9790815114974976,1.0,1.0
+8,Paul Bettany.,Paul Bettany,6.762005090713501,1.1714799404144287,0.9851870536804199,1.0,1.0
+9,Massachusetts.,Massachusetts,0.3303709030151367,0.9374337196350098,0.9563392400741577,1.0,1.0
+10,Dick Wolf and Matt Olmstead.,Dick Wolf and Matt Olmstead,0.29948949813842773,1.3767504692077637,0.9905557632446289,1.0,1.0
+11,"Sergio Leone, the inventor of the ""Spaghetti Western"" genre.","""Spaghetti Western"" genre",0.2960805892944336,1.6117918491363525,0.7022147178649902,0.5,0.5
+12,1973.,1973,0.22330403327941895,1.0805296897888184,0.9672453999519348,1.0,1.0
+13,Samuel West.,Samuel West,0.5146794319152832,1.10237455368042,0.9798023104667664,1.0,1.0
+14,They are both musicians.,singer and songwriter,0.30477261543273926,1.235140323638916,0.47308406233787537,0.0,0.0
+15,Eyes of Laura Mars.,Eyes of Laura Mars,0.28400254249572754,1.0745189189910889,0.9861021637916565,1.0,1.0

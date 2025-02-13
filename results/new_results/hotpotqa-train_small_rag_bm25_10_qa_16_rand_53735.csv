@@ -1,9 +1,9 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Arjun Kapoor.,Bollywood,0.0014369487762451172,2.3950624465942383,0.6130770444869995
-1,"Montrose Regional Airport is a non-towered public airport, whereas Luis Muñoz Marín International Airport is a joint civil-military international airport.",joint civil-military international airport,0.0013628005981445312,2.629253387451172,0.5474815368652344
-2,The University of Toronto.,The University of Toronto,0.0012631416320800781,1.3139827251434326,0.983822762966156
-3,Jagged Little Pill.,Jagged Little Pill,0.0013270378112792969,1.3503453731536865,0.9799959659576416
-4,EN World.,EN World,0.0012776851654052734,1.253063678741455,0.9523181915283203
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Arjun Kapoor.,Bollywood,0.0014369487762451172,2.3950624465942383,0.6130770444869995,0.0,0.0
+1,"Montrose Regional Airport is a non-towered public airport, whereas Luis Muñoz Marín International Airport is a joint civil-military international airport.",joint civil-military international airport,0.0013628005981445312,2.629253387451172,0.5474815368652344,0.3448275862068966,0.3448275862068966
+2,The University of Toronto.,The University of Toronto,0.0012631416320800781,1.3139827251434326,0.983822762966156,1.0,1.0
+3,Jagged Little Pill.,Jagged Little Pill,0.0013270378112792969,1.3503453731536865,0.9799959659576416,1.0,1.0
+4,EN World.,EN World,0.0012776851654052734,1.253063678741455,0.9523181915283203,1.0,1.0
 5,"director and associate producer on several films, including ""Kal Ho Naa Ho"" (2003) and ""Wanted"" (2009), he made his acting debut with Habib Faisal's romantic drama ""Ishaqzaade"" (2012), for which he was nominated for the Filmfare Award for Best Male Debut.
 
 Tevar: 
@@ -68,14 +68,14 @@ Rascal is a 1969 comedy-drama film adaptation made by Walt Disney Productions ba
         What is the middle name of the director of the television drama film Too Big to Fail?
         
         assistant
-         Curtis Hanson.",Lee,0.0013966560363769531,1.2688140869140625,0.0047912877053022385
-6,Larry Blyden.,Larry Blyden,0.001306772232055664,1.3484480381011963,0.9817227125167847
-7,Arvida/JMB Realty.,Arvida/JMB Realty,0.001435995101928711,1.3943126201629639,0.9740639925003052
-8,Zoë Kravitz,Jessica Parker Kennedy,0.0013451576232910156,1.3339910507202148,0.359177827835083
-9,The United States Air Force.,United States Air Force,0.001386404037475586,1.3596601486206055,0.9240896701812744
-10,New Zealand.,New Zealand,0.0013308525085449219,1.2034215927124023,0.9615551233291626
-11,"April 4, 1968.","April 4, 1968",0.0015523433685302734,1.4958412647247314,0.9845489263534546
-12,Scots language.,Scots,0.0012977123260498047,1.1843929290771484,0.7728228569030762
-13,Taylor Swift.,Taylor Swift,0.0012614727020263672,1.1848382949829102,0.9661430716514587
-14,Carlson Rezidor Hotel Group.,Carlson Rezidor Hotel Group,0.001245737075805664,1.4761037826538086,0.9868093729019165
-15,"No, they are not based on the same book. Follow Me, Boys! is based on the 1954 novel ""God and My Country"" by MacKinlay Kantor, while Rascal is based on the book ""Rascal"" by Sterling North.",no,0.0013513565063476562,3.7894577980041504,0.1588827222585678
+         Curtis Hanson.",Lee,0.0013966560363769531,1.2688140869140625,0.0047912877053022385,0.0,0.0
+6,Larry Blyden.,Larry Blyden,0.001306772232055664,1.3484480381011963,0.9817227125167847,1.0,1.0
+7,Arvida/JMB Realty.,Arvida/JMB Realty,0.001435995101928711,1.3943126201629639,0.9740639925003052,1.0,1.0
+8,Zoë Kravitz,Jessica Parker Kennedy,0.0013451576232910156,1.3339910507202148,0.359177827835083,0.0,0.0
+9,The United States Air Force.,United States Air Force,0.001386404037475586,1.3596601486206055,0.9240896701812744,0.888888888888889,0.888888888888889
+10,New Zealand.,New Zealand,0.0013308525085449219,1.2034215927124023,0.9615551233291626,1.0,1.0
+11,"April 4, 1968.","April 4, 1968",0.0015523433685302734,1.4958412647247314,0.9845489263534546,1.0,1.0
+12,Scots language.,Scots,0.0012977123260498047,1.1843929290771484,0.7728228569030762,0.6666666666666666,0.6666666666666666
+13,Taylor Swift.,Taylor Swift,0.0012614727020263672,1.1848382949829102,0.9661430716514587,1.0,1.0
+14,Carlson Rezidor Hotel Group.,Carlson Rezidor Hotel Group,0.001245737075805664,1.4761037826538086,0.9868093729019165,1.0,1.0
+15,"No, they are not based on the same book. Follow Me, Boys! is based on the 1954 novel ""God and My Country"" by MacKinlay Kantor, while Rascal is based on the book ""Rascal"" by Sterling North.",no,0.0013513565063476562,3.7894577980041504,0.1588827222585678,0.05405405405405406,0.05405405405405406

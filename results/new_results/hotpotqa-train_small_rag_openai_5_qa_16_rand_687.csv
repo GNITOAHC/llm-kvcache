@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,New York.,New York,0.281252384185791,2.272305727005005,0.9648565053939819
-1,"Johannes Longinus was the tutor of Casimir, the person San Casimiro is named after.",Johannes Longinus,0.31299662590026855,1.6642253398895264,0.5855838060379028
-2,"""U Can't Touch This""",U Can't Touch This,0.36188435554504395,1.0877690315246582,0.7539971470832825
-3,English.,English,0.3077828884124756,1.0606651306152344,0.9305142164230347
-4,"Pennsylvania State University was founded in 1855, while the University of East Anglia was founded in 1963.",Pennsylvania State University,0.2760491371154785,2.211345911026001,0.6435672044754028
-5,2013.,"March 21, 1985",0.39727044105529785,1.1872096061706543,0.3582780957221985
-6,"Todd Phillips directed the 2016 film ""War Dogs"", in which Jonah Hill, who earned an Academy Award nomination for his role in ""The Wolf of Wall Street"", played a role.",Todd Phillips,0.3526151180267334,2.9002456665039062,0.2914644479751587
-7,Chris Brown.,Chris Brown,0.3866729736328125,0.9614417552947998,0.95943284034729
-8,They are both types of flowering plants.,genus,0.2964301109313965,1.0141167640686035,0.3589128255844116
-9,Road Kings,Road Kings,0.41714954376220703,1.036240816116333,1.0000001192092896
-10,Yes.,yes,0.3849036693572998,1.1755383014678955,0.836855947971344
-11,Yes.,yes,4.124276638031006,1.1327714920043945,0.836855947971344
-12,"The Endem TV Tower opened first, in 2002, while the Rahmi M. Koç Museum opened in 1994.",Rahmi M. Koç Museum,0.2575571537017822,2.0930659770965576,0.5817778706550598
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,New York.,New York,0.281252384185791,2.272305727005005,0.9648565053939819,1.0,1.0
+1,"Johannes Longinus was the tutor of Casimir, the person San Casimiro is named after.",Johannes Longinus,0.31299662590026855,1.6642253398895264,0.5855838060379028,0.25,0.25
+2,"""U Can't Touch This""",U Can't Touch This,0.36188435554504395,1.0877690315246582,0.7539971470832825,1.0,1.0
+3,English.,English,0.3077828884124756,1.0606651306152344,0.9305142164230347,1.0,1.0
+4,"Pennsylvania State University was founded in 1855, while the University of East Anglia was founded in 1963.",Pennsylvania State University,0.2760491371154785,2.211345911026001,0.6435672044754028,0.3,0.3
+5,2013.,"March 21, 1985",0.39727044105529785,1.1872096061706543,0.3582780957221985,0.0,0.0
+6,"Todd Phillips directed the 2016 film ""War Dogs"", in which Jonah Hill, who earned an Academy Award nomination for his role in ""The Wolf of Wall Street"", played a role.",Todd Phillips,0.3526151180267334,2.9002456665039062,0.2914644479751587,0.125,0.125
+7,Chris Brown.,Chris Brown,0.3866729736328125,0.9614417552947998,0.95943284034729,1.0,1.0
+8,They are both types of flowering plants.,genus,0.2964301109313965,1.0141167640686035,0.3589128255844116,0.0,0.0
+9,Road Kings,Road Kings,0.41714954376220703,1.036240816116333,1.0000001192092896,1.0,1.0
+10,Yes.,yes,0.3849036693572998,1.1755383014678955,0.836855947971344,1.0,1.0
+11,Yes.,yes,4.124276638031006,1.1327714920043945,0.836855947971344,1.0,1.0
+12,"The Endem TV Tower opened first, in 2002, while the Rahmi M. Koç Museum opened in 1994.",Rahmi M. Koç Museum,0.2575571537017822,2.0930659770965576,0.5817778706550598,0.38095238095238093,0.38095238095238093
 13,"coach for the Miami Heat of the National Basketball Association (NBA). Howard formerly played for the Heat from 2010 until 2013. A one-time All-Star and one-time All-NBA power forward, he began his NBA career as the fifth overall pick in the 1994 NBA draft, selected by the Washington Bullets. Before he was drafted, he starred as an All-American on the Michigan Wolverines men's basketball team. At Michigan he was part of the Fab Five recruiting class of 1991 that reached the finals of the National Collegiate Athletic Association (NCAA) Men's Division I Basketball Championship in 1992 and 1993. Howard won his first NBA championship with Miami in the 2012 NBA Finals and his second NBA championship in the 2013 NBA Finals.
 
 2012 NBA Finals: 
@@ -59,6 +59,6 @@ Carlos Rafael Casimiro (born November 8, 1976 in San Pedro de Macorís, Dominica
         Which team won the European Cup Final in which Helmut Winklhofer played?
         
         assistant
-         Bayern Munich.",Porto,0.8166351318359375,1.0181138515472412,0.060504816472530365
-14,The Miami Heat.,Oklahoma City Thunder,0.3273813724517822,1.0144071578979492,0.3971186578273773
-15,"Philip Saville was born on October 28, 1930, and Christophe Gans was born on March 11, 1960.",Philip Saville,0.8204660415649414,2.2981796264648438,0.5981122255325317
+         Bayern Munich.",Porto,0.8166351318359375,1.0181138515472412,0.060504816472530365,0.0,0.0
+14,The Miami Heat.,Oklahoma City Thunder,0.3273813724517822,1.0144071578979492,0.3971186578273773,0.0,0.0
+15,"Philip Saville was born on October 28, 1930, and Christophe Gans was born on March 11, 1960.",Philip Saville,0.8204660415649414,2.2981796264648438,0.5981122255325317,0.21052631578947367,0.21052631578947367

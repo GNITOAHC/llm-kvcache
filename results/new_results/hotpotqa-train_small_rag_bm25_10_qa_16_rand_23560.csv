@@ -1,5 +1,5 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,1911.,1911,0.0013344287872314453,2.3670284748077393,0.9687958359718323
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,1911.,1911,0.0013344287872314453,2.3670284748077393,0.9687958359718323,1.0,1.0
 1,"coach. The club has taken park in many tournaments and state final matches in Georgia and the Southeast United States. A major goal of the Trojans Rugby Football Club is to teach and play the sport of rugby in the United States. This is a great struggle throughout Georgia because of opposition from the high school's football coaches and athletic directors. The club plays the most common version of rugby, called rugby union but often just referred to as rugby. Although the club plays by rugby union rules, they also play by the rules of the International Rugby Board (IRB) for those under 19 years of age. In the summer of 2011, the Trojan Rugby Football Club took part in another version of rugby called rugby sevens. This variation of rugby is faster paced, with the same size fields but fewer people, and shorter half lengths.
 
 Western Wolves FC: 
@@ -84,18 +84,18 @@ Julia Fiona Roberts (born October 28, 1967) is an American actress and producer.
          Anthony John Abbott has been a member of parliament for an Australian division in which state?
         
         assistant
-         New South Wales.",New South Wales,0.0014348030090332031,1.2305059432983398,0.17387700080871582
-2,Media Ventures.,Media Ventures,0.001336812973022461,1.1746680736541748,0.9605284929275513
-3,Gibraltarian.,Gibraltarian,0.0013360977172851562,1.2877256870269775,0.9799712896347046
-4,"Melle Mel, the lead rapper for Grandmaster Flash and the Furious Five.",Grandmaster Flash and the Furious Five,0.0013275146484375,1.8016421794891357,0.6047658920288086
-5,1978.,1978,0.0012431144714355469,1.2211313247680664,0.9614052772521973
-6,CBS Corporation.,Leslie Moonves,0.0013260841369628906,1.2105813026428223,0.1943950057029724
-7,The Hazel River rises in Shenandoah National Park and flows through the Blue Ridge Mountains.,the Blue Ridge Mountains,0.0011932849884033203,1.8157951831817627,0.5431642532348633
-8,New Jersey.,New Jersey,0.0013580322265625,1.2036769390106201,0.9690638780593872
-9,"No, OneRepublic is an American pop rock band, but Air Traffic is an English alternative rock band.",no,0.0012350082397460938,2.050394296646118,0.19920912384986877
-10,David Grisman.,Acoustic Disc,0.0013432502746582031,1.266676664352417,0.01178978756070137
-11,Lily Rabe.,Lily Rabe,0.0013437271118164062,1.2664387226104736,0.9711775779724121
-12,"""Every Breath You Take""","""Just Be Good to Me""",0.0012288093566894531,1.3352890014648438,0.2708219885826111
-13,The Dark Knight.,The Dark Knight,0.0013349056243896484,1.3304533958435059,0.971114456653595
-14,Bob's Burgers.,Bob's Burgers,0.001352071762084961,1.3161799907684326,0.9902617931365967
-15,"Julia Roberts was born on October 28, 1967, and Julie Wagner was born on October 22, 1965, so Julie Wagner was born first.",Julie Anne Wagner,0.0013279914855957031,2.7132201194763184,0.5885667204856873
+         New South Wales.",New South Wales,0.0014348030090332031,1.2305059432983398,0.17387700080871582,0.0028971511347175277,0.0028971511347175277
+2,Media Ventures.,Media Ventures,0.001336812973022461,1.1746680736541748,0.9605284929275513,1.0,1.0
+3,Gibraltarian.,Gibraltarian,0.0013360977172851562,1.2877256870269775,0.9799712896347046,1.0,1.0
+4,"Melle Mel, the lead rapper for Grandmaster Flash and the Furious Five.",Grandmaster Flash and the Furious Five,0.0013275146484375,1.8016421794891357,0.6047658920288086,0.6666666666666666,0.6666666666666666
+5,1978.,1978,0.0012431144714355469,1.2211313247680664,0.9614052772521973,1.0,1.0
+6,CBS Corporation.,Leslie Moonves,0.0013260841369628906,1.2105813026428223,0.1943950057029724,0.0,0.0
+7,The Hazel River rises in Shenandoah National Park and flows through the Blue Ridge Mountains.,the Blue Ridge Mountains,0.0011932849884033203,1.8157951831817627,0.5431642532348633,0.4210526315789474,0.4210526315789474
+8,New Jersey.,New Jersey,0.0013580322265625,1.2036769390106201,0.9690638780593872,1.0,1.0
+9,"No, OneRepublic is an American pop rock band, but Air Traffic is an English alternative rock band.",no,0.0012350082397460938,2.050394296646118,0.19920912384986877,0.1111111111111111,0.1111111111111111
+10,David Grisman.,Acoustic Disc,0.0013432502746582031,1.266676664352417,0.01178978756070137,0.0,0.0
+11,Lily Rabe.,Lily Rabe,0.0013437271118164062,1.2664387226104736,0.9711775779724121,1.0,1.0
+12,"""Every Breath You Take""","""Just Be Good to Me""",0.0012288093566894531,1.3352890014648438,0.2708219885826111,0.0,0.0
+13,The Dark Knight.,The Dark Knight,0.0013349056243896484,1.3304533958435059,0.971114456653595,1.0,1.0
+14,Bob's Burgers.,Bob's Burgers,0.001352071762084961,1.3161799907684326,0.9902617931365967,1.0,1.0
+15,"Julia Roberts was born on October 28, 1967, and Julie Wagner was born on October 22, 1965, so Julie Wagner was born first.",Julie Anne Wagner,0.0013279914855957031,2.7132201194763184,0.5885667204856873,0.15384615384615383,0.15384615384615383

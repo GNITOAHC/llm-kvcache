@@ -1,10 +1,10 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Charlie.,Charlie,0.4092566967010498,2.1079726219177246,0.9550973773002625
-1,Literature.,Literature,0.3444862365722656,0.745232105255127,0.9116609692573547
-2,Netherlands,Netherlands,0.23931336402893066,0.6827273368835449,1.0
-3,Gioachino Rossini wrote the opera Eduardo e Cristina.,39,0.3157384395599365,1.15516996383667,-0.010205455124378204
-4,Mauser.,German,0.323927640914917,0.7419734001159668,0.19541098177433014
-5,MIT Sloan School of Management.,"Cambridge, Massachusetts",0.348069429397583,0.9234776496887207,0.4037342369556427
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Charlie.,Charlie,0.4092566967010498,2.1079726219177246,0.9550973773002625,1.0,1.0
+1,Literature.,Literature,0.3444862365722656,0.745232105255127,0.9116609692573547,1.0,1.0
+2,Netherlands,Netherlands,0.23931336402893066,0.6827273368835449,1.0,1.0,1.0
+3,Gioachino Rossini wrote the opera Eduardo e Cristina.,39,0.3157384395599365,1.15516996383667,-0.010205455124378204,0.0,0.0
+4,Mauser.,German,0.323927640914917,0.7419734001159668,0.19541098177433014,0.0,0.0
+5,MIT Sloan School of Management.,"Cambridge, Massachusetts",0.348069429397583,0.9234776496887207,0.4037342369556427,0.0,0.0
 6,"coach. The club has taken park in many tournaments and state final matches in Georgia and the Southeast United States. A major goal of the Trojans Rugby Football Club is to teach and play the sport of rugby in the United States. This is a great struggle throughout Georgia because of opposition from the high school's football coaches and athletic directors. The club plays the most common version of rugby, called rugby union but often just referred to as rugby. Although the club plays by rugby union rules, they also play by the rules of the International Rugby Board (IRB) for those under 19 years of age. In the summer of 2011, the Trojan Rugby Football Club took part in another version of rugby called rugby sevens. This variation of rugby is faster paced, with the same size fields but fewer people, and shorter half lengths.
 
 Odds BK: 
@@ -15,29 +15,29 @@ Odds Ballklubb, commonly known as Odd, is a Norwegian football club from Skien. 
         Christoph Janker plays for a football club that was founded in which year?
         
         assistant
-         1907",1907,0.23520970344543457,0.6419389247894287,0.028074219822883606
-7,Fatsia has more species.,Fatsia,0.3145437240600586,0.67014479637146,0.7185660600662231
-8,Goalkeeper for Zamalek.,Goalkeeper,0.38887953758239746,0.8027257919311523,0.7594099640846252
-9,United States.,United States,0.35546159744262695,0.709714412689209,0.9286460876464844
-10,George Schnell.,George Schnell,0.31009888648986816,0.5396878719329834,0.9850906133651733
-11,Rosalind.,Rosalind,0.3220076560974121,0.6955695152282715,0.9784196019172668
-12,Mothercare.,Mothercare,0.3232157230377197,0.6514053344726562,0.967211127281189
-13,"The role of Mary Jo Walker in the 1999 film ""Tumbleweeds"".",Olive Neal,0.3882722854614258,1.2859461307525635,0.18529634177684784
-14,American.,American,0.26407742500305176,0.6134624481201172,0.9135115146636963
-15,"Georgy Voronoy was born first, in 1868.",Georgy Feodosevich Voronoy,0.534724235534668,1.26324462890625,0.6389026641845703
-16,The Guinness Book of World Records.,Guinness Book of World Records,0.3078341484069824,0.8831334114074707,0.9661760926246643
-17,The Legend of Korra.,"""The Legend of Korra""",0.517615556716919,0.7813925743103027,0.9431094527244568
-18,A. R. Rahman.,A. R. Rahman,5.2993810176849365,0.782996654510498,0.9925702214241028
-19,Paul McCartney.,Paul McCartney,0.4062173366546631,0.6641955375671387,0.9762459397315979
-20,New York City.,New York,0.32050180435180664,0.8235945701599121,0.9219122529029846
-21,The University of Iowa.,University of Iowa,0.5254061222076416,0.9178237915039062,0.9659820199012756
-22,Hiroshi Mikitani.,Hiroshi Mikitani,0.34768223762512207,0.7670421600341797,0.9851273894309998
-23,David Attwood's birthday (August 28) falls closer to the beginning of the calendar year than Frank Borzage's birthday (April 23).,Frank Borzage,0.3057563304901123,1.8338639736175537,0.46469613909721375
-24,David Walsh ghost-wrote the autobiography of Kevin Pietersen.,David Walsh,0.48485898971557617,1.022350788116455,0.5229827165603638
-25,"The year of birth of Kim Larsen, the artist who released the debut album Værsgo, is not mentioned in the given context.",1945,0.5068156719207764,1.975088119506836,0.20781850814819336
-26,The Cosmopolitan of Las Vegas.,Cosmopolitan of Las Vegas,0.4515249729156494,0.7002148628234863,0.9510511159896851
-27,Cannes Film Festival.,Cannes Film Festival,1.1525969505310059,0.7029407024383545,0.9758018851280212
-28,Michael Fassbender.,Michael Fassbender,0.3045930862426758,0.7891285419464111,0.9846913814544678
-29,"Fairbanks International Airport is farther north, not south.",Palm Beach International Airport,0.5310394763946533,0.8391389846801758,0.3581618368625641
-30,"A Rocket to the Moon was formed in 2006, while Superheaven was formed in 2008.",A Rocket to the Moon,0.3509962558746338,1.6651537418365479,0.5458753108978271
-31,Dick Dale.,Dick Dale,0.6183412075042725,0.7147238254547119,0.966056227684021
+         1907",1907,0.23520970344543457,0.6419389247894287,0.028074219822883606,0.006756756756756757,0.006756756756756757
+7,Fatsia has more species.,Fatsia,0.3145437240600586,0.67014479637146,0.7185660600662231,0.4,0.4
+8,Goalkeeper for Zamalek.,Goalkeeper,0.38887953758239746,0.8027257919311523,0.7594099640846252,0.5,0.5
+9,United States.,United States,0.35546159744262695,0.709714412689209,0.9286460876464844,1.0,1.0
+10,George Schnell.,George Schnell,0.31009888648986816,0.5396878719329834,0.9850906133651733,1.0,1.0
+11,Rosalind.,Rosalind,0.3220076560974121,0.6955695152282715,0.9784196019172668,1.0,1.0
+12,Mothercare.,Mothercare,0.3232157230377197,0.6514053344726562,0.967211127281189,1.0,1.0
+13,"The role of Mary Jo Walker in the 1999 film ""Tumbleweeds"".",Olive Neal,0.3882722854614258,1.2859461307525635,0.18529634177684784,0.0,0.0
+14,American.,American,0.26407742500305176,0.6134624481201172,0.9135115146636963,1.0,1.0
+15,"Georgy Voronoy was born first, in 1868.",Georgy Feodosevich Voronoy,0.534724235534668,1.26324462890625,0.6389026641845703,0.4,0.4
+16,The Guinness Book of World Records.,Guinness Book of World Records,0.3078341484069824,0.8831334114074707,0.9661760926246643,0.9090909090909091,0.9090909090909091
+17,The Legend of Korra.,"""The Legend of Korra""",0.517615556716919,0.7813925743103027,0.9431094527244568,1.0,1.0
+18,A. R. Rahman.,A. R. Rahman,5.2993810176849365,0.782996654510498,0.9925702214241028,1.0,1.0
+19,Paul McCartney.,Paul McCartney,0.4062173366546631,0.6641955375671387,0.9762459397315979,1.0,1.0
+20,New York City.,New York,0.32050180435180664,0.8235945701599121,0.9219122529029846,0.8,0.8
+21,The University of Iowa.,University of Iowa,0.5254061222076416,0.9178237915039062,0.9659820199012756,0.8571428571428571,0.8571428571428571
+22,Hiroshi Mikitani.,Hiroshi Mikitani,0.34768223762512207,0.7670421600341797,0.9851273894309998,1.0,1.0
+23,David Attwood's birthday (August 28) falls closer to the beginning of the calendar year than Frank Borzage's birthday (April 23).,Frank Borzage,0.3057563304901123,1.8338639736175537,0.46469613909721375,0.16666666666666669,0.16666666666666669
+24,David Walsh ghost-wrote the autobiography of Kevin Pietersen.,David Walsh,0.48485898971557617,1.022350788116455,0.5229827165603638,0.3636363636363636,0.3636363636363636
+25,"The year of birth of Kim Larsen, the artist who released the debut album Værsgo, is not mentioned in the given context.",1945,0.5068156719207764,1.975088119506836,0.20781850814819336,0.0,0.0
+26,The Cosmopolitan of Las Vegas.,Cosmopolitan of Las Vegas,0.4515249729156494,0.7002148628234863,0.9510511159896851,0.888888888888889,0.888888888888889
+27,Cannes Film Festival.,Cannes Film Festival,1.1525969505310059,0.7029407024383545,0.9758018851280212,1.0,1.0
+28,Michael Fassbender.,Michael Fassbender,0.3045930862426758,0.7891285419464111,0.9846913814544678,1.0,1.0
+29,"Fairbanks International Airport is farther north, not south.",Palm Beach International Airport,0.5310394763946533,0.8391389846801758,0.3581618368625641,0.3333333333333333,0.3333333333333333
+30,"A Rocket to the Moon was formed in 2006, while Superheaven was formed in 2008.",A Rocket to the Moon,0.3509962558746338,1.6651537418365479,0.5458753108978271,0.5,0.5
+31,Dick Dale.,Dick Dale,0.6183412075042725,0.7147238254547119,0.966056227684021,1.0,1.0

@@ -1,5 +1,5 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Jim Halpert.,Jim Halpert,0.3287346363067627,2.3352954387664795,0.9852889776229858
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Jim Halpert.,Jim Halpert,0.3287346363067627,2.3352954387664795,0.9852889776229858,1.0,1.0
 1,"coach during the 1976 Summer Olympics and the men's head coach of the American team of the 1988 Summer Olympics. He would have been assistant coach during the 1980 Summer Olympics, but the American team did not compete due to a boycott. He was also the head coach of the 1993 World Championships in Helsinki. The American team won six gold medals and a total of 18 medals together, both the most by any nation. At the 1988 Summer Olympics the American team won seven gold medals, the most in track and field for any nation. He was elected to the National Track and Field Hall of Fame in 2004.
 
 Jorge González (sport shooter): 
@@ -22,18 +22,18 @@ is an American journalist and activist. She is the former First Lady of Californ
         The Carl Albert Congressional Research and Studies Center is located in a city that had how many inhabitants in 2015?
         
         assistant
-         Norman, Oklahoma. The city had an estimated population of 120,284 in 2015.","120,284",0.3212008476257324,1.8466358184814453,0.09195207804441452
-2,Hertha BSC.,Hertha BSC,0.4277651309967041,1.0377745628356934,0.9868218898773193
-3,Sumner County.,Wellington,0.35400962829589844,0.9482171535491943,0.2364935427904129
-4,A Peabody Award.,Peabody Award,0.9826650619506836,1.1856215000152588,0.9178613424301147
-5,Mark van Bommel.,Mark van Bommel,0.41202592849731445,1.1938605308532715,0.9889638423919678
-6,Scott Caan.,Scott Caan,0.5185885429382324,1.1206259727478027,0.9827015399932861
-7,"Texas Tom, Just Ducky, Posse Cat, Little Runaway, Life with Tom, Mouse Trouble, and Smarty Cat were all animated shorts worked on by Irven Spence and distributed by Metro-Goldwyn-Mayer.",Tom and Jerry,0.47829699516296387,3.0627942085266113,0.49980512261390686
-8,Yes.,yes,1.1203720569610596,0.9685628414154053,0.836855947971344
-9,1981,1981,0.27937912940979004,1.1800756454467773,1.0000001192092896
-10,Stevenage.,Broadhall Way,0.2868790626525879,0.943007230758667,0.122370645403862
-11,Charles Dickens.,Charles Dickens,0.3271200656890869,1.087662696838379,0.976762592792511
-12,"October 12, 1997.","October 12, 1997",0.3038296699523926,1.4259119033813477,0.9834024310112
-13,"David Niven won an Academy Award for Best Actor for his performance in ""Separate Tables"" (1958).",Best Actor,0.695404052734375,2.011669397354126,0.3687014877796173
-14,Rihanna.,Rihanna,0.2830498218536377,0.9943389892578125,0.9637503623962402
-15,A Midsummer Night's Dream.,Romeo and Juliet,0.3139171600341797,1.2440769672393799,0.5224126577377319
+         Norman, Oklahoma. The city had an estimated population of 120,284 in 2015.","120,284",0.3212008476257324,1.8466358184814453,0.09195207804441452,0.007339449541284404,0.007339449541284404
+2,Hertha BSC.,Hertha BSC,0.4277651309967041,1.0377745628356934,0.9868218898773193,1.0,1.0
+3,Sumner County.,Wellington,0.35400962829589844,0.9482171535491943,0.2364935427904129,0.0,0.0
+4,A Peabody Award.,Peabody Award,0.9826650619506836,1.1856215000152588,0.9178613424301147,0.8,0.8
+5,Mark van Bommel.,Mark van Bommel,0.41202592849731445,1.1938605308532715,0.9889638423919678,1.0,1.0
+6,Scott Caan.,Scott Caan,0.5185885429382324,1.1206259727478027,0.9827015399932861,1.0,1.0
+7,"Texas Tom, Just Ducky, Posse Cat, Little Runaway, Life with Tom, Mouse Trouble, and Smarty Cat were all animated shorts worked on by Irven Spence and distributed by Metro-Goldwyn-Mayer.",Tom and Jerry,0.47829699516296387,3.0627942085266113,0.49980512261390686,0.1176470588235294,0.1176470588235294
+8,Yes.,yes,1.1203720569610596,0.9685628414154053,0.836855947971344,1.0,1.0
+9,1981,1981,0.27937912940979004,1.1800756454467773,1.0000001192092896,1.0,1.0
+10,Stevenage.,Broadhall Way,0.2868790626525879,0.943007230758667,0.122370645403862,0.0,0.0
+11,Charles Dickens.,Charles Dickens,0.3271200656890869,1.087662696838379,0.976762592792511,1.0,1.0
+12,"October 12, 1997.","October 12, 1997",0.3038296699523926,1.4259119033813477,0.9834024310112,1.0,1.0
+13,"David Niven won an Academy Award for Best Actor for his performance in ""Separate Tables"" (1958).",Best Actor,0.695404052734375,2.011669397354126,0.3687014877796173,0.2222222222222222,0.2222222222222222
+14,Rihanna.,Rihanna,0.2830498218536377,0.9943389892578125,0.9637503623962402,1.0,1.0
+15,A Midsummer Night's Dream.,Romeo and Juliet,0.3139171600341797,1.2440769672393799,0.5224126577377319,0.0,0.0

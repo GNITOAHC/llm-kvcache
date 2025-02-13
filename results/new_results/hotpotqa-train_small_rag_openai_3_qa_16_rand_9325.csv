@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,"No, they are not in the same state. The Colorado River Aqueduct is in California, while the Eastside Canal is in Kern County, California.",yes,0.23080182075500488,3.110739231109619,0.08384713530540466
-1,The United States.,the United States,0.37632060050964355,0.6697587966918945,0.9500843286514282
-2,They were both writers.,writer,0.34404659271240234,0.7119345664978027,0.5271021127700806
-3,"Cibotium has 11 species, while Crowea has 3 species.",Cibotium,0.3232841491699219,1.3536758422851562,0.488295316696167
-4,"I don't see any information about Perry Hall being a county. However, I see that there is a Perry Hall in Baltimore County, Maryland, and a Perry Hall Park in Perry Barr, Birmingham, England.",third-most,0.28809165954589844,2.1475682258605957,-0.05963577330112457
-5,Jason Aldean.,Jason Aldean,0.42310309410095215,0.7213146686553955,0.9835932850837708
-6,"Angelina Grimké was the American political activist who was a supporter of the women's suffrage movement and was the wife of Theodore Dwight Weld, the author of American Slavery As It Is: Testimony of a Thousand Witnesses.",Angelina Grimké,0.3795969486236572,2.5483558177948,0.6642537117004395
-7,New York City and Philadelphia.,New York,0.7433786392211914,0.7265458106994629,0.7361066341400146
-8,University of Tennessee.,University of New Mexico,0.579235315322876,0.8127603530883789,0.6951932311058044
-9,Gerry Rafferty.,"Gerald ""Gerry"" Rafferty",0.6211259365081787,0.7955422401428223,0.8496783971786499
-10,National Collegiate Honors Council (NCHC),the New England Association of Schools and Colleges,0.2919197082519531,1.0289099216461182,0.4127967953681946
-11,Tucumán Province.,Tucumán Province,0.5533452033996582,0.833298921585083,0.9846080541610718
-12,Composer and organist.,composer,0.326556921005249,0.7243037223815918,0.7329118251800537
-13,United States.,United States,0.6086478233337402,0.7134966850280762,0.9286460876464844
-14,Mandolin.,mandolin,0.39070582389831543,0.7381715774536133,0.9651979804039001
-15,British.,Irish,0.41394805908203125,0.6174440383911133,0.5637665390968323
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,"No, they are not in the same state. The Colorado River Aqueduct is in California, while the Eastside Canal is in Kern County, California.",yes,0.23080182075500488,3.110739231109619,0.08384713530540466,0.0,0.0
+1,The United States.,the United States,0.37632060050964355,0.6697587966918945,0.9500843286514282,1.0,1.0
+2,They were both writers.,writer,0.34404659271240234,0.7119345664978027,0.5271021127700806,0.4,0.4
+3,"Cibotium has 11 species, while Crowea has 3 species.",Cibotium,0.3232841491699219,1.3536758422851562,0.488295316696167,0.19999999999999998,0.19999999999999998
+4,"I don't see any information about Perry Hall being a county. However, I see that there is a Perry Hall in Baltimore County, Maryland, and a Perry Hall Park in Perry Barr, Birmingham, England.",third-most,0.28809165954589844,2.1475682258605957,-0.05963577330112457,0.0,0.0
+5,Jason Aldean.,Jason Aldean,0.42310309410095215,0.7213146686553955,0.9835932850837708,1.0,1.0
+6,"Angelina Grimké was the American political activist who was a supporter of the women's suffrage movement and was the wife of Theodore Dwight Weld, the author of American Slavery As It Is: Testimony of a Thousand Witnesses.",Angelina Grimké,0.3795969486236572,2.5483558177948,0.6642537117004395,0.1,0.1
+7,New York City and Philadelphia.,New York,0.7433786392211914,0.7265458106994629,0.7361066341400146,0.5714285714285715,0.5714285714285715
+8,University of Tennessee.,University of New Mexico,0.579235315322876,0.8127603530883789,0.6951932311058044,0.5714285714285715,0.5714285714285715
+9,Gerry Rafferty.,"Gerald ""Gerry"" Rafferty",0.6211259365081787,0.7955422401428223,0.8496783971786499,0.8,0.8
+10,National Collegiate Honors Council (NCHC),the New England Association of Schools and Colleges,0.2919197082519531,1.0289099216461182,0.4127967953681946,0.0,0.0
+11,Tucumán Province.,Tucumán Province,0.5533452033996582,0.833298921585083,0.9846080541610718,1.0,1.0
+12,Composer and organist.,composer,0.326556921005249,0.7243037223815918,0.7329118251800537,0.5,0.5
+13,United States.,United States,0.6086478233337402,0.7134966850280762,0.9286460876464844,1.0,1.0
+14,Mandolin.,mandolin,0.39070582389831543,0.7381715774536133,0.9651979804039001,1.0,1.0
+15,British.,Irish,0.41394805908203125,0.6174440383911133,0.5637665390968323,0.0,0.0

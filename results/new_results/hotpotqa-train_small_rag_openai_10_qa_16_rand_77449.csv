@@ -1,5 +1,5 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Jim Halpert.,Jim Halpert,0.4134800434112549,3.503129005432129,0.9852889776229858
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Jim Halpert.,Jim Halpert,0.4134800434112549,3.503129005432129,0.9852889776229858,1.0,1.0
 1,"coach during the 1976 Summer Olympics and the men's head coach of the American team of the 1988 Summer Olympics. He would have been assistant coach during the 1980 Summer Olympics, but the American team did not compete due to a boycott. He was also the head coach of the 1993 World Championships in Helsinki. The American team won six gold medals and a total of 18 medals together, both the most by any nation. At the 1988 Summer Olympics the American team won seven gold medals, the most in track and field for any nation. He was elected to the National Track and Field Hall of Fame in 2004.
 
 Jorge González (sport shooter): 
@@ -104,18 +104,18 @@ Mr. Meeble is an electronic rock band from Phoenix, Arizona formed in late 2005 
         The Carl Albert Congressional Research and Studies Center is located in a city that had how many inhabitants in 2015?
         
         assistant
-         120,284.","120,284",0.3653395175933838,2.088238000869751,0.09195207804441452
-2,Chemnitzer FC,Hertha BSC,0.5291543006896973,2.306612730026245,0.20524916052818298
-3,Wellington.,Wellington,0.29154419898986816,2.0927224159240723,0.9697333574295044
-4,Peabody Award.,Peabody Award,0.3557722568511963,2.537940740585327,0.972626268863678
-5,Mark van Bommel.,Mark van Bommel,0.35486936569213867,2.3596110343933105,0.9889638423919678
-6,Scott Caan.,Scott Caan,0.3200066089630127,2.5647244453430176,0.9827015399932861
-7,"Little Runaway, Life with Tom, Mouse Trouble, and Posse Cat were animated shorts worked on by Irven Spence and distributed by Metro-Goldwyn-Mayer.",Tom and Jerry,0.38826656341552734,4.383027076721191,0.36196011304855347
-8,Yes.,yes,0.2464442253112793,2.4050354957580566,0.836855947971344
-9,1981,1981,0.4716148376464844,2.376540422439575,1.0000001192092896
-10,Stevenage.,Broadhall Way,0.2870326042175293,2.1748292446136475,0.122370645403862
-11,Charles Dickens.,Charles Dickens,1.318460464477539,2.3696036338806152,0.976762592792511
-12,"October 12, 1997.","October 12, 1997",0.269315242767334,2.657601833343506,0.9834024310112
-13,"David Niven won the Academy Award for Best Actor for his performance in ""Separate Tables"" (1958).",Best Actor,0.6053211688995361,3.596466064453125,0.3797290325164795
-14,Rihanna.,Rihanna,0.33484387397766113,2.4219753742218018,0.9637503623962402
-15,A Midsummer Night's Dream.,Romeo and Juliet,0.4309425354003906,2.6775832176208496,0.5224126577377319
+         120,284.","120,284",0.3653395175933838,2.088238000869751,0.09195207804441452,0.001404001404001404,0.001404001404001404
+2,Chemnitzer FC,Hertha BSC,0.5291543006896973,2.306612730026245,0.20524916052818298,0.0,0.0
+3,Wellington.,Wellington,0.29154419898986816,2.0927224159240723,0.9697333574295044,1.0,1.0
+4,Peabody Award.,Peabody Award,0.3557722568511963,2.537940740585327,0.972626268863678,1.0,1.0
+5,Mark van Bommel.,Mark van Bommel,0.35486936569213867,2.3596110343933105,0.9889638423919678,1.0,1.0
+6,Scott Caan.,Scott Caan,0.3200066089630127,2.5647244453430176,0.9827015399932861,1.0,1.0
+7,"Little Runaway, Life with Tom, Mouse Trouble, and Posse Cat were animated shorts worked on by Irven Spence and distributed by Metro-Goldwyn-Mayer.",Tom and Jerry,0.38826656341552734,4.383027076721191,0.36196011304855347,0.14814814814814814,0.14814814814814814
+8,Yes.,yes,0.2464442253112793,2.4050354957580566,0.836855947971344,1.0,1.0
+9,1981,1981,0.4716148376464844,2.376540422439575,1.0000001192092896,1.0,1.0
+10,Stevenage.,Broadhall Way,0.2870326042175293,2.1748292446136475,0.122370645403862,0.0,0.0
+11,Charles Dickens.,Charles Dickens,1.318460464477539,2.3696036338806152,0.976762592792511,1.0,1.0
+12,"October 12, 1997.","October 12, 1997",0.269315242767334,2.657601833343506,0.9834024310112,1.0,1.0
+13,"David Niven won the Academy Award for Best Actor for his performance in ""Separate Tables"" (1958).",Best Actor,0.6053211688995361,3.596466064453125,0.3797290325164795,0.2222222222222222,0.2222222222222222
+14,Rihanna.,Rihanna,0.33484387397766113,2.4219753742218018,0.9637503623962402,1.0,1.0
+15,A Midsummer Night's Dream.,Romeo and Juliet,0.4309425354003906,2.6775832176208496,0.5224126577377319,0.0,0.0

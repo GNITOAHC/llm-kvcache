@@ -1,5 +1,5 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,1911,1911,0.29193878173828125,2.916935443878174,1.0
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,1911,1911,0.29193878173828125,2.916935443878174,1.0,1.0,1.0
 1,"coach. The club has taken park in many tournaments and state final matches in Georgia and the Southeast United States. A major goal of the Trojans Rugby Football Club is to teach and play the sport of rugby in the United States. This is a great struggle throughout Georgia because of opposition from the high school's football coaches and athletic directors. The club plays the most common version of rugby, called rugby union but often just referred to as rugby. Although the club plays by rugby union rules, they also play by the rules of the International Rugby Board (IRB) for those under 19 years of age. In the summer of 2011, the Trojan Rugby Football Club took part in another version of rugby called rugby sevens. This variation of rugby is faster paced, with the same size fields but fewer people, and shorter half lengths.
 
 Western Wolves FC: 
@@ -38,18 +38,18 @@ since April 30, 2005, and its unit chief executive officer since March 2005. He 
          Anthony John Abbott has been a member of parliament for an Australian division in which state?
         
         assistant
-         New South Wales.",New South Wales,0.2779195308685303,2.258324384689331,0.1683710217475891
-2,Media Ventures.,Media Ventures,0.2790946960449219,2.026238441467285,0.9605284929275513
-3,Gibraltarian.,Gibraltarian,0.3961005210876465,2.3151168823242188,0.9799712896347046
-4,"Russell Peters was introduced to the stage by Melle Mel, the lead rapper for Grandmaster Flash and the Furious Five.",Grandmaster Flash and the Furious Five,0.9468874931335449,3.2855589389801025,0.5785213708877563
-5,1990,1978,0.22189712524414062,2.105299472808838,0.6290974617004395
-6,CBS Corporation.,Leslie Moonves,2.919975757598877,2.1485648155212402,0.1943950057029724
-7,Shenandoah National Park.,the Blue Ridge Mountains,0.3277764320373535,2.3382327556610107,0.3344058394432068
-8,New Jersey.,New Jersey,0.3644592761993408,2.1857218742370605,0.9690638780593872
-9,"No, Air Traffic is from England, while OneRepublic is from the United States.",no,0.5826461315155029,2.8332154750823975,0.21114878356456757
-10,David Grisman.,Acoustic Disc,0.43494415283203125,2.442561388015747,0.01178978756070137
-11,Lily Rabe,Lily Rabe,0.32657670974731445,2.251528739929199,1.000000238418579
-12,"""Every Breath You Take""","""Just Be Good to Me""",0.9315509796142578,2.055448055267334,0.2708219885826111
-13,The Dark Knight.,The Dark Knight,0.2850923538208008,2.0995612144470215,0.971114456653595
-14,"Jenny Sarah Slate appeared in ""Bob's Burgers"".",Bob's Burgers,0.2884707450866699,2.743541717529297,0.6072921752929688
-15,"Betty Lou Bredemus, Julia Roberts' mother, was born first, on August 13, 1934.",Julie Anne Wagner,0.36948323249816895,3.4498322010040283,0.2164396196603775
+         New South Wales.",New South Wales,0.2779195308685303,2.258324384689331,0.1683710217475891,0.0037998733375554147,0.0037998733375554147
+2,Media Ventures.,Media Ventures,0.2790946960449219,2.026238441467285,0.9605284929275513,1.0,1.0
+3,Gibraltarian.,Gibraltarian,0.3961005210876465,2.3151168823242188,0.9799712896347046,1.0,1.0
+4,"Russell Peters was introduced to the stage by Melle Mel, the lead rapper for Grandmaster Flash and the Furious Five.",Grandmaster Flash and the Furious Five,0.9468874931335449,3.2855589389801025,0.5785213708877563,0.4615384615384615,0.4615384615384615
+5,1990,1978,0.22189712524414062,2.105299472808838,0.6290974617004395,0.0,0.0
+6,CBS Corporation.,Leslie Moonves,2.919975757598877,2.1485648155212402,0.1943950057029724,0.0,0.0
+7,Shenandoah National Park.,the Blue Ridge Mountains,0.3277764320373535,2.3382327556610107,0.3344058394432068,0.0,0.0
+8,New Jersey.,New Jersey,0.3644592761993408,2.1857218742370605,0.9690638780593872,1.0,1.0
+9,"No, Air Traffic is from England, while OneRepublic is from the United States.",no,0.5826461315155029,2.8332154750823975,0.21114878356456757,0.14285714285714288,0.14285714285714288
+10,David Grisman.,Acoustic Disc,0.43494415283203125,2.442561388015747,0.01178978756070137,0.0,0.0
+11,Lily Rabe,Lily Rabe,0.32657670974731445,2.251528739929199,1.000000238418579,1.0,1.0
+12,"""Every Breath You Take""","""Just Be Good to Me""",0.9315509796142578,2.055448055267334,0.2708219885826111,0.0,0.0
+13,The Dark Knight.,The Dark Knight,0.2850923538208008,2.0995612144470215,0.971114456653595,1.0,1.0
+14,"Jenny Sarah Slate appeared in ""Bob's Burgers"".",Bob's Burgers,0.2884707450866699,2.743541717529297,0.6072921752929688,0.5454545454545454,0.5454545454545454
+15,"Betty Lou Bredemus, Julia Roberts' mother, was born first, on August 13, 1934.",Julie Anne Wagner,0.36948323249816895,3.4498322010040283,0.2164396196603775,0.0,0.0

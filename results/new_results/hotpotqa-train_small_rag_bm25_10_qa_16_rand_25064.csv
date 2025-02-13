@@ -1,19 +1,19 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,"July 8, 2013.","July 8, 2013",0.0014760494232177734,3.6602203845977783,0.9783233404159546
-1,Lee Harvey Oswald.,Lee Harvey Oswald,0.0014870166778564453,1.344308614730835,0.9803491830825806
-2,"No, Upper Crust Pizzeria had 7 locations, but Fellini's Pizza also has 7 locations.",yes,0.001341104507446289,2.304838180541992,0.18171486258506775
-3,Left-handed.,right-handed,0.0012402534484863281,1.1945090293884277,0.9499926567077637
-4,"Yes, both Chernobyl Heart and Bridegroom won an award at the Academy Awards.",no,0.0015480518341064453,1.9316649436950684,0.1652657389640808
-5,Rosebud County.,Rosebud County,0.001192331314086914,1.1950087547302246,0.987901508808136
-6,Christus (also known as Christus Consolator),Christus,0.0013606548309326172,1.671128273010254,0.7694530487060547
-7,A Christmas Carol.,A Christmas Carol,0.0013043880462646484,1.2434215545654297,0.9813527464866638
-8,Lady and the Tramp.,Lady and the Tramp,0.0012350082397460938,1.3917112350463867,0.9872393012046814
-9,World Boxing Organization (WBO),"San Juan, Puerto Rico",0.0012853145599365234,1.2071053981781006,0.13438265025615692
-10,"Footscray, Australia.","Footscray, Australia",0.001210927963256836,1.2905755043029785,0.9808946847915649
-11,"No, they play different sports. Ray Ruffels is a former professional tennis player, while Peter Curtis is a former Australian rules footballer.",yes,0.0013194084167480469,2.450758218765259,0.19048812985420227
-12,Filegate.,Filegate,0.001466512680053711,1.283024787902832,0.9657611846923828
-13,"""Catch-22""","""Catch-22""",0.0013718605041503906,1.361022710800171,1.0
-14,The Dark Crystal.,The Dark Crystal,0.001375436782836914,1.2362606525421143,0.9738848209381104
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,"July 8, 2013.","July 8, 2013",0.0014760494232177734,3.6602203845977783,0.9783233404159546,1.0,1.0
+1,Lee Harvey Oswald.,Lee Harvey Oswald,0.0014870166778564453,1.344308614730835,0.9803491830825806,1.0,1.0
+2,"No, Upper Crust Pizzeria had 7 locations, but Fellini's Pizza also has 7 locations.",yes,0.001341104507446289,2.304838180541992,0.18171486258506775,0.0,0.0
+3,Left-handed.,right-handed,0.0012402534484863281,1.1945090293884277,0.9499926567077637,0.5,0.5
+4,"Yes, both Chernobyl Heart and Bridegroom won an award at the Academy Awards.",no,0.0015480518341064453,1.9316649436950684,0.1652657389640808,0.0,0.0
+5,Rosebud County.,Rosebud County,0.001192331314086914,1.1950087547302246,0.987901508808136,1.0,1.0
+6,Christus (also known as Christus Consolator),Christus,0.0013606548309326172,1.671128273010254,0.7694530487060547,0.2857142857142857,0.2857142857142857
+7,A Christmas Carol.,A Christmas Carol,0.0013043880462646484,1.2434215545654297,0.9813527464866638,1.0,1.0
+8,Lady and the Tramp.,Lady and the Tramp,0.0012350082397460938,1.3917112350463867,0.9872393012046814,1.0,1.0
+9,World Boxing Organization (WBO),"San Juan, Puerto Rico",0.0012853145599365234,1.2071053981781006,0.13438265025615692,0.0,0.0
+10,"Footscray, Australia.","Footscray, Australia",0.001210927963256836,1.2905755043029785,0.9808946847915649,1.0,1.0
+11,"No, they play different sports. Ray Ruffels is a former professional tennis player, while Peter Curtis is a former Australian rules footballer.",yes,0.0013194084167480469,2.450758218765259,0.19048812985420227,0.0,0.0
+12,Filegate.,Filegate,0.001466512680053711,1.283024787902832,0.9657611846923828,1.0,1.0
+13,"""Catch-22""","""Catch-22""",0.0013718605041503906,1.361022710800171,1.0,1.0,1.0
+14,The Dark Crystal.,The Dark Crystal,0.001375436782836914,1.2362606525421143,0.9738848209381104,1.0,1.0
 15,"coach in June 2008 and became head coach in May 2009. During his tenure, the Impact won the inaugural Canadian Championship in 2008 to claim the Voyageurs Cup and a berth in the 2008-09 CONCACAF Champions League. Dos Santos then led Montreal through three different leagues in consecutive campaigns, winning the USL First Division title in 2009 before transitioning into USSF Division 2 in 2010 and the North American Soccer League in 2011.
 
 2015 Canada Cup of Curling: 
@@ -92,4 +92,4 @@ California-style pizza (also known as California pizza or Gourmet pizza) is a st
         What is the population of the city which hosted the 2004 Open Canada Cup?
         
         assistant
-         The population of London, Ontario, which hosted the 2004 Open Canada Cup, is 383,822 according to the 2016 Canadian census.","383,822",0.0012054443359375,2.5870540142059326,-0.040144577622413635
+         The population of London, Ontario, which hosted the 2004 Open Canada Cup, is 383,822 according to the 2016 Canadian census.","383,822",0.0012054443359375,2.5870540142059326,-0.040144577622413635,0.001823985408116735,0.001823985408116735

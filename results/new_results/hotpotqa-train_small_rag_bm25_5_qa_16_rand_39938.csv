@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Michael McCormack.,Michael Francis McCormack,0.0010521411895751953,1.7987394332885742,0.9317694306373596
-1,A Man Escaped.,A Man Escaped,0.0011456012725830078,0.7128877639770508,0.9951464533805847
-2,Dan Law Field at Rip Griffin Park.,Dan Law Field at Rip Griffin Park,0.0011305809020996094,0.7936737537384033,0.9912668466567993
-3,Herbert Beerbohm Tree.,Sir Herbert Beerbohm Tree,0.0010488033294677734,0.7219126224517822,0.936369001865387
-4,The novel is from 1995 and the film was released in 2013. Virginia Madsen made her film debut in 1983.,1983,0.0011000633239746094,1.6721465587615967,0.3616427481174469
-5,Jean Sibelius.,Jean Sibelius,0.0010063648223876953,0.6828482151031494,0.9827800393104553
-6,"The magazine is ""Modern Drummer"" and it features interviews, equipment reviews, and columns offering advice on technique, as well as information for the general public.","interviews, equipment reviews, and columns offering advice on technique, as well as information for the general public",0.00107574462890625,1.7938194274902344,0.5112061500549316
-7,Flight of the Navigator (1986) was made before Do Dooni Chaar (2010).,Flight of the Navigator,0.0009462833404541016,1.2720115184783936,0.6586613655090332
-8,Brazzers.,Brazzers,0.0010540485382080078,0.6289174556732178,0.9725273847579956
-9,Miracle of the White Stallions (1963) was released before Cool Runnings (1993).,Miracle of the White Stallions,0.000993967056274414,1.3001234531402588,0.7081924676895142
-10,"No, Heuchera is native to North America, while Apophyllum is native to Australia.",no,0.0009522438049316406,1.3187830448150635,0.06110982596874237
-11,Hanover College.,Hanover College,0.0010743141174316406,0.6760649681091309,0.9807752966880798
-12,Nobel Prize in Physics.,Nobel Prize in Physics,0.0009899139404296875,0.7191858291625977,0.9603725671768188
-13,Mikkel Nørgaard.,Mikkel Nørgaard,0.001104593276977539,0.8508346080780029,0.9842604994773865
-14,Count Basie.,Count Basie,0.0009472370147705078,0.6410496234893799,0.9839087128639221
-15,Victory Through Air Power.,Victory Through Air Power,0.0010428428649902344,0.7249491214752197,0.9528468251228333
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Michael McCormack.,Michael Francis McCormack,0.0010521411895751953,1.7987394332885742,0.9317694306373596,0.8,0.8
+1,A Man Escaped.,A Man Escaped,0.0011456012725830078,0.7128877639770508,0.9951464533805847,1.0,1.0
+2,Dan Law Field at Rip Griffin Park.,Dan Law Field at Rip Griffin Park,0.0011305809020996094,0.7936737537384033,0.9912668466567993,1.0,1.0
+3,Herbert Beerbohm Tree.,Sir Herbert Beerbohm Tree,0.0010488033294677734,0.7219126224517822,0.936369001865387,0.8571428571428571,0.8571428571428571
+4,The novel is from 1995 and the film was released in 2013. Virginia Madsen made her film debut in 1983.,1983,0.0011000633239746094,1.6721465587615967,0.3616427481174469,0.09523809523809523,0.09523809523809523
+5,Jean Sibelius.,Jean Sibelius,0.0010063648223876953,0.6828482151031494,0.9827800393104553,1.0,1.0
+6,"The magazine is ""Modern Drummer"" and it features interviews, equipment reviews, and columns offering advice on technique, as well as information for the general public.","interviews, equipment reviews, and columns offering advice on technique, as well as information for the general public",0.00107574462890625,1.7938194274902344,0.5112061500549316,0.8095238095238095,0.8095238095238095
+7,Flight of the Navigator (1986) was made before Do Dooni Chaar (2010).,Flight of the Navigator,0.0009462833404541016,1.2720115184783936,0.6586613655090332,0.5,0.5
+8,Brazzers.,Brazzers,0.0010540485382080078,0.6289174556732178,0.9725273847579956,1.0,1.0
+9,Miracle of the White Stallions (1963) was released before Cool Runnings (1993).,Miracle of the White Stallions,0.000993967056274414,1.3001234531402588,0.7081924676895142,0.5882352941176471,0.5882352941176471
+10,"No, Heuchera is native to North America, while Apophyllum is native to Australia.",no,0.0009522438049316406,1.3187830448150635,0.06110982596874237,0.14285714285714288,0.14285714285714288
+11,Hanover College.,Hanover College,0.0010743141174316406,0.6760649681091309,0.9807752966880798,1.0,1.0
+12,Nobel Prize in Physics.,Nobel Prize in Physics,0.0009899139404296875,0.7191858291625977,0.9603725671768188,1.0,1.0
+13,Mikkel Nørgaard.,Mikkel Nørgaard,0.001104593276977539,0.8508346080780029,0.9842604994773865,1.0,1.0
+14,Count Basie.,Count Basie,0.0009472370147705078,0.6410496234893799,0.9839087128639221,1.0,1.0
+15,Victory Through Air Power.,Victory Through Air Power,0.0010428428649902344,0.7249491214752197,0.9528468251228333,1.0,1.0

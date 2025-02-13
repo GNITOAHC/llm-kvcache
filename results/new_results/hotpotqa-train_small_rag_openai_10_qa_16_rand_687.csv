@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,New York.,New York,0.27928662300109863,3.3471291065216064,0.9648565053939819
-1,Johannes Longinus,Johannes Longinus,0.42236948013305664,1.9659953117370605,0.9999999403953552
-2,"""U Can't Touch This""",U Can't Touch This,0.40387582778930664,2.298102617263794,0.7539971470832825
-3,English.,English,0.33101439476013184,2.3608036041259766,0.9305142164230347
-4,"Pennsylvania State University was founded in 1855, while the University of East Anglia was founded in 1963.",Pennsylvania State University,0.30864882469177246,3.530862331390381,0.6435672044754028
-5,2013.,"March 21, 1985",1.1630609035491943,2.278367280960083,0.3582780957221985
-6,Todd Phillips.,Todd Phillips,0.40369439125061035,2.306056261062622,0.9849976897239685
-7,Lil Dicky.,Chris Brown,0.7337696552276611,1.8750572204589844,0.3593020439147949
-8,They are both types of flowering plants.,genus,0.36136603355407715,2.2717363834381104,0.3589128255844116
-9,Road Kings,Road Kings,0.6303753852844238,2.4155943393707275,1.0000001192092896
-10,Yes.,yes,0.3746988773345947,2.358776807785034,0.836855947971344
-11,Yes.,yes,0.39368510246276855,2.196841239929199,0.836855947971344
-12,"The Rahmi M. Koç Museum opened first in 1994, while the Endem TV Tower was built between 1998 and 2002.",Rahmi M. Koç Museum,0.6056358814239502,4.018705606460571,0.6876896619796753
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,New York.,New York,0.27928662300109863,3.3471291065216064,0.9648565053939819,1.0,1.0
+1,Johannes Longinus,Johannes Longinus,0.42236948013305664,1.9659953117370605,0.9999999403953552,1.0,1.0
+2,"""U Can't Touch This""",U Can't Touch This,0.40387582778930664,2.298102617263794,0.7539971470832825,1.0,1.0
+3,English.,English,0.33101439476013184,2.3608036041259766,0.9305142164230347,1.0,1.0
+4,"Pennsylvania State University was founded in 1855, while the University of East Anglia was founded in 1963.",Pennsylvania State University,0.30864882469177246,3.530862331390381,0.6435672044754028,0.3,0.3
+5,2013.,"March 21, 1985",1.1630609035491943,2.278367280960083,0.3582780957221985,0.0,0.0
+6,Todd Phillips.,Todd Phillips,0.40369439125061035,2.306056261062622,0.9849976897239685,1.0,1.0
+7,Lil Dicky.,Chris Brown,0.7337696552276611,1.8750572204589844,0.3593020439147949,0.0,0.0
+8,They are both types of flowering plants.,genus,0.36136603355407715,2.2717363834381104,0.3589128255844116,0.0,0.0
+9,Road Kings,Road Kings,0.6303753852844238,2.4155943393707275,1.0000001192092896,1.0,1.0
+10,Yes.,yes,0.3746988773345947,2.358776807785034,0.836855947971344,1.0,1.0
+11,Yes.,yes,0.39368510246276855,2.196841239929199,0.836855947971344,1.0,1.0
+12,"The Rahmi M. Koç Museum opened first in 1994, while the Endem TV Tower was built between 1998 and 2002.",Rahmi M. Koç Museum,0.6056358814239502,4.018705606460571,0.6876896619796753,0.33333333333333337,0.33333333333333337
 13,"coach for the Miami Heat of the National Basketball Association (NBA). Howard formerly played for the Heat from 2010 until 2013. A one-time All-Star and one-time All-NBA power forward, he began his NBA career as the fifth overall pick in the 1994 NBA draft, selected by the Washington Bullets. Before he was drafted, he starred as an All-American on the Michigan Wolverines men's basketball team. At Michigan he was part of the Fab Five recruiting class of 1991 that reached the finals of the National Collegiate Athletic Association (NCAA) Men's Division I Basketball Championship in 1992 and 1993. Howard won his first NBA championship with Miami in the 2012 NBA Finals and his second NBA championship in the 2013 NBA Finals.
 
 2012 NBA Finals: 
@@ -123,6 +123,6 @@ Rædwald (Old English: ""Rædwald"" ], 'power in counsel'), also written as Raed
         Which team won the European Cup Final in which Helmut Winklhofer played?
         
         assistant
-         Bayern Munich",Porto,0.41483068466186523,1.8265793323516846,0.060504816472530365
-14,The Dallas Mavericks.,Oklahoma City Thunder,0.2588982582092285,2.0502636432647705,0.4496898651123047
-15,"Philip Saville was born on October 28, 1930, and Christophe Gans was born on March 11, 1960, so Philip Saville was born first.",Philip Saville,0.3010735511779785,4.467230319976807,0.6464529037475586
+         Bayern Munich",Porto,0.41483068466186523,1.8265793323516846,0.060504816472530365,0.0,0.0
+14,The Dallas Mavericks.,Oklahoma City Thunder,0.2588982582092285,2.0502636432647705,0.4496898651123047,0.0,0.0
+15,"Philip Saville was born on October 28, 1930, and Christophe Gans was born on March 11, 1960, so Philip Saville was born first.",Philip Saville,0.3010735511779785,4.467230319976807,0.6464529037475586,0.16,0.16

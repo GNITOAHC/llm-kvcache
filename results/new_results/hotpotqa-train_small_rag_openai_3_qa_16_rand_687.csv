@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,New York.,New York,0.2716331481933594,1.861523151397705,0.9648565053939819
-1,"Johannes Longinus was the tutor of Casimir Jagiellon, the person San Casimiro is named after.",Johannes Longinus,0.27576112747192383,1.3857450485229492,0.5911226272583008
-2,"""U Can't Touch This""",U Can't Touch This,0.29668450355529785,0.7920138835906982,0.7539971470832825
-3,English.,English,0.35077619552612305,0.6016700267791748,0.9305142164230347
-4,"Pennsylvania State University was founded in 1855, while the University of East Anglia was founded in 1963.",Pennsylvania State University,0.2790389060974121,1.5563132762908936,0.6435672044754028
-5,2013.,"March 21, 1985",1.0237095355987549,0.6760590076446533,0.3582780957221985
-6,"Todd Phillips directed the 2016 film ""War Dogs"".",Todd Phillips,0.3337690830230713,1.0728578567504883,0.48042547702789307
-7,Lil Dicky.,Chris Brown,0.26344728469848633,0.6782536506652832,0.3593020439147949
-8,They are both types of flowering plants.,genus,0.24025964736938477,0.6764833927154541,0.3589128255844116
-9,Road Kings,Road Kings,0.36310315132141113,0.6057591438293457,1.0000001192092896
-10,Yes.,yes,0.3523566722869873,0.6916201114654541,0.836855947971344
-11,Yes.,yes,0.32596421241760254,0.684377908706665,0.836855947971344
-12,The Rahmi M. Koç Museum opened first in 1994.,Rahmi M. Koç Museum,0.5585663318634033,1.1114344596862793,0.8261754512786865
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,New York.,New York,0.2716331481933594,1.861523151397705,0.9648565053939819,1.0,1.0
+1,"Johannes Longinus was the tutor of Casimir Jagiellon, the person San Casimiro is named after.",Johannes Longinus,0.27576112747192383,1.3857450485229492,0.5911226272583008,0.23529411764705882,0.23529411764705882
+2,"""U Can't Touch This""",U Can't Touch This,0.29668450355529785,0.7920138835906982,0.7539971470832825,1.0,1.0
+3,English.,English,0.35077619552612305,0.6016700267791748,0.9305142164230347,1.0,1.0
+4,"Pennsylvania State University was founded in 1855, while the University of East Anglia was founded in 1963.",Pennsylvania State University,0.2790389060974121,1.5563132762908936,0.6435672044754028,0.3,0.3
+5,2013.,"March 21, 1985",1.0237095355987549,0.6760590076446533,0.3582780957221985,0.0,0.0
+6,"Todd Phillips directed the 2016 film ""War Dogs"".",Todd Phillips,0.3337690830230713,1.0728578567504883,0.48042547702789307,0.4,0.4
+7,Lil Dicky.,Chris Brown,0.26344728469848633,0.6782536506652832,0.3593020439147949,0.0,0.0
+8,They are both types of flowering plants.,genus,0.24025964736938477,0.6764833927154541,0.3589128255844116,0.0,0.0
+9,Road Kings,Road Kings,0.36310315132141113,0.6057591438293457,1.0000001192092896,1.0,1.0
+10,Yes.,yes,0.3523566722869873,0.6916201114654541,0.836855947971344,1.0,1.0
+11,Yes.,yes,0.32596421241760254,0.684377908706665,0.836855947971344,1.0,1.0
+12,The Rahmi M. Koç Museum opened first in 1994.,Rahmi M. Koç Museum,0.5585663318634033,1.1114344596862793,0.8261754512786865,0.6153846153846153,0.6153846153846153
 13,"coach for the Miami Heat of the National Basketball Association (NBA). Howard formerly played for the Heat from 2010 until 2013. A one-time All-Star and one-time All-NBA power forward, he began his NBA career as the fifth overall pick in the 1994 NBA draft, selected by the Washington Bullets. Before he was drafted, he starred as an All-American on the Michigan Wolverines men's basketball team. At Michigan he was part of the Fab Five recruiting class of 1991 that reached the finals of the National Collegiate Athletic Association (NCAA) Men's Division I Basketball Championship in 1992 and 1993. Howard won his first NBA championship with Miami in the 2012 NBA Finals and his second NBA championship in the 2013 NBA Finals.
 
 2012 NBA Finals: 
@@ -31,6 +31,6 @@ The 1994–95 NBA season was the Bullets' 34th season in the National Basketball
         Which team won the European Cup Final in which Helmut Winklhofer played?
         
         assistant
-         Bayern Munich.",Porto,0.29532909393310547,0.6963157653808594,0.060504816472530365
-14,Miami Heat.,Oklahoma City Thunder,0.42015862464904785,0.600736141204834,0.38785067200660706
-15,"Philip Saville was born on October 28, 1930, and Christophe Gans was born on March 11, 1960, so Philip Saville was born first.",Philip Saville,0.8286521434783936,2.1732935905456543,0.6464529037475586
+         Bayern Munich.",Porto,0.29532909393310547,0.6963157653808594,0.060504816472530365,0.0,0.0
+14,Miami Heat.,Oklahoma City Thunder,0.42015862464904785,0.600736141204834,0.38785067200660706,0.0,0.0
+15,"Philip Saville was born on October 28, 1930, and Christophe Gans was born on March 11, 1960, so Philip Saville was born first.",Philip Saville,0.8286521434783936,2.1732935905456543,0.6464529037475586,0.16,0.16

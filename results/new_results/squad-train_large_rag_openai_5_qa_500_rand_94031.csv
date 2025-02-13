@@ -1,37 +1,37 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,16,16,0.5522513389587402,2.966202974319458,1.0
-1,By breathing in fumes or skin absorption.,fumes or skin,0.2705039978027344,1.572237491607666,0.5810143947601318
-2,Yellow and orange.,yellow and orange,0.32970094680786133,1.1221599578857422,0.9773666858673096
-3,"Because of the lack of formal agreements and transparency in information sharing, making it difficult to hold institutions accountable.",this is a secretive area and one not open to civil society involvement,0.3129923343658447,2.2821097373962402,0.29405421018600464
-4,Bitumen.,tar,0.31345653533935547,1.0425326824188232,0.37663981318473816
-5,Message.,channel (through which medium),0.6671493053436279,0.863828182220459,0.04526205733418465
-6,"In the UK, Australia, and other countries, it is commonly referred to as ""bitumen"".",bitumen,0.7176873683929443,1.8485674858093262,0.7462263107299805
-7,"Alberta, Canada.",Northern Alberta,0.4344804286956787,1.3528175354003906,0.7942790389060974
-8,1912.,1912,0.5185050964355469,1.3708484172821045,0.9596837759017944
-9,"1,000 troops.","1,000 troops and their supporting vehicles",0.3409743309020996,1.4789209365844727,0.8493969440460205
-10,Carrier-launched aircraft were more effective than naval guns due to their superior range and precision.,They had higher range and precision,0.32228970527648926,2.132343053817749,0.5765751600265503
-11,3 years.,3 years,1.1097006797790527,1.3805253505706787,0.9512752294540405
-12,8-17% (insoluble matter) and 83-92% (soluble in carbon disulphide).,83% to 92%,0.31830787658691406,2.520529270172119,0.3944617807865143
-13,River Plate,River Plate,0.31026220321655273,1.0310146808624268,1.0000001192092896
-14,1918.,1918,0.306018590927124,1.3748674392700195,0.9612902998924255
-15,June 1982.,June 1982,0.4074137210845947,1.4391846656799316,0.980152428150177
-16,The Era of Fragmentation.,Era of Fragmentation,0.4107983112335205,1.2283830642700195,0.9702173471450806
-17,People who supported the abolition of slavery.,people who supported abolition of slavery,0.40552830696105957,1.5109736919403076,0.9694189429283142
-18,Christianity was used by some Tibetan monarchs to counterbalance the influence of the Gelugpa sect in the 17th century.,counterbalance the influence of the Gelugpa sect,0.2932593822479248,2.546556234359741,0.6390181183815002
-19,"The constraints of constructing a flight deck affect the role of a carrier by influencing the weight, type, and configuration of the aircraft that may be launched.","they influence the weight, type, and configuration of the aircraft that may be launched",0.3927958011627197,2.4291272163391113,0.6480206251144409
-20,"100,000.","100,000",0.4031698703765869,1.461226463317871,0.9634648561477661
-21,Roofs.,roofs,0.5940463542938232,1.3284077644348145,0.9602362513542175
-22,5%,5%,0.3505895137786865,1.0387167930603027,1.0
-23,Another person or being.,another person or being,0.3082010746002197,1.009300708770752,0.9725792407989502
-24,Police are a public sector service.,public sector,0.2605440616607666,1.2730469703674316,0.6423329710960388
-25,Tibetan or Sanskrit.,Tibetan or Sanskrit,1.0423040390014648,1.0203468799591064,0.9727386832237244
-26,"16,000 ft.","16,000",0.3697230815887451,1.232715129852295,0.6458567976951599
-27,"The club was in decline, and managers came and went.",decline,0.3226141929626465,1.8236844539642334,0.5200982689857483
-28,Esperanto.,programming languages,0.3120396137237549,0.9200692176818848,0.26650920510292053
-29,Rotor blades.,hover,0.3551206588745117,1.3733994960784912,0.35180941224098206
-30,1774.,1774,0.34764933586120605,1.12300443649292,0.9730980396270752
-31,The question is not present in the given context.,War of the Castilian Succession,0.30556535720825195,1.677860975265503,0.03404943645000458
-32,Liberia is divided into 15 counties.,fifteen,0.32426023483276367,1.2338080406188965,0.28448712825775146
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,16,16,0.5522513389587402,2.966202974319458,1.0,1.0,1.0
+1,By breathing in fumes or skin absorption.,fumes or skin,0.2705039978027344,1.572237491607666,0.5810143947601318,0.6,0.6
+2,Yellow and orange.,yellow and orange,0.32970094680786133,1.1221599578857422,0.9773666858673096,1.0,1.0
+3,"Because of the lack of formal agreements and transparency in information sharing, making it difficult to hold institutions accountable.",this is a secretive area and one not open to civil society involvement,0.3129923343658447,2.2821097373962402,0.29405421018600464,0.125,0.125
+4,Bitumen.,tar,0.31345653533935547,1.0425326824188232,0.37663981318473816,0.0,0.0
+5,Message.,channel (through which medium),0.6671493053436279,0.863828182220459,0.04526205733418465,0.0,0.0
+6,"In the UK, Australia, and other countries, it is commonly referred to as ""bitumen"".",bitumen,0.7176873683929443,1.8485674858093262,0.7462263107299805,0.13333333333333333,0.13333333333333333
+7,"Alberta, Canada.",Northern Alberta,0.4344804286956787,1.3528175354003906,0.7942790389060974,0.5,0.5
+8,1912.,1912,0.5185050964355469,1.3708484172821045,0.9596837759017944,1.0,1.0
+9,"1,000 troops.","1,000 troops and their supporting vehicles",0.3409743309020996,1.4789209365844727,0.8493969440460205,0.6,0.6
+10,Carrier-launched aircraft were more effective than naval guns due to their superior range and precision.,They had higher range and precision,0.32228970527648926,2.132343053817749,0.5765751600265503,0.2727272727272727,0.2727272727272727
+11,3 years.,3 years,1.1097006797790527,1.3805253505706787,0.9512752294540405,1.0,1.0
+12,8-17% (insoluble matter) and 83-92% (soluble in carbon disulphide).,83% to 92%,0.31830787658691406,2.520529270172119,0.3944617807865143,0.28571428571428575,0.28571428571428575
+13,River Plate,River Plate,0.31026220321655273,1.0310146808624268,1.0000001192092896,1.0,1.0
+14,1918.,1918,0.306018590927124,1.3748674392700195,0.9612902998924255,1.0,1.0
+15,June 1982.,June 1982,0.4074137210845947,1.4391846656799316,0.980152428150177,1.0,1.0
+16,The Era of Fragmentation.,Era of Fragmentation,0.4107983112335205,1.2283830642700195,0.9702173471450806,0.8571428571428571,0.8571428571428571
+17,People who supported the abolition of slavery.,people who supported abolition of slavery,0.40552830696105957,1.5109736919403076,0.9694189429283142,0.923076923076923,0.923076923076923
+18,Christianity was used by some Tibetan monarchs to counterbalance the influence of the Gelugpa sect in the 17th century.,counterbalance the influence of the Gelugpa sect,0.2932593822479248,2.546556234359741,0.6390181183815002,0.5384615384615384,0.5384615384615384
+19,"The constraints of constructing a flight deck affect the role of a carrier by influencing the weight, type, and configuration of the aircraft that may be launched.","they influence the weight, type, and configuration of the aircraft that may be launched",0.3927958011627197,2.4291272163391113,0.6480206251144409,0.6341463414634146,0.6341463414634146
+20,"100,000.","100,000",0.4031698703765869,1.461226463317871,0.9634648561477661,1.0,1.0
+21,Roofs.,roofs,0.5940463542938232,1.3284077644348145,0.9602362513542175,1.0,1.0
+22,5%,5%,0.3505895137786865,1.0387167930603027,1.0,1.0,1.0
+23,Another person or being.,another person or being,0.3082010746002197,1.009300708770752,0.9725792407989502,1.0,1.0
+24,Police are a public sector service.,public sector,0.2605440616607666,1.2730469703674316,0.6423329710960388,0.5,0.5
+25,Tibetan or Sanskrit.,Tibetan or Sanskrit,1.0423040390014648,1.0203468799591064,0.9727386832237244,1.0,1.0
+26,"16,000 ft.","16,000",0.3697230815887451,1.232715129852295,0.6458567976951599,0.8,0.8
+27,"The club was in decline, and managers came and went.",decline,0.3226141929626465,1.8236844539642334,0.5200982689857483,0.18181818181818182,0.18181818181818182
+28,Esperanto.,programming languages,0.3120396137237549,0.9200692176818848,0.26650920510292053,0.0,0.0
+29,Rotor blades.,hover,0.3551206588745117,1.3733994960784912,0.35180941224098206,0.0,0.0
+30,1774.,1774,0.34764933586120605,1.12300443649292,0.9730980396270752,1.0,1.0
+31,The question is not present in the given context.,War of the Castilian Succession,0.30556535720825195,1.677860975265503,0.03404943645000458,0.14285714285714285,0.14285714285714285
+32,Liberia is divided into 15 counties.,fifteen,0.32426023483276367,1.2338080406188965,0.28448712825775146,0.0,0.0
 33,"for giving short answers based on given context.
         user
         Context information is below.
@@ -79,111 +79,111 @@ Unmarked vehicles are used primarily for sting operations or apprehending crimin
         Why was Taylor indicted by a special court?
         
         assistant
-         He was indicted by the Special Court for Sierra Leone for crimes against humanity.",for crimes against humanity,0.4069373607635498,1.6728909015655518,0.23051665723323822
-34,Establish a colony for freed African Americans.,establish a colony for freed African Americans.,0.41718125343322754,1.226776123046875,1.0000001192092896
-35,Porto,Porto,0.7184033393859863,0.9838807582855225,1.0
-36,"The indigenous peoples of Liberia, especially those in the ""bush"".",indigenous natives of the tribes they encountered,0.27393245697021484,1.5010652542114258,0.4690813422203064
-37,Persia and Central Asian Turkic countries.,Persia,0.29383325576782227,1.3665261268615723,0.7297413349151611
-38,"29,029 ft.","29,029",0.3066983222961426,1.1915626525878906,0.6872962713241577
-39,"According to the text, the functions of police grew beyond law enforcement to include urban planning because of the miasma theory of disease, which led to the relocation of cemeteries out of town, and the concept of Polizeiwissenschaft, which emphasized the police's role in ""procuring abundance"" and maintaining demographic concerns.","because of the miasma theory of disease; thus, cemeteries were moved out of town, etc.",0.3290550708770752,4.742458343505859,0.5343586206436157
-40,Bituminous rock.,bituminous rock,0.2634592056274414,1.1766297817230225,0.9832966923713684
-41,"Wilson introduced a merit system for promotions, higher police salaries, and an aggressive recruiting drive to attract professionally qualified officers.",an aggressive recruiting drive with higher police salaries,0.4644780158996582,2.405061721801758,0.6232150793075562
-42,2016.,2016,0.23805665969848633,1.3889188766479492,0.9577949643135071
-43,"The rebels were eventually defeated, and a peace deal was reached in 1995, leading to Charles Taylor's election as president in 1997.",split into various factions fighting one another.,0.34284377098083496,2.752264976501465,0.22894421219825745
-44,1926.,1926,0.3004486560821533,1.411836862564087,0.9698734879493713
-45,Imbalances of power between donors and recipients.,there are questions about the applicability and transportability of policing models between jurisdictions,0.268735408782959,1.653198480606079,0.07539482414722443
-46,The Fifth Amendment.,Fifth,0.9594786167144775,1.1001932621002197,0.4635261595249176
-47,7-10%,7–10%,0.26788902282714844,1.097074031829834,0.9673764705657959
-48,1929.,23 June 1929,0.6879613399505615,1.378481388092041,0.8228110671043396
-49,1834.,1834,0.28407716751098633,1.3597214221954346,0.9652233719825745
-50,Patrol duties.,on patrol,0.2609095573425293,1.076089859008789,0.72613924741745
-51,Athletic Bilbao.,Athletic Bilbao,0.3923499584197998,1.2183430194854736,0.9789384603500366
-52,The text does not provide a specific number of slaves freed during the American Civil War.,"more than 15,000",0.3455810546875,1.6559736728668213,0.1639682650566101
-53,Salvador Artigas was the coach of Barcelona when they beat Real Madrid 1-0 in the 1968 Copa del Generalísimo final.,Franco,0.3283369541168213,2.806345224380493,0.3681265413761139
-54,Intelligence-led policing has become common practice in most advanced countries.,Intelligence-led,0.348773717880249,1.8286616802215576,0.4862270653247833
-55,"990 per 100,000 births.","990 per 100,000 births",0.2562065124511719,1.2609686851501465,0.9877982139587402
-56,6,7,0.3703582286834717,1.268801212310791,0.8310670256614685
-57,The Pool of London on the River Thames.,docks,0.30450916290283203,1.6469957828521729,0.2480699121952057
-58,"In the form of veins, filling cracks in a more or less horizontal direction.",veins,0.3168833255767822,1.6863524913787842,0.621290922164917
-59,The original ancestors of the Tibetan people are represented by the six red bands in the Tibetan flag.,six red bands in the Tibetan flag,0.26736021041870117,1.8723170757293701,0.8792837858200073
-60,131,196,0.4046297073364258,1.2780466079711914,0.6104516983032227
-61,The use of asphalt/bitumen has pushed out the need to produce roads with coal tar.,natural gas,0.29396796226501465,2.0995798110961914,0.2300359457731247
-62,King Louis XIV created the first centrally organized police force in Paris in 1667.,King Louis XIV,0.2771573066711426,2.0733084678649902,0.503567636013031
-63,"Catalonia's new arrivals from poorer regions of Spain, as well as Catalan nationalists.",Catalonia's new arrivals,0.31389665603637695,2.0270962715148926,0.8550154566764832
-64,"Grand Bassa and Montserrado are the oldest counties in Liberia, both founded in 1839.",Grand Bassa,0.23165440559387207,1.8950772285461426,0.45896172523498535
-65,The Legislature is composed of the Senate and the House of Representatives.,the Senate and the House of Representatives,0.3001277446746826,1.1916699409484863,0.7433559894561768
-66,1911-12.,1911–12,0.2536344528198242,1.2263360023498535,0.8728363513946533
-67,Paco Aguilar.,Paco Aguilar,0.2503325939178467,1.2653608322143555,0.9879535436630249
-68,"The biggest drawback to the flush deck configuration was the management of exhaust from the power plant, which caused issues such as fumes coming across the deck.",management of the exhaust from the power plant,0.38815760612487793,2.7506279945373535,0.29173287749290466
-69,60.8%,60.8%,0.39513492584228516,1.101288080215454,1.0000001192092896
-70,The loss to Steaua Bucuresti in Seville was due to Barcelona losing on penalties in the 1986 European Cup final.,penalties,0.2838621139526367,2.723362922668457,0.37589558959007263
-71,"Unmarked cars are used for sting operations or apprehending criminals without alerting them, but this practice is controversial as it can endanger motorists who might be pulled over by people impersonating police officers.",for traffic law enforcement,0.2272965908050537,2.861018419265747,0.4420240819454193
-72,General Atomics developed the Electromagnetic Aircraft Launch System (EMALS).,General Atomics,0.492581844329834,1.6864080429077148,0.4020238220691681
-73,2008,2008,0.3463561534881592,1.095224380493164,1.0
-74,FIFA banned Luis Suarez for four months after he bit Giorgio Chiellini during a World Cup match.,FIFA Disciplinary Committee,0.26371169090270996,2.371619939804077,0.41773611307144165
-75,Traité de la Police,Traité de la Police,0.3356931209564209,1.4425382614135742,1.0
-76,"By 1837, the ACS had assisted in moving over 3,000 African Americans to Liberia.","13,000",0.3488454818725586,1.8936998844146729,0.08730833232402802
-77,"The word ""asphalt"" originated from the Greek word ""ἄσφαλτος"" (ásphaltos), meaning ""asphalt/bitumen/pitch"".",late Middle English,0.26413559913635254,2.4981603622436523,0.13661667704582214
-78,65% of 1.3 million barrels (210×10^3 m3) per day.,65%,0.33088111877441406,2.2383639812469482,0.5106582641601562
-79,Spanish.,Spanish,0.3700122833251953,1.267524003982544,0.9456604719161987
-80,Asphaltum.,asphaltum,0.3226349353790283,1.2700800895690918,0.9788594245910645
-81,1980.,1980,0.3404066562652588,1.3824915885925293,0.9577760696411133
-82,Five.,five,0.23789191246032715,1.1166274547576904,0.925620436668396
-83,1980.,1980,0.5742440223693848,1.1381044387817383,0.9577760696411133
-84,June 1950.,June 1950,0.321704626083374,1.426114559173584,0.9804575443267822
-85,During China's Cultural Revolution.,During China's Cultural Revolution,0.32237720489501953,1.4849398136138916,0.9719076156616211
-86,A de-asphalting unit is used to separate asphalt.,de-asphalting,0.39050793647766113,1.547494649887085,0.7599624395370483
-87,The Supreme Court.,Supreme Court,0.32321643829345703,1.0368084907531738,0.9244683980941772
-88,Police corruption.,corruption,0.23256182670593262,1.3238842487335205,0.7668799161911011
-89,1868.,1868,0.2961390018463135,1.380711555480957,0.9646062850952148
-90,"Modern police often use radio communications equipment, carried on their person and in vehicles, to coordinate their work, share information, and get help quickly.",radio,0.30957889556884766,2.7614974975585938,0.4150841236114502
-91,The French.,French,0.3223743438720703,0.8287842273712158,0.8333637714385986
-92,"Embark, transport, and deploy an embarked force.","to embark, transport and deploy an embarked force",0.38605427742004395,1.7592518329620361,0.9680784940719604
-93,2014-15 season.,June 2015,0.8197910785675049,1.380056619644165,0.5651784539222717
-94,There are thousands of human languages.,thousands,0.4318273067474365,1.3751161098480225,0.37675249576568604
-95,Joan Gamper.,Joan Gamper,0.37593793869018555,1.383659839630127,0.9844607710838318
-96,Tarmac.,tarmac,0.7913970947265625,1.0815620422363281,0.9790067672729492
-97,Police have radios both on their person and installed in vehicles.,carried both on the person and installed in vehicles,0.26966357231140137,1.5247807502746582,0.5446140766143799
-98,The Russian Su-33 is only able to launch from the carrier Admiral Kuznetsov with a minimal armament and fuel load.,with a minimal armament and fuel load,0.29404473304748535,2.650388717651367,0.5033437013626099
-99,The Brazilian Navy.,the Brazilian Navy,0.43625807762145996,1.3970916271209717,0.9884020686149597
-100,It allows the aircraft to become airborne again without the risk of hitting aircraft parked forward.,bolt,0.3014962673187256,1.783280849456787,0.1443292200565338
-101,1346-1354,Between 1346 and 1354,0.2991673946380615,1.3339202404022217,0.7623132467269897
-102,"Aircraft carriers can be classified into several variants, including: fleet carriers, escort carriers, light aircraft carriers, and STOBAR (Short Takeoff But Arrested Recovery) and CATOBAR (Catapult Assisted Take Off But Arrested Recovery) carriers.",according to the type of aircraft they carry and their operational assignments,0.309917688369751,3.5294406414031982,0.5709254741668701
-103,2010,2010,0.251816987991333,1.0704519748687744,1.0
-104,Hispania.,Hispania,0.24007439613342285,1.3235642910003662,0.9846447110176086
-105,The Tondern Raid in July 1918.,the Tondern Raid in July 1918,0.27267885208129883,1.478010654449463,0.9809487462043762
-106,1973,1973,0.3372659683227539,1.326230525970459,1.0
-107,Imbalances of power between donors and recipients in transnational police development-aid.,With transnational police development-aid the imbalances of power between donors and recipients are stark,0.26373291015625,1.7307639122009277,0.9632617831230164
-108,The 5th Dalai Lama.,5th Dalai Lama,0.24285340309143066,1.3280558586120605,0.9659173488616943
-109,"33,000.","33,000",0.3338162899017334,1.195976972579956,0.9677641987800598
-110,Real Madrid.,Real Madrid,0.2927892208099365,1.1667873859405518,0.9765374660491943
-111,55%,55%,0.31069064140319824,0.913445234298706,1.0
-112,Sidney Ells of the Federal Mines Branch in 1915.,Sidney Ells,0.46663761138916016,1.8205857276916504,0.5514332056045532
-113,"""Més que un club"" (More than a club)",Més que un club,0.4063866138458252,1.5801944732666016,0.8827205896377563
-114,The flight deck.,The flight deck,0.3199152946472168,1.132871389389038,0.9803537130355835
-115,Coregulation.,Theories of coregulation,0.5759503841400146,0.9680263996124268,0.7751076221466064
-116,60%,60%,0.24900507926940918,0.9911491870880127,1.0
-117,820 feet (250 m),820-foot-long (250 m),0.306182861328125,1.5448310375213623,0.8970469236373901
-118,The Chief Justice of Liberia is the head of the Supreme Court.,the Chief Justice of Liberia,0.2882654666900635,1.5691635608673096,0.886415421962738
-119,Robert C. Fitzsimmons constructed the Bitumont oil separation plant.,Robert C. Fitzsimmons,0.32148051261901855,1.8826580047607422,0.4571211636066437
-120,Ethnic Liberians and the Lebanese.,Liberians and the Lebanese,0.3098735809326172,0.9738619327545166,0.9562882781028748
-121,STOVL is used by other navies because it is cheaper to operate and still provides good deployment capability for fighter aircraft.,it is cheaper to operate,0.9213733673095703,2.5295233726501465,0.23172390460968018
-122,World War II,World War II,0.31918883323669434,1.0901272296905518,1.0
-123,"The harder policing agencies work to produce security, the greater are feelings of insecurity.","the harder policing agencies work to produce security, the greater are feelings of insecurity",0.2604639530181885,1.836388349533081,0.9887446165084839
-124,"The Greek word for asphalt is ""jatu"" or ""jatu-krit"", meaning ""pitch"" or ""pitch creating"".",asphalt/bitumen/pitch,0.3320956230163574,2.199838638305664,0.6102633476257324
-125,Losar.,Losar,0.37300992012023926,0.9174013137817383,0.9552001953125
-126,Indian Navy officers were impressed by the demonstration of EMALS by General Atomics.,Indian Navy officers,0.24393558502197266,2.0184571743011475,0.5450507998466492
-127,The Athabasca oil sands.,Athabasca oil sands,0.322094202041626,1.4876644611358643,0.9654768109321594
-128,The multinational nature of Barça's primary board.,multinational nature,0.35325121879577637,1.701383352279663,0.5077205896377563
-129,Sichuan and Qinghai.,Sichuan and Qinghai,0.5822060108184814,1.2800726890563965,0.9740006327629089
-130,Sacred texts or celebrations of various festivals.,recitations of sacred texts,0.3750462532043457,1.4396986961364746,0.6636664271354675
-131,Training and coordination.,this is the first aircraft carrier in their possession,0.4626321792602539,1.3888952732086182,0.06574366986751556
-132,The 1960s.,1960s,0.30060338973999023,1.3304033279418945,0.9481246471405029
-133,1822,1822,0.27078986167907715,1.335526466369629,1.0
-134,"140,000 square kilometers.","142,000 square kilometres",0.4045982360839844,1.4735491275787354,0.892041802406311
-135,1798.,1798,0.23981833457946777,1.3851110935211182,0.9719501733779907
-136,Shaking a hand.,shaking a hand,0.31627368927001953,1.008575439453125,0.968376874923706
-137,Queen Elizabeth class.,Queen Elizabeth,0.32514071464538574,1.3777775764465332,0.7898396253585815
+         He was indicted by the Special Court for Sierra Leone for crimes against humanity.",for crimes against humanity,0.4069373607635498,1.6728909015655518,0.23051665723323822,0.002505480739116818,0.002505480739116818
+34,Establish a colony for freed African Americans.,establish a colony for freed African Americans.,0.41718125343322754,1.226776123046875,1.0000001192092896,1.0,1.0
+35,Porto,Porto,0.7184033393859863,0.9838807582855225,1.0,1.0,1.0
+36,"The indigenous peoples of Liberia, especially those in the ""bush"".",indigenous natives of the tribes they encountered,0.27393245697021484,1.5010652542114258,0.4690813422203064,0.3529411764705882,0.3529411764705882
+37,Persia and Central Asian Turkic countries.,Persia,0.29383325576782227,1.3665261268615723,0.7297413349151611,0.2857142857142857,0.2857142857142857
+38,"29,029 ft.","29,029",0.3066983222961426,1.1915626525878906,0.6872962713241577,0.8,0.8
+39,"According to the text, the functions of police grew beyond law enforcement to include urban planning because of the miasma theory of disease, which led to the relocation of cemeteries out of town, and the concept of Polizeiwissenschaft, which emphasized the police's role in ""procuring abundance"" and maintaining demographic concerns.","because of the miasma theory of disease; thus, cemeteries were moved out of town, etc.",0.3290550708770752,4.742458343505859,0.5343586206436157,0.3333333333333333,0.3333333333333333
+40,Bituminous rock.,bituminous rock,0.2634592056274414,1.1766297817230225,0.9832966923713684,1.0,1.0
+41,"Wilson introduced a merit system for promotions, higher police salaries, and an aggressive recruiting drive to attract professionally qualified officers.",an aggressive recruiting drive with higher police salaries,0.4644780158996582,2.405061721801758,0.6232150793075562,0.4999999999999999,0.28571428571428575
+42,2016.,2016,0.23805665969848633,1.3889188766479492,0.9577949643135071,1.0,1.0
+43,"The rebels were eventually defeated, and a peace deal was reached in 1995, leading to Charles Taylor's election as president in 1997.",split into various factions fighting one another.,0.34284377098083496,2.752264976501465,0.22894421219825745,0.0,0.0
+44,1926.,1926,0.3004486560821533,1.411836862564087,0.9698734879493713,1.0,1.0
+45,Imbalances of power between donors and recipients.,there are questions about the applicability and transportability of policing models between jurisdictions,0.268735408782959,1.653198480606079,0.07539482414722443,0.3,0.2
+46,The Fifth Amendment.,Fifth,0.9594786167144775,1.1001932621002197,0.4635261595249176,0.5,0.5
+47,7-10%,7–10%,0.26788902282714844,1.097074031829834,0.9673764705657959,1.0,1.0
+48,1929.,23 June 1929,0.6879613399505615,1.378481388092041,0.8228110671043396,0.5,0.5
+49,1834.,1834,0.28407716751098633,1.3597214221954346,0.9652233719825745,1.0,1.0
+50,Patrol duties.,on patrol,0.2609095573425293,1.076089859008789,0.72613924741745,0.5,0.5
+51,Athletic Bilbao.,Athletic Bilbao,0.3923499584197998,1.2183430194854736,0.9789384603500366,1.0,1.0
+52,The text does not provide a specific number of slaves freed during the American Civil War.,"more than 15,000",0.3455810546875,1.6559736728668213,0.1639682650566101,0.0,0.0
+53,Salvador Artigas was the coach of Barcelona when they beat Real Madrid 1-0 in the 1968 Copa del Generalísimo final.,Franco,0.3283369541168213,2.806345224380493,0.3681265413761139,0.0,0.0
+54,Intelligence-led policing has become common practice in most advanced countries.,Intelligence-led,0.348773717880249,1.8286616802215576,0.4862270653247833,0.3076923076923077,0.3076923076923077
+55,"990 per 100,000 births.","990 per 100,000 births",0.2562065124511719,1.2609686851501465,0.9877982139587402,1.0,1.0
+56,6,7,0.3703582286834717,1.268801212310791,0.8310670256614685,0.0,0.0
+57,The Pool of London on the River Thames.,docks,0.30450916290283203,1.6469957828521729,0.2480699121952057,0.0,0.0
+58,"In the form of veins, filling cracks in a more or less horizontal direction.",veins,0.3168833255767822,1.6863524913787842,0.621290922164917,0.13333333333333333,0.13333333333333333
+59,The original ancestors of the Tibetan people are represented by the six red bands in the Tibetan flag.,six red bands in the Tibetan flag,0.26736021041870117,1.8723170757293701,0.8792837858200073,0.56,0.56
+60,131,196,0.4046297073364258,1.2780466079711914,0.6104516983032227,0.0,0.0
+61,The use of asphalt/bitumen has pushed out the need to produce roads with coal tar.,natural gas,0.29396796226501465,2.0995798110961914,0.2300359457731247,0.0,0.0
+62,King Louis XIV created the first centrally organized police force in Paris in 1667.,King Louis XIV,0.2771573066711426,2.0733084678649902,0.503567636013031,0.35294117647058826,0.35294117647058826
+63,"Catalonia's new arrivals from poorer regions of Spain, as well as Catalan nationalists.",Catalonia's new arrivals,0.31389665603637695,2.0270962715148926,0.8550154566764832,0.4444444444444445,0.4444444444444445
+64,"Grand Bassa and Montserrado are the oldest counties in Liberia, both founded in 1839.",Grand Bassa,0.23165440559387207,1.8950772285461426,0.45896172523498535,0.25,0.25
+65,The Legislature is composed of the Senate and the House of Representatives.,the Senate and the House of Representatives,0.3001277446746826,1.1916699409484863,0.7433559894561768,0.7368421052631579,0.7368421052631579
+66,1911-12.,1911–12,0.2536344528198242,1.2263360023498535,0.8728363513946533,1.0,1.0
+67,Paco Aguilar.,Paco Aguilar,0.2503325939178467,1.2653608322143555,0.9879535436630249,1.0,1.0
+68,"The biggest drawback to the flush deck configuration was the management of exhaust from the power plant, which caused issues such as fumes coming across the deck.",management of the exhaust from the power plant,0.38815760612487793,2.7506279945373535,0.29173287749290466,0.45714285714285713,0.39999999999999997
+69,60.8%,60.8%,0.39513492584228516,1.101288080215454,1.0000001192092896,1.0,1.0
+70,The loss to Steaua Bucuresti in Seville was due to Barcelona losing on penalties in the 1986 European Cup final.,penalties,0.2838621139526367,2.723362922668457,0.37589558959007263,0.09523809523809523,0.09523809523809523
+71,"Unmarked cars are used for sting operations or apprehending criminals without alerting them, but this practice is controversial as it can endanger motorists who might be pulled over by people impersonating police officers.",for traffic law enforcement,0.2272965908050537,2.861018419265747,0.4420240819454193,0.054054054054054064,0.054054054054054064
+72,General Atomics developed the Electromagnetic Aircraft Launch System (EMALS).,General Atomics,0.492581844329834,1.6864080429077148,0.4020238220691681,0.3636363636363636,0.3636363636363636
+73,2008,2008,0.3463561534881592,1.095224380493164,1.0,1.0,1.0
+74,FIFA banned Luis Suarez for four months after he bit Giorgio Chiellini during a World Cup match.,FIFA Disciplinary Committee,0.26371169090270996,2.371619939804077,0.41773611307144165,0.1,0.1
+75,Traité de la Police,Traité de la Police,0.3356931209564209,1.4425382614135742,1.0,1.0,1.0
+76,"By 1837, the ACS had assisted in moving over 3,000 African Americans to Liberia.","13,000",0.3488454818725586,1.8936998844146729,0.08730833232402802,0.11764705882352941,0.11764705882352941
+77,"The word ""asphalt"" originated from the Greek word ""ἄσφαλτος"" (ásphaltos), meaning ""asphalt/bitumen/pitch"".",late Middle English,0.26413559913635254,2.4981603622436523,0.13661667704582214,0.0,0.0
+78,65% of 1.3 million barrels (210×10^3 m3) per day.,65%,0.33088111877441406,2.2383639812469482,0.5106582641601562,0.15384615384615385,0.15384615384615385
+79,Spanish.,Spanish,0.3700122833251953,1.267524003982544,0.9456604719161987,1.0,1.0
+80,Asphaltum.,asphaltum,0.3226349353790283,1.2700800895690918,0.9788594245910645,1.0,1.0
+81,1980.,1980,0.3404066562652588,1.3824915885925293,0.9577760696411133,1.0,1.0
+82,Five.,five,0.23789191246032715,1.1166274547576904,0.925620436668396,1.0,1.0
+83,1980.,1980,0.5742440223693848,1.1381044387817383,0.9577760696411133,1.0,1.0
+84,June 1950.,June 1950,0.321704626083374,1.426114559173584,0.9804575443267822,1.0,1.0
+85,During China's Cultural Revolution.,During China's Cultural Revolution,0.32237720489501953,1.4849398136138916,0.9719076156616211,1.0,1.0
+86,A de-asphalting unit is used to separate asphalt.,de-asphalting,0.39050793647766113,1.547494649887085,0.7599624395370483,0.3636363636363636,0.3636363636363636
+87,The Supreme Court.,Supreme Court,0.32321643829345703,1.0368084907531738,0.9244683980941772,0.8,0.8
+88,Police corruption.,corruption,0.23256182670593262,1.3238842487335205,0.7668799161911011,0.6666666666666666,0.6666666666666666
+89,1868.,1868,0.2961390018463135,1.380711555480957,0.9646062850952148,1.0,1.0
+90,"Modern police often use radio communications equipment, carried on their person and in vehicles, to coordinate their work, share information, and get help quickly.",radio,0.30957889556884766,2.7614974975585938,0.4150841236114502,0.07999999999999999,0.07999999999999999
+91,The French.,French,0.3223743438720703,0.8287842273712158,0.8333637714385986,0.6666666666666666,0.6666666666666666
+92,"Embark, transport, and deploy an embarked force.","to embark, transport and deploy an embarked force",0.38605427742004395,1.7592518329620361,0.9680784940719604,0.9333333333333333,0.9333333333333333
+93,2014-15 season.,June 2015,0.8197910785675049,1.380056619644165,0.5651784539222717,0.0,0.0
+94,There are thousands of human languages.,thousands,0.4318273067474365,1.3751161098480225,0.37675249576568604,0.2857142857142857,0.2857142857142857
+95,Joan Gamper.,Joan Gamper,0.37593793869018555,1.383659839630127,0.9844607710838318,1.0,1.0
+96,Tarmac.,tarmac,0.7913970947265625,1.0815620422363281,0.9790067672729492,1.0,1.0
+97,Police have radios both on their person and installed in vehicles.,carried both on the person and installed in vehicles,0.26966357231140137,1.5247807502746582,0.5446140766143799,0.7000000000000001,0.7000000000000001
+98,The Russian Su-33 is only able to launch from the carrier Admiral Kuznetsov with a minimal armament and fuel load.,with a minimal armament and fuel load,0.29404473304748535,2.650388717651367,0.5033437013626099,0.5,0.5
+99,The Brazilian Navy.,the Brazilian Navy,0.43625807762145996,1.3970916271209717,0.9884020686149597,1.0,1.0
+100,It allows the aircraft to become airborne again without the risk of hitting aircraft parked forward.,bolt,0.3014962673187256,1.783280849456787,0.1443292200565338,0.0,0.0
+101,1346-1354,Between 1346 and 1354,0.2991673946380615,1.3339202404022217,0.7623132467269897,0.6666666666666666,0.6666666666666666
+102,"Aircraft carriers can be classified into several variants, including: fleet carriers, escort carriers, light aircraft carriers, and STOBAR (Short Takeoff But Arrested Recovery) and CATOBAR (Catapult Assisted Take Off But Arrested Recovery) carriers.",according to the type of aircraft they carry and their operational assignments,0.309917688369751,3.5294406414031982,0.5709254741668701,0.08888888888888888,0.08888888888888888
+103,2010,2010,0.251816987991333,1.0704519748687744,1.0,1.0,1.0
+104,Hispania.,Hispania,0.24007439613342285,1.3235642910003662,0.9846447110176086,1.0,1.0
+105,The Tondern Raid in July 1918.,the Tondern Raid in July 1918,0.27267885208129883,1.478010654449463,0.9809487462043762,1.0,1.0
+106,1973,1973,0.3372659683227539,1.326230525970459,1.0,1.0,1.0
+107,Imbalances of power between donors and recipients in transnational police development-aid.,With transnational police development-aid the imbalances of power between donors and recipients are stark,0.26373291015625,1.7307639122009277,0.9632617831230164,0.8148148148148148,0.5185185185185186
+108,The 5th Dalai Lama.,5th Dalai Lama,0.24285340309143066,1.3280558586120605,0.9659173488616943,0.8571428571428571,0.8571428571428571
+109,"33,000.","33,000",0.3338162899017334,1.195976972579956,0.9677641987800598,1.0,1.0
+110,Real Madrid.,Real Madrid,0.2927892208099365,1.1667873859405518,0.9765374660491943,1.0,1.0
+111,55%,55%,0.31069064140319824,0.913445234298706,1.0,1.0,1.0
+112,Sidney Ells of the Federal Mines Branch in 1915.,Sidney Ells,0.46663761138916016,1.8205857276916504,0.5514332056045532,0.3636363636363636,0.3636363636363636
+113,"""Més que un club"" (More than a club)",Més que un club,0.4063866138458252,1.5801944732666016,0.8827205896377563,0.7142857142857143,0.7142857142857143
+114,The flight deck.,The flight deck,0.3199152946472168,1.132871389389038,0.9803537130355835,1.0,1.0
+115,Coregulation.,Theories of coregulation,0.5759503841400146,0.9680263996124268,0.7751076221466064,0.5,0.5
+116,60%,60%,0.24900507926940918,0.9911491870880127,1.0,1.0,1.0
+117,820 feet (250 m),820-foot-long (250 m),0.306182861328125,1.5448310375213623,0.8970469236373901,0.6666666666666665,0.6666666666666665
+118,The Chief Justice of Liberia is the head of the Supreme Court.,the Chief Justice of Liberia,0.2882654666900635,1.5691635608673096,0.886415421962738,0.5882352941176471,0.5882352941176471
+119,Robert C. Fitzsimmons constructed the Bitumont oil separation plant.,Robert C. Fitzsimmons,0.32148051261901855,1.8826580047607422,0.4571211636066437,0.5,0.5
+120,Ethnic Liberians and the Lebanese.,Liberians and the Lebanese,0.3098735809326172,0.9738619327545166,0.9562882781028748,0.888888888888889,0.888888888888889
+121,STOVL is used by other navies because it is cheaper to operate and still provides good deployment capability for fighter aircraft.,it is cheaper to operate,0.9213733673095703,2.5295233726501465,0.23172390460968018,0.3846153846153846,0.3846153846153846
+122,World War II,World War II,0.31918883323669434,1.0901272296905518,1.0,1.0,1.0
+123,"The harder policing agencies work to produce security, the greater are feelings of insecurity.","the harder policing agencies work to produce security, the greater are feelings of insecurity",0.2604639530181885,1.836388349533081,0.9887446165084839,1.0,1.0
+124,"The Greek word for asphalt is ""jatu"" or ""jatu-krit"", meaning ""pitch"" or ""pitch creating"".",asphalt/bitumen/pitch,0.3320956230163574,2.199838638305664,0.6102633476257324,0.2222222222222222,0.2222222222222222
+125,Losar.,Losar,0.37300992012023926,0.9174013137817383,0.9552001953125,1.0,1.0
+126,Indian Navy officers were impressed by the demonstration of EMALS by General Atomics.,Indian Navy officers,0.24393558502197266,2.0184571743011475,0.5450507998466492,0.375,0.375
+127,The Athabasca oil sands.,Athabasca oil sands,0.322094202041626,1.4876644611358643,0.9654768109321594,0.8571428571428571,0.8571428571428571
+128,The multinational nature of Barça's primary board.,multinational nature,0.35325121879577637,1.701383352279663,0.5077205896377563,0.3636363636363636,0.3636363636363636
+129,Sichuan and Qinghai.,Sichuan and Qinghai,0.5822060108184814,1.2800726890563965,0.9740006327629089,1.0,1.0
+130,Sacred texts or celebrations of various festivals.,recitations of sacred texts,0.3750462532043457,1.4396986961364746,0.6636664271354675,0.5454545454545454,0.36363636363636365
+131,Training and coordination.,this is the first aircraft carrier in their possession,0.4626321792602539,1.3888952732086182,0.06574366986751556,0.0,0.0
+132,The 1960s.,1960s,0.30060338973999023,1.3304033279418945,0.9481246471405029,0.6666666666666666,0.6666666666666666
+133,1822,1822,0.27078986167907715,1.335526466369629,1.0,1.0,1.0
+134,"140,000 square kilometers.","142,000 square kilometres",0.4045982360839844,1.4735491275787354,0.892041802406311,0.5,0.5
+135,1798.,1798,0.23981833457946777,1.3851110935211182,0.9719501733779907,1.0,1.0
+136,Shaking a hand.,shaking a hand,0.31627368927001953,1.008575439453125,0.968376874923706,1.0,1.0
+137,Queen Elizabeth class.,Queen Elizabeth,0.32514071464538574,1.3777775764465332,0.7898396253585815,0.8,0.8
 138,"for giving short answers based on given context.
         user
         Context information is below.
@@ -227,365 +227,365 @@ The modern Standard Chinese exonym for the ethnic Tibetan region is Zangqu (Chin
         What was the PRC criticized for?
         
         assistant
-         Human rights abuses and treatment of Tibetans.",corruption and political repression,0.3856666088104248,1.3809175491333008,0.30388909578323364
-139,"The Washington Naval Treaty of 1922, which limited the construction of new heavy surface combat ships.",Washington Naval Treaty of 1922,0.3444335460662842,2.252288579940796,0.81353360414505
-140,Four.,four,0.23768138885498047,1.1166622638702393,0.9432603716850281
-141,Police are a public sector service.,public sector,1.1022942066192627,1.261073112487793,0.6423329710960388
-142,Bitumen.,bitumen feedstock,0.23143267631530762,1.267998218536377,0.6677465438842773
-143,Canada has the second-largest proven oil reserves in the world.,second-largest,0.29251646995544434,1.7866466045379639,0.3878207504749298
-144,Because aircraft carriers are extremely expensive.,Today's aircraft carriers are so expensive,0.36736536026000977,1.2782542705535889,0.8759372234344482
-145,Tsampa.,tsampa,1.005575180053711,0.9106342792510986,0.9808768033981323
-146,"In a simple model, information or content is sent in the form of spoken language.",spoken language,0.44122862815856934,1.6188838481903076,0.6153501272201538
-147,Selenizza is used as a drilling fluid additive in the oil and gas industry.,fluid additives,0.5882208347320557,2.01257586479187,0.4517672657966614
-148,Samuel Ryland Phipson.,Samuel Ryland Phipson,0.3740241527557373,1.289522647857666,0.9887204170227051
-149,Real Madrid.,Real Madrid,0.2490997314453125,1.3247058391571045,0.9765374660491943
-150,"Liberia is considered one of the world's poorest countries, with a formal employment rate of 15% and a GDP per capita of $297 in 2011.",one of the world's poorest countries,0.3558847904205322,2.499523162841797,0.6595845818519592
-151,Mongolian prince Khuden.,Mongolian prince Khuden,0.3215644359588623,1.2657599449157715,0.9815452694892883
-152,Powder or granular material of various particle sizes.,granular,0.3242027759552002,1.355271577835083,0.6027310490608215
-153,"Natural deposits of asphalt are found in the form of veins in rocks, such as in the Selenice mine in Albania, and in unconsolidated sandstones known as ""oil sands"" in Alberta, Canada, and ""tar sands"" in Utah, US.",once-living things,0.4768247604370117,3.5587046146392822,0.02847946807742119
-154,Korea and Japan.,Korea and Japan,0.25658369064331055,1.3804020881652832,0.9764156937599182
-155,Tibet is ranked the lowest among China's 31 provinces on the Human Development Index according to UN Development Programme data.,lowest,0.32216858863830566,2.0694870948791504,0.32998955249786377
-156,Anthroposemiotics.,anthroposemiotics,0.49631762504577637,1.0132050514221191,0.9786902666091919
-157,Tbilisi.,Tbilisi,0.295245885848999,1.374587059020996,0.9607057571411133
-158,Difficulty in developing a broad range of skills.,it is difficult to develop such a broad range of skills,0.22516131401062012,1.219557285308838,0.9058782458305359
-159,Wages and discipline.,wages and discipline,0.3421800136566162,1.1792552471160889,0.9258814454078674
-160,The Irish Constabulary Act of 1822.,Irish Constabulary Act,0.37126755714416504,1.745100736618042,0.862412691116333
-161,It did not fully solidify and would corrupt other pigments over time.,solidifies,0.2863950729370117,1.9495453834533691,0.30131784081459045
-162,Henry and John Fielding.,Henry and John Fielding,0.6321172714233398,1.2313807010650635,0.9797624945640564
-163,10 years.,10 years,0.2563667297363281,1.307328701019287,0.9513406753540039
-164,1959,1959,0.3859598636627197,1.0905699729919434,1.000000238418579
-165,The London Review.,London Review,0.486983060836792,1.3839867115020752,0.9492578506469727
-166,The Thames River Police force began with about 50 men.,50,0.2778198719024658,1.8103294372558594,0.17997369170188904
-167,Núñez's presidency.,Núñez's presidency,0.39349365234375,1.5489816665649414,0.9876844882965088
-168,Liberia has a rich history in textile arts and quilting.,textile arts and quilting,0.34580326080322266,1.4483985900878906,0.6981120109558105
-169,Supercarriers.,Supercarriers,0.36350488662719727,1.4308218955993652,0.9795801639556885
-170,There is no mention of Gamper committing suicide in the provided text.,30 July 1930,0.25914645195007324,1.9107015132904053,0.09764786809682846
-171,El Clásico.,El Clásico,0.2937641143798828,1.2663557529449463,0.9855237007141113
-172,There is no information about a match played in 1943.,11–1,0.5368900299072266,1.6941916942596436,0.16215631365776062
-173,"Ferdinand and Isabella formed Spain's first national police force, the Holy Brotherhood (Santa Hermandad), in 1479.",Ferdinand and Isabella,0.26975345611572266,2.5621354579925537,0.5236512422561646
-174,Utah.,Utah,0.4031867980957031,0.9535744190216064,0.962263286113739
-175,Foreign direct investment to GDP in the world.,of foreign direct investment to GDP in the world,0.24274420738220215,1.2865197658538818,0.9635377526283264
-176,1998.,1998,0.2460334300994873,1.3672893047332764,0.9467677474021912
-177,Cruyff.,Cruyff,0.6538076400756836,1.3806383609771729,0.9643968939781189
-178,Athabasca oil sands.,Athabasca oil sands,0.3097968101501465,1.4481227397918701,0.9906576871871948
-179,"1997, 2009, 2011, 2012, and 2015.","1997, 2009, 2011, 2012 and 2015",0.2837204933166504,2.09690523147583,0.9743295907974243
-180,Fairs Cup.,Fairs Cup,0.28884029388427734,1.384479284286499,0.9842197895050049
-181,1914.,1914,0.2919924259185791,1.1316649913787842,0.9601083993911743
-182,Catalonia and Castile.,rival regions,0.22798871994018555,1.271848440170288,0.4231767952442169
-183,16 March 1938.,16 March 1938,0.3273656368255615,1.543632984161377,0.9777056574821472
-184,The island.,an island,0.25884366035461426,1.3229515552520752,0.8810884356498718
-185,The Crown of Aragon.,Crown of Aragon,0.27752089500427246,1.3260366916656494,0.965575098991394
-186,5,five,0.25451040267944336,1.201446294784546,0.9229784607887268
-187,Charles de Gaulle.,Charles de Gaulle,0.317608118057251,1.4367928504943848,0.975007176399231
-188,"In a slightly more complex form, the sender and receiver are linked reciprocally.",reciprocally,0.40603184700012207,1.6110823154449463,0.31873297691345215
-189,A group of Spanish football fans founded Espanyol.,Spanish football fans,0.3419170379638672,1.803391456604004,0.6441389322280884
-190,Most of Canada's asphalt is now used as raw material for oil refineries in Canada and the United States.,oil refineries,0.60498046875,1.9981801509857178,0.4200071692466736
-191,2017.,in 2017,0.21928977966308594,1.3762085437774658,0.7826598882675171
-192,Fumes from the power plant were a major issue.,Fumes coming across the deck,0.4403386116027832,1.7847461700439453,0.47359564900398254
-193,Traditional bitumen.,mastic asphalts,0.3744087219238281,1.1085026264190674,0.5874517560005188
-194,"Mount Everest, at 8,848 meters (29,029 ft), is the highest elevation in Tibet.",Mount Everest,0.32804417610168457,2.0295681953430176,0.6221938729286194
-195,1728.,1728,0.2877542972564697,1.3747398853302002,0.9537217020988464
-196,"Signs of regional nationalism, including the Catalan flag and language.",regional nationalism,0.5645184516906738,1.8135673999786377,0.6803131103515625
-197,The 18th century.,18th century,0.41835904121398926,1.2345805168151855,0.9575279951095581
-198,500 °C.,500 °C,0.324692964553833,1.147947072982788,0.9656699895858765
-199,"The mine is unusual because it is one of the few mines in the world that is still operational, and it is the only European asphalt mine still in use.",still in use,0.4920806884765625,2.7800381183624268,0.16568832099437714
-200,The 18th century.,in the 18th century,0.2821950912475586,1.5094797611236572,0.9509250521659851
-201,Coal tar was used as the binder for road aggregates.,binder,0.9386594295501709,1.4766144752502441,0.4171625077724457
-202,85%,85%,0.2317366600036621,1.250166654586792,1.0
-203,Henry Kelsey.,Henry Kelsey,0.27132225036621094,1.109903335571289,0.978401780128479
-204,Information or content.,a message in natural language,0.6002402305603027,0.97198486328125,0.32683008909225464
-205,"Winters in Tibet are extremely cold, with low temperatures and intense cold in the northern regions.",intense cold,0.38399648666381836,1.7100224494934082,0.3743859827518463
-206,Rivaldo.,Rivaldo,0.32387423515319824,1.382833480834961,0.9793655872344971
-207,The 17th and 18th centuries.,17th and 18th centuries,0.26955413818359375,1.4409596920013428,0.9571167230606079
-208,Catalonia.,Second Spanish Republic,0.540410041809082,1.2689731121063232,0.5574109554290771
-209,The Qing commander restored the Dalai Lama as ruler in 1750.,Qing,0.3616640567779541,1.6903278827667236,0.48610973358154297
-210,"The first use of the word ""police"" in the UK was in 1714 with the appointment of Commissioners of Police for Scotland.",the appointment of Commissioners of Police for Scotland in 1714,0.3041956424713135,2.688718318939209,0.8311153650283813
-211,Merchant ships.,mercantile hulls,0.4121358394622803,1.083824634552002,0.6397714018821716
-212,"Liaoning is classified as a training ship, intended to allow the navy to practice with carrier usage.",it is a training ship,0.28354763984680176,2.2527854442596436,0.6124604940414429
-213,The Marshal of France and the Constable of France.,The Marshal of France and the Constable of France,0.36461973190307617,1.4911949634552002,0.9809378385543823
-214,Asphalt must be heated to become workable.,heated or diluted,0.29071974754333496,1.3565177917480469,0.33921486139297485
-215,English.,English,0.3559696674346924,1.266394853591919,0.9305142164230347
-216,Liaoning is classified as a training ship.,a training ship,0.4747283458709717,1.378854751586914,0.6853370666503906
-217,Primarily ethnic Tibetans and some other ethnic groups.,ethnic Tibetans,0.30356764793395996,1.4542183876037598,0.9012278318405151
-218,The air boss.,a landing signal officer,0.2970845699310303,1.1319148540496826,0.3869101107120514
-219,The Marshal's force was called the Marshalcy.,the Marshalcy,0.3136420249938965,1.433506965637207,0.7675371170043945
-220,Espanyol.,Espanyol,0.29941725730895996,1.268125057220459,0.9882454872131348
-221,Four times.,four,0.2715909481048584,1.3252015113830566,0.6354660987854004
-222,"Japan's largest military ship since World War II, the 820-foot-long (250 m), 19,500-ton flattop Izumo.",Japan's largest military ship since World War II,0.3197333812713623,2.7371747493743896,0.8312743902206421
-223,Birthright citizenship in their own lands until 1904.,citizenship in their own lands,1.6190431118011475,1.4426300525665283,0.6745914220809937
-224,The French Navy (Marine Nationale).,the French Navy,0.3679993152618408,1.6538300514221191,0.8888954520225525
-225,"8,000 nautical miles (15,000 kilometres)","8,000 nautical miles",0.288909912109375,1.850893497467041,0.9427235722541809
-226,180 goals in 2015.,180,0.2845277786254883,1.5926337242126465,0.5276178121566772
-227,Brazil.,Brazil,0.3075423240661621,1.0126943588256836,0.9418349862098694
-228,"They joined Barça, which became a symbol of Catalan culture and identity.",joining Barça,0.34695911407470703,1.986025333404541,0.6750004291534424
-229,1993,1995,0.32062792778015137,1.3308475017547607,0.8227407932281494
-230,Jeremy Bentham's philosophy influenced Peel.,Jeremy Bentham,0.46826767921447754,1.586927890777588,0.4888029098510742
-231,The pending appeal to the Court of Arbitration for Sport allowed Barcelona to sign players during the summer of 2014.,sign players,0.3881349563598633,2.4512946605682373,0.5344761610031128
-232,Nicolas Delamare wrote the 'Treatise on the Police' in 1705.,Nicolas Delamare,0.36769938468933105,2.178772211074829,0.52333664894104
-233,2016.,2016,0.3371765613555908,1.3726105690002441,0.9577949643135071
-234,V/STOL stands for Vertical/Short Takeoff and Landing.,aircraft capable of vertical or short take-off and landing,0.33915209770202637,1.6256804466247559,0.4183984100818634
-235,"The process used to harden the asphalt is ""blowing"" the product: namely reacting it with oxygen.",blowing,0.32752251625061035,1.9965345859527588,0.24934054911136627
-236,Revolutionary spirit.,revolutionary,0.5411937236785889,1.3332099914550781,0.7599326968193054
-237,3,three,0.29373669624328613,1.2732856273651123,0.8656187057495117
-238,They were used to deploy balloons.,to deploy balloons,0.35924315452575684,1.2770555019378662,0.7887687087059021
-239,Canada.,Canada,0.28280162811279297,1.2333357334136963,0.9222739934921265
-240,Sandro Rosell.,Sandro Rosell,0.28630709648132324,1.433783769607544,0.9856849908828735
-241,Diego Maradona's goal of the century.,Diego Maradona,0.32718777656555176,1.709115743637085,0.7724279165267944
-242,Espanyol.,Espanyol,0.26232481002807617,1.1832692623138428,0.9882454872131348
-243,Place de la Concorde.,Place de la Concorde,0.38478851318359375,1.2793967723846436,0.9847628474235535
-244,"60,000 spectators.","20,000",0.30115437507629395,1.4884984493255615,0.3968990445137024
-245,The crest of Liberia features a palm tree and a coffee tree.,laurel,0.33384108543395996,1.4981443881988525,0.2416456937789917
-246,Penyes.,penyes,0.29189348220825195,1.0692763328552246,0.978041410446167
-247,The Royal Australian Navy.,The Royal Australian Navy,2.869854211807251,1.4509673118591309,0.9856184720993042
-248,7 or 8 new carriers.,one every four years,0.3505682945251465,1.5955204963684082,0.20901012420654297
-249,The oil refining industry.,modern oil refineries,0.397371768951416,1.365694522857666,0.6952083706855774
-250,Elliot Sperling.,Elliot Sperling,0.3045318126678467,1.1655402183532715,0.9876253604888916
-251,1911-12.,1912,0.24182748794555664,1.2399249076843262,0.560483992099762
-252,90%,90%,0.5931746959686279,0.9885542392730713,1.0
-253,"29,029 feet.","29,029",0.37786030769348145,1.230205774307251,0.49554744362831116
-254,Al Ahly SC.,Al Ahly SC,0.35808730125427246,1.26953125,0.9849349856376648
-255,1829,1829,0.28272032737731934,1.3284556865692139,1.0
-256,1800.,1800,0.2626619338989258,1.387263298034668,0.9630804061889648
-257,The concept of police itself.,patents,0.3844132423400879,1.4861767292022705,0.1310233622789383
-258,China purchased the STOBAR carrier Liaoning in 1998 as a stripped hulk on the pretext of use as a floating casino.,on the pretext of use as a floating casino,0.5255029201507568,2.6425678730010986,0.4495043158531189
-259,Members of the Supreme Court serve until the age of 70.,until the age of 70,0.2807610034942627,1.8587260246276855,0.5031411051750183
-260,Human communication is defined as a two-way process of conveying and receiving information through verbal and non-verbal cues.,a system of symbols,0.22777724266052246,1.8663487434387207,0.11900121718645096
-261,1667,1667,0.27788233757019043,1.3240993022918701,1.0
-262,The 1960s.,1960s and 1970s,0.5292420387268066,1.4845590591430664,0.8898616433143616
-263,"The handler is responsible for coordinating police work, sharing information, and getting help quickly through radio communications equipment.",the movement of aircraft before launching and after recovery,0.26412105560302734,1.7076599597930908,0.11558034271001816
-264,Manchester United.,Manchester United,0.28052449226379395,1.333451271057129,0.9565579891204834
-265,The Royal Irish Constabulary.,Royal Irish Constabulary,0.3143916130065918,1.2889347076416016,0.9717297554016113
-266,"The Central Bank of Liberia is responsible for printing and maintaining the Liberian dollar, the primary form of currency in Liberia.",printing and maintaining the Liberian dollar,0.37265849113464355,2.044769763946533,0.8151494264602661
-267,He failed to win any trophies.,win any trophies,0.2688167095184326,1.5483837127685547,0.6475435495376587
-268,15th in La Liga.,15th,0.3751978874206543,1.5435082912445068,0.5538527965545654
-269,Qinghai Lake (Koko Nor) is the largest lake in China.,Qinghai Lake,0.4470524787902832,1.6577861309051514,0.7781052589416504
-270,Lord Shiva.,Lord Shiva,0.26490163803100586,0.9881625175476074,0.9522991180419922
-271,"Marriage, parenthood, and divorce.","marriage, parenthood or divorce",0.34152674674987793,1.1608173847198486,0.9108546376228333
-272,Excellent writing ability.,excellent writing ability,0.3281972408294678,0.9612698554992676,0.9699920415878296
-273,"Easier dispatching of calls, criminal background checks, and updating officers' daily activity logs and reports in real-time.",criminal background checks on persons of interest to be completed in a matter of seconds,0.2829709053039551,2.117401599884033,0.3878660500049591
-274,Borussia Dortmund.,Borussia Dortmund,0.3381202220916748,1.223010540008545,0.9725689888000488
-275,The Marshal and Constable of France were formally classified as Great Officers of the Crown of France with police responsibilities.,Great Officers of the Crown of France,1.110816240310669,2.3652729988098145,0.7632297277450562
-276,1910,1910,2.2489676475524902,1.1077322959899902,1.000000238418579
-277,A Liberian-made quilt.,Liberian-made quilt,0.35460972785949707,1.1395363807678223,0.9721940755844116
-278,1550.,1553,0.31096982955932617,1.368133306503296,0.639433741569519
-279,Skinheads.,skinheads,0.30229711532592773,1.3296284675598145,0.9473279714584351
-280,Asphalt emulsion.,emulsion,0.3320651054382324,1.3362972736358643,0.7348406910896301
-281,The 1720 expedition by the Qing dynasty.,Battle of Chamdo,0.2633047103881836,1.4422276020050049,0.14092925190925598
-282,Asphalt.,'asphalt,0.30256199836730957,1.2522785663604736,0.9216813445091248
-283,The Court of Arbitration for Sport.,Court of Arbitration for Sport,0.33370184898376465,1.6030056476593018,0.957852840423584
-284,The Glasgow Police Act.,Glasgow Police Act,0.28249168395996094,1.44095778465271,0.9643813371658325
-285,32% of the population of Spain are supporters of Real Madrid.,32%,0.4290618896484375,1.7421009540557861,0.4682617485523224
-286,Get free people of color out of the South.,to get free people of color out of the South,0.3251934051513672,1.3487770557403564,0.8637018203735352
-287,"Personal filters, regional traditions, cultures, or gender.",different regional traditions,0.31302452087402344,1.3106074333190918,0.4864376187324524
-288,310 billion barrels (50×10^9 m3),310 billion barrels,0.28197431564331055,1.8170554637908936,0.9281924962997437
-289,Third.,fourth,0.46404123306274414,1.111910104751587,0.7153785824775696
-290,The Prussian police.,Prussian,0.25685954093933105,1.1837613582611084,0.7961311340332031
-291,5 mg/m3.,5 mg/m3,0.3459947109222412,1.199429988861084,0.9903899431228638
-292,FC Basel.,Joan Gamper,0.24125218391418457,1.324341058731079,0.09738688170909882
-293,Rivaldo.,Rivaldo,0.44463515281677246,1.3865022659301758,0.9793655872344971
-294,"Gbarpolu, created in 2001.",Gbarpolu,0.29262232780456543,1.405407428741455,0.7941000461578369
-295,Germany and France.,German and French,0.33620452880859375,1.3746986389160156,0.6635163426399231
-296,1988,The 1973–74 season,0.2484607696533203,1.3171215057373047,0.32099664211273193
-297,Frank Rijkaard.,Frank Rijkaard,0.24076223373413086,1.4942216873168945,0.987040638923645
-298,"60,000 spectators.","60,000",0.31864380836486816,1.318206787109375,0.5884809494018555
-299,The Royal Navy originally developed the ski-jump ramp.,the Royal Navy,0.2505786418914795,1.7675092220306396,0.4898289144039154
-300,People of Black African descent.,Black African descent.,1.383603572845459,1.1552624702453613,0.8486793637275696
-301,1709.,1709,0.4547910690307617,1.379997730255127,0.9703022241592407
-302,The central region around Lhasa.,central region around Lhasa,0.4537198543548584,1.57326078414917,0.9732898473739624
-303,Late 18th and early 19th centuries.,late 18th and early 19th centuries,0.39032530784606934,1.7479894161224365,0.9559025764465332
-304,The Canberra-class LHD's will be the largest in Australian naval history.,the largest in Australian naval history,0.3971562385559082,1.9590754508972168,0.7930142879486084
-305,"The state wants a police force to enforce the law, protect property, and limit civil disorder.","enforce the law, protect property, and limit civil disorder",0.2343285083770752,2.1752352714538574,0.760793924331665
-306,"The words ""bitumen"" and ""asphalt"" are frequently used interchangeably, with ""bitumen"" used in British English and ""asphalt"" used in American English.",interchangeably,0.32496047019958496,2.7294468879699707,0.2125883847475052
-307,"Barcelona achieved the sextuple in 2009, winning La Liga, Copa del Rey, Champions League, Supercopa de España, UEFA Super Cup, and FIFA Club World Cup.",continental treble,0.24887847900390625,3.1680023670196533,0.09389703720808029
-308,"Family rules, family roles, and family dialectics.","family rules, family roles or family dialectics",0.343489408493042,1.3113670349121094,0.976412296295166
-309,Queen Victoria.,Queen Victoria,0.31812143325805664,0.9930422306060791,0.9674348831176758
-310,Anarchist agitators and other political radicals.,anarchist agitators and other political radicals,0.45589590072631836,1.7603209018707275,0.9781767129898071
-311,"Asphalt/bitumen was used as waterproofing for fabrics, roofs, pools, baths, and canoes.",pools and baths,0.5988845825195312,1.9923322200775146,0.26375651359558105
-312,HMS Argus (1918),HMS Argus,0.24410367012023926,1.5329782962799072,0.8636488318443298
-313,2% of the population aged 15–49.,2%,0.3920876979827881,1.430495262145996,0.5123174786567688
-314,Five.,five,0.3091716766357422,1.1023952960968018,0.925620436668396
-315,The Flag Bridge is designated for the embarked admiral and his staff.,the embarked admiral and his staff,0.34645605087280273,1.9155590534210205,0.6575954556465149
-316,Heavily laden aircraft.,heavily laden aircraft,0.5598757266998291,1.4894633293151855,0.9791452884674072
-317,The text does not mention the stadium being closed.,six months,0.35364556312561035,1.7100589275360107,0.01115054078400135
-318,1993.,1993,0.28322362899780273,1.3795711994171143,0.9678646326065063
-319,"Espanyol drew their supporters mainly from sectors close to the regime such as policemen, military officers, civil servants and career fascists.",close to the regime,0.35332536697387695,2.666139841079712,0.32352954149246216
-320,William H. Baxter.,William H. Baxter,0.36345338821411133,1.437605857849121,0.9864861369132996
-321,"International players, including Ronaldinho, Deco, Henrik Larsson, Ludovic Giuly, Samuel Eto'o, and Rafael Márquez, were added to the team.",international,0.30484676361083984,3.1126925945281982,0.288504034280777
-322,"The strengths of the simple model are simplicity, generality, and quantifiability.","simplicity, generality, and quantifiability",0.33507776260375977,1.6184701919555664,0.7280848026275635
-323,Taxation.,all taxation,0.35295772552490234,1.0585801601409912,0.7627649307250977
-324,"About 140,000 square kilometers, an area larger than England.",most,0.5327491760253906,1.8399431705474854,0.009813036769628525
-325,1979.,1979,0.3222377300262451,1.0409154891967773,0.9622029662132263
-326,1870.,1870,0.30935072898864746,1.0955893993377686,0.964709997177124
-327,"Théodore Géricault's ""Raft of the Medusa"" (1818-1819) is an example of the damaging effects of bitumen.",Théodore Géricault's,0.5456831455230713,2.8973989486694336,0.36660340428352356
-328,57.4 years.,57.4 years,0.4782676696777344,1.161637544631958,0.98503178358078
-329,He was involved in politics.,pro-independence political party,0.3711864948272705,1.4963436126708984,0.334575355052948
-330,The text does not mention the titles Barcelona won in 1948 and 1949.,La Liga,0.3629894256591797,2.1521992683410645,0.3003930151462555
-331,"International policing, transnational policing, and global policing.","international policing, transnational policing, and/or global policing",0.2653219699859619,1.754730224609375,0.9530302286148071
-332,"70,600 tonnes.",the largest warships ever built for the Royal Navy,0.3695535659790039,1.4722840785980225,0.22352279722690582
-333,Sand deposits.,petroleum,0.4098076820373535,1.0483274459838867,0.4214102029800415
-334,"Peel standardized the police force as an official paid profession, organized it in a civilian fashion, and made it answerable to the public.",in a civilian fashion,0.3818168640136719,2.633765697479248,0.4297000765800476
-335,Syncrude.,synbit,0.508770227432251,1.324817419052124,0.38690516352653503
-336,Clarmac Roads Ltd.,Clarmac Roads Ltd,0.3314640522003174,1.4488983154296875,0.9918279647827148
-337,The Chinese government denounced the Simla Accord as illegal.,illegal,0.260709285736084,1.487746000289917,0.31072860956192017
-338,"South Africa's ""shoot-to-kill"" policy allows police to use deadly force against any person who poses a significant threat to them or civilians.",allows police to use deadly force against any person who poses a significant threat to them or civilians,0.28299832344055176,2.7550907135009766,0.745879590511322
-339,"The American Colonization Society (ACS) was a group founded in 1816 to resettle free blacks and freed slaves in Africa, specifically in what is now Liberia.",a movement to resettle American free blacks and freed slaves in Africa.,0.41564321517944336,2.6192727088928223,0.5964872241020203
-340,The police can establish the guest's identity and forward it to the innkeeper.,establish a restaurant guest's identity and forward it to the innkeeper,0.33263492584228516,1.7288410663604736,0.7923993468284607
-341,Syncrude.,syncrude,0.30446767807006836,1.306131362915039,0.9766838550567627
-342,Police corruption.,corruption,0.3478553295135498,1.320284366607666,0.7668799161911011
-343,"Redwater, Alberta.","Redwater, Alberta",0.4436526298522949,1.4005837440490723,0.9773560762405396
-344,"Espanyol was seen as a club that cultivated compliance to the central authority, in contrast to Barcelona's revolutionary spirit.",compliance,0.2682363986968994,2.487900733947754,0.23866811394691467
-345,Asia.,Asia,0.38266515731811523,0.9974822998046875,0.9424371719360352
-346,Selenizza.,Selenizza,0.3907735347747803,1.333890676498413,0.9826659560203552
-347,Cochin Shipyard.,Cochin Shipyard,0.2674684524536133,1.4480164051055908,0.9864052534103394
-348,Nothing was proven.,nothing,0.2815573215484619,1.391263723373413,0.36827126145362854
-349,The Marshal's force was called the Marshalcy.,the Marshalcy,0.2580885887145996,1.431049108505249,0.7675371170043945
-350,1926.,1926,0.2514026165008545,1.3813743591308594,0.9698734879493713
-351,The 1850s to the 1920s.,1850s to the 1920s,0.36713504791259766,1.7640137672424316,0.9797862768173218
-352,"The first model for communication, introduced by Claude Shannon and Warren Weaver in 1949, consisted of three primary parts: sender, channel, and receiver.","sender, channel, and receiver",0.38155126571655273,2.3077797889709473,0.6495212316513062
-353,Barley.,barley,0.3746654987335205,0.9379870891571045,0.9610965251922607
-354,8 years.,eight,0.3976149559020996,1.3862977027893066,0.5738191604614258
-355,2009,11 May 2013,0.3857290744781494,1.1830520629882812,0.6131200194358826
-356,Futbol Club Barcelona.,Futbol Club Barcelona,0.25864410400390625,1.4548838138580322,0.9804826378822327
-357,HMS Queen Elizabeth and HMS Prince of Wales.,HMS Queen Elizabeth and HMS Prince of Wales,0.26610493659973145,1.6574382781982422,0.976864755153656
-358,3-0.,3–0,0.4653146266937256,1.2678840160369873,0.938849687576294
-359,The Amdo region.,Amdo region,0.24450063705444336,1.4742145538330078,0.9644397497177124
-360,1954.,1954,0.24560022354125977,1.3764066696166992,0.9741775989532471
-361,5,five,0.3356921672821045,1.268489122390747,0.9229784607887268
-362,UN sanctions were placed on Liberian timber exports in 2003.,Liberian timber exports,0.481309175491333,1.620406150817871,0.7147892713546753
-363,474 goals.,474,0.4847221374511719,1.2275702953338623,0.5528300404548645
-364,Police often use unmarked cars for sting operations or apprehending criminals without alerting them to their presence.,primarily for sting operations or apprehending criminals without alerting them to their presence,0.4334590435028076,1.988090991973877,0.719382643699646
-365,I don't have information about a hospital in Monrova.,John F. Kennedy Medical Center,0.22831273078918457,1.5886528491973877,0.3248502016067505
-366,1724.,1724,0.2821195125579834,1.3816375732421875,0.9658308029174805
-367,Synthetic crude oil and diesel fuel.,diesel fuel,0.32863545417785645,1.462402582168579,0.7537238001823425
-368,Supercarrier.,fleet carrier,0.38129258155822754,1.1788108348846436,0.5158542394638062
-369,Canoes.,canoes,0.2486879825592041,1.073991060256958,0.9828940629959106
-370,The People's Redemption Council (PRC),the People's Redemption Council,0.3451395034790039,1.6430771350860596,0.7853619456291199
-371,One or two.,two,0.3004951477050781,1.14046311378479,0.7253440618515015
-372,Espanyol with a 6-0 win in 1951.,Espanyol,0.29865550994873047,1.830620288848877,0.5640671253204346
-373,Gabriel Nicolas de la Reynie.,Gabriel Nicolas de la Reynie,0.30124902725219727,1.5421557426452637,0.9858062863349915
-374,15% formal employment rate.,15%,0.2580225467681885,1.1864440441131592,0.6187999248504639
-375,The 73 members of the House are apportioned among the 15 counties of Liberia.,the 15 counties on the basis of the national census,0.33357810974121094,2.0919268131256104,0.46732595562934875
-376,"Plants communicate to warn nearby plants of danger through volatiles, releasing chemical signals into the air when exposed to herbivory attack behavior.",via volatiles,0.3448457717895508,2.166142702102661,0.3461058735847473
-377,"Jaime Gil-Aluja, the chairman of the Economical-Statutory Committee, recommended setting up the FC Barcelona Foundation in 1994.",Jaime Gil-Aluja,0.45117902755737305,2.3413631916046143,0.3217492997646332
-378,Director of football.,director of football,0.31262707710266113,1.3858997821807861,0.9770623445510864
-379,"April 12, 1980.","April 12, 1980",0.3702540397644043,1.5891427993774414,0.9860187768936157
-380,Monrovia.,Monrovia.,1.835052728652954,1.3832943439483643,1.0
-381,The forward rolling movement of the aircraft into vertical velocity.,some of the forward rolling movement of the aircraft into vertical velocity,0.23715710639953613,1.4846014976501465,0.9633985757827759
-382,Barcelona's youth academy.,youth academy,0.2267134189605713,1.4403035640716553,0.7437387704849243
-383,Ellen Johnson Sirleaf.,Ellen Johnson Sirleaf,0.27632880210876465,1.0930042266845703,0.9789343476295471
-384,The Constabulary (French: Connétablie).,Connétablie,0.4007701873779297,1.5257353782653809,0.4895284175872803
-385,The Romans.,Romans,0.36643004417419434,1.286409616470337,0.9210571050643921
-386,"19,500 tons.","19,500-ton",0.35993075370788574,1.482285737991333,0.9091674089431763
-387,Mercantilist theory.,mercantilist theory,0.31647443771362305,1.4866938591003418,0.9814292192459106
-388,"The Latin word ""neuron"" translates to the English word ""nerve"".",pitch,0.32962465286254883,1.5844662189483643,0.10062247514724731
-389,Bitumen.,Bitumen,0.765826940536499,1.3265740871429443,0.9760992527008057
-390,"Güshi Khan, the Oirat leader of the Khoshut Khanate.",Güshi Khan,0.3070821762084961,1.8064591884613037,0.8060777187347412
-391,Robert Peel.,Peel,0.43610477447509766,1.32716965675354,0.6091517210006714
-392,"The British Navy is constructing two new larger STOVL aircraft carriers, the Queen Elizabeth class.","two new larger STOVL aircraft carriers, the Queen Elizabeth class",0.5222330093383789,2.1703906059265137,0.9107974767684937
-393,The text does not mention the specific day when the stadium crowd jeered the Royal March in protest against Primo de Rivera's dictatorship.,14 June 1925,0.2885324954986572,2.622072458267212,0.27889883518218994
-394,5 years.,five years,0.3269808292388916,1.377690076828003,0.9109305143356323
-395,STOVL (Short Takeoff and Vertical Landing) aircraft.,vertical,0.30343127250671387,1.886150598526001,0.328388512134552
-396,To retain liquidity.,liquidity,0.2470104694366455,1.0527493953704834,0.6398615837097168
-397,Tibetan Buddhism is the dominant religion in Tibet.,Tibetan Buddhism,0.30758047103881836,1.384139060974121,0.803421139717102
-398,1989-1996 (7 years),1989 to 1996,0.2746999263763428,1.339944839477539,0.8464528322219849
-399,Battleship.,An aircraft carrier,0.6331110000610352,1.316551923751831,0.5516877174377441
-400,Bod,Bod,0.5031824111938477,0.9646632671356201,1.0
-401,"Paco Aguilar, a local journalist, alleged that police threatened Barcelona players before the 1943 match against Real Madrid.",police,0.3430163860321045,2.510716199874878,0.2584518492221832
-402,Members are nominated to the court by the president and are confirmed by the Senate.,Members are nominated to the court by the president and are confirmed by the Senate,0.7014212608337402,1.7448742389678955,0.9920647144317627
-403,Mastic pavements.,mastic,0.47460007667541504,1.1866238117218018,0.45190244913101196
-404,1624.,1624,0.2665832042694092,1.1352884769439697,0.9696050882339478
-405,The 7th century.,7th century,0.26514649391174316,1.2098536491394043,0.9420435428619385
-406,Canada.,petroleum,0.37824177742004395,0.9428815841674805,0.2372647225856781
-407,"The text does not specify how long Ronaldo remained with Barcelona, but it mentions that he was let go by the club due to his wage demands.",short time,0.4570934772491455,2.7048802375793457,0.17691317200660706
-408,10.,10,0.2556741237640381,1.087017297744751,0.9186002016067505
-409,"Fungi communicate to coordinate and organize their growth and development, as well as to interact with other organisms in symbiotic relationships.",to coordinate and organize their growth and development,0.29265284538269043,2.017578125,0.444175124168396
-410,Many hours of exposure in the camera were required.,hours of exposure,0.31752562522888184,1.688326120376587,0.7712373733520508
-411,The Canadian First Nations along the Athabasca River.,indigenous peoples,0.2926459312438965,1.477644443511963,0.4225805103778839
-412,3 July 1927.,3 July 1927,0.3380436897277832,1.5384330749511719,0.9821134209632874
-413,The resulting violence perpetrated by the extremists produced a series of large-scale arrests.,large-scale arrests,0.2969350814819336,1.9583446979522705,0.6839343309402466
-414,Asphalte.,asphalte,0.3990743160247803,1.0888545513153076,0.9712022542953491
-415,"The global financial crisis slowed GDP growth to 4.6% in 2009, though a strengthening agricultural sector led by rubber and timber exports increased growth to 5.1% in 2010 and an expected 7.3% in 2011.",The global financial crisis,0.3379340171813965,3.5370001792907715,0.44395869970321655
-416,The Yangtze River originates from the Tibetan Plateau.,Tibetan Plateau,0.3021097183227539,1.5063414573669434,0.6297446489334106
-417,Unmanned combat air vehicles (UCAV) and varied aircraft.,varied aircraft including unmanned combat air vehicles (UCAV),0.2537832260131836,1.9876015186309814,0.959618330001831
-418,The 18th century.,18th century,0.4182591438293457,1.2396113872528076,0.9575279951095581
-419,"1,000 troops and their supporting vehicles, and multiple helicopters at one time.",multiple helicopters at one time,0.38976144790649414,2.084287643432617,0.6326655745506287
-420,110 million years old.,110 million years,0.33072423934936523,1.4523353576660156,0.8458250761032104
-421,Real Madrid.,Real Madrid,0.22965002059936523,1.3210108280181885,0.9765374660491943
-422,Patrick Colquhoun.,Patrick Colquhoun,0.4019508361816406,1.4971387386322021,0.9874277114868164
-423,"Marine plants and animals, mainly algae.",living material,0.6775202751159668,1.5720131397247314,0.3207850754261017
-424,Barcelona is the dominant team in won games in La Liga.,Barcelona,0.3600199222564697,1.635554313659668,0.6597082614898682
-425,The text does not mention a specific player who was successful for Real Madrid in 1950.,Alfredo di Stéfano,0.3455817699432373,1.993300437927246,0.27012044191360474
-426,Josep Lluís Núñez.,Josep Lluís Núñez,0.4985339641571045,1.7086479663848877,0.9907472133636475
-427,Approximately 6 million people.,approximately 6 million,0.3279688358306885,1.2090048789978027,0.7716211080551147
-428,Real Madrid's record was 178 goals in a year.,Real Madrid,0.5273940563201904,1.8093459606170654,0.5991535186767578
-429,1837.,25 November 1837,0.3669571876525879,1.134080171585083,0.8148030042648315
-430,Passing style of play.,passing style,0.2658703327178955,1.4446475505828857,0.7466921806335449
-431,1838.,1838,2.462289333343506,1.155897617340088,0.9673311710357666
-432,1705.,1705,0.2867550849914551,1.3909645080566406,0.9660866856575012
-433,Up to 90 aircraft each.,up to 90,0.3859877586364746,1.284275770187378,0.46627965569496155
-434,STOBAR carrier.,STOBAR,1.406613826751709,1.1783490180969238,0.7925212383270264
-435,5 years.,five years,0.29176759719848633,1.3632676601409912,0.9109305143356323
-436,"A hostile reception, including being thrown a piglet's head and a full bottle of whiskey.",hostile,2.3940727710723877,2.196460008621216,0.4412001371383667
-437,1829,1829,0.31940746307373047,1.3351812362670898,1.0
-438,5,five,0.298236608505249,1.111147165298462,0.9229784607887268
-439,"Acts that confer knowledge and experiences, give advice and commands, and ask questions.","confer knowledge and experiences, give advice and commands, and ask questions",0.25625181198120117,1.5623974800109863,0.7626264095306396
-440,August.,August,0.30840277671813965,1.2763667106628418,0.9490442872047424
-441,Hudson’s Bay Company.,Hudson’s Bay Company,0.5063152313232422,1.1485815048217773,0.9861859679222107
-442,90,90,0.4011685848236084,0.9448668956756592,1.0
-443,Light carriers had the advantage of speed due to their converted cruiser hulls.,speed,0.39441585540771484,1.989006519317627,0.33409425616264343
-444,There is no mention of monks in the Drepung and Sera monasteries protesting for independence in the provided context.,1989,1.1704750061035156,2.197657585144043,-0.017743516713380814
-445,"The second most valuable sports team in the world, worth $3.2 billion.",second,0.34024786949157715,1.8871567249298096,0.15295454859733582
-446,Outside of Europe.,outside of Europe,0.3905527591705322,1.3784067630767822,0.9524121880531311
-447,2005-06 season.,2004–05,0.29471898078918457,1.537740707397461,0.6374144554138184
-448,To meet UEFA criteria.,meet UEFA criteria,0.27506375312805176,1.4309895038604736,0.8251283168792725
-449,"Aggregates (stone, sand, and gravel).",pressure,0.28359270095825195,1.4386255741119385,0.20491984486579895
-450,"Animal emotions, animal culture and learning, and sexual conduct.","animal emotions, animal culture and learning",0.26258158683776855,1.617912769317627,0.8763270378112793
-451,Environmental concerns.,environmental,0.4252760410308838,0.9977915287017822,0.710044264793396
-452,Lieutenant General of Police.,lieutenant general of police,0.2995457649230957,1.1908750534057617,0.98599773645401
-453,Arresting cables and a tailhook.,traditional carrier arresting cables and a tailhook on their aircraft,0.32939839363098145,1.3344604969024658,0.7592405676841736
-454,Police are usually paid through taxes as they are a public sector service.,through taxes,0.33553433418273926,1.9185986518859863,0.4171282649040222
-455,Sanskrit.,Greek,0.33627939224243164,1.0444550514221191,0.48292768001556396
-456,Gendarmerie are military units charged with civil policing.,military units charged with civil policing,0.32372355461120605,1.5334761142730713,0.7796275615692139
-457,A police officer's search during an investigatory stop is limited to determining whether the suspect is armed.,what [is] minimally necessary to determine whether [a suspect] is armed,0.33934879302978516,1.9343822002410889,0.609570324420929
-458,"Heavy aircraft, especially those loaded with air-to-ground weapons.",heavy aircraft,0.32073497772216797,1.825573444366455,0.8597229719161987
-459,The Bautai people.,Bautai,0.5297093391418457,1.2218172550201416,0.7651492357254028
-460,The UK's 1941 Design Light Fleet Carriers served during the war in the Royal Navy.,Royal Navy,0.3051633834838867,2.242821455001831,0.5856649875640869
-461,There is no mention of a past president of the Barcelona club committing suicide in 1930 in the provided text.,Gamper,0.34475040435791016,2.432281255722046,-0.01293368823826313
-462,Philipp von Hörnigk was a 17th-century Austrian political economist and civil servant.,Political economist and civil servant,0.3217580318450928,2.240121841430664,0.41560906171798706
-463,The Tibetan empire emerged in the 7th century under the rule of Songtsän Gampo.,7th century,0.32867956161499023,1.9289252758026123,0.3599241375923157
-464,€1.5 million,€1.5 million,0.3104679584503174,1.2670197486877441,1.0
-465,France.,France,0.35456395149230957,1.281139850616455,0.9445564150810242
-466,"Foreign aid, foreign direct investment, and exports of natural resources such as iron ore, rubber, and timber.",foreign aid,0.36112332344055176,1.9528777599334717,0.716772198677063
-467,The modern Nimitz class has a displacement nearly four times that of the older USS Enterprise.,nearly four times,0.26865553855895996,2.1925711631774902,0.12424656003713608
-468,The sanctions were placed on Liberian timber exports due to concerns that they were funding rebels in Sierra Leone.,were believed to be funding rebels in Sierra Leone.,0.2233881950378418,1.8941650390625,0.5555280447006226
-469,The USS Independence was a light aircraft carrier.,light,0.2580103874206543,1.3856759071350098,0.2170056402683258
-470,Mustard seed.,Mustard,0.5089952945709229,0.964897632598877,0.8591357469558716
-471,Violation of the FIFA's rules about the transfer of footballers aged under 18.,footballers aged under 18,0.3420381546020508,2.1630451679229736,0.6946724653244019
-472,FC Barcelona.,blaugrana,0.31235384941101074,1.3307809829711914,0.2192511409521103
-473,The Karma Kagyu sect.,Karma Kagyu,0.369884729385376,1.4984171390533447,0.6897799968719482
-474,The text does not mention the Northern Fleets nuclear-powered aircraft carrier.,Murmansk,0.2830471992492676,1.9352965354919434,0.05808010324835777
-475,"Selenizza bitumen is a naturally occurring solid hydrocarbon bitumen found in the native asphalt deposit of Selenice, Albania, whereas bitumen found in sands is a result of the transformation of ancient, microscopic algae and other once-living things under heat and pressure deep in the earth.",rock asphalt,0.3487088680267334,4.2672529220581055,0.5145568251609802
-476,Archbishop of Barcelona Gregorio Modrego.,Archbishop of Barcelona Gregorio Modrego,0.29545092582702637,1.6333534717559814,0.9786933064460754
-477,The Constabulary.,the Constabulary,0.4475517272949219,1.1855041980743408,0.9874811768531799
-478,Pope John Paul II.,Pope John Paul II,0.6788551807403564,1.1925339698791504,0.9677812457084656
-479,Early photographic technology.,photographic,0.2661757469177246,1.3686542510986328,0.7287851572036743
-480,1729.,1729,0.37331581115722656,1.381962537765503,0.962515652179718
-481,Instability and tendency to corrupt other pigments.,unstable,0.25806188583374023,1.653679370880127,0.2914370596408844
-482,"Fungi communicate with insects through biochemicals, specifically triggering specific behaviors in the insects through chemical signals.",through biochemicals of biotic origin,0.35910558700561523,1.760634183883667,0.34282317757606506
-483,1911.,1911,0.26218438148498535,1.13179612159729,0.9687958359718323
-484,The United States Army.,Army,0.2785043716430664,1.4326865673065186,0.7996413707733154
-485,Jordi Cruyff,Catalan Saint George,0.2568674087524414,1.430941104888916,0.19775709509849548
-486,Microscopic algae (diatoms) and other once-living things.,plants and animals,0.8452832698822021,1.881443738937378,0.39058566093444824
-487,€752 million.,€752 million,0.3068544864654541,1.236063003540039,0.9684659242630005
-488,Barcelona.,Barcelona,0.33455872535705566,1.12717604637146,0.9608309268951416
-489,"The Tibetan empire's long-standing influence and rule over a vast area, which led to the adoption of a consistent written language based on Classical Tibetan.",Tibetan empire,0.41443562507629395,2.492079734802246,0.646253228187561
-490,Terry Venables.,Terry Venables,0.49829530715942383,1.383674144744873,0.9901450872421265
-491,Songtsän Gampo founded the Tibetan Empire in the 7th century.,Songtsän Gampo,0.32762932777404785,1.749640703201294,0.44144371151924133
-492,1566.,1566,0.3123891353607178,1.1377882957458496,0.9763693809509277
-493,Accelerate more quickly to gain lift.,accelerate more quickly to gain lift,0.32174038887023926,1.328847885131836,0.9122065305709839
-494,a single year.,single year,0.40485239028930664,1.2241857051849365,0.8797513246536255
-495,Zhang Zhung.,Zhang Zhung,0.5251796245574951,1.2178480625152588,0.9797581434249878
-496,'Space Binding'.,Space Binding,0.26254916191101074,1.2251465320587158,0.8749485015869141
-497,The Kashag.,Kashag,0.4019172191619873,1.3836784362792969,0.9091917872428894
-498,89%,89%,0.34716081619262695,0.9912779331207275,1.0000001192092896
-499,€81-€94 million.,between €81 to €94 million,0.42990946769714355,1.3862507343292236,0.9112114906311035
+         Human rights abuses and treatment of Tibetans.",corruption and political repression,0.3856666088104248,1.3809175491333008,0.30388909578323364,0.0013864818024263432,0.0013864818024263432
+139,"The Washington Naval Treaty of 1922, which limited the construction of new heavy surface combat ships.",Washington Naval Treaty of 1922,0.3444335460662842,2.252288579940796,0.81353360414505,0.47619047619047616,0.47619047619047616
+140,Four.,four,0.23768138885498047,1.1166622638702393,0.9432603716850281,1.0,1.0
+141,Police are a public sector service.,public sector,1.1022942066192627,1.261073112487793,0.6423329710960388,0.5,0.5
+142,Bitumen.,bitumen feedstock,0.23143267631530762,1.267998218536377,0.6677465438842773,0.6666666666666666,0.6666666666666666
+143,Canada has the second-largest proven oil reserves in the world.,second-largest,0.29251646995544434,1.7866466045379639,0.3878207504749298,0.3076923076923077,0.3076923076923077
+144,Because aircraft carriers are extremely expensive.,Today's aircraft carriers are so expensive,0.36736536026000977,1.2782542705535889,0.8759372234344482,0.6153846153846153,0.6153846153846153
+145,Tsampa.,tsampa,1.005575180053711,0.9106342792510986,0.9808768033981323,1.0,1.0
+146,"In a simple model, information or content is sent in the form of spoken language.",spoken language,0.44122862815856934,1.6188838481903076,0.6153501272201538,0.23529411764705882,0.23529411764705882
+147,Selenizza is used as a drilling fluid additive in the oil and gas industry.,fluid additives,0.5882208347320557,2.01257586479187,0.4517672657966614,0.25,0.25
+148,Samuel Ryland Phipson.,Samuel Ryland Phipson,0.3740241527557373,1.289522647857666,0.9887204170227051,1.0,1.0
+149,Real Madrid.,Real Madrid,0.2490997314453125,1.3247058391571045,0.9765374660491943,1.0,1.0
+150,"Liberia is considered one of the world's poorest countries, with a formal employment rate of 15% and a GDP per capita of $297 in 2011.",one of the world's poorest countries,0.3558847904205322,2.499523162841797,0.6595845818519592,0.42424242424242425,0.42424242424242425
+151,Mongolian prince Khuden.,Mongolian prince Khuden,0.3215644359588623,1.2657599449157715,0.9815452694892883,1.0,1.0
+152,Powder or granular material of various particle sizes.,granular,0.3242027759552002,1.355271577835083,0.6027310490608215,0.2222222222222222,0.2222222222222222
+153,"Natural deposits of asphalt are found in the form of veins in rocks, such as in the Selenice mine in Albania, and in unconsolidated sandstones known as ""oil sands"" in Alberta, Canada, and ""tar sands"" in Utah, US.",once-living things,0.4768247604370117,3.5587046146392822,0.02847946807742119,0.0,0.0
+154,Korea and Japan.,Korea and Japan,0.25658369064331055,1.3804020881652832,0.9764156937599182,1.0,1.0
+155,Tibet is ranked the lowest among China's 31 provinces on the Human Development Index according to UN Development Programme data.,lowest,0.32216858863830566,2.0694870948791504,0.32998955249786377,0.0909090909090909,0.0909090909090909
+156,Anthroposemiotics.,anthroposemiotics,0.49631762504577637,1.0132050514221191,0.9786902666091919,1.0,1.0
+157,Tbilisi.,Tbilisi,0.295245885848999,1.374587059020996,0.9607057571411133,1.0,1.0
+158,Difficulty in developing a broad range of skills.,it is difficult to develop such a broad range of skills,0.22516131401062012,1.219557285308838,0.9058782458305359,0.631578947368421,0.631578947368421
+159,Wages and discipline.,wages and discipline,0.3421800136566162,1.1792552471160889,0.9258814454078674,1.0,1.0
+160,The Irish Constabulary Act of 1822.,Irish Constabulary Act,0.37126755714416504,1.745100736618042,0.862412691116333,0.6666666666666666,0.6666666666666666
+161,It did not fully solidify and would corrupt other pigments over time.,solidifies,0.2863950729370117,1.9495453834533691,0.30131784081459045,0.15384615384615385,0.15384615384615385
+162,Henry and John Fielding.,Henry and John Fielding,0.6321172714233398,1.2313807010650635,0.9797624945640564,1.0,1.0
+163,10 years.,10 years,0.2563667297363281,1.307328701019287,0.9513406753540039,1.0,1.0
+164,1959,1959,0.3859598636627197,1.0905699729919434,1.000000238418579,1.0,1.0
+165,The London Review.,London Review,0.486983060836792,1.3839867115020752,0.9492578506469727,0.8,0.8
+166,The Thames River Police force began with about 50 men.,50,0.2778198719024658,1.8103294372558594,0.17997369170188904,0.18181818181818182,0.18181818181818182
+167,Núñez's presidency.,Núñez's presidency,0.39349365234375,1.5489816665649414,0.9876844882965088,1.0,1.0
+168,Liberia has a rich history in textile arts and quilting.,textile arts and quilting,0.34580326080322266,1.4483985900878906,0.6981120109558105,0.5714285714285715,0.5714285714285715
+169,Supercarriers.,Supercarriers,0.36350488662719727,1.4308218955993652,0.9795801639556885,1.0,1.0
+170,There is no mention of Gamper committing suicide in the provided text.,30 July 1930,0.25914645195007324,1.9107015132904053,0.09764786809682846,0.0,0.0
+171,El Clásico.,El Clásico,0.2937641143798828,1.2663557529449463,0.9855237007141113,1.0,1.0
+172,There is no information about a match played in 1943.,11–1,0.5368900299072266,1.6941916942596436,0.16215631365776062,0.0,0.0
+173,"Ferdinand and Isabella formed Spain's first national police force, the Holy Brotherhood (Santa Hermandad), in 1479.",Ferdinand and Isabella,0.26975345611572266,2.5621354579925537,0.5236512422561646,0.3,0.3
+174,Utah.,Utah,0.4031867980957031,0.9535744190216064,0.962263286113739,1.0,1.0
+175,Foreign direct investment to GDP in the world.,of foreign direct investment to GDP in the world,0.24274420738220215,1.2865197658538818,0.9635377526283264,0.9411764705882353,0.9411764705882353
+176,1998.,1998,0.2460334300994873,1.3672893047332764,0.9467677474021912,1.0,1.0
+177,Cruyff.,Cruyff,0.6538076400756836,1.3806383609771729,0.9643968939781189,1.0,1.0
+178,Athabasca oil sands.,Athabasca oil sands,0.3097968101501465,1.4481227397918701,0.9906576871871948,1.0,1.0
+179,"1997, 2009, 2011, 2012, and 2015.","1997, 2009, 2011, 2012 and 2015",0.2837204933166504,2.09690523147583,0.9743295907974243,1.0,1.0
+180,Fairs Cup.,Fairs Cup,0.28884029388427734,1.384479284286499,0.9842197895050049,1.0,1.0
+181,1914.,1914,0.2919924259185791,1.1316649913787842,0.9601083993911743,1.0,1.0
+182,Catalonia and Castile.,rival regions,0.22798871994018555,1.271848440170288,0.4231767952442169,0.0,0.0
+183,16 March 1938.,16 March 1938,0.3273656368255615,1.543632984161377,0.9777056574821472,1.0,1.0
+184,The island.,an island,0.25884366035461426,1.3229515552520752,0.8810884356498718,0.5,0.5
+185,The Crown of Aragon.,Crown of Aragon,0.27752089500427246,1.3260366916656494,0.965575098991394,0.8571428571428571,0.8571428571428571
+186,5,five,0.25451040267944336,1.201446294784546,0.9229784607887268,0.0,0.0
+187,Charles de Gaulle.,Charles de Gaulle,0.317608118057251,1.4367928504943848,0.975007176399231,1.0,1.0
+188,"In a slightly more complex form, the sender and receiver are linked reciprocally.",reciprocally,0.40603184700012207,1.6110823154449463,0.31873297691345215,0.14285714285714288,0.14285714285714288
+189,A group of Spanish football fans founded Espanyol.,Spanish football fans,0.3419170379638672,1.803391456604004,0.6441389322280884,0.5454545454545454,0.5454545454545454
+190,Most of Canada's asphalt is now used as raw material for oil refineries in Canada and the United States.,oil refineries,0.60498046875,1.9981801509857178,0.4200071692466736,0.18181818181818182,0.18181818181818182
+191,2017.,in 2017,0.21928977966308594,1.3762085437774658,0.7826598882675171,0.6666666666666666,0.6666666666666666
+192,Fumes from the power plant were a major issue.,Fumes coming across the deck,0.4403386116027832,1.7847461700439453,0.47359564900398254,0.2857142857142857,0.2857142857142857
+193,Traditional bitumen.,mastic asphalts,0.3744087219238281,1.1085026264190674,0.5874517560005188,0.0,0.0
+194,"Mount Everest, at 8,848 meters (29,029 ft), is the highest elevation in Tibet.",Mount Everest,0.32804417610168457,2.0295681953430176,0.6221938729286194,0.23529411764705882,0.23529411764705882
+195,1728.,1728,0.2877542972564697,1.3747398853302002,0.9537217020988464,1.0,1.0
+196,"Signs of regional nationalism, including the Catalan flag and language.",regional nationalism,0.5645184516906738,1.8135673999786377,0.6803131103515625,0.33333333333333337,0.33333333333333337
+197,The 18th century.,18th century,0.41835904121398926,1.2345805168151855,0.9575279951095581,0.8,0.8
+198,500 °C.,500 °C,0.324692964553833,1.147947072982788,0.9656699895858765,1.0,1.0
+199,"The mine is unusual because it is one of the few mines in the world that is still operational, and it is the only European asphalt mine still in use.",still in use,0.4920806884765625,2.7800381183624268,0.16568832099437714,0.18181818181818182,0.18181818181818182
+200,The 18th century.,in the 18th century,0.2821950912475586,1.5094797611236572,0.9509250521659851,0.8571428571428571,0.8571428571428571
+201,Coal tar was used as the binder for road aggregates.,binder,0.9386594295501709,1.4766144752502441,0.4171625077724457,0.18181818181818182,0.18181818181818182
+202,85%,85%,0.2317366600036621,1.250166654586792,1.0,1.0,1.0
+203,Henry Kelsey.,Henry Kelsey,0.27132225036621094,1.109903335571289,0.978401780128479,1.0,1.0
+204,Information or content.,a message in natural language,0.6002402305603027,0.97198486328125,0.32683008909225464,0.0,0.0
+205,"Winters in Tibet are extremely cold, with low temperatures and intense cold in the northern regions.",intense cold,0.38399648666381836,1.7100224494934082,0.3743859827518463,0.2222222222222222,0.2222222222222222
+206,Rivaldo.,Rivaldo,0.32387423515319824,1.382833480834961,0.9793655872344971,1.0,1.0
+207,The 17th and 18th centuries.,17th and 18th centuries,0.26955413818359375,1.4409596920013428,0.9571167230606079,0.888888888888889,0.888888888888889
+208,Catalonia.,Second Spanish Republic,0.540410041809082,1.2689731121063232,0.5574109554290771,0.0,0.0
+209,The Qing commander restored the Dalai Lama as ruler in 1750.,Qing,0.3616640567779541,1.6903278827667236,0.48610973358154297,0.16666666666666669,0.16666666666666669
+210,"The first use of the word ""police"" in the UK was in 1714 with the appointment of Commissioners of Police for Scotland.",the appointment of Commissioners of Police for Scotland in 1714,0.3041956424713135,2.688718318939209,0.8311153650283813,0.625,0.5000000000000001
+211,Merchant ships.,mercantile hulls,0.4121358394622803,1.083824634552002,0.6397714018821716,0.0,0.0
+212,"Liaoning is classified as a training ship, intended to allow the navy to practice with carrier usage.",it is a training ship,0.28354763984680176,2.2527854442596436,0.6124604940414429,0.3636363636363636,0.3636363636363636
+213,The Marshal of France and the Constable of France.,The Marshal of France and the Constable of France,0.36461973190307617,1.4911949634552002,0.9809378385543823,1.0,1.0
+214,Asphalt must be heated to become workable.,heated or diluted,0.29071974754333496,1.3565177917480469,0.33921486139297485,0.2,0.2
+215,English.,English,0.3559696674346924,1.266394853591919,0.9305142164230347,1.0,1.0
+216,Liaoning is classified as a training ship.,a training ship,0.4747283458709717,1.378854751586914,0.6853370666503906,0.6,0.6
+217,Primarily ethnic Tibetans and some other ethnic groups.,ethnic Tibetans,0.30356764793395996,1.4542183876037598,0.9012278318405151,0.4,0.4
+218,The air boss.,a landing signal officer,0.2970845699310303,1.1319148540496826,0.3869101107120514,0.0,0.0
+219,The Marshal's force was called the Marshalcy.,the Marshalcy,0.3136420249938965,1.433506965637207,0.7675371170043945,0.4,0.4
+220,Espanyol.,Espanyol,0.29941725730895996,1.268125057220459,0.9882454872131348,1.0,1.0
+221,Four times.,four,0.2715909481048584,1.3252015113830566,0.6354660987854004,0.6666666666666666,0.6666666666666666
+222,"Japan's largest military ship since World War II, the 820-foot-long (250 m), 19,500-ton flattop Izumo.",Japan's largest military ship since World War II,0.3197333812713623,2.7371747493743896,0.8312743902206421,0.6206896551724138,0.6206896551724138
+223,Birthright citizenship in their own lands until 1904.,citizenship in their own lands,1.6190431118011475,1.4426300525665283,0.6745914220809937,0.7692307692307693,0.7692307692307693
+224,The French Navy (Marine Nationale).,the French Navy,0.3679993152618408,1.6538300514221191,0.8888954520225525,0.7499999999999999,0.7499999999999999
+225,"8,000 nautical miles (15,000 kilometres)","8,000 nautical miles",0.288909912109375,1.850893497467041,0.9427235722541809,0.7272727272727273,0.7272727272727273
+226,180 goals in 2015.,180,0.2845277786254883,1.5926337242126465,0.5276178121566772,0.4,0.4
+227,Brazil.,Brazil,0.3075423240661621,1.0126943588256836,0.9418349862098694,1.0,1.0
+228,"They joined Barça, which became a symbol of Catalan culture and identity.",joining Barça,0.34695911407470703,1.986025333404541,0.6750004291534424,0.375,0.375
+229,1993,1995,0.32062792778015137,1.3308475017547607,0.8227407932281494,0.0,0.0
+230,Jeremy Bentham's philosophy influenced Peel.,Jeremy Bentham,0.46826767921447754,1.586927890777588,0.4888029098510742,0.5,0.5
+231,The pending appeal to the Court of Arbitration for Sport allowed Barcelona to sign players during the summer of 2014.,sign players,0.3881349563598633,2.4512946605682373,0.5344761610031128,0.18181818181818182,0.18181818181818182
+232,Nicolas Delamare wrote the 'Treatise on the Police' in 1705.,Nicolas Delamare,0.36769938468933105,2.178772211074829,0.52333664894104,0.33333333333333337,0.33333333333333337
+233,2016.,2016,0.3371765613555908,1.3726105690002441,0.9577949643135071,1.0,1.0
+234,V/STOL stands for Vertical/Short Takeoff and Landing.,aircraft capable of vertical or short take-off and landing,0.33915209770202637,1.6256804466247559,0.4183984100818634,0.4210526315789474,0.4210526315789474
+235,"The process used to harden the asphalt is ""blowing"" the product: namely reacting it with oxygen.",blowing,0.32752251625061035,1.9965345859527588,0.24934054911136627,0.11764705882352941,0.11764705882352941
+236,Revolutionary spirit.,revolutionary,0.5411937236785889,1.3332099914550781,0.7599326968193054,0.6666666666666666,0.6666666666666666
+237,3,three,0.29373669624328613,1.2732856273651123,0.8656187057495117,0.0,0.0
+238,They were used to deploy balloons.,to deploy balloons,0.35924315452575684,1.2770555019378662,0.7887687087059021,0.6666666666666666,0.6666666666666666
+239,Canada.,Canada,0.28280162811279297,1.2333357334136963,0.9222739934921265,1.0,1.0
+240,Sandro Rosell.,Sandro Rosell,0.28630709648132324,1.433783769607544,0.9856849908828735,1.0,1.0
+241,Diego Maradona's goal of the century.,Diego Maradona,0.32718777656555176,1.709115743637085,0.7724279165267944,0.4444444444444445,0.4444444444444445
+242,Espanyol.,Espanyol,0.26232481002807617,1.1832692623138428,0.9882454872131348,1.0,1.0
+243,Place de la Concorde.,Place de la Concorde,0.38478851318359375,1.2793967723846436,0.9847628474235535,1.0,1.0
+244,"60,000 spectators.","20,000",0.30115437507629395,1.4884984493255615,0.3968990445137024,0.4,0.4
+245,The crest of Liberia features a palm tree and a coffee tree.,laurel,0.33384108543395996,1.4981443881988525,0.2416456937789917,0.0,0.0
+246,Penyes.,penyes,0.29189348220825195,1.0692763328552246,0.978041410446167,1.0,1.0
+247,The Royal Australian Navy.,The Royal Australian Navy,2.869854211807251,1.4509673118591309,0.9856184720993042,1.0,1.0
+248,7 or 8 new carriers.,one every four years,0.3505682945251465,1.5955204963684082,0.20901012420654297,0.0,0.0
+249,The oil refining industry.,modern oil refineries,0.397371768951416,1.365694522857666,0.6952083706855774,0.28571428571428575,0.28571428571428575
+250,Elliot Sperling.,Elliot Sperling,0.3045318126678467,1.1655402183532715,0.9876253604888916,1.0,1.0
+251,1911-12.,1912,0.24182748794555664,1.2399249076843262,0.560483992099762,0.0,0.0
+252,90%,90%,0.5931746959686279,0.9885542392730713,1.0,1.0,1.0
+253,"29,029 feet.","29,029",0.37786030769348145,1.230205774307251,0.49554744362831116,0.8,0.8
+254,Al Ahly SC.,Al Ahly SC,0.35808730125427246,1.26953125,0.9849349856376648,1.0,1.0
+255,1829,1829,0.28272032737731934,1.3284556865692139,1.0,1.0,1.0
+256,1800.,1800,0.2626619338989258,1.387263298034668,0.9630804061889648,1.0,1.0
+257,The concept of police itself.,patents,0.3844132423400879,1.4861767292022705,0.1310233622789383,0.0,0.0
+258,China purchased the STOBAR carrier Liaoning in 1998 as a stripped hulk on the pretext of use as a floating casino.,on the pretext of use as a floating casino,0.5255029201507568,2.6425678730010986,0.4495043158531189,0.6,0.6
+259,Members of the Supreme Court serve until the age of 70.,until the age of 70,0.2807610034942627,1.8587260246276855,0.5031411051750183,0.625,0.625
+260,Human communication is defined as a two-way process of conveying and receiving information through verbal and non-verbal cues.,a system of symbols,0.22777724266052246,1.8663487434387207,0.11900121718645096,0.16666666666666669,0.16666666666666669
+261,1667,1667,0.27788233757019043,1.3240993022918701,1.0,1.0,1.0
+262,The 1960s.,1960s and 1970s,0.5292420387268066,1.4845590591430664,0.8898616433143616,0.4,0.4
+263,"The handler is responsible for coordinating police work, sharing information, and getting help quickly through radio communications equipment.",the movement of aircraft before launching and after recovery,0.26412105560302734,1.7076599597930908,0.11558034271001816,0.14814814814814814,0.14814814814814814
+264,Manchester United.,Manchester United,0.28052449226379395,1.333451271057129,0.9565579891204834,1.0,1.0
+265,The Royal Irish Constabulary.,Royal Irish Constabulary,0.3143916130065918,1.2889347076416016,0.9717297554016113,0.8571428571428571,0.8571428571428571
+266,"The Central Bank of Liberia is responsible for printing and maintaining the Liberian dollar, the primary form of currency in Liberia.",printing and maintaining the Liberian dollar,0.37265849113464355,2.044769763946533,0.8151494264602661,0.4444444444444445,0.4444444444444445
+267,He failed to win any trophies.,win any trophies,0.2688167095184326,1.5483837127685547,0.6475435495376587,0.6666666666666666,0.6666666666666666
+268,15th in La Liga.,15th,0.3751978874206543,1.5435082912445068,0.5538527965545654,0.4,0.4
+269,Qinghai Lake (Koko Nor) is the largest lake in China.,Qinghai Lake,0.4470524787902832,1.6577861309051514,0.7781052589416504,0.33333333333333337,0.33333333333333337
+270,Lord Shiva.,Lord Shiva,0.26490163803100586,0.9881625175476074,0.9522991180419922,1.0,1.0
+271,"Marriage, parenthood, and divorce.","marriage, parenthood or divorce",0.34152674674987793,1.1608173847198486,0.9108546376228333,0.75,0.75
+272,Excellent writing ability.,excellent writing ability,0.3281972408294678,0.9612698554992676,0.9699920415878296,1.0,1.0
+273,"Easier dispatching of calls, criminal background checks, and updating officers' daily activity logs and reports in real-time.",criminal background checks on persons of interest to be completed in a matter of seconds,0.2829709053039551,2.117401599884033,0.3878660500049591,0.303030303030303,0.2424242424242424
+274,Borussia Dortmund.,Borussia Dortmund,0.3381202220916748,1.223010540008545,0.9725689888000488,1.0,1.0
+275,The Marshal and Constable of France were formally classified as Great Officers of the Crown of France with police responsibilities.,Great Officers of the Crown of France,1.110816240310669,2.3652729988098145,0.7632297277450562,0.5185185185185185,0.5185185185185185
+276,1910,1910,2.2489676475524902,1.1077322959899902,1.000000238418579,1.0,1.0
+277,A Liberian-made quilt.,Liberian-made quilt,0.35460972785949707,1.1395363807678223,0.9721940755844116,0.8571428571428571,0.8571428571428571
+278,1550.,1553,0.31096982955932617,1.368133306503296,0.639433741569519,0.0,0.0
+279,Skinheads.,skinheads,0.30229711532592773,1.3296284675598145,0.9473279714584351,1.0,1.0
+280,Asphalt emulsion.,emulsion,0.3320651054382324,1.3362972736358643,0.7348406910896301,0.6666666666666666,0.6666666666666666
+281,The 1720 expedition by the Qing dynasty.,Battle of Chamdo,0.2633047103881836,1.4422276020050049,0.14092925190925598,0.0,0.0
+282,Asphalt.,'asphalt,0.30256199836730957,1.2522785663604736,0.9216813445091248,1.0,1.0
+283,The Court of Arbitration for Sport.,Court of Arbitration for Sport,0.33370184898376465,1.6030056476593018,0.957852840423584,0.9090909090909091,0.9090909090909091
+284,The Glasgow Police Act.,Glasgow Police Act,0.28249168395996094,1.44095778465271,0.9643813371658325,0.8571428571428571,0.8571428571428571
+285,32% of the population of Spain are supporters of Real Madrid.,32%,0.4290618896484375,1.7421009540557861,0.4682617485523224,0.16666666666666669,0.16666666666666669
+286,Get free people of color out of the South.,to get free people of color out of the South,0.3251934051513672,1.3487770557403564,0.8637018203735352,0.9473684210526316,0.9473684210526316
+287,"Personal filters, regional traditions, cultures, or gender.",different regional traditions,0.31302452087402344,1.3106074333190918,0.4864376187324524,0.4,0.4
+288,310 billion barrels (50×10^9 m3),310 billion barrels,0.28197431564331055,1.8170554637908936,0.9281924962997437,0.6,0.6
+289,Third.,fourth,0.46404123306274414,1.111910104751587,0.7153785824775696,0.0,0.0
+290,The Prussian police.,Prussian,0.25685954093933105,1.1837613582611084,0.7961311340332031,0.5,0.5
+291,5 mg/m3.,5 mg/m3,0.3459947109222412,1.199429988861084,0.9903899431228638,1.0,1.0
+292,FC Basel.,Joan Gamper,0.24125218391418457,1.324341058731079,0.09738688170909882,0.0,0.0
+293,Rivaldo.,Rivaldo,0.44463515281677246,1.3865022659301758,0.9793655872344971,1.0,1.0
+294,"Gbarpolu, created in 2001.",Gbarpolu,0.29262232780456543,1.405407428741455,0.7941000461578369,0.4,0.4
+295,Germany and France.,German and French,0.33620452880859375,1.3746986389160156,0.6635163426399231,0.3333333333333333,0.3333333333333333
+296,1988,The 1973–74 season,0.2484607696533203,1.3171215057373047,0.32099664211273193,0.0,0.0
+297,Frank Rijkaard.,Frank Rijkaard,0.24076223373413086,1.4942216873168945,0.987040638923645,1.0,1.0
+298,"60,000 spectators.","60,000",0.31864380836486816,1.318206787109375,0.5884809494018555,0.8,0.8
+299,The Royal Navy originally developed the ski-jump ramp.,the Royal Navy,0.2505786418914795,1.7675092220306396,0.4898289144039154,0.5,0.5
+300,People of Black African descent.,Black African descent.,1.383603572845459,1.1552624702453613,0.8486793637275696,0.7499999999999999,0.7499999999999999
+301,1709.,1709,0.4547910690307617,1.379997730255127,0.9703022241592407,1.0,1.0
+302,The central region around Lhasa.,central region around Lhasa,0.4537198543548584,1.57326078414917,0.9732898473739624,0.888888888888889,0.888888888888889
+303,Late 18th and early 19th centuries.,late 18th and early 19th centuries,0.39032530784606934,1.7479894161224365,0.9559025764465332,1.0,1.0
+304,The Canberra-class LHD's will be the largest in Australian naval history.,the largest in Australian naval history,0.3971562385559082,1.9590754508972168,0.7930142879486084,0.631578947368421,0.631578947368421
+305,"The state wants a police force to enforce the law, protect property, and limit civil disorder.","enforce the law, protect property, and limit civil disorder",0.2343285083770752,2.1752352714538574,0.760793924331665,0.72,0.72
+306,"The words ""bitumen"" and ""asphalt"" are frequently used interchangeably, with ""bitumen"" used in British English and ""asphalt"" used in American English.",interchangeably,0.32496047019958496,2.7294468879699707,0.2125883847475052,0.0909090909090909,0.0909090909090909
+307,"Barcelona achieved the sextuple in 2009, winning La Liga, Copa del Rey, Champions League, Supercopa de España, UEFA Super Cup, and FIFA Club World Cup.",continental treble,0.24887847900390625,3.1680023670196533,0.09389703720808029,0.0,0.0
+308,"Family rules, family roles, and family dialectics.","family rules, family roles or family dialectics",0.343489408493042,1.3113670349121094,0.976412296295166,0.8571428571428571,0.8571428571428571
+309,Queen Victoria.,Queen Victoria,0.31812143325805664,0.9930422306060791,0.9674348831176758,1.0,1.0
+310,Anarchist agitators and other political radicals.,anarchist agitators and other political radicals,0.45589590072631836,1.7603209018707275,0.9781767129898071,1.0,1.0
+311,"Asphalt/bitumen was used as waterproofing for fabrics, roofs, pools, baths, and canoes.",pools and baths,0.5988845825195312,1.9923322200775146,0.26375651359558105,0.375,0.25
+312,HMS Argus (1918),HMS Argus,0.24410367012023926,1.5329782962799072,0.8636488318443298,0.8,0.8
+313,2% of the population aged 15–49.,2%,0.3920876979827881,1.430495262145996,0.5123174786567688,0.25,0.25
+314,Five.,five,0.3091716766357422,1.1023952960968018,0.925620436668396,1.0,1.0
+315,The Flag Bridge is designated for the embarked admiral and his staff.,the embarked admiral and his staff,0.34645605087280273,1.9155590534210205,0.6575954556465149,0.6666666666666666,0.6666666666666666
+316,Heavily laden aircraft.,heavily laden aircraft,0.5598757266998291,1.4894633293151855,0.9791452884674072,1.0,1.0
+317,The text does not mention the stadium being closed.,six months,0.35364556312561035,1.7100589275360107,0.01115054078400135,0.0,0.0
+318,1993.,1993,0.28322362899780273,1.3795711994171143,0.9678646326065063,1.0,1.0
+319,"Espanyol drew their supporters mainly from sectors close to the regime such as policemen, military officers, civil servants and career fascists.",close to the regime,0.35332536697387695,2.666139841079712,0.32352954149246216,0.32,0.32
+320,William H. Baxter.,William H. Baxter,0.36345338821411133,1.437605857849121,0.9864861369132996,1.0,1.0
+321,"International players, including Ronaldinho, Deco, Henrik Larsson, Ludovic Giuly, Samuel Eto'o, and Rafael Márquez, were added to the team.",international,0.30484676361083984,3.1126925945281982,0.288504034280777,0.0909090909090909,0.0909090909090909
+322,"The strengths of the simple model are simplicity, generality, and quantifiability.","simplicity, generality, and quantifiability",0.33507776260375977,1.6184701919555664,0.7280848026275635,0.5333333333333333,0.5333333333333333
+323,Taxation.,all taxation,0.35295772552490234,1.0585801601409912,0.7627649307250977,0.6666666666666666,0.6666666666666666
+324,"About 140,000 square kilometers, an area larger than England.",most,0.5327491760253906,1.8399431705474854,0.009813036769628525,0.0,0.0
+325,1979.,1979,0.3222377300262451,1.0409154891967773,0.9622029662132263,1.0,1.0
+326,1870.,1870,0.30935072898864746,1.0955893993377686,0.964709997177124,1.0,1.0
+327,"Théodore Géricault's ""Raft of the Medusa"" (1818-1819) is an example of the damaging effects of bitumen.",Théodore Géricault's,0.5456831455230713,2.8973989486694336,0.36660340428352356,0.4,0.4
+328,57.4 years.,57.4 years,0.4782676696777344,1.161637544631958,0.98503178358078,1.0,1.0
+329,He was involved in politics.,pro-independence political party,0.3711864948272705,1.4963436126708984,0.334575355052948,0.22222222222222224,0.22222222222222224
+330,The text does not mention the titles Barcelona won in 1948 and 1949.,La Liga,0.3629894256591797,2.1521992683410645,0.3003930151462555,0.0,0.0
+331,"International policing, transnational policing, and global policing.","international policing, transnational policing, and/or global policing",0.2653219699859619,1.754730224609375,0.9530302286148071,0.9333333333333333,0.9333333333333333
+332,"70,600 tonnes.",the largest warships ever built for the Royal Navy,0.3695535659790039,1.4722840785980225,0.22352279722690582,0.0,0.0
+333,Sand deposits.,petroleum,0.4098076820373535,1.0483274459838867,0.4214102029800415,0.0,0.0
+334,"Peel standardized the police force as an official paid profession, organized it in a civilian fashion, and made it answerable to the public.",in a civilian fashion,0.3818168640136719,2.633765697479248,0.4297000765800476,0.29629629629629634,0.29629629629629634
+335,Syncrude.,synbit,0.508770227432251,1.324817419052124,0.38690516352653503,0.0,0.0
+336,Clarmac Roads Ltd.,Clarmac Roads Ltd,0.3314640522003174,1.4488983154296875,0.9918279647827148,1.0,1.0
+337,The Chinese government denounced the Simla Accord as illegal.,illegal,0.260709285736084,1.487746000289917,0.31072860956192017,0.19999999999999998,0.19999999999999998
+338,"South Africa's ""shoot-to-kill"" policy allows police to use deadly force against any person who poses a significant threat to them or civilians.",allows police to use deadly force against any person who poses a significant threat to them or civilians,0.28299832344055176,2.7550907135009766,0.745879590511322,0.8372093023255813,0.8372093023255813
+339,"The American Colonization Society (ACS) was a group founded in 1816 to resettle free blacks and freed slaves in Africa, specifically in what is now Liberia.",a movement to resettle American free blacks and freed slaves in Africa.,0.41564321517944336,2.6192727088928223,0.5964872241020203,0.5789473684210527,0.5263157894736842
+340,The police can establish the guest's identity and forward it to the innkeeper.,establish a restaurant guest's identity and forward it to the innkeeper,0.33263492584228516,1.7288410663604736,0.7923993468284607,0.7692307692307692,0.7692307692307692
+341,Syncrude.,syncrude,0.30446767807006836,1.306131362915039,0.9766838550567627,1.0,1.0
+342,Police corruption.,corruption,0.3478553295135498,1.320284366607666,0.7668799161911011,0.6666666666666666,0.6666666666666666
+343,"Redwater, Alberta.","Redwater, Alberta",0.4436526298522949,1.4005837440490723,0.9773560762405396,1.0,1.0
+344,"Espanyol was seen as a club that cultivated compliance to the central authority, in contrast to Barcelona's revolutionary spirit.",compliance,0.2682363986968994,2.487900733947754,0.23866811394691467,0.09523809523809523,0.09523809523809523
+345,Asia.,Asia,0.38266515731811523,0.9974822998046875,0.9424371719360352,1.0,1.0
+346,Selenizza.,Selenizza,0.3907735347747803,1.333890676498413,0.9826659560203552,1.0,1.0
+347,Cochin Shipyard.,Cochin Shipyard,0.2674684524536133,1.4480164051055908,0.9864052534103394,1.0,1.0
+348,Nothing was proven.,nothing,0.2815573215484619,1.391263723373413,0.36827126145362854,0.5,0.5
+349,The Marshal's force was called the Marshalcy.,the Marshalcy,0.2580885887145996,1.431049108505249,0.7675371170043945,0.4,0.4
+350,1926.,1926,0.2514026165008545,1.3813743591308594,0.9698734879493713,1.0,1.0
+351,The 1850s to the 1920s.,1850s to the 1920s,0.36713504791259766,1.7640137672424316,0.9797862768173218,0.888888888888889,0.888888888888889
+352,"The first model for communication, introduced by Claude Shannon and Warren Weaver in 1949, consisted of three primary parts: sender, channel, and receiver.","sender, channel, and receiver",0.38155126571655273,2.3077797889709473,0.6495212316513062,0.29629629629629634,0.29629629629629634
+353,Barley.,barley,0.3746654987335205,0.9379870891571045,0.9610965251922607,1.0,1.0
+354,8 years.,eight,0.3976149559020996,1.3862977027893066,0.5738191604614258,0.0,0.0
+355,2009,11 May 2013,0.3857290744781494,1.1830520629882812,0.6131200194358826,0.0,0.0
+356,Futbol Club Barcelona.,Futbol Club Barcelona,0.25864410400390625,1.4548838138580322,0.9804826378822327,1.0,1.0
+357,HMS Queen Elizabeth and HMS Prince of Wales.,HMS Queen Elizabeth and HMS Prince of Wales,0.26610493659973145,1.6574382781982422,0.976864755153656,1.0,1.0
+358,3-0.,3–0,0.4653146266937256,1.2678840160369873,0.938849687576294,1.0,1.0
+359,The Amdo region.,Amdo region,0.24450063705444336,1.4742145538330078,0.9644397497177124,0.8,0.8
+360,1954.,1954,0.24560022354125977,1.3764066696166992,0.9741775989532471,1.0,1.0
+361,5,five,0.3356921672821045,1.268489122390747,0.9229784607887268,0.0,0.0
+362,UN sanctions were placed on Liberian timber exports in 2003.,Liberian timber exports,0.481309175491333,1.620406150817871,0.7147892713546753,0.4615384615384615,0.4615384615384615
+363,474 goals.,474,0.4847221374511719,1.2275702953338623,0.5528300404548645,0.6666666666666666,0.6666666666666666
+364,Police often use unmarked cars for sting operations or apprehending criminals without alerting them to their presence.,primarily for sting operations or apprehending criminals without alerting them to their presence,0.4334590435028076,1.988090991973877,0.719382643699646,0.8000000000000002,0.8000000000000002
+365,I don't have information about a hospital in Monrova.,John F. Kennedy Medical Center,0.22831273078918457,1.5886528491973877,0.3248502016067505,0.0,0.0
+366,1724.,1724,0.2821195125579834,1.3816375732421875,0.9658308029174805,1.0,1.0
+367,Synthetic crude oil and diesel fuel.,diesel fuel,0.32863545417785645,1.462402582168579,0.7537238001823425,0.5,0.5
+368,Supercarrier.,fleet carrier,0.38129258155822754,1.1788108348846436,0.5158542394638062,0.0,0.0
+369,Canoes.,canoes,0.2486879825592041,1.073991060256958,0.9828940629959106,1.0,1.0
+370,The People's Redemption Council (PRC),the People's Redemption Council,0.3451395034790039,1.6430771350860596,0.7853619456291199,0.9090909090909091,0.9090909090909091
+371,One or two.,two,0.3004951477050781,1.14046311378479,0.7253440618515015,0.5,0.5
+372,Espanyol with a 6-0 win in 1951.,Espanyol,0.29865550994873047,1.830620288848877,0.5640671253204346,0.2222222222222222,0.2222222222222222
+373,Gabriel Nicolas de la Reynie.,Gabriel Nicolas de la Reynie,0.30124902725219727,1.5421557426452637,0.9858062863349915,1.0,1.0
+374,15% formal employment rate.,15%,0.2580225467681885,1.1864440441131592,0.6187999248504639,0.4,0.4
+375,The 73 members of the House are apportioned among the 15 counties of Liberia.,the 15 counties on the basis of the national census,0.33357810974121094,2.0919268131256104,0.46732595562934875,0.5,0.3333333333333333
+376,"Plants communicate to warn nearby plants of danger through volatiles, releasing chemical signals into the air when exposed to herbivory attack behavior.",via volatiles,0.3448457717895508,2.166142702102661,0.3461058735847473,0.08333333333333334,0.08333333333333334
+377,"Jaime Gil-Aluja, the chairman of the Economical-Statutory Committee, recommended setting up the FC Barcelona Foundation in 1994.",Jaime Gil-Aluja,0.45117902755737305,2.3413631916046143,0.3217492997646332,0.2727272727272727,0.2727272727272727
+378,Director of football.,director of football,0.31262707710266113,1.3858997821807861,0.9770623445510864,1.0,1.0
+379,"April 12, 1980.","April 12, 1980",0.3702540397644043,1.5891427993774414,0.9860187768936157,1.0,1.0
+380,Monrovia.,Monrovia.,1.835052728652954,1.3832943439483643,1.0,1.0,1.0
+381,The forward rolling movement of the aircraft into vertical velocity.,some of the forward rolling movement of the aircraft into vertical velocity,0.23715710639953613,1.4846014976501465,0.9633985757827759,0.9090909090909091,0.9090909090909091
+382,Barcelona's youth academy.,youth academy,0.2267134189605713,1.4403035640716553,0.7437387704849243,0.6666666666666666,0.6666666666666666
+383,Ellen Johnson Sirleaf.,Ellen Johnson Sirleaf,0.27632880210876465,1.0930042266845703,0.9789343476295471,1.0,1.0
+384,The Constabulary (French: Connétablie).,Connétablie,0.4007701873779297,1.5257353782653809,0.4895284175872803,0.5714285714285715,0.5714285714285715
+385,The Romans.,Romans,0.36643004417419434,1.286409616470337,0.9210571050643921,0.6666666666666666,0.6666666666666666
+386,"19,500 tons.","19,500-ton",0.35993075370788574,1.482285737991333,0.9091674089431763,1.0,1.0
+387,Mercantilist theory.,mercantilist theory,0.31647443771362305,1.4866938591003418,0.9814292192459106,1.0,1.0
+388,"The Latin word ""neuron"" translates to the English word ""nerve"".",pitch,0.32962465286254883,1.5844662189483643,0.10062247514724731,0.0,0.0
+389,Bitumen.,Bitumen,0.765826940536499,1.3265740871429443,0.9760992527008057,1.0,1.0
+390,"Güshi Khan, the Oirat leader of the Khoshut Khanate.",Güshi Khan,0.3070821762084961,1.8064591884613037,0.8060777187347412,0.4615384615384615,0.4615384615384615
+391,Robert Peel.,Peel,0.43610477447509766,1.32716965675354,0.6091517210006714,0.6666666666666666,0.6666666666666666
+392,"The British Navy is constructing two new larger STOVL aircraft carriers, the Queen Elizabeth class.","two new larger STOVL aircraft carriers, the Queen Elizabeth class",0.5222330093383789,2.1703906059265137,0.9107974767684937,0.8,0.8
+393,The text does not mention the specific day when the stadium crowd jeered the Royal March in protest against Primo de Rivera's dictatorship.,14 June 1925,0.2885324954986572,2.622072458267212,0.27889883518218994,0.0,0.0
+394,5 years.,five years,0.3269808292388916,1.377690076828003,0.9109305143356323,0.5,0.5
+395,STOVL (Short Takeoff and Vertical Landing) aircraft.,vertical,0.30343127250671387,1.886150598526001,0.328388512134552,0.25,0.25
+396,To retain liquidity.,liquidity,0.2470104694366455,1.0527493953704834,0.6398615837097168,0.5,0.5
+397,Tibetan Buddhism is the dominant religion in Tibet.,Tibetan Buddhism,0.30758047103881836,1.384139060974121,0.803421139717102,0.4,0.4
+398,1989-1996 (7 years),1989 to 1996,0.2746999263763428,1.339944839477539,0.8464528322219849,0.5714285714285715,0.5714285714285715
+399,Battleship.,An aircraft carrier,0.6331110000610352,1.316551923751831,0.5516877174377441,0.0,0.0
+400,Bod,Bod,0.5031824111938477,0.9646632671356201,1.0,1.0,1.0
+401,"Paco Aguilar, a local journalist, alleged that police threatened Barcelona players before the 1943 match against Real Madrid.",police,0.3430163860321045,2.510716199874878,0.2584518492221832,0.10526315789473684,0.10526315789473684
+402,Members are nominated to the court by the president and are confirmed by the Senate.,Members are nominated to the court by the president and are confirmed by the Senate,0.7014212608337402,1.7448742389678955,0.9920647144317627,1.0,1.0
+403,Mastic pavements.,mastic,0.47460007667541504,1.1866238117218018,0.45190244913101196,0.6666666666666666,0.6666666666666666
+404,1624.,1624,0.2665832042694092,1.1352884769439697,0.9696050882339478,1.0,1.0
+405,The 7th century.,7th century,0.26514649391174316,1.2098536491394043,0.9420435428619385,0.8,0.8
+406,Canada.,petroleum,0.37824177742004395,0.9428815841674805,0.2372647225856781,0.0,0.0
+407,"The text does not specify how long Ronaldo remained with Barcelona, but it mentions that he was let go by the club due to his wage demands.",short time,0.4570934772491455,2.7048802375793457,0.17691317200660706,0.0,0.0
+408,10.,10,0.2556741237640381,1.087017297744751,0.9186002016067505,1.0,1.0
+409,"Fungi communicate to coordinate and organize their growth and development, as well as to interact with other organisms in symbiotic relationships.",to coordinate and organize their growth and development,0.29265284538269043,2.017578125,0.444175124168396,0.5517241379310345,0.5517241379310345
+410,Many hours of exposure in the camera were required.,hours of exposure,0.31752562522888184,1.688326120376587,0.7712373733520508,0.5,0.5
+411,The Canadian First Nations along the Athabasca River.,indigenous peoples,0.2926459312438965,1.477644443511963,0.4225805103778839,0.0,0.0
+412,3 July 1927.,3 July 1927,0.3380436897277832,1.5384330749511719,0.9821134209632874,1.0,1.0
+413,The resulting violence perpetrated by the extremists produced a series of large-scale arrests.,large-scale arrests,0.2969350814819336,1.9583446979522705,0.6839343309402466,0.35294117647058826,0.35294117647058826
+414,Asphalte.,asphalte,0.3990743160247803,1.0888545513153076,0.9712022542953491,1.0,1.0
+415,"The global financial crisis slowed GDP growth to 4.6% in 2009, though a strengthening agricultural sector led by rubber and timber exports increased growth to 5.1% in 2010 and an expected 7.3% in 2011.",The global financial crisis,0.3379340171813965,3.5370001792907715,0.44395869970321655,0.1951219512195122,0.1951219512195122
+416,The Yangtze River originates from the Tibetan Plateau.,Tibetan Plateau,0.3021097183227539,1.5063414573669434,0.6297446489334106,0.4,0.4
+417,Unmanned combat air vehicles (UCAV) and varied aircraft.,varied aircraft including unmanned combat air vehicles (UCAV),0.2537832260131836,1.9876015186309814,0.959618330001831,0.875,0.625
+418,The 18th century.,18th century,0.4182591438293457,1.2396113872528076,0.9575279951095581,0.8,0.8
+419,"1,000 troops and their supporting vehicles, and multiple helicopters at one time.",multiple helicopters at one time,0.38976144790649414,2.084287643432617,0.6326655745506287,0.5555555555555556,0.5555555555555556
+420,110 million years old.,110 million years,0.33072423934936523,1.4523353576660156,0.8458250761032104,0.8571428571428571,0.8571428571428571
+421,Real Madrid.,Real Madrid,0.22965002059936523,1.3210108280181885,0.9765374660491943,1.0,1.0
+422,Patrick Colquhoun.,Patrick Colquhoun,0.4019508361816406,1.4971387386322021,0.9874277114868164,1.0,1.0
+423,"Marine plants and animals, mainly algae.",living material,0.6775202751159668,1.5720131397247314,0.3207850754261017,0.0,0.0
+424,Barcelona is the dominant team in won games in La Liga.,Barcelona,0.3600199222564697,1.635554313659668,0.6597082614898682,0.16666666666666669,0.16666666666666669
+425,The text does not mention a specific player who was successful for Real Madrid in 1950.,Alfredo di Stéfano,0.3455817699432373,1.993300437927246,0.27012044191360474,0.0,0.0
+426,Josep Lluís Núñez.,Josep Lluís Núñez,0.4985339641571045,1.7086479663848877,0.9907472133636475,1.0,1.0
+427,Approximately 6 million people.,approximately 6 million,0.3279688358306885,1.2090048789978027,0.7716211080551147,0.8571428571428571,0.8571428571428571
+428,Real Madrid's record was 178 goals in a year.,Real Madrid,0.5273940563201904,1.8093459606170654,0.5991535186767578,0.33333333333333337,0.33333333333333337
+429,1837.,25 November 1837,0.3669571876525879,1.134080171585083,0.8148030042648315,0.5,0.5
+430,Passing style of play.,passing style,0.2658703327178955,1.4446475505828857,0.7466921806335449,0.6666666666666666,0.6666666666666666
+431,1838.,1838,2.462289333343506,1.155897617340088,0.9673311710357666,1.0,1.0
+432,1705.,1705,0.2867550849914551,1.3909645080566406,0.9660866856575012,1.0,1.0
+433,Up to 90 aircraft each.,up to 90,0.3859877586364746,1.284275770187378,0.46627965569496155,0.7499999999999999,0.7499999999999999
+434,STOBAR carrier.,STOBAR,1.406613826751709,1.1783490180969238,0.7925212383270264,0.6666666666666666,0.6666666666666666
+435,5 years.,five years,0.29176759719848633,1.3632676601409912,0.9109305143356323,0.5,0.5
+436,"A hostile reception, including being thrown a piglet's head and a full bottle of whiskey.",hostile,2.3940727710723877,2.196460008621216,0.4412001371383667,0.11764705882352941,0.11764705882352941
+437,1829,1829,0.31940746307373047,1.3351812362670898,1.0,1.0,1.0
+438,5,five,0.298236608505249,1.111147165298462,0.9229784607887268,0.0,0.0
+439,"Acts that confer knowledge and experiences, give advice and commands, and ask questions.","confer knowledge and experiences, give advice and commands, and ask questions",0.25625181198120117,1.5623974800109863,0.7626264095306396,0.9166666666666666,0.9166666666666666
+440,August.,August,0.30840277671813965,1.2763667106628418,0.9490442872047424,1.0,1.0
+441,Hudson’s Bay Company.,Hudson’s Bay Company,0.5063152313232422,1.1485815048217773,0.9861859679222107,1.0,1.0
+442,90,90,0.4011685848236084,0.9448668956756592,1.0,1.0,1.0
+443,Light carriers had the advantage of speed due to their converted cruiser hulls.,speed,0.39441585540771484,1.989006519317627,0.33409425616264343,0.14285714285714288,0.14285714285714288
+444,There is no mention of monks in the Drepung and Sera monasteries protesting for independence in the provided context.,1989,1.1704750061035156,2.197657585144043,-0.017743516713380814,0.0,0.0
+445,"The second most valuable sports team in the world, worth $3.2 billion.",second,0.34024786949157715,1.8871567249298096,0.15295454859733582,0.14285714285714288,0.14285714285714288
+446,Outside of Europe.,outside of Europe,0.3905527591705322,1.3784067630767822,0.9524121880531311,1.0,1.0
+447,2005-06 season.,2004–05,0.29471898078918457,1.537740707397461,0.6374144554138184,0.0,0.0
+448,To meet UEFA criteria.,meet UEFA criteria,0.27506375312805176,1.4309895038604736,0.8251283168792725,0.8571428571428571,0.8571428571428571
+449,"Aggregates (stone, sand, and gravel).",pressure,0.28359270095825195,1.4386255741119385,0.20491984486579895,0.0,0.0
+450,"Animal emotions, animal culture and learning, and sexual conduct.","animal emotions, animal culture and learning",0.26258158683776855,1.617912769317627,0.8763270378112793,0.8,0.8
+451,Environmental concerns.,environmental,0.4252760410308838,0.9977915287017822,0.710044264793396,0.6666666666666666,0.6666666666666666
+452,Lieutenant General of Police.,lieutenant general of police,0.2995457649230957,1.1908750534057617,0.98599773645401,1.0,1.0
+453,Arresting cables and a tailhook.,traditional carrier arresting cables and a tailhook on their aircraft,0.32939839363098145,1.3344604969024658,0.7592405676841736,0.6666666666666666,0.6666666666666666
+454,Police are usually paid through taxes as they are a public sector service.,through taxes,0.33553433418273926,1.9185986518859863,0.4171282649040222,0.2666666666666667,0.2666666666666667
+455,Sanskrit.,Greek,0.33627939224243164,1.0444550514221191,0.48292768001556396,0.0,0.0
+456,Gendarmerie are military units charged with civil policing.,military units charged with civil policing,0.32372355461120605,1.5334761142730713,0.7796275615692139,0.8571428571428571,0.8571428571428571
+457,A police officer's search during an investigatory stop is limited to determining whether the suspect is armed.,what [is] minimally necessary to determine whether [a suspect] is armed,0.33934879302978516,1.9343822002410889,0.609570324420929,0.5517241379310345,0.4827586206896552
+458,"Heavy aircraft, especially those loaded with air-to-ground weapons.",heavy aircraft,0.32073497772216797,1.825573444366455,0.8597229719161987,0.33333333333333337,0.33333333333333337
+459,The Bautai people.,Bautai,0.5297093391418457,1.2218172550201416,0.7651492357254028,0.5,0.5
+460,The UK's 1941 Design Light Fleet Carriers served during the war in the Royal Navy.,Royal Navy,0.3051633834838867,2.242821455001831,0.5856649875640869,0.2222222222222222,0.2222222222222222
+461,There is no mention of a past president of the Barcelona club committing suicide in 1930 in the provided text.,Gamper,0.34475040435791016,2.432281255722046,-0.01293368823826313,0.0,0.0
+462,Philipp von Hörnigk was a 17th-century Austrian political economist and civil servant.,Political economist and civil servant,0.3217580318450928,2.240121841430664,0.41560906171798706,0.5263157894736842,0.5263157894736842
+463,The Tibetan empire emerged in the 7th century under the rule of Songtsän Gampo.,7th century,0.32867956161499023,1.9289252758026123,0.3599241375923157,0.23529411764705882,0.23529411764705882
+464,€1.5 million,€1.5 million,0.3104679584503174,1.2670197486877441,1.0,1.0,1.0
+465,France.,France,0.35456395149230957,1.281139850616455,0.9445564150810242,1.0,1.0
+466,"Foreign aid, foreign direct investment, and exports of natural resources such as iron ore, rubber, and timber.",foreign aid,0.36112332344055176,1.9528777599334717,0.716772198677063,0.21052631578947367,0.21052631578947367
+467,The modern Nimitz class has a displacement nearly four times that of the older USS Enterprise.,nearly four times,0.26865553855895996,2.1925711631774902,0.12424656003713608,0.3157894736842105,0.3157894736842105
+468,The sanctions were placed on Liberian timber exports due to concerns that they were funding rebels in Sierra Leone.,were believed to be funding rebels in Sierra Leone.,0.2233881950378418,1.8941650390625,0.5555280447006226,0.5,0.5
+469,The USS Independence was a light aircraft carrier.,light,0.2580103874206543,1.3856759071350098,0.2170056402683258,0.2222222222222222,0.2222222222222222
+470,Mustard seed.,Mustard,0.5089952945709229,0.964897632598877,0.8591357469558716,0.6666666666666666,0.6666666666666666
+471,Violation of the FIFA's rules about the transfer of footballers aged under 18.,footballers aged under 18,0.3420381546020508,2.1630451679229736,0.6946724653244019,0.4444444444444445,0.4444444444444445
+472,FC Barcelona.,blaugrana,0.31235384941101074,1.3307809829711914,0.2192511409521103,0.0,0.0
+473,The Karma Kagyu sect.,Karma Kagyu,0.369884729385376,1.4984171390533447,0.6897799968719482,0.6666666666666666,0.6666666666666666
+474,The text does not mention the Northern Fleets nuclear-powered aircraft carrier.,Murmansk,0.2830471992492676,1.9352965354919434,0.05808010324835777,0.0,0.0
+475,"Selenizza bitumen is a naturally occurring solid hydrocarbon bitumen found in the native asphalt deposit of Selenice, Albania, whereas bitumen found in sands is a result of the transformation of ancient, microscopic algae and other once-living things under heat and pressure deep in the earth.",rock asphalt,0.3487088680267334,4.2672529220581055,0.5145568251609802,0.041666666666666664,0.041666666666666664
+476,Archbishop of Barcelona Gregorio Modrego.,Archbishop of Barcelona Gregorio Modrego,0.29545092582702637,1.6333534717559814,0.9786933064460754,1.0,1.0
+477,The Constabulary.,the Constabulary,0.4475517272949219,1.1855041980743408,0.9874811768531799,1.0,1.0
+478,Pope John Paul II.,Pope John Paul II,0.6788551807403564,1.1925339698791504,0.9677812457084656,1.0,1.0
+479,Early photographic technology.,photographic,0.2661757469177246,1.3686542510986328,0.7287851572036743,0.5,0.5
+480,1729.,1729,0.37331581115722656,1.381962537765503,0.962515652179718,1.0,1.0
+481,Instability and tendency to corrupt other pigments.,unstable,0.25806188583374023,1.653679370880127,0.2914370596408844,0.0,0.0
+482,"Fungi communicate with insects through biochemicals, specifically triggering specific behaviors in the insects through chemical signals.",through biochemicals of biotic origin,0.35910558700561523,1.760634183883667,0.34282317757606506,0.19047619047619047,0.19047619047619047
+483,1911.,1911,0.26218438148498535,1.13179612159729,0.9687958359718323,1.0,1.0
+484,The United States Army.,Army,0.2785043716430664,1.4326865673065186,0.7996413707733154,0.4,0.4
+485,Jordi Cruyff,Catalan Saint George,0.2568674087524414,1.430941104888916,0.19775709509849548,0.0,0.0
+486,Microscopic algae (diatoms) and other once-living things.,plants and animals,0.8452832698822021,1.881443738937378,0.39058566093444824,0.18181818181818182,0.18181818181818182
+487,€752 million.,€752 million,0.3068544864654541,1.236063003540039,0.9684659242630005,1.0,1.0
+488,Barcelona.,Barcelona,0.33455872535705566,1.12717604637146,0.9608309268951416,1.0,1.0
+489,"The Tibetan empire's long-standing influence and rule over a vast area, which led to the adoption of a consistent written language based on Classical Tibetan.",Tibetan empire,0.41443562507629395,2.492079734802246,0.646253228187561,0.13793103448275862,0.13793103448275862
+490,Terry Venables.,Terry Venables,0.49829530715942383,1.383674144744873,0.9901450872421265,1.0,1.0
+491,Songtsän Gampo founded the Tibetan Empire in the 7th century.,Songtsän Gampo,0.32762932777404785,1.749640703201294,0.44144371151924133,0.42857142857142855,0.42857142857142855
+492,1566.,1566,0.3123891353607178,1.1377882957458496,0.9763693809509277,1.0,1.0
+493,Accelerate more quickly to gain lift.,accelerate more quickly to gain lift,0.32174038887023926,1.328847885131836,0.9122065305709839,1.0,1.0
+494,a single year.,single year,0.40485239028930664,1.2241857051849365,0.8797513246536255,0.8,0.8
+495,Zhang Zhung.,Zhang Zhung,0.5251796245574951,1.2178480625152588,0.9797581434249878,1.0,1.0
+496,'Space Binding'.,Space Binding,0.26254916191101074,1.2251465320587158,0.8749485015869141,1.0,1.0
+497,The Kashag.,Kashag,0.4019172191619873,1.3836784362792969,0.9091917872428894,0.6666666666666666,0.6666666666666666
+498,89%,89%,0.34716081619262695,0.9912779331207275,1.0000001192092896,1.0,1.0
+499,€81-€94 million.,between €81 to €94 million,0.42990946769714355,1.3862507343292236,0.9112114906311035,0.7499999999999999,0.7499999999999999

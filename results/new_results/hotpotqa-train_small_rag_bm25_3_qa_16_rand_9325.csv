@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,"No, they are not in the same state. The Colorado River Aqueduct is in California and Arizona, while the Eastside Canal is in California.",yes,0.0010733604431152344,2.7149553298950195,0.07229451090097427
-1,The United States.,the United States,0.0009853839874267578,0.44278860092163086,0.9500843286514282
-2,Playwright and writer.,writer,0.0008547306060791016,0.5322849750518799,0.6687907576560974
-3,"Cibotium has more species, with 11 species, while Crowea has 3 species.",Cibotium,0.0009012222290039062,1.0100960731506348,0.4616891145706177
-4,"Perry Hall is not a county, it's a community in Baltimore County, Maryland.",third-most,0.0009171962738037109,0.8639373779296875,-0.026749229058623314
-5,Rhett Akins and Ashley Gorley.,Jason Aldean,0.0008857250213623047,0.6470353603363037,0.23453204333782196
-6,"Angelina Grimké was the American political activist who was a supporter of the women's suffrage movement and was the wife of Theodore Dwight Weld, the author of American Slavery As It Is: Testimony of a Thousand Witnesses.",Angelina Grimké,0.0009846687316894531,2.0347158908843994,0.6642537117004395
-7,Orange and Rockland counties in New York.,New York,0.0008540153503417969,0.5767121315002441,0.5550990700721741
-8,University of Tennessee.,University of New Mexico,0.0009250640869140625,0.47423505783081055,0.6951932311058044
-9,Gerry Rafferty.,"Gerald ""Gerry"" Rafferty",0.0009279251098632812,0.5324254035949707,0.8496783971786499
-10,The University of Massachusetts.,the New England Association of Schools and Colleges,0.0009260177612304688,0.5289578437805176,0.5421838760375977
-11,Tucumán Province.,Tucumán Province,0.0009174346923828125,0.5369753837585449,0.9846080541610718
-12,Composer and organist.,composer,0.0009145736694335938,0.5148403644561768,0.7329118251800537
-13,United States.,United States,0.0009968280792236328,0.46030306816101074,0.9286460876464844
-14,Mandolin.,mandolin,0.0009412765502929688,0.45877814292907715,0.9651979804039001
-15,British (Guy Pearce),Irish,0.0008928775787353516,0.507286787033081,0.4014464020729065
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,"No, they are not in the same state. The Colorado River Aqueduct is in California and Arizona, while the Eastside Canal is in California.",yes,0.0010733604431152344,2.7149553298950195,0.07229451090097427,0.0,0.0
+1,The United States.,the United States,0.0009853839874267578,0.44278860092163086,0.9500843286514282,1.0,1.0
+2,Playwright and writer.,writer,0.0008547306060791016,0.5322849750518799,0.6687907576560974,0.5,0.5
+3,"Cibotium has more species, with 11 species, while Crowea has 3 species.",Cibotium,0.0009012222290039062,1.0100960731506348,0.4616891145706177,0.15384615384615385,0.15384615384615385
+4,"Perry Hall is not a county, it's a community in Baltimore County, Maryland.",third-most,0.0009171962738037109,0.8639373779296875,-0.026749229058623314,0.0,0.0
+5,Rhett Akins and Ashley Gorley.,Jason Aldean,0.0008857250213623047,0.6470353603363037,0.23453204333782196,0.0,0.0
+6,"Angelina Grimké was the American political activist who was a supporter of the women's suffrage movement and was the wife of Theodore Dwight Weld, the author of American Slavery As It Is: Testimony of a Thousand Witnesses.",Angelina Grimké,0.0009846687316894531,2.0347158908843994,0.6642537117004395,0.1,0.1
+7,Orange and Rockland counties in New York.,New York,0.0008540153503417969,0.5767121315002441,0.5550990700721741,0.4444444444444445,0.4444444444444445
+8,University of Tennessee.,University of New Mexico,0.0009250640869140625,0.47423505783081055,0.6951932311058044,0.5714285714285715,0.5714285714285715
+9,Gerry Rafferty.,"Gerald ""Gerry"" Rafferty",0.0009279251098632812,0.5324254035949707,0.8496783971786499,0.8,0.8
+10,The University of Massachusetts.,the New England Association of Schools and Colleges,0.0009260177612304688,0.5289578437805176,0.5421838760375977,0.3333333333333333,0.3333333333333333
+11,Tucumán Province.,Tucumán Province,0.0009174346923828125,0.5369753837585449,0.9846080541610718,1.0,1.0
+12,Composer and organist.,composer,0.0009145736694335938,0.5148403644561768,0.7329118251800537,0.5,0.5
+13,United States.,United States,0.0009968280792236328,0.46030306816101074,0.9286460876464844,1.0,1.0
+14,Mandolin.,mandolin,0.0009412765502929688,0.45877814292907715,0.9651979804039001,1.0,1.0
+15,British (Guy Pearce),Irish,0.0008928775787353516,0.507286787033081,0.4014464020729065,0.0,0.0

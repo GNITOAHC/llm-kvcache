@@ -1,6 +1,6 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,James Traficant.,"James A. Traficant, Jr.",0.39290428161621094,3.4669253826141357,0.8910320401191711
-1,W. C. Handy.,Father of the Blues,0.5382087230682373,2.6747381687164307,0.12747834622859955
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,James Traficant.,"James A. Traficant, Jr.",0.39290428161621094,3.4669253826141357,0.8910320401191711,0.6666666666666666,0.6666666666666666
+1,W. C. Handy.,Father of the Blues,0.5382087230682373,2.6747381687164307,0.12747834622859955,0.0,0.0
 2,". Curtis interviewed for the position, not entirely confident afterwards that his Missouri accent and demeanor, not to mention his limited practical experience, garnered Raimi's consideration. After waiting many months, Curtis discovered that he got the job, and his journey towards success began.
 
 John Grierson (Dominican): 
@@ -43,17 +43,17 @@ Consigliere (Italian ""consigliere"" ""counselor"", pronounced ], roughly ; plur
         Are Ernst Jünger and Dashiell Hammett both nationals of the same country?
         
         assistant
-         No, Ernst Jünger was a German national and Dashiell Hammett was an American national.",no,0.5303473472595215,3.558856248855591,0.059015773236751556
-3,Dirk Nowitzki.,Dirk Werner Nowitzki,0.3432643413543701,2.4585118293762207,0.9065058827400208
-4,Larry Coker.,Larry Coker,0.3235800266265869,2.4734861850738525,0.9844884872436523
-5,Big Boy Restaurants.,regional franchisees,0.29634523391723633,2.3182871341705322,0.4346180558204651
-6,United States.,U.S.,0.3736851215362549,2.205245018005371,0.8812195062637329
-7,Film industry.,film,0.2925844192504883,2.4719457626342773,0.7330793738365173
-8,Georgia Institute of Technology has the most campuses.,Georgia Institute of Technology,0.4313361644744873,2.526322841644287,0.7839867472648621
-9,"January 19, 1946","January 19, 1946",0.31838393211364746,2.922617197036743,1.0000001192092896
-10,"Daryl Braithwaite's home country, Australia, is closer to India.",Daryl Braithwaite,0.655092716217041,3.287729501724243,0.6840066909790039
-11,vocal range.,vocal range,0.4105246067047119,2.3290646076202393,0.9504658579826355
-12,"Lew Baker was a close friend of the mob boss John Morrissey, also known as ""Old Smoke"".",Old Smoke,0.2988905906677246,3.898324489593506,0.4088204503059387
-13,Kastellet.,Kastellet,0.2648046016693115,2.155083656311035,0.9773379564285278
-14,Waldo County.,Waldo County,0.41398143768310547,2.333305835723877,0.9823755621910095
-15,"Stewart Douglas Wieck founded the publishing company White Wolf, Inc.",Stewart Douglas Wieck,0.33583617210388184,2.8127284049987793,0.5353894829750061
+         No, Ernst Jünger was a German national and Dashiell Hammett was an American national.",no,0.5303473472595215,3.558856248855591,0.059015773236751556,0.0016920473773265653,0.0016920473773265653
+3,Dirk Nowitzki.,Dirk Werner Nowitzki,0.3432643413543701,2.4585118293762207,0.9065058827400208,0.8,0.8
+4,Larry Coker.,Larry Coker,0.3235800266265869,2.4734861850738525,0.9844884872436523,1.0,1.0
+5,Big Boy Restaurants.,regional franchisees,0.29634523391723633,2.3182871341705322,0.4346180558204651,0.0,0.0
+6,United States.,U.S.,0.3736851215362549,2.205245018005371,0.8812195062637329,0.0,0.0
+7,Film industry.,film,0.2925844192504883,2.4719457626342773,0.7330793738365173,0.6666666666666666,0.6666666666666666
+8,Georgia Institute of Technology has the most campuses.,Georgia Institute of Technology,0.4313361644744873,2.526322841644287,0.7839867472648621,0.6666666666666666,0.6666666666666666
+9,"January 19, 1946","January 19, 1946",0.31838393211364746,2.922617197036743,1.0000001192092896,1.0,1.0
+10,"Daryl Braithwaite's home country, Australia, is closer to India.",Daryl Braithwaite,0.655092716217041,3.287729501724243,0.6840066909790039,0.33333333333333337,0.33333333333333337
+11,vocal range.,vocal range,0.4105246067047119,2.3290646076202393,0.9504658579826355,1.0,1.0
+12,"Lew Baker was a close friend of the mob boss John Morrissey, also known as ""Old Smoke"".",Old Smoke,0.2988905906677246,3.898324489593506,0.4088204503059387,0.21052631578947367,0.21052631578947367
+13,Kastellet.,Kastellet,0.2648046016693115,2.155083656311035,0.9773379564285278,1.0,1.0
+14,Waldo County.,Waldo County,0.41398143768310547,2.333305835723877,0.9823755621910095,1.0,1.0
+15,"Stewart Douglas Wieck founded the publishing company White Wolf, Inc.",Stewart Douglas Wieck,0.33583617210388184,2.8127284049987793,0.5353894829750061,0.4615384615384615,0.4615384615384615

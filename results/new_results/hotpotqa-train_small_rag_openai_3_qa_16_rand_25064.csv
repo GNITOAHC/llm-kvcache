@@ -1,19 +1,19 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,"July 8, 2013.","July 8, 2013",0.42490363121032715,3.018437385559082,0.9783233404159546
-1,Lee Harvey Oswald.,Lee Harvey Oswald,0.3228721618652344,0.7477879524230957,0.9803491830825806
-2,"Yes, Fellini's Pizza has 7 locations, while Upper Crust Pizzeria is a single chain that went bankrupt.",yes,0.32214808464050293,1.5198075771331787,0.16581588983535767
-3,Ron Darling is a right-handed pitcher.,right-handed,0.24129533767700195,0.852118968963623,0.4226769804954529
-4,Yes.,no,0.3773190975189209,0.6789426803588867,0.5598188042640686
-5,Rosebud County.,Rosebud County,0.2861201763153076,0.5845870971679688,0.987901508808136
-6,Christus (also known as Christus Consolator),Christus,0.3219184875488281,1.0652215480804443,0.7694530487060547
-7,A Christmas Carol starring George C. Scott.,A Christmas Carol,1.0249221324920654,0.9497168064117432,0.7671911120414734
-8,Lady and the Tramp.,Lady and the Tramp,0.2591536045074463,0.8463048934936523,0.9872393012046814
-9,"San Juan, Puerto Rico.","San Juan, Puerto Rico",0.280853271484375,0.7250752449035645,0.9738203287124634
-10,"Footscray, Australia.","Footscray, Australia",0.24472570419311523,0.7174336910247803,0.9808946847915649
-11,"No, they play different sports. Ray Ruffels is a former professional tennis player, while Peter Curtis is a former Australian rules footballer.",yes,0.32176899909973145,1.8459160327911377,0.19048812985420227
-12,Filegate.,Filegate,0.31668949127197266,0.7566895484924316,0.9657611846923828
-13,Catch-22.,"""Catch-22""",0.3661634922027588,0.5952222347259521,0.8628882765769958
-14,The Dark Crystal.,The Dark Crystal,0.324862003326416,0.6799659729003906,0.9738848209381104
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,"July 8, 2013.","July 8, 2013",0.42490363121032715,3.018437385559082,0.9783233404159546,1.0,1.0
+1,Lee Harvey Oswald.,Lee Harvey Oswald,0.3228721618652344,0.7477879524230957,0.9803491830825806,1.0,1.0
+2,"Yes, Fellini's Pizza has 7 locations, while Upper Crust Pizzeria is a single chain that went bankrupt.",yes,0.32214808464050293,1.5198075771331787,0.16581588983535767,0.10526315789473684,0.10526315789473684
+3,Ron Darling is a right-handed pitcher.,right-handed,0.24129533767700195,0.852118968963623,0.4226769804954529,0.4444444444444445,0.4444444444444445
+4,Yes.,no,0.3773190975189209,0.6789426803588867,0.5598188042640686,0.0,0.0
+5,Rosebud County.,Rosebud County,0.2861201763153076,0.5845870971679688,0.987901508808136,1.0,1.0
+6,Christus (also known as Christus Consolator),Christus,0.3219184875488281,1.0652215480804443,0.7694530487060547,0.2857142857142857,0.2857142857142857
+7,A Christmas Carol starring George C. Scott.,A Christmas Carol,1.0249221324920654,0.9497168064117432,0.7671911120414734,0.6,0.6
+8,Lady and the Tramp.,Lady and the Tramp,0.2591536045074463,0.8463048934936523,0.9872393012046814,1.0,1.0
+9,"San Juan, Puerto Rico.","San Juan, Puerto Rico",0.280853271484375,0.7250752449035645,0.9738203287124634,1.0,1.0
+10,"Footscray, Australia.","Footscray, Australia",0.24472570419311523,0.7174336910247803,0.9808946847915649,1.0,1.0
+11,"No, they play different sports. Ray Ruffels is a former professional tennis player, while Peter Curtis is a former Australian rules footballer.",yes,0.32176899909973145,1.8459160327911377,0.19048812985420227,0.0,0.0
+12,Filegate.,Filegate,0.31668949127197266,0.7566895484924316,0.9657611846923828,1.0,1.0
+13,Catch-22.,"""Catch-22""",0.3661634922027588,0.5952222347259521,0.8628882765769958,1.0,1.0
+14,The Dark Crystal.,The Dark Crystal,0.324862003326416,0.6799659729003906,0.9738848209381104,1.0,1.0
 15,"coach in June 2008 and became head coach in May 2009. During his tenure, the Impact won the inaugural Canadian Championship in 2008 to claim the Voyageurs Cup and a berth in the 2008-09 CONCACAF Champions League. Dos Santos then led Montreal through three different leagues in consecutive campaigns, winning the USL First Division title in 2009 before transitioning into USSF Division 2 in 2010 and the North American Soccer League in 2011.
 
 2015 Canada Cup of Curling: 
@@ -66,4 +66,4 @@ Houston City Magazine was launched in 1977 as ""In Houston City News Monthly"" a
         What is the population of the city which hosted the 2004 Open Canada Cup?
         
         assistant
-         The population of London, Ontario, which hosted the 2004 Open Canada Cup, is 383,822.","383,822",0.2630014419555664,1.5112531185150146,-0.023289833217859268
+         The population of London, Ontario, which hosted the 2004 Open Canada Cup, is 383,822.","383,822",0.2630014419555664,1.5112531185150146,-0.023289833217859268,0.0032679738562091504,0.0032679738562091504

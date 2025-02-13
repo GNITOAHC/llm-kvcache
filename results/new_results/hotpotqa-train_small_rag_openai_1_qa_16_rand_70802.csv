@@ -1,15 +1,15 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Vietnam.,American,0.8904728889465332,1.43721342086792,0.380405992269516
-1,Georgia Power.,Georgia Power,0.35057711601257324,0.3742966651916504,0.9767221212387085
-2,"There is no information about an album with collaboration vocals of Jennifer Lopez, One Direction, and Madcon. However, the song ""Try Me"" is a collaboration between Jason Derulo, Jennifer Lopez, and Matoma.",Hakuna Matoma,0.2870974540710449,1.8551759719848633,0.18232741951942444
-3,Roman Polanski.,Roman Polanski,0.3905177116394043,0.42308831214904785,0.978569507598877
-4,Ken Russell.,"Henry Kenneth Alfred ""Ken"" Russell",0.4802670478820801,0.27901792526245117,0.7148195505142212
-5,"600,000.","more than 500,000",0.38442277908325195,0.42383313179016113,0.7770989537239075
-6,2008,2014,0.2816340923309326,0.3262674808502197,0.7513653635978699
-7,"John Gerard's ""Herball, or Generall Historie of Plantes"" was the most widely circulated botany book in English in the 17th century.",John Gerard,3.098796844482422,1.438161849975586,0.3896622657775879
-8,Berry College.,Berry College,0.629197359085083,0.3563723564147949,0.97838294506073
-9,"Jason Miller has fought in the UFC, Strikeforce, WFA, WEC, and DREAM, while Tim Kennedy has fought in the UFC, Strikeforce, WEC, ShoMMA, HDNet Fights, and IFL.",Tim Kennedy,0.4274482727050781,2.0339763164520264,0.4530159831047058
-10,Wilson Yip.,Wilson Yip,0.31173276901245117,0.38319897651672363,0.9826745986938477
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Vietnam.,American,0.8904728889465332,1.43721342086792,0.380405992269516,0.0,0.0
+1,Georgia Power.,Georgia Power,0.35057711601257324,0.3742966651916504,0.9767221212387085,1.0,1.0
+2,"There is no information about an album with collaboration vocals of Jennifer Lopez, One Direction, and Madcon. However, the song ""Try Me"" is a collaboration between Jason Derulo, Jennifer Lopez, and Matoma.",Hakuna Matoma,0.2870974540710449,1.8551759719848633,0.18232741951942444,0.058823529411764705,0.058823529411764705
+3,Roman Polanski.,Roman Polanski,0.3905177116394043,0.42308831214904785,0.978569507598877,1.0,1.0
+4,Ken Russell.,"Henry Kenneth Alfred ""Ken"" Russell",0.4802670478820801,0.27901792526245117,0.7148195505142212,0.5714285714285715,0.5714285714285715
+5,"600,000.","more than 500,000",0.38442277908325195,0.42383313179016113,0.7770989537239075,0.3333333333333333,0.3333333333333333
+6,2008,2014,0.2816340923309326,0.3262674808502197,0.7513653635978699,0.0,0.0
+7,"John Gerard's ""Herball, or Generall Historie of Plantes"" was the most widely circulated botany book in English in the 17th century.",John Gerard,3.098796844482422,1.438161849975586,0.3896622657775879,0.16666666666666669,0.16666666666666669
+8,Berry College.,Berry College,0.629197359085083,0.3563723564147949,0.97838294506073,1.0,1.0
+9,"Jason Miller has fought in the UFC, Strikeforce, WFA, WEC, and DREAM, while Tim Kennedy has fought in the UFC, Strikeforce, WEC, ShoMMA, HDNet Fights, and IFL.",Tim Kennedy,0.4274482727050781,2.0339763164520264,0.4530159831047058,0.13793103448275862,0.13793103448275862
+10,Wilson Yip.,Wilson Yip,0.31173276901245117,0.38319897651672363,0.9826745986938477,1.0,1.0
 11,"U.S. attorney in the Southern District of Texas, until he was tapped as Chief of Police by Mayor Bob Lanier until leaving under the Lee Brown administration.
 
 Vappala Balachandran: 
@@ -38,8 +38,8 @@ Jean-Jacques Eydelie (born 3 February 1966 in Angoulême, Charente) is a French 
         Who wrote the memoir about a friend who was a club promoter, musician, writer and served 17 years in prison for manslaughter?
         
         assistant
-         Michael Alig wrote the memoir ""Disco Bloodbath"" (later retitled ""Party Monster"").",James St. James,0.2893838882446289,1.0030126571655273,0.06286750733852386
-12,Sigmund Jähn.,Sigmund Werner Paul Jähn,0.3400909900665283,0.4750683307647705,0.7781449556350708
-13,1958,1958,0.4293696880340576,0.34978580474853516,1.0000001192092896
-14,New York City.,New York City,0.30460381507873535,0.25816965103149414,0.9656890034675598
-15,"No, they are not. Androlepis is in the family Bromeliaceae, while Corymbia is in the family Myrtaceae.",no,0.40429067611694336,1.3013896942138672,0.08687570691108704
+         Michael Alig wrote the memoir ""Disco Bloodbath"" (later retitled ""Party Monster"").",James St. James,0.2893838882446289,1.0030126571655273,0.06286750733852386,0.008486562942008486,0.008486562942008486
+12,Sigmund Jähn.,Sigmund Werner Paul Jähn,0.3400909900665283,0.4750683307647705,0.7781449556350708,0.7499999999999999,0.7499999999999999
+13,1958,1958,0.4293696880340576,0.34978580474853516,1.0000001192092896,1.0,1.0
+14,New York City.,New York City,0.30460381507873535,0.25816965103149414,0.9656890034675598,1.0,1.0
+15,"No, they are not. Androlepis is in the family Bromeliaceae, while Corymbia is in the family Myrtaceae.",no,0.40429067611694336,1.3013896942138672,0.08687570691108704,0.1111111111111111,0.1111111111111111

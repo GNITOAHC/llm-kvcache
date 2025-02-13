@@ -1,15 +1,15 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,China,American,0.2810995578765869,3.5746304988861084,0.3972354829311371
-1,Georgia Power.,Georgia Power,0.36502814292907715,2.2849957942962646,0.9767221212387085
-2,Hakuna Matoma,Hakuna Matoma,0.3429398536682129,2.262922763824463,1.0
-3,Roman Polanski.,Roman Polanski,0.38821864128112793,2.5588135719299316,0.978569507598877
-4,Ralph Ceder worked in both film and television.,"Henry Kenneth Alfred ""Ken"" Russell",0.5627174377441406,2.3961989879608154,0.20778542757034302
-5,"500,000 people.","more than 500,000",0.6744790077209473,2.406193256378174,0.7033756971359253
-6,2014,2014,0.34392523765563965,2.200690984725952,1.0
-7,"John Gerard's ""Herball, or Generall Historie of Plantes"" was the most widely circulated botany book in English in the 17th century.",John Gerard,0.288571834564209,4.1948158740997314,0.3896622657775879
-8,Berry College.,Berry College,0.2774074077606201,2.181128740310669,0.97838294506073
-9,Jason Miller has fought in the most championships.,Tim Kennedy,0.28373217582702637,2.8202764987945557,0.23662158846855164
-10,Ip Man 2.,Wilson Yip,0.3254694938659668,2.4286205768585205,0.24455682933330536
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,China,American,0.2810995578765869,3.5746304988861084,0.3972354829311371,0.0,0.0
+1,Georgia Power.,Georgia Power,0.36502814292907715,2.2849957942962646,0.9767221212387085,1.0,1.0
+2,Hakuna Matoma,Hakuna Matoma,0.3429398536682129,2.262922763824463,1.0,1.0,1.0
+3,Roman Polanski.,Roman Polanski,0.38821864128112793,2.5588135719299316,0.978569507598877,1.0,1.0
+4,Ralph Ceder worked in both film and television.,"Henry Kenneth Alfred ""Ken"" Russell",0.5627174377441406,2.3961989879608154,0.20778542757034302,0.0,0.0
+5,"500,000 people.","more than 500,000",0.6744790077209473,2.406193256378174,0.7033756971359253,0.5714285714285715,0.5714285714285715
+6,2014,2014,0.34392523765563965,2.200690984725952,1.0,1.0,1.0
+7,"John Gerard's ""Herball, or Generall Historie of Plantes"" was the most widely circulated botany book in English in the 17th century.",John Gerard,0.288571834564209,4.1948158740997314,0.3896622657775879,0.16666666666666669,0.16666666666666669
+8,Berry College.,Berry College,0.2774074077606201,2.181128740310669,0.97838294506073,1.0,1.0
+9,Jason Miller has fought in the most championships.,Tim Kennedy,0.28373217582702637,2.8202764987945557,0.23662158846855164,0.0,0.0
+10,Ip Man 2.,Wilson Yip,0.3254694938659668,2.4286205768585205,0.24455682933330536,0.0,0.0
 11,"U.S. attorney in the Southern District of Texas, until he was tapped as Chief of Police by Mayor Bob Lanier until leaving under the Lee Brown administration.
 
 Vappala Balachandran: 
@@ -192,8 +192,8 @@ Ryuichi Kawamura (河村 隆一, Kawamura Ryūichi, born May 20, 1970 in Yamato,
         Who wrote the memoir about a friend who was a club promoter, musician, writer and served 17 years in prison for manslaughter?
         
         assistant
-         James St. James wrote the memoir ""Disco Bloodbath"" about his friend Michael Alig.",James St. James,0.4544398784637451,3.502593755722046,0.06286750733852386
-12,Sigmund Jähn.,Sigmund Werner Paul Jähn,0.33950161933898926,2.6112301349639893,0.7781449556350708
-13,1958,1958,0.601557731628418,2.4133238792419434,1.0000001192092896
-14,New York City.,New York City,0.35909271240234375,2.5679943561553955,0.9656890034675598
-15,"No, they are not in the same botanical family. Androlepis is in the family Bromeliaceae, while Corymbia is in the family Myrtaceae.",no,0.2554135322570801,4.226959705352783,0.0668390616774559
+         James St. James wrote the memoir ""Disco Bloodbath"" about his friend Michael Alig.",James St. James,0.4544398784637451,3.502593755722046,0.06286750733852386,0.001021972406745018,0.001021972406745018
+12,Sigmund Jähn.,Sigmund Werner Paul Jähn,0.33950161933898926,2.6112301349639893,0.7781449556350708,0.7499999999999999,0.7499999999999999
+13,1958,1958,0.601557731628418,2.4133238792419434,1.0000001192092896,1.0,1.0
+14,New York City.,New York City,0.35909271240234375,2.5679943561553955,0.9656890034675598,1.0,1.0
+15,"No, they are not in the same botanical family. Androlepis is in the family Bromeliaceae, while Corymbia is in the family Myrtaceae.",no,0.2554135322570801,4.226959705352783,0.0668390616774559,0.08695652173913045,0.08695652173913045

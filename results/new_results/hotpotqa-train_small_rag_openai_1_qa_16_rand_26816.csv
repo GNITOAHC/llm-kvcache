@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Mike Tyson.,Michael Gerard Tyson,0.3313591480255127,1.5746283531188965,0.8271243572235107
-1,Josh Selig.,Josh Selig,0.4516873359680176,0.35750389099121094,0.9843218326568604
-2,"Funü shibao was founded first in 1911, but among the given options, Soen magazine was founded first in 1936.",InStyle,0.38054895401000977,1.3073704242706299,0.07828843593597412
-3,Vizio Inc.,FedEx,0.3200540542602539,0.38452839851379395,0.17310374975204468
-4,Kodi Smit-McPhee.,Kodi Smit-McPhee,0.2888453006744385,0.4729592800140381,0.9803668856620789
-5,"None, they are about different subjects: a farmer and a hacker community.","The Real Dirt on Farmer John is a 2005 documentary film directed by Taggart Siegel about the life of Midwestern farmer John Peterson, operator of Angelic Organics.",0.32717156410217285,0.6760413646697998,0.24605050683021545
-6,1988.,1988,0.2763047218322754,0.391491174697876,0.954633355140686
-7,1923,1981,2.4861366748809814,0.2269580364227295,0.5053145885467529
-8,Experimental rock.,Experimental rock,0.40880250930786133,0.34917163848876953,0.9648945927619934
-9,1975.,1975,0.3752293586730957,0.38648462295532227,0.9505237936973572
-10,"Harry Truman is credited for launching the Marshall Plan, establishing the Truman Doctrine and NATO, intervening in the Korean War, desegregating the U.S. Armed Forces, supporting a newly independent Israel, and founding the United Nations.",He is known for launching the Marshall Plan to rebuild the economy of Western Europe,0.41207408905029297,1.9012212753295898,0.5085243582725525
-11,"William ""Bull"" Nelson.","William ""Bull"" Nelson",0.3799421787261963,0.49772143363952637,0.9700018763542175
-12,2009.,2009,0.26789402961730957,0.3865938186645508,0.9539592266082764
-13,Watchmen.,Watchmen,0.6399133205413818,0.34911656379699707,0.9812091588973999
-14,American tourist.,American tourist,0.4066429138183594,0.35202574729919434,0.9741692543029785
-15,Philip Pullman.,Philip Pullman,0.340862512588501,0.39241552352905273,0.9810035228729248
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Mike Tyson.,Michael Gerard Tyson,0.3313591480255127,1.5746283531188965,0.8271243572235107,0.4,0.4
+1,Josh Selig.,Josh Selig,0.4516873359680176,0.35750389099121094,0.9843218326568604,1.0,1.0
+2,"Funü shibao was founded first in 1911, but among the given options, Soen magazine was founded first in 1936.",InStyle,0.38054895401000977,1.3073704242706299,0.07828843593597412,0.0,0.0
+3,Vizio Inc.,FedEx,0.3200540542602539,0.38452839851379395,0.17310374975204468,0.0,0.0
+4,Kodi Smit-McPhee.,Kodi Smit-McPhee,0.2888453006744385,0.4729592800140381,0.9803668856620789,1.0,1.0
+5,"None, they are about different subjects: a farmer and a hacker community.","The Real Dirt on Farmer John is a 2005 documentary film directed by Taggart Siegel about the life of Midwestern farmer John Peterson, operator of Angelic Organics.",0.32717156410217285,0.6760413646697998,0.24605050683021545,0.15384615384615383,0.10256410256410256
+6,1988.,1988,0.2763047218322754,0.391491174697876,0.954633355140686,1.0,1.0
+7,1923,1981,2.4861366748809814,0.2269580364227295,0.5053145885467529,0.0,0.0
+8,Experimental rock.,Experimental rock,0.40880250930786133,0.34917163848876953,0.9648945927619934,1.0,1.0
+9,1975.,1975,0.3752293586730957,0.38648462295532227,0.9505237936973572,1.0,1.0
+10,"Harry Truman is credited for launching the Marshall Plan, establishing the Truman Doctrine and NATO, intervening in the Korean War, desegregating the U.S. Armed Forces, supporting a newly independent Israel, and founding the United Nations.",He is known for launching the Marshall Plan to rebuild the economy of Western Europe,0.41207408905029297,1.9012212753295898,0.5085243582725525,0.27450980392156865,0.27450980392156865
+11,"William ""Bull"" Nelson.","William ""Bull"" Nelson",0.3799421787261963,0.49772143363952637,0.9700018763542175,1.0,1.0
+12,2009.,2009,0.26789402961730957,0.3865938186645508,0.9539592266082764,1.0,1.0
+13,Watchmen.,Watchmen,0.6399133205413818,0.34911656379699707,0.9812091588973999,1.0,1.0
+14,American tourist.,American tourist,0.4066429138183594,0.35202574729919434,0.9741692543029785,1.0,1.0
+15,Philip Pullman.,Philip Pullman,0.340862512588501,0.39241552352905273,0.9810035228729248,1.0,1.0

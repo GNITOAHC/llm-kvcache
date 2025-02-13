@@ -1,5 +1,5 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,1911.,1911,0.001201629638671875,1.8262600898742676,0.9687958359718323
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,1911.,1911,0.001201629638671875,1.8262600898742676,0.9687958359718323,1.0,1.0
 1,"coach. The club has taken park in many tournaments and state final matches in Georgia and the Southeast United States. A major goal of the Trojans Rugby Football Club is to teach and play the sport of rugby in the United States. This is a great struggle throughout Georgia because of opposition from the high school's football coaches and athletic directors. The club plays the most common version of rugby, called rugby union but often just referred to as rugby. Although the club plays by rugby union rules, they also play by the rules of the International Rugby Board (IRB) for those under 19 years of age. In the summer of 2011, the Trojan Rugby Football Club took part in another version of rugby called rugby sevens. This variation of rugby is faster paced, with the same size fields but fewer people, and shorter half lengths.
 
 Western Wolves FC: 
@@ -31,18 +31,18 @@ House of Pain is an American hip hop group who released three albums in the 1990
          Anthony John Abbott has been a member of parliament for an Australian division in which state?
         
         assistant
-         New South Wales.",New South Wales,0.0010814666748046875,0.6761038303375244,0.17387700080871582
-2,Media Ventures.,Media Ventures,0.00103759765625,0.5976579189300537,0.9605284929275513
-3,British,Gibraltarian,0.001050710678100586,0.5514397621154785,0.5611711740493774
-4,"Russell Peters was introduced to the stage by Melle Mel, the lead rapper for Grandmaster Flash and the Furious Five.",Grandmaster Flash and the Furious Five,0.0009217262268066406,1.4903802871704102,0.5785213708877563
-5,1978.,1978,0.0009944438934326172,0.6766841411590576,0.9614052772521973
-6,CBS Corporation.,Leslie Moonves,0.0010499954223632812,0.6410126686096191,0.1943950057029724
-7,"The Hazel River rises in Shenandoah National Park and flows through the Shenandoah National Park area, which is part of the Blue Ridge Mountains.",the Blue Ridge Mountains,0.0010123252868652344,1.6535120010375977,0.483513206243515
-8,New Jersey.,New Jersey,0.0010714530944824219,0.6029608249664307,0.9690638780593872
-9,"No, OneRepublic is an American band, but Air Traffic is an English band.",no,0.0009694099426269531,1.1820471286773682,0.1853921264410019
-10,David Grisman.,Acoustic Disc,0.001051187515258789,0.6371278762817383,0.01178978756070137
-11,Lily Rabe.,Lily Rabe,0.0009894371032714844,0.6736276149749756,0.9711775779724121
-12,"""Just Be Good to Me"" by Karmah samples ""Every Breath You Take"" by The Police.","""Just Be Good to Me""",0.0010249614715576172,1.3358154296875,0.5336730480194092
-13,The Dark Knight.,The Dark Knight,0.0009520053863525391,0.6814455986022949,0.971114456653595
-14,Bob's Burgers.,Bob's Burgers,0.001043558120727539,0.7024662494659424,0.9902617931365967
-15,"Betty Lou Bredemus, Julia Roberts' mother, was born first, on August 13, 1934.",Julie Anne Wagner,0.0009031295776367188,1.4967331886291504,0.2164396196603775
+         New South Wales.",New South Wales,0.0010814666748046875,0.6761038303375244,0.17387700080871582,0.010563380281690139,0.010563380281690139
+2,Media Ventures.,Media Ventures,0.00103759765625,0.5976579189300537,0.9605284929275513,1.0,1.0
+3,British,Gibraltarian,0.001050710678100586,0.5514397621154785,0.5611711740493774,0.0,0.0
+4,"Russell Peters was introduced to the stage by Melle Mel, the lead rapper for Grandmaster Flash and the Furious Five.",Grandmaster Flash and the Furious Five,0.0009217262268066406,1.4903802871704102,0.5785213708877563,0.4615384615384615,0.4615384615384615
+5,1978.,1978,0.0009944438934326172,0.6766841411590576,0.9614052772521973,1.0,1.0
+6,CBS Corporation.,Leslie Moonves,0.0010499954223632812,0.6410126686096191,0.1943950057029724,0.0,0.0
+7,"The Hazel River rises in Shenandoah National Park and flows through the Shenandoah National Park area, which is part of the Blue Ridge Mountains.",the Blue Ridge Mountains,0.0010123252868652344,1.6535120010375977,0.483513206243515,0.2857142857142857,0.2857142857142857
+8,New Jersey.,New Jersey,0.0010714530944824219,0.6029608249664307,0.9690638780593872,1.0,1.0
+9,"No, OneRepublic is an American band, but Air Traffic is an English band.",no,0.0009694099426269531,1.1820471286773682,0.1853921264410019,0.14285714285714288,0.14285714285714288
+10,David Grisman.,Acoustic Disc,0.001051187515258789,0.6371278762817383,0.01178978756070137,0.0,0.0
+11,Lily Rabe.,Lily Rabe,0.0009894371032714844,0.6736276149749756,0.9711775779724121,1.0,1.0
+12,"""Just Be Good to Me"" by Karmah samples ""Every Breath You Take"" by The Police.","""Just Be Good to Me""",0.0010249614715576172,1.3358154296875,0.5336730480194092,0.5,0.5
+13,The Dark Knight.,The Dark Knight,0.0009520053863525391,0.6814455986022949,0.971114456653595,1.0,1.0
+14,Bob's Burgers.,Bob's Burgers,0.001043558120727539,0.7024662494659424,0.9902617931365967,1.0,1.0
+15,"Betty Lou Bredemus, Julia Roberts' mother, was born first, on August 13, 1934.",Julie Anne Wagner,0.0009031295776367188,1.4967331886291504,0.2164396196603775,0.0,0.0

@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,"No, they are not in the same state. The Colorado River Aqueduct is in California and Arizona, while the Eastside Canal is in California.",yes,0.0011720657348632812,2.954404354095459,0.07229451090097427
-1,The United States.,the United States,0.0011699199676513672,0.6718337535858154,0.9500843286514282
-2,Playwright and writer.,writer,0.00095367431640625,0.6935837268829346,0.6687907576560974
-3,"Cibotium has 11 species, while Crowea has 3 species.",Cibotium,0.0010111331939697266,1.1059658527374268,0.488295316696167
-4,I don't have the specific information on the ranking of Perry Hall counties in terms of population.,third-most,0.000985860824584961,1.179363489151001,0.15140816569328308
-5,Jason Aldean.,Jason Aldean,0.000993967056274414,0.717137336730957,0.9835932850837708
-6,"Angelina Grimké was the American political activist who was a supporter of the women's suffrage movement and was the wife of Theodore Dwight Weld, the author of American Slavery As It Is: Testimony of a Thousand Witnesses.",Angelina Grimké,0.0010194778442382812,2.3332180976867676,0.6642537117004395
-7,Orange and Rockland counties in New York.,New York,0.0010306835174560547,0.8391635417938232,0.5550990700721741
-8,University of Tennessee.,University of New Mexico,0.0009789466857910156,0.6875619888305664,0.6951932311058044
-9,Gerry Rafferty.,"Gerald ""Gerry"" Rafferty",0.0009715557098388672,0.7364428043365479,0.8496783971786499
-10,The University of Massachusetts.,the New England Association of Schools and Colleges,0.0010714530944824219,0.7352221012115479,0.5421838760375977
-11,Tucumán Province.,Tucumán Province,0.001056671142578125,0.7565772533416748,0.9846080541610718
-12,Composer and organist.,composer,0.0009510517120361328,0.7321381568908691,0.7329118251800537
-13,United States.,United States,0.00103759765625,0.6540699005126953,0.9286460876464844
-14,Mandolin.,mandolin,0.0009636878967285156,0.6361160278320312,0.9651979804039001
-15,British.,Irish,0.0010025501251220703,0.5878171920776367,0.5637665390968323
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,"No, they are not in the same state. The Colorado River Aqueduct is in California and Arizona, while the Eastside Canal is in California.",yes,0.0011720657348632812,2.954404354095459,0.07229451090097427,0.0,0.0
+1,The United States.,the United States,0.0011699199676513672,0.6718337535858154,0.9500843286514282,1.0,1.0
+2,Playwright and writer.,writer,0.00095367431640625,0.6935837268829346,0.6687907576560974,0.5,0.5
+3,"Cibotium has 11 species, while Crowea has 3 species.",Cibotium,0.0010111331939697266,1.1059658527374268,0.488295316696167,0.19999999999999998,0.19999999999999998
+4,I don't have the specific information on the ranking of Perry Hall counties in terms of population.,third-most,0.000985860824584961,1.179363489151001,0.15140816569328308,0.0,0.0
+5,Jason Aldean.,Jason Aldean,0.000993967056274414,0.717137336730957,0.9835932850837708,1.0,1.0
+6,"Angelina Grimké was the American political activist who was a supporter of the women's suffrage movement and was the wife of Theodore Dwight Weld, the author of American Slavery As It Is: Testimony of a Thousand Witnesses.",Angelina Grimké,0.0010194778442382812,2.3332180976867676,0.6642537117004395,0.1,0.1
+7,Orange and Rockland counties in New York.,New York,0.0010306835174560547,0.8391635417938232,0.5550990700721741,0.4444444444444445,0.4444444444444445
+8,University of Tennessee.,University of New Mexico,0.0009789466857910156,0.6875619888305664,0.6951932311058044,0.5714285714285715,0.5714285714285715
+9,Gerry Rafferty.,"Gerald ""Gerry"" Rafferty",0.0009715557098388672,0.7364428043365479,0.8496783971786499,0.8,0.8
+10,The University of Massachusetts.,the New England Association of Schools and Colleges,0.0010714530944824219,0.7352221012115479,0.5421838760375977,0.3333333333333333,0.3333333333333333
+11,Tucumán Province.,Tucumán Province,0.001056671142578125,0.7565772533416748,0.9846080541610718,1.0,1.0
+12,Composer and organist.,composer,0.0009510517120361328,0.7321381568908691,0.7329118251800537,0.5,0.5
+13,United States.,United States,0.00103759765625,0.6540699005126953,0.9286460876464844,1.0,1.0
+14,Mandolin.,mandolin,0.0009636878967285156,0.6361160278320312,0.9651979804039001,1.0,1.0
+15,British.,Irish,0.0010025501251220703,0.5878171920776367,0.5637665390968323,0.0,0.0

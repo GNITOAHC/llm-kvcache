@@ -1,8 +1,8 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Yes.,yes,0.0013799667358398438,2.4023404121398926,0.836855947971344
-1,Chuck D.,Carlton Douglas Ridenhour,0.0013577938079833984,1.2894971370697021,0.23446905612945557
-2,The Henry Ford Centennial Library is located near The Henry Ford and the Glass House in Michigan.,Dearborn's Henry Ford Centennial Library,0.0012750625610351562,1.9492290019989014,0.7129472494125366
-3,Wolfgang Amadeus Mozart.,Wolfgang Amadeus Mozart,0.0013267993927001953,1.4190375804901123,0.9619248509407043
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Yes.,yes,0.0013799667358398438,2.4023404121398926,0.836855947971344,1.0,1.0
+1,Chuck D.,Carlton Douglas Ridenhour,0.0013577938079833984,1.2894971370697021,0.23446905612945557,0.0,0.0
+2,The Henry Ford Centennial Library is located near The Henry Ford and the Glass House in Michigan.,Dearborn's Henry Ford Centennial Library,0.0012750625610351562,1.9492290019989014,0.7129472494125366,0.3478260869565218,0.3478260869565218
+3,Wolfgang Amadeus Mozart.,Wolfgang Amadeus Mozart,0.0013267993927001953,1.4190375804901123,0.9619248509407043,1.0,1.0
 4,"director to Mahesh Bhatt in ""Kaash"" (1987). Warsi choreographed the title song of ""Roop Ki Rani Choron Ka Raja"" (1993), before making his acting debut in the Amitabh Bachchan-produced ""Tere Mere Sapne"" (1996). It was followed by ""Betaabi"" (1997), ""Hero Hindustani"" (1998), ""Hogi Pyaar Ki Jeet"" and ""Trishakti"" (both 1999), among others, but most of these films failed to do well at the box office. In 2003, he had his breakthrough by playing the comic sidekick Circuit in Rajkumar Hirani's comedy-drama ""Munna Bhai M.B.B.S."" His performance garnered him the Zee Cine Award for Best Actor in a Comic Role and received nominations for the Filmfare, IIFA, Screen and Apsara Film Producers Guild Award for Best Supporting Actor. Warsi won the GIFA Best Comedian Award for his role in the comedy ""Hulchul"" (2004), and garnered critical acclaim for portraying a police officer in the crime drama ""Sehar"" (2005). He received his second Filmfare Award for Best Supporting Actor nomination for his role in the romantic comedy ""Salaam Namaste"" (2005).
 
 Burt Ward: 
@@ -13,15 +13,15 @@ Burt Ward (born July 6, 1945) is an American actor and activist widely known for
         Mar Meyers fourth feature film is about which serial Killer?
         
         assistant
-         My Friend Dahmer.",Jeffrey Dahmer,0.0012516975402832031,1.2367579936981201,0.05932002142071724
-5,1960s.,the late 1960s,0.0012791156768798828,1.3142197132110596,0.9008690118789673
-6,The United States Navy during World War II.,the United States Navy,0.001323699951171875,1.4238510131835938,0.8082528114318848
-7,The Northern Territory.,Timor Sea,0.0013384819030761719,1.2566962242126465,0.3569391965866089
-8,The Genesis Flood: The Biblical Record and its Scientific Implications.,The Genesis Flood,0.0014069080352783203,1.7103664875030518,0.8934256434440613
-9,1488.,1488,0.001369476318359375,1.315600872039795,0.9631859064102173
-10,"No, they do not share the same nationality. Michel Butor is French and Joanne Harris is English.",no,0.00125885009765625,2.103243112564087,0.07902039587497711
-11,Hull.,Widnes Vikings,0.0012178421020507812,1.1273612976074219,0.36757969856262207
-12,A&M Records.,A&M Records,0.0012047290802001953,1.2351412773132324,0.9817119836807251
-13,2014.,2014,0.0013740062713623047,1.2400548458099365,0.9431241750717163
-14,Stargate,Stargate,0.001192331314086914,1.1894197463989258,1.0000001192092896
-15,Neil Barnes and Paul Daley.,Neil Barnes and Paul Daley,0.0014069080352783203,1.4403669834136963,0.987594485282898
+         My Friend Dahmer.",Jeffrey Dahmer,0.0012516975402832031,1.2367579936981201,0.05932002142071724,0.007968127490039839,0.007968127490039839
+5,1960s.,the late 1960s,0.0012791156768798828,1.3142197132110596,0.9008690118789673,0.5,0.5
+6,The United States Navy during World War II.,the United States Navy,0.001323699951171875,1.4238510131835938,0.8082528114318848,0.6666666666666666,0.6666666666666666
+7,The Northern Territory.,Timor Sea,0.0013384819030761719,1.2566962242126465,0.3569391965866089,0.0,0.0
+8,The Genesis Flood: The Biblical Record and its Scientific Implications.,The Genesis Flood,0.0014069080352783203,1.7103664875030518,0.8934256434440613,0.4615384615384615,0.4615384615384615
+9,1488.,1488,0.001369476318359375,1.315600872039795,0.9631859064102173,1.0,1.0
+10,"No, they do not share the same nationality. Michel Butor is French and Joanne Harris is English.",no,0.00125885009765625,2.103243112564087,0.07902039587497711,0.1111111111111111,0.1111111111111111
+11,Hull.,Widnes Vikings,0.0012178421020507812,1.1273612976074219,0.36757969856262207,0.0,0.0
+12,A&M Records.,A&M Records,0.0012047290802001953,1.2351412773132324,0.9817119836807251,1.0,1.0
+13,2014.,2014,0.0013740062713623047,1.2400548458099365,0.9431241750717163,1.0,1.0
+14,Stargate,Stargate,0.001192331314086914,1.1894197463989258,1.0000001192092896,1.0,1.0
+15,Neil Barnes and Paul Daley.,Neil Barnes and Paul Daley,0.0014069080352783203,1.4403669834136963,0.987594485282898,1.0,1.0

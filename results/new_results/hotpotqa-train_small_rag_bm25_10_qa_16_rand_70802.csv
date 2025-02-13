@@ -1,15 +1,15 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Vietnam.,American,0.0013115406036376953,2.305943489074707,0.380405992269516
-1,Georgia Power.,Georgia Power,0.001322031021118164,1.1661813259124756,0.9767221212387085
-2,Hakuna Matoma,Hakuna Matoma,0.0012083053588867188,1.2145054340362549,1.0
-3,Roman Polanski.,Roman Polanski,0.0012247562408447266,1.3421597480773926,0.978569507598877
-4,Ralph Ceder worked in both film and television.,"Henry Kenneth Alfred ""Ken"" Russell",0.001190185546875,1.5313029289245605,0.20778542757034302
-5,"600,000.","more than 500,000",0.001233816146850586,1.2087781429290771,0.7770989537239075
-6,2014,2014,0.0012538433074951172,1.2275943756103516,1.0
-7,John Gerard.,John Gerard,0.001216888427734375,1.27091383934021,0.9759476184844971
-8,Berry College.,Berry College,0.0013861656188964844,1.2627344131469727,0.97838294506073
-9,"Tim Kennedy has fought in the most championships, including the UFC, Strikeforce, and WEC.",Tim Kennedy,0.0011966228485107422,1.9472966194152832,0.5414280891418457
-10,Herman Yau,Wilson Yip,0.001280069351196289,1.2025868892669678,0.3506145477294922
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Vietnam.,American,0.0013115406036376953,2.305943489074707,0.380405992269516,0.0,0.0
+1,Georgia Power.,Georgia Power,0.001322031021118164,1.1661813259124756,0.9767221212387085,1.0,1.0
+2,Hakuna Matoma,Hakuna Matoma,0.0012083053588867188,1.2145054340362549,1.0,1.0,1.0
+3,Roman Polanski.,Roman Polanski,0.0012247562408447266,1.3421597480773926,0.978569507598877,1.0,1.0
+4,Ralph Ceder worked in both film and television.,"Henry Kenneth Alfred ""Ken"" Russell",0.001190185546875,1.5313029289245605,0.20778542757034302,0.0,0.0
+5,"600,000.","more than 500,000",0.001233816146850586,1.2087781429290771,0.7770989537239075,0.3333333333333333,0.3333333333333333
+6,2014,2014,0.0012538433074951172,1.2275943756103516,1.0,1.0,1.0
+7,John Gerard.,John Gerard,0.001216888427734375,1.27091383934021,0.9759476184844971,1.0,1.0
+8,Berry College.,Berry College,0.0013861656188964844,1.2627344131469727,0.97838294506073,1.0,1.0
+9,"Tim Kennedy has fought in the most championships, including the UFC, Strikeforce, and WEC.",Tim Kennedy,0.0011966228485107422,1.9472966194152832,0.5414280891418457,0.25,0.25
+10,Herman Yau,Wilson Yip,0.001280069351196289,1.2025868892669678,0.3506145477294922,0.0,0.0
 11,"U.S. attorney in the Southern District of Texas, until he was tapped as Chief of Police by Mayor Bob Lanier until leaving under the Lee Brown administration.
 
 Vappala Balachandran: 
@@ -98,8 +98,8 @@ So Long, Frank Lloyd Wright:
         Who wrote the memoir about a friend who was a club promoter, musician, writer and served 17 years in prison for manslaughter?
         
         assistant
-         James St. James wrote the memoir ""Disco Bloodbath"" (later retitled ""Party Monster"") about his friend Michael Alig.",James St. James,0.0012483596801757812,2.397486686706543,0.06286750733852386
-12,Sigmund Jähn went to space first.,Sigmund Werner Paul Jähn,0.0011849403381347656,1.542659044265747,0.6078906059265137
-13,1958,1958,0.0012173652648925781,1.207859992980957,1.0000001192092896
-14,New York City.,New York City,0.0012116432189941406,1.1805336475372314,0.9656890034675598
-15,"No, they are not. Androlepis is in the family Bromeliaceae, while Corymbia is in the family Myrtaceae.",no,0.00122833251953125,2.517612934112549,0.08687570691108704
+         James St. James wrote the memoir ""Disco Bloodbath"" (later retitled ""Party Monster"") about his friend Michael Alig.",James St. James,0.0012483596801757812,2.397486686706543,0.06286750733852386,0.002185792349726776,0.002185792349726776
+12,Sigmund Jähn went to space first.,Sigmund Werner Paul Jähn,0.0011849403381347656,1.542659044265747,0.6078906059265137,0.5,0.5
+13,1958,1958,0.0012173652648925781,1.207859992980957,1.0000001192092896,1.0,1.0
+14,New York City.,New York City,0.0012116432189941406,1.1805336475372314,0.9656890034675598,1.0,1.0
+15,"No, they are not. Androlepis is in the family Bromeliaceae, while Corymbia is in the family Myrtaceae.",no,0.00122833251953125,2.517612934112549,0.08687570691108704,0.1111111111111111,0.1111111111111111

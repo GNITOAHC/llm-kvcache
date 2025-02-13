@@ -1,5 +1,5 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Actors.,actor,1.5355451107025146,3.8341541290283203,0.765259325504303
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Actors.,actor,1.5355451107025146,3.8341541290283203,0.765259325504303,1.0,1.0
 1,", matte artist, and photographer. His feature directorial debut was the 1981 release """". The next film he directed was the science fiction action thriller ""The Terminator"" (1984). It starred Arnold Schwarzenegger as the titular cyborg assassin, and was Cameron's breakthrough feature. In 1986, he directed and wrote the science fiction action sequel ""Aliens"" starring Sigourney Weaver. He followed this by directing another science fiction film ""The Abyss"" (1989). In 1991, Cameron directed the sequel to ""The Terminator"", """" (with Schwarzenegger reprising his role), and also executive produced the action crime film ""Point Break"". Three years later he directed a third Schwarzenegger-starring action film ""True Lies"" (1994).
 
 Meatballs Part II: 
@@ -152,18 +152,18 @@ Iron Man 3 (stylized onscreen as Iron Man Three) is a 2013 American superhero fi
         John Gatins was nominated for the Academy Award for Best Original Screenplay for a movie directed by who?
         
         assistant
-         Robert Zemeckis.",Robert Zemeckis,0.34053874015808105,2.4045727252960205,0.09899061918258667
-2,Rupert Penry-Jones,Rupert Penry-Jones,1.106316089630127,2.3808462619781494,1.0000001192092896
-3,"Taylor Hackford was born on December 31, 1944, and Howard Zieff was born on October 21, 1927.",Howard B. Zieff,0.2654705047607422,4.170423746109009,0.48160743713378906
-4,Ron Weasley.,"Ronald Bilius ""Ron"" Weasley",3.425210952758789,2.485283851623535,0.7337749004364014
-5,The Banker.,The Banker,0.37937092781066895,2.4686436653137207,0.9742785096168518
-6,1919,1919,0.3872830867767334,2.51100492477417,1.0000001192092896
-7,Commando Elite.,Commando Elite,0.3113710880279541,2.241896629333496,0.9790815114974976
-8,Paul Bettany,Paul Bettany,0.5299181938171387,2.444462299346924,1.0
-9,Massachusetts.,Massachusetts,0.296567440032959,2.390606164932251,0.9563392400741577
-10,Dick Wolf and Matt Olmstead.,Dick Wolf and Matt Olmstead,0.26216578483581543,2.296907901763916,0.9905557632446289
-11,"Sergio Leone, the inventor of the ""Spaghetti Western"" genre.","""Spaghetti Western"" genre",1.196174144744873,2.9101202487945557,0.7022147178649902
-12,1973,1973,0.42580485343933105,2.439293384552002,1.0
-13,Samuel West.,Samuel West,0.6248979568481445,2.3684589862823486,0.9798023104667664
-14,They are both musicians.,singer and songwriter,0.37438511848449707,2.791825532913208,0.47308406233787537
-15,Eyes of Laura Mars.,Eyes of Laura Mars,0.37459278106689453,2.1933374404907227,0.9861021637916565
+         Robert Zemeckis.",Robert Zemeckis,0.34053874015808105,2.4045727252960205,0.09899061918258667,0.0010047726701833707,0.0010047726701833707
+2,Rupert Penry-Jones,Rupert Penry-Jones,1.106316089630127,2.3808462619781494,1.0000001192092896,1.0,1.0
+3,"Taylor Hackford was born on December 31, 1944, and Howard Zieff was born on October 21, 1927.",Howard B. Zieff,0.2654705047607422,4.170423746109009,0.48160743713378906,0.2,0.2
+4,Ron Weasley.,"Ronald Bilius ""Ron"" Weasley",3.425210952758789,2.485283851623535,0.7337749004364014,0.6666666666666666,0.6666666666666666
+5,The Banker.,The Banker,0.37937092781066895,2.4686436653137207,0.9742785096168518,1.0,1.0
+6,1919,1919,0.3872830867767334,2.51100492477417,1.0000001192092896,1.0,1.0
+7,Commando Elite.,Commando Elite,0.3113710880279541,2.241896629333496,0.9790815114974976,1.0,1.0
+8,Paul Bettany,Paul Bettany,0.5299181938171387,2.444462299346924,1.0,1.0,1.0
+9,Massachusetts.,Massachusetts,0.296567440032959,2.390606164932251,0.9563392400741577,1.0,1.0
+10,Dick Wolf and Matt Olmstead.,Dick Wolf and Matt Olmstead,0.26216578483581543,2.296907901763916,0.9905557632446289,1.0,1.0
+11,"Sergio Leone, the inventor of the ""Spaghetti Western"" genre.","""Spaghetti Western"" genre",1.196174144744873,2.9101202487945557,0.7022147178649902,0.5,0.5
+12,1973,1973,0.42580485343933105,2.439293384552002,1.0,1.0,1.0
+13,Samuel West.,Samuel West,0.6248979568481445,2.3684589862823486,0.9798023104667664,1.0,1.0
+14,They are both musicians.,singer and songwriter,0.37438511848449707,2.791825532913208,0.47308406233787537,0.0,0.0
+15,Eyes of Laura Mars.,Eyes of Laura Mars,0.37459278106689453,2.1933374404907227,0.9861021637916565,1.0,1.0

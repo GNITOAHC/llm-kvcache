@@ -1,19 +1,19 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,"July 8, 2013.","July 8, 2013",0.3641233444213867,4.884227752685547,0.9783233404159546
-1,Lee Harvey Oswald.,Lee Harvey Oswald,0.36027073860168457,2.6447818279266357,0.9803491830825806
-2,"Yes, Fellini's Pizza has 7 locations, while Upper Crust Pizzeria had a chain but went bankrupt.",yes,0.26700544357299805,3.2181715965270996,0.17487263679504395
-3,Left-handed.,right-handed,0.3018972873687744,2.29768967628479,0.9499926567077637
-4,Yes.,no,0.29934072494506836,2.3711023330688477,0.5598188042640686
-5,Rosebud County.,Rosebud County,0.23049163818359375,2.260042190551758,0.987901508808136
-6,Christus (also known as Christus Consolator),Christus,0.40577006340026855,2.782994270324707,0.7694530487060547
-7,A Christmas Carol,A Christmas Carol,0.3274059295654297,2.4420297145843506,1.0
-8,Lady and the Tramp.,Lady and the Tramp,0.349489688873291,2.379743814468384,0.9872393012046814
-9,World Boxing Organization (WBO),"San Juan, Puerto Rico",0.3130509853363037,2.4274566173553467,0.13438265025615692
-10,Australia.,"Footscray, Australia",0.31257200241088867,2.2971906661987305,0.5328661203384399
-11,"No, they play different sports. Ray Ruffels is a tennis player, while Peter Curtis is a footballer.",yes,0.45615577697753906,3.629445791244507,0.19008731842041016
-12,Filegate.,Filegate,0.47324466705322266,2.2195377349853516,0.9657611846923828
-13,"""Catch-22""","""Catch-22""",0.3986053466796875,2.256082773208618,1.0
-14,The Great Muppet Caper.,The Dark Crystal,0.34743380546569824,2.5562541484832764,0.10679636895656586
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,"July 8, 2013.","July 8, 2013",0.3641233444213867,4.884227752685547,0.9783233404159546,1.0,1.0
+1,Lee Harvey Oswald.,Lee Harvey Oswald,0.36027073860168457,2.6447818279266357,0.9803491830825806,1.0,1.0
+2,"Yes, Fellini's Pizza has 7 locations, while Upper Crust Pizzeria had a chain but went bankrupt.",yes,0.26700544357299805,3.2181715965270996,0.17487263679504395,0.1111111111111111,0.1111111111111111
+3,Left-handed.,right-handed,0.3018972873687744,2.29768967628479,0.9499926567077637,0.5,0.5
+4,Yes.,no,0.29934072494506836,2.3711023330688477,0.5598188042640686,0.0,0.0
+5,Rosebud County.,Rosebud County,0.23049163818359375,2.260042190551758,0.987901508808136,1.0,1.0
+6,Christus (also known as Christus Consolator),Christus,0.40577006340026855,2.782994270324707,0.7694530487060547,0.2857142857142857,0.2857142857142857
+7,A Christmas Carol,A Christmas Carol,0.3274059295654297,2.4420297145843506,1.0,1.0,1.0
+8,Lady and the Tramp.,Lady and the Tramp,0.349489688873291,2.379743814468384,0.9872393012046814,1.0,1.0
+9,World Boxing Organization (WBO),"San Juan, Puerto Rico",0.3130509853363037,2.4274566173553467,0.13438265025615692,0.0,0.0
+10,Australia.,"Footscray, Australia",0.31257200241088867,2.2971906661987305,0.5328661203384399,0.6666666666666666,0.6666666666666666
+11,"No, they play different sports. Ray Ruffels is a tennis player, while Peter Curtis is a footballer.",yes,0.45615577697753906,3.629445791244507,0.19008731842041016,0.0,0.0
+12,Filegate.,Filegate,0.47324466705322266,2.2195377349853516,0.9657611846923828,1.0,1.0
+13,"""Catch-22""","""Catch-22""",0.3986053466796875,2.256082773208618,1.0,1.0,1.0
+14,The Great Muppet Caper.,The Dark Crystal,0.34743380546569824,2.5562541484832764,0.10679636895656586,0.28571428571428575,0.28571428571428575
 15,"coach in June 2008 and became head coach in May 2009. During his tenure, the Impact won the inaugural Canadian Championship in 2008 to claim the Voyageurs Cup and a berth in the 2008-09 CONCACAF Champions League. Dos Santos then led Montreal through three different leagues in consecutive campaigns, winning the USL First Division title in 2009 before transitioning into USSF Division 2 in 2010 and the North American Soccer League in 2011.
 
 2015 Canada Cup of Curling: 
@@ -214,4 +214,4 @@ The Henry Cisneros payments controversy was a lengthy investigation begun in 199
         What is the population of the city which hosted the 2004 Open Canada Cup?
         
         assistant
-         The population of London, Ontario, which hosted the 2004 Open Canada Cup, is 383,822 according to the 2016 Canadian census.","383,822",0.437755823135376,4.298599004745483,-0.023289833217859268
+         The population of London, Ontario, which hosted the 2004 Open Canada Cup, is 383,822 according to the 2016 Canadian census.","383,822",0.437755823135376,4.298599004745483,-0.023289833217859268,0.0007104795737122557,0.0007104795737122557

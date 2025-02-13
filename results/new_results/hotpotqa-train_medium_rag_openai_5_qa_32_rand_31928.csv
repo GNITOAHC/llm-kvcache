@@ -1,10 +1,10 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Charlie.,Charlie,0.3499467372894287,2.499147891998291,0.9550973773002625
-1,Literature,Literature,0.3232421875,1.2021620273590088,1.0000001192092896
-2,Netherlands.,Netherlands,0.3698270320892334,1.2321240901947021,0.9500890374183655
-3,Gioachino Rossini wrote the opera Eduardo e Cristina.,39,0.41035890579223633,1.5636022090911865,-0.010205455124378204
-4,Mauser.,German,0.658665657043457,1.074007272720337,0.19541098177433014
-5,MIT Sloan School of Management.,"Cambridge, Massachusetts",0.4007532596588135,1.3257765769958496,0.4037342369556427
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Charlie.,Charlie,0.3499467372894287,2.499147891998291,0.9550973773002625,1.0,1.0
+1,Literature,Literature,0.3232421875,1.2021620273590088,1.0000001192092896,1.0,1.0
+2,Netherlands.,Netherlands,0.3698270320892334,1.2321240901947021,0.9500890374183655,1.0,1.0
+3,Gioachino Rossini wrote the opera Eduardo e Cristina.,39,0.41035890579223633,1.5636022090911865,-0.010205455124378204,0.0,0.0
+4,Mauser.,German,0.658665657043457,1.074007272720337,0.19541098177433014,0.0,0.0
+5,MIT Sloan School of Management.,"Cambridge, Massachusetts",0.4007532596588135,1.3257765769958496,0.4037342369556427,0.0,0.0
 6,"coach. The club has taken park in many tournaments and state final matches in Georgia and the Southeast United States. A major goal of the Trojans Rugby Football Club is to teach and play the sport of rugby in the United States. This is a great struggle throughout Georgia because of opposition from the high school's football coaches and athletic directors. The club plays the most common version of rugby, called rugby union but often just referred to as rugby. Although the club plays by rugby union rules, they also play by the rules of the International Rugby Board (IRB) for those under 19 years of age. In the summer of 2011, the Trojan Rugby Football Club took part in another version of rugby called rugby sevens. This variation of rugby is faster paced, with the same size fields but fewer people, and shorter half lengths.
 
 Odds BK: 
@@ -50,29 +50,29 @@ Derrick Vincent Thomas (January 1, 1967February 8, 2000), nicknamed D.T., was an
         Christoph Janker plays for a football club that was founded in which year?
         
         assistant
-         1907",1907,5.141070604324341,1.1376025676727295,0.028074219822883606
-7,Fatsia has more species.,Fatsia,0.2621021270751953,1.184938907623291,0.7185660600662231
-8,Goalkeeper.,Goalkeeper,0.577580451965332,1.156726360321045,0.9592459201812744
-9,United States.,United States,0.30541515350341797,1.2360479831695557,0.9286460876464844
-10,George Schnell.,George Schnell,0.3855440616607666,1.0153067111968994,0.9850906133651733
-11,Rosalind.,Rosalind,0.38256359100341797,1.0393493175506592,0.9784196019172668
-12,Mothercare.,Mothercare,0.351672887802124,0.7927193641662598,0.967211127281189
-13,"Jennifer Tilly was nominated for an Academy Award for Best Supporting Actress for her role as Olive Neal in the film ""Bullets over Broadway"" (1994).",Olive Neal,0.29012322425842285,2.386309862136841,0.4524826109409332
-14,American.,American,0.4121057987213135,1.118788480758667,0.9135115146636963
-15,"Georgy Voronoy was born first, in 1868.",Georgy Feodosevich Voronoy,0.31978559494018555,1.8306083679199219,0.6389026641845703
-16,The Guinness Book of World Records.,Guinness Book of World Records,0.48590612411499023,1.3121755123138428,0.9661760926246643
-17,The Legend of Korra.,"""The Legend of Korra""",0.3477613925933838,1.1227271556854248,0.9431094527244568
-18,A. R. Rahman.,A. R. Rahman,0.3476066589355469,1.2813589572906494,0.9925702214241028
-19,Paul McCartney.,Paul McCartney,0.2811434268951416,1.0792386531829834,0.9762459397315979
-20,New York City.,New York,0.30884790420532227,1.1569042205810547,0.9219122529029846
-21,University of Iowa.,University of Iowa,0.4468822479248047,1.0046753883361816,0.9743527173995972
-22,Hiroshi Mikitani.,Hiroshi Mikitani,0.29471468925476074,1.2878403663635254,0.9851273894309998
-23,David Attwood's birthday (August 28) falls closer to the beginning of the calendar year compared to Frank Borzage's birthday (April 23).,Frank Borzage,0.355165958404541,2.594982147216797,0.4387403130531311
-24,David Walsh ghost-wrote the autobiography of Kevin Pietersen.,David Walsh,0.2944788932800293,1.614027500152588,0.5229827165603638
-25,1945,1945,0.4333348274230957,1.3382856845855713,1.0000001192092896
-26,The Cosmopolitan of Las Vegas.,Cosmopolitan of Las Vegas,0.683323860168457,1.1747748851776123,0.9510511159896851
-27,The Cannes Film Festival.,Cannes Film Festival,0.3915822505950928,1.2708210945129395,0.9621292352676392
-28,Michael Fassbender.,Michael Fassbender,0.5027563571929932,1.1347947120666504,0.9846913814544678
-29,Palm Beach International Airport is farther south.,Palm Beach International Airport,0.30362963676452637,1.0931425094604492,0.8713400363922119
-30,"A Rocket to the Moon was formed in 2006, while Superheaven was formed in 2008.",A Rocket to the Moon,0.2581057548522949,2.207637310028076,0.5458753108978271
-31,Dick Dale.,Dick Dale,0.3010861873626709,1.0320508480072021,0.966056227684021
+         1907",1907,5.141070604324341,1.1376025676727295,0.028074219822883606,0.0011441647597254002,0.0011441647597254002
+7,Fatsia has more species.,Fatsia,0.2621021270751953,1.184938907623291,0.7185660600662231,0.4,0.4
+8,Goalkeeper.,Goalkeeper,0.577580451965332,1.156726360321045,0.9592459201812744,1.0,1.0
+9,United States.,United States,0.30541515350341797,1.2360479831695557,0.9286460876464844,1.0,1.0
+10,George Schnell.,George Schnell,0.3855440616607666,1.0153067111968994,0.9850906133651733,1.0,1.0
+11,Rosalind.,Rosalind,0.38256359100341797,1.0393493175506592,0.9784196019172668,1.0,1.0
+12,Mothercare.,Mothercare,0.351672887802124,0.7927193641662598,0.967211127281189,1.0,1.0
+13,"Jennifer Tilly was nominated for an Academy Award for Best Supporting Actress for her role as Olive Neal in the film ""Bullets over Broadway"" (1994).",Olive Neal,0.29012322425842285,2.386309862136841,0.4524826109409332,0.14814814814814814,0.14814814814814814
+14,American.,American,0.4121057987213135,1.118788480758667,0.9135115146636963,1.0,1.0
+15,"Georgy Voronoy was born first, in 1868.",Georgy Feodosevich Voronoy,0.31978559494018555,1.8306083679199219,0.6389026641845703,0.4,0.4
+16,The Guinness Book of World Records.,Guinness Book of World Records,0.48590612411499023,1.3121755123138428,0.9661760926246643,0.9090909090909091,0.9090909090909091
+17,The Legend of Korra.,"""The Legend of Korra""",0.3477613925933838,1.1227271556854248,0.9431094527244568,1.0,1.0
+18,A. R. Rahman.,A. R. Rahman,0.3476066589355469,1.2813589572906494,0.9925702214241028,1.0,1.0
+19,Paul McCartney.,Paul McCartney,0.2811434268951416,1.0792386531829834,0.9762459397315979,1.0,1.0
+20,New York City.,New York,0.30884790420532227,1.1569042205810547,0.9219122529029846,0.8,0.8
+21,University of Iowa.,University of Iowa,0.4468822479248047,1.0046753883361816,0.9743527173995972,1.0,1.0
+22,Hiroshi Mikitani.,Hiroshi Mikitani,0.29471468925476074,1.2878403663635254,0.9851273894309998,1.0,1.0
+23,David Attwood's birthday (August 28) falls closer to the beginning of the calendar year compared to Frank Borzage's birthday (April 23).,Frank Borzage,0.355165958404541,2.594982147216797,0.4387403130531311,0.16,0.16
+24,David Walsh ghost-wrote the autobiography of Kevin Pietersen.,David Walsh,0.2944788932800293,1.614027500152588,0.5229827165603638,0.3636363636363636,0.3636363636363636
+25,1945,1945,0.4333348274230957,1.3382856845855713,1.0000001192092896,1.0,1.0
+26,The Cosmopolitan of Las Vegas.,Cosmopolitan of Las Vegas,0.683323860168457,1.1747748851776123,0.9510511159896851,0.888888888888889,0.888888888888889
+27,The Cannes Film Festival.,Cannes Film Festival,0.3915822505950928,1.2708210945129395,0.9621292352676392,0.8571428571428571,0.8571428571428571
+28,Michael Fassbender.,Michael Fassbender,0.5027563571929932,1.1347947120666504,0.9846913814544678,1.0,1.0
+29,Palm Beach International Airport is farther south.,Palm Beach International Airport,0.30362963676452637,1.0931425094604492,0.8713400363922119,0.7272727272727273,0.7272727272727273
+30,"A Rocket to the Moon was formed in 2006, while Superheaven was formed in 2008.",A Rocket to the Moon,0.2581057548522949,2.207637310028076,0.5458753108978271,0.5,0.5
+31,Dick Dale.,Dick Dale,0.3010861873626709,1.0320508480072021,0.966056227684021,1.0,1.0

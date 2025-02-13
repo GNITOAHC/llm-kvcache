@@ -1,19 +1,19 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,"July 8, 2013.","July 8, 2013",0.0012061595916748047,2.7081072330474854,0.9783233404159546
-1,Lee Harvey Oswald.,Lee Harvey Oswald,0.0012307167053222656,0.6878867149353027,0.9803491830825806
-2,"No, Upper Crust Pizzeria had 7 locations, but Fellini's Pizza also has 7 locations.",yes,0.0010590553283691406,1.4715590476989746,0.18171486258506775
-3,Left-handed.,right-handed,0.0010745525360107422,0.6314220428466797,0.9499926567077637
-4,"Yes, both films won an award at the Academy Awards.",no,0.001079559326171875,0.9921591281890869,0.16140609979629517
-5,Rosebud County.,Rosebud County,0.0010688304901123047,0.6679015159606934,0.987901508808136
-6,Christus,Christus,0.001087188720703125,0.5865099430084229,1.0
-7,A Christmas Carol.,A Christmas Carol,0.0010373592376708984,0.6096570491790771,0.9813527464866638
-8,Lady and the Tramp.,Lady and the Tramp,0.0011031627655029297,0.7457525730133057,0.9872393012046814
-9,World Boxing Organization (WBO),"San Juan, Puerto Rico",0.0010390281677246094,0.70198655128479,0.13438265025615692
-10,"Footscray, Australia.","Footscray, Australia",0.0009474754333496094,0.7193984985351562,0.9808946847915649
-11,"No, they play different sports. Ray Ruffels is a former professional tennis player, while Peter Curtis is a former Australian rules footballer.",yes,0.000957489013671875,1.6200389862060547,0.19048812985420227
-12,Filegate.,Filegate,0.0012235641479492188,0.6423547267913818,0.9657611846923828
-13,"""Catch-22""","""Catch-22""",0.00099945068359375,0.7313640117645264,1.0
-14,The Dark Crystal.,The Dark Crystal,0.0009968280792236328,0.6353933811187744,0.9738848209381104
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,"July 8, 2013.","July 8, 2013",0.0012061595916748047,2.7081072330474854,0.9783233404159546,1.0,1.0
+1,Lee Harvey Oswald.,Lee Harvey Oswald,0.0012307167053222656,0.6878867149353027,0.9803491830825806,1.0,1.0
+2,"No, Upper Crust Pizzeria had 7 locations, but Fellini's Pizza also has 7 locations.",yes,0.0010590553283691406,1.4715590476989746,0.18171486258506775,0.0,0.0
+3,Left-handed.,right-handed,0.0010745525360107422,0.6314220428466797,0.9499926567077637,0.5,0.5
+4,"Yes, both films won an award at the Academy Awards.",no,0.001079559326171875,0.9921591281890869,0.16140609979629517,0.0,0.0
+5,Rosebud County.,Rosebud County,0.0010688304901123047,0.6679015159606934,0.987901508808136,1.0,1.0
+6,Christus,Christus,0.001087188720703125,0.5865099430084229,1.0,1.0,1.0
+7,A Christmas Carol.,A Christmas Carol,0.0010373592376708984,0.6096570491790771,0.9813527464866638,1.0,1.0
+8,Lady and the Tramp.,Lady and the Tramp,0.0011031627655029297,0.7457525730133057,0.9872393012046814,1.0,1.0
+9,World Boxing Organization (WBO),"San Juan, Puerto Rico",0.0010390281677246094,0.70198655128479,0.13438265025615692,0.0,0.0
+10,"Footscray, Australia.","Footscray, Australia",0.0009474754333496094,0.7193984985351562,0.9808946847915649,1.0,1.0
+11,"No, they play different sports. Ray Ruffels is a former professional tennis player, while Peter Curtis is a former Australian rules footballer.",yes,0.000957489013671875,1.6200389862060547,0.19048812985420227,0.0,0.0
+12,Filegate.,Filegate,0.0012235641479492188,0.6423547267913818,0.9657611846923828,1.0,1.0
+13,"""Catch-22""","""Catch-22""",0.00099945068359375,0.7313640117645264,1.0,1.0,1.0
+14,The Dark Crystal.,The Dark Crystal,0.0009968280792236328,0.6353933811187744,0.9738848209381104,1.0,1.0
 15,"coach in June 2008 and became head coach in May 2009. During his tenure, the Impact won the inaugural Canadian Championship in 2008 to claim the Voyageurs Cup and a berth in the 2008-09 CONCACAF Champions League. Dos Santos then led Montreal through three different leagues in consecutive campaigns, winning the USL First Division title in 2009 before transitioning into USSF Division 2 in 2010 and the North American Soccer League in 2011.
 
 2015 Canada Cup of Curling: 
@@ -35,4 +35,4 @@ The 2007 Open Canada Cup was the 10th edition of the Canadian Soccer League's op
         What is the population of the city which hosted the 2004 Open Canada Cup?
         
         assistant
-         The population of London, Ontario is 383,822.","383,822",0.0010466575622558594,0.9492495059967041,-0.040144577622413635
+         The population of London, Ontario is 383,822.","383,822",0.0010466575622558594,0.9492495059967041,-0.040144577622413635,0.010989010989010988,0.010989010989010988

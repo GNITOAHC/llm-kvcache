@@ -1,15 +1,15 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Poet and Sufi mystic.,Turkish poet and Sufi mystic,0.30440354347229004,4.084424734115601,0.8520039916038513
-1,"January 25, 2008.","January 25, 2008",0.7609207630157471,2.496309518814087,0.986640453338623
-2,Countess consort of Henneberg.,Countess consort of Henneberg,0.3348069190979004,2.5980513095855713,0.9783674478530884
-3,1970,1970,0.2659635543823242,2.1845808029174805,1.0
-4,Mantis.,Mantis,0.2818617820739746,2.061523199081421,0.9689735770225525
-5,New England Patriots.,New England Patriots,0.36107516288757324,2.3294191360473633,0.9739282131195068
-6,"The majority of Thomas Harold Massie's voters live in the booming suburban Cincinnati counties of Boone, Kenton, and Campbell.","Boone, Kenton and Campbell",0.41056180000305176,3.558933734893799,0.442688912153244
-7,The Quantum Fund.,Quantum Fund,0.285111665725708,2.556509017944336,0.939011812210083
-8,J. S. La Fontaine wrote a scholarly book that was disseminated in 1998.,J. S. La Fontaine,0.28240275382995605,3.6989259719848633,0.6989367008209229
-9,Yes.,yes,0.27565908432006836,2.085914373397827,0.836855947971344
-10,Viola Beach.,Fuller Beans Records,0.31357836723327637,2.3639719486236572,0.0496140792965889
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Poet and Sufi mystic.,Turkish poet and Sufi mystic,0.30440354347229004,4.084424734115601,0.8520039916038513,0.888888888888889,0.888888888888889
+1,"January 25, 2008.","January 25, 2008",0.7609207630157471,2.496309518814087,0.986640453338623,1.0,1.0
+2,Countess consort of Henneberg.,Countess consort of Henneberg,0.3348069190979004,2.5980513095855713,0.9783674478530884,1.0,1.0
+3,1970,1970,0.2659635543823242,2.1845808029174805,1.0,1.0,1.0
+4,Mantis.,Mantis,0.2818617820739746,2.061523199081421,0.9689735770225525,1.0,1.0
+5,New England Patriots.,New England Patriots,0.36107516288757324,2.3294191360473633,0.9739282131195068,1.0,1.0
+6,"The majority of Thomas Harold Massie's voters live in the booming suburban Cincinnati counties of Boone, Kenton, and Campbell.","Boone, Kenton and Campbell",0.41056180000305176,3.558933734893799,0.442688912153244,0.33333333333333337,0.33333333333333337
+7,The Quantum Fund.,Quantum Fund,0.285111665725708,2.556509017944336,0.939011812210083,0.8,0.8
+8,J. S. La Fontaine wrote a scholarly book that was disseminated in 1998.,J. S. La Fontaine,0.28240275382995605,3.6989259719848633,0.6989367008209229,0.47058823529411764,0.47058823529411764
+9,Yes.,yes,0.27565908432006836,2.085914373397827,0.836855947971344,1.0,1.0
+10,Viola Beach.,Fuller Beans Records,0.31357836723327637,2.3639719486236572,0.0496140792965889,0.0,0.0
 11,"coach of the University of Texas Longhorns men's varsity baseball team from 1989 to 2012.
 
 Kentucky's 4th congressional district: 
@@ -65,8 +65,8 @@ The Complete Tony Bennett/Bill Evans Recordings is a two-CD box set released in 
         What is the nationality of the actor who wrote, produced, and starred in ""Popstar: Never Stop Never Stopping""?
         
         assistant
-         American.",American,0.2510378360748291,2.2932589054107666,0.06359317898750305
-12,1990,1990,0.3025245666503906,2.1389880180358887,1.0
-13,Tansy.,Tansy,0.2915384769439697,2.2668750286102295,0.9731627702713013
-14,"Tom Nijssen was born on October 1, 1964, and Mark Knowles was born on September 4, 1971, so Tom Nijssen was born first.",Tom Nijssen,0.3036649227142334,4.965590476989746,0.5880653262138367
-15,"University of Waterloo offers the largest post-secondary co-op program in the world, with over 19,000 co-op students and 5,200 employers.",University of Waterloo,0.28708457946777344,4.361797571182251,0.5503343343734741
+         American.",American,0.2510378360748291,2.2932589054107666,0.06359317898750305,0.0017937219730941702,0.0017937219730941702
+12,1990,1990,0.3025245666503906,2.1389880180358887,1.0,1.0,1.0
+13,Tansy.,Tansy,0.2915384769439697,2.2668750286102295,0.9731627702713013,1.0,1.0
+14,"Tom Nijssen was born on October 1, 1964, and Mark Knowles was born on September 4, 1971, so Tom Nijssen was born first.",Tom Nijssen,0.3036649227142334,4.965590476989746,0.5880653262138367,0.16,0.16
+15,"University of Waterloo offers the largest post-secondary co-op program in the world, with over 19,000 co-op students and 5,200 employers.",University of Waterloo,0.28708457946777344,4.361797571182251,0.5503343343734741,0.21428571428571425,0.21428571428571425

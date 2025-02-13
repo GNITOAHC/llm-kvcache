@@ -1,15 +1,15 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Vietnam and the United States.,American,0.3164095878601074,1.8887174129486084,0.28866177797317505
-1,Georgia Power.,Georgia Power,0.5972044467926025,0.5068409442901611,0.9767221212387085
-2,Hakuna Matoma.,Hakuna Matoma,0.3391294479370117,0.7891647815704346,0.9866564869880676
-3,Roman Polanski.,Roman Polanski,0.23632478713989258,0.6846177577972412,0.978569507598877
-4,Ken Russell worked in both film and television.,"Henry Kenneth Alfred ""Ken"" Russell",0.37467241287231445,0.9525108337402344,0.5661357641220093
-5,"600,000.","more than 500,000",0.5837984085083008,0.6285965442657471,0.7770989537239075
-6,2014.,2014,0.31546783447265625,0.6485521793365479,0.9431241750717163
-7,"John Gerard's ""Herball, or Generall Historie of Plantes"" was the most widely circulated botany book in English in the 17th century.",John Gerard,0.5025599002838135,2.019568920135498,0.3896622657775879
-8,Berry College.,Berry College,1.0016999244689941,0.64949631690979,0.97838294506073
-9,"Jason Miller has fought in more championships, including the UFC, Strikeforce, WFA, WEC, and DREAM.",Tim Kennedy,0.4924046993255615,1.5194377899169922,0.22633673250675201
-10,Ip Man 2.,Wilson Yip,0.37309741973876953,0.8470797538757324,0.24455682933330536
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Vietnam and the United States.,American,0.3164095878601074,1.8887174129486084,0.28866177797317505,0.0,0.0
+1,Georgia Power.,Georgia Power,0.5972044467926025,0.5068409442901611,0.9767221212387085,1.0,1.0
+2,Hakuna Matoma.,Hakuna Matoma,0.3391294479370117,0.7891647815704346,0.9866564869880676,1.0,1.0
+3,Roman Polanski.,Roman Polanski,0.23632478713989258,0.6846177577972412,0.978569507598877,1.0,1.0
+4,Ken Russell worked in both film and television.,"Henry Kenneth Alfred ""Ken"" Russell",0.37467241287231445,0.9525108337402344,0.5661357641220093,0.3076923076923077,0.3076923076923077
+5,"600,000.","more than 500,000",0.5837984085083008,0.6285965442657471,0.7770989537239075,0.3333333333333333,0.3333333333333333
+6,2014.,2014,0.31546783447265625,0.6485521793365479,0.9431241750717163,1.0,1.0
+7,"John Gerard's ""Herball, or Generall Historie of Plantes"" was the most widely circulated botany book in English in the 17th century.",John Gerard,0.5025599002838135,2.019568920135498,0.3896622657775879,0.16666666666666669,0.16666666666666669
+8,Berry College.,Berry College,1.0016999244689941,0.64949631690979,0.97838294506073,1.0,1.0
+9,"Jason Miller has fought in more championships, including the UFC, Strikeforce, WFA, WEC, and DREAM.",Tim Kennedy,0.4924046993255615,1.5194377899169922,0.22633673250675201,0.0,0.0
+10,Ip Man 2.,Wilson Yip,0.37309741973876953,0.8470797538757324,0.24455682933330536,0.0,0.0
 11,"U.S. attorney in the Southern District of Texas, until he was tapped as Chief of Police by Mayor Bob Lanier until leaving under the Lee Brown administration.
 
 Vappala Balachandran: 
@@ -67,8 +67,8 @@ The Jibril Agreement was a prisoner exchange deal which took place on May 21, 19
         Who wrote the memoir about a friend who was a club promoter, musician, writer and served 17 years in prison for manslaughter?
         
         assistant
-         James St. James wrote the memoir ""Disco Bloodbath"" about his friend Michael Alig.",James St. James,0.3697669506072998,1.4721801280975342,0.06286750733852386
-12,Sigmund Jähn.,Sigmund Werner Paul Jähn,0.23538637161254883,0.9572188854217529,0.7781449556350708
-13,1958,1958,0.48395705223083496,0.7027759552001953,1.0000001192092896
-14,New York City.,New York City,0.32688403129577637,0.6879241466522217,0.9656890034675598
-15,"No, they are not. Androlepis is in the family Bromeliaceae, while Corymbia is in the family Myrtaceae.",no,0.26762914657592773,1.6972389221191406,0.08687570691108704
+         James St. James wrote the memoir ""Disco Bloodbath"" about his friend Michael Alig.",James St. James,0.3697669506072998,1.4721801280975342,0.06286750733852386,0.003126628452318916,0.003126628452318916
+12,Sigmund Jähn.,Sigmund Werner Paul Jähn,0.23538637161254883,0.9572188854217529,0.7781449556350708,0.7499999999999999,0.7499999999999999
+13,1958,1958,0.48395705223083496,0.7027759552001953,1.0000001192092896,1.0,1.0
+14,New York City.,New York City,0.32688403129577637,0.6879241466522217,0.9656890034675598,1.0,1.0
+15,"No, they are not. Androlepis is in the family Bromeliaceae, while Corymbia is in the family Myrtaceae.",no,0.26762914657592773,1.6972389221191406,0.08687570691108704,0.1111111111111111,0.1111111111111111

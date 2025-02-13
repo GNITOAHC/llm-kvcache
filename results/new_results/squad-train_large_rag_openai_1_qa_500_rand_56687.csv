@@ -1,44 +1,44 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,1923.,1923,0.2465667724609375,2.021404981613159,0.9702735543251038
-1,The text does not mention the location of the pub known as The Vine.,Brierley Hill,0.25760722160339355,0.8405592441558838,0.13122540712356567
-2,Reception statutes are invalid if they are repugnant to domestic law or indigenous conditions.,repugnant to domestic law or indigenous conditions,0.2578582763671875,0.9244656562805176,0.4841420650482178
-3,"In areas like antitrust, trademark, and employment law, federal and state regulations coexist and interact with each other.",coexist with each other,0.38462114334106445,1.1927549839019775,0.32688283920288086
-4,"46,000.","46,000",0.6510083675384521,0.4517693519592285,0.9719740152359009
-5,The Supreme Court can reverse an unconstitutional court ruling.,the Supreme Court,0.37622928619384766,0.6437950134277344,0.596686065196991
-6,Tuva.,Tuva,0.3234682083129883,0.3749239444732666,0.9671318531036377
-7,a slip law.,a slip law,0.26073431968688965,0.41437673568725586,0.9758548140525818
-8,"33,000.","33,000",0.25025153160095215,0.4259984493255615,0.9677641987800598
-9,ITV.,ITV,0.268491268157959,0.33571696281433105,0.980247437953949
-10,Pickled cockles and mussels.,pickled cockles and mussels,0.32982897758483887,0.5663328170776367,0.9778863191604614
-11,The Red Lion in Parliament Square.,The Magdala,0.23157072067260742,0.5298833847045898,0.2918764650821686
-12,Beer house.,off-sales counter,0.3426849842071533,0.3736112117767334,0.150444895029068
-13,1868.,1868,0.3456306457519531,0.4103214740753174,0.9646062850952148
-14,"Yes, according to the Catholic teaching, a savior for the world was needed, even for Mary, who was preserved from original sin.","Catholic Church has taught that even had man never sinned in the Garden of Eden and was sinless, he would still require God's grace to remain sinless.",0.3170645236968994,1.3411831855773926,0.5644891858100891
-15,"None, the text does not mention Caesars Entertainment filing for bankruptcy.",Chapter 11,0.27930498123168945,0.8384966850280762,0.21634316444396973
-16,The Wine and Beerhouse Act 1869.,Wine and Beerhouse Act 1869,0.3222084045410156,0.6452298164367676,0.9847084283828735
-17,Convention Hall.,Historic Atlantic City Convention Hall,0.3812549114227295,0.3711996078491211,0.7290023565292358
-18,There is no mention of John Lofting in the given context.,1742,0.2662811279296875,0.7650480270385742,0.08113880455493927
-19,A group of local Quakers in Atlantic City.,a group of local Quakers,0.2811598777770996,0.5874621868133545,0.898390531539917
-20,Radios.,radios,0.43045496940612793,0.37517213821411133,0.9513099193572998
-21,The 18th century.,the 1960s and 1970s,0.26143527030944824,0.4922211170196533,0.3674490749835968
-22,11:30 pm.,11.30 pm,0.3065979480743408,0.49054670333862305,0.9174543023109436
-23,The Casino Reinvestment Development Authority (CRDA) would oversee all functions of the district and make changes to attract new businesses and attractions.,The CRDA,0.2959127426147461,1.2790732383728027,0.5669073462486267
-24,Oak Ridge facility.,Los Alamos,0.3537299633026123,0.4147770404815674,0.27238836884498596
-25,Nine Men's Morris.,Nine Men's Morris,0.32885193824768066,0.45108652114868164,0.9841631650924683
-26,Soho.,Soho,0.29836297035217285,0.3750338554382324,0.9779054522514343
-27,1446.,1446,0.41819214820861816,0.4116628170013428,0.960908830165863
-28,16.5 inches.,16.5 inches,0.2569396495819092,0.4907083511352539,0.9837433099746704
-29,There is no mention of plagiarism or the Roman Catholic Church in the provided text.,The Latin Church has not disdained to borrow from the Koran the immaculate conception of his virgin mother,0.3145880699157715,0.8843410015106201,0.4848507046699524
-30,A bolus.,a bolus,0.3341677188873291,0.4127471446990967,0.9732646942138672
-31,"A new law is assigned a law number and prepared for publication as a ""slip law"" at the Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA).",a law number,0.2678661346435547,1.8515925407409668,0.6173452734947205
-32,"The 50 states in the United States are collectively known as the ""United States of America"" or the ""Union"".",separate sovereigns,0.2378699779510498,1.0079090595245361,0.24586232006549835
-33,"They believe Mary and Jesus were born without the ""touch of Satan"" and are exonerated from charges made against them.","dogmatic declaration of her immaculate conception as an ""over-elaboration""",0.2615392208099365,1.1692969799041748,0.2932465672492981
-34,"Teeth are made of tissues of varying density and hardness, such as enamel, dentine, and cementum.","enamel, dentine and cementum",0.2434556484222412,1.110724925994873,0.6873509287834167
-35,"The ""chosen people"".",the chosen people,0.350085973739624,0.45235133171081543,0.9483401775360107
-36,July 2003.,July 2003,0.3341400623321533,0.4523463249206543,0.978742241859436
-37,There is no mention of Feynman's son working on software in the provided text.,influencing the interconnects,0.42414379119873047,0.9603633880615234,-0.053033240139484406
-38,I don't see any information about John Lofting in the given context.,Netherlands,0.32148170471191406,0.8409700393676758,0.02460118755698204
-39,"Dead grass, leaves, weeds, and soil.","dead grass, leaves, and weeds",0.2628345489501953,0.6492114067077637,0.9145809412002563
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,1923.,1923,0.2465667724609375,2.021404981613159,0.9702735543251038,1.0,1.0
+1,The text does not mention the location of the pub known as The Vine.,Brierley Hill,0.25760722160339355,0.8405592441558838,0.13122540712356567,0.0,0.0
+2,Reception statutes are invalid if they are repugnant to domestic law or indigenous conditions.,repugnant to domestic law or indigenous conditions,0.2578582763671875,0.9244656562805176,0.4841420650482178,0.6666666666666666,0.6666666666666666
+3,"In areas like antitrust, trademark, and employment law, federal and state regulations coexist and interact with each other.",coexist with each other,0.38462114334106445,1.1927549839019775,0.32688283920288086,0.3636363636363636,0.3636363636363636
+4,"46,000.","46,000",0.6510083675384521,0.4517693519592285,0.9719740152359009,1.0,1.0
+5,The Supreme Court can reverse an unconstitutional court ruling.,the Supreme Court,0.37622928619384766,0.6437950134277344,0.596686065196991,0.5,0.5
+6,Tuva.,Tuva,0.3234682083129883,0.3749239444732666,0.9671318531036377,1.0,1.0
+7,a slip law.,a slip law,0.26073431968688965,0.41437673568725586,0.9758548140525818,1.0,1.0
+8,"33,000.","33,000",0.25025153160095215,0.4259984493255615,0.9677641987800598,1.0,1.0
+9,ITV.,ITV,0.268491268157959,0.33571696281433105,0.980247437953949,1.0,1.0
+10,Pickled cockles and mussels.,pickled cockles and mussels,0.32982897758483887,0.5663328170776367,0.9778863191604614,1.0,1.0
+11,The Red Lion in Parliament Square.,The Magdala,0.23157072067260742,0.5298833847045898,0.2918764650821686,0.25,0.25
+12,Beer house.,off-sales counter,0.3426849842071533,0.3736112117767334,0.150444895029068,0.0,0.0
+13,1868.,1868,0.3456306457519531,0.4103214740753174,0.9646062850952148,1.0,1.0
+14,"Yes, according to the Catholic teaching, a savior for the world was needed, even for Mary, who was preserved from original sin.","Catholic Church has taught that even had man never sinned in the Garden of Eden and was sinless, he would still require God's grace to remain sinless.",0.3170645236968994,1.3411831855773926,0.5644891858100891,0.23999999999999996,0.11999999999999998
+15,"None, the text does not mention Caesars Entertainment filing for bankruptcy.",Chapter 11,0.27930498123168945,0.8384966850280762,0.21634316444396973,0.0,0.0
+16,The Wine and Beerhouse Act 1869.,Wine and Beerhouse Act 1869,0.3222084045410156,0.6452298164367676,0.9847084283828735,0.9090909090909091,0.9090909090909091
+17,Convention Hall.,Historic Atlantic City Convention Hall,0.3812549114227295,0.3711996078491211,0.7290023565292358,0.5714285714285715,0.5714285714285715
+18,There is no mention of John Lofting in the given context.,1742,0.2662811279296875,0.7650480270385742,0.08113880455493927,0.0,0.0
+19,A group of local Quakers in Atlantic City.,a group of local Quakers,0.2811598777770996,0.5874621868133545,0.898390531539917,0.7692307692307693,0.7692307692307693
+20,Radios.,radios,0.43045496940612793,0.37517213821411133,0.9513099193572998,1.0,1.0
+21,The 18th century.,the 1960s and 1970s,0.26143527030944824,0.4922211170196533,0.3674490749835968,0.28571428571428575,0.28571428571428575
+22,11:30 pm.,11.30 pm,0.3065979480743408,0.49054670333862305,0.9174543023109436,1.0,1.0
+23,The Casino Reinvestment Development Authority (CRDA) would oversee all functions of the district and make changes to attract new businesses and attractions.,The CRDA,0.2959127426147461,1.2790732383728027,0.5669073462486267,0.16666666666666669,0.16666666666666669
+24,Oak Ridge facility.,Los Alamos,0.3537299633026123,0.4147770404815674,0.27238836884498596,0.0,0.0
+25,Nine Men's Morris.,Nine Men's Morris,0.32885193824768066,0.45108652114868164,0.9841631650924683,1.0,1.0
+26,Soho.,Soho,0.29836297035217285,0.3750338554382324,0.9779054522514343,1.0,1.0
+27,1446.,1446,0.41819214820861816,0.4116628170013428,0.960908830165863,1.0,1.0
+28,16.5 inches.,16.5 inches,0.2569396495819092,0.4907083511352539,0.9837433099746704,1.0,1.0
+29,There is no mention of plagiarism or the Roman Catholic Church in the provided text.,The Latin Church has not disdained to borrow from the Koran the immaculate conception of his virgin mother,0.3145880699157715,0.8843410015106201,0.4848507046699524,0.2424242424242424,0.1818181818181818
+30,A bolus.,a bolus,0.3341677188873291,0.4127471446990967,0.9732646942138672,1.0,1.0
+31,"A new law is assigned a law number and prepared for publication as a ""slip law"" at the Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA).",a law number,0.2678661346435547,1.8515925407409668,0.6173452734947205,0.17142857142857143,0.17142857142857143
+32,"The 50 states in the United States are collectively known as the ""United States of America"" or the ""Union"".",separate sovereigns,0.2378699779510498,1.0079090595245361,0.24586232006549835,0.0,0.0
+33,"They believe Mary and Jesus were born without the ""touch of Satan"" and are exonerated from charges made against them.","dogmatic declaration of her immaculate conception as an ""over-elaboration""",0.2615392208099365,1.1692969799041748,0.2932465672492981,0.06666666666666667,0.06666666666666667
+34,"Teeth are made of tissues of varying density and hardness, such as enamel, dentine, and cementum.","enamel, dentine and cementum",0.2434556484222412,1.110724925994873,0.6873509287834167,0.4,0.4
+35,"The ""chosen people"".",the chosen people,0.350085973739624,0.45235133171081543,0.9483401775360107,1.0,1.0
+36,July 2003.,July 2003,0.3341400623321533,0.4523463249206543,0.978742241859436,1.0,1.0
+37,There is no mention of Feynman's son working on software in the provided text.,influencing the interconnects,0.42414379119873047,0.9603633880615234,-0.053033240139484406,0.1111111111111111,0.1111111111111111
+38,I don't see any information about John Lofting in the given context.,Netherlands,0.32148170471191406,0.8409700393676758,0.02460118755698204,0.0,0.0
+39,"Dead grass, leaves, weeds, and soil.","dead grass, leaves, and weeds",0.2628345489501953,0.6492114067077637,0.9145809412002563,0.9090909090909091,0.7272727272727272
 40,"for giving short answers based on given context.
         user
         Context information is below.
@@ -57,21 +57,21 @@ Early on, American courts, even after the Revolution, often did cite contemporar
         What did the document attempt to clarify?
         
         assistant
-         The document attempted to clarify the structure and nuances of the law of the United States, specifically focusing on federal and state laws, tort law, and the relationship between American and English common law.",teaching about Mary in the two definitions,0.4530322551727295,1.7330265045166016,0.14027327299118042
-41,"$20,069.","$20,069",0.420058012008667,0.4507763385772705,0.9720132946968079
-42,A misdemeanor is a minor crime that may result in a year or less in jail and a substantial fine.,minor crimes,0.35429835319519043,1.0067098140716553,0.5089502334594727
-43,Scotland.,Scotland,0.35422468185424805,0.33313798904418945,0.9459118843078613
-44,Landlord.,landlord,0.3604574203491211,0.3751528263092041,0.8828413486480713
-45,2006.,2006,0.4232978820800781,0.412020206451416,0.9468034505844116
-46,The text does not mention the Romans leaving Britain.,5th Century,0.31194067001342773,0.6464312076568604,0.18307079374790192
-47,The 1920s.,1920s,0.49334120750427246,0.487349271774292,0.9437927007675171
-48,The 1960s.,the 1990s,0.3096623420715332,0.4877736568450928,0.4860633909702301
-49,The federal law originates with the Constitution.,the Constitution,0.277942419052124,0.5666325092315674,0.5443999171257019
-50,The text does not specifically mention the natural law theories used by English judges in the eighteenth century.,law was believed to have an existence independent of what individual judges said,0.5520055294036865,1.0307426452636719,0.6199032068252563
-51,The Shia Sevener tariqah no longer exists.,The Shia Sevener,0.26803159713745117,0.7173066139221191,0.728071928024292
-52,8 stories.,eight,0.48430418968200684,0.41167259216308594,0.6474465131759644
-53,The 1970s.,the 1970s,0.731987714767456,0.48741698265075684,0.9730512499809265
-54,Common law of England.,the common law of England,0.299105167388916,0.4504995346069336,0.9773259162902832
+         The document attempted to clarify the structure and nuances of the law of the United States, specifically focusing on federal and state laws, tort law, and the relationship between American and English common law.",teaching about Mary in the two definitions,0.4530322551727295,1.7330265045166016,0.14027327299118042,0.004540295119182748,0.004540295119182748
+41,"$20,069.","$20,069",0.420058012008667,0.4507763385772705,0.9720132946968079,1.0,1.0
+42,A misdemeanor is a minor crime that may result in a year or less in jail and a substantial fine.,minor crimes,0.35429835319519043,1.0067098140716553,0.5089502334594727,0.18181818181818182,0.18181818181818182
+43,Scotland.,Scotland,0.35422468185424805,0.33313798904418945,0.9459118843078613,1.0,1.0
+44,Landlord.,landlord,0.3604574203491211,0.3751528263092041,0.8828413486480713,1.0,1.0
+45,2006.,2006,0.4232978820800781,0.412020206451416,0.9468034505844116,1.0,1.0
+46,The text does not mention the Romans leaving Britain.,5th Century,0.31194067001342773,0.6464312076568604,0.18307079374790192,0.0,0.0
+47,The 1920s.,1920s,0.49334120750427246,0.487349271774292,0.9437927007675171,0.6666666666666666,0.6666666666666666
+48,The 1960s.,the 1990s,0.3096623420715332,0.4877736568450928,0.4860633909702301,0.5,0.5
+49,The federal law originates with the Constitution.,the Constitution,0.277942419052124,0.5666325092315674,0.5443999171257019,0.4444444444444445,0.4444444444444445
+50,The text does not specifically mention the natural law theories used by English judges in the eighteenth century.,law was believed to have an existence independent of what individual judges said,0.5520055294036865,1.0307426452636719,0.6199032068252563,0.12903225806451615,0.12903225806451615
+51,The Shia Sevener tariqah no longer exists.,The Shia Sevener,0.26803159713745117,0.7173066139221191,0.728071928024292,0.6,0.6
+52,8 stories.,eight,0.48430418968200684,0.41167259216308594,0.6474465131759644,0.0,0.0
+53,The 1970s.,the 1970s,0.731987714767456,0.48741698265075684,0.9730512499809265,1.0,1.0
+54,Common law of England.,the common law of England,0.299105167388916,0.4504995346069336,0.9773259162902832,0.888888888888889,0.888888888888889
 55,"for giving short answers based on given context.
         user
         Context information is below.
@@ -87,36 +87,36 @@ Feynman was elected a Foreign Member of the Royal Society (ForMemRS) in 1965. At
         What was the group of volumes titled?
         
         assistant
-         The Feynman Lectures on Physics.",Decline and Fall of the Roman Empire,0.30492186546325684,0.6030464172363281,0.0315568745136261
-56,11 pm.,11 pm,0.29970383644104004,0.4194295406341553,0.9667209386825562
-57,The name of the pub.,the name of the pub,0.2775413990020752,0.4942471981048584,0.990662157535553
-58,Marven Gardens.,Marven Gardens,0.25954675674438477,0.3573307991027832,0.9876777529716492
-59,Water.,gas,0.36003732681274414,0.3380160331726074,0.5011107921600342
-60,"Clouds, a golden light, and cherubs.","clouds, a golden light, and cherubs. In some paintings the cherubim are holding lilies and roses, flowers often associated with Mary.",0.3549153804779053,0.6340901851654053,0.684699296951294
-61,"The prayer is not explicitly mentioned in the text, but the concept is related to the hadith that mentions Mary and Jesus as being born without the ""touch of Satan"".",Hannah's prayer in the Quran for her child to remain protected from Satan,0.28261613845825195,1.534853458404541,0.5148262977600098
-62,The two potential aspects of Atlantic City that originally attracted developers were its beach resort and its train accessibility.,prime real estate and a potential resort town,0.24483132362365723,1.043257474899292,0.4302637577056885
-63,The small intestine.,the plant cell nucleus,0.4136636257171631,0.41590237617492676,0.1638612151145935
-64,The question is not in the given context.,Bacchanals,0.3168952465057373,0.6130995750427246,0.1369336098432541
-65,Flooding and power outages.,flooding and power-outages,0.30329155921936035,0.5353786945343018,0.9459251761436462
-66,Ventnor City.,Venice Park,0.3322310447692871,0.22045016288757324,0.30242621898651123
-67,The question is not in the text.,mayor Lorenzo Langford,0.25164794921875,0.5738840103149414,0.07887078821659088
-68,Infinity,Infinity,0.5752720832824707,0.2958340644836426,1.0
-69,"He was Pope Sixtus IV, who introduced the feast of the Immaculate Conception in 1477, but it was not the reason for his separation from the Catholic Church.",Protestant Reformation,0.31763172149658203,1.7590858936309814,0.2799546718597412
-70,A sinless person.,mortally sinful,0.28499364852905273,0.45582056045532227,0.5744631290435791
-71,"The Twelvers are commonly known as the ""Shia"".","the ""Shia""",0.2404041290283203,0.7685766220092773,0.7511005401611328
-72,The text does not provide the total area in square miles of Atlantic City.,17.037 square miles,0.36792755126953125,0.8492221832275391,0.4157060384750366
-73,Article Three of the United States Constitution.,Article Three,0.3281874656677246,0.5723295211791992,0.7778658866882324
-74,The small intestine and the stomach.,in the stomach and gastrointestinal tract,0.2833883762359619,0.4028816223144531,0.7869973182678223
-75,Arline Greenbaum (also known as Arlene),Arline Greenbaum,0.28356218338012695,0.6920440196990967,0.7625144720077515
-76,The 1990s.,1990s,0.37478113174438477,0.3636474609375,0.9253845810890198
-77,The Cross.,The Red Lion,0.34343647956848145,0.3779020309448242,0.34821802377700806
-78,"Atlantic, Pacific, Delaware, and Maryland Avenues.","Atlantic, Pacific, Delaware, and Maryland Avenues",0.29384279251098633,0.6925399303436279,0.9895023703575134
-79,Pool.,pool,0.29442906379699707,0.33780360221862793,0.9493456482887268
-80,The text does not mention the location of the Eagle pub.,Clerkenwell,0.37119483947753906,0.7345175743103027,0.04648716002702713
-81,"He felt there were no teaching duties, which he considered essential for inspiration.",no teaching duties,0.47835350036621094,0.8520069122314453,0.6716030836105347
-82,Standardizing American tort law.,many states have chosen to adopt only certain sections,0.36867308616638184,0.4934408664703369,0.2521805465221405
-83,Longport.,Longport,0.2800164222717285,0.37689757347106934,0.9720672965049744
-84,"There is no mention of ""internal digestion"" vs ""external digestion"" in the provided context.","more of the broken down products can be captured, and the internal chemical environment can be more efficiently controlled",0.6134037971496582,1.0053889751434326,0.2477661371231079
+         The Feynman Lectures on Physics.",Decline and Fall of the Roman Empire,0.30492186546325684,0.6030464172363281,0.0315568745136261,0.007556675062972293,0.007556675062972293
+56,11 pm.,11 pm,0.29970383644104004,0.4194295406341553,0.9667209386825562,1.0,1.0
+57,The name of the pub.,the name of the pub,0.2775413990020752,0.4942471981048584,0.990662157535553,1.0,1.0
+58,Marven Gardens.,Marven Gardens,0.25954675674438477,0.3573307991027832,0.9876777529716492,1.0,1.0
+59,Water.,gas,0.36003732681274414,0.3380160331726074,0.5011107921600342,0.0,0.0
+60,"Clouds, a golden light, and cherubs.","clouds, a golden light, and cherubs. In some paintings the cherubim are holding lilies and roses, flowers often associated with Mary.",0.3549153804779053,0.6340901851654053,0.684699296951294,0.4444444444444445,0.4444444444444445
+61,"The prayer is not explicitly mentioned in the text, but the concept is related to the hadith that mentions Mary and Jesus as being born without the ""touch of Satan"".",Hannah's prayer in the Quran for her child to remain protected from Satan,0.28261613845825195,1.534853458404541,0.5148262977600098,0.22727272727272724,0.22727272727272724
+62,The two potential aspects of Atlantic City that originally attracted developers were its beach resort and its train accessibility.,prime real estate and a potential resort town,0.24483132362365723,1.043257474899292,0.4302637577056885,0.22222222222222218,0.14814814814814814
+63,The small intestine.,the plant cell nucleus,0.4136636257171631,0.41590237617492676,0.1638612151145935,0.28571428571428575,0.28571428571428575
+64,The question is not in the given context.,Bacchanals,0.3168952465057373,0.6130995750427246,0.1369336098432541,0.0,0.0
+65,Flooding and power outages.,flooding and power-outages,0.30329155921936035,0.5353786945343018,0.9459251761436462,1.0,1.0
+66,Ventnor City.,Venice Park,0.3322310447692871,0.22045016288757324,0.30242621898651123,0.0,0.0
+67,The question is not in the text.,mayor Lorenzo Langford,0.25164794921875,0.5738840103149414,0.07887078821659088,0.0,0.0
+68,Infinity,Infinity,0.5752720832824707,0.2958340644836426,1.0,1.0,1.0
+69,"He was Pope Sixtus IV, who introduced the feast of the Immaculate Conception in 1477, but it was not the reason for his separation from the Catholic Church.",Protestant Reformation,0.31763172149658203,1.7590858936309814,0.2799546718597412,0.0,0.0
+70,A sinless person.,mortally sinful,0.28499364852905273,0.45582056045532227,0.5744631290435791,0.0,0.0
+71,"The Twelvers are commonly known as the ""Shia"".","the ""Shia""",0.2404041290283203,0.7685766220092773,0.7511005401611328,0.4,0.4
+72,The text does not provide the total area in square miles of Atlantic City.,17.037 square miles,0.36792755126953125,0.8492221832275391,0.4157060384750366,0.22222222222222224,0.22222222222222224
+73,Article Three of the United States Constitution.,Article Three,0.3281874656677246,0.5723295211791992,0.7778658866882324,0.4444444444444445,0.4444444444444445
+74,The small intestine and the stomach.,in the stomach and gastrointestinal tract,0.2833883762359619,0.4028816223144531,0.7869973182678223,0.5,0.3333333333333333
+75,Arline Greenbaum (also known as Arlene),Arline Greenbaum,0.28356218338012695,0.6920440196990967,0.7625144720077515,0.5,0.5
+76,The 1990s.,1990s,0.37478113174438477,0.3636474609375,0.9253845810890198,0.6666666666666666,0.6666666666666666
+77,The Cross.,The Red Lion,0.34343647956848145,0.3779020309448242,0.34821802377700806,0.4,0.4
+78,"Atlantic, Pacific, Delaware, and Maryland Avenues.","Atlantic, Pacific, Delaware, and Maryland Avenues",0.29384279251098633,0.6925399303436279,0.9895023703575134,1.0,1.0
+79,Pool.,pool,0.29442906379699707,0.33780360221862793,0.9493456482887268,1.0,1.0
+80,The text does not mention the location of the Eagle pub.,Clerkenwell,0.37119483947753906,0.7345175743103027,0.04648716002702713,0.0,0.0
+81,"He felt there were no teaching duties, which he considered essential for inspiration.",no teaching duties,0.47835350036621094,0.8520069122314453,0.6716030836105347,0.375,0.375
+82,Standardizing American tort law.,many states have chosen to adopt only certain sections,0.36867308616638184,0.4934408664703369,0.2521805465221405,0.0,0.0
+83,Longport.,Longport,0.2800164222717285,0.37689757347106934,0.9720672965049744,1.0,1.0
+84,"There is no mention of ""internal digestion"" vs ""external digestion"" in the provided context.","more of the broken down products can be captured, and the internal chemical environment can be more efficiently controlled",0.6134037971496582,1.0053889751434326,0.2477661371231079,0.18181818181818182,0.12121212121212122
 85,"for giving short answers based on given context.
         user
         Context information is below.
@@ -134,42 +134,42 @@ He also developed Feynman diagrams, a bookkeeping device that helps in conceptua
         Who gave the teacher the new job?
         
         assistant
-         The Institute for Advanced Study and Princeton University jointly offered the teacher the new job.",Pope Pius IX,0.2698948383331299,0.8862371444702148,0.002093218732625246
-86,"Casinos, the Atlantic City Aquarium, and the Atlantic City Convention Center.",Unincorporated communities,0.331418514251709,0.75221848487854,0.14962166547775269
-87,Princeton University.,Princeton University,0.31343579292297363,0.3773362636566162,0.9688752293586731
-88,"""Monopoly City""",Monopoly City,0.40279388427734375,0.39673900604248047,0.9607925415039062
-89,"1,121.","1,121",0.2788052558898926,0.457988977432251,0.9845308065414429
-90,regulating them.,regulating them,0.3785843849182129,0.3780088424682617,0.9767019152641296
-91,In the jaws (or mouths) of many vertebrates.,in the jaws (or mouths),0.5763711929321289,0.7306101322174072,0.8051612973213196
-92,Fitzrovia.,Fitzrovia,0.31990981101989746,0.4160268306732178,0.980452299118042
-93,A small nuclear reactor.,nuclear reactor,0.7045660018920898,0.4542675018310547,0.8562448024749756
-94,3.34,3.26,0.25016260147094727,0.4157295227050781,0.7471030950546265
-95,Codified and uncodified forms of law.,codified and uncodified,0.31902551651000977,0.6504857540130615,0.6718645095825195
-96,New England.,New England,0.2570309638977051,0.37425947189331055,0.968458890914917
-97,Swindon station pub.,Swindon station pub,0.4604525566101074,0.49472498893737793,0.983241081237793
-98,"""public house"".",public house,0.27254796028137207,0.2869873046875,0.9340482950210571
-99,Islam.,Muslims,0.2985513210296631,0.18106889724731445,0.7963454723358154
-100,Jewish.,Jewish,0.5539002418518066,0.3376011848449707,0.9432363510131836
-101,Broad interpretations of the Commerce and Spending Clauses of the Constitution.,Commerce and Spending Clauses of the Constitution,0.23789501190185547,0.7734792232513428,0.888577938079834
-102,The moon.,purification was eventually associated with the feast of Mary's very conception,0.31325674057006836,0.3175160884857178,0.030448757112026215
-103,LSD.,LSD,0.3881511688232422,0.33562779426574707,0.9664637446403503
-104,The Field Code in 1850.,code pleading,0.27721309661865234,0.5741140842437744,0.3629147708415985
-105,The text does not mention the year Atlantic City was incorporated.,1854,0.35292482376098633,0.672598123550415,0.14949285984039307
-106,Enzymes.,salivary amylase,0.3165154457092285,0.28179001808166504,0.5988340377807617
-107,He was later known as Pope Pius IX.,"dogma in Ineffabilis Deus, Pope Pius IX explicitly affirmed that Mary was redeemed in a manner more sublime",0.3179638385772705,0.6558644771575928,0.5279676914215088
-108,There is no mention of John Lofting in the given context.,St Thomas Apostle London,0.44267868995666504,0.7723193168640137,0.107913538813591
-109,To help hotel owners keep sand out of their lobbies.,to help hotel owners keep sand out of their lobbies,0.3599395751953125,0.730870246887207,0.966745913028717
-110,Donald Trump.,Executives,0.40699243545532227,0.3790476322174072,0.37713342905044556
-111,C.S. Lewis.,C. S. Lewis,0.32158899307250977,0.45694684982299805,0.9848678112030029
-112,The mantle of the imamate to his son Muḥammad ibn Ismail.,mantle of the imamate,0.2832820415496826,1.0065195560455322,0.6601461172103882
-113,"gastropub is a portmanteau of ""gastropub"" is not mentioned in the text, but a gastropub is a portmanteau of ""gastropub"" is not mentioned, however, a ""gastropub"" is a portmanteau of ""gastro"" and ""pub"".",pub and gastronomy,0.26282763481140137,2.972820520401001,0.37249356508255005
-114,The pancreas secretes chymotrypsin.,the pancreas,0.26012325286865234,0.5987448692321777,0.6929595470428467
-115,The photo was likely included to show the boardwalk's original length and condition before the 1944 Great Atlantic Hurricane.,"the Boardwalk that was slated for repairs, prior to the storm",0.7616961002349854,1.201904296875,0.6103553771972656
-116,Trinity bomb test.,Trinity bomb test,0.351146936416626,0.41426920890808105,0.9811091423034668
-117,They are often closed down.,closed down,0.5511641502380371,0.49755430221557617,0.5807337760925293
-118,"None, Caesars Entertainment filed for bankruptcy and sold its properties.",three,0.27088284492492676,0.808826208114624,0.16200774908065796
-119,23.1% of families and 25.3% of the population were below the poverty line.,23.6%,0.32854199409484863,1.1260809898376465,0.43390488624572754
-120,"Dick Turpin, the highwayman.",Dick Turpin,0.37532973289489746,0.574608325958252,0.7849806547164917
+         The Institute for Advanced Study and Princeton University jointly offered the teacher the new job.",Pope Pius IX,0.2698948383331299,0.8862371444702148,0.002093218732625246,0.0,0.0
+86,"Casinos, the Atlantic City Aquarium, and the Atlantic City Convention Center.",Unincorporated communities,0.331418514251709,0.75221848487854,0.14962166547775269,0.0,0.0
+87,Princeton University.,Princeton University,0.31343579292297363,0.3773362636566162,0.9688752293586731,1.0,1.0
+88,"""Monopoly City""",Monopoly City,0.40279388427734375,0.39673900604248047,0.9607925415039062,1.0,1.0
+89,"1,121.","1,121",0.2788052558898926,0.457988977432251,0.9845308065414429,1.0,1.0
+90,regulating them.,regulating them,0.3785843849182129,0.3780088424682617,0.9767019152641296,1.0,1.0
+91,In the jaws (or mouths) of many vertebrates.,in the jaws (or mouths),0.5763711929321289,0.7306101322174072,0.8051612973213196,0.7692307692307693,0.7692307692307693
+92,Fitzrovia.,Fitzrovia,0.31990981101989746,0.4160268306732178,0.980452299118042,1.0,1.0
+93,A small nuclear reactor.,nuclear reactor,0.7045660018920898,0.4542675018310547,0.8562448024749756,0.6666666666666666,0.6666666666666666
+94,3.34,3.26,0.25016260147094727,0.4157295227050781,0.7471030950546265,0.5,0.5
+95,Codified and uncodified forms of law.,codified and uncodified,0.31902551651000977,0.6504857540130615,0.6718645095825195,0.6666666666666666,0.6666666666666666
+96,New England.,New England,0.2570309638977051,0.37425947189331055,0.968458890914917,1.0,1.0
+97,Swindon station pub.,Swindon station pub,0.4604525566101074,0.49472498893737793,0.983241081237793,1.0,1.0
+98,"""public house"".",public house,0.27254796028137207,0.2869873046875,0.9340482950210571,1.0,1.0
+99,Islam.,Muslims,0.2985513210296631,0.18106889724731445,0.7963454723358154,0.0,0.0
+100,Jewish.,Jewish,0.5539002418518066,0.3376011848449707,0.9432363510131836,1.0,1.0
+101,Broad interpretations of the Commerce and Spending Clauses of the Constitution.,Commerce and Spending Clauses of the Constitution,0.23789501190185547,0.7734792232513428,0.888577938079834,0.7777777777777778,0.7777777777777778
+102,The moon.,purification was eventually associated with the feast of Mary's very conception,0.31325674057006836,0.3175160884857178,0.030448757112026215,0.14285714285714285,0.14285714285714285
+103,LSD.,LSD,0.3881511688232422,0.33562779426574707,0.9664637446403503,1.0,1.0
+104,The Field Code in 1850.,code pleading,0.27721309661865234,0.5741140842437744,0.3629147708415985,0.28571428571428575,0.28571428571428575
+105,The text does not mention the year Atlantic City was incorporated.,1854,0.35292482376098633,0.672598123550415,0.14949285984039307,0.0,0.0
+106,Enzymes.,salivary amylase,0.3165154457092285,0.28179001808166504,0.5988340377807617,0.0,0.0
+107,He was later known as Pope Pius IX.,"dogma in Ineffabilis Deus, Pope Pius IX explicitly affirmed that Mary was redeemed in a manner more sublime",0.3179638385772705,0.6558644771575928,0.5279676914215088,0.30769230769230765,0.23076923076923078
+108,There is no mention of John Lofting in the given context.,St Thomas Apostle London,0.44267868995666504,0.7723193168640137,0.107913538813591,0.0,0.0
+109,To help hotel owners keep sand out of their lobbies.,to help hotel owners keep sand out of their lobbies,0.3599395751953125,0.730870246887207,0.966745913028717,1.0,1.0
+110,Donald Trump.,Executives,0.40699243545532227,0.3790476322174072,0.37713342905044556,0.0,0.0
+111,C.S. Lewis.,C. S. Lewis,0.32158899307250977,0.45694684982299805,0.9848678112030029,1.0,1.0
+112,The mantle of the imamate to his son Muḥammad ibn Ismail.,mantle of the imamate,0.2832820415496826,1.0065195560455322,0.6601461172103882,0.5,0.5
+113,"gastropub is a portmanteau of ""gastropub"" is not mentioned in the text, but a gastropub is a portmanteau of ""gastropub"" is not mentioned, however, a ""gastropub"" is a portmanteau of ""gastro"" and ""pub"".",pub and gastronomy,0.26282763481140137,2.972820520401001,0.37249356508255005,0.1111111111111111,0.05555555555555555
+114,The pancreas secretes chymotrypsin.,the pancreas,0.26012325286865234,0.5987448692321777,0.6929595470428467,0.6666666666666666,0.6666666666666666
+115,The photo was likely included to show the boardwalk's original length and condition before the 1944 Great Atlantic Hurricane.,"the Boardwalk that was slated for repairs, prior to the storm",0.7616961002349854,1.201904296875,0.6103553771972656,0.3225806451612903,0.25806451612903225
+116,Trinity bomb test.,Trinity bomb test,0.351146936416626,0.41426920890808105,0.9811091423034668,1.0,1.0
+117,They are often closed down.,closed down,0.5511641502380371,0.49755430221557617,0.5807337760925293,0.5714285714285715,0.5714285714285715
+118,"None, Caesars Entertainment filed for bankruptcy and sold its properties.",three,0.27088284492492676,0.808826208114624,0.16200774908065796,0.0,0.0
+119,23.1% of families and 25.3% of the population were below the poverty line.,23.6%,0.32854199409484863,1.1260809898376465,0.43390488624572754,0.11764705882352941,0.11764705882352941
+120,"Dick Turpin, the highwayman.",Dick Turpin,0.37532973289489746,0.574608325958252,0.7849806547164917,0.6666666666666666,0.6666666666666666
 121,"for giving short answers based on given context.
         user
         Context information is below.
@@ -186,234 +186,234 @@ Further claims were made that the Roman Catholic Church derives its doctrine fro
         Who were the parents of Mary believed to be?
         
         assistant
-         They were believed to be sinful.",Saint Joachim and Saint Anne,0.24197864532470703,0.5332987308502197,0.22504690289497375
-122,43%,43%,0.29069972038269043,0.351071834564209,1.0
-123,"Typically, purpose-built pubs are located near railway stations.",corners or road junctions,0.24036431312561035,0.6923568248748779,0.30922234058380127
-124,The Miranda rights.,Miranda warning,0.29937195777893066,0.35904860496520996,0.705997109413147
-125,The Queen Vic.,The Queen Vic,0.3157646656036377,0.4163024425506592,0.9844967126846313
-126,A $1.5–2 billion casino resort.,$1.5–2 billion casino resort,0.32756686210632324,0.6918528079986572,0.9677447080612183
-127,Contract law covers obligations established by agreement between private parties.,obligations established by agreement (express or implied) between private parties,0.37834668159484863,0.6330957412719727,0.7281620502471924
-128,"The role of Imams in Shia Islam is to provide commentary and interpretation of the Quran, as well as guidance to their followers.",providing commentary and interpretation of the Quran,0.2836782932281494,1.2836778163909912,0.5434795618057251
-129,Revel.,Atlantic Club,0.23743319511413574,0.3396174907684326,0.21105782687664032
-130,An Imam.,Allah,0.3553025722503662,0.2201991081237793,0.5256636142730713
-131,There is no mention of the Marquis of Granby pub in the given context.,"John Manners, Marquess of Granby",0.2541072368621826,0.9286181926727295,0.5394457578659058
-132,"In the small intestine, nutrients are absorbed into the blood through the intestinal walls, which are lined with villi and microvilli to increase surface area.",these smaller substances are absorbed through the small intestine into the blood stream,0.6529755592346191,1.4783711433410645,0.7028324604034424
-133,The Cock Tavern.,the Cock Tavern,0.2533435821533203,0.41678333282470703,0.9802922010421753
-134,The rule of strict liability for defective products.,rule of strict liability for defective products,0.2715644836425781,0.6120800971984863,0.9714646935462952
-135,They have gone into Occultation.,Occultation,0.3118128776550293,0.5715198516845703,0.7622841596603394
-136,AD 460.,460,0.2551724910736084,0.41753435134887695,0.6695005893707275
-137,Civil procedure.,"""living law""",0.26658010482788086,0.3187525272369385,0.27195924520492554
-138,"The rule of precedent was allowed as a matter of public policy, justified as a matter of fundamental fairness and to avoid inefficiency, instability, and unpredictability in the judicial process.","in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided",0.2765998840332031,1.6726620197296143,0.41298574209213257
-139,They use a hadith (a Muslim tradition) and a Quranic verse to support their claim.,"passage in the Qur'an, ""I have called her Mary; and I commend her to thy protection, and also her issue, against Satan driven away with stones",0.3247411251068115,1.0470058917999268,0.4765946865081787
-140,1086.,1086,0.41127967834472656,0.4167487621307373,0.9684630036354065
-141,A blood and nerve supply.,a blood and nerve supply,0.24833011627197266,0.4941530227661133,0.9624701738357544
-142,Nottingham.,Nottingham,0.2527022361755371,0.3378872871398926,0.961963951587677
-143,"Reception statutes are laws that state that the common law of England is the law of the state, unless it is repugnant to domestic law or indigenous conditions.",the common law of England (particularly judge-made law) is the law of the state,0.46889328956604004,1.5152013301849365,0.6151058673858643
-144,There is no mention of the Bethe-Feynman formula in the given context.,calculating the yield of a fission bomb,0.2685585021972656,0.9277381896972656,0.09889890253543854
-145,Tabernae.,tabernae,0.2400059700012207,0.41411519050598145,0.9793336391448975
-146,QCD and the electro-weak theory.,QCD and the electro-weak theory,0.26100826263427734,0.6110262870788574,0.9940404891967773
-147,British.,British,0.26479530334472656,0.3376500606536865,0.921413779258728
-148,Tort law overlaps with wrongs also punishable by criminal law.,wrongs also punishable by criminal law,0.3474869728088379,0.7306630611419678,0.7638601064682007
-149,Beer.,it is licensed to sell alcohol,0.6033215522766113,0.3379075527191162,0.3278835415840149
-150,1446.,1446,0.38490939140319824,0.4140739440917969,0.960908830165863
-151,Enzymes.,energy,0.25281405448913574,0.4145534038543701,0.2795984447002411
-152,Gardner's Basin and a residential neighborhood in the Chelsea section.,Gardner's Basin,0.2808353900909424,0.6731400489807129,0.7031276226043701
-153,The stomach and duodenum.,in the stomach and duodenum,0.2848825454711914,0.39852213859558105,0.9254670143127441
-154,Pub chain.,theme pubs,0.3475940227508545,0.3785426616668701,0.445142924785614
-155,The law of criminal procedure governs the prosecution of crimes and the rights of the accused.,federal constitutional case law interwoven with the federal and state statutes,0.33617377281188965,0.9079172611236572,0.35823196172714233
-156,The abomasum.,The abomasum,0.2405226230621338,0.45537376403808594,0.9860237836837769
-157,Theoretical work and calculations on the proposed uranium hydride bomb.,safety procedures,0.3718705177307129,0.808652400970459,0.05016086995601654
-158,Torts.,Tort law,0.2282271385192871,0.32096219062805176,0.6488151550292969
-159,lectures.,lectures,0.32588696479797363,0.3371238708496094,0.9555456042289734
-160,New York.,Louisiana,0.6898431777954102,0.3780405521392822,0.4815616011619568
-161,"Alex Kozinski, a federal judge.",federal judge Alex Kozinski,0.2524125576019287,0.612511396408081,0.9520066976547241
-162,There is no mention of John Shakespeare's profession in the given context.,inspectors,0.3081820011138916,0.8090915679931641,-0.040284860879182816
-163,The text does not mention the Ambassador Hotel being gutted.,Tropicana Casino and Resort Atlantic City,0.3003535270690918,0.7280821800231934,0.22038361430168152
-164,Judicial review by the Supreme Court.,a subsequent statute,0.2543368339538574,0.5359499454498291,0.30857187509536743
-165,"External digestion developed in the Cambrian period, around 541 million years ago.",earlier in evolutionary history,0.6668257713317871,0.701676607131958,0.48902982473373413
-166,There is no mention of a commencement speech at Caltech in the provided text.,cargo cult science,0.24588561058044434,0.8878231048583984,0.06047213077545166
-167,"272,795 new cases.","272,795",0.2519567012786865,0.5343363285064697,0.540805459022522
-168,1914.,1915,0.3627488613128662,0.41550230979919434,0.7763237953186035
-169,Peristalsis.,swallowing and peristalsis,0.3771097660064697,0.4559440612792969,0.7011798620223999
-170,City Road.,City Road,0.32529187202453613,0.3784351348876953,0.968228816986084
-171,"The Dominicans, due to the influence of Thomas Aquinas, denied the concept of the Immaculate Conception.",Shia Nizari Ismailis,0.2954075336456299,1.2073185443878174,0.018804537132382393
-172,Ye Olde Cock Tavern.,Ye Olde Cock Tavern,0.27541255950927734,0.49541282653808594,0.9918562173843384
-173,Revelation 12:1-2.,Genesis 3:15,0.40923428535461426,0.5142474174499512,0.4823460280895233
-174,He wanted to avoid damaging his brain.,he did not want to do anything that could damage his brain,1.4520831108093262,0.5724442005157471,0.7808966636657715
-175,There is no information about the daily average temperature in July in the provided context.,75.6 °F,0.321368932723999,0.8885269165039062,0.28664430975914
-176,Greenman v. Yuba Power Products (1963),Greenman v. Yuba Power Products,0.31151604652404785,0.7301270961761475,0.9129643440246582
-177,36.3 years.,36.3 years,0.29560112953186035,0.494457483291626,0.9833006262779236
-178,Shepherd Neame.,Shepherd Neame,0.24412918090820312,0.4182419776916504,0.9869087934494019
-179,She would hang a wooden sign outside her door with a picture of a foaming mug.,the Anglo-Saxon alewife would put a green bush up on a pole,0.526282548904419,0.969855785369873,0.3316881060600281
-180,American civil procedure.,American civil procedure,0.4212374687194824,0.3594644069671631,0.9772577285766602
-181,The 18th century.,18th,0.25599026679992676,0.49524402618408203,0.5371841788291931
-182,"a ""light cone"".",light cone,0.28078222274780273,0.4553830623626709,0.9050359725952148
-183,Mastication (chewing).,the cephalic phase,4.4275901317596436,0.5353021621704102,0.09705482423305511
-184,"The forebears had knowledge of the sinlessness of Mary, as evidenced by their expressions of her holiness and purity.","the Fathers saw foreshadowings of Mary's ""wondrous abundance of divine gifts and original innocence",0.24091529846191406,1.2477145195007324,0.5180145502090454
-185,There is no mention of a report with a final conclusion in the given text.,Assumption and the Immaculate Conception can be said to be consonant with the teaching of the Scriptures and the ancient common traditions.,0.26264095306396484,0.88735032081604,0.08543427288532257
-186,"According to the text, in Islam, every human child is born with the ""touch of Satan"" except Mary and Jesus.","every person that comes into the world, is touched at his birth by the devil",0.29830503463745117,1.244582176208496,0.6792192459106445
-187,"None, as the text does not mention strippers.",strip pubs,0.2579035758972168,0.6899619102478027,0.4310069978237152
-188,A highway.,highway,0.2694098949432373,0.3743102550506592,0.8927591443061829
-189,The United States Code.,The United States Code,0.29997944831848145,0.4555931091308594,0.9667985439300537
-190,27.3% of households had children under the age of 18 living with them.,27.7%,0.31976866722106934,1.0080640316009521,0.3936976492404938
-191,None mentioned in the text.,"Absecon, Brigantine, Pleasantville, Ventnor City and West Atlantic City",0.3250563144683838,0.4360661506652832,0.15357428789138794
-192,St Bernard.,"Critics included Saints Bernard of Clairvaux, Albertus Magnus and Thomas Aquinas.",0.27634620666503906,0.3776412010192871,0.43008410930633545
-193,There is no specific information in the provided text about the number of published reports of American volumes that existed in 1910.,"over 8,000",0.26518964767456055,1.2429046630859375,0.18564262986183167
-194,The process of breaking down food into nutrients that can be absorbed by the body.,the breakdown of large insoluble food molecules into small water-soluble food molecules so that they can be absorbed into the watery blood plasma,0.2535700798034668,0.7037761211395264,0.5994364023208618
-195,"A pretrial deposition is live testimony obtained from a witness or party in a lawsuit, often used in American civil procedure.",summary judgment,0.30347514152526855,1.1472976207733154,0.27649039030075073
-196,Hubert Humphrey.,Hubert Humphrey,0.6120316982269287,0.45648622512817383,0.98194819688797
-197,Revel Casino.,Revel,0.24940252304077148,0.377239465713501,0.6292417049407959
-198,The sign that indicates the Divine Leader is his well-known ties of kinship with Muhammad and his clear appointment.,his well-known ties of kinship with Muhammad,0.3200814723968506,1.1256725788116455,0.7016199827194214
-199,£168.,£168,0.45541858673095703,0.37763285636901855,0.9719254970550537
-200,A landlord.,pub landlord,0.24601340293884277,0.3773233890533447,0.7051682472229004
-201,Islam.,claim that the immaculate conception of Mary is a teaching of Islam.,0.33968210220336914,0.2785489559173584,0.4198688864707947
-202,"State courts primarily hear cases involving state laws, including tort law, family law, property law, contract law, and criminal law.",involve claims and defenses under state laws,0.3747365474700928,1.280874490737915,0.4701662063598633
-203,"May 11, 1918.","May 11, 1918",0.37150096893310547,0.5757620334625244,0.9845556020736694
-204,Gardner's Basin.,City Island,0.2722587585449219,0.3579587936401367,0.2890600562095642
-205,239 days.,239 days,0.2783849239349365,0.3902554512023926,0.9748129844665527
-206,State courts are not bound by federal interpretations of state law.,state courts are not bound by federal interpretations of state law,0.41481447219848633,0.7330868244171143,0.9483640193939209
-207,The mouth.,in the mouth with the secretion of saliva and its digestive enzymes,0.3653683662414551,0.1898956298828125,0.5781589150428772
-208,Far Rockaway.,Queens,0.27259135246276855,0.41591835021972656,0.289296954870224
-209,Community gathering places.,community gathering places,0.350147008895874,0.41428184509277344,0.9777660369873047
-210,The U.S. Supreme Court.,the Supreme Court,0.21431493759155273,0.5356490612030029,0.9169992804527283
-211,"The Mustalian Ismailis are commonly known as the ""Bohras"".",Bohras,0.2785501480102539,0.887474536895752,0.6189152002334595
-212,"40,517.","40,517",0.2498011589050293,0.45549798011779785,0.9810813665390015
-213,Imamah.,Imamah,0.2512657642364502,0.37769627571105957,0.9589872360229492
-214,The blood.,blood,0.2640523910522461,0.24116945266723633,0.830098569393158
-215,Contract law covers obligations established by agreement (express or implied) between private parties.,express or implied,0.31409192085266113,0.8313696384429932,0.36168456077575684
-216,The gizzard.,The powerful muscles of the gizzard,0.2562699317932129,0.41762399673461914,0.7063782811164856
-217,Slug and Lettuce.,Slug and Lettuce,0.27852296829223633,0.49399757385253906,0.9662160873413086
-218,Increased metabolic rate.,"an ""overhead charge""",0.3302278518676758,0.4164767265319824,0.1342017650604248
-219,"There is no information in the given context about a specific war, so I'm unable to provide a specific answer.",automobile,0.23952960968017578,1.1630475521087646,0.00338071770966053
-220,John Duns Scotus argued that Mary's immaculate conception was a result of a more perfect redemption granted to her because of her special role in salvation history.,rather it was the result of a more perfect redemption granted her because of her special role in salvation history.,0.3289816379547119,1.5192699432373047,0.5542037487030029
-221,There is no mention of Feynman creating an electronic device as a grade school child.,home burglar alarm system,0.2907445430755615,0.9669241905212402,0.06153874844312668
-222,The Marlborough-Blenheim and the Traymore Hotel.,Marlborough-Blenheim Hotel and the Traymore Hotel,0.3065040111541748,0.7287278175354004,0.9778362512588501
-223,A British-themed pub.,Irish pubs,0.4394862651824951,0.45595812797546387,0.6828678250312805
-224,1929.,1929,0.3625926971435547,0.4161083698272705,0.9662477970123291
-225,There is no mention of Johnny Torrio in the provided context.,the Fox,0.3492155075073242,0.76932692527771,0.047492288053035736
-226,The Chalfonte-Haddon Hall Hotel.,The United States Hotel,0.25933289527893066,0.6112267971038818,0.6527717709541321
-227,Independent breweries.,commercial breweries,0.5272071361541748,0.3789331912994385,0.8178238868713379
-228,Hussayn ibn 'Ali.,Hussayn ibn 'Alī,0.36394429206848145,0.5730764865875244,0.9889774918556213
-229,There is no information about the Angel pub in the given context.,a Co-operative Bank,0.32530665397644043,0.7709119319915771,0.124429851770401
-230,"Because of its immense size and diversity, with many states adopting only certain sections of the Restatements and rejecting others.",immense size and diversity,0.296983003616333,1.2016911506652832,0.4261299669742584
-231,"Each state has its own legislative branch, executive branch, and judicial branch, and retains plenary power to make laws not preempted by the federal Constitution, federal statutes, or international treaties.","state constitutions, state governments, and state courts",0.47954583168029785,1.752992868423462,0.6010444164276123
-232,The local council.,the local council,0.37046003341674805,0.4161694049835205,0.9785126447677612
-233,Gin houses.,gin houses,0.37989139556884766,0.3766965866088867,0.9854979515075684
-234,"state governments, federal government, and the judiciary.",Indian reservations,0.3321878910064697,0.6549127101898193,0.15734189748764038
-235,The Woolpack Inn.,the Woolpack,0.2952852249145508,0.4562816619873047,0.7334808707237244
-236,Mac.,weasel,0.28575658798217773,0.3397490978240967,0.3155682682991028
-237,State law.,state law,0.30765342712402344,0.37593817710876465,0.9329242706298828
-238,"I couldn't find any information about ""Boulogne Bouche"" in the given context.",Boulogne-sur-Mer Harbour,0.8039538860321045,1.0472657680511475,0.462188720703125
-239,Occultation.,The Occultation,0.2590067386627197,0.4154999256134033,0.9322739243507385
-240,The Commerce and Spending Clauses of the Constitution.,Commerce and Spending Clauses,0.2995929718017578,0.6528468132019043,0.8116081953048706
-241,Federal agencies' rulemaking authority.,"lifestyle, behavior, and even physical structures",0.7694673538208008,0.534095287322998,0.08181048929691315
-242,"The Quran does not confirm the Immaculate Conception exclusively for Mary, and views every human child as born pure and immaculate, independent of the concept of original sin.","Muslim tradition or hadith, which states that the only children born without the ""touch of Satan,"" were Mary and Jesus.",0.3235006332397461,1.6355514526367188,0.5637308359146118
-243,He thought a spy or saboteur had gained access to atomic bomb secrets.,saboteur had gained access to atomic bomb secrets,0.22834539413452148,0.8903353214263916,0.8738695383071899
-244,1878.,1878,0.3907356262207031,0.4172980785369873,0.9702610969543457
-245,"The Holy Roman Church, through Pope Sixtus IV and later the Council of Trent, authorized and reaffirmed the celebration of the feast of the Immaculate Conception.",stated that belief in the immaculate conception of Mary is in accord with the Catholic faith.,0.4208800792694092,1.6378674507141113,0.5466684699058533
-246,"The principle of stare decisis and the power to decide ""cases or controversies"" as stated in Article Three of the United States Constitution.",stare decisis,0.3238506317138672,1.3194324970245361,0.6954815983772278
-247,"Pies and a pint, ploughman's lunch, sandwiches, and bar snacks.","beers, wines, spirits, and soft drinks and snacks",0.3635556697845459,0.9646072387695312,0.540158212184906
-248,The 1950s and 1960s.,the last thirty,0.35742974281311035,0.6902139186859131,0.25653699040412903
-249,"The bill is assigned a law number, prepared for publication as a slip law, and given a legal statutory citation.",assigned a law number,0.28717660903930664,1.1656873226165771,0.654258131980896
-250,Organized crime figures from across America.,organized crime figures from all across America,0.2549107074737549,0.571861982345581,0.9723557233810425
-251,"In its proper religious context, Imam refers to an infallible leader from the house of Muhammad, designated by the preceding Imam.",members of the house of Muhammad designated as infallible,0.3242807388305664,1.2824931144714355,0.6783460378646851
-252,The text does not mention the George Inn.,London,0.3298945426940918,0.6148257255554199,0.2244117259979248
-253,The hypothalamus and medulla oblongata.,the hypothalamus and medulla oblongata,0.3230414390563965,0.6899802684783936,0.9930205941200256
-254,The Catechism of the Catholic Church.,Anglican-Roman Catholic International Commission,0.3595294952392578,0.46775245666503906,0.5519019961357117
-255,There is no mention of a person named William Tillcar in the provided context.,Turner,0.2573819160461426,0.8892221450805664,0.0559517964720726
-256,12 noon.,12 noon,0.30974507331848145,0.41634082794189453,0.9765414595603943
-257,The release of vesicles in bacteria seems to be a general response to stress conditions.,response to stress conditions,0.32024598121643066,0.9290316104888916,0.47917965054512024
-258,"Reception statutes state that the common law of England is the law of the state, to the extent it is not repugnant to domestic law or indigenous conditions.",common law of England,0.3085503578186035,1.5193369388580322,0.7510279417037964
-259,John Lofting.,John Lofting,0.3055589199066162,0.41878342628479004,0.9854666590690613
-260,"The locals call the regulars of a pub ""locals"".",The Bull and Bladder,0.3468499183654785,0.7287464141845703,0.1384071707725525
-261,"Inefficiency, instability, and unpredictability.","hopeless inefficiency, instability, and unpredictability",0.27675509452819824,0.6524853706359863,0.9109969139099121
-262,"Lactase is an enzyme that breaks down lactose, a sugar found in milk.",an enzyme that breaks down the disaccharide lactose to its component parts,0.3801708221435547,0.7805960178375244,0.7828381061553955
-263,Price and McLanahan.,Price and McLanahan,3.0110840797424316,0.4962453842163086,0.9746519327163696
-264,Spirits and fortified wines.,spirits and fortified wines,0.2982931137084961,0.45510220527648926,0.9675386548042297
-265,The text does not mention the 3rd Duke of Rutland.,18th,0.5499691963195801,0.8111646175384521,0.10610168427228928
-266,O'Neill's.,O'Neill's,0.5326194763183594,0.4170989990234375,0.9852813482284546
-267,"The mayor, Lorenzo Langford.",seal and signature,0.2841947078704834,0.5106346607208252,0.15460330247879028
-268,"They thought it was excessive, with one delegate complaining that it was imposing ""all this fine judicial literature"" on the country.",By 1879 one of the delegates to the California constitutional convention was already complaining,0.29004955291748047,1.2470147609710693,0.42189908027648926
-269,94.4 males.,93.2,0.3334043025970459,0.4953927993774414,0.46507424116134644
-270,He would be heavily fined.,forfeit his ale,0.3099372386932373,0.49442291259765625,0.2316407710313797
-271,A triglyceride.,a triglyceride,0.4944016933441162,0.4533207416534424,0.9684816002845764
-272,Innkeepers.,innkeepers,0.2918832302093506,0.37462568283081055,0.9768224954605103
-273,"November 11, 2006.","November 11, 2006",0.3286857604980469,0.5728988647460938,0.981592059135437
-274,"""The Skyscraper By The Sea.""",Skyscraper By The Sea,0.28421568870544434,0.6120891571044922,0.8513840436935425
-275,Carbohydrates and fats.,Microbes produced in the reticulo-rumen are also digested in the small intestine,0.3984372615814209,0.361358642578125,0.29977551102638245
-276,The 19th century.,19th,0.338686466217041,0.4943692684173584,0.701187789440155
-277,They were considering renovating it.,selling,0.28374290466308594,0.5346224308013916,0.05903344228863716
-278,Louisiana.,Louisiana,0.3510551452636719,0.33711957931518555,0.9610179662704468
-279,The United States Code.,The United States Code,0.307797908782959,0.4560678005218506,0.9667985439300537
-280,The author of the texts entailed in the fifth part of the collection about the Roman Catholic Church is not explicitly mentioned.,Edward Gibbon,0.2732987403869629,1.208038091659546,0.11476437747478485
-281,There is no mention of the Romans in the provided text.,the 1st Century,0.4105188846588135,0.7321171760559082,0.17648062109947205
-282,There is no mention of Prohibition in the given context.,until 1933,0.28136372566223145,0.7310411930084229,0.14514128863811493
-283,They bring the beer out to the tables or benches.,bring the beer out to the table,0.26235532760620117,0.6924376487731934,0.7681006789207458
-284,Genghis Blues,Genghis Blues,0.33112525939941406,0.414196252822876,1.0
-285,Denmark.,Denmark,0.2912905216217041,0.33747291564941406,0.94511878490448
-286,London.,London,0.42691636085510254,0.3372056484222412,0.9624133110046387
-287,There is no mention of such a principle in the provided text.,the principle of stare decisis,0.37920284271240234,0.7702736854553223,0.29129457473754883
-288,Canonbury.,Canonbury,0.3319108486175537,0.3786613941192627,0.9796558022499084
-289,"The cheapest beer in the public bar (tap room) cost 4 pence (4d) a quart, while the prices in the saloon (lounge bar) were slightly higher.",higher,0.23386311531066895,1.7980928421020508,0.10424648225307465
-290,The Feynman Lectures on Physics were based on lectures given by Richard Feynman at Caltech.,compiled from lectures to Caltech undergraduates in 1961–64,0.3468201160430908,1.1256825923919678,0.5422791242599487
-291,The Supreme Court must first agree to hear the case.,constitutionality has been expressly established in prior cases,0.23272442817687988,0.6915485858917236,0.42759814858436584
-292,Jesus.,Eve before the fall,0.6162042617797852,0.27942872047424316,0.1085999459028244
-293,"According to Islam, Mary was not touched by Satan at birth, and was thus born sinless.","Mary and her son only excepted; between whom, and the evil spirit God placed a veil, so that his touch did not reach them.",0.26493048667907715,1.0450327396392822,0.5709096193313599
-294,Ye Olde Cheshire Cheese.,Ye Olde Cheshire Cheese,0.5975422859191895,0.534557580947876,0.9923935532569885
-295,The 1964 Democratic National Convention.,Democratic National Convention,0.31415271759033203,0.57456374168396,0.7912896871566772
-296,Pleasantville.,Pleasantville,0.3216390609741211,0.3767876625061035,0.9794408679008484
-297,Sundays.,Sundays,0.2879457473754883,0.33869409561157227,0.9696711301803589
-298,Assign a successor.,guide the people,0.27403712272644043,0.41753292083740234,0.24655774235725403
-299,"A liquid secreted by the salivary glands containing enzymes, mucus, and hydrogen carbonate that aids in the digestion of food.",a liquid secreted by the salivary glands,0.29693031311035156,1.323673963546753,0.8264917135238647
-300,65% of the adult population.,Approximately 65 percent,0.25572919845581055,0.5742003917694092,0.7477673292160034
-301,A pub.,the pub,0.22553086280822754,0.3749959468841553,0.8901269435882568
-302,Nightclubs.,gastro-pubs,0.3100779056549072,0.3777151107788086,0.4525131583213806
-303,The text does not provide a specific number of large casinos in Atlantic City.,eight,0.4272897243499756,0.8222362995147705,0.06368406116962433
-304,"The Twelvers (Ithnā'ashariyya) believe the rightful successors of Muhammad are the 12 Imams, with each Imam being the son of the previous one except for Hussayn ibn 'Alī, who was the brother of Hassan ibn 'Alī.",Imams,0.29566216468811035,2.5090675354003906,0.47052186727523804
-305,6.290 square miles (16.290 km2),6.290 square miles,0.2921261787414551,0.7432143688201904,0.8822048306465149
-306,1982.,1982,0.3761422634124756,0.4184122085571289,0.9712414741516113
-307,"""The Tunnel Project""",The Tunnel Project,0.34579920768737793,0.45545077323913574,0.9313064217567444
-308,Theoretical physics at Cornell University.,Bethe–Feynman formula,0.3404550552368164,0.535120964050293,0.22354811429977417
-309,A madhhab is a school of thought in Islam.,school of thought,0.2749626636505127,0.7331020832061768,0.34270328283309937
-310,Depression.,depression,0.41081857681274414,0.3374478816986084,0.8506664633750916
-311,10:30 pm.,10:30 pm,0.3275022506713867,0.4956998825073242,0.9715651273727417
-312,Governor Chris Christie.,Governor Chris Christie,0.23006105422973633,0.41631102561950684,0.9663703441619873
-313,"A monogastric stomach (e.g., those in humans or pigs).",a monogastric stomach,0.26163673400878906,0.8885440826416016,0.8536973595619202
-314,There is no information about casino revenue in 2013 in the given context.,$2.9 billion,0.24613189697265625,0.8894343376159668,0.17044401168823242
-315,None mentioned in the text.,Royal Society,0.2607839107513428,0.4934720993041992,0.08270955830812454
-316,There is no mention of The Crow and Gate in the provided text.,Crowborough,0.36655640602111816,0.8107123374938965,0.33205336332321167
-317,A major storm.,photograph,0.2835979461669922,0.4154396057128906,0.27300435304641724
-318,Because appellate decisions from many American courts were not regularly reported until the mid-19th century.,reporters often simply rewrote or failed to publish decisions which they disliked,0.3404676914215088,1.0076911449432373,0.2525951564311981
-319,There is no mention of a king demanding ale-sellers post signage on pain of forfeiture in the provided text.,1393,0.5212867259979248,1.1269690990447998,0.0012783408164978027
-320,1938,1938,0.3534548282623291,0.37747764587402344,1.0
-321,"The Enoch L. ""Nucky"" Johnson family.",Masseria family,0.31013989448547363,0.7285563945770264,0.2903504967689514
-322,NASA.,NASA,0.2989475727081299,0.33803296089172363,0.9660635590553284
-323,"Inactive precursors, known as zymogens.","inactive precursors, the zymogens",0.306873083114624,0.5573081970214844,0.959098219871521
-324,"The mid-19th century, when appellate decisions from American courts were regularly reported.",mid-19th century,0.26897120475769043,0.9268875122070312,0.5346094369888306
-325,"He didn't paint his diagrams, he developed ""Feynman diagrams"", a bookkeeping device that helps in conceptualizing and calculating interactions between particles in spacetime.",his van,0.3961765766143799,1.5552382469177246,0.1558615118265152
-326,1869,1869,0.2839071750640869,0.375338077545166,1.0
-327,Real ale micro-brewers in the UK.,real ale micro-brewers,0.5713746547698975,0.6528794765472412,0.8932127952575684
-328,Horses.,horses,0.4467036724090576,0.376528263092041,0.9587976336479187
-329,Massachusetts and Atlantic Avenue.,Massachusetts and Atlantic Avenue,0.3372044563293457,0.45620012283325195,0.9855116605758667
-330,Heineken.,Carlsberg and Heineken,0.2888665199279785,0.41692280769348145,0.7132883071899414
-331,Greenman v. Yuba Power Products (1963),Greenman v. Yuba Power Products,0.39846062660217285,0.7307004928588867,0.9129643440246582
-332,"Permitted hours, and the provision of food or lavatories.",owner,0.329282283782959,0.7710907459259033,0.14850756525993347
-333,1973.,1973,0.2972111701965332,0.4161362648010254,0.9672453999519348
-334,The small intestine.,the small intestine,0.25756287574768066,0.2811892032623291,0.9871294498443604
-335,None mentioned in the given context.,gastropubs,0.6585228443145752,0.5346825122833252,0.11706361919641495
-336,Byzantium.,Greek theologians of Byzantium,2.3244104385375977,0.3790867328643799,0.7342565059661865
-337,1945,1945,0.5236501693725586,0.37717533111572266,1.0000001192092896
-338,Brazilian Center for Physics Research (BCPF),Brazilian Center for Physics Research,0.24999070167541504,0.6116774082183838,0.8610928058624268
-339,Ashkenazi.,Ashkenazi,0.38279247283935547,0.4149017333984375,0.9757299423217773
-340,"A pub was typically tied to a brewery, meaning it was required to sell only that brewery's beer.",the modern tied house system,0.5239489078521729,1.08579683303833,0.12822216749191284
-341,"1 in 100,000 odds were considered unlikely by the higher-ups, but the scientists felt the odds were much higher.",1 in 200,0.2917912006378174,1.2827160358428955,0.3184603452682495
-342,A perfect score.,perfect score,2.9879395961761475,0.41700172424316406,0.9040616154670715
-343,The atomic bomb.,uranium hydride bomb,0.35965704917907715,0.4157905578613281,0.5731340646743774
-344,24.6%,24.6%,0.3802464008331299,0.45604705810546875,1.0
-345,1883.,1883,0.2612767219543457,0.41432976722717285,0.9664304852485657
-346,Ex-servicemen and ex-policemen.,ex-servicemen or ex-policemen,0.3494100570678711,0.6911265850067139,0.9165014028549194
-347,Monopoly.,Monopoly,0.3061959743499756,0.3177824020385742,0.9478034973144531
-348,Nutrients from digested food.,opines,0.31743645668029785,0.5335278511047363,0.11156396567821503
+         They were believed to be sinful.",Saint Joachim and Saint Anne,0.24197864532470703,0.5332987308502197,0.22504690289497375,0.0024242424242424242,0.0024242424242424242
+122,43%,43%,0.29069972038269043,0.351071834564209,1.0,1.0,1.0
+123,"Typically, purpose-built pubs are located near railway stations.",corners or road junctions,0.24036431312561035,0.6923568248748779,0.30922234058380127,0.0,0.0
+124,The Miranda rights.,Miranda warning,0.29937195777893066,0.35904860496520996,0.705997109413147,0.4,0.4
+125,The Queen Vic.,The Queen Vic,0.3157646656036377,0.4163024425506592,0.9844967126846313,1.0,1.0
+126,A $1.5–2 billion casino resort.,$1.5–2 billion casino resort,0.32756686210632324,0.6918528079986572,0.9677447080612183,0.923076923076923,0.923076923076923
+127,Contract law covers obligations established by agreement between private parties.,obligations established by agreement (express or implied) between private parties,0.37834668159484863,0.6330957412719727,0.7281620502471924,0.7,0.7
+128,"The role of Imams in Shia Islam is to provide commentary and interpretation of the Quran, as well as guidance to their followers.",providing commentary and interpretation of the Quran,0.2836782932281494,1.2836778163909912,0.5434795618057251,0.4666666666666667,0.4666666666666667
+129,Revel.,Atlantic Club,0.23743319511413574,0.3396174907684326,0.21105782687664032,0.0,0.0
+130,An Imam.,Allah,0.3553025722503662,0.2201991081237793,0.5256636142730713,0.0,0.0
+131,There is no mention of the Marquis of Granby pub in the given context.,"John Manners, Marquess of Granby",0.2541072368621826,0.9286181926727295,0.5394457578659058,0.21052631578947364,0.21052631578947364
+132,"In the small intestine, nutrients are absorbed into the blood through the intestinal walls, which are lined with villi and microvilli to increase surface area.",these smaller substances are absorbed through the small intestine into the blood stream,0.6529755592346191,1.4783711433410645,0.7028324604034424,0.47368421052631576,0.3157894736842105
+133,The Cock Tavern.,the Cock Tavern,0.2533435821533203,0.41678333282470703,0.9802922010421753,1.0,1.0
+134,The rule of strict liability for defective products.,rule of strict liability for defective products,0.2715644836425781,0.6120800971984863,0.9714646935462952,0.9333333333333333,0.9333333333333333
+135,They have gone into Occultation.,Occultation,0.3118128776550293,0.5715198516845703,0.7622841596603394,0.33333333333333337,0.33333333333333337
+136,AD 460.,460,0.2551724910736084,0.41753435134887695,0.6695005893707275,0.6666666666666666,0.6666666666666666
+137,Civil procedure.,"""living law""",0.26658010482788086,0.3187525272369385,0.27195924520492554,0.0,0.0
+138,"The rule of precedent was allowed as a matter of public policy, justified as a matter of fundamental fairness and to avoid inefficiency, instability, and unpredictability in the judicial process.","in the absence of case law, it would be completely unworkable for every minor issue in every legal case to be briefed, argued, and decided",0.2765998840332031,1.6726620197296143,0.41298574209213257,0.1818181818181818,0.14545454545454545
+139,They use a hadith (a Muslim tradition) and a Quranic verse to support their claim.,"passage in the Qur'an, ""I have called her Mary; and I commend her to thy protection, and also her issue, against Satan driven away with stones",0.3247411251068115,1.0470058917999268,0.4765946865081787,0.09523809523809523,0.09523809523809523
+140,1086.,1086,0.41127967834472656,0.4167487621307373,0.9684630036354065,1.0,1.0
+141,A blood and nerve supply.,a blood and nerve supply,0.24833011627197266,0.4941530227661133,0.9624701738357544,1.0,1.0
+142,Nottingham.,Nottingham,0.2527022361755371,0.3378872871398926,0.961963951587677,1.0,1.0
+143,"Reception statutes are laws that state that the common law of England is the law of the state, unless it is repugnant to domestic law or indigenous conditions.",the common law of England (particularly judge-made law) is the law of the state,0.46889328956604004,1.5152013301849365,0.6151058673858643,0.5581395348837209,0.5116279069767441
+144,There is no mention of the Bethe-Feynman formula in the given context.,calculating the yield of a fission bomb,0.2685585021972656,0.9277381896972656,0.09889890253543854,0.2,0.1
+145,Tabernae.,tabernae,0.2400059700012207,0.41411519050598145,0.9793336391448975,1.0,1.0
+146,QCD and the electro-weak theory.,QCD and the electro-weak theory,0.26100826263427734,0.6110262870788574,0.9940404891967773,1.0,1.0
+147,British.,British,0.26479530334472656,0.3376500606536865,0.921413779258728,1.0,1.0
+148,Tort law overlaps with wrongs also punishable by criminal law.,wrongs also punishable by criminal law,0.3474869728088379,0.7306630611419678,0.7638601064682007,0.7499999999999999,0.7499999999999999
+149,Beer.,it is licensed to sell alcohol,0.6033215522766113,0.3379075527191162,0.3278835415840149,0.0,0.0
+150,1446.,1446,0.38490939140319824,0.4140739440917969,0.960908830165863,1.0,1.0
+151,Enzymes.,energy,0.25281405448913574,0.4145534038543701,0.2795984447002411,0.0,0.0
+152,Gardner's Basin and a residential neighborhood in the Chelsea section.,Gardner's Basin,0.2808353900909424,0.6731400489807129,0.7031276226043701,0.42857142857142855,0.42857142857142855
+153,The stomach and duodenum.,in the stomach and duodenum,0.2848825454711914,0.39852213859558105,0.9254670143127441,0.888888888888889,0.888888888888889
+154,Pub chain.,theme pubs,0.3475940227508545,0.3785426616668701,0.445142924785614,0.5,0.5
+155,The law of criminal procedure governs the prosecution of crimes and the rights of the accused.,federal constitutional case law interwoven with the federal and state statutes,0.33617377281188965,0.9079172611236572,0.35823196172714233,0.2222222222222222,0.2222222222222222
+156,The abomasum.,The abomasum,0.2405226230621338,0.45537376403808594,0.9860237836837769,1.0,1.0
+157,Theoretical work and calculations on the proposed uranium hydride bomb.,safety procedures,0.3718705177307129,0.808652400970459,0.05016086995601654,0.0,0.0
+158,Torts.,Tort law,0.2282271385192871,0.32096219062805176,0.6488151550292969,0.6666666666666666,0.6666666666666666
+159,lectures.,lectures,0.32588696479797363,0.3371238708496094,0.9555456042289734,1.0,1.0
+160,New York.,Louisiana,0.6898431777954102,0.3780405521392822,0.4815616011619568,0.0,0.0
+161,"Alex Kozinski, a federal judge.",federal judge Alex Kozinski,0.2524125576019287,0.612511396408081,0.9520066976547241,0.888888888888889,0.4444444444444445
+162,There is no mention of John Shakespeare's profession in the given context.,inspectors,0.3081820011138916,0.8090915679931641,-0.040284860879182816,0.0,0.0
+163,The text does not mention the Ambassador Hotel being gutted.,Tropicana Casino and Resort Atlantic City,0.3003535270690918,0.7280821800231934,0.22038361430168152,0.0,0.0
+164,Judicial review by the Supreme Court.,a subsequent statute,0.2543368339538574,0.5359499454498291,0.30857187509536743,0.0,0.0
+165,"External digestion developed in the Cambrian period, around 541 million years ago.",earlier in evolutionary history,0.6668257713317871,0.701676607131958,0.48902982473373413,0.125,0.125
+166,There is no mention of a commencement speech at Caltech in the provided text.,cargo cult science,0.24588561058044434,0.8878231048583984,0.06047213077545166,0.0,0.0
+167,"272,795 new cases.","272,795",0.2519567012786865,0.5343363285064697,0.540805459022522,0.6666666666666666,0.6666666666666666
+168,1914.,1915,0.3627488613128662,0.41550230979919434,0.7763237953186035,0.0,0.0
+169,Peristalsis.,swallowing and peristalsis,0.3771097660064697,0.4559440612792969,0.7011798620223999,0.5,0.5
+170,City Road.,City Road,0.32529187202453613,0.3784351348876953,0.968228816986084,1.0,1.0
+171,"The Dominicans, due to the influence of Thomas Aquinas, denied the concept of the Immaculate Conception.",Shia Nizari Ismailis,0.2954075336456299,1.2073185443878174,0.018804537132382393,0.0,0.0
+172,Ye Olde Cock Tavern.,Ye Olde Cock Tavern,0.27541255950927734,0.49541282653808594,0.9918562173843384,1.0,1.0
+173,Revelation 12:1-2.,Genesis 3:15,0.40923428535461426,0.5142474174499512,0.4823460280895233,0.0,0.0
+174,He wanted to avoid damaging his brain.,he did not want to do anything that could damage his brain,1.4520831108093262,0.5724442005157471,0.7808966636657715,0.631578947368421,0.631578947368421
+175,There is no information about the daily average temperature in July in the provided context.,75.6 °F,0.321368932723999,0.8885269165039062,0.28664430975914,0.0,0.0
+176,Greenman v. Yuba Power Products (1963),Greenman v. Yuba Power Products,0.31151604652404785,0.7301270961761475,0.9129643440246582,0.9090909090909091,0.9090909090909091
+177,36.3 years.,36.3 years,0.29560112953186035,0.494457483291626,0.9833006262779236,1.0,1.0
+178,Shepherd Neame.,Shepherd Neame,0.24412918090820312,0.4182419776916504,0.9869087934494019,1.0,1.0
+179,She would hang a wooden sign outside her door with a picture of a foaming mug.,the Anglo-Saxon alewife would put a green bush up on a pole,0.526282548904419,0.969855785369873,0.3316881060600281,0.20689655172413793,0.20689655172413793
+180,American civil procedure.,American civil procedure,0.4212374687194824,0.3594644069671631,0.9772577285766602,1.0,1.0
+181,The 18th century.,18th,0.25599026679992676,0.49524402618408203,0.5371841788291931,0.5,0.5
+182,"a ""light cone"".",light cone,0.28078222274780273,0.4553830623626709,0.9050359725952148,0.8,0.8
+183,Mastication (chewing).,the cephalic phase,4.4275901317596436,0.5353021621704102,0.09705482423305511,0.0,0.0
+184,"The forebears had knowledge of the sinlessness of Mary, as evidenced by their expressions of her holiness and purity.","the Fathers saw foreshadowings of Mary's ""wondrous abundance of divine gifts and original innocence",0.24091529846191406,1.2477145195007324,0.5180145502090454,0.29411764705882354,0.29411764705882354
+185,There is no mention of a report with a final conclusion in the given text.,Assumption and the Immaculate Conception can be said to be consonant with the teaching of the Scriptures and the ancient common traditions.,0.26264095306396484,0.88735032081604,0.08543427288532257,0.16216216216216214,0.10810810810810811
+186,"According to the text, in Islam, every human child is born with the ""touch of Satan"" except Mary and Jesus.","every person that comes into the world, is touched at his birth by the devil",0.29830503463745117,1.244582176208496,0.6792192459106445,0.28571428571428575,0.17142857142857143
+187,"None, as the text does not mention strippers.",strip pubs,0.2579035758972168,0.6899619102478027,0.4310069978237152,0.0,0.0
+188,A highway.,highway,0.2694098949432373,0.3743102550506592,0.8927591443061829,0.6666666666666666,0.6666666666666666
+189,The United States Code.,The United States Code,0.29997944831848145,0.4555931091308594,0.9667985439300537,1.0,1.0
+190,27.3% of households had children under the age of 18 living with them.,27.7%,0.31976866722106934,1.0080640316009521,0.3936976492404938,0.125,0.125
+191,None mentioned in the text.,"Absecon, Brigantine, Pleasantville, Ventnor City and West Atlantic City",0.3250563144683838,0.4360661506652832,0.15357428789138794,0.0,0.0
+192,St Bernard.,"Critics included Saints Bernard of Clairvaux, Albertus Magnus and Thomas Aquinas.",0.27634620666503906,0.3776412010192871,0.43008410930633545,0.15384615384615385,0.15384615384615385
+193,There is no specific information in the provided text about the number of published reports of American volumes that existed in 1910.,"over 8,000",0.26518964767456055,1.2429046630859375,0.18564262986183167,0.0,0.0
+194,The process of breaking down food into nutrients that can be absorbed by the body.,the breakdown of large insoluble food molecules into small water-soluble food molecules so that they can be absorbed into the watery blood plasma,0.2535700798034668,0.7037761211395264,0.5994364023208618,0.4615384615384615,0.4615384615384615
+195,"A pretrial deposition is live testimony obtained from a witness or party in a lawsuit, often used in American civil procedure.",summary judgment,0.30347514152526855,1.1472976207733154,0.27649039030075073,0.0,0.0
+196,Hubert Humphrey.,Hubert Humphrey,0.6120316982269287,0.45648622512817383,0.98194819688797,1.0,1.0
+197,Revel Casino.,Revel,0.24940252304077148,0.377239465713501,0.6292417049407959,0.6666666666666666,0.6666666666666666
+198,The sign that indicates the Divine Leader is his well-known ties of kinship with Muhammad and his clear appointment.,his well-known ties of kinship with Muhammad,0.3200814723968506,1.1256725788116455,0.7016199827194214,0.5714285714285715,0.5714285714285715
+199,£168.,£168,0.45541858673095703,0.37763285636901855,0.9719254970550537,1.0,1.0
+200,A landlord.,pub landlord,0.24601340293884277,0.3773233890533447,0.7051682472229004,0.5,0.5
+201,Islam.,claim that the immaculate conception of Mary is a teaching of Islam.,0.33968210220336914,0.2785489559173584,0.4198688864707947,0.15384615384615385,0.15384615384615385
+202,"State courts primarily hear cases involving state laws, including tort law, family law, property law, contract law, and criminal law.",involve claims and defenses under state laws,0.3747365474700928,1.280874490737915,0.4701662063598633,0.29629629629629634,0.2222222222222222
+203,"May 11, 1918.","May 11, 1918",0.37150096893310547,0.5757620334625244,0.9845556020736694,1.0,1.0
+204,Gardner's Basin.,City Island,0.2722587585449219,0.3579587936401367,0.2890600562095642,0.0,0.0
+205,239 days.,239 days,0.2783849239349365,0.3902554512023926,0.9748129844665527,1.0,1.0
+206,State courts are not bound by federal interpretations of state law.,state courts are not bound by federal interpretations of state law,0.41481447219848633,0.7330868244171143,0.9483640193939209,1.0,1.0
+207,The mouth.,in the mouth with the secretion of saliva and its digestive enzymes,0.3653683662414551,0.1898956298828125,0.5781589150428772,0.2857142857142857,0.2857142857142857
+208,Far Rockaway.,Queens,0.27259135246276855,0.41591835021972656,0.289296954870224,0.0,0.0
+209,Community gathering places.,community gathering places,0.350147008895874,0.41428184509277344,0.9777660369873047,1.0,1.0
+210,The U.S. Supreme Court.,the Supreme Court,0.21431493759155273,0.5356490612030029,0.9169992804527283,0.7499999999999999,0.7499999999999999
+211,"The Mustalian Ismailis are commonly known as the ""Bohras"".",Bohras,0.2785501480102539,0.887474536895752,0.6189152002334595,0.19999999999999998,0.19999999999999998
+212,"40,517.","40,517",0.2498011589050293,0.45549798011779785,0.9810813665390015,1.0,1.0
+213,Imamah.,Imamah,0.2512657642364502,0.37769627571105957,0.9589872360229492,1.0,1.0
+214,The blood.,blood,0.2640523910522461,0.24116945266723633,0.830098569393158,0.6666666666666666,0.6666666666666666
+215,Contract law covers obligations established by agreement (express or implied) between private parties.,express or implied,0.31409192085266113,0.8313696384429932,0.36168456077575684,0.375,0.375
+216,The gizzard.,The powerful muscles of the gizzard,0.2562699317932129,0.41762399673461914,0.7063782811164856,0.5,0.5
+217,Slug and Lettuce.,Slug and Lettuce,0.27852296829223633,0.49399757385253906,0.9662160873413086,1.0,1.0
+218,Increased metabolic rate.,"an ""overhead charge""",0.3302278518676758,0.4164767265319824,0.1342017650604248,0.0,0.0
+219,"There is no information in the given context about a specific war, so I'm unable to provide a specific answer.",automobile,0.23952960968017578,1.1630475521087646,0.00338071770966053,0.0,0.0
+220,John Duns Scotus argued that Mary's immaculate conception was a result of a more perfect redemption granted to her because of her special role in salvation history.,rather it was the result of a more perfect redemption granted her because of her special role in salvation history.,0.3289816379547119,1.5192699432373047,0.5542037487030029,0.7083333333333333,0.7083333333333333
+221,There is no mention of Feynman creating an electronic device as a grade school child.,home burglar alarm system,0.2907445430755615,0.9669241905212402,0.06153874844312668,0.0,0.0
+222,The Marlborough-Blenheim and the Traymore Hotel.,Marlborough-Blenheim Hotel and the Traymore Hotel,0.3065040111541748,0.7287278175354004,0.9778362512588501,0.8571428571428571,0.8571428571428571
+223,A British-themed pub.,Irish pubs,0.4394862651824951,0.45595812797546387,0.6828678250312805,0.3333333333333333,0.3333333333333333
+224,1929.,1929,0.3625926971435547,0.4161083698272705,0.9662477970123291,1.0,1.0
+225,There is no mention of Johnny Torrio in the provided context.,the Fox,0.3492155075073242,0.76932692527771,0.047492288053035736,0.15384615384615385,0.15384615384615385
+226,The Chalfonte-Haddon Hall Hotel.,The United States Hotel,0.25933289527893066,0.6112267971038818,0.6527717709541321,0.4444444444444445,0.4444444444444445
+227,Independent breweries.,commercial breweries,0.5272071361541748,0.3789331912994385,0.8178238868713379,0.5,0.5
+228,Hussayn ibn 'Ali.,Hussayn ibn 'Alī,0.36394429206848145,0.5730764865875244,0.9889774918556213,0.6666666666666666,0.6666666666666666
+229,There is no information about the Angel pub in the given context.,a Co-operative Bank,0.32530665397644043,0.7709119319915771,0.124429851770401,0.0,0.0
+230,"Because of its immense size and diversity, with many states adopting only certain sections of the Restatements and rejecting others.",immense size and diversity,0.296983003616333,1.2016911506652832,0.4261299669742584,0.33333333333333337,0.33333333333333337
+231,"Each state has its own legislative branch, executive branch, and judicial branch, and retains plenary power to make laws not preempted by the federal Constitution, federal statutes, or international treaties.","state constitutions, state governments, and state courts",0.47954583168029785,1.752992868423462,0.6010444164276123,0.16216216216216217,0.10810810810810811
+232,The local council.,the local council,0.37046003341674805,0.4161694049835205,0.9785126447677612,1.0,1.0
+233,Gin houses.,gin houses,0.37989139556884766,0.3766965866088867,0.9854979515075684,1.0,1.0
+234,"state governments, federal government, and the judiciary.",Indian reservations,0.3321878910064697,0.6549127101898193,0.15734189748764038,0.0,0.0
+235,The Woolpack Inn.,the Woolpack,0.2952852249145508,0.4562816619873047,0.7334808707237244,0.8,0.8
+236,Mac.,weasel,0.28575658798217773,0.3397490978240967,0.3155682682991028,0.0,0.0
+237,State law.,state law,0.30765342712402344,0.37593817710876465,0.9329242706298828,1.0,1.0
+238,"I couldn't find any information about ""Boulogne Bouche"" in the given context.",Boulogne-sur-Mer Harbour,0.8039538860321045,1.0472657680511475,0.462188720703125,0.11764705882352941,0.11764705882352941
+239,Occultation.,The Occultation,0.2590067386627197,0.4154999256134033,0.9322739243507385,0.6666666666666666,0.6666666666666666
+240,The Commerce and Spending Clauses of the Constitution.,Commerce and Spending Clauses,0.2995929718017578,0.6528468132019043,0.8116081953048706,0.6666666666666666,0.6666666666666666
+241,Federal agencies' rulemaking authority.,"lifestyle, behavior, and even physical structures",0.7694673538208008,0.534095287322998,0.08181048929691315,0.0,0.0
+242,"The Quran does not confirm the Immaculate Conception exclusively for Mary, and views every human child as born pure and immaculate, independent of the concept of original sin.","Muslim tradition or hadith, which states that the only children born without the ""touch of Satan,"" were Mary and Jesus.",0.3235006332397461,1.6355514526367188,0.5637308359146118,0.25,0.16666666666666666
+243,He thought a spy or saboteur had gained access to atomic bomb secrets.,saboteur had gained access to atomic bomb secrets,0.22834539413452148,0.8903353214263916,0.8738695383071899,0.761904761904762,0.761904761904762
+244,1878.,1878,0.3907356262207031,0.4172980785369873,0.9702610969543457,1.0,1.0
+245,"The Holy Roman Church, through Pope Sixtus IV and later the Council of Trent, authorized and reaffirmed the celebration of the feast of the Immaculate Conception.",stated that belief in the immaculate conception of Mary is in accord with the Catholic faith.,0.4208800792694092,1.6378674507141113,0.5466684699058533,0.2380952380952381,0.14285714285714285
+246,"The principle of stare decisis and the power to decide ""cases or controversies"" as stated in Article Three of the United States Constitution.",stare decisis,0.3238506317138672,1.3194324970245361,0.6954815983772278,0.16,0.16
+247,"Pies and a pint, ploughman's lunch, sandwiches, and bar snacks.","beers, wines, spirits, and soft drinks and snacks",0.3635556697845459,0.9646072387695312,0.540158212184906,0.3157894736842105,0.3157894736842105
+248,The 1950s and 1960s.,the last thirty,0.35742974281311035,0.6902139186859131,0.25653699040412903,0.28571428571428575,0.28571428571428575
+249,"The bill is assigned a law number, prepared for publication as a slip law, and given a legal statutory citation.",assigned a law number,0.28717660903930664,1.1656873226165771,0.654258131980896,0.33333333333333337,0.33333333333333337
+250,Organized crime figures from across America.,organized crime figures from all across America,0.2549107074737549,0.571861982345581,0.9723557233810425,0.923076923076923,0.923076923076923
+251,"In its proper religious context, Imam refers to an infallible leader from the house of Muhammad, designated by the preceding Imam.",members of the house of Muhammad designated as infallible,0.3242807388305664,1.2824931144714355,0.6783460378646851,0.4,0.33333333333333326
+252,The text does not mention the George Inn.,London,0.3298945426940918,0.6148257255554199,0.2244117259979248,0.0,0.0
+253,The hypothalamus and medulla oblongata.,the hypothalamus and medulla oblongata,0.3230414390563965,0.6899802684783936,0.9930205941200256,1.0,1.0
+254,The Catechism of the Catholic Church.,Anglican-Roman Catholic International Commission,0.3595294952392578,0.46775245666503906,0.5519019961357117,0.1818181818181818,0.1818181818181818
+255,There is no mention of a person named William Tillcar in the provided context.,Turner,0.2573819160461426,0.8892221450805664,0.0559517964720726,0.0,0.0
+256,12 noon.,12 noon,0.30974507331848145,0.41634082794189453,0.9765414595603943,1.0,1.0
+257,The release of vesicles in bacteria seems to be a general response to stress conditions.,response to stress conditions,0.32024598121643066,0.9290316104888916,0.47917965054512024,0.4210526315789474,0.4210526315789474
+258,"Reception statutes state that the common law of England is the law of the state, to the extent it is not repugnant to domestic law or indigenous conditions.",common law of England,0.3085503578186035,1.5193369388580322,0.7510279417037964,0.25,0.25
+259,John Lofting.,John Lofting,0.3055589199066162,0.41878342628479004,0.9854666590690613,1.0,1.0
+260,"The locals call the regulars of a pub ""locals"".",The Bull and Bladder,0.3468499183654785,0.7287464141845703,0.1384071707725525,0.15384615384615383,0.15384615384615383
+261,"Inefficiency, instability, and unpredictability.","hopeless inefficiency, instability, and unpredictability",0.27675509452819824,0.6524853706359863,0.9109969139099121,0.888888888888889,0.888888888888889
+262,"Lactase is an enzyme that breaks down lactose, a sugar found in milk.",an enzyme that breaks down the disaccharide lactose to its component parts,0.3801708221435547,0.7805960178375244,0.7828381061553955,0.48000000000000004,0.48000000000000004
+263,Price and McLanahan.,Price and McLanahan,3.0110840797424316,0.4962453842163086,0.9746519327163696,1.0,1.0
+264,Spirits and fortified wines.,spirits and fortified wines,0.2982931137084961,0.45510220527648926,0.9675386548042297,1.0,1.0
+265,The text does not mention the 3rd Duke of Rutland.,18th,0.5499691963195801,0.8111646175384521,0.10610168427228928,0.0,0.0
+266,O'Neill's.,O'Neill's,0.5326194763183594,0.4170989990234375,0.9852813482284546,1.0,1.0
+267,"The mayor, Lorenzo Langford.",seal and signature,0.2841947078704834,0.5106346607208252,0.15460330247879028,0.0,0.0
+268,"They thought it was excessive, with one delegate complaining that it was imposing ""all this fine judicial literature"" on the country.",By 1879 one of the delegates to the California constitutional convention was already complaining,0.29004955291748047,1.2470147609710693,0.42189908027648926,0.2857142857142857,0.17142857142857143
+269,94.4 males.,93.2,0.3334043025970459,0.4953927993774414,0.46507424116134644,0.0,0.0
+270,He would be heavily fined.,forfeit his ale,0.3099372386932373,0.49442291259765625,0.2316407710313797,0.0,0.0
+271,A triglyceride.,a triglyceride,0.4944016933441162,0.4533207416534424,0.9684816002845764,1.0,1.0
+272,Innkeepers.,innkeepers,0.2918832302093506,0.37462568283081055,0.9768224954605103,1.0,1.0
+273,"November 11, 2006.","November 11, 2006",0.3286857604980469,0.5728988647460938,0.981592059135437,1.0,1.0
+274,"""The Skyscraper By The Sea.""",Skyscraper By The Sea,0.28421568870544434,0.6120891571044922,0.8513840436935425,0.888888888888889,0.888888888888889
+275,Carbohydrates and fats.,Microbes produced in the reticulo-rumen are also digested in the small intestine,0.3984372615814209,0.361358642578125,0.29977551102638245,0.0,0.0
+276,The 19th century.,19th,0.338686466217041,0.4943692684173584,0.701187789440155,0.5,0.5
+277,They were considering renovating it.,selling,0.28374290466308594,0.5346224308013916,0.05903344228863716,0.0,0.0
+278,Louisiana.,Louisiana,0.3510551452636719,0.33711957931518555,0.9610179662704468,1.0,1.0
+279,The United States Code.,The United States Code,0.307797908782959,0.4560678005218506,0.9667985439300537,1.0,1.0
+280,The author of the texts entailed in the fifth part of the collection about the Roman Catholic Church is not explicitly mentioned.,Edward Gibbon,0.2732987403869629,1.208038091659546,0.11476437747478485,0.0,0.0
+281,There is no mention of the Romans in the provided text.,the 1st Century,0.4105188846588135,0.7321171760559082,0.17648062109947205,0.14285714285714288,0.14285714285714288
+282,There is no mention of Prohibition in the given context.,until 1933,0.28136372566223145,0.7310411930084229,0.14514128863811493,0.0,0.0
+283,They bring the beer out to the tables or benches.,bring the beer out to the table,0.26235532760620117,0.6924376487731934,0.7681006789207458,0.8235294117647058,0.8235294117647058
+284,Genghis Blues,Genghis Blues,0.33112525939941406,0.414196252822876,1.0,1.0,1.0
+285,Denmark.,Denmark,0.2912905216217041,0.33747291564941406,0.94511878490448,1.0,1.0
+286,London.,London,0.42691636085510254,0.3372056484222412,0.9624133110046387,1.0,1.0
+287,There is no mention of such a principle in the provided text.,the principle of stare decisis,0.37920284271240234,0.7702736854553223,0.29129457473754883,0.35294117647058826,0.11764705882352941
+288,Canonbury.,Canonbury,0.3319108486175537,0.3786613941192627,0.9796558022499084,1.0,1.0
+289,"The cheapest beer in the public bar (tap room) cost 4 pence (4d) a quart, while the prices in the saloon (lounge bar) were slightly higher.",higher,0.23386311531066895,1.7980928421020508,0.10424648225307465,0.07407407407407407,0.07407407407407407
+290,The Feynman Lectures on Physics were based on lectures given by Richard Feynman at Caltech.,compiled from lectures to Caltech undergraduates in 1961–64,0.3468201160430908,1.1256825923919678,0.5422791242599487,0.16666666666666669,0.16666666666666669
+291,The Supreme Court must first agree to hear the case.,constitutionality has been expressly established in prior cases,0.23272442817687988,0.6915485858917236,0.42759814858436584,0.11111111111111112,0.11111111111111112
+292,Jesus.,Eve before the fall,0.6162042617797852,0.27942872047424316,0.1085999459028244,0.0,0.0
+293,"According to Islam, Mary was not touched by Satan at birth, and was thus born sinless.","Mary and her son only excepted; between whom, and the evil spirit God placed a veil, so that his touch did not reach them.",0.26493048667907715,1.0450327396392822,0.5709096193313599,0.2,0.1
+294,Ye Olde Cheshire Cheese.,Ye Olde Cheshire Cheese,0.5975422859191895,0.534557580947876,0.9923935532569885,1.0,1.0
+295,The 1964 Democratic National Convention.,Democratic National Convention,0.31415271759033203,0.57456374168396,0.7912896871566772,0.7499999999999999,0.7499999999999999
+296,Pleasantville.,Pleasantville,0.3216390609741211,0.3767876625061035,0.9794408679008484,1.0,1.0
+297,Sundays.,Sundays,0.2879457473754883,0.33869409561157227,0.9696711301803589,1.0,1.0
+298,Assign a successor.,guide the people,0.27403712272644043,0.41753292083740234,0.24655774235725403,0.0,0.0
+299,"A liquid secreted by the salivary glands containing enzymes, mucus, and hydrogen carbonate that aids in the digestion of food.",a liquid secreted by the salivary glands,0.29693031311035156,1.323673963546753,0.8264917135238647,0.5185185185185185,0.5185185185185185
+300,65% of the adult population.,Approximately 65 percent,0.25572919845581055,0.5742003917694092,0.7477673292160034,0.25,0.25
+301,A pub.,the pub,0.22553086280822754,0.3749959468841553,0.8901269435882568,0.5,0.5
+302,Nightclubs.,gastro-pubs,0.3100779056549072,0.3777151107788086,0.4525131583213806,0.0,0.0
+303,The text does not provide a specific number of large casinos in Atlantic City.,eight,0.4272897243499756,0.8222362995147705,0.06368406116962433,0.0,0.0
+304,"The Twelvers (Ithnā'ashariyya) believe the rightful successors of Muhammad are the 12 Imams, with each Imam being the son of the previous one except for Hussayn ibn 'Alī, who was the brother of Hassan ibn 'Alī.",Imams,0.29566216468811035,2.5090675354003906,0.47052186727523804,0.052631578947368425,0.052631578947368425
+305,6.290 square miles (16.290 km2),6.290 square miles,0.2921261787414551,0.7432143688201904,0.8822048306465149,0.7272727272727273,0.7272727272727273
+306,1982.,1982,0.3761422634124756,0.4184122085571289,0.9712414741516113,1.0,1.0
+307,"""The Tunnel Project""",The Tunnel Project,0.34579920768737793,0.45545077323913574,0.9313064217567444,1.0,1.0
+308,Theoretical physics at Cornell University.,Bethe–Feynman formula,0.3404550552368164,0.535120964050293,0.22354811429977417,0.0,0.0
+309,A madhhab is a school of thought in Islam.,school of thought,0.2749626636505127,0.7331020832061768,0.34270328283309937,0.5,0.5
+310,Depression.,depression,0.41081857681274414,0.3374478816986084,0.8506664633750916,1.0,1.0
+311,10:30 pm.,10:30 pm,0.3275022506713867,0.4956998825073242,0.9715651273727417,1.0,1.0
+312,Governor Chris Christie.,Governor Chris Christie,0.23006105422973633,0.41631102561950684,0.9663703441619873,1.0,1.0
+313,"A monogastric stomach (e.g., those in humans or pigs).",a monogastric stomach,0.26163673400878906,0.8885440826416016,0.8536973595619202,0.4615384615384615,0.4615384615384615
+314,There is no information about casino revenue in 2013 in the given context.,$2.9 billion,0.24613189697265625,0.8894343376159668,0.17044401168823242,0.0,0.0
+315,None mentioned in the text.,Royal Society,0.2607839107513428,0.4934720993041992,0.08270955830812454,0.0,0.0
+316,There is no mention of The Crow and Gate in the provided text.,Crowborough,0.36655640602111816,0.8107123374938965,0.33205336332321167,0.0,0.0
+317,A major storm.,photograph,0.2835979461669922,0.4154396057128906,0.27300435304641724,0.0,0.0
+318,Because appellate decisions from many American courts were not regularly reported until the mid-19th century.,reporters often simply rewrote or failed to publish decisions which they disliked,0.3404676914215088,1.0076911449432373,0.2525951564311981,0.14285714285714288,0.07142857142857144
+319,There is no mention of a king demanding ale-sellers post signage on pain of forfeiture in the provided text.,1393,0.5212867259979248,1.1269690990447998,0.0012783408164978027,0.0,0.0
+320,1938,1938,0.3534548282623291,0.37747764587402344,1.0,1.0,1.0
+321,"The Enoch L. ""Nucky"" Johnson family.",Masseria family,0.31013989448547363,0.7285563945770264,0.2903504967689514,0.25,0.25
+322,NASA.,NASA,0.2989475727081299,0.33803296089172363,0.9660635590553284,1.0,1.0
+323,"Inactive precursors, known as zymogens.","inactive precursors, the zymogens",0.306873083114624,0.5573081970214844,0.959098219871521,0.6666666666666665,0.6666666666666665
+324,"The mid-19th century, when appellate decisions from American courts were regularly reported.",mid-19th century,0.26897120475769043,0.9268875122070312,0.5346094369888306,0.375,0.375
+325,"He didn't paint his diagrams, he developed ""Feynman diagrams"", a bookkeeping device that helps in conceptualizing and calculating interactions between particles in spacetime.",his van,0.3961765766143799,1.5552382469177246,0.1558615118265152,0.07692307692307693,0.07692307692307693
+326,1869,1869,0.2839071750640869,0.375338077545166,1.0,1.0,1.0
+327,Real ale micro-brewers in the UK.,real ale micro-brewers,0.5713746547698975,0.6528794765472412,0.8932127952575684,0.7272727272727273,0.7272727272727273
+328,Horses.,horses,0.4467036724090576,0.376528263092041,0.9587976336479187,1.0,1.0
+329,Massachusetts and Atlantic Avenue.,Massachusetts and Atlantic Avenue,0.3372044563293457,0.45620012283325195,0.9855116605758667,1.0,1.0
+330,Heineken.,Carlsberg and Heineken,0.2888665199279785,0.41692280769348145,0.7132883071899414,0.5,0.5
+331,Greenman v. Yuba Power Products (1963),Greenman v. Yuba Power Products,0.39846062660217285,0.7307004928588867,0.9129643440246582,0.9090909090909091,0.9090909090909091
+332,"Permitted hours, and the provision of food or lavatories.",owner,0.329282283782959,0.7710907459259033,0.14850756525993347,0.0,0.0
+333,1973.,1973,0.2972111701965332,0.4161362648010254,0.9672453999519348,1.0,1.0
+334,The small intestine.,the small intestine,0.25756287574768066,0.2811892032623291,0.9871294498443604,1.0,1.0
+335,None mentioned in the given context.,gastropubs,0.6585228443145752,0.5346825122833252,0.11706361919641495,0.0,0.0
+336,Byzantium.,Greek theologians of Byzantium,2.3244104385375977,0.3790867328643799,0.7342565059661865,0.4,0.4
+337,1945,1945,0.5236501693725586,0.37717533111572266,1.0000001192092896,1.0,1.0
+338,Brazilian Center for Physics Research (BCPF),Brazilian Center for Physics Research,0.24999070167541504,0.6116774082183838,0.8610928058624268,0.9090909090909091,0.9090909090909091
+339,Ashkenazi.,Ashkenazi,0.38279247283935547,0.4149017333984375,0.9757299423217773,1.0,1.0
+340,"A pub was typically tied to a brewery, meaning it was required to sell only that brewery's beer.",the modern tied house system,0.5239489078521729,1.08579683303833,0.12822216749191284,0.08333333333333333,0.08333333333333333
+341,"1 in 100,000 odds were considered unlikely by the higher-ups, but the scientists felt the odds were much higher.",1 in 200,0.2917912006378174,1.2827160358428955,0.3184603452682495,0.16666666666666666,0.16666666666666666
+342,A perfect score.,perfect score,2.9879395961761475,0.41700172424316406,0.9040616154670715,0.8,0.8
+343,The atomic bomb.,uranium hydride bomb,0.35965704917907715,0.4157905578613281,0.5731340646743774,0.3333333333333333,0.3333333333333333
+344,24.6%,24.6%,0.3802464008331299,0.45604705810546875,1.0,1.0,1.0
+345,1883.,1883,0.2612767219543457,0.41432976722717285,0.9664304852485657,1.0,1.0
+346,Ex-servicemen and ex-policemen.,ex-servicemen or ex-policemen,0.3494100570678711,0.6911265850067139,0.9165014028549194,0.8000000000000002,0.8000000000000002
+347,Monopoly.,Monopoly,0.3061959743499756,0.3177824020385742,0.9478034973144531,1.0,1.0
+348,Nutrients from digested food.,opines,0.31743645668029785,0.5335278511047363,0.11156396567821503,0.0,0.0
 349,"known as “Sāmad (Silent) Imām”. At the end of each seven “Sāmad” silsila, one great “Nātıq” (Spoken) has ben sent in order to reimprove the Dīn of Islam. After Adam and his son Seth, and after six “Nātıq” (Spoken) – “Sāmad” (Silent) silsila (Noah–Shem), (Abraham–Ishmael), (Moses–Aaron), (Jesus–Simeon), (Muhammad bin ʿAbd Allāh–Ali ibn Abu Tālib); the silsila of “Nātıqs and Sāmads have been completed with (Muhammad bin Ismā‘īl as-ṣaghīr (Maymûn’ûl-Qaddāh)–ʿAbd Allāh Ibn-i Maymûn and his sons).
 The Shia tariqah with a majority of adherents are the Twelvers who are commonly known as the ""Shia"". After that come the Nizari Ismailis commonly known as the Ismailis; and then come the Mustalian Ismailis commonly known as the ""Bohras"" with further schisms within their Bohri tariqah. The Druze tariqah (very small in number today) initially were of the Fatimid Ismailis and separated from them (the Fatimid Ismailis) after the death of the Fatimid Imam and Caliph Hakim Bi Amrillah. The Shia Sevener tariqah no longer exists. Another small tariqah is the Zaidi Shias, also known as the Fivers and who do not believe in The Occultation of their last Imam.
 During the Minor Occultation (Ghaybat al-Sughrá), it is believed that al-Mahdi maintained contact with his followers via deputies (Arab. an-nuwāb al-arbaʻa or ""the Four Leaders""). They represented him and acted as agents between him and his followers. Whenever the believers faced a problem, they would write their concerns and send them to his deputy. The deputy would ascertain his verdict, endorse it with his seal and signature and return it to the relevant parties. The deputies also collected zakat and khums on his behalf.
@@ -425,82 +425,82 @@ The line of imams of the Mustali Ismaili Shia Muslims (also known as the Bohras/
         What particular sect is a patron of this belief?
         
         assistant
-         Ismailism.","Some Lutherans, such as the members of the Anglo-Lutheran Catholic Church, support the doctrine.",0.24149417877197266,0.4144115447998047,0.11604586243629456
-350,The mid-19th century.,19th century,0.2881045341491699,0.5360174179077148,0.9212992787361145
-351,The Council of Trent.,Mohametan Bible,0.2804427146911621,0.4565610885620117,0.17856945097446442
-352,Sunday League Football.,Sunday League Football,0.2883315086364746,0.4156675338745117,0.9738062024116516
-353,Bowling.,Bowling,0.34551095962524414,0.33641576766967773,0.9509069323539734
-354,7 miles (11 km),about 7 miles,0.27341222763061523,0.5347957611083984,0.814198911190033
-355,A British pub.,sports bar,0.24108123779296875,0.4174008369445801,0.4868307113647461
-356,In a separate taproom.,taproom,0.30812931060791016,0.4972405433654785,0.7120885848999023
-357,The Wine and Beerhouse Act 1869.,the Defence of the Realm Act,0.27695274353027344,0.6536500453948975,0.3198279142379761
-358,Charles Darrow.,Charles Darrow,0.3268125057220459,0.3592264652252197,0.9789236187934875
-359,The text does not mention the case Greenman v. Yuba Power Products.,1963,0.2925286293029785,0.8902220726013184,0.031937211751937866
-360,State laws.,conflicting state and territorial laws,0.26644110679626465,0.3765101432800293,0.5214148759841919
-361,Genesis 17:19–20.,Genesis 17:19–20,0.63260817527771,0.41730785369873047,0.9883926510810852
-362,"""Surely You're Joking, Mr. Feynman!""","Surely You're Joking, Mr. Feynman!",0.29947590827941895,0.8088686466217041,0.8565658926963806
-363,Local magistrates' courts.,special Licensing Sessions courts,0.38875365257263184,0.4934694766998291,0.5398284792900085
-364,Federal government.,Federal criminal law,0.38445162773132324,0.32170677185058594,0.5238754749298096
-365,They are often renamed.,renamed,0.3833615779876709,0.456024169921875,0.6442002058029175
-366,There is no information about the opening year of Trump Plaza in the given context.,1984,0.8021740913391113,0.8906404972076416,0.09523600339889526
-367,The Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA).,Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA),0.28885746002197266,1.0884149074554443,0.9759632349014282
-368,John Duns Scotus believed that Mary was preserved from all taint of sin by Christ.,that from a rational point of view it was certainly as little derogatory to the merits of Christ,0.36388564109802246,1.0080633163452148,0.36522626876831055
-369,South Inlet.,Chelsea,0.5193958282470703,0.21965527534484863,0.18537284433841705
-370,"Portions of the outer membrane pinch off, forming spherical structures made of a lipid bilayer enclosing periplasmic materials, known as outer membrane vesicles.",", forming spherical structures made of a lipid bilayer enclosing periplasmic materials",0.2855567932128906,1.4789609909057617,0.7922763228416443
-371,The law of the United States.,law of the United States,0.29558229446411133,0.534153938293457,0.92377769947052
-372,Feynman's younger brother died at four weeks of age.,died at four weeks of age,0.31006431579589844,0.7694180011749268,0.5588060617446899
-373,The United States Code.,The United States Code,0.2642838954925537,0.4552338123321533,0.9667985439300537
-374,The Mustali Ismaili Shia Muslims are also known as the Bohras or Dawoodi Bohra.,Bohras/Dawoodi Bohra,3.171461343765259,1.126239538192749,0.6875890493392944
-375,The Feynman Algorithm or The Feynman Problem-Solving Algorithm.,The Feynman Problem-Solving Algorithm,1.1421785354614258,0.7337357997894287,0.871291995048523
-376,2 millennia ago.,two,0.37274956703186035,0.4540081024169922,0.2616133689880371
-377,"He criticized them for not calculating anything, not checking their ideas, and making up explanations to fit experimental results.",they don't check their ideas,0.414722204208374,1.1254711151123047,0.43472838401794434
-378,Supermarkets.,supermarkets,0.3632667064666748,0.3773019313812256,0.9508704543113708
-379,There is no mention of a teacher's publication solving a problem for a Holy Roman leader. The text is about Richard Feynman's life and work on the Manhattan Project.,Pius IX was relieved of the problem of seeming to foster a doctrine not in agreement with the Aquinas' teaching.,0.3885359764099121,1.6396048069000244,0.31022652983665466
-380,The Cross.,The Cross,0.3244493007659912,0.3773386478424072,0.9781121611595154
-381,Chips.,chips,0.2779066562652588,0.3377864360809326,0.9340425729751587
-382,Stare decisis affects lower courts and the court itself in future cases.,impliedly binds all persons within the court's jurisdiction,0.33898186683654785,0.8492472171783447,0.401851087808609
-383,A girl.,a girl,0.37861037254333496,0.37412333488464355,0.9840068817138672
-384,There is no information in the text about when the large hotels were demolished.,1970s and 1980s,0.2576773166656494,0.8464663028717041,0.06114250421524048
-385,"American courts would follow post-revolution Commonwealth rulings only if there is no American ruling on point, the facts and law at issue are nearly identical, and the reasoning is strongly persuasive.",there is no American ruling on point,0.3188481330871582,1.6716845035552979,0.5323328971862793
-386,The Council of Trent (1545–63) declined to take a position on the doctrine.,"1677, the Holy See condemned the belief that Mary was virginally conceived,",0.3099532127380371,1.007143259048462,0.19999833405017853
-387,Johnson and Governor of New Jersey Richard J. Hughes.,Johnson and Governor of New Jersey Richard J. Hughes,0.5614490509033203,0.6925084590911865,0.9802986979484558
-388,"""The Laureates: Jewish Winners of the Nobel Prize""",The Laureates: Jewish Winners of the Nobel Prize,0.3459939956665039,0.7329950332641602,0.974846363067627
-389,40 inches.,40 inches,0.7172846794128418,0.39111804962158203,0.9730156064033508
-390,The stomach.,in the mouth,0.32391953468322754,0.24305415153503418,0.5303710699081421
-391,Trafalgar.,Trafalgar,0.35219311714172363,0.4549369812011719,0.9866129159927368
-392,The text does not mention the present name of the former Crown and Anchor.,The Crown Tavern,0.3193519115447998,0.8504481315612793,0.3251246511936188
-393,The Constitution.,The Constitution,0.32945847511291504,0.37685322761535645,0.9583823084831238
-394,The police enforced pubs' closing hours under the Defence of the Realm Act.,the police,0.31782031059265137,0.8490443229675293,0.3354601263999939
-395,His daughter Michelle.,Dean Mark Ingraham,0.42961859703063965,0.4133574962615967,0.26684921979904175
-396,The UK.,the UK,0.5556797981262207,0.3747987747192383,0.9651642441749573
-397,Jesus.,"Jesus Christ, the Savior of the human race.",3.6117427349090576,0.2817974090576172,0.44853782653808594
-398,States are allowed to use plenary power when there is no constitutional or statutory provision replacing the common law.,absence of constitutional or statutory provisions replacing the common law,0.2815244197845459,1.0852766036987305,0.5435559749603271
-399,Philadelphia and Atlantic City Railway.,Philadelphia and Atlantic City Railway,0.46492528915405273,0.49573612213134766,0.9761207103729248
-400,Through deputies (the Four Leaders) who represented him and acted as agents between him and his followers.,via deputies,0.4028191566467285,1.0459105968475342,0.507257878780365
-401,The Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA).,delivered to the Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA),0.3034951686859131,1.0856690406799316,0.905439019203186
-402,There is no mention of a specific body maintaining a National Inventory of notable pubs in the given context.,CAMRA,0.6158595085144043,1.0467276573181152,0.001260613091289997
-403,Tabards.,Inns of Court,1.5796403884887695,0.3776402473449707,0.21649770438671112
-404,On paper placemats.,paper placemats,0.3788764476776123,0.49442577362060547,0.91015625
-405,"The district would include: a heavier police presence, beautification and infrastructure improvements, and new construction to attract new businesses and attractions.","The district would include heavier police presence, as well as beautification and infrastructure improvements",0.8765621185302734,1.259047269821167,0.9104459285736084
-406,September.,September,0.2896730899810791,0.3114476203918457,0.9489479660987854
-407,The literal meaning of tariqah is 'path'.,path,0.2244584560394287,0.7307288646697998,0.4204869270324707
-408,Food and drink.,food and drink,0.3166084289550781,0.41434335708618164,0.9505565762519836
-409,There is no information about casino revenue in 2006 in the given context.,$5.2 billion,0.3900465965270996,0.887765645980835,0.22179539501667023
-410,"The 19th century, after the creation of a clear court hierarchy and regular publication of U.S. appellate decisions.",nineteenth century,0.3127422332763672,1.2027804851531982,0.5020452737808228
-411,Sāmad (Silent) Imām.,Sāmad (Silent) Imām,0.4272956848144531,0.6933469772338867,0.9781792163848877
-412,The text does not mention the number of great prophets sent by Allah.,seven,0.28658080101013184,0.8094704151153564,0.10502669215202332
-413,The Council of Trent.,"The report ""Mary: Faith and Hope in Christ""",0.5009362697601318,0.2719273567199707,0.2171156406402588
-414,"None, the text does not mention any English city where breweries were run by the government.",Carlisle,0.7701876163482666,0.9693431854248047,0.05584321171045303
-415,Pope Sixtus IV.,"Pope Sixtus IV, authorized those dioceses",0.3197784423828125,0.4955325126647949,0.7352499961853027
-416,tabernae.,tabernae,0.25118446350097656,0.4140489101409912,0.9793336391448975
-417,The student's union.,the student's union,0.31136202812194824,0.3228614330291748,0.9866448640823364
-418,There is no mention of King Edgar decreeing anything in the provided text.,there should be no more than one alehouse per village,0.42112159729003906,0.8499579429626465,0.0518483929336071
-419,The text does not mention the tied house system.,19th century,0.31131458282470703,0.6534874439239502,0.03630225732922554
-420,Copenhagen.,Copenhagen,0.3119790554046631,0.2046520709991455,0.9695078134536743
-421,The power to promulgate regulations.,broad rulemaking authority,0.29891133308410645,0.573033332824707,0.5961201190948486
-422,Local Authorities.,London Metropolitan Archives centre,0.31769680976867676,0.3776400089263916,0.23920218646526337
-423,Oak Ridge facility.,Oak Ridge facility,0.2636594772338867,0.41481494903564453,0.9780361652374268
-424,"The text does not mention a person named Carl. It mentions Feynman's teaching style and analogies he used to explain complex concepts to his students, but not specifically to someone named Carl.",ants and Martians,0.32190442085266113,1.7981064319610596,0.0551762580871582
+         Ismailism.","Some Lutherans, such as the members of the Anglo-Lutheran Catholic Church, support the doctrine.",0.24149417877197266,0.4144115447998047,0.11604586243629456,0.021551724137931032,0.021551724137931032
+350,The mid-19th century.,19th century,0.2881045341491699,0.5360174179077148,0.9212992787361145,0.6666666666666666,0.6666666666666666
+351,The Council of Trent.,Mohametan Bible,0.2804427146911621,0.4565610885620117,0.17856945097446442,0.0,0.0
+352,Sunday League Football.,Sunday League Football,0.2883315086364746,0.4156675338745117,0.9738062024116516,1.0,1.0
+353,Bowling.,Bowling,0.34551095962524414,0.33641576766967773,0.9509069323539734,1.0,1.0
+354,7 miles (11 km),about 7 miles,0.27341222763061523,0.5347957611083984,0.814198911190033,0.5714285714285715,0.5714285714285715
+355,A British pub.,sports bar,0.24108123779296875,0.4174008369445801,0.4868307113647461,0.0,0.0
+356,In a separate taproom.,taproom,0.30812931060791016,0.4972405433654785,0.7120885848999023,0.4,0.4
+357,The Wine and Beerhouse Act 1869.,the Defence of the Realm Act,0.27695274353027344,0.6536500453948975,0.3198279142379761,0.3333333333333333,0.3333333333333333
+358,Charles Darrow.,Charles Darrow,0.3268125057220459,0.3592264652252197,0.9789236187934875,1.0,1.0
+359,The text does not mention the case Greenman v. Yuba Power Products.,1963,0.2925286293029785,0.8902220726013184,0.031937211751937866,0.0,0.0
+360,State laws.,conflicting state and territorial laws,0.26644110679626465,0.3765101432800293,0.5214148759841919,0.5714285714285715,0.5714285714285715
+361,Genesis 17:19–20.,Genesis 17:19–20,0.63260817527771,0.41730785369873047,0.9883926510810852,1.0,1.0
+362,"""Surely You're Joking, Mr. Feynman!""","Surely You're Joking, Mr. Feynman!",0.29947590827941895,0.8088686466217041,0.8565658926963806,1.0,1.0
+363,Local magistrates' courts.,special Licensing Sessions courts,0.38875365257263184,0.4934694766998291,0.5398284792900085,0.28571428571428575,0.28571428571428575
+364,Federal government.,Federal criminal law,0.38445162773132324,0.32170677185058594,0.5238754749298096,0.4,0.4
+365,They are often renamed.,renamed,0.3833615779876709,0.456024169921875,0.6442002058029175,0.4,0.4
+366,There is no information about the opening year of Trump Plaza in the given context.,1984,0.8021740913391113,0.8906404972076416,0.09523600339889526,0.0,0.0
+367,The Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA).,Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA),0.28885746002197266,1.0884149074554443,0.9759632349014282,0.9655172413793104,0.9655172413793104
+368,John Duns Scotus believed that Mary was preserved from all taint of sin by Christ.,that from a rational point of view it was certainly as little derogatory to the merits of Christ,0.36388564109802246,1.0080633163452148,0.36522626876831055,0.303030303030303,0.2424242424242424
+369,South Inlet.,Chelsea,0.5193958282470703,0.21965527534484863,0.18537284433841705,0.0,0.0
+370,"Portions of the outer membrane pinch off, forming spherical structures made of a lipid bilayer enclosing periplasmic materials, known as outer membrane vesicles.",", forming spherical structures made of a lipid bilayer enclosing periplasmic materials",0.2855567932128906,1.4789609909057617,0.7922763228416443,0.6470588235294118,0.6470588235294118
+371,The law of the United States.,law of the United States,0.29558229446411133,0.534153938293457,0.92377769947052,0.9090909090909091,0.9090909090909091
+372,Feynman's younger brother died at four weeks of age.,died at four weeks of age,0.31006431579589844,0.7694180011749268,0.5588060617446899,0.7499999999999999,0.7499999999999999
+373,The United States Code.,The United States Code,0.2642838954925537,0.4552338123321533,0.9667985439300537,1.0,1.0
+374,The Mustali Ismaili Shia Muslims are also known as the Bohras or Dawoodi Bohra.,Bohras/Dawoodi Bohra,3.171461343765259,1.126239538192749,0.6875890493392944,0.35294117647058826,0.35294117647058826
+375,The Feynman Algorithm or The Feynman Problem-Solving Algorithm.,The Feynman Problem-Solving Algorithm,1.1421785354614258,0.7337357997894287,0.871291995048523,0.7142857142857143,0.7142857142857143
+376,2 millennia ago.,two,0.37274956703186035,0.4540081024169922,0.2616133689880371,0.0,0.0
+377,"He criticized them for not calculating anything, not checking their ideas, and making up explanations to fit experimental results.",they don't check their ideas,0.414722204208374,1.1254711151123047,0.43472838401794434,0.23999999999999996,0.23999999999999996
+378,Supermarkets.,supermarkets,0.3632667064666748,0.3773019313812256,0.9508704543113708,1.0,1.0
+379,There is no mention of a teacher's publication solving a problem for a Holy Roman leader. The text is about Richard Feynman's life and work on the Manhattan Project.,Pius IX was relieved of the problem of seeming to foster a doctrine not in agreement with the Aquinas' teaching.,0.3885359764099121,1.6396048069000244,0.31022652983665466,0.19607843137254902,0.1568627450980392
+380,The Cross.,The Cross,0.3244493007659912,0.3773386478424072,0.9781121611595154,1.0,1.0
+381,Chips.,chips,0.2779066562652588,0.3377864360809326,0.9340425729751587,1.0,1.0
+382,Stare decisis affects lower courts and the court itself in future cases.,impliedly binds all persons within the court's jurisdiction,0.33898186683654785,0.8492472171783447,0.401851087808609,0.1904761904761905,0.1904761904761905
+383,A girl.,a girl,0.37861037254333496,0.37412333488464355,0.9840068817138672,1.0,1.0
+384,There is no information in the text about when the large hotels were demolished.,1970s and 1980s,0.2576773166656494,0.8464663028717041,0.06114250421524048,0.0,0.0
+385,"American courts would follow post-revolution Commonwealth rulings only if there is no American ruling on point, the facts and law at issue are nearly identical, and the reasoning is strongly persuasive.",there is no American ruling on point,0.3188481330871582,1.6716845035552979,0.5323328971862793,0.358974358974359,0.358974358974359
+386,The Council of Trent (1545–63) declined to take a position on the doctrine.,"1677, the Holy See condemned the belief that Mary was virginally conceived,",0.3099532127380371,1.007143259048462,0.19999833405017853,0.15384615384615383,0.15384615384615383
+387,Johnson and Governor of New Jersey Richard J. Hughes.,Johnson and Governor of New Jersey Richard J. Hughes,0.5614490509033203,0.6925084590911865,0.9802986979484558,1.0,1.0
+388,"""The Laureates: Jewish Winners of the Nobel Prize""",The Laureates: Jewish Winners of the Nobel Prize,0.3459939956665039,0.7329950332641602,0.974846363067627,1.0,1.0
+389,40 inches.,40 inches,0.7172846794128418,0.39111804962158203,0.9730156064033508,1.0,1.0
+390,The stomach.,in the mouth,0.32391953468322754,0.24305415153503418,0.5303710699081421,0.4,0.4
+391,Trafalgar.,Trafalgar,0.35219311714172363,0.4549369812011719,0.9866129159927368,1.0,1.0
+392,The text does not mention the present name of the former Crown and Anchor.,The Crown Tavern,0.3193519115447998,0.8504481315612793,0.3251246511936188,0.23529411764705882,0.23529411764705882
+393,The Constitution.,The Constitution,0.32945847511291504,0.37685322761535645,0.9583823084831238,1.0,1.0
+394,The police enforced pubs' closing hours under the Defence of the Realm Act.,the police,0.31782031059265137,0.8490443229675293,0.3354601263999939,0.2666666666666667,0.2666666666666667
+395,His daughter Michelle.,Dean Mark Ingraham,0.42961859703063965,0.4133574962615967,0.26684921979904175,0.0,0.0
+396,The UK.,the UK,0.5556797981262207,0.3747987747192383,0.9651642441749573,1.0,1.0
+397,Jesus.,"Jesus Christ, the Savior of the human race.",3.6117427349090576,0.2817974090576172,0.44853782653808594,0.2222222222222222,0.2222222222222222
+398,States are allowed to use plenary power when there is no constitutional or statutory provision replacing the common law.,absence of constitutional or statutory provisions replacing the common law,0.2815244197845459,1.0852766036987305,0.5435559749603271,0.5517241379310345,0.5517241379310345
+399,Philadelphia and Atlantic City Railway.,Philadelphia and Atlantic City Railway,0.46492528915405273,0.49573612213134766,0.9761207103729248,1.0,1.0
+400,Through deputies (the Four Leaders) who represented him and acted as agents between him and his followers.,via deputies,0.4028191566467285,1.0459105968475342,0.507257878780365,0.10526315789473684,0.10526315789473684
+401,The Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA).,delivered to the Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA),0.3034951686859131,1.0856690406799316,0.905439019203186,0.9375,0.9375
+402,There is no mention of a specific body maintaining a National Inventory of notable pubs in the given context.,CAMRA,0.6158595085144043,1.0467276573181152,0.001260613091289997,0.0,0.0
+403,Tabards.,Inns of Court,1.5796403884887695,0.3776402473449707,0.21649770438671112,0.0,0.0
+404,On paper placemats.,paper placemats,0.3788764476776123,0.49442577362060547,0.91015625,0.8,0.8
+405,"The district would include: a heavier police presence, beautification and infrastructure improvements, and new construction to attract new businesses and attractions.","The district would include heavier police presence, as well as beautification and infrastructure improvements",0.8765621185302734,1.259047269821167,0.9104459285736084,0.6285714285714286,0.6285714285714286
+406,September.,September,0.2896730899810791,0.3114476203918457,0.9489479660987854,1.0,1.0
+407,The literal meaning of tariqah is 'path'.,path,0.2244584560394287,0.7307288646697998,0.4204869270324707,0.25,0.25
+408,Food and drink.,food and drink,0.3166084289550781,0.41434335708618164,0.9505565762519836,1.0,1.0
+409,There is no information about casino revenue in 2006 in the given context.,$5.2 billion,0.3900465965270996,0.887765645980835,0.22179539501667023,0.0,0.0
+410,"The 19th century, after the creation of a clear court hierarchy and regular publication of U.S. appellate decisions.",nineteenth century,0.3127422332763672,1.2027804851531982,0.5020452737808228,0.09523809523809525,0.09523809523809525
+411,Sāmad (Silent) Imām.,Sāmad (Silent) Imām,0.4272956848144531,0.6933469772338867,0.9781792163848877,1.0,1.0
+412,The text does not mention the number of great prophets sent by Allah.,seven,0.28658080101013184,0.8094704151153564,0.10502669215202332,0.0,0.0
+413,The Council of Trent.,"The report ""Mary: Faith and Hope in Christ""",0.5009362697601318,0.2719273567199707,0.2171156406402588,0.16666666666666666,0.16666666666666666
+414,"None, the text does not mention any English city where breweries were run by the government.",Carlisle,0.7701876163482666,0.9693431854248047,0.05584321171045303,0.0,0.0
+415,Pope Sixtus IV.,"Pope Sixtus IV, authorized those dioceses",0.3197784423828125,0.4955325126647949,0.7352499961853027,0.6666666666666666,0.6666666666666666
+416,tabernae.,tabernae,0.25118446350097656,0.4140489101409912,0.9793336391448975,1.0,1.0
+417,The student's union.,the student's union,0.31136202812194824,0.3228614330291748,0.9866448640823364,1.0,1.0
+418,There is no mention of King Edgar decreeing anything in the provided text.,there should be no more than one alehouse per village,0.42112159729003906,0.8499579429626465,0.0518483929336071,0.17391304347826086,0.17391304347826086
+419,The text does not mention the tied house system.,19th century,0.31131458282470703,0.6534874439239502,0.03630225732922554,0.0,0.0
+420,Copenhagen.,Copenhagen,0.3119790554046631,0.2046520709991455,0.9695078134536743,1.0,1.0
+421,The power to promulgate regulations.,broad rulemaking authority,0.29891133308410645,0.573033332824707,0.5961201190948486,0.0,0.0
+422,Local Authorities.,London Metropolitan Archives centre,0.31769680976867676,0.3776400089263916,0.23920218646526337,0.0,0.0
+423,Oak Ridge facility.,Oak Ridge facility,0.2636594772338867,0.41481494903564453,0.9780361652374268,1.0,1.0
+424,"The text does not mention a person named Carl. It mentions Feynman's teaching style and analogies he used to explain complex concepts to his students, but not specifically to someone named Carl.",ants and Martians,0.32190442085266113,1.7981064319610596,0.0551762580871582,0.05555555555555555,0.05555555555555555
 425,"for giving short answers based on given context.
         user
         Context information is below.
@@ -518,78 +518,78 @@ Feynman alludes to his thoughts on the justification for getting involved in the
         Who was the teacher who committed the act ?
         
         assistant
-         There is no mention of a teacher committing an act in the given context.",Mariano Spada,0.21788382530212402,0.8468220233917236,0.017704041674733162
-426,Pub rock.,Pub rock,0.3471953868865967,0.3753197193145752,0.9719361662864685
-427,"Ye Olde Fighting Cocks in St Albans, Hertfordshire.",Ye Olde Fighting Cocks,0.23008179664611816,0.8881289958953857,0.7987861633300781
-428,There is no specific information in the text about when the inhabitants of the British Isles began drinking ale.,the Bronze Age,0.2719380855560303,1.045332908630371,0.10592672973871231
-429,Tabernae.,taverns,0.43607044219970703,0.4145519733428955,0.26958316564559937
-430,The Nizari Ismailism's cardinal principle would be broken and its very raison d'être would come to an end.,come to an end,0.3108510971069336,1.2437312602996826,0.15914413332939148
-431,Bar snacks.,bar snacks,0.4096364974975586,0.3771541118621826,0.9744873642921448
-432,There is no mention of the Licensing Act 2003 in the provided text.,24 November 2005,0.33537983894348145,0.8902649879455566,0.1840587705373764
-433,"None, the text does not mention pubs ceasing to sell alcohol for off-premises drinking.",1970s,0.4207923412322998,1.0482490062713623,0.04753044620156288
-434,The Revel was Atlantic City's second-newest casino.,The Borgata,0.36139607429504395,0.6326239109039307,0.05615587159991264
-435,Princeton University.,Institute for Advanced Study,0.31424760818481445,0.3761305809020996,0.4778636395931244
-436,1240.,1240,0.30746889114379883,0.41631603240966797,0.9677326083183289
-437,The 1950s.,1950s,0.5132763385772705,0.4925704002380371,0.94635009765625
-438,26.65%,26.65%,0.45523858070373535,0.4556546211242676,1.0000001192092896
-439,"$30,237.","$30,237",0.28621721267700195,0.4557955265045166,0.9739161729812622
-440,There is no mention of a referendum in the provided text.,September 2014,0.3147704601287842,0.7046539783477783,0.09327873587608337
-441,The text does not mention the Taj casino.,winding down and exiting the gaming and hotel business,0.3062865734100342,0.6166090965270996,0.22996224462985992
-442,44.8%,44.8%,0.2859306335449219,0.4562962055206299,1.0
-443,The principle is not mentioned in the given context.,stare decisis,0.2789936065673828,0.6530969142913818,0.16330353915691376
-444,"""I don't like that they're not calculating anything,""","'Well, it still might be true.'""",0.30492281913757324,0.7317235469818115,0.335649311542511
-445,Handpump.,handpump,0.23346877098083496,0.4164540767669678,0.9819061756134033
-446,Federal law and treaties.,Federal law and treaties,0.261030912399292,0.45438313484191895,0.955909788608551
-447,"The executive branch, through federal agencies, promulgates regulations.",executive branch,0.42015671730041504,0.7702322006225586,0.7340542674064636
-448,Bally's.,Holiday Inn,0.3583080768585205,0.41379857063293457,0.19790104031562805
-449,The United States Code.,The United States Code,0.42137861251831055,0.4554708003997803,0.9667985439300537
-450,3.34,3.34,0.2854197025299072,0.4175593852996826,1.000000238418579
-451,Cheshire.,Cheshire,0.364121675491333,0.37642383575439453,0.974452555179596
-452,"2006 (Scotland), 2007 (Wales and England)",2007,0.34878063201904297,0.8500890731811523,0.5979981422424316
-453,Mastication (chewing) and the wetting contact of saliva.,the action of mastication (chewing),0.3499579429626465,0.8493754863739014,0.8414120078086853
-454,"There is no mention of ""The Tunnel Project"" in the given context.",Atlantic City-Brigantine Connector,0.3590412139892578,0.8528769016265869,0.1746164858341217
-455,"According to the text, it is possible for a sanctified Mary to have emerged at her conception.","out that sanctification could be conferred at the first moment of conception in view of the foreseen merits of Christ, a view held especially by Franciscans.",0.35561609268188477,1.0449962615966797,0.5826976299285889
-456,Felony convictions.,felony convictions,0.2456660270690918,0.36005425453186035,0.9403213858604431
-457,Spirit grocers.,spirit grocers,0.29862546920776367,0.28420591354370117,0.9824368953704834
-458,Alehouse.,country pub,0.28363776206970215,0.37395358085632324,0.34957432746887207
-459,The Traymore Hotel.,The Traymore Hotel,0.2918126583099365,0.4554617404937744,0.9932366609573364
-460,"A device for pumping beer, typically used to dispense beer from a cask or container in a pub's basement or cellar.",a device for pumping beer,0.32677149772644043,1.2840118408203125,0.8722046613693237
-461,The 11th century.,11th,0.5337014198303223,0.49530625343322754,0.46177536249160767
-462,Public house.,teach óil,0.29120373725891113,0.3742945194244385,0.04913036525249481
-463,The text does not provide information about the number of passengers coming to Atlantic City by rail by 1874.,"500,000",0.4309678077697754,1.1000735759735107,0.06985627114772797
-464,Ismah (divine knowledge and authority).,divine protection,0.3305950164794922,0.6162898540496826,0.46417853236198425
-465,"A statute is removed if it is declared unconstitutional by a court, typically the Supreme Court, through a judicial decision.",deleted by a subsequent statute,0.6729815006256104,1.1647841930389404,0.5717670917510986
-466,Hops.,hops,0.24581265449523926,0.3749997615814209,0.9759762287139893
-467,He believed the Allies needed to develop the bomb before Nazi Germany did.,possibility of Nazi Germany developing the bomb before the Allies,0.23832941055297852,0.8074948787689209,0.7749707102775574
-468,1976.,1976,0.39117884635925293,0.4156341552734375,0.9464104771614075
-469,1688.,1688,0.3199574947357178,0.4163706302642822,0.974555253982544
-470,There is no mention of Parliament inquiring into the frequency of pub closures in the provided text.,2015,0.24964547157287598,1.0070338249206543,0.04079040139913559
-471,2002.,2002,0.6338961124420166,0.4161837100982666,0.9519264101982117
-472,The Middle Ages.,the Middle Ages,0.24917101860046387,0.4175868034362793,0.9812238216400146
-473,To wean drinkers off the evils of gin by making beer freely available.,reducing public drunkenness,0.2987649440765381,0.8499364852905273,0.3216424584388733
-474,Mathematics and Physics.,mathematics and physics,0.25705432891845703,0.4182446002960205,0.9342523813247681
-475,7 books.,45,0.3986482620239258,0.41591310501098633,0.23527511954307556
-476,"Pepsin, trypsin, and chymotrypsin.",pepsin secreted by the stomach and trypsin and chymotrypsin,0.36861586570739746,0.755481481552124,0.802301287651062
-477,1 (Revel Casino),four,0.2733273506164551,0.5084333419799805,0.32721635699272156
-478,"Because of its immense size and diversity, with many states adopting only certain sections of the Restatements and rejecting others.",because of its immense size and diversity,0.3179020881652832,1.2022411823272705,0.6089308261871338
-479,The Quran.,"papal bull defining the dogma, Ineffabilis Deus",0.27832579612731934,0.31777262687683105,0.2210559993982315
-480,10 roadways.,10,0.5383810997009277,0.4295182228088379,0.4631127119064331
-481,"$32,207.","$32,207",0.4369523525238037,0.45610785484313965,0.9731872081756592
-482,"8,558.","8,558",3.441418170928955,0.45798373222351074,0.9853503704071045
-483,"Because federal courts lack the plenary power to make up law, as stated in the Erie Railroad Co. v. Tompkins (1938) doctrine, and are limited to creating federal common law linked to the interpretation of a federal constitutional provision, statute, or regulation.",lack the plenary power possessed by state courts,0.26126742362976074,2.4228591918945312,0.6509906649589539
-484,"A temporary ""purple splotch"" afterimage.","""purple splotch"" afterimage",0.6163666248321533,0.6910207271575928,0.92555832862854
-485,30.45%,30.45%,0.3066372871398926,0.45670533180236816,1.0
-486,The Canonbury Tavern.,The Canonbury Tavern,0.577810525894165,0.45623064041137695,0.9843787550926208
-487,"None, the text does not mention any addendum added to the Lectures book in 2005.","""Feynman's Tips on Physics: A Problem-Solving Supplement to the Feynman Lectures on Physics",0.2617948055267334,1.0845088958740234,0.25391340255737305
-488,Eastern Orthodox Christians.,Contemporary Eastern Orthodox Christians often object to the dogmatic declaration of her immaculate conception,0.34490346908569336,0.41962337493896484,0.5674341917037964
-489,There is no mention of a topless bar in the provided context.,Feynman,0.2880728244781494,0.8120467662811279,-0.025531984865665436
-490,"""Nātıq"" (Spoken) prophets.",Nātıq,0.2648582458496094,0.7306554317474365,0.6936079263687134
-491,The Executive branch is responsible for ratifying treaties.,Senate,0.27730488777160645,0.6536450386047363,0.4124685823917389
-492,"Edward Gibbon referred to Mary in his writings, specifically mentioning the immaculate conception of her by her mother, not her own virginal conception of Jesus.","to call Mary ""prepurified""",0.33116722106933594,1.4572196006774902,0.37156733870506287
-493,Michelle Feynman.,"Feynman's daughter, Michelle",0.2785491943359375,0.45401906967163086,0.7581057548522949
-494,From the illustration on the pub's sign.,the illustration on the pub's sign,0.2492542266845703,0.6124446392059326,0.9206216335296631
-495,The 53rd Da'i al-Mutlaq of the Dawoodi Bohra is Syedna Mufaddal Saifuddin.,Syedna Mufaddal Saifuddin,0.5302855968475342,1.4773850440979004,0.6685072779655457
-496,Frosted glass.,smoked or frosted glass,0.564530611038208,0.4178297519683838,0.8003923296928406
-497,Video games.,video games,0.4288637638092041,0.37576889991760254,0.8826001882553101
-498,The Code of Federal Regulations.,Code of Federal Regulations,0.2794029712677002,0.4973440170288086,0.9501731395721436
-499,The London Gazette.,London Gazette,0.2393641471862793,0.4178013801574707,0.9517475366592407
+         There is no mention of a teacher committing an act in the given context.",Mariano Spada,0.21788382530212402,0.8468220233917236,0.017704041674733162,0.0,0.0
+426,Pub rock.,Pub rock,0.3471953868865967,0.3753197193145752,0.9719361662864685,1.0,1.0
+427,"Ye Olde Fighting Cocks in St Albans, Hertfordshire.",Ye Olde Fighting Cocks,0.23008179664611816,0.8881289958953857,0.7987861633300781,0.6666666666666666,0.6666666666666666
+428,There is no specific information in the text about when the inhabitants of the British Isles began drinking ale.,the Bronze Age,0.2719380855560303,1.045332908630371,0.10592672973871231,0.09090909090909091,0.09090909090909091
+429,Tabernae.,taverns,0.43607044219970703,0.4145519733428955,0.26958316564559937,0.0,0.0
+430,The Nizari Ismailism's cardinal principle would be broken and its very raison d'être would come to an end.,come to an end,0.3108510971069336,1.2437312602996826,0.15914413332939148,0.33333333333333337,0.33333333333333337
+431,Bar snacks.,bar snacks,0.4096364974975586,0.3771541118621826,0.9744873642921448,1.0,1.0
+432,There is no mention of the Licensing Act 2003 in the provided text.,24 November 2005,0.33537983894348145,0.8902649879455566,0.1840587705373764,0.0,0.0
+433,"None, the text does not mention pubs ceasing to sell alcohol for off-premises drinking.",1970s,0.4207923412322998,1.0482490062713623,0.04753044620156288,0.0,0.0
+434,The Revel was Atlantic City's second-newest casino.,The Borgata,0.36139607429504395,0.6326239109039307,0.05615587159991264,0.1818181818181818,0.1818181818181818
+435,Princeton University.,Institute for Advanced Study,0.31424760818481445,0.3761305809020996,0.4778636395931244,0.0,0.0
+436,1240.,1240,0.30746889114379883,0.41631603240966797,0.9677326083183289,1.0,1.0
+437,The 1950s.,1950s,0.5132763385772705,0.4925704002380371,0.94635009765625,0.6666666666666666,0.6666666666666666
+438,26.65%,26.65%,0.45523858070373535,0.4556546211242676,1.0000001192092896,1.0,1.0
+439,"$30,237.","$30,237",0.28621721267700195,0.4557955265045166,0.9739161729812622,1.0,1.0
+440,There is no mention of a referendum in the provided text.,September 2014,0.3147704601287842,0.7046539783477783,0.09327873587608337,0.0,0.0
+441,The text does not mention the Taj casino.,winding down and exiting the gaming and hotel business,0.3062865734100342,0.6166090965270996,0.22996224462985992,0.11764705882352941,0.11764705882352941
+442,44.8%,44.8%,0.2859306335449219,0.4562962055206299,1.0,1.0,1.0
+443,The principle is not mentioned in the given context.,stare decisis,0.2789936065673828,0.6530969142913818,0.16330353915691376,0.0,0.0
+444,"""I don't like that they're not calculating anything,""","'Well, it still might be true.'""",0.30492281913757324,0.7317235469818115,0.335649311542511,0.0,0.0
+445,Handpump.,handpump,0.23346877098083496,0.4164540767669678,0.9819061756134033,1.0,1.0
+446,Federal law and treaties.,Federal law and treaties,0.261030912399292,0.45438313484191895,0.955909788608551,1.0,1.0
+447,"The executive branch, through federal agencies, promulgates regulations.",executive branch,0.42015671730041504,0.7702322006225586,0.7340542674064636,0.4,0.4
+448,Bally's.,Holiday Inn,0.3583080768585205,0.41379857063293457,0.19790104031562805,0.0,0.0
+449,The United States Code.,The United States Code,0.42137861251831055,0.4554708003997803,0.9667985439300537,1.0,1.0
+450,3.34,3.34,0.2854197025299072,0.4175593852996826,1.000000238418579,1.0,1.0
+451,Cheshire.,Cheshire,0.364121675491333,0.37642383575439453,0.974452555179596,1.0,1.0
+452,"2006 (Scotland), 2007 (Wales and England)",2007,0.34878063201904297,0.8500890731811523,0.5979981422424316,0.2857142857142857,0.2857142857142857
+453,Mastication (chewing) and the wetting contact of saliva.,the action of mastication (chewing),0.3499579429626465,0.8493754863739014,0.8414120078086853,0.6153846153846154,0.3076923076923077
+454,"There is no mention of ""The Tunnel Project"" in the given context.",Atlantic City-Brigantine Connector,0.3590412139892578,0.8528769016265869,0.1746164858341217,0.0,0.0
+455,"According to the text, it is possible for a sanctified Mary to have emerged at her conception.","out that sanctification could be conferred at the first moment of conception in view of the foreseen merits of Christ, a view held especially by Franciscans.",0.35561609268188477,1.0449962615966797,0.5826976299285889,0.186046511627907,0.0930232558139535
+456,Felony convictions.,felony convictions,0.2456660270690918,0.36005425453186035,0.9403213858604431,1.0,1.0
+457,Spirit grocers.,spirit grocers,0.29862546920776367,0.28420591354370117,0.9824368953704834,1.0,1.0
+458,Alehouse.,country pub,0.28363776206970215,0.37395358085632324,0.34957432746887207,0.0,0.0
+459,The Traymore Hotel.,The Traymore Hotel,0.2918126583099365,0.4554617404937744,0.9932366609573364,1.0,1.0
+460,"A device for pumping beer, typically used to dispense beer from a cask or container in a pub's basement or cellar.",a device for pumping beer,0.32677149772644043,1.2840118408203125,0.8722046613693237,0.37037037037037035,0.37037037037037035
+461,The 11th century.,11th,0.5337014198303223,0.49530625343322754,0.46177536249160767,0.5,0.5
+462,Public house.,teach óil,0.29120373725891113,0.3742945194244385,0.04913036525249481,0.0,0.0
+463,The text does not provide information about the number of passengers coming to Atlantic City by rail by 1874.,"500,000",0.4309678077697754,1.1000735759735107,0.06985627114772797,0.0,0.0
+464,Ismah (divine knowledge and authority).,divine protection,0.3305950164794922,0.6162898540496826,0.46417853236198425,0.28571428571428575,0.28571428571428575
+465,"A statute is removed if it is declared unconstitutional by a court, typically the Supreme Court, through a judicial decision.",deleted by a subsequent statute,0.6729815006256104,1.1647841930389404,0.5717670917510986,0.24,0.16000000000000003
+466,Hops.,hops,0.24581265449523926,0.3749997615814209,0.9759762287139893,1.0,1.0
+467,He believed the Allies needed to develop the bomb before Nazi Germany did.,possibility of Nazi Germany developing the bomb before the Allies,0.23832941055297852,0.8074948787689209,0.7749707102775574,0.6956521739130435,0.34782608695652173
+468,1976.,1976,0.39117884635925293,0.4156341552734375,0.9464104771614075,1.0,1.0
+469,1688.,1688,0.3199574947357178,0.4163706302642822,0.974555253982544,1.0,1.0
+470,There is no mention of Parliament inquiring into the frequency of pub closures in the provided text.,2015,0.24964547157287598,1.0070338249206543,0.04079040139913559,0.0,0.0
+471,2002.,2002,0.6338961124420166,0.4161837100982666,0.9519264101982117,1.0,1.0
+472,The Middle Ages.,the Middle Ages,0.24917101860046387,0.4175868034362793,0.9812238216400146,1.0,1.0
+473,To wean drinkers off the evils of gin by making beer freely available.,reducing public drunkenness,0.2987649440765381,0.8499364852905273,0.3216424584388733,0.0,0.0
+474,Mathematics and Physics.,mathematics and physics,0.25705432891845703,0.4182446002960205,0.9342523813247681,1.0,1.0
+475,7 books.,45,0.3986482620239258,0.41591310501098633,0.23527511954307556,0.0,0.0
+476,"Pepsin, trypsin, and chymotrypsin.",pepsin secreted by the stomach and trypsin and chymotrypsin,0.36861586570739746,0.755481481552124,0.802301287651062,0.6153846153846153,0.6153846153846153
+477,1 (Revel Casino),four,0.2733273506164551,0.5084333419799805,0.32721635699272156,0.0,0.0
+478,"Because of its immense size and diversity, with many states adopting only certain sections of the Restatements and rejecting others.",because of its immense size and diversity,0.3179020881652832,1.2022411823272705,0.6089308261871338,0.5185185185185185,0.5185185185185185
+479,The Quran.,"papal bull defining the dogma, Ineffabilis Deus",0.27832579612731934,0.31777262687683105,0.2210559993982315,0.22222222222222224,0.22222222222222224
+480,10 roadways.,10,0.5383810997009277,0.4295182228088379,0.4631127119064331,0.6666666666666666,0.6666666666666666
+481,"$32,207.","$32,207",0.4369523525238037,0.45610785484313965,0.9731872081756592,1.0,1.0
+482,"8,558.","8,558",3.441418170928955,0.45798373222351074,0.9853503704071045,1.0,1.0
+483,"Because federal courts lack the plenary power to make up law, as stated in the Erie Railroad Co. v. Tompkins (1938) doctrine, and are limited to creating federal common law linked to the interpretation of a federal constitutional provision, statute, or regulation.",lack the plenary power possessed by state courts,0.26126742362976074,2.4228591918945312,0.6509906649589539,0.24,0.19999999999999998
+484,"A temporary ""purple splotch"" afterimage.","""purple splotch"" afterimage",0.6163666248321533,0.6910207271575928,0.92555832862854,0.7499999999999999,0.7499999999999999
+485,30.45%,30.45%,0.3066372871398926,0.45670533180236816,1.0,1.0,1.0
+486,The Canonbury Tavern.,The Canonbury Tavern,0.577810525894165,0.45623064041137695,0.9843787550926208,1.0,1.0
+487,"None, the text does not mention any addendum added to the Lectures book in 2005.","""Feynman's Tips on Physics: A Problem-Solving Supplement to the Feynman Lectures on Physics",0.2617948055267334,1.0845088958740234,0.25391340255737305,0.20000000000000004,0.20000000000000004
+488,Eastern Orthodox Christians.,Contemporary Eastern Orthodox Christians often object to the dogmatic declaration of her immaculate conception,0.34490346908569336,0.41962337493896484,0.5674341917037964,0.35294117647058826,0.35294117647058826
+489,There is no mention of a topless bar in the provided context.,Feynman,0.2880728244781494,0.8120467662811279,-0.025531984865665436,0.0,0.0
+490,"""Nātıq"" (Spoken) prophets.",Nātıq,0.2648582458496094,0.7306554317474365,0.6936079263687134,0.7499999999999999,0.7499999999999999
+491,The Executive branch is responsible for ratifying treaties.,Senate,0.27730488777160645,0.6536450386047363,0.4124685823917389,0.0,0.0
+492,"Edward Gibbon referred to Mary in his writings, specifically mentioning the immaculate conception of her by her mother, not her own virginal conception of Jesus.","to call Mary ""prepurified""",0.33116722106933594,1.4572196006774902,0.37156733870506287,0.13793103448275865,0.13793103448275865
+493,Michelle Feynman.,"Feynman's daughter, Michelle",0.2785491943359375,0.45401906967163086,0.7581057548522949,0.6666666666666666,0.3333333333333333
+494,From the illustration on the pub's sign.,the illustration on the pub's sign,0.2492542266845703,0.6124446392059326,0.9206216335296631,0.9333333333333333,0.9333333333333333
+495,The 53rd Da'i al-Mutlaq of the Dawoodi Bohra is Syedna Mufaddal Saifuddin.,Syedna Mufaddal Saifuddin,0.5302855968475342,1.4773850440979004,0.6685072779655457,0.35294117647058826,0.35294117647058826
+496,Frosted glass.,smoked or frosted glass,0.564530611038208,0.4178297519683838,0.8003923296928406,0.6666666666666666,0.6666666666666666
+497,Video games.,video games,0.4288637638092041,0.37576889991760254,0.8826001882553101,1.0,1.0
+498,The Code of Federal Regulations.,Code of Federal Regulations,0.2794029712677002,0.4973440170288086,0.9501731395721436,0.888888888888889,0.888888888888889
+499,The London Gazette.,London Gazette,0.2393641471862793,0.4178013801574707,0.9517475366592407,0.8,0.8

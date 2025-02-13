@@ -1,17 +1,17 @@
-idx,generated_response,ground_truth,ir_time,generate_time,bert_score
-0,Danny Thomas made his debut at the Copacabana.,Danny Thomas,0.0013346672058105469,2.798412799835205,0.6123099327087402
-1,2011.,2011,0.0014719963073730469,1.3198015689849854,0.9571799039840698
-2,Oregon.,Oregon,0.001306772232055664,1.125784158706665,0.9635229706764221
-3,Elizabeth of York.,Elizabeth of York,0.001209259033203125,1.2746076583862305,0.9840719103813171
-4,The Marvel Comics universe.,Marvel Cinematic Universe,0.0012340545654296875,1.3360559940338135,0.8629167079925537
-5,They are both musicians.,singer,0.001230478286743164,1.31585693359375,0.45261693000793457
-6,"""Best Music Video – Short Form"" for ""Opposites Attract"".","""Opposites Attract""",0.0012464523315429688,1.8438782691955566,0.675564169883728
-7,"No, The Bolshoi was based in London, while Kutless is based in Portland, Oregon.",no,0.0012214183807373047,2.12540864944458,0.1270078867673874
-8,ShoppingTown Mall.,Moonbeam Capital Investments LLC,0.0011813640594482422,1.1621553897857666,0.13451659679412842
-9,Rules of Engagement.,Rules of Engagement,0.001260519027709961,1.266676664352417,0.9630250930786133
-10,"""Don't You Know You're Beautiful""",Don't You Know You're Beautiful,0.0012502670288085938,1.5418972969055176,0.8095719218254089
-11,Inside-out flowers.,plants,0.001220703125,1.2702102661132812,0.4634351134300232
-12,"Keith Urban, Luke Bryan, P. Diddy, Steve Earle, Trisha Yearwood, Tim McGraw, Emmylou Harris, and Blake Shelton.",Shakira,0.0012099742889404297,2.706571340560913,0.18133048713207245
-13,"No, El Centinela is published monthly, but Hour Detroit was published monthly until 2013 when it switched to bimonthly.",yes,0.0012161731719970703,2.469012975692749,0.11289786547422409
-14,I couldn't find any information about James M. Cook's death in the provided context.,"5,141",0.001237630844116211,1.9719126224517822,-0.009407464414834976
-15,Brandon Sanderson.,Brandon Sanderson,0.0012488365173339844,1.3176944255828857,0.9821603298187256
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score
+0,Danny Thomas made his debut at the Copacabana.,Danny Thomas,0.0013346672058105469,2.798412799835205,0.6123099327087402,0.4,0.4
+1,2011.,2011,0.0014719963073730469,1.3198015689849854,0.9571799039840698,1.0,1.0
+2,Oregon.,Oregon,0.001306772232055664,1.125784158706665,0.9635229706764221,1.0,1.0
+3,Elizabeth of York.,Elizabeth of York,0.001209259033203125,1.2746076583862305,0.9840719103813171,1.0,1.0
+4,The Marvel Comics universe.,Marvel Cinematic Universe,0.0012340545654296875,1.3360559940338135,0.8629167079925537,0.5714285714285715,0.5714285714285715
+5,They are both musicians.,singer,0.001230478286743164,1.31585693359375,0.45261693000793457,0.0,0.0
+6,"""Best Music Video – Short Form"" for ""Opposites Attract"".","""Opposites Attract""",0.0012464523315429688,1.8438782691955566,0.675564169883728,0.4,0.4
+7,"No, The Bolshoi was based in London, while Kutless is based in Portland, Oregon.",no,0.0012214183807373047,2.12540864944458,0.1270078867673874,0.13333333333333333,0.13333333333333333
+8,ShoppingTown Mall.,Moonbeam Capital Investments LLC,0.0011813640594482422,1.1621553897857666,0.13451659679412842,0.0,0.0
+9,Rules of Engagement.,Rules of Engagement,0.001260519027709961,1.266676664352417,0.9630250930786133,1.0,1.0
+10,"""Don't You Know You're Beautiful""",Don't You Know You're Beautiful,0.0012502670288085938,1.5418972969055176,0.8095719218254089,1.0,1.0
+11,Inside-out flowers.,plants,0.001220703125,1.2702102661132812,0.4634351134300232,0.0,0.0
+12,"Keith Urban, Luke Bryan, P. Diddy, Steve Earle, Trisha Yearwood, Tim McGraw, Emmylou Harris, and Blake Shelton.",Shakira,0.0012099742889404297,2.706571340560913,0.18133048713207245,0.0,0.0
+13,"No, El Centinela is published monthly, but Hour Detroit was published monthly until 2013 when it switched to bimonthly.",yes,0.0012161731719970703,2.469012975692749,0.11289786547422409,0.0,0.0
+14,I couldn't find any information about James M. Cook's death in the provided context.,"5,141",0.001237630844116211,1.9719126224517822,-0.009407464414834976,0.0,0.0
+15,Brandon Sanderson.,Brandon Sanderson,0.0012488365173339844,1.3176944255828857,0.9821603298187256,1.0,1.0
