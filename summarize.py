@@ -7,51 +7,60 @@ def summarize(path: str):
         rows = csv.reader(csvfile)        
         for row in rows:
             dataset.append(row)
+    
+    data_count = len(dataset)-1
 
     if "rag" in path:
         ir_time_idx = dataset[0].index("ir_time")
         generate_time_idx = dataset[0].index("generate_time")
-        bert_score_idx = dataset[0].index("bert_score")
 
         ir_time_sum = sum([float(row[ir_time_idx]) for row in dataset[1:]])
         generate_time_sum = sum([float(row[generate_time_idx]) for row in dataset[1:]])
-        bert_sum = sum([float(row[bert_score_idx]) for row in dataset[1:]])
         
-        return len(dataset)-1, {
-            "ir_time_sum": ir_time_sum, 
-            "generate_time_sum": generate_time_sum, 
-            "bert_sum": bert_sum
+        time_result = {
+            "ir_time": ir_time_sum, 
+            "generate_time": generate_time_sum
         }
 
     elif "kvcache_noCAG" in path:
         load_knowledge_time_idx = dataset[0].index("load_knowledge_time")
         generate_time_idx = dataset[0].index("generate_time")
-        bert_score_idx = dataset[0].index("bert_score")
         
         load_knowledge_time_sum = sum([float(row[load_knowledge_time_idx]) for row in dataset[1:]])
         generate_time_sum = sum([float(row[generate_time_idx]) for row in dataset[1:]])
-        bert_sum = sum([float(row[bert_score_idx]) for row in dataset[1:]])
         
-        return len(dataset)-1, {
-            "load_knowledge_time_sum": load_knowledge_time_sum, 
-            "generate_time_sum": generate_time_sum, 
-            "bert_sum": bert_sum
+        time_result = {
+            "load_knowledge_time": load_knowledge_time_sum, 
+            "generate_time": generate_time_sum
         }
     
     elif "kvcache_withCAG" in path:
         reset_cache_time_idx = dataset[0].index("reset_cache_time")
         generate_time_idx = dataset[0].index("generate_time")
-        bert_score_idx = dataset[0].index("bert_score")
         
         reset_cache_time_sum = sum([float(row[reset_cache_time_idx]) for row in dataset[1:]])
         generate_time_sum = sum([float(row[generate_time_idx]) for row in dataset[1:]])
-        bert_sum = sum([float(row[bert_score_idx]) for row in dataset[1:]])
         
-        return len(dataset)-1, {
-            "reset_cache_time_sum": reset_cache_time_sum, 
-            "generate_time_sum": generate_time_sum, 
-            "bert_sum": bert_sum
+        time_result = {
+            "reset_cache_time": reset_cache_time_sum, 
+            "generate_time": generate_time_sum
         }
+
+    bert_score_idx = dataset[0].index("bert_score")
+    bert_sum = sum([float(row[bert_score_idx]) for row in dataset[1:]])
+
+    rouge1_score_idx = dataset[0].index("rouge1_score")
+    rouge1_sum = sum([float(row[rouge1_score_idx]) for row in dataset[1:]])
+    
+    rougeL_score_idx = dataset[0].index("rougeL_score")
+    rougeL_sum = sum([float(row[rougeL_score_idx]) for row in dataset[1:]])
+
+    return data_count, {
+        **time_result,
+        "bert_score": bert_sum,
+        "rouge1_score": rouge1_sum,
+        "rougeL_score": rougeL_sum
+    }
         
 if __name__ == "__main__":
     dir_path = "results/new_results/"
@@ -89,65 +98,21 @@ if __name__ == "__main__":
                 #         print(f"[NotMatch {count} != {int(path.split('_')[-3])}]: {path}")
                 
                 total_count = 0
+                total_results = {}
                 
-                if "rag" in method:
-                    ir_time_sum = 0
-                    generate_time_sum = 0
-                    bert_sum = 0
-                    
-                    for path in chosen_path:
-                        count, results = summarize(path)
-                        total_count += count
-                        ir_time_sum += results["ir_time_sum"]
-                        generate_time_sum += results["generate_time_sum"]
-                        bert_sum += results["bert_sum"]
-                    
-                    # write to csv file
-                    with open(target_path, 'a', newline='') as csvfile:
-                        writer = csv.writer(csvfile)
-
-                        writer.writerow(["method", "qa_pairs", "IR_time", "generate_time", "bert_score"])
-                        writer.writerow([method, total_count, ir_time_sum / total_count, generate_time_sum / total_count, bert_sum / total_count])
-                    
-                    # with open(target_path, "a") as f:
-                    #     f.write(f"{method}, qa_pairs: {total_count}, IR_time: {ir_time_sum / total_count}, generate_time: {generate_time_sum / total_count}, bert_score: {bert_sum / total_count}\n")
-
-                elif "kvcache_noCAG" in method:
-                    load_knowledge_time_sum = 0
-                    generate_time_sum = 0
-                    bert_sum = 0
-                    
-                    for path in chosen_path:
-                        count, results = summarize(path)
-                        total_count += count
-                        load_knowledge_time_sum += results["load_knowledge_time_sum"]
-                        generate_time_sum += results["generate_time_sum"]
-                        bert_sum += results["bert_sum"]
-                    
-                    # write to csv file
-                    with open(target_path, 'a', newline='') as csvfile:
-                        writer = csv.writer(csvfile)
-
-                        writer.writerow(["method", "qa_pairs", "load_knowledge_time", "generate_time", "bert_score"])
-                        writer.writerow([method, total_count, load_knowledge_time_sum / total_count, generate_time_sum / total_count, bert_sum / total_count])
+                for path in chosen_path:
+                    count, results = summarize(path)
+                    total_count += count
+                    for key in results:
+                        if key not in total_results:
+                            total_results[key] = results[key]
+                        else:
+                            total_results[key] += results[key]
                 
-                elif "kvcache_withCAG" in method:
-                    reset_cache_time_sum = 0
-                    generate_time_sum = 0
-                    bert_sum = 0
+                with open(target_path, 'a', newline='') as csvfile:
+                    writer = csv.writer(csvfile)
                     
-                    for path in chosen_path:
-                        count, results = summarize(path)
-                        total_count += count
-                        reset_cache_time_sum += results["reset_cache_time_sum"]
-                        generate_time_sum += results["generate_time_sum"]
-                        bert_sum += results["bert_sum"]
+                    writer.writerow(["method", "qa_pairs"] + [key for key in total_results.keys()])
+                    writer.writerow([method, total_count] + [total_results[key] / total_count for key in total_results.keys()])
                     
-                    # write to csv file
-                    with open(target_path, 'a', newline='') as csvfile:
-                        writer = csv.writer(csvfile)
-
-                        writer.writerow(["method", "qa_pairs", "reset_cache_time", "generate_time", "bert_score"])
-                        writer.writerow([method, total_count, reset_cache_time_sum / total_count, generate_time_sum / total_count, bert_sum / total_count])
-
             print(f"{dataset}_{size} is done!")
