@@ -1,0 +1,35 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Jim Davis.,Jim Davis,0.25270915031433105,3.8257439136505127,0.9775093793869019
+1,"George Gershwin died first, on July 11, 1937.",Alban Maria Johannes Berg,0.2515909671783447,3.018686532974243,0.05775207653641701
+2,The Dzungar Khanate.,Dzungar Khanate,0.37238645553588867,2.5131092071533203,0.9224866032600403
+3,I Decided.,I Decided,0.23357486724853516,2.143127679824829,0.8893301486968994
+4,Hoover Dam was originally known as Boulder Dam.,Boulder Dam,0.44792795181274414,2.718679189682007,0.689862847328186
+5,"Magic Kingdom was released to the public first, on October 1, 1971.",Escape to Witch Mountain,0.45879602432250977,2.701530933380127,0.20187801122665405
+6,1968,1937,0.2362072467803955,2.407872200012207,0.4947833716869354
+7,Little Big Town.,Little Big Town,0.2308330535888672,2.138650417327881,0.9837329387664795
+8,Barry Hearn founded the sport event promotions company Matchroom Sport.,Barry Hearn,0.3700385093688965,3.36405873298645,0.5720452666282654
+9,West Coast Eagles' Dean Cox.,West Coast Eagles,0.7835819721221924,2.58292293548584,0.6194601655006409
+10,"coach at the club.
+---------------------
+""CCM"" magazine likened their music to that of Sixpence None the Richer, Jars of Clay and Out of the Grey.
+
+Sixpence None the Richer (album): 
+Sixpence None the Richer is the third album by American band Sixpence None the Richer, released in 1997. It was certified platinum by the RIAA on February 9, 2000 for 1 million certified units in the United States and was nominated for a Grammy Award for Best Rock Gospel Album.
+
+Slint: 
+Slint is an American rock band consisting of Brian McMahan (guitar and vocals), David Pajo (guitar), Britt Walford (drums and vocals), Todd Brashear (bass on ""Spiderland""), and Ethan Buckler (bass on ""Tweez""). They formed in Louisville, Kentucky, United States, in 1986. Slint's first album ""Tweez"" was recorded by engineer Steve Albini in 1987 and released in obscurity on the Jennifer Hartman Records label in 1989. It was followed two years later by the critically acclaimed ""Spiderland"", released on the independent label Touch and Go Records.
+
+My Dear Machine: 
+My Dear Machine is an EP by the Indie pop band Sixpence None the Richer, released on the music website NoiseTrade in summer 2008, although it was discontinued from the site in early 2009. This is the band's first official release in the 4 years since ""The Best of Sixpence None the Richer"" in 2004. ""My Dear Machine,"" ""Sooner Than Later,"" and ""Amazing Grace (Give It Back)"" would later appear on the band's 2012 album, ""Lost in Transition.""
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Rosemary Pauline ""Rose"" West, is a British serial killer, now an inmate at HMP Low Newton, Brasside, Durham, after being convicted of ten murders in 1995, her husband, named what,an English serial killer who committed at least 12 murders between 1967 and 1987 in Gloucestershire, the majority with his wife, committed suicide in prison while awaiting trial?
+        
+        assistant
+         Fred West.",Frederick Walter Stephen West,0.2842702865600586,2.3060097694396973,0.0006300555542111397
+11,Fallen.,Fallen,0.2709205150604248,1.9204840660095215,0.9421401023864746
+12,Sixpence None the Richer.,Sixpence None the Richer,0.3150756359100342,2.4112801551818848,0.9872215986251831
+13,Della Reese,Della Reese,0.3252558708190918,2.2343194484710693,1.0000001192092896
+14,Jeri Ryan,Jeri Lynn Ryan,0.34925079345703125,2.270237684249878,0.920486330986023
+15,Pyotr Ilyich Tchaikovsky.,Pyotr Ilyich Tchaikovsky,0.36753082275390625,2.453627586364746,0.9868729710578918

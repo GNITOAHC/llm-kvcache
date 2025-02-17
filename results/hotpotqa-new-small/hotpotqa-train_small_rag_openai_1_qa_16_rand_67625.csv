@@ -1,0 +1,33 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Bella Thorne.,Bella Thorne,0.27303457260131836,1.8059346675872803,0.9827611446380615
+1,Canada.,Canada,0.29981160163879395,0.336794376373291,0.9222739934921265
+2,"No, Acinos is a genus of plants, while Genii refers to a human culture in the Stargate universe. Cryptocarya is a genus of evergreen trees.",yes,0.35691380500793457,1.61474609375,0.12770125269889832
+3,The Locarno Treaties and the Stresa Front were agreements made to secure the post-WWI territorial settlement and resist any future German aggression.,agreements,0.24175333976745605,1.3806204795837402,0.4092741906642914
+4,Roger Rees.,Roger Rees,0.2697641849517822,0.4101080894470215,0.9766987562179565
+5,Mozart.,George Frideric,0.3069732189178467,0.3335084915161133,0.3366207480430603
+6,"coach, Eliah Golding.
+
+Cleopas Ncube: 
+Cleopas Ncube (born November 21, 1983) is a Canadian wrestler. He finished in 4th place in the 70kg event at the 2014 World Wrestling Championships, losing the bronze medal final to Ali Shabanau of Belarus. He also ranked among the best in several international competitions, including the Dave Schultz International.
+
+1976–77 Los Angeles Kings season: 
+The 1976–77 season was similar to the year before for the Kings. Dionne continued to lead the offense, the defense was unspectacular but solid, but it was a season of roster turnover as some aging veterans departed (e.g. Bob Nevin, Mike Corrigan) and others lost significant time to injuries (Larry Brown, Juha Widing, Sheldon Kannegiesser). Youngsters like Glen Goldup, Lorne Stamler, and Steve Clippingdale struggled although second year defenseman Gary Sargent was solid. The Kings added Dave Schultz (the ""Hammer"") to replace Dan Maloney who left in the Dionne trade for toughness, but it took nearly all season for the roster to jell. In addition, backup goalie Gary Edwards struggled and was eventually traded for Gary Simmons; he was not the answer either, so #1 goalie Rogie Vachon was overworked. The Kings were also stuck behind the Montreal Canadiens who finished an amazing 60–8–12; many say this was the greatest team in NHL history.
+
+Tela O'Donnell: 
+Tela O'Donnell (born July 16, 1982 in Homer, Alaska) is a retired amateur American freestyle wrestler, who competed in the women's lightweight category. She picked up the 2003 U.S. national runner-up trophy in her respective division, and later represented the United States team at the 2004 Summer Olympics in Athens, finishing sixth in the process.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Who was born first Cleopas Ncube or Dave Schultz?
+        
+        assistant
+         Dave Schultz was born on June 6, 1959, and Cleopas Ncube was born on November 21, 1983, so Dave Schultz was born first.",Dave Schultz,0.3916621208190918,1.6801202297210693,0.2672482132911682
+7,Nayanthara.,Nayanthara,0.5235588550567627,0.3851776123046875,0.9822559952735901
+8,The answer is not available in the given context.,Elmer Gantry,0.3973724842071533,0.6476922035217285,0.1024937778711319
+9,Joan Jett.,Joan Jett,0.251971960067749,0.38135814666748047,0.9751888513565063
+10,Miyan Tansen.,Miyan Tansen,0.2974095344543457,0.45598268508911133,0.9840865135192871
+11,Musician and singer.,"singer, songwriter",0.33685803413391113,0.45264768600463867,0.67671799659729
+12,They are both located in China.,China,0.30324769020080566,0.5294601917266846,0.539181113243103
+13,Shanghai is located in the Yangtze River Delta.,Shanghai,0.366527795791626,0.6847336292266846,0.6736035346984863
+14,"Beauvoir in Biloxi, Mississippi.",Beauvoir,0.39115262031555176,0.6096584796905518,0.7408872842788696
+15,Malindo Air.,Malindo Air,0.6527001857757568,0.41150641441345215,0.9801690578460693

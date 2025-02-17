@@ -1,0 +1,30 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,The University of Texas.,University of Texas,2.2694432735443115,2.2308523654937744,0.9613803625106812
+1,Baseball.,Football,0.265932559967041,0.723029613494873,0.669369101524353
+2,They are both film directors.,film director,0.34209489822387695,0.7946975231170654,0.7297666072845459
+3,BBC Two in the UK.,BBC America,0.4268338680267334,0.8358993530273438,0.807603657245636
+4,Peggy Fortnum.,Peggy Fortnum,0.397158145904541,0.6011669635772705,0.9859464168548584
+5,Makoto Kobayashi and Toshihide Maskawa.,Makoto Kobayashi and Toshihide Maskawa,0.9595205783843994,1.1075935363769531,0.984527587890625
+6,1725,1725,0.3601958751678467,0.6777231693267822,1.0
+7,"Hawthornden Castle is closer to Roslin in Midlothian, Scotland.",Roslin Castle,0.22036051750183105,1.3686788082122803,0.6170504093170166
+8,1995.,1995,0.2596890926361084,0.811931848526001,0.9562497138977051
+9,"director of ""Fireproof"" and ""Facing the Giants"".
+
+Ally Sheedy: 
+Alexandra Elizabeth ""Ally"" Sheedy (born June 13, 1962) is an American film and stage actress, as well as the author of two books. Following her film debut in 1983's ""Bad Boys"", she became known as one of the Brat Pack group of actors in the films ""The Breakfast Club"" (1985) and ""St. Elmo's Fire"" (1985). She also acted in ""WarGames"" (1983) and ""Short Circuit"" (1986). For her performance in Lisa Cholodenko's ""High Art"" (1998), Sheedy won the Independent Spirit Award for Best Female Lead.
+
+The Slap (U.S. miniseries): 
+The Slap is an American adaptation of an Australian series of the same name, which is in turn based on the 2008 novel of the same name by Australian author Christos Tsiolkas. The eight installments of the miniseries aired on NBC. Jon Robin Baitz wrote the teleplay for the series and Lisa Cholodenko directed the pilot episode.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What film produced by Ivan Reitman included the song ""For You I will""?
+        
+        assistant
+         Space Jam.",Space Jam,0.28192639350891113,0.6382956504821777,0.15920941531658173
+10,Lake Geneva.,Lake Geneva,0.5892837047576904,0.6722795963287354,0.9680792093276978
+11,Andy Tielman,Andy Tielman,0.2638285160064697,0.724785566329956,1.0
+12,Sony Computer Entertainment.,Sony Computer Entertainment,0.28282618522644043,0.6869852542877197,0.9532026648521423
+13,4 Non Blondes.,4 Non Blondes,0.47855567932128906,0.8208472728729248,0.9893949031829834
+14,Neither.,family,0.22637057304382324,0.7120511531829834,0.17160791158676147
+15,Rob Kaman.,Mr. Low Kick,0.233201265335083,0.6917684078216553,0.2591148018836975

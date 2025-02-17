@@ -1,0 +1,30 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Zendaya.,Bella Thorne,0.00093841552734375,1.7265210151672363,0.12776514887809753
+1,Canada.,Canada,0.0008745193481445312,0.21211767196655273,0.9222739934921265
+2,"No, Acinos is a genus of plants, while Cryptocarya is a genus of evergreen trees.",yes,0.0006308555603027344,0.9650478363037109,0.0827176570892334
+3,The Locarno Treaties and the Stresa Front were agreements aimed at maintaining peace in Europe after WWI.,agreements,0.0007145404815673828,1.030484676361084,0.4527914226055145
+4,"There is no information that a Welsh actor and director stars in the film ""Going Under"".",Roger Rees,0.0007221698760986328,0.8384308815002441,0.12830716371536255
+5,Mozart.,George Frideric,0.0007762908935546875,0.21536684036254883,0.3366207480430603
+6,"coach, Eliah Golding.
+
+Cleopas Ncube: 
+Cleopas Ncube (born November 21, 1983) is a Canadian wrestler. He finished in 4th place in the 70kg event at the 2014 World Wrestling Championships, losing the bronze medal final to Ali Shabanau of Belarus. He also ranked among the best in several international competitions, including the Dave Schultz International.
+
+1976–77 Los Angeles Kings season: 
+The 1976–77 season was similar to the year before for the Kings. Dionne continued to lead the offense, the defense was unspectacular but solid, but it was a season of roster turnover as some aging veterans departed (e.g. Bob Nevin, Mike Corrigan) and others lost significant time to injuries (Larry Brown, Juha Widing, Sheldon Kannegiesser). Youngsters like Glen Goldup, Lorne Stamler, and Steve Clippingdale struggled although second year defenseman Gary Sargent was solid.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Who was born first Cleopas Ncube or Dave Schultz?
+        
+        assistant
+         Cleopas Ncube was born in 1983, and Dave Schultz was not mentioned in the context with a birth year, but in the context with Joe DeMeo, who coached him.",Dave Schultz,0.0006532669067382812,1.6965758800506592,0.19159989058971405
+7,Nayanthara.,Nayanthara,0.0007138252258300781,0.29201769828796387,0.9822559952735901
+8,Elmer Gantry (1960),Elmer Gantry,0.0007646083831787109,0.4502246379852295,0.9009351134300232
+9,Joan Jett.,Joan Jett,0.0006673336029052734,0.27690625190734863,0.9751888513565063
+10,Miyan Tansen.,Miyan Tansen,0.0006334781646728516,0.33202075958251953,0.9840865135192871
+11,Musician and singer.,"singer, songwriter",0.0006148815155029297,0.3286409378051758,0.67671799659729
+12,They are both cities in China.,China,0.0005815029144287109,0.4084486961364746,0.4774954915046692
+13,Shanghai is located in the Yangtze River Delta.,Shanghai,0.000637054443359375,0.5644464492797852,0.6736035346984863
+14,Beauvoir.,Beauvoir,0.0006532669067382812,0.2556028366088867,0.9792536497116089
+15,Malindo Air.,Malindo Air,0.0006020069122314453,0.2918567657470703,0.9801690578460693

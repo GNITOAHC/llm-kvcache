@@ -1,0 +1,33 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,Plautdietsch.,Plautdietsch,0.24379992485046387,2.183243751525879,0.9538913369178772
+1,The American Civil War.,the American Civil War,0.3974940776824951,0.8804130554199219,0.9684512615203857
+2,They are both rappers.,American rapper,0.38657069206237793,0.8447208404541016,0.5992991924285889
+3,The Brooklyn Theatre Fire.,The Brooklyn Theatre Fire,0.37496280670166016,0.8663923740386963,0.99214106798172
+4,"James Wan is directing the upcoming superhero movie that Kurt Johnstad's original screenplay was rejected for, which is Aquaman.",James Wan,0.5015697479248047,1.3698363304138184,0.49356287717819214
+5,Allstate Arena.,Allstate Arena,0.2218000888824463,0.7607243061065674,0.9838777184486389
+6,Howard Hawks was a director and a screenwriter.,Howard Winchester Hawks,0.29749512672424316,1.1077098846435547,0.5240004062652588
+7,"division commander (ADC) of the 101st Airborne Division and was the highest-ranking Allied officer killed on D-Day.
+
+Indian National Army: 
+The Indian National Army (INA; ""Azad Hind Fauj"" ; ""lit."": Free Indian Army) was an armed force formed by Indian nationalists in 1942 in Southeast Asia during World War II. Its aim was to secure Indian independence from British rule. It formed an alliance with Imperial Japan in the latter's campaign in the Southeast Asian theatre of WWII. The army was first formed in 1942 under Mohan Singh, by Indian PoWs of the British-Indian Army captured by Japan in the Malayan campaign and at Singapore. This first INA collapsed and was disbanded in December that year after differences between the INA leadership and the Japanese military over its role in Japan's war in Asia. It was revived under the leadership of Subhas Chandra Bose after his arrival in Southeast Asia in 1943. The army was declared to be the army of Bose's ""Arzi Hukumat-e-Azad Hind"" (the Provisional Government of Free India). Under Bose's leadership, the INA drew ex-prisoners and thousands of civilian volunteers from the Indian expatriate population in Malaya (present-day Malaysia) and Burma. This second INA fought along with the Imperial Japanese Army against the British and Commonwealth forces in the campaigns in Burma, in Imphal and at Kohima, and later against the successful Burma Campaign of the Allies.
+
+SS Red Oak Victory: 
+SS ""Red Oak Victory"" is a U.S. military Victory ship of the ""Boulder Victory""-class cargo ship used in the Second World War. She was preserved to serve as a museum ship in Richmond, California, and is part of the Rosie the Riveter/World War II Home Front National Historical Park. She was one of 534 Victories built during World War II, but one of only a few of these ships to be transferred from the Merchant Marine to the United States Navy. She was named after Red Oak, Iowa, which suffered a disproportionate number of casualties in early World War II battles. (Montgomery County ranked third among Iowa counties in World War II casualties per capita). The ship was active during World War II, the Korean War, and the Vietnam War.
+
+Conscription in the United States: 
+Conscription in the United States, commonly known as the draft, has been employed by the federal government of the United States in four conflicts: the American Civil War, World War I, World War II, and the Cold War (including both the Korean and Vietnam Wars). The third incarnation of the draft came into being in 1940 through the Selective Training and Service Act. It was the country's first peacetime draft. From 1940 until 1973, during both peacetime and periods of conflict, men were drafted to fill vacancies in the United States Armed Forces that could not be filled through voluntary means.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        An effective anti-infiltration barrier, running across South Vietnam deep into Laos, was a grand vision of the US Secretary of Defence who was born in which year?
+        
+        assistant
+         1916",1916,0.2580399513244629,0.7744133472442627,0.15701860189437866
+8,"Bill Condon directed the 2011 American romantic fantasy film ""The Twilight Saga: Breaking Dawn – Part 1"" which starred Robert Pattinson.",Bill Condon,3.293825387954712,1.7740705013275146,0.4144246578216553
+9,The 101st Airborne Division.,United States Army,0.3407721519470215,0.8768939971923828,0.5864249467849731
+10,Jeffrey Sachs.,Jeffrey David Sachs,0.37242746353149414,0.792236328125,0.9365651607513428
+11,Fontana Distribution.,Fontana Distribution,0.3566114902496338,0.7574379444122314,0.9637671709060669
+12,Three Academy Awards.,three,0.24576139450073242,0.8167057037353516,0.4439041018486023
+13,Oddjob.,Oddjob,0.2640249729156494,0.7205994129180908,0.971480667591095
+14,"The Three Mile Island accident, which Wendall Woodbury reported on, was rated a 5 on the 7-point International Nuclear Event Scale, indicating a relatively low level of severity.",the most significant accident,0.22767353057861328,2.3179330825805664,0.3514522314071655
+15,"Morris County, New Jersey.",Morris County,0.22970843315124512,0.9031085968017578,0.834338903427124

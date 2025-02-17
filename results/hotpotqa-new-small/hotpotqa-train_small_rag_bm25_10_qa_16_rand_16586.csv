@@ -1,0 +1,39 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,"""Die Vermessung der Welt""","""Die Vermessung der Welt"" (translated into English by Carol Brown Janeway as ""Measuring the World"", 2006)",0.0013244152069091797,2.8071863651275635,0.7059085369110107
+1,"Rick Leach won more Grand Slams with 5 titles, Michaël Llodra won 3.",Rick Leach,0.0013260841369628906,2.1364006996154785,0.5136629343032837
+2,University of Göttingen.,University of Göttingen,0.001195669174194336,1.4520037174224854,0.9855244755744934
+3,1994.,1 February 1994,0.001218557357788086,1.3509414196014404,0.7586880922317505
+4,Bolliger & Mabillard.,Bolliger & Mabillard,0.0011706352233886719,1.4556562900543213,0.9837570786476135
+5,"Kaitlin Olson, who plays Deandra ""Sweet Dee"" Reynolds on ""It's Always Sunny in Philadelphia"", voiced the character of Destiny in Finding Dory.","Deandra ""Sweet Dee"" Reynolds",0.0012178421020507812,2.8502702713012695,0.6207849979400635
+6,Borussia Dortmund.,"Dortmund, North Rhine-Westphalia",0.0012123584747314453,1.2092773914337158,0.6422228813171387
+7,Martina Hingis.,Martina Hingis,0.0011813640594482422,1.3150403499603271,0.9884171485900879
+8,Roger Vadim.,Roger Vadim Plemiannikov,0.00119781494140625,1.2193961143493652,0.7007331848144531
+9,Yes.,yes,0.0012195110321044922,1.2446894645690918,0.836855947971344
+10,Saturday Night Live.,Saturday Night Live,0.0012195110321044922,1.2871630191802979,0.9659030437469482
+11,Chicago Bears.,Chicago Bears,0.0011670589447021484,1.1973850727081299,0.9733392596244812
+12,"Kurt Cobain was part of more bands, as he was the lead singer of Nirvana, and also played in other bands before forming Nirvana, such as Fecal Matter. Keith Buckley was the vocalist and lyricist of the metalcore band Every Time I Die and the heavy metal supergroup The Damned Things.",Keith Buckley,0.0011477470397949219,4.43455171585083,0.44333744049072266
+13,"director on her father's remake film ""And God Created Woman"". Like her father, she has been involved in directing many films.
+
+Roger Vadim: 
+Roger Vadim Plemiannikov (] ; 26 January 1928 – 11 February 2000) was a French screenwriter, film director and producer, as well as an author, artist and occasional actor. His best-known works are visually lavish films with erotic qualities, such as ""And God Created Woman"" (1956), ""Barbarella"" (1968), and ""Pretty Maids All in a Row"" (1971).
+
+The Long Teeth: 
+The Long Teeth (original title ""Les Dents longues"") is a French comedy drama film from 1953, directed by Daniel Gélin, written by Michel Audiard. It features Danièle Delorme, Louis de Funès, Roger Vadim and Brigitte Bardot. The story is based on Jacques Robert's novel ""Les dents longues"".
+
+And God Created Woman (1956 film): 
+And God Created Woman (French: ""Et Dieu… créa la femme"" ) (1956) is a French drama film directed by Roger Vadim and starring Brigitte Bardot. Though not her first film, it is widely recognized as the vehicle that launched Bardot into the public spotlight and immediately created her ""sex kitten"" persona, making her an overnight sensation.
+
+Robert Z. Leonard: 
+Robert Zigler Leonard (October 7, 1889 – August 27, 1968) was an American film director, actor, producer, and screenwriter.
+
+Don Juan, or If Don Juan Were a Woman: 
+Don Juan, or If Don Juan Were a Woman (French: Don Juan ou Si Don Juan était une femme... ) is a 1973 French-Italian drama film by Roger Vadim.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        For what is the mountain that has Thayer Glacier on the east slopes popular? 
+        
+        assistant
+         Climbing and scrambling.",climbing and scrambling.,0.0011854171752929688,1.3287370204925537,-0.08157365024089813
+14,1983.,1983,0.0012667179107666016,1.2657313346862793,0.9709889888763428
+15,"Sidney Morgan is known for directing British silent films, and William Friedkin is known for directing films like ""The French Connection"" and ""The Exorcist"".",film director,0.0011832714080810547,2.6250598430633545,0.4989801049232483
