@@ -1,0 +1,40 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,45 people.,45,0.0010211467742919922,1.8466796875,0.6310706734657288
+1,Igor Cavalera.,his brother Igor,0.0010356903076171875,0.5178859233856201,0.6511006355285645
+2,New York City.,New York City,0.0008270740509033203,0.4655492305755615,0.9656890034675598
+3,"No, It Might Get Loud was released in 2008, while Casino Jack was released in 2010.",no,0.0007874965667724609,1.2078990936279297,0.17854991555213928
+4,"No, Dorothy Dunnett was Scottish and John Reed was American.",no,0.0008206367492675781,0.8466613292694092,0.12470614910125732
+5,"""Male Unbonding"" is an episode of the TV show ""Seinfeld"", which is often described as being ""a show about nothing"".","""Male Unbonding""",0.0008311271667480469,1.4723997116088867,0.6903938055038452
+6,Northwestern University has more campuses.,Northwestern University,0.0008363723754882812,0.5417108535766602,0.7357144951820374
+7,The 2008 Sugar Bowl.,2008 Sugar Bowl,0.0007886886596679688,0.6386752128601074,0.9679062366485596
+8,David Ige.,David Ige,0.0007526874542236328,0.5004515647888184,0.9854431748390198
+9,the United States.,United States,0.0007994174957275391,0.4682767391204834,0.8440276384353638
+10,"Bauhaus was formed first in 1978, while Superheaven was formed in 2008.",Bauhaus,0.0006930828094482422,1.1683681011199951,0.6167957782745361
+11,San Diego State University.,San Diego State University,0.0008611679077148438,0.5580549240112305,0.9826511144638062
+12,Chris Mandia.,Chris Mandia,0.0008406639099121094,0.470536470413208,0.9795841574668884
+13,Beer.,beer,0.0007374286651611328,0.4183986186981201,0.9033955335617065
+14,American.,American,0.0006651878356933594,0.4118936061859131,0.9135115146636963
+15,AD Alcorcón.,Agrupación Deportiva Alcorcón SAD,0.0007419586181640625,0.5972857475280762,0.5670899748802185
+16,Elektra Records.,Rockingchair Records,0.0007395744323730469,0.539557695388794,0.5081215500831604
+17,DC Comics.,DC Entertainment,0.0007081031799316406,0.4250495433807373,0.7248647212982178
+18,Zan Ganassa.,Zan Ganassa,0.00069427490234375,0.5399229526519775,0.9853762984275818
+19,"Cyananthus has more species, with about 30 species, while Dichroa has 12 species.",Cyananthus,0.0007996559143066406,1.2029616832733154,0.5670092701911926
+20,"None, the text does not mention Jeremy Wertheimer's university affiliation offering free tuition for over 100 years.",Cooper Union,0.0008800029754638672,1.2443392276763916,0.09726045280694962
+21,"Lucie Hradecká won more Grand Slam titles, with 4 titles (2 doubles and 1 mixed doubles and 1 doubles), compared to Betty Stöve's 10 titles (all in doubles and mixed doubles).",Betty Stöve,0.0008642673492431641,2.207198143005371,0.34689924120903015
+22,Kentucky.,Kentucky,0.0007879734039306641,0.3924076557159424,0.9605529308319092
+23,Kauaʻi and Maui.,Maui,0.0008902549743652344,0.7018778324127197,0.7871241569519043
+24,"coaches. The preseason also saw Wales take part in the 2009 European Cup which they ended up winning against Scotland 28–16, from the Crusaders 2010 Squad Jordan James, Ben Flower, Elliot Kear, Lewis Mills and Lloyd White were all named in the Wales squad. The Crusaders also confirmed Wrexhams Racecourse Ground as their new home ground for 2010 they originally planned to play at Newports Rodney Parade but unfortunately they couldn't which meant they had to move their South Wales base 200 miles to North Wales. The Crusaders made a number of high-profile signings during the off season with players such as former Great Britain internationals Jamie Thackray and Gareth Raynor joining the club as well as former NRL player Michael Witt returning to the 13-man code after a 1 ⁄ -year stint with the Otago rugby union club.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        In which year did the team that Jonathan Spector joined in 2006 move to its new home?
+        
+        assistant
+         2010.",2016,0.000843048095703125,0.49570417404174805,0.05004391819238663
+25,NeXT's NeXTSTEP.,NeXT,0.0008790493011474609,0.6157710552215576,0.5570148229598999
+26,"Michael Apted directed the 1988 drama ""Gorillas in the Mist"" starring Sigourney Weaver, not Margaret O'Neill.",Michael Apted,0.0007665157318115234,1.3985252380371094,0.40941405296325684
+27,Aphex Twin.,Richard D James,0.0008914470672607422,0.5083861351013184,0.11309269070625305
+28,Bayern Munich.,Bayern Munich,0.0008885860443115234,0.4573521614074707,0.9738525152206421
+29,"Sean Anders directed the 2008 sex comedy film ""Sex Drive"" for which Leslie Morgenstein is a producer.",Sean Anders,0.0007176399230957031,1.2854139804840088,0.49234139919281006
+30,"They both contain samples from Joan Jett's ""I Love Rock 'n' Roll"".",song,0.0008335113525390625,1.0859556198120117,0.313565194606781
+31,Otto Preminger.,Otto Ludwig Preminger,0.0008649826049804688,0.4717295169830322,0.9098483920097351

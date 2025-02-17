@@ -1,0 +1,52 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,"July 5, 1993.",5 July 1993,0.0011131763458251953,2.2303969860076904,0.9586815237998962
+1,"Tom Meighan is a vocalist for the English rock band Kasabian, while Grant Hart was a drummer and vocalist for the American rock band Hüsker Dü.",is an English musician,0.001154184341430664,2.086596727371216,0.2365483045578003
+2,Jefferson Davis.,Jefferson Davis,0.001092672348022461,0.6128971576690674,0.9722192287445068
+3,2001,1993,0.0008919239044189453,0.6587052345275879,0.6076542139053345
+4,Idrimi.,Idrimi,0.0010225772857666016,0.6773519515991211,0.9800037145614624
+5,8 seasons.,twelve seasons,0.0010039806365966797,0.6854050159454346,0.7729378938674927
+6,I don't see the information about the number of acts in the first performance at the New Theatre.,three,0.0009171962738037109,1.3409414291381836,0.17894983291625977
+7,"Wast Water, Lake District National Park, England.",Wasdale,0.000972747802734375,0.9490692615509033,0.29517102241516113
+8,MGM Resorts International.,MGM Resorts International.,0.0009915828704833984,0.6470146179199219,1.0
+9,German.,German,0.0009553432464599609,0.5660157203674316,0.9494163393974304
+10,The Bell Boeing V-22 Osprey.,Bell Boeing V-22 Osprey,0.0009469985961914062,0.9514353275299072,0.9554838538169861
+11,"Prince Edward, Prince of Wales, is the son of King George V and Queen Mary, but the question is about the son of the former Queen of the United Kingdom, which is Mary of Teck.","Prince George, Duke of Kent",0.0008111000061035156,2.115046262741089,0.5512816309928894
+12,The World's End.,The World's End,0.001081228256225586,0.6934568881988525,0.9603593349456787
+13,Matchroom Sport.,Barry Hearn,0.0009753704071044922,0.6982924938201904,0.22348396480083466
+14,Venetian Snares.,Venetian Snares,0.0009438991546630859,0.7807929515838623,0.98542320728302
+15,Joseph Aloisius Ratzinger.,Joseph Aloisius Ratzinger,0.0010156631469726562,0.8425192832946777,0.985278308391571
+16,a conservative leaning.,a conservative leaning,0.0010802745819091797,0.6799530982971191,0.969386875629425
+17,Nick Records.,Nick Records,0.0010237693786621094,0.6135580539703369,0.984389066696167
+18,1999.,1999,0.0010592937469482422,0.7471756935119629,0.9476619362831116
+19,HomeGoods.,HomeGoods,0.0009493827819824219,0.6482396125793457,0.9839909076690674
+20,Nick Cassavetes is an American actor.,Nicholas David Rowland Cassavetes,0.0009124279022216797,0.8697934150695801,0.6102349758148193
+21,Robert Altman.,Robert Altman,0.001041412353515625,0.6970877647399902,0.981324315071106
+22,Life Begins Again.,Life Begins Again,0.0008881092071533203,0.7002158164978027,0.9178160429000854
+23,The text does not mention Grameen Telecom being located in any of the 13 countries where Telenor owns networks. It only mentions that Grameen Telecom is a company based in Bangladesh.,Bangladesh,0.0008661746978759766,2.1421256065368652,0.3249985873699188
+24,"cheerleading coach to protect a group of college cheerleaders who have witnessed a murder. Much of the film was shot in Austin, Texas on the University of Texas campus. Texas Governor Rick Perry has a cameo appearance in the film as himself. The house used in the film was The Star of Texas Inn.
+
+Life or Something Like It: 
+Life or Something Like It is a 2002 romantic comedy/drama film directed by Stephen Herek. The film focuses on television reporter Lanie Kerrigan (Angelina Jolie) and her quest to find meaning in her life. The original music score was composed by David Newman. The film's taglines are: ""Destiny is what you make of it"" and ""What if you had only 7 days to live?""
+
+Bill Stewart (actor): 
+Bill Stewart (7 December 1942, in Liverpool, Lancashire, England – 29 August 2006 in London) was an English actor best known for his role as Denton Evening News reporter Sandy Longford in the British television programme ""A Touch of Frost"". He also made appearances on ""Z-Cars"" and ""MacGyver"" and had roles in such films as ""101 Dalmatians"" and ""Anna and the King"".
+
+Holy Man: 
+Holy Man is a 1998 American comedy-drama film directed by Stephen Herek, written by Tom Schulman, and starring Eddie Murphy, Jeff Goldblum, Kelly Preston, Robert Loggia, Jon Cryer, and Eric McCormack. The film was a critical and commercial failure.
+
+The Mighty Ducks: 
+The Mighty Ducks is a 1992 American sports comedy-drama film directed by Stephen Herek, starring Emilio Estevez. It was produced by The Kerner Entertainment Company and Avnet–Kerner Productions and distributed by Walt Disney Pictures.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What is the area of the desert in which the Mozabite people live?
+        
+        assistant
+         The Sahara desert.",9200000 km2,0.0009491443634033203,0.6470904350280762,-0.03936585783958435
+25,El Dorado County.,Douglas County,0.001020669937133789,0.7185337543487549,0.4739620089530945
+26,"No, they are not members of the same band.",no,0.0009930133819580078,0.9102590084075928,0.22878044843673706
+27,Hindi.,ten,0.000926971435546875,0.6016993522644043,0.21412606537342072
+28,101 Dalmatians.,101 Dalmatians,0.0010669231414794922,0.8033668994903564,0.9886432886123657
+29,Mary Ingalls.,Mary Ingalls,0.0010714530944824219,0.6862249374389648,0.988976240158081
+30,"62,000.",62.000,0.0009667873382568359,0.7413477897644043,0.9045860767364502
+31,25.,25,0.0010447502136230469,0.6188480854034424,0.9263520240783691

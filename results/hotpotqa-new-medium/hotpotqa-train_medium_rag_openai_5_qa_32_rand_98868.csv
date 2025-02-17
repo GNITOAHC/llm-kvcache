@@ -1,0 +1,46 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,MIT Sloan School of Management.,"Cambridge, Massachusetts",0.2805826663970947,2.8877079486846924,0.4037342369556427
+1,13 March 1989.,13 March 1989,0.31069111824035645,1.275719404220581,0.9766493439674377
+2,"George S. Kaufman began his career earlier, born in 1889, while Jonathan Lethem was born in 1964.",George Simon Kaufman,0.35223388671875,2.1964428424835205,0.46260878443717957
+3,Frances McDormand.,Frances McDormand,0.2864999771118164,1.2250020503997803,0.986555814743042
+4,Leah Meyerhoff and Dee Rees are both directors and screenwriters.,screenwriter and director,0.3021247386932373,1.5268447399139404,0.6689883470535278
+5,Weatherfield.,Weatherfield,0.45931315422058105,1.0731570720672607,0.9683561325073242
+6,"Yes, both were publications.",yes,0.25148439407348633,1.0311312675476074,0.17350061237812042
+7,Ann Wilson of the band Heart.,Ann Wilson,0.7286891937255859,1.2405173778533936,0.8009909391403198
+8,Atlanta.,"88,346",0.5518276691436768,1.1031548976898193,0.015028057619929314
+9,"No, there is no information that suggests they played in the same band.",no,0.4031383991241455,1.5788092613220215,0.164915531873703
+10,Elizabeth Tower.,Elizabeth Tower,0.26506662368774414,0.9970507621765137,0.9834150671958923
+11,University of Queensland.,The University of Queensland,0.30675220489501953,1.150923490524292,0.9651068449020386
+12,The United States Supreme Court.,United States Supreme Court,0.36678051948547363,1.2280056476593018,0.9123281240463257
+13,Sam Brownback.,Samuel Dale Brownback,0.412050724029541,1.2792465686798096,0.7910716533660889
+14,None mentioned in the given context.,poet and composer,0.330902099609375,1.18243408203125,0.11882267147302628
+15,"Neither Paul Claudel nor Ryūnosuke Akutagawa held the same job. Paul Claudel was a poet, dramatist, and diplomat, while Ryūnosuke Akutagawa was a writer.",writer,0.2775557041168213,3.3064534664154053,0.2932458519935608
+16,Gotham magazine.,Gotham,0.230010986328125,1.0998005867004395,0.7541559934616089
+17,Barry Sanders.,Oregon State,0.34401798248291016,1.041788101196289,0.13384196162223816
+18,Steve Kragthorpe.,Steve Kragthorpe,0.23489665985107422,1.2298424243927002,0.9805783629417419
+19,Monte Carlo.,Monte Carlo,0.33171582221984863,1.0368938446044922,0.9799959659576416
+20,Nearly 1.2 billion people speak some form of Chinese as their first language.,Nearly 1.2 billion people,0.31751179695129395,1.5259685516357422,0.5544232726097107
+21,Kmart.,Kmart,0.3407890796661377,1.284247636795044,0.9749334454536438
+22,"No, they are not located in the same country. Rakaposhi is in Pakistan, while Yukshin Gardan Sar is in Pakistan as well.",Karakoram mountain range in Pakistan,0.30252838134765625,2.102846145629883,0.37547674775123596
+23,"Jill Thompson, who has won the Eisner Award.",Eisner Award,0.23585820198059082,1.4612066745758057,0.5999909043312073
+24,Ottawa.,Ottawa,0.26148080825805664,0.936471700668335,0.9709707498550415
+25,"""Easy""",Easy,0.33599376678466797,0.9521505832672119,0.7456756234169006
+26,"at the professional level than Boudreau, who entered his 29th season in 2015. Boudreau’s stellar offensive lines over the years have helped pave the way for five running backs to top the 10,000-yard career rushing mark, including Barry Sanders, Curtis Martin, Thurman Thomas, Fred Taylor and Steven Jackson. This is his second stint with the Rams organization, having previously coached them in the 2006 and 2007 seasons.
+
+Rick Rogers: 
+Rick Rogers (born March 26, 1963) is a former American football running back. He grew up in Inkster, Michigan, and attended Wayne Memorial High School. He played college football for the University of Michigan from 1981 to 1984. As a junior in 1983, he rushed for 1,002 yards on 209 carries for a 4.9 yard average and nine touchdowns. He was selected as a second-team running back on the 1983 All-Big Ten Conference football team. In four years at Michigan, he gained 1,942 yards on 435 carries for an average of 4.5 yards per carry and 16 touchdowns. He had four games in which he rushed for over 100 yards – 124 yards on 19 carries against Washington State on September 10, 1983 (including 62 yards in the fourth quarter); 124 yards on 20 carries against Northwestern on October 15, 1983; 125 yards on 26 carries against Iowa on October 22, 1983; and 139 yards on 27 carries against Northwestern on October 13, 1984.
+
+Jacque Robinson: 
+Jacque Robinson (born March 5, 1963) is an American former professional football player. He played as a running back and was drafted by the Buffalo Bills. During his college career at Washington, Robinson amassed 2,300 career yards. He also earned MVP honors in both the 1982 Rose Bowl and 1985 Orange Bowl. Robinson was the first freshman to win Player of the Game honor at the Rose Bowl.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Which of the two players who scored in the 2010-11 league cup final was born in 1984?
+        
+        assistant
+         Obafemi Martins.",Obafemi Martins,0.5847432613372803,1.409550666809082,0.14823614060878754
+27,Ian Stuart Donaldson.,Ian Stuart Donaldson,0.24739670753479004,0.99639892578125,0.9877579808235168
+28,The Serbian National Defense Council.,National Advisory Committee for Aeronautics,0.3542060852050781,1.3610734939575195,0.3958314061164856
+29,"Chinese Taipei won the most medals in Judo, with 1 silver and 5 bronze.",Puvaneswaran Ramasamy,0.25582051277160645,1.7614378929138184,0.0581730455160141
+30,American.,American,0.3210289478302002,1.1564514636993408,0.9135115146636963
+31,"No, Ween is from the United States and Young Guns is from the United Kingdom.",no,0.3215498924255371,1.817826509475708,0.254311740398407

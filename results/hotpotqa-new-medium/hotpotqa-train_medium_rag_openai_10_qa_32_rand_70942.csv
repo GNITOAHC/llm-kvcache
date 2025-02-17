@@ -1,0 +1,213 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,45 people.,45,0.32573485374450684,3.9159317016601562,0.6310706734657288
+1,His brother Igor Cavalera.,his brother Igor,0.5285739898681641,2.655089855194092,0.8461270928382874
+2,New York City.,New York City,0.2937040328979492,2.5054783821105957,0.9656890034675598
+3,"Yes, Casino Jack and the United States of Money was released in 2010, while It Might Get Loud was released in 2008.",no,0.23674798011779785,4.34876561164856,0.1851271390914917
+4,"No, Dorothy Dunnett was Scottish and John Reed was American.",no,0.2592947483062744,3.0305869579315186,0.12470614910125732
+5,Seinfeld,"""Male Unbonding""",0.5479700565338135,2.340336322784424,0.17590539157390594
+6,Northwestern University has more campuses.,Northwestern University,0.39258694648742676,2.2309234142303467,0.7357144951820374
+7,2007 Hawaii Warriors football team.,2008 Sugar Bowl,0.7686252593994141,2.506687641143799,0.4294019639492035
+8,David Ige.,David Ige,0.30521368980407715,2.5286216735839844,0.9854431748390198
+9,The United States.,United States,0.5419137477874756,2.536120891571045,0.8440276384353638
+10,"Bauhaus was formed in 1978, while Superheaven was formed in 2008.",Bauhaus,0.31858015060424805,3.594531536102295,0.6231739521026611
+11,San Diego State University.,San Diego State University,0.2512335777282715,2.143643379211426,0.9826511144638062
+12,Chris Mandia is the American film maker who is an Iraq War veteran.,Chris Mandia,0.3058488368988037,3.435628652572632,0.6339718103408813
+13,Presidente beer.,beer,0.3119776248931885,2.5106849670410156,0.6710275411605835
+14,American.,American,0.6823885440826416,2.335993766784668,0.9135115146636963
+15,AD Alcorcón.,Agrupación Deportiva Alcorcón SAD,0.42668986320495605,2.4404635429382324,0.5670899748802185
+16,Elektra Records,Rockingchair Records,0.29621410369873047,2.688138723373413,0.5148348808288574
+17,DC Comics.,DC Entertainment,0.27755093574523926,2.462268114089966,0.7248647212982178
+18,"Zan Ganassa introduced the role of Harlequin, which John Rich later popularized.",Zan Ganassa,0.37482690811157227,3.5434796810150146,0.5399909019470215
+19,"Cyananthus has more species, with approximately 30 species, compared to Dichroa's 12 species.",Cyananthus,0.24444317817687988,3.6259424686431885,0.6017777919769287
+20,Cooper Union.,Cooper Union,1.4122791290283203,2.2168891429901123,0.9820348620414734
+21,Lucie Hradecká won more Grand Slam titles.,Betty Stöve,0.32964062690734863,2.9591662883758545,0.20393747091293335
+22,Kentucky.,Kentucky,0.2662770748138428,2.2634780406951904,0.9605529308319092
+23,Kauaʻi and Maui.,Maui,0.25605130195617676,2.4792733192443848,0.7871241569519043
+24,"coaches. The preseason also saw Wales take part in the 2009 European Cup which they ended up winning against Scotland 28–16, from the Crusaders 2010 Squad Jordan James, Ben Flower, Elliot Kear, Lewis Mills and Lloyd White were all named in the Wales squad.
+---------------------
+The Demand Institute: 
+The Demand Institute is a non-profit think tank that focuses on understanding how consumer demand is evolving around the world. The Demand Institute was founded in 2012 by Mark Leiter and Jonathan Spector, and is jointly operated by The Conference Board and Nielsen and is headquartered in New York City.
+
+2010 Crusaders Rugby League season: 
+The preseason saw the Crusaders make a number of changes firstly the Crusaders changed their name from Celtic Crusaders to Crusaders Rugby League then they got rid of previous coach John Dixon and was replaced by Brian Noble as well as gaining Nobles services Iestyn Harris and Jon Sharp joined as assistant coaches. The preseason also saw Wales take part in the 2009 European Cup which they ended up winning against Scotland 28–16, from the Crusaders 2010 Squad Jordan James, Ben Flower, Elliot Kear, Lewis Mills and Lloyd White were all named in the Wales squad. The Crusaders also confirmed Wrexhams Racecourse Ground as their new home ground for 2010 they originally planned to play at Newports Rodney Parade but unfortunately they couldn't which meant they had to move their South Wales base 200 miles to North Wales. The Crusaders made a number of high-profile signings during the off season with players such as former Great Britain internationals Jamie Thackray and Gareth Raynor joining the club as well as former NRL player Michael Witt returning to the 13-man code after a 1 ⁄ -year stint with the Otago rugby union club.
+---------------------
+Liberty Baptist Church (Grooverville, Georgia): 
+Liberty Baptist Church is a historic church built about 1858 in Grooverville, Georgia. It was added to the National Register of Historic Places on August 20, 2013. It is located on Liberty Church Road. There is a Georgia Historical Commission historical marker at the site. According to the marker: ""In 1841 the Ocklochnee anti-Missionary Baptist Association passed a ruling to dismiss members believing in the 'new fangled institutions of the day.'"" One of the excommunicated sisters joined with others in forming the Liberty Baptist Church. The church includes a slave gallery. Freed slaves from the area formed First Elizabeth Church in Grooverville.
+
+Superheaven: 
+Superheaven (formerly known as Daylight) is an American alternative rock band from Doylestown, Pennsylvania, formed in 2008. Their music has been described as reminiscent of 1990s grunge and shoegazing, but Taylor Madison has expressed a dislike for such labels, describing it simply as rock/rock and roll.
+
+Riverbeds (band): 
+Riverbeds is a Canadian post-rock/emo band from Montreal, Qc formed in 2010. The band made its recording debut in 2012 with the EP ""Hiding Small Things In Obvious Places"" which was released on November 24 at Panda Bar. Riverbeds musical style has been described by Indecent Xposure as being influenced by ""Thrice, The Almost and Circa Survive amongst others"". The band shared the stage with both local and international bands, including Daylight (now Superheaven), Tyler Daniel Bean and Stuck On Planet Earth.
+
+Japp–Maitland condensation: 
+The Japp–Maitland condensation is an organic reaction and a type of Aldol reaction and a tandem reaction. In a reaction between the ketone 2-pentanone and the aldehyde benzaldehyde catalyzed by base the bis Aldol adduct is formed first. The second step is a ring-closing reaction when one hydroxyl group displaces the other in a nucleophilic substitution forming an oxo-tetrahydropyran.
+
+Harris, Forbes &amp; Co.: 
+Harris, Forbes & Co. was an investment banking affiliate of Harris Bank incorporated in 1911. Harris, Forbes firm was acquired by Chase Manhattan Bank in 1930 to form Chase Harris, Forbes. Just two years later, in 1932, the firm was dissolved after the passage of the Glass–Steagall Act in 1932. Chase transferred what remained of its securities business to the Bank of Boston's newly formed First Boston Corporation, buttressing that firm's early municipal bond department.
+
+West Bengal Legislative Assembly election, 1967: 
+The West Bengal Legislative Assembly election, 1967 was held in Indian state of West Bengal in 1967 to elect 280 members to the West Bengal Legislative Assembly. United Front led by Ajoy Mukherjee won majority of seats in the election, and formed first non-Congress government of the state.
+
+SV St. Georg: 
+SV St. Georg Hamburg is a German association football club playing in Hamburg. The club was established 3 June 1895 and shares a common origin with ""FC Hammonia Hamburg"": both sides arose out of the students group Seminarvereinigung Frisch-Auf with ""St. Georg"" being formed first on the left bank of the Alster River, and ""Hammonia"" appearing later on the right bank. Like their brother side, ""St. Georg"" was a founding member of the German Football Association (Deutscher Fussball Bund or German Football Association) at Leipzig in 1900. However, while ""Hammonia"" folded after only a short existence, ""St. Georg"" still plays today.
+
+Bauhaus (band): 
+Bauhaus were an English post-punk band, formed in Northampton, England in 1978. The group consisted of Peter Murphy (vocals, occasional instruments), Daniel Ash (guitar), Kevin Haskins (drums) and David J (bass). The band was originally named Bauhaus 1919 in reference to the first operating year of the German art school Bauhaus, although they shortened the name within a year of formation. One of the first gothic rock groups, Bauhaus were known for their dark image and gloomy sound, although they mixed many genres, including dub, glam rock, psychedelia and funk.
+---------------------
+CF Trival Valderas: 
+Club de Fútbol Trival Valderas Alcorcón is a Spanish football team based in Alcorcón, in the Community of Madrid. Founded in 2004, it currently plays in ""Tercera División – Group 7"", holding home matches at ""Estadio La Canaleja"", with a 1,000-seat capacity.
+
+AD Alcorcón: 
+Agrupación Deportiva Alcorcón SAD is a Spanish football team based in Alcorcón, in the autonomous community of Madrid. Founded in 1971, it currently plays in ""Segunda División"", holding home matches at the Municipal de Santo Domingo, with a 6,000 seat capacity.
+
+Vallecas CF: 
+Vallecas Club de Fútbol is a Spanish football team based in Vallecas, Madrid, in the autonomous community of Madrid. Founded in 1967, it plays in Preferente, holding home games at ""Estadio Nuestra Señora de la Torre"", which has a capacity of 2,500 spectators.
+
+Las Rozas CF: 
+Las Rozas Club de Fútbol is a Spanish football team based in Las Rozas de Madrid, in the autonomous Community of Madrid. Founded in 1966 it plays in Preferente, holding home games at ""Estadio Navalcarbón"", which has a capacity of 3,000 spectators.
+
+SD Ciudad de Santiago: 
+Sociedad Deportiva Ciudad de Santiago, S.A.D. was a Spanish football team based in Santiago de Compostela, in the autonomous community of Galicia. Founded in 1978, it played its last season in Tercera División - Group 1, holding home games at ""Estadio Multiusos de San Lázaro"", with a capacity of 13,000 seats.
+
+SD Compostela: 
+Sociedad Deportiva Compostela is a Spanish football team based in Santiago de Compostela, in the autonomous community of Galicia. Founded on 26 June 1962 it plays in Tercera División– Group 1, holding home matches at ""Estadio Multiusos de San Lázaro"".
+
+UD San Sebastián de los Reyes: 
+Unión Deportiva San Sebastián de los Reyes, also known as Sanse is a Spanish football team based in San Sebastián de los Reyes, in the autonomous community of Madrid. Founded in 1971 it plays in Segunda División B – Group 1, holding home matches at ""Estadio Nuevo Matapiñoneras"", with a capacity of 3,000 seats.
+
+Julio Velázquez: 
+Julio Velázquez Santiago (born 5 October 1981) is a Spanish football manager, currently in charge of AD Alcorcón.
+
+CA Pinto: 
+Club Atlético de Pinto is a Spanish football team based in Pinto, in the autonomous community of Madrid. Founded in 1963 it plays in Tercera División – Group 7, holding home matches at ""Estadio Amelia del Castillo"", which has a capacity of 2,500 spectators.The team had beaten Atlético de Kolkata before the rival went on to be 2016 Indian Super League season champions. Pinto had beaten them by 4-3 where Manu Sanchez, Nico Ybarra and Dani Ramos were the goalscorers.
+
+2011–12 Real Valladolid season: 
+The 2011–12 Spanish football season is Real Valladolid's second season in the second level in Spanish football after being defeated 3–2 on aggregate against Elche in La Liga promotion play-off in June 2011. This season will be the 31st of Real Valladolid in the second level in Spanish football. The general coordinator during last season, Chuti Molina, left his work on 14 June, becoming Real Murcia general director. On 17 June, Real Valladolid made official Abel Resino's detachment as he did not renew his contract as team manager. On 4 July, Carlos Suárez announced he had bought 59% of the club shareholding, becoming shareholder of Real Valladolid, and therefore the owner of the entity. At the same time he confirmed that he will not step down as chairman and, from the next day, news about the sporting aspect will be known. Earlier on 6 July, the club became official the incorporation of the Serbian manager Miroslav Đukić for the next 3 seasons. During that day, it also was confirmed that José Antonio García Calvo, general director, left his work.<br>Real Valladolid qualified in 3rd position in Segunda División, behind both Deportivo and Celta de Vigo, with 82 points.
+---------------------
+Arturo Álvarez (footballer, born 1985): 
+José Arturo Álvarez Hernández (born June 28, 1985) is a Salvadoran-American footballer who plays as a winger and forward for Major League Soccer club Chicago Fire.
+
+Chicago Fire Juniors: 
+The Chicago Fire Juniors are the youth club affiliate of the Chicago Fire professional soccer club with branches in Chicago, NW Indiana, West Michigan, Louisiana, Mississippi and Florida. Established in 2004 as the official youth soccer club of Major League Soccer’s Chicago Fire, the Chicago Fire Juniors are the only professionally based youth soccer club in the United States. The technical director of the Juniors is Larry Sunderland, also the head coach of the Chicago Fire Premier PDL team.. For 2009, the Chicago Fire Juniors Boys teams are IL State Cup Champions at U15, U16 and U19.
+
+João Meira: 
+João Diogo Serpa Meira (born 30 April 1987) is a Portuguese professional footballer who plays for American club Chicago Fire Soccer Club as a central defender.
+
+Nemanja Nikolić (footballer, born 1987): 
+Nemanja Nikolić (Serbian Cyrillic:, ] ; Hungarian: ""Nikolics Nemanja"" ] ; born 31 December 1987) is a Yugoslavian-born Hungarian footballer who plays as a striker for Major League Soccer club Chicago Fire. Born in Serbia, but never selected for the Serbian national team, he chose to represent the Hungarian national team instead.
+
+David Arshakyan: 
+David Arshakyan (Armenian: Դավիթ Արշակյան ; born 16 August 1994) is an Armenian footballer who plays for the Major League Soccer club Chicago Fire and the Armenian national team.
+
+Tobias Schweinsteiger: 
+Tobias Schweinsteiger (] ; born 12 March 1982) is a retired German footballer and now assistant manager of the Bayern Munich under-17 team. As player he was deployed as a midfielder or forward. He is the older brother of former German international and Chicago Fire player Bastian Schweinsteiger.
+
+Guillermo Franco: 
+Guillermo Luis Franco Farquarson (born 3 November 1976) is an Argentine-born Mexican former football striker. Franco last played for Major League Soccer club Chicago Fire. He also played for the Mexico national team, until his international retirement in September 2010.
+
+Chicago Fire Soccer Club: 
+Chicago Fire Soccer Club is an American professional soccer club based in the Chicago suburb of Bridgeview, Illinois. The team competes in Major League Soccer (MLS) as a member of the league's Eastern Conference. The franchise is named after the Great Chicago Fire of 1871, and was founded on October 8, 1997, the event's 126th anniversary. The team began play in 1998 as one of the league's first expansion teams. The Fire won the MLS Cup as well as the U.S. Open Cup (the ""double"") on their first season. They also won U.S. Open Cups in 2000, 2003, and 2006, in addition to the 2003 MLS Supporters' Shield.
+
+Lansana Baryoh: 
+Lansana Baryoh (born June 15, 1987 in Kabala, Sierra Leone) is a Sierra Leonean international footballer who is a midfielder and currently plays for Mighty Blackpool, one of the top clubs in the Sierra Leone National Premier League. He is a member of the Sierra Leone national football team. He started his football career with his hometown club the Bintumani Scorpions of Koinadugu in the Sierra Leone National First Division, the second highest football league in the country. He was a member of the Sierra Leone under-17 team that came in second place at the 2003 African Under-17 Championship held in Swaziland. He also a regular for Sierra Leone under-17 team during the 2003 Fifa under-17 World Cup in Finland.
+
+Bastian Schweinsteiger: 
+Bastian Schweinsteiger (] ; born 1 August 1984) is a German professional footballer who plays as a midfielder for Major League Soccer club Chicago Fire. A right-footed player, he usually plays as central midfielder. Earlier in his career, he primarily played as a wide midfielder.
+---------------------
+An early version of the group recorded some demos at Jacksonville Beach studio Music Factory with just Damien Starkey on lead vocal and guitar and Bobby Amaru on drums (with studio owner Michael Ray FitzGerald filling in on bass). The group then moved to Jacksonville's Hole of the Pigeon, where they recorded an impressive set of demos that snagged them immediate major-label interest. The first record executive who showed interest in Burn Season was Flawless Records' Fred Durst, lead vocalist of Limp Bizkit. This led to a strong ""buzz"" in the industry. The members decided to sign with Elektra Records in what was reputedly an obscenely large deal.
+
+Veena Music: 
+Veena Music (Oriental Audio Visual Electronics) is a music label based in Rajasthan, India. It is owned by K. C. Maloo and is headquartered at Jaipur. Since its establishment, it has released many albums in Rajasthani and Hindi languages. and has also acquired music rights of many Rajasthani films.Its main aim is to promote true Rajasthani music in today's music scenario of adulaterated, poor and high-noise music. It was established 25 years ago, and has since been an pioneer in fostering Rajasthani music through its albums and various cultural programmes held across the state and abroad.<br> It is a highly successful and well-known music label in Rajasthan.
+
+J'accuse (album): 
+J'accuse is an album by French singer-songwriter Damien Saez released in 2010 on Wagram Music label.
+
+Saliva (band): 
+Saliva is an American rock band formed in Memphis, Tennessee in 1996. Saliva released their self-titled debut album on August 26, 1997, through Rockingchair Records, a record label owned and operated by Mark Yoshida, who recorded and produced the release at his studio, Rockingchair Studios.
+
+Porta (rapper): 
+Christian Jiménez Bundo (born 2 July 1988 in Barcelona), known as ""Porta"", is a Spanish rapper. He became popular in 2006 through his huge success in social networks, with his demo ""No es cuestión de edades"" (2006) and ""No hay truco"" ( 2007), which were widely disseminated on the Internet, where he broke the record of downloads. Porta won greater popularity by releasing his first album ""En boca de tantos"" (2008). His third album ""Trastorno bipolar"" was released in 2009 but did not have the same sales success as his first LP because it did not have the same promotion. Both albums were released by Universal Music Label group. Over time, Porta had disagreements with his label and ended up resigning his contract on 24 August 2011. His previous work, ""Reset"", was released on 7 May 2012 under the label PIAS Spain. After leaving the Universal Music label, his new album scored a number of sales and was welcomed by the public in a positive way and he gained more followers. His latest album Algo ha Cambiado was released on 10 June 2014 in physical format in Spain and in digital format (on iTunes) worldwide. ""No hay truco"" is Porta's most downloaded album. Porta has about 11 million followers on all his accounts online.
+
+MFS (label): 
+MFS (Masterminded For Success) was an independent electronic dance music label from Berlin, Germany lasting from 1990–2008 (although it has officially never actually folded, it has just stopped releasing music). The label was founded by """"Deutsche Schallplatten Berlin"""" the former GDR record company, which made it the very first independent dance music label of East Germany, until the DSB closed down in 1993. After which, Mark Reeder and Torsten Jurk took MFS and carried on, to launch the careers, and release music, by some of electronic dance music's seminal artists.
+---------------------
+Damien Starkey: 
+Damien Joel Starkey (born October 20, 1982) is an American producer, songwriter, composer, and multi-instrumentalist. He has played many roles in several bands, served as a vocalist for Society Red and Burn Season, bassist for Puddle of Mudd, and he also owns a company called Give 2 Get Music Group in which he is a music supervisor and composer for TV and film music. Damien has scored and wrote music for several TV shows and movies including American Reunion, Nitro Circus Movie, Freeheld, Pawn Stars, Bar Rescue, and Undercover Boss. As a producer he has written for and produced many notable artists including platinum selling bands Saliva, Daughtry and Avril Lavigne. Damien also is a managing partner in the music technology company Songlinkr.
+
+Music of Life: 
+Music of Life is a British independent dance music label formed in 1986 by two influential DJ remixers, Froggy and Simon Harris, managed by Chris France. Following several successful productions, one of which reached No. 3 in the UK pop music charts (The Real Thing's 'You to me are Everything') Harris and Froggy decided to launch their own label, they were offered a label deal by Morgan Khan (Streetwave) and the first release was a remix by the duo of Cerrone's 'Supernature' (his 'Music of Life song was the inspiration for the label name). Within a few months Froggy left the label and Streetwave went out of business. Harris being active in remixing and production for many other artists and labels financed the label with his remix income. After the demise of Streetwave Harris and France decided to re-launch as a British hip-hop (usually UK Hip Hop,) music label. Music of Life opened an office in London's Soho at 22 Hanway Street, Chris France and his sister Michelle spent their days in the busy Soho office whilst Simon could usually be found in his home studio 'The Bunker' producing many of the Music of Life releases.
+
+CLS Music: 
+CLS Music is a Budapest based independent record label, founded in 2002 as CLS Records. In 2010, the company changed its name to ""CLS Music"" to reflect a shift in the company's focus from releasing records to more wide-scope musical management. The company is also a major redistributor of foreign independent and electronic music releases in Hungary. At the end of 2013, the CLS Music label was run by Egység Média Kft, founded by one of the owners of CLS Records in 2008. From the second half of 2013, Egység Média releases music under the Egység Média / CLS Music label. In 2016, Egység Média was one of the 21 labels nominated for the IMPALA FIVEUNDERFIFTEEN campaign shining a light on Europe's most inspiring young labels. The label received the IMPALA Young Label Spotlight Award.
+
+The Karminsky Experience: 
+The Karminsky Experience is a DJ and recording artist duo consisting of James Munns and Martin Dingle. Munns and Dingle began spinning together in small London nightlife locales during the early 1990s, and had a long running, successful circuit of performances, in various night clubs throughout England. Their full-length debut, ""The Power of Suggestion"", was released by the Eighteenth Street Lounge Music label in 2003. They are best known for their LP releases of ""The Power of Suggestion"" and ""Snapshot,"" both of which were put out under the ESL Music label, which was founded by Rob Garza and Eric Hilton of Thievery Corporation. Their newest album, ""Beat!"", was released under a new label, Patterns of Behavior.
+
+Burn Season: 
+Burn Season is an American hard rock band from Jacksonville, Florida, formed in 2001. An early version of the group recorded some demos at Jacksonville Beach studio Music Factory with just Damien Starkey on lead vocal and guitar and Bobby Amaru on drums (with studio owner Michael Ray FitzGerald filling in on bass). The group then moved to Jacksonville's Hole of the Pigeon, where they recorded an impressive set of demos that snagged them immediate major-label interest. The first record executive who showed interest in Burn Season was Flawless Records' Fred Durst, lead vocalist of Limp Bizkit. This led to a strong ""buzz"" in the industry. The members decided to sign with Elektra Records in what was reputedly an obscenely large deal.
+
+Veena Music: 
+Veena Music (Oriental Audio Visual Electronics) is a music label based in Rajasthan, India. It is owned by K. C. Maloo and is headquartered at Jaipur.
+---------------------
+Raynard S. Kington: 
+Raynard S. Kington is the president of Grinnell College. He was most recently deputy director of the National Institutes of Health, and officially became the 13th president of Grinnell College on August 1, 2010. Kington entered a combined B.S./M.D. program at the University of Michigan at age 16, earning his bachelor's degree when he was 19 and the M.D. at 21. He earned an M.B.A. and a Ph.D. in health policy and economics at The Wharton School at the University of Pennsylvania.
+
+David Arseneault: 
+David Michael Arsenault (born August 12, 1953) is the men's college basketball coach of Grinnell College. He invented the Grinnell System, a run-and-gun style employed by the team. He is also an associate professor of physical education on Grinnell's faculty. Arseneault's coaching staff includes his son, David Jr., who also played under his father at Grinnell.
+
+Grinnell College: 
+Grinnell College is a private liberal arts college in Grinnell, Iowa, U.S., known for its rigorous academics and tradition of social responsibility. It was founded in 1846, when a group of New England Congregationalists established the Trustees of Iowa College.
+
+Conard Environmental Research Area: 
+The Henry S. Conard Environmental Research Area (CERA) is a protected environmental research facility at outside Kellogg, Iowa. The 365-acre (148 ha) facility is owned and operated by Grinnell College for class use in the study of ecology and student and faculty research. The preserve is named for Henry S. Conard, a bryologist and ecologist who long served as the chair of the college's Department of Botany. It is located eleven miles from the Grinnell College campus.
+
+Levi P. Grinnell House: 
+The Levi P. Grinnell House is a historic dwelling located in Grinnell, Iowa, United States. Grinnell was one of three brothers from Vermont who settled in Poweshiek County in the 1850s. One of his brothers was Josiah Bushnell Grinnell, a political and social activist who founded the town and Grinnell College. He owned this property from 1857 to 1863, and had the house built about 1860. After he left here he farmed outside of town. The 1½-story frame structure is characteristic of vernacular Greek Revival domestic architecture found in the small towns and the rural areas of the upper Midwest. The house was listed on the National Register of Historic Places in 1979.
+
+Grant O. Gale: 
+Grant Oscar Gale (December 29, 1903 – April 14, 1998) was the S.S. Williston Professor of physics at Grinnell College in Grinnell, Iowa, the curator of Grinnell's Physics Historical Museum, and the namesake of the Grant O. Gale Observatory on the Grinnell campus.
+
+Mears Cottage: 
+Mears Cottage, also known as Mears Hall, is a historic structure located on the Grinnell College campus in Grinnell, Iowa, United States. Originally known as Iowa College, it was the second institution west of the Mississippi River to admit women as students. The first degree was awarded to a woman ten years later. The increase in the number of female students and a destructive tornado that hit the campus in 1882 were the impetus for rebuilding the campus. Edward A. Goodnow, a reformer from Worcester, Massachusetts who promoted public education for women donated the funds to build the cottage-style facility to house female students. It was named for Mary Grinnell Mears, who was the daughter of J.B. and Julia Chapin Grinnell and wife of the Rev. David O. Mears. The building opened on January 1, 1889, with thirty women and a housemother as residents. Each room contained closet space, toilet, medicine cabinet, dresser, study table with attached shelves, chairs, rug and cot. It was the first building on campus with electric lights, installed in the 1890s. New York City architect Charles D. Marvin designed the expansion of the building in 1903, and by 1915 it was connected to other buildings in the women's quadrangle. The building became coed in 1978, and closed the next year because of its deteriorating condition. It sat unused for several years until alumni John H. and Lucile Hanson Harris provided the funds for its renovation. It reopened in 1986. The building was listed on the National Register of Historic Places in 1979.
+---------------------
+1992 San Diego State Aztecs football team: 
+The 1992 San Diego State Aztecs football team represented San Diego State University during the 1992 NCAA Division I-A football season as a member of the Western Athletic Conference (WAC).
+
+San Diego State Aztecs men's basketball: 
+The San Diego State Aztecs men's basketball team is the college basketball program that represents San Diego State University, located in San Diego, California. The school's team currently competes in the Mountain West Conference, and play their home games in Viejas Arena. The team began play in 1921 and have been to 6 NAIA tournaments winning in 1941, 3 NCAA Division II tournaments, 5 NIT tournaments, and 11 NCAA Division I tournaments. Since joining the Mountain West Conference, the Aztecs have won 4 MWC tournaments. Former players who went on to achieve notable success in other areas are Art Linkletter and Tony Gwynn.
+
+1998 San Diego State Aztecs football team: 
+The 1998 San Diego State Aztecs football team represented San Diego State University during the 1998 NCAA Division I-A football season as a member of the Western Athletic Conference (WAC). This was the last season for the Aztecs in the WAC, as they became a charter member of the Mountain West Conference in the 1999 season.
+
+2014 San Diego State Aztecs football team: 
+The 2014 San Diego State Aztecs football team represented San Diego State University in the 2014 NCAA Division I FBS football season. The Aztecs were led by fourth-year head coach Rocky Long and played their home games at Qualcomm Stadium. They were members of the West Division of the Mountain West Conference. San Diego State finished the season 7–6, 5–3 in Mountain West play to finish in a share for first place in the West Division. However, due to Mountain West tiebreaker rules, because of their head to head loss to Fresno State they were not considered division co–champions. They were invited to the Poinsettia Bowl where they lost to Navy 16–17.
+
+1978 San Diego State Aztecs football team: 
+The 1978 San Diego State Aztecs football team represented San Diego State University during the 1978 NCAA Division I-A football season as a member of the Western Athletic Conference (WAC). This was the Aztecs' first season in the WAC.
+
+San Diego State Aztecs baseball: 
+The San Diego State Aztecs baseball team is the college baseball program that represents the San Diego State University. Along with the university's other athletic teams, the baseball team became a member of the Mountain West Conference during the 1999–00 academic year. Previously, the baseball program competed in the Western Athletic Conference. The Aztecs play in Tony Gwynn Stadium, on the SDSU campus in San Diego, California. From 2003 until his death in 2014, Tony Gwynn was the program's head coach.
+
+Viejas Arena: 
+Viejas Arena at Aztec Bowl (formerly named Cox Arena), located on the San Diego State University (SDSU) campus in San Diego, California, is the home of the San Diego State Aztecs men's basketball and women's basketball teams. Viejas Arena opened its doors to the campus and community in July 1997 and seats 12,414 for basketball and up to 12,845 for concerts. The facility also hosts SDSU's commencement ceremonies. Previously, the Aztecs played at Peterson Gymnasium also on the SDSU campus. However, the men's basketball team played most of their home games at the San Diego Sports Arena prior to Viejas Arena's construction.
+
+Western Athletic Conference: 
+The Western Athletic Conference (WAC) is an American collegiate athletic conference formed on July 27, 1962 and affiliated with the National Collegiate Athletic Association (NCAA) Division I. The WAC covers a broad expanse of the western United States, with member institutions located in Arizona, California, New Mexico, Utah, and Washington, along with the ""non-western"" states of Missouri and Illinois (traditionally associated with the Midwest), as well as Texas (traditionally associated with the Southwest).
+
+2012 San Diego State Aztecs football team: 
+The 2012 San Diego State Aztecs football team represented San Diego State University in the 2012 NCAA Division I FBS football season. The Aztecs were led by second-year head coach Rocky Long and played their home games at Qualcomm Stadium. This was San Diego State's 14th season in the Mountain West Conference.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        In which year did the team that Jonathan Spector joined in 2006 move to its new home?
+        
+        assistant
+         2016",2016,0.341123104095459,2.5610034465789795,0.04139310121536255
+25,NeXT.,NeXT,0.5876796245574951,2.469383478164673,0.8592582941055298
+26,"Andrzej Żuławski directed the 1988 drama ""Gorillas in the Mist"" starring Sigourney Weaver, not Margaret O'Neill.",Michael Apted,0.2370131015777588,4.798763275146484,0.2036719024181366
+27,"Richard D. James, also known as Aphex Twin.",Richard D James,0.4198000431060791,3.044527292251587,0.6448643803596497
+28,Bayern Munich.,Bayern Munich,0.47960615158081055,2.8291800022125244,0.9738525152206421
+29,"Leslie Morgenstein is a producer of the 2008 sex comedy film ""Sex Drive"".",Sean Anders,1.3017256259918213,3.9137649536132812,0.2097359299659729
+30,"Both songs contain samples from Joan Jett's ""I Love Rock 'n' Roll"".",song,1.194399356842041,3.7751667499542236,0.4075837731361389
+31,Otto Preminger.,Otto Ludwig Preminger,0.23456048965454102,2.4864578247070312,0.9098483920097351

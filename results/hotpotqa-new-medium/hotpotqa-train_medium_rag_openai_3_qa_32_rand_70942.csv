@@ -1,0 +1,46 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,45 people.,45,0.3329145908355713,2.2224459648132324,0.6310706734657288
+1,Igor Cavalera.,his brother Igor,0.37000083923339844,0.6938858032226562,0.6511006355285645
+2,New York City.,New York City,0.31307530403137207,0.6821799278259277,0.9656890034675598
+3,"Yes, Casino Jack and the United States of Money was released in 2010, while It Might Get Loud was released in 2008.",no,0.40741515159606934,1.8720347881317139,0.1851271390914917
+4,"No, Dorothy Dunnett was Scottish and John Reed was American.",no,0.24396491050720215,0.9763333797454834,0.12470614910125732
+5,"""Male Unbonding"" is an episode of the TV show ""Seinfeld"".","""Male Unbonding""",0.26203441619873047,1.3266963958740234,0.7488530278205872
+6,Northwestern University has more campuses.,Northwestern University,0.3546907901763916,0.786710262298584,0.7357144951820374
+7,2008 Sugar Bowl.,2008 Sugar Bowl,0.42314934730529785,0.6374623775482178,0.9833216667175293
+8,David Ige.,David Ige,0.31737470626831055,0.6306729316711426,0.9854431748390198
+9,The United States.,United States,0.3782322406768799,0.813805341720581,0.8440276384353638
+10,"Bauhaus was formed in 1978, while Superheaven was formed in 2008.",Bauhaus,0.25391530990600586,1.3631768226623535,0.6231739521026611
+11,San Diego State University.,San Diego State University,0.3901987075805664,0.7230994701385498,0.9826511144638062
+12,Chris Mandia is an American film director and Iraq War veteran.,Chris Mandia,0.4265768527984619,1.2334578037261963,0.6846340894699097
+13,Beer.,beer,0.33811283111572266,0.6719024181365967,0.9033955335617065
+14,American.,American,0.28589653968811035,0.6942987442016602,0.9135115146636963
+15,AD Alcorcón.,Agrupación Deportiva Alcorcón SAD,0.28252696990966797,0.7670202255249023,0.5670899748802185
+16,Elektra Records.,Rockingchair Records,0.30182552337646484,0.8281784057617188,0.5081215500831604
+17,DC Comics.,DC Entertainment,0.25997281074523926,0.7424712181091309,0.7248647212982178
+18,"Tristano Martinelli introduced the role of Harlequin, but John Rich popularized it and played it from 1717 to 1760.",Zan Ganassa,0.2544867992401123,1.9986217021942139,0.029440511018037796
+19,"Cyananthus has more species, with approximately 30 species, compared to Dichroa's 12 species.",Cyananthus,0.48212432861328125,1.6454532146453857,0.6017777919769287
+20,Cooper Union.,Cooper Union,0.32956743240356445,0.7109076976776123,0.9820348620414734
+21,"Lucie Hradecká won more Grand Slam titles, with 3 titles, compared to Betty Stöve's 10 titles.",Betty Stöve,0.44606471061706543,1.866539716720581,0.40529897809028625
+22,Kentucky.,Kentucky,0.3488185405731201,0.6947512626647949,0.9605529308319092
+23,Kauaʻi and Maui.,Maui,0.2823615074157715,0.9189801216125488,0.7871241569519043
+24,"coaches. The preseason also saw Wales take part in the 2009 European Cup which they ended up winning against Scotland 28–16, from the Crusaders 2010 Squad Jordan James, Ben Flower, Elliot Kear, Lewis Mills and Lloyd White were all named in the Wales squad.
+---------------------
+The Demand Institute: 
+The Demand Institute is a non-profit think tank that focuses on understanding how consumer demand is evolving around the world. The Demand Institute was founded in 2012 by Mark Leiter and Jonathan Spector, and is jointly operated by The Conference Board and Nielsen and is headquartered in New York City.
+
+2010 Crusaders Rugby League season: 
+The preseason saw the Crusaders make a number of changes firstly the Crusaders changed their name from Celtic Crusaders to Crusaders Rugby League then they got rid of previous coach John Dixon and was replaced by Brian Noble as well as gaining Nobles services Iestyn Harris and Jon Sharp joined as assistant coaches. The preseason also saw Wales take part in the 2009 European Cup which they ended up winning against Scotland 28–16, from the Crusaders 2010 Squad Jordan James, Ben Flower, Elliot Kear, Lewis Mills and Lloyd White were all named in the Wales squad. The Crusaders also confirmed Wrexhams Racecourse Ground as their new home ground for 2010 they originally planned to play at Newports Rodney Parade but unfortunately they couldn't which meant they had to move their South Wales base 200 miles to North Wales. The Crusaders made a number of high-profile signings during the off season with players such as former Great Britain internationals Jamie Thackray and Gareth Raynor joining the club as well as former NRL player Michael Witt returning to the 13-man code after a 1 ⁄ -year stint with the Otago rugby union club.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        In which year did the team that Jonathan Spector joined in 2006 move to its new home?
+        
+        assistant
+         2016",2016,0.42056727409362793,0.6185863018035889,0.04139310121536255
+25,NeXT.,NeXT,0.30823683738708496,0.6505329608917236,0.8592582941055298
+26,"Michael Apted directed the 1988 drama ""Gorillas in the Mist"" starring Sigourney Weaver, not Margaret O'Neill.",Michael Apted,0.4863400459289551,1.739743709564209,0.40941405296325684
+27,"Richard D. James, also known as Aphex Twin.",Richard D James,0.2965884208679199,1.040724515914917,0.6448643803596497
+28,Bayern Munich.,Bayern Munich,0.3709115982055664,0.7922227382659912,0.9738525152206421
+29,"Sean Anders directed the 2008 sex comedy film ""Sex Drive"" for which Leslie Morgenstein is a producer.",Sean Anders,0.5368568897247314,1.6191794872283936,0.49234139919281006
+30,"Both songs contain samples from Joan Jett's ""I Love Rock 'n' Roll"".",song,0.38721656799316406,1.3583438396453857,0.4075837731361389
+31,Otto Preminger.,Otto Ludwig Preminger,0.2631847858428955,0.7558352947235107,0.9098483920097351

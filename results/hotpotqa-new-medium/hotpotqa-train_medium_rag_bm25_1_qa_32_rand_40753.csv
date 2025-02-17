@@ -1,0 +1,46 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,The Twilight Saga: New Moon.,New Moon,0.0007877349853515625,2.065545082092285,0.7647168636322021
+1,"The movie was ""Secretariat"".",Secretariat,0.0009214878082275391,0.41893434524536133,0.6904175281524658
+2,Bob Stoops' Oklahoma team.,Bob Stoops,0.0008122920989990234,0.4177732467651367,0.7083921432495117
+3,Baz Luhrmann.,Baz Luhrmann,0.0007739067077636719,0.3388328552246094,0.9807355999946594
+4,The Cabin in the Woods.,The Cabin in the Woods,0.0006756782531738281,0.3771839141845703,0.9793834686279297
+5,Yes.,yes,0.0005483627319335938,0.17966914176940918,0.836855947971344
+6,There is no information about Barbara Adams being involved in an investigation in the given context.,1990s,0.0005347728729248047,0.7885243892669678,0.05308880656957626
+7,Palembang Light Rail Transit.,2018 Asian Games,0.0006732940673828125,0.4143819808959961,0.09228670597076416
+8,"Burnaby, Surrey, and Vancouver.","Burnaby, Surrey, and Vancouver.",0.0006070137023925781,0.4537680149078369,1.0
+9,God.,God,0.0007565021514892578,0.2578136920928955,0.8392878174781799
+10,"There is no information about the number of downloads of the lead single from ""Over My Head"" as of January 2015.",4.7 million,0.0006084442138671875,1.1651155948638916,0.1322769820690155
+11,There is no information about the winner's birth year in the given context.,1987,0.0007333755493164062,0.7080683708190918,0.2501075267791748
+12,"The film debut of the actress starring in the cult science fiction film ""Attack the Block"" is not mentioned in the given context. However, the context does mention that the film was the film debut of Joe Cornish, John Boyega, and Steven Price.",Venus,0.0007498264312744141,2.1895334720611572,0.03532746806740761
+13,Both Rosario Castellanos and Maurice Blanchot are writers.,writer,0.0007052421569824219,0.6513972282409668,0.4814741015434265
+14,Susie Blake was born on 19 April 1950.,19 April 1950,0.0007150173187255859,0.6543068885803223,0.4742317199707031
+15,"coach with the Carlton Football Club from 2007–2010.
+
+Trent Hentschel: 
+Trent Hentschel (born 25 December 1982) is a former Australian rules footballer, who played in the Australian Football League. He was taken in the 2002 Pre-season Draft at pick No.5. He is a very talented forward known for his excellent strong marking, but suffered a severe knee injury in 2006. Hentschel currently serves as a development coach of the Port Adelaide Football Club at AFL level, and as the forwards coach of Port Adelaide at SANFL level.
+
+Allister de Winter: 
+Allister de Winter (born 12 March 1968, Launceston, Tasmania) is an Australian retired first class cricketer who played for the Tasmanian Tigers from 1986 until 1993. Following his retirement, de Winter pursued a career as a junior development coach. In 2002 he coached the Tasmanian Tigers under-19 side, alongside fellow former Tigers player Michael Farrell. In 2003 the Western Australian Cricket Association employed de Winter as a state development coach. In 2005 de Winter moved to Bangladesh, to take up the position as head coach of the Bangladesh National Cricket Academy and coach of the under-19 Bangladesh cricket team, taking them to a 5th place at the 2006 ICC under-19 World Cup.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Jacob Surjan currently serves as the development coach of a team based in which city?
+        
+        assistant
+         Port Adelaide.",Alberton,0.0007474422454833984,0.25822019577026367,0.11383213847875595
+16,Yes.,yes,0.0006530284881591797,0.21935296058654785,0.836855947971344
+17,Adelaide.,Adelaide,0.0005750656127929688,0.2181251049041748,0.9673576354980469
+18,The question is not accurate. The text does not mention Olympique de Marseille almost winning the French League for the first time in a certain number of years.,11,0.0006849765777587891,1.364980697631836,0.04034797474741936
+19,"""The Marshall Mathers LP 2""",Loud,0.0007727146148681641,0.49553728103637695,0.13952817022800446
+20,Football.,football,0.0006632804870605469,0.21807384490966797,0.9374434351921082
+21,"Irving Stone was born on July 14, 1903, and Tim Rice's birthdate is not mentioned in the context.",Irving Stone,0.0005538463592529297,1.1640448570251465,0.5859154462814331
+22,"No, they are not. Daniela Hantuchová is from Slovakia and Balázs Taróczy is from Hungary.",no,0.0006430149078369141,1.1632606983184814,0.11367100477218628
+23,Social worker.,schoolteacher and dressmaker,0.00072479248046875,0.25865840911865234,0.3301125466823578
+24,Steep Hill in Lincoln.,Steep Hill is a popular tourist street in the historic city of Lincoln,0.0006330013275146484,0.37844181060791016,0.7332584857940674
+25,The Iberian Peninsula.,Iberian Peninsula,0.0007815361022949219,0.38170838356018066,0.9673742055892944
+26,22 matches.,22,0.0007660388946533203,0.3018045425415039,0.5682759881019592
+27,The River Forth.,River Forth,0.0007627010345458984,0.3383140563964844,0.9550043940544128
+28,Jennifer Cody.,actress,0.0006608963012695312,0.26166272163391113,0.6289509534835815
+29,Jayne Meadows.,Jayne Meadows,0.0006213188171386719,0.300140380859375,0.9817037582397461
+30,"Over 13,000 troops.","13,000",0.0006158351898193359,0.41570448875427246,0.5810604095458984
+31,"There is no U.S. Highway that runs from Mexico to New York and goes through Glencoe, Arkansas.",U.S. Route 62,0.0005927085876464844,1.0462043285369873,0.3882167339324951

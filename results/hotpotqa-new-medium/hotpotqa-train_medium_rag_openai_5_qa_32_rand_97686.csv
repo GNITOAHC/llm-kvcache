@@ -1,0 +1,70 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,10 Rillington Place,10 Rillington Place,0.30908679962158203,2.3963096141815186,1.0
+1,"No, they are not.",no,0.2700765132904053,1.0686118602752686,0.24317538738250732
+2,"Sydney, Australia.","Sydney, Australia",0.25174665451049805,1.2649319171905518,0.9770164489746094
+3,Amélie.,Amélie,0.25547170639038086,1.1854095458984375,0.9712657332420349
+4,"No, they have different objectives. Chapayev is a game where the aim is to knock the opponent's pieces off the board, while DVONN is a game where the objective is to accumulate pieces in stacks.",no,0.3871591091156006,3.238823890686035,0.14587581157684326
+5,Manhattan.,Manhattan,0.3286712169647217,1.2310044765472412,0.9729185104370117
+6,"""Don't Give a Monkey's""",Don't Give a Monkey's,0.37972521781921387,1.2156503200531006,0.8353953957557678
+7,Brian Helgeland.,Brian Thomas Helgeland,0.6869161128997803,1.2439019680023193,0.9091106653213501
+8,"Cutchogue, New York. The population was 3,349.","3,349",0.46062135696411133,1.9162845611572266,0.34574222564697266
+9,Michael York.,Michael York,0.622805118560791,1.140308141708374,0.9749830961227417
+10,Yes.,yes,0.241546630859375,0.8471541404724121,0.836855947971344
+11,Rick and Morty.,Rick and Morty,0.4645874500274658,1.0709025859832764,0.9586441516876221
+12,The 1980s.,1980s,0.4068281650543213,1.2848703861236572,0.9273015856742859
+13,"No, they are not both American authors. Annie Dillard is American, but Josephine Tey was Scottish.",no,0.4276442527770996,1.9143106937408447,0.057680778205394745
+14,Long Island and New York City barrier islands.,outer barrier,0.39313626289367676,1.4327218532562256,0.28974127769470215
+15,King Frederick VI of Denmark.,Frederick VI of Denmark,0.3007228374481201,1.0739009380340576,0.9251713752746582
+16,Sydney Pollack.,Sydney Irwin Pollack,0.2962932586669922,1.1231122016906738,0.8591136932373047
+17,"Las Vegas, Nevada.","Las Vegas, Nevada",0.5396766662597656,0.960331916809082,0.9732741713523865
+18,Steve Masiello.,Steve Masiello,0.23027825355529785,1.2572922706604004,0.983454167842865
+19,Lophospermum is a genus of herbaceous perennial climbers or scramblers.,genus of herbaceous perennial climbers or scramblers,0.29526495933532715,1.7540621757507324,0.6886386871337891
+20,The Bear (1988),The Bear,0.37932658195495605,1.207052230834961,0.7310088872909546
+21,"Brown University was founded in 1764, while Pomona College was founded in 1887.",Brown University,0.3134939670562744,1.8550653457641602,0.6072603464126587
+22,Pinus ponderosa.,ponderosa pine,0.25977063179016113,1.072331190109253,0.7078876495361328
+23,Lucas Skinner plays bass for King Gizzard & the Lizard Wizard.,Lucas Skinner,0.5150277614593506,1.7113287448883057,0.5221253633499146
+24,Sicily.,Sicily,0.24564027786254883,1.065331220626831,0.9715990424156189
+25,"Las Vegas, Nevada.",Las Vegas,0.29552221298217773,1.1366386413574219,0.8784288167953491
+26,Santosh Srinivas.,Santosh Srinivas,0.28336548805236816,1.2746553421020508,0.9845297932624817
+27,"The University of Nevada, Reno is located in the United States.","The University of Nevada, Reno",0.2611875534057617,1.6783978939056396,0.8720800876617432
+28,Michael Kelly.,Doug Stamper,0.25437211990356445,1.1332833766937256,0.4249993860721588
+29,33 years.,33,0.2886643409729004,1.2572758197784424,0.6997473835945129
+30,"coach at the University of Connecticut. He then served as a head coach at Union College (1947–1949), Amherst College (1950–1958), and Brown University (1959–1966). While his career at his first two coaching jobs was highly successful, his time at Brown was considered a disappointment as he posted just one winning season in eight years. After his coaching career he became Director of Summer and Special Projects at Brown University and spent a great deal of his time painting before dying on November 28, 2007.
+
+Cal Poly Pomona College of Engineering: 
+The Cal Poly Pomona College of Engineering is the engineering college at California State Polytechnic University, Pomona (Cal Poly Pomona or Cal Poly) located in Pomona, California, United States. Well known for its ""learn by doing"" philosophy, the college's motto is: """"making imagination real"""". Cal Poly has one of the top engineering college among public schools in California and, with over 5,600 students (as of fall 2015), it is also the largest engineering college in Southern California, the second largest college of engineering in the California State University system, and the seventeenth largest engineering college in the United States. In the 2017 ""U.S. News & World Report"" the College of Engineering is ranked the 5th best undergraduate program among public universities (11th overall) in the West for Master's-granting universities, and ""has one of the top ranked engineering programs, and graduates roughly 1 of every 14 engineers in the state of California.""
+
+Claremont Graduate University: 
+Claremont Graduate University (CGU) is a private, all-graduate research university located in Claremont, California, a city 35 mi east of downtown Los Angeles. Founded in 1925, CGU is a member of the Claremont Colleges which includes five undergraduate (Pomona College, Claremont McKenna College, Harvey Mudd College, Scripps College, Pitzer College) and two graduate (CGU and Keck Graduate Institute of Applied Life Sciences) institutions of higher education.
+---------------------
+Pat McCarran: 
+Patrick Anthony McCarran (August 8, 1876 – September 28, 1954) was a Democratic United States Senator from Nevada from 1933 until 1954. McCarran was born in Reno, Nevada, attended the Nevada State University, and was a farmer and rancher. In 1902 he won election to the Nevada Assembly, but in 1904 he was an unsuccessful candidate for the Nevada State Senate. He completed private law studies and was admitted to the bar in 1905; in 1906 he won election as Nye County's district attorney. He served a two-year term, after which he relocated to Reno.
+
+Reno Air: 
+Reno Air was a scheduled passenger airline headquartered in Reno, Nevada, United States. Reno Air provided service from its hubs at Reno/Tahoe International Airport in Reno, Nevada, San Jose International Airport in San Jose, California and Las Vegas International Airport in Las Vegas, Nevada to destinations throughout the western United States, including Alaska. International service to Vancouver, British Columbia in western Canada was also served at one point and limited service was operated to the midwestern U.S. as well. A small stand alone operation was also undertaken at one point in the southeastern U.S. with the service being based in Gulfport, Mississippi. Reno Air was acquired by American Airlines in 1999.
+
+Nevada Wolf Pack baseball: 
+The Nevada Wolf Pack baseball team is a varsity intercollegiate athletic team of the University of Nevada, Reno in Reno, Nevada, United States. The team is a member of the Mountain West Conference, which is part of the National Collegiate Athletic Association's Division I. Nevada's first baseball team was fielded in 1957. The team plays its home games at William Peccole Park in Reno, Nevada. The Wolf Pack are coached by T. J. Bruce.
+
+University of Nevada, Reno: 
+The University of Nevada, Reno (also referred to as Nevada, the University of Nevada or UNR) is a public research university located in Reno, Nevada. Founded October 12, 1874, Nevada is the sole land grant institution for the state of Nevada.
+
+Reno Silver Sox (Golden Baseball League): 
+The Reno Silver Sox were a professional baseball team based in Reno, Nevada, in the United States. They were a member of the North Division of the independent Golden Baseball League, which is not affiliated with either Major League Baseball ""or"" Minor League Baseball. From 2006 to 2008, they played their home games at William Peccole Park, on the campus of the University of Nevada, Reno.
+
+Davidson Academy (Reno, Nevada): 
+The Davidson Academy is a school for profoundly gifted students with two options - an Online High School starting with eighth grade courses for students living anywhere in the United States and a Reno, Nevada public school day school located on the University of Nevada, Reno campus for students living in the area. The school, founded in 2006, is the first public school of its kind in the nation for profoundly gifted (high IQ) students. The Reno public school is located in the Jot Travis Building on the campus of the University of Nevada, Reno. As of the 2017-2018 school year, 149 students attend the Davidson Academy. The Davidson Academy provides each student with a personalized learning plan, designed to give them an education specifically catered to their individual, unique needs. Unlike traditional school settings, the Academy’s classes do not group students by age, but by ability. The school is designed to provide an educational setting where the abilities, strengths, and interests of highly intelligent young people are encouraged and supported. Eligible candidates must score in the 99.9th percentile on accepted intelligence and/or achievement tests; perform at a required academic level; exhibit intellectual and academic achievement; are, or intend to be, residents of Nevada; and other criteria. As ranked by the Washington Post's Jay Mathews, the Davidson Academy is one of the nation's ""Top-performing schools with elite students.""
+
+University of Miskolc: 
+The University of Miskolc (before 1990: ""Technical University of Heavy Industry"") is the largest university of Northern Hungary.
+
+Don D. Fowler: 
+Don D. Fowler is an anthropologist and archaeologist in the southwestern United States. He received his undergraduate degree from the University of Utah and his PhD from the University of Pittsburgh. As a student Fowler worked on the Glen Canyon Project, surveying the canyon for archaeological data before the Glen Canyon Dam was finished being built. The Sundance Archaeological Research Fund is just one of the archaeological projects he has directed in the Great Basin.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        How big is the campus of the University at which Nadine Deleury teaches?
+        
+        assistant
+         Oakland University's campus is 1443 acres.",1443 acre,0.4442925453186035,1.4513306617736816,0.0670081377029419
+31,"2,198.","2,198",0.29720211029052734,1.236642599105835,0.9849185943603516

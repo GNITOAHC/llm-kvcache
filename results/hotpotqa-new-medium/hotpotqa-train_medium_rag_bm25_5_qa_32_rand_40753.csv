@@ -1,0 +1,89 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score
+0,The Twilight Saga: New Moon.,New Moon,0.0011742115020751953,2.263603925704956,0.7647168636322021
+1,Secretariat.,Secretariat,0.0011510848999023438,0.6405596733093262,0.9691455960273743
+2,Bob Stoops.,Bob Stoops,0.0010714530944824219,0.7280788421630859,0.9882563352584839
+3,Baz Luhrmann.,Baz Luhrmann,0.0009660720825195312,0.7763307094573975,0.9807355999946594
+4,The Cabin in the Woods.,The Cabin in the Woods,0.0009391307830810547,0.819709062576294,0.9793834686279297
+5,Yes.,yes,0.0008020401000976562,0.5462210178375244,0.836855947971344
+6,"Barbara Adams, the politician, was involved in the Whitewater scandal trial.",1990s,0.0008218288421630859,1.2645039558410645,0.07612334936857224
+7,"The 2018 Asian Games, commonly known as Jakarta Palembang 2018, had a light rail transit system under construction in Palembang, Indonesia.",2018 Asian Games,0.0010502338409423828,2.150078058242798,0.5461347699165344
+8,"Burnaby, Surrey, and Vancouver.","Burnaby, Surrey, and Vancouver.",0.001020193099975586,0.9189474582672119,1.0
+9,God.,God,0.0011734962463378906,0.6770913600921631,0.8392878174781799
+10,4.7 million.,4.7 million,0.0010077953338623047,0.8266336917877197,0.9826200008392334
+11,1987,1987,0.0009837150573730469,0.659449577331543,1.0
+12,"Jodie Whittaker's film debut was in the 2006 film ""Venus"", but she gained prominence in the 2011 film ""Attack the Block"".",Venus,0.0009360313415527344,2.204275369644165,0.43571150302886963
+13,Both Rosario Castellanos and Maurice Blanchot are writers.,writer,0.001005411148071289,1.1646919250488281,0.4814741015434265
+14,19 April 1950,19 April 1950,0.001020669937133789,0.8230862617492676,1.0000001192092896
+15,"coach with the Carlton Football Club from 2007–2010.
+
+Trent Hentschel: 
+Trent Hentschel (born 25 December 1982) is a former Australian rules footballer, who played in the Australian Football League. He was taken in the 2002 Pre-season Draft at pick No.5. He is a very talented forward known for his excellent strong marking, but suffered a severe knee injury in 2006. Hentschel currently serves as a development coach of the Port Adelaide Football Club at AFL level, and as the forwards coach of Port Adelaide at SANFL level.
+
+Allister de Winter: 
+Allister de Winter (born 12 March 1968, Launceston, Tasmania) is an Australian retired first class cricketer who played for the Tasmanian Tigers from 1986 until 1993. Following his retirement, de Winter pursued a career as a junior development coach. In 2002 he coached the Tasmanian Tigers under-19 side, alongside fellow former Tigers player Michael Farrell. In 2003 the Western Australian Cricket Association employed de Winter as a state development coach. In 2005 de Winter moved to Bangladesh, to take up the position as head coach of the Bangladesh National Cricket Academy and coach of the under-19 Bangladesh cricket team, taking them to a 5th place at the 2006 ICC under-19 World Cup.
+---------------------
+Allister de Winter: 
+Allister de Winter (born 12 March 1968, Launceston, Tasmania) is an Australian retired first class cricketer who played for the Tasmanian Tigers from 1986 until 1993. Following his retirement, de Winter pursued a career as a junior development coach. In 2002 he coached the Tasmanian Tigers under-19 side, alongside fellow former Tigers player Michael Farrell. In 2003 the Western Australian Cricket Association employed de Winter as a state development coach. In 2005 de Winter moved to Bangladesh, to take up the position as head coach of the Bangladesh National Cricket Academy and coach of the under-19 Bangladesh cricket team, taking them to a 5th place at the 2006 ICC under-19 World Cup. He is currently the Assistant Coach of the Tasmanian Tigers, a position he has held since the 2007-08 season.
+
+Paul Corrigan (footballer): 
+Paul Corrigan (born 30 July 1977) is a former Australian rules footballer who played with Geelong in the Australian Football League (AFL). Corrigan currently serves as the development coach at the Essendon Football Club.
+
+Port Adelaide Football Club: 
+The Port Adelaide Football Club is a professional Australian rules football club based in Alberton, Port Adelaide, South Australia. The club's senior team plays in the Australian Football League (AFL) under the nickname Power, whilst its reserves and development teams compete in the South Australian National Football League (SANFL) under the nickname Magpies. Port Adelaide is the oldest professional sporting club in South Australia and the fifth-oldest club in the AFL. Since the club's first game on 24 May 1870, the club has won 36 South Australian league premierships, including six in a row. The club also won the Champions of Australia competition on a record four occasions. In 1997, the club joined the Australian Football League as the only pre-existing non-Victorian club—and subsequently added the 2004 AFL premiership to its achievements.
+
+Luke Webster: 
+Luke Webster (born 25 May 1982) is an Australian rules football coach and former player. He played for Fremantle in the Australian Football League, and currently serves as senior coach of the East Perth Royals in the West Australian Football League and as a development coach at AFL club the West Coast Eagles.
+---------------------
+Port Adelaide is the oldest professional sporting club in South Australia and the fifth-oldest club in the AFL. Since the club's first game on 24 May 1870, the club has won 36 South Australian league premierships, including six in a row. The club also won the Champions of Australia competition on a record four occasions. In 1997, the club joined the Australian Football League as the only pre-existing non-Victorian club—and subsequently added the 2004 AFL premiership to its achievements.
+
+Luke Webster: 
+Luke Webster (born 25 May 1982) is an Australian rules football coach and former player. He played for Fremantle in the Australian Football League, and currently serves as senior coach of the East Perth Royals in the West Australian Football League and as a development coach at AFL club the West Coast Eagles.
+
+Tarkyn Lockyer: 
+Tarkyn Lockyer (born 30 October 1979) is a former professional Australian rules football player who played for the Collingwood Football Club in the Australian Football League (AFL). Lockyer currently serves as the Midfield Development coach at Collingwood, having previously served as the head coach of the Collingwood VFL Football Club.
+
+Lindsay Gilbee: 
+Lindsay Gilbee (born 8 July 1981) is a former Australian rules footballer who played for the Western Bulldogs in the Australian Football League (AFL). He was selected by the Bulldogs in the 3rd round of the 1999 National AFL Draft with pick 43 after playing for the Eastern Ranges in the TAC Cup. He retired after the 2012 season. Gilbee currently serves as a development coach at the St Kilda Football Club.
+---------------------
+It plays a large role in the development of Nigerian soccer, and is considered to be the feeder team for the Nigeria men's national soccer team and is controlled by the Nigeria Football Federation.
+
+U.S. Women's National Team Players Association: 
+The U.S. Women's National Soccer Team Players Association (USWNSTPA) is a labor union representing women soccer players in the United States, including the United States women's national soccer team. In 2016, the union was in a dispute with the soccer league over the end date of the collective bargaining agreement. U.S. Soccer says the agreement goes through the Olympics in Rio de Janeiro. The Players Association maintains it can be terminated at any time. On March 31, 2016, five members of the U.S. Women's National Soccer Team filed a charge with the Equal Employment Opportunity Commission alleging wage discrimination as women soccer players earn less money than players on the men's team.
+
+Caleb Norkus: 
+Joshua Caleb Norkus (born March 14, 1979 in Raleigh, North Carolina) is an American soccer player who currently plays for the National Premier Soccer League club Puerto Rico Bayamón. He played professionally in Germany, Chile, Puerto Rico and the United States. He was a member of the United States U-17 men's national soccer team at the 1995 FIFA U-17 World Championship held in Quito, Ecuador, as well as the United States U-18 men's national soccer team and the United States U-20 men's national soccer team.
+
+Lauren Gregg: 
+Lauren Gregg (born June 20, 1960) is an American soccer coach and retired soccer player who played as a defender for the United States women's national soccer team. She was the first-ever female assistant coach for any of the United States' national teams and was head coach of the United States women's national soccer team in 1997 and 2000. As head coach of the women's soccer team at the University of Virginia from 1986 to 1995, Gregg was the first woman to lead a team to the NCAA Division I Final Four and to be named NSCAA Coach of the Year.
+
+1985 United States women's national soccer team: 
+The 1985 United States women's national soccer team was the first United States women's national soccer team to play international matches.
+---------------------
+Lauren Gregg: 
+Lauren Gregg (born June 20, 1960) is an American soccer coach and retired soccer player who played as a defender for the United States women's national soccer team. She was the first-ever female assistant coach for any of the United States' national teams and was head coach of the United States women's national soccer team in 1997 and 2000. As head coach of the women's soccer team at the University of Virginia from 1986 to 1995, Gregg was the first woman to lead a team to the NCAA Division I Final Four and to be named NSCAA Coach of the Year.
+
+1985 United States women's national soccer team: 
+The 1985 United States women's national soccer team was the first United States women's national soccer team to play international matches. The team played four matches in Jesolo, Italy, at the Mundialito tournament, losing three and drawing one of the matches.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Jacob Surjan currently serves as the development coach of a team based in which city?
+        
+        assistant
+         Port Adelaide.",Alberton,0.001008749008178711,0.6103992462158203,0.11383213847875595
+16,Yes.,yes,0.0009887218475341797,0.5411920547485352,0.836855947971344
+17,Adelaide.,Adelaide,0.0009417533874511719,0.5592567920684814,0.9673576354980469
+18,11 years.,11,0.001016378402709961,0.7229478359222412,0.583472490310669
+19,"""Recovery""",Loud,0.0008804798126220703,0.7182586193084717,0.23066134750843048
+20,Football.,football,0.0008878707885742188,0.5608434677124023,0.9374434351921082
+21,"Irving Stone was born on July 14, 1903, and Tim Rice was born on November 10, 1944.",Irving Stone,0.0008215904235839844,1.7943596839904785,0.5500578284263611
+22,"No, they are not. Daniela Hantuchová is from Slovakia and Balázs Taróczy is from Hungary.",no,0.0009992122650146484,1.8011622428894043,0.11367100477218628
+23,Doctor.,schoolteacher and dressmaker,0.0010035037994384766,0.6090483665466309,0.15099668502807617
+24,"Steep Hill in Lincoln, Lincolnshire, England.",Steep Hill is a popular tourist street in the historic city of Lincoln,0.0009799003601074219,1.074784278869629,0.664452314376831
+25,The Iberian Peninsula.,Iberian Peninsula,0.001001119613647461,0.8250150680541992,0.9673742055892944
+26,22 matches.,22,0.0010433197021484375,0.6809582710266113,0.5682759881019592
+27,The River Forth.,River Forth,0.0009772777557373047,0.7379677295684814,0.9550043940544128
+28,Jennifer Cody.,actress,0.0010540485382080078,0.6777591705322266,0.6289509534835815
+29,Jayne Meadows.,Jayne Meadows,0.0009436607360839844,0.7241952419281006,0.9817037582397461
+30,"Over 13,000 troops.","13,000",0.0009708404541015625,0.8750717639923096,0.5810604095458984
+31,U.S. Route 62.,U.S. Route 62,0.0009365081787109375,0.8726682662963867,0.9787873029708862
