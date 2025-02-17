@@ -55,11 +55,15 @@ def summarize(path: str):
     rougeL_score_idx = dataset[0].index("rougeL_score")
     rougeL_sum = sum([float(row[rougeL_score_idx]) for row in dataset[1:]])
 
+    gpt_score_idx = dataset[0].index("gptscore")
+    gpt_sum = sum([float(row[gpt_score_idx]) for row in dataset[1:]])
+
     return data_count, {
         **time_result,
         "bert_score": bert_sum,
         "rouge1_score": rouge1_sum,
-        "rougeL_score": rougeL_sum
+        "rougeL_score": rougeL_sum,
+        "gpt_score": gpt_sum
     }
         
 if __name__ == "__main__":
