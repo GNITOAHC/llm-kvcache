@@ -1,0 +1,34 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, The Cape Colony.,Cape Colony,0.3058891296386719,23.6036343574524,0.9471240043640136,0.8,0.8,"The eight part British television series ""Rhodes"" is based on the life of a man who was Prime Minister of what then-British colony?",1
+1, Shin Ha-kyun,Shin Ha-kyun,0.3622603416442871,23.762382984161377,1.0000001192092896,1.0,1.0,Oh Jung-se had a part in the 2013 South Korean action film starring whom?,1
+2, Bayern Munich,Porto,0.3536646366119385,23.115232706069943,0.5006292462348938,0.0,0.0,Which team won the European Cup Final in which Helmut Winklhofer played ?,0
+3, 1937,1937,0.3497381210327148,23.365763187408447,1.0,1.0,1.0,Tom Powers appeared as Brutus in an adaptation of a William Shakespeare play that was first produced in what year?,1
+4," 1,200","1,200",0.366241455078125,23.642455101013184,1.0,1.0,1.0, West Edmonton Mall is  the tenth largest in the world along with a mall that includes how many shops?,1
+5, United States,United States,0.3567726612091064,23.1358540058136,1.0000001192092896,1.0,1.0,Where is the owner of Next big sound provides analytics for online music available?,1
+6, Hobart,Hobart,0.3494782447814941,23.09991788864136,1.0,1.0,1.0,What Australian capital was host to the 1945 TANFL season?,1
+7, 2002,2002,0.3622536659240722,23.28978419303894,1.0,1.0,1.0,In what year did the last fluent speaker of the language spoken by the Okehocking Tribe die?,1
+8, Nicolas Cage.,David Diamond,0.3623075485229492,23.419739723205566,0.2734036743640899,0.0,0.0,Which American Screenwriter utilized Saturn Films for the production of The Family Man? ,0
+9, Yiddish,Italian,0.3572783470153808,23.355005741119385,0.3716312944889068,0.0,0.0,Tosca starred the tenor who was of what nationality?,0
+10, Wilfrid Brambell,Henry Wilfrid Brambell,0.3678176403045654,23.76835036277771,0.8917086124420166,0.8,0.8,"What is the name of this Irish film and television actor from the film ""A Hard Day's Night"", who also acted in ""Never Say Die""?",1
+11, No.,no,0.3609614372253418,23.121824741363525,0.8128341436386108,1.0,1.0,Are Chris Marker and Yvonne Rainer American?,0
+12, The east bank.,east bank,0.3540334701538086,23.57698392868042,0.9471474289894104,0.8,0.8,"On what bank of Jed Water is the castle near Abbotrule, Scotland, that was restored by Peter Kerr?",1
+13, UK.,UK-based,0.3434081077575683,23.14008855819702,0.5818777680397034,0.6666666666666666,0.6666666666666666,The Stud is a 1978 British film staring a Swiss-born actor and director who is based where?,1
+14," ""God and my right""",God and my right,0.3472661972045898,23.95055246353149,0.7431830763816833,1.0,1.0,What is the meaning of the motto of the monochary of the United Kingdom which is commonly referred to as the British monarchy?,1
+15, Malaysia,Malaysia,0.363192081451416,22.898335456848145,1.0000001192092896,1.0,1.0,The Aerotrain is an automated transport network that moves people around the main international airport of which Asian country?,1
+16, Marcus Rashford,Marcus Rashford,0.3664824962615967,23.316869735717773,1.0000001192092896,1.0,1.0,"The ""Nike Hypervenom"" is endorced by which Manchester United forward?",1
+17, 204 BC,204 BC,0.3537721633911133,23.371739387512207,1.0000001192092896,1.0,1.0,"What was the establishment date of this ancient kingdom that was annexed during the Southward expansion of the Han Dynasty, and consisted of the commanderies Nanhia, Guilin, and Xiang?",1
+18, Tony Hoare,Tony Hoare,0.360769510269165,23.39847993850708,1.000000238418579,1.0,1.0,Which British commputer scientist developed an algorithm for sorting strings in 1959/1960?,1
+19, Frank Beyer (1932-2006) was older than Jocelyn Moorhouse (born 1960).,Frank Paul Beyer,0.3466839790344238,28.032572984695435,0.6110357046127319,0.2857142857142857,0.2857142857142857,"Which director is older, Frank Beyer or Jocelyn Moorhouse?",1
+20, The Montreal Expos.,Montreal Expos,0.379887580871582,23.796772003173828,0.9681159257888794,0.8,0.8,"What National League East Division baseball team had a pitcher that grew up in RIalto, California?",1
+21, Han Seung-yeon,Ross Shor Lynch,0.3524339199066162,24.010661602020264,0.2036493569612503,0.0,0.0,Who has had success in multiple forms of entertainment Han Seung-yeon or Ross Lynch?,0
+22," Q1: Prudential Financial. 
+Q2: Prudential Financial.",Prudential Financial.,0.3582320213317871,26.464995861053467,0.7144574522972107,0.5,0.5,"Q1: Who has operations in more countries, Jackson National Life or Prudential Financial? A1: Prudential Financial. Q2: Who provides more services, Jackson National Life or Prudent Financial? A2: Prudent Financial.",1
+23, The Orange Box,The Orange Box,0.3523812294006347,23.325310945510864,1.0,1.0,1.0,What video game package included a game featuring the character GLaDOS?,1
+24, The Biggest Loser UK,Lost,0.3626961708068847,23.83097815513611,0.5143800973892212,0.0,0.0,"Which American drama television series that originally aired on the American Broadcasting Company (ABC),  comprising a total of 121 episodes, included a fictional character who was played by Ian Somerhalder? ",0
+25, British,Northern Irish,0.3471970558166504,22.907819271087646,0.4882438480854034,0.0,0.0,Last in Line reunited in 2010 with the guitarist who was of what nationality?,0
+26, Yes.,yes,0.3533778190612793,23.15717601776123,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+27, 2010 and 2011.,2011,0.3650305271148681,24.42328953742981,0.8522845506668091,0.5,0.5,"Ikemen desu ne, released in which year, is a Japanese television series, it is the Japanese remake of the Korean musical romantic comedy television drama ""You're Beautiful""?",0
+28, Yes.,no,0.368088960647583,23.0813045501709,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0
+29, The Birds,The Birds,0.3660798072814941,23.10390520095825,1.0,1.0,1.0,What film directed by Alfred Hitchcock in 1963 had a sequel made for television in 1994?,1
+30, Film director.,film director and screenwriter,0.3592705726623535,23.39208984375,0.8304933309555054,0.6666666666666666,0.6666666666666666,"Erick Zonca and Sally Potter, have which mutual occupations?",0
+31, Hilo International Airport,Hilo International Airport,0.3597421646118164,23.54596996307373,1.0,1.0,1.0,"Which airport Airport serves most of East Hawai, Logan International Airport and Hilo International Airport?",1

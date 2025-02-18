@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,Guatemala.,Guatemala,0.0011816024780273,1.816628694534301,0.9637786149978638,1.0,1.0,"Which country did Laura Godoy represent in the pageant held on 19 December 2012 at The AXIS, Las Vegas, Nevada, United States?",1
+1,Los Angeles.,Los Angeles,0.001061201095581,0.6407935619354248,0.9625944495201112,1.0,1.0, The 12th Annual Honda Civic Tour was a concert tour headlined by an American pop rock band that originated in what city?,1
+2,MGM.,Mercury Records,0.0009787082672119,0.5646865367889404,0.2925162315368652,0.0,0.0,The Vamps released their debut single Can We Dance on what music label?,0
+3,Apocalypto.,Apocalypto,0.0009772777557373,0.677478551864624,0.9785970449447632,1.0,1.0,What film with actor Israel Contreras used the Yucatec Maya language?,1
+4,Michelle Kwan.,Michelle Kwan,0.0010108947753906,0.6867814064025879,0.9854490160942078,1.0,1.0,"Artesia, is a city in southeast Los Angeles County, California, and the home of the East West Ice Palace, an ice rink which is co-owned, by which retired figure skater ?",1
+5,Brother Bear.,Brother Bear,0.0009701251983642,0.639538049697876,0.975290298461914,1.0,1.0,What was the last movie that Barry Kooser worked as a background artist for?,1
+6,1965.,1963,0.0009496212005615,0.6427733898162842,0.7095504999160767,0.0,0.0,Kenlake State Resort Park is part of a United States National Recreation Area that was designated a national recreation area by President John F. Kennedy in what year?,0
+7,Neal Avron.,Neal Avron,0.0009539127349853,0.6440181732177734,0.9861570596694946,1.0,1.0,"Who was the producer of 2008 album ""Folie à Deux""?",1
+8,Leicestershire.,Leicestershire,0.0009365081787109,0.6853773593902588,0.9709535837173462,1.0,1.0,What region of England did the 1990 480 km of Donington  take place?,1
+9,Churros.,churro,0.0009896755218505,0.6809141635894775,0.8981993198394775,1.0,1.0,"Based in Span and Portugal, which tasty breakfast snack features sprinkled sugar and a mixture of ground cinnamon?",1
+10,"No, neither Clap Your Hands Say Yeah nor Joywave are country music bands. They are both indie rock bands.",no,0.0009713172912597,1.4262819290161133,0.1584180295467376,0.1,0.1,Are Chris Marker and Yvonne Rainer American?,0
+11,"London, England.","London, England",0.0009498596191406,0.646735429763794,0.9752042889595032,1.0,1.0,"The magazine that voted Right Here, Right Now as the tenth-greatest dance record of all time is published where?",1
+12,"The Wolfgang Press was formed first, in 1983.",The Wolfgang Press,0.000931978225708,0.9317970275878906,0.7456173896789551,0.5454545454545454,0.5454545454545454,"Which band was formed first, The Wolfgang Press or Powerman 5000?",1
+13,Japan.,Japan,0.0009517669677734,0.5875134468078613,0.9373642802238464,1.0,1.0,"MiG Pilot: The Final Escape of Lieutenant Belenko is a 1980 biography by John Barron about the life and 1976 defection of which Soviet Mikoyan-Gurevich MiG-25 fighter pilot, who defected to the West while flying his MiG-25 'Foxbat' jet fighter and landed in Hakodate, in which country?",1
+14,The House of Schleswig-Holstein-Sonderburg-Glücksburg.,George I,0.0011136531829833,1.171673059463501,0.128988891839981,0.0,0.0,James Hudson belongs to an order created by what monarch?,0
+15,"No, ASOS.com is based in the UK, while Darling magazine is based in the US.",no,0.0009324550628662,1.215019941329956,0.1726221442222595,0.1176470588235294,0.1176470588235294,Are Chris Marker and Yvonne Rainer American?,0

@@ -1,0 +1,136 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,Cannes Film Festival.,Cannes Film Festival,0.0010857582092285,2.0496418476104736,0.9758018851280212,1.0,1.0,Which 2005 film festival screened out of competition the film that depicted the unofficial ceasefires along the Western Front of World War I around Christmas 1914?,1
+1,Memorial City Mall.,Memorial City Mall,0.0012989044189453,0.7129194736480713,0.96672785282135,1.0,1.0,What is one of Houston's most popular malls and was to be superseded by Town & Country Mall?,1
+2,Szombathelyi Haladás,Szombathelyi Haladás,0.0010652542114257,0.8704063892364502,1.0,1.0,1.0,"Ahmad Khormali, who plays goalkeeper, wears pyjama-like tracksuit bottoms to honor another goalkeeper who plays for what team?",1
+3,Jamal Crawford.,Jamal Crawford,0.0011162757873535,0.6141982078552246,0.9808062314987184,1.0,1.0,"Who is the American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA), that previously was traded by the Chicago Bulls to the New York Knicks?",1
+4,Yes.,yes,0.0009357929229736,0.5652601718902588,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+5,"Jaroslav Seifert was from Czechoslovakia (now Czech Republic), which is in Eastern Europe, while Timothy Leary was from the United States, which is in North America, making Leary from farther West.",Timothy Francis Leary,0.0009324550628662,2.2909090518951416,0.5650858879089355,0.1176470588235294,0.1176470588235294,"Who has more scope of profession,  Arnold Bennett or Timothy Leary?",0
+6,Dan Bilzerian.,Brandon,0.0009634494781494,0.6886992454528809,0.3887110352516174,0.0,0.0,Extraction is a 2015 American action-thriller film starring an american professional poker player whose middle name is what?,0
+7,Walt Disney Productions.,Walt Disney,0.000950813293457,0.6773507595062256,0.8660064935684204,0.8,0.8,Who produced The Shaggy D.A. and Tarzan?,1
+8,"October 1, 2017.","October 1, 2017",0.0008044242858886,0.8550271987915039,0.9820065498352052,1.0,1.0,When did the series premier in which Blake Lee plays Josh Novak?,1
+9,The Bling Ring.,The Bling Ring,0.0010418891906738,0.7448458671569824,0.9865915775299072,1.0,1.0,Claire Julien had a leading role in which 2013 satirical crime film?,1
+10,Sympathy for Mr. Vengeance.,Sympathy for Mr. Vengeance,0.0010507106781005,0.8991918563842773,0.9880066514015198,1.0,1.0,Master of Study starred the actress who had a role as a political activist in what 2002 film?,1
+11,Macbeth.,"""Macbeth""",0.0010888576507568,0.6600558757781982,0.9154202938079834,1.0,1.0,"What Shakespearean play has a pair of brothers where one inherits the throne, and the other flees to Ireland after their father's murder?",1
+12,World War I.,World War II,0.0011556148529052,0.7038366794586182,0.7649798393249512,0.6666666666666666,0.6666666666666666,"Battle of Tarawa and Operation Overlord, occurred during which event?",0
+13,Vijay Iyer released an album on the Red Giant label.,Vijay Iyer,0.0010051727294921,1.072556972503662,0.6214116215705872,0.3333333333333333,0.3333333333333333,Which MacArthur Fellow released an album on the Red Giant record label?,1
+14,Jeff Wincott is older than Michael Wincott.,Jeffrey Wincott,0.0008704662322998,0.9505040645599364,0.7006030678749084,0.2222222222222222,0.2222222222222222,"Which brother is older, Jeff Wincott or Michael Wincott?",1
+15,Al Bano.,Albano Carrisi,0.0009496212005615,0.6969621181488037,0.4879525899887085,0.0,0.0,What Albanian citizen sings in both Italian and Spanish?,1
+16,SpongeBob SquarePants.,Stephen Hillenburg,0.0008559226989746,0.7328007221221924,0.170234739780426,0.0,0.0,"This CarniK Con meme development, involving duct tape, was based on an animated Nickelodeon series created by what marine biologist?",0
+17,English.,English,0.0009431838989257,0.6000657081604004,0.9305142164230348,1.0,1.0,What language is spoken at both Lipscomb University and University of Debrecen?,1
+18,Fox Sports 1.,Fox Sports 1,0.0009284019470214,0.6705203056335449,0.9868631958961488,1.0,1.0,"MLB Whiparound with Kenneth H. ""Ken"" Rosenthal airs on what network?",1
+19,Uhrichsville.,Uhrichsville,0.000962495803833,0.6868977546691895,0.9861499667167664,1.0,1.0,U.S. Route 136 in Nebraska is a spur route of the US Route that has an eastern terminus in what Ohio city?,1
+20,London Eye.,London Stansted Airport,0.0009055137634277,0.6589412689208984,0.4315158128738403,0.4,0.4,"While the British structural engineer Jane Wernick worked with Arup, she was involved in this project that is located at Stansted Mountfitchet?",0
+21,"The Quiet Family (South Korean film) was released in 1998, while Nila Pennae (Indian Tamil film) was released in 1990.",South Korean comedy horror film.,0.0009486675262451,1.8770112991333008,0.4185861945152282,0.24,0.24,"Which film was released first, the South Korean film or the Indian Tamil film?",0
+22,Tennis.,tennis,0.0011444091796875,0.5734748840332031,0.9499958753585817,1.0,1.0,Which sport do both John Austin and Todd Woodbridge play?,1
+23,Cantinflas and David Niven.,Cantinflas and David Niven,0.0010344982147216,0.9025053977966307,0.9820008277893066,1.0,1.0,James Poe worked on the 1956 movie that starred which actors?,1
+24,"West Chester, Pennsylvania. The population is 18,461.","18,461",0.001039981842041,1.031562328338623,0.4121822714805603,0.4,0.4,What is the population of the city that WC East is located in?,1
+25,"""Running with Scissors"" (2006) earned an ALMA Award for Andy García.",Andy García,0.0010979175567626,1.3231446743011477,0.6119982004165649,0.4,0.4,Joseph Michael Cross starred in an American action thriller film which earned who an ALMA Award?,0
+26,Tim Burton.,Tim Burton,0.0009922981262207,0.6565587520599365,0.97327983379364,1.0,1.0,"Who directed the 1989 film on which ""Batman: The Ride"" is thematically based?",1
+27,"Yes, both Peter Furler and Amy Lee are songwriters.",yes,0.0009746551513671,1.1155169010162354,0.2237891852855682,0.1999999999999999,0.1999999999999999,Can Fraxinus and Onoclea both be found in North America?,0
+28,The Life of Birds (1998) was released before Genghis Blues (1999).,The Life of Birds,0.0009186267852783,1.3169841766357422,0.5542637705802917,0.5333333333333333,0.5333333333333333,"Which documentary was released first, The Life of Birds or Genghis Blues?",1
+29,1952,1952,0.0009956359863281,0.6163301467895508,0.9999999403953552,1.0,1.0,Andrew Brackman is represented by a sports agent born in which year ?,1
+30,"in 1981, Garrin eventually emerged as one of the important collaborators of video art superstar Nam June Paik, working closely from 1982 to 1996.
+
+John Merrick (insurance): 
+John Merrick (1859–1919) was an African-American entrepreneur whose life represents a rags-to-riches story. Born into slavery in Clinton, North Carolina, Merrick relied on his social savvy, entrepreneurial spirit, and inner drive to achieve great personal wealth by founding various companies in the Raleigh, North Carolina and Durham, North Carolina areas, most notably the North Carolina Mutual Life Insurance Company. Portions of his wealth were channeled back into the black community through philanthropy. John Merrick was a great man- his business acumen and social consciousness made him one of the most influential members of the African-American community in his lifetime.
+
+Padman: 
+Padman is an upcoming 2018 Indian Hindi comedy-drama film featuring Akshay Kumar, Sonam Kapoor and Radhika Apte in lead roles. Amitabh Bachchan will appear in a special role. The film is inspired from the life of Arunachalam Muruganantham.
+
+Gold (2018 film): 
+Gold is an upcoming 2018 Indian sports film, directed by Reema Kagti and produced by Ritesh Sidhwani and Farhan Akhtar under the banner Excel Entertainment. It is a biopic based on the life of hockey player Balbir Singh, who was on the team that won the first Olympic medal for India as a free nation in 1948.
+---------------------
+The film is based on the life of Gulshan Kumar who was founder of the T-Series music label (Super Cassettes Industries Ltd.), and a Bollywood movie producer. The film is set to release in 2018.
+
+Verghese Kurien: 
+Verghese Kurien (26 November 1921 – 9 September 2012) known as the ""Father of the White Revolution"" in India was a social entrepreneur whose ""billion-litre idea"", Operation Flood - the world's largest agricultural dairy development programme, made dairy farming India's largest self-sustaining industry and the largest rural employment provider, being a third of all rural income, with benefits of - raising incomes & credit, riddance of debt dependence, nutrition, education, health, gender parity & empowerment, breakdown of caste barriers and grassroots democracy & leadership. It made India the world's largest milk producer, surpassing the United States of America by 1998, with about 17 percent of global output in 2010–11, from a milk-deficient nation, which doubled milk available per person and increased milk output four-fold, in 30 years,
+
+Bharat Ane Nenu: 
+Bharat Ane Nenu is an upcoming 2018 Indian Telugu-language political thriller film directed by Koratala Siva, featuring Mahesh Babu and Kiara Advani in the lead roles.
+
+Karwan (film): 
+Karwan is an upcoming 2018 Indian Bollywood comedy film, directed by Akash Khurana and produced by Ronnie Screwvala. The film is scheduled to release sometime in 2018. Dulquer Salmaan is making his debut in Bollywood with the film.
+
+Paul Garrin: 
+Paul Garrin (born 1957) is an interdisciplinary artist and social entrepreneur whose work explores the social impact of technology and issues of media access, free speech, public/private space, and the digital divide. Starting as his assistant in 1981, Garrin eventually emerged as one of the important collaborators of video art superstar Nam June Paik, working closely from 1982 to 1996.
+
+John Merrick (insurance): 
+John Merrick (1859–1919) was an African-American entrepreneur whose life represents a rags-to-riches story.
+---------------------
+Aschhe Abar Shabor: 
+Aschhe Abar Shabor (Bengali: আসছে আবার শবর ; ) is an upcoming 2018 Indian Bengali-language crime thriller film directed by Arindam Sil. It is the sequel to 2016 film ""Eagoler Chokh"" and the third installment of ""Goenda Shabor"" film series. The film is scheduled to release in January 2018. The film is based on a story ""Prajapatir Mrityu O Punorjanmo"", written by Shirshendu Mukhopadhyay.
+
+Arunachalam Muruganantham: 
+Arunachalam Muruganantham (born 1962) is a social entrepreneur from Coimbatore in Tamil Nadu, India. He is the inventor of a low-cost sanitary pad making machine and has innovated grass-roots mechanisms for generating awareness about traditional unhygienic practices around menstruation in rural India. His mini-machines, which can manufacture sanitary pads for less than a third of the cost of commercial pads, have been installed in 23 of the 29 states of India. He is currently planning to expand the production of these machines to 106 nations.
+
+Mogul (film): 
+Mogul - The Gulshan Kumar Story is an upcoming 2018 Indian biographical film written and directed by Subhash Kapoor and produced by Bhushan Kumar. The film is based on the life of Gulshan Kumar who was founder of the T-Series music label (Super Cassettes Industries Ltd.), and a Bollywood movie producer. The film is set to release in 2018.
+
+Verghese Kurien: 
+Verghese Kurien (26 November 1921 – 9 September 2012) known as the ""Father of the White Revolution"" in India was a social entrepreneur whose ""billion-litre idea"", Operation Flood - the world's largest agricultural dairy development programme, made dairy farming India's largest self-sustaining industry and the largest rural employment provider, being a third of all rural income, with benefits of - raising incomes & credit, riddance of debt dependence, nutrition, education, health, gender parity & empowerment, breakdown of caste barriers and grassroots democracy & leadership.
+---------------------
+Directed by Jean-Jacques Annaud and starring Brad Pitt and David Thewlis, the score was composed by John Williams and features cellist Yo-Yo Ma.
+
+Jarhead (film): 
+Jarhead is a 2005 American biographical war drama film based on U.S. Marine Anthony Swofford's 2003 memoir of the same name, directed by Sam Mendes, starring Jake Gyllenhaal as Swofford with Jamie Foxx, Peter Sarsgaard and Chris Cooper. The title comes from the slang term used to refer to United States Marines.
+
+The White Spider: 
+The White Spider (1959 with chapters added in 1964; original title: Die Weisse Spinne) is a book written by Heinrich Harrer that describes the first successful ascent of the Eiger Nordwand (Eiger north face), a mountain in the Berner Oberland of the Swiss Alps with sections devoted to the history of mountaineering in the area.
+
+Thank You for Your Service (2017 film): 
+Thank You for Your Service is an upcoming American biographical war drama film written and directed by Jason Hall in his directorial debut, based on the non-fiction book of the same name by David Finkel. The film is about posttraumatic stress disorder (PTSD), depicting United States soldiers who try to adjust to civilian life after returning from Iraq. The film is produced by DreamWorks Pictures and distributed by Universal Pictures, starring Miles Teller, Haley Bennett, Beulah Koale, Amy Schumer, and Scott Haze. Principal photography began on February 9, 2016 in Atlanta. It is scheduled for release on October 27, 2017.
+
+Lhakpa Tsamchoe: 
+Lhakpa Tsamchoe (born 1972) is an Indian born Tibetan actress. She is the first Tibetan woman ever to break into mainstream film; most famous for starring alongside Brad Pitt and David Thewlis in the 1997 Hollywood blockbuster ""Seven Years in Tibet"", in which she played Pema Lhaki, a Tibetan tailor and wife of Austrian mountaineer, Peter Aufschnaiter.
+---------------------
+Nila Pennae: 
+Nila Pennae (Moon Girl) is a 1990 Indian Tamil film directed by V.Tamilazagan ]]. It stars Anand and Divya Bharti. The film was critically and financially unsuccessful, and is known as Bharti's only Tamil film.
+
+The Quiet Family: 
+The Quiet Family () is a 1998 South Korean comedy horror film. It was director Kim Jee-woon's feature film debut. The story centers on a family who owns a hunting lodge in a remote area, whose customers always happen to end up dying. Among the film's main cast are pre-stardom Choi Min-sik and Song Kang-ho.
+
+Yaamirukka Bayamey: 
+Yaamirukka Bayamey is a 2014 Indian Tamil horror comedy film written and directed by debutant Deekay and produced by Elred Kumar. The cast includes Kreshna, Rupa Manjari, Karuna, Oviya and Anaswara Kumar. 15 technicians were introduced in the film, which started shooting in Nainital in October. Previously titled as ""Illa Aanalum Irukku"", the film released on 9 May 2014 and received positive reviews. The film was later remade into Kannada as ""Namo Boothatma"" and in Telugu as ""Next Nuvve"". ""Yaamirukka Bayamey"" is based on the 1998 Korean film ""The Quiet Family"".
+
+Veettuku Veedu: 
+Veettuku Veedu (Tamil: வீட்டுக்கு வீடு) is a 1970 Indian Tamil film, directed by C. V. Rajendran and produced by S. Suryaprakash, Rajan, R. Renganathan and R. Parthasarathy. The film's script was written by Chitralaya Gopu. Starring Jaishankar, Lakshmi, R. Muthuraman Vennira Aadai Nirmala and Nagesh in lead roles with V. K. Ramasamy and Major Sundararajan playing supporting roles. Soundtrack is composed by M. S. Viswanathan. The 2001 Tamil film ""Viswanathan Ramamoorthy"" is said to be based on this film.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What is the invention of the social entrepreneur whose life is the subject of an upcoming 2018 Indian film called 'Padman'?
+        
+        assistant
+         Low-cost sanitary pad making machine.",low-cost sanitary pad making machine,0.0009021759033203,0.8223588466644287,0.0097763463854789,0.0081521739130434,0.0081521739130434,What is the invention of the social entrepreneur whose life is the subject of an upcoming 2018 Indian film called 'Padman' ?,1
+31,American Pimp (1999) was created after Where Have All the Flowers Gone? (2008).,American Pimp,0.0011055469512939,1.3672664165496826,0.6605810523033142,0.2666666666666667,0.2666666666666667,"Which documentary came out first, American Pimp or Go Further?",0
+32,Flight of the Navigator.,Flight of the Navigator,0.0010952949523925,0.7272758483886719,0.9781550765037536,1.0,1.0,Joey Cramer is a former Canadian child actor who is known for his role in what 1986 American science fiction film that was directed by Randal Kleiser?,1
+33,"""Tony and Susan"" by Austin Wright.",Tony and Susan,0.001068115234375,0.8964202404022217,0.6883219480514526,0.6666666666666666,0.6666666666666666,having previously served as the creative director at Gucci and Yves Saint Laurent this American fashion designer directed a film based on what novel?,1
+34,John Toland.,John Willard Toland,0.0010936260223388,0.6509256362915039,0.7817814946174622,0.8,0.8,Which of the following writers is best known for his biography of Adolf Hitler: John Toland or David James Duncan? ,1
+35,Archana.,Archana,0.000978946685791,0.6548600196838379,0.9753851294517516,1.0,1.0,Who is an Indian film actress that starred in Parattai Engira Azhagu Sundaram?,1
+36,Cliffhanger.,Renny Harlin,0.0010077953338623,0.6591048240661621,0.108825959265232,0.0,0.0,Who directed the 2006 film featuring visual effects from Giantsteps?,0
+37,"Pema Lhaki, a Tibetan tailor and wife of Peter Aufschnaiter.",Pema Lhaki,0.0009784698486328,1.3098232746124268,0.6982614994049072,0.3333333333333333,0.3333333333333333,What role did Lhakpa Tsamchoe play in the 1997 American biographical war drama film based on a 1952 book written by Heinrich Harrer?,1
+38,Tuller School.,Tuller School,0.0011048316955566,0.7345471382141113,0.9858537912368774,1.0,1.0,What was the name of the school run by the Teachers of the Children of God order in Southhampton?,1
+39,"The University of Hawaii, which is accredited by the Western Association of Schools and Colleges.",Western Association of Schools and Colleges,0.000929832458496,1.248225450515747,0.6517902612686157,0.5714285714285715,0.5714285714285715,Carpo was discovered by a team of astronomers at the school accredited by which body?,1
+40,The Go-Betweens had more bandmates.,The Go-Betweens,0.0010032653808593,0.9971158504486084,0.7188461422920227,0.6666666666666666,0.6666666666666666,"Who has had more bandmates, Jersey Budd or The Go-Betweens?",1
+41,Jim Carrey.,Jim Carrey,0.0009806156158447,0.650848388671875,0.9696862101554872,1.0,1.0,"I Love You Phillip Morris is a 2009 black comedy drama film based on the 1980s and '90s real-life story of con artist, impostor, and multiple prison escapee Steven Jay Russell, an American con artist known for escaping from prison multiple times, as played by which actr?",1
+42,Toshimitsu Deyama (also known as Toshi) has had a solo singing career.,Toshimitsu Deyama,0.0009534358978271,1.4221904277801514,0.8038004636764526,0.2857142857142857,0.2857142857142857,Was Seo Min-woo or Toshi born first?,0
+43,The School Boys.,The School Boys,0.0010795593261718,0.6976008415222168,0.9777308702468872,1.0,1.0,Funmi Falana is the mother of the rapper and stage actor who began his career with what group?,1
+44,Saraghrar.,Saraghrar,0.0009763240814208,0.7005865573883057,0.9763875007629396,1.0,1.0,"What is the fourth highest independent peak in the Hindu Kush, Saraghrar or Chomo Lonzo?",1
+45,Jena Malone.,Jena Malone,0.0010552406311035,0.6981308460235596,0.9770190119743348,1.0,1.0,The film Cold Mountain stars what actress who was born in 1984?,1
+46,Charlie Parsons.,Charlie Parsons,0.0010569095611572,0.6408019065856934,0.9745477437973022,1.0,1.0," Robert ""Bob"" Crowley is a former teacher and reality TV personality, known for winning the seventeenth season of the American TV series ""Survivor”, the American version of the international ""Survivor"" reality competition television franchise created by who?",1
+47,The Marine Midland Building is taller at 688 ft compared to W New York Downtown Hotel and Residences at 630 ft.,Marine Midland Building,0.000934362411499,1.613354206085205,0.7008220553398132,0.25,0.25,"Which building is taller, Marine Midland Building or W New York Downtown Hotel and Residences?",1
+48,John R. Neill.,John R. Neill,0.0010581016540527,0.7802505493164062,0.9819061160087584,1.0,1.0,A Wish Way is a device that appears in a book illustrated by who?,1
+49,Los Angeles.,Los Angeles,0.0010032653808593,0.6622838973999023,0.9625944495201112,1.0,1.0, The 12th Annual Honda Civic Tour was a concert tour headlined by an American pop rock band that originated in what city?,1
+50,The New Kingdom.,New Kingdom of Egypt,0.0010380744934082,0.6915748119354248,0.709037721157074,0.5714285714285715,0.5714285714285715,"The Second Intermediate Period marks a period when Ancient Egypt fell into disarray for a second time, between the end of the Middle Kingdom and the start of which period in ancient Egyptian history between the 16th century BC and the 11th century BC, covering the Eighteenth, Nineteenth, and Twentieth Dynasties of Egypt?",1
+51,2016.,2016,0.0010650157928466,0.700690746307373,0.9577949643135072,1.0,1.0,In what year was the choreographer with whom Laz Brotherston has collaborated knighted?,1
+52,They are both songs by American rapper G-Eazy.,rapper,0.000899314880371,0.969721794128418,0.4268366694450378,0.1999999999999999,0.1999999999999999,What kind of artist does 911 / Mr. Lonely and Flower Boy have in common?,0
+53,"December 2, 1409.","December 2, 1409",0.0010147094726562,0.8509328365325928,0.9870858788490297,1.0,1.0,"When was the university, for which Friedrich Leibniz was registrar and professor of moral philosophy, founded?",1
+54,29.5 miles.,29.5 mi south,0.0010735988616943,0.769197940826416,0.6571487784385681,0.5714285714285715,0.5714285714285715,The airport adjacent to the Cedars immigration detention facility is located how far away from Central London?,0
+55,Satchel Paige.,Satchel Paige,0.0010855197906494,0.6893699169158936,0.9862974882125854,1.0,1.0,Which American Negro league baseball player called Chino Smith one of the two most dangerous hitters in Negro league history?,1
+56,Cumberland County.,Cumberland,0.0009708404541015,0.6526651382446289,0.7818508148193359,0.6666666666666666,0.6666666666666666,Richard Hewes was a politician from a town in what Maine county?,1
+57,1974,1888,0.0010709762573242,0.6571614742279053,0.3988386690616607,0.0,0.0,William Greenleaf Eliot is the grandfather of an essayist who was born in which year ?,0
+58,Amarillo.,"199,582",0.0010418891906738,0.6556828022003174,0.0511199682950973,0.0,0.0,What was the population in 2016 of the city where Quentin Wilson resides?,0
+59,The Italian National Fascist Party.,The National Fascist Party,0.00095796585083,0.7702510356903076,0.8437008857727051,0.888888888888889,0.888888888888889,"Which organisation, founded by Benito Mussolini, influenced the later creation of the Yugoslav Radical Union?",1
+60,Goldfield.,268,0.0010154247283935,0.6494612693786621,0.2258618026971817,0.0,0.0,The Cactus Range is a small mountain range 23 miles east of an unincorporated community with a population of what at the 2010 census?,0
+61,Armenian.,Armenian,0.0010008811950683,0.6104419231414795,0.9639847278594972,1.0,1.0,Both Arthur T. Gregorian and Robert Nalbandyan belongs to which national?,1
+62,November 2011.,In November 2011,0.0008778572082519,0.6704583168029785,0.90696519613266,0.8,0.8,When did the host of the Krypton Factor move back to Belfast?,1
+63,The fourth.,fourth,0.0009920597076416,0.6494464874267578,0.814795970916748,0.6666666666666666,0.6666666666666666,"Kim Ok-bin (born December 29, 1986) is a South Korean actress, Kim made her debut in an online beauty contest in 2004, and began her acting career with a role in 2005 film ""Voice"", Voice is a 2005 South Korean horror film, and which number installment of the ""Whispering Corridors"" film series?",1

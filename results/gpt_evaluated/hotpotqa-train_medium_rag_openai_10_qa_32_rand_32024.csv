@@ -1,0 +1,33 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,"Eriostemon has 2 species, while Thunbergia has many species.",Eriostemon,0.3516743183135986,4.725476741790772,0.5659530162811279,0.1999999999999999,0.1999999999999999,"Which has more species, Thunbergia or Eriostemon? ",0
+1,Grey.,Grey,0.3101210594177246,2.0564005374908447,0.9320693016052246,1.0,1.0,"Starving, is a song by American actress and singer Hailee Steinfeld, and which American electronic music duo group?",1
+2,Oklahoma Sooners.,Oklahoma Sooners,0.2969794273376465,2.292283296585083,0.983741819858551,1.0,1.0,What football team represented the University of Oklahoma and was featured as  #11 (BCS ranked) on the The 80th annual Sugar Bowl?,1
+3,"Yes, they were both from the United States.",yes,0.3621120452880859,2.6926255226135254,0.2415918707847595,0.2222222222222222,0.2222222222222222,Can Fraxinus and Onoclea both be found in North America?,1
+4,Kelly McGillis.,Charlie,0.2466268539428711,2.519338369369507,0.3177266716957092,0.0,0.0,"In the series of children's books written and drawn by Ian Whybrow and Adrian Reynolds, who is the best friend of the character voiced by Emma Tate?",0
+5,Bruno Ganz.,Bruno Ganz,0.3187930583953857,2.3944218158721924,0.9849339723587036,1.0,1.0,Laurent Petitgand appeared alongside which actor in the 1987 film Wings of Desire?,1
+6,The Palais Garnier.,Right Bank,0.4035890102386474,2.398756980895996,0.1705163717269897,0.0,0.0,"Which bank is the 1,979 seat opera house located?",0
+7,United States.,American,0.403498888015747,2.3793795108795166,0.5898011326789856,0.0,0.0,Kerry Remsen is the daughter of an actor with what ethnicity?,1
+8,The Marshall Mathers LP.,The Marshall Mathers LP,0.2511875629425049,2.173302173614502,0.9859282970428468,1.0,1.0,So Far... was a song that contained a sample of the lead single from which other Eminem album?,1
+9,1969,1969,0.3891808986663818,2.1180994510650635,1.0000001192092896,1.0,1.0,"What year was Jack Noseworthy, who starred in The Sterling Chase, also known as ""Graduation Week"", born?",1
+10,"He named him ""one of the world's leading rocket scientists"".","""one of the world's leading rocket scientists""",0.360257625579834,2.748847961425781,0.8295649290084839,0.8421052631578948,0.8421052631578948,"What did the World Land Speed Record holder say to ""The Times"" about Daniel Jubb?",1
+11,"No, the Almond plant and Aloinopsis are native to Africa and the Middle East, not Alaska.",no,0.4062662124633789,3.679459810256958,0.1015384942293167,0.1176470588235294,0.1176470588235294,Are Chris Marker and Yvonne Rainer American?,0
+12,Czech.,Czech,0.2494359016418457,2.2312047481536865,0.968377411365509,1.0,1.0,What nationality was the composer and conductor of choral music Pavel Křížkovský?,1
+13,"The population of Gainsborough, the town nearest to the West Burton power stations, was 22,117 at the 2015 census.","22,117",0.3283064365386963,3.875352382659912,0.2622336745262146,0.1818181818181818,0.1818181818181818,What was the population in 2015 of the town nearest to the West Burton power stations ?,1
+14,1942,"September 1, 1942",0.2909398078918457,2.371577978134156,0.7820131182670593,0.5,0.5,"What is the birth date of the person who wrote the science fiction novel ""Cuckoo's Egg""?",0
+15,1994,1994,0.5568344593048096,2.283494472503662,1.0000001192092896,1.0,1.0,"It's OK, It's All Good is an album by a band that formed in which year ?",1
+16,The Capital City Trail is 29km long and is near the Melbourne Zoo.,29km,0.661027193069458,2.854698657989502,0.4201225936412811,0.1428571428571428,0.1428571428571428,How long is the bicycle trail that is near the Melbourne Zoo?,1
+17,Wilfried Zaha.,Wilfried Zaha,0.3908851146697998,2.0833580493927,0.9930737018585204,1.0,1.0,Which winger for Premier League club Crystal Palace club Crystal Palace won two Crystal Palace Football Club Player of the Year award?,1
+18,The Kalmar Union.,the Kalmar Union,0.2948324680328369,2.025237560272217,0.990912914276123,1.0,1.0,Under what union did the king who created Duchy of Holstein serve?,1
+19,AD Alcorcón.,AD Alcorcón,0.2938201427459717,2.294119119644165,0.9838201999664308,1.0,1.0,"Daniel 'Dani' Jimenez plays as a goalkeeper for which ""Segunda Division"" team?",1
+20,Anaximander.,Anaximander,0.4843268394470215,2.477854013442993,0.982812762260437,1.0,1.0,The Ionian school produced which scholar who was a pre-Socratic Greek philosopher who lived in Miletus?,1
+21,Shrub.,shrub,0.3400647640228271,2.2267448902130127,0.9533420205116272,1.0,1.0,"Which is sweeter, Shrub or Jagertee?",1
+22,$1.4 billion.,$1.4 billion,0.5339212417602539,2.297177314758301,0.9851727485656738,1.0,1.0,"Michael ""Mickey"" Goldmill is a fictional character in a film series that has grossed more than how much at the worldwide box office?",1
+23,Kim Tae-woo is best known as the lead vocalist of the popular boy band g.o.d.,Kim Tae-woo,0.7250564098358154,3.374033212661743,0.6979159116744995,0.2857142857142857,0.2857142857142857,"Who is best known as the lead vocalist of the popular boy band g.o.d., Jim Morrison or Kim Tae-woo?",1
+24,George VI.,Stanley Baldwin,0.2928202152252197,2.1275298595428467,0.3476242125034332,0.0,0.0,Who formed the government that had a king that was the last Emperor of India?,0
+25,"Gregg Berhalter, the head coach of Columbus Crew SC, is of American heritage.",American,0.3291442394256592,3.636228561401367,0.2029729336500167,0.1428571428571428,0.1428571428571428,Kerry Remsen is the daughter of an actor with what ethnicity?,0
+26,Infomercials.,infomercials,0.3253726959228515,2.169342279434204,0.98147451877594,1.0,1.0,Kives' catch phrase was used in advertising shows known as what?,1
+27,Deontay Wilder.,The Bronze Bomber,0.24764084815979,2.688403367996216,0.1960504353046417,0.0,0.0,What is the nickname of the professional boxer Krzysztof Zimnoch beat in an amatuer fight?,0
+28,Invicta France and Caisse d'Épargne.,Invicta France,0.2833399772644043,2.7793774604797363,0.7480155229568481,0.5,0.5,Sedan is sponsored by whom?,0
+29,Melbourne.,Melbourne,0.2939839363098144,2.0284132957458496,0.9679879546165466,1.0,1.0,In what city did the team that won premierships in both 1992 and 1994 lose in the Grand Final to Hawthorn for the first time?,1
+30,Daredevil,Daredevil,0.356616735458374,2.1999776363372803,1.0,1.0,1.0,Which Netflix Web TV series features Scott Glenn in Marvel's universe?,1
+31,Fox.,Fox,0.3257801532745361,2.264226198196411,0.9605878591537476,1.0,1.0," ""A Father's Watch"" is the 614th episode of an animated television series that airs on what network?",1

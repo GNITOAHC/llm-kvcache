@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,Psyonix.,Psyonix,4.860497951507568,3.230423212051392,0.9709280729293824,1.0,1.0,NRG eSports is an esports organization that has rosters with a vehicular soccer video game developed by what company?,1
+1,Wenchang.,Wenchang,0.2621808052062988,0.8639490604400635,0.981013834476471,1.0,1.0,"Which is in Hainan province, Lichuan, Hubei or Wenchang?",1
+2,"Alex Segal was born on July 1, 1915, and François Ozon was born on November 15, 1967.",Alex Segal,0.563793420791626,2.255100727081299,0.5424575805664062,0.1999999999999999,0.1999999999999999,"Who was born first, Alex Segal or Mika Kaurismäki?",0
+3,Baby Bash.,Baby Bash,0.3124032020568847,1.1241426467895508,0.9305698871612548,1.0,1.0,"Da Bidness 2 features an appearance by Ronald Ray Bryant, who is known better by what name?",1
+4,XL Recordings.,XL Recordings,0.378962755203247,1.19244122505188,0.9603765606880188,1.0,1.0,Ariel Rechtshaid has worked for a rock band from New York City that is signed to what label?,1
+5,"No, Jason Schwartzman is from the United States and Rob Halford is from England.",no,0.7332429885864258,1.7480294704437256,0.2057596743106842,0.1333333333333333,0.1333333333333333,Are Chris Marker and Yvonne Rainer American?,0
+6,1774,1774,0.778693437576294,1.0570521354675293,1.0,1.0,1.0, A Time for Miracles chronicles the life story of America's first native born saint who was born in what year?,1
+7,"Ovid wrote the Latin narrative poem ""Metamorphoses"", which chronicles the history of the world from its creation to the deification of Julius Caesar.",Ovid,0.2335796356201172,2.6022510528564453,0.3750653862953186,0.0833333333333333,0.0833333333333333,Who wrote a Latin narrative poem of history from the cosmogonic myth to Caesar?,1
+8,Aidan Gillen.,Aidan Gillen,0.3721730709075928,1.1564664840698242,0.9852077960968018,1.0,1.0,Which Irish actor was added to The Maze Runner film series?,1
+9,Rihanna.,Rihanna,0.3348109722137451,1.0157244205474854,0.9637503623962402,1.0,1.0,New Zealand top 50 singles of 2014 contained a song by Eminem that had guest vocals from what Barbadian singer?,1
+10,Adelaide.,Adelaide,0.2987115383148193,1.0429303646087646,0.9673576354980468,1.0,1.0,"What is the name of this only interstate railway station in South Australia, where Silver City Limited operated between it and Broken Hill?",1
+11,Sheikh Abu Hamza al-Masri.,Abu Hamza al-Masri,0.3851029872894287,1.484260082244873,0.9148533940315248,0.888888888888889,0.888888888888889,Which Egyptian cleric was found with a copy of the Encyclopedia of Afghan Jihad in his London residence?,1
+12,Hutchison 3G.,the Hutchison 3,0.3085341453552246,1.1499826908111572,0.7766520380973816,0.4,0.4,What UMTS-based mobile phone networks and Broadband internet Providers does Vidiator produce?,1
+13,"""23""",Pour It Up,0.3525104522705078,1.0798490047454834,0.1254351437091827,0.0,0.0,What is the name of the song recorded by Rihanna that was written by Rock City?,0
+14,Achtung Baby.,U2,0.3094441890716553,1.186629295349121,0.1965112537145614,0.0,0.0,For which band does the founder of Arcane Collective play?,0
+15,"""Flaming Moe's""","""Flaming Moe's.""",0.3828394412994385,1.422600030899048,0.9417712092399596,1.0,1.0,"Joel H. Cohen has written for Saturday Night Live. His brother, Robert Cohen, has written for which episode of the Simpsons?",1

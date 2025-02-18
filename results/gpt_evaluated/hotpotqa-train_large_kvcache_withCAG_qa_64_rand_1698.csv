@@ -1,0 +1,65 @@
+idx,generated_response,ground_truth,reset_cache_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Aechmea,Aechmea,0.0005176067352294,2.24491024017334,1.0,1.0,1.0,"Which has more species, Lysichiton or Aechmea?",1
+1, Horse & Hound,Horse & Hound,0.0005338191986083,2.1462173461914062,1.0000001192092896,1.0,1.0,Which  equestrian weekly magazine of the United Kingdom is Mark Phillips a columnist in ,1
+2, Lamont Johnson,Robert Rossen,0.0005064010620117,1.722489595413208,0.4189600944519043,0.0,0.0,"Who was born first, Robert Rossen or Lamont Johnson?",0
+3, Jamie Lee Curtis,Jamie Lee Curtis,0.0004990100860595,1.7264528274536133,1.0,1.0,1.0,"What BAFTA and Golden Globe award winning actress became famous as a ""scream queen"" in the Halloween franchise?",1
+4, Elisabeth of Bohemia,"Frederick V, Elector Palatine",0.00050950050354,2.5629124641418457,0.3540108203887939,0.0,0.0,"Who was the father of the person ""Principles of Philosophy"" was dedicated to?",0
+5, Christian Brothers University,Christian Brothers University,0.0004928112030029,1.723111629486084,1.0,1.0,1.0,Which of the following is located near the Liberty Bowl Memorial Stadium: San Diego State University or Christian Brothers University?,1
+6, Ubisoft,Ubisoft,0.0004956722259521,0.8919856548309326,1.0000001192092896,1.0,1.0,Desmond Miles is a character in a game developed by what company?,1
+7, 1987,"October 8, 1943",0.0005066394805908,1.7386162281036377,0.4887476563453674,0.0,0.0,What is the birthdate of the author  that Tim Jacobus illustrated for?,0
+8," No, they are not both Japanese.",no,0.0004873275756835,3.797691583633423,0.182748407125473,0.2857142857142857,0.2857142857142857,Are Chris Marker and Yvonne Rainer American?,0
+9, David Hasselhoff,David Hasselhoff,0.0005030632019042,2.1469082832336426,0.9999999403953552,1.0,1.0,"Nicknamed ""The Hoff"", which is actor/singer released his seventh studio album in 1993?",1
+10, Eric Young,Jeremy Fritz,0.0004973411560058,1.307358980178833,0.437338650226593,0.0,0.0,What is the real name of the creator of The World Elite,0
+11, Yes,yes,0.0004956722259521,0.8936145305633545,1.0000001192092896,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+12, Maxwell,"May 23, 1973",0.000500202178955,0.9040167331695556,0.0492490157485008,0.0,0.0,"When was this American singer-songwriter, record producer, and actor born, who used the American composer Itaal Shur to write some of his songs?",0
+13, United States.,United States,0.0004918575286865,1.799063205718994,0.9286460876464844,1.0,1.0,Where is the owner of Next big sound provides analytics for online music available?,1
+14, Banque Cantonale Vaudoise,Bata Shoes,0.0004982948303222,3.389387607574463,0.1075103729963302,0.0,0.0,"Which organization has it's headquarters in Lausanne, Switzerland and who's employees founded Deportivo Thomas Bata?",0
+15, conservative Democrats,conservative Democrats.,0.0004944801330566,1.309779405593872,0.9617209434509276,1.0,1.0,The Congressional Pro-Trade Caucus is a party who identify as what?,1
+16, 2009,25 episodes,0.0004963874816894,1.7284343242645264,0.282919704914093,0.0,0.0,How many episodes does the South Korean television series at which Jung Eui-chul reached the peak of his career have? ,0
+17, The Nakoda (also known as Stoney or Îyârhe Nakoda) are an indigenous people in Western Canada.,Nakoda,0.0005021095275878,10.917886734008787,0.6469112634658813,0.1111111111111111,0.1111111111111111,What indigenous people in Western Canada named Lake of the Little Fishes?,0
+18, 1986,1986,0.0004971027374267,1.7517857551574707,1.0000001192092896,1.0,1.0,"Alan Douglas Ruck, is an American actor, he played Cameron Frye, Bueller's hypochondriac best friend in John Hughes' ""Ferris Bueller's Day Off"", released in which year?",1
+19, Over the Rainbow,Voice,0.0004935264587402,1.738654375076294,0.2112081199884414,0.0,0.0,What film first attracted attention for this actress who also starred in Over the Rainbow?,0
+20, Pedro Sienna,Herbert Achternbusch,0.000490665435791,1.7385644912719729,0.151297926902771,0.0,0.0,"Which writer was of German descent, Herbert Achternbusch or Pedro Sienna?",0
+21, Technical advisory company.,Warrior Publishing Group,0.0004949569702148,2.153290271759033,0.2415700405836105,0.0,0.0,"Captain Dale Adam Dye Jr., USMC (Ret.) owns Warriors, Inc. and what other company?",0
+22, The Phoney War.,eight-month period,0.0004956722259521,2.574589967727661,0.1197538301348686,0.0,0.0,Immerhof protected blockhouses that were constructed during a war that lasted how long?,0
+23, Walt Disney Productions,Walt Disney,0.0005214214324951,1.7363660335540771,0.879239022731781,0.8,0.8,Who produced The Shaggy D.A. and Tarzan?,1
+24, GrassrootsPA,GrassrootsPA,0.0004937648773193,1.7452590465545654,1.0,1.0,1.0,What political news website was set up by a supporter of a politician who served in Pennsylvania's House of Representatives from 1999 to 2005?,1
+25, Myreside Stadium,Newton Village Sports Complex,0.0004966259002685,2.150740385055542,0.480974018573761,0.0,0.0,Where does Michael Matricciani play his home matches? ,0
+26, The Portuguese Podengo.,Portuguese Podengo,0.0005030632019042,2.576270818710327,0.937203586101532,0.8,0.8,"Which dog breed, the Portuguese Podengo or the Old Danish Pointer, contains three size categories instead of just one?",1
+27, 2013,2013,0.0005085468292236,1.7435574531555176,1.0,1.0,1.0,When were the band that released the song Charlemagne formed ?,1
+28, Isabelle Huppert,Isabelle Huppert,0.0005064010620117,2.579007863998413,1.0,1.0,1.0,Mia Hansen-Løve won the Silver Bear in  Berlin in 2016 for the film starring whom?,1
+29, Ohio,Ohio,0.0004928112030029,0.9064176082611084,1.0,1.0,1.0,Todd Wilson is an organist in what state at one of the largest home in the US?,1
+30," ""Ulysses""",The Little Review,0.0004971027374267,2.994629383087158,0.1058388799428939,0.0,0.0,"In which journal was the novel, from which the lyrics of Crystal Castle's ""Air War"" are from, first serialised?",0
+31, Weimar,Grossherzogliches (Grand Ducal) Theater,0.0004916191101074,1.3178398609161377,0.3050640225410461,0.0,0.0,Where did Auguste von Müller play Dalila in 1877?,0
+32, Spring Forward,Girlfight,0.0004868507385253,1.324697494506836,0.2489246577024459,0.0,0.0, Carrie Genzel has worked in collaboration with an independent film director known for what 2000 film?,0
+33, Moda Center,"the Rose Garden,",0.0004887580871582,1.7401618957519531,0.2458502352237701,0.0,0.0,"What was the sports arena, at which Portland Thunder played their home games, formerly known as ?",1
+34, The Far Eastern Fells,English Lake District,0.0004956722259521,2.572459936141968,0.1303180158138275,0.0,0.0,"Woodland, Cumbria is west of the third largest lake in what area?",0
+35, Yes,yes,0.0004904270172119,0.9020090103149414,1.0000001192092896,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+36, Lynn Dickey,Lynn Dickey,0.0004987716674804,1.7430169582366943,1.0,1.0,1.0,Clifford is the first name of which quarterback that played for the Green Bay Packers in 1977?,0
+37, Athens,"Athens, Greece",0.0005035400390625,0.8975811004638672,0.9337193965911864,0.6666666666666666,0.6666666666666666,Where was the olympic games that Elisângela Oliveira played at after the 2000 Brazil Olympics?,1
+38, Jackie Joyner-Kersee,heptathlon as well as long jump,0.000497817993164,2.994891166687012,0.1432805359363556,0.0,0.0,Roehrig Motorsports entered into a partnership in 1999 with the track athlete who was famous for what two sports?,0
+39, CH(CN)5,CHO,0.0005023479461669,2.5749549865722656,0.3381842970848083,0.0,0.0,What is the molecular formula of the chemical for which Nylander's test looks?,0
+40," Worcester, Massachusetts.","Worcester, Massachusetts, United States",0.0005013942718505,2.153660535812378,0.9443970918655396,0.6666666666666666,0.6666666666666666,Tom Gilmore is currently the head football coach for a college located where?,1
+41, Doubles,doubles,0.0005028247833251,1.3180830478668213,1.0,1.0,1.0,Vania King and Cyril Suk III both specialize in what type of Tennis play?,1
+42, I-22,BNSF railway,0.0005178451538085,1.7400448322296145,0.1947093307971954,0.0,0.0,What railway is near an interstate that was designated to close gap in the interstate network allowing more direct connections between cities in the southeast?,0
+43, Koelreuteria,Koelreuteria,0.0005056858062744,2.573415279388428,0.9999999403953552,1.0,1.0,"Which is a genus, Dill or Koelreuteria? ",1
+44, Dutch,Dutch,0.000495433807373,0.8971078395843506,1.0,1.0,1.0,Ooster-Eems means Ems-oriental in what language spoken by around 24 million people as a first language?,1
+45, 1991,1991,0.0004913806915283,1.738633394241333,1.0,1.0,1.0,What year did the book come out that the film Dev Patel and Jeremy Irons starred in?,1
+46, Kuchipudi,Kuchipudi,0.0004966259002685,2.162543773651123,1.0,1.0,1.0,What is the name of an Indian classical dance that Bhanu Priya is a dancer of?,1
+47, reach space.,reach space,0.000504732131958,1.739650011062622,0.9417470097541808,1.0,1.0, The Onizuka Prop Wash Award was named in memory of irst Asian American and the first person of Japanese ancestry to what?,1
+48, Yes,yes,0.0004892349243164,0.8998050689697266,1.0000001192092896,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+49, The Duluth International Airport and Dothan Regional Airport are used by the United States Air National Guard.,public,0.000493049621582,8.8525071144104,0.0634038373827934,0.0,0.0,Is the university that Keith Davis played for public or private?,0
+50, The Transylvanian Hound is smaller than the Bedlington Terrier.,Bedlington Terrier,0.0004942417144775,6.758137226104736,0.6294529438018799,0.3636363636363636,0.3636363636363636,"Which European breed of dog is smaller, Bedlington Terrier or Transylvanian Hound?",0
+51, Alonzo Mourning,Alonzo Mourning,0.0005075931549072,2.5752222537994385,1.0,1.0,1.0,Who was the top three pick of the 1992 draft that played most of his career for the Miami Heat?,1
+52, Norway,"Bergen, Norway",0.0005006790161132,0.9023735523223876,0.7305799722671509,0.6666666666666666,0.6666666666666666,"Where is the band that came out with the album ""Isa"" currently based?",0
+53, Osama,Osama,0.0004885196685791,0.9100103378295898,0.9999999403953552,1.0,1.0,What was the title of the 2003 movie in which an Afghan actress gained international recognition for her role as a girl forced to dress as a boy?,1
+54, World War II,World War II,0.0005128383636474,1.741422176361084,1.0,1.0,1.0,"Battle of Tarawa and Operation Overlord, occurred during which event?",1
+55, America's Next Top Model,The Voice,0.0005085468292236,2.579190254211426,0.2439891099929809,0.0,0.0,This American artist made the Billboard top 25 and was a well known YouTuber and also for her participation in which NBC singing competition? ,0
+56," The city above Ocean Grove, New Jersey is part of the New York City metropolitan area.",New York City Metropolitan Area,0.0004873275756835,8.014169931411743,0.5285907983779907,0.4761904761904761,0.4761904761904761,"How is the city above Ocean Grove, New Jersey part of what New York Area?",1
+57, Mahesh Bhatt,Mahesh Bhatt,0.0005054473876953,2.177445888519287,1.0,1.0,1.0,Who was the writer of the 2003 Indian erotic thriller film who sequel is Jism 2?,1
+58, Intelligent design,intelligent design,0.0004928112030029,1.3228962421417236,1.0,1.0,1.0,"Denis O. Lamoureux wrote  ""Darwinism Defeated?"" along with Phillip E. Johnson, a retired UC Berkeley law professor and author who is considered the father of what movement?",1
+59, 1962,1962,0.0005011558532714,1.8097822666168213,1.0,1.0,1.0,The founder of the techno record label Metroplex was born in what year?,1
+60, Peter Pan,"Peter Pan, or The Boy Who Wouldn't Grow Up",0.000495433807373,1.3328230381011963,0.7465780973434448,0.3333333333333333,0.3333333333333333,"The play Peter and Alice features a meeting between Alice Liddell and Peter Llewelyn Davies, best known as the source of the name for the title character in what play?",1
+61, Dragonslayer,Dragonslayer,0.0004942417144775,1.3301212787628174,1.0,1.0,1.0,"Caitlin Clarke was an American theater and film actress, best known for her role as Valerian in which 1981 American fantasy film, directed by Matthew Robbins? ",1
+62," Pokhara University was established in 1996, while the University of Southern Queensland was established in 1965.",University of Southern Queensland,0.000495433807373,10.51992392539978,0.5868805646896362,0.4,0.4,"Between University of Southern Queensland and Pokhara University, which institution was established earlier?",1
+63, No,no,0.0005247592926025,0.9019618034362792,1.0,1.0,1.0,Are Chris Marker and Yvonne Rainer American?,1

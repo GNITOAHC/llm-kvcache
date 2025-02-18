@@ -1,0 +1,38 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,"July 8, 2013.","July 8, 2013",0.0012061595916748,2.7081072330474854,0.9783233404159546,1.0,1.0,"The Legends of the Summer Stadium Tour was a co-headlining concert tour by American singer-songwriter Justin Timberlake and American rapper Jay Z, the tour supported  Jay Z's twelfth studio album, it was released for retail sale on which date, by Roc-A-Fella, Def Jam and Roc Nation?",1
+1,Lee Harvey Oswald.,Lee Harvey Oswald,0.0012307167053222,0.6878867149353027,0.9803491830825806,1.0,1.0,"Whose wife was housed by Ruth Hyde Paine until November 23,1963?",1
+2,"No, Upper Crust Pizzeria had 7 locations, but Fellini's Pizza also has 7 locations.",yes,0.0010590553283691,1.4715590476989746,0.1817148625850677,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?,0
+3,Left-handed.,right-handed,0.0010745525360107,0.6314220428466797,0.9499926567077636,0.5,0.5,Is Bob Ojeda's 1986 teammate who is now a co-host on the MLB Network left or right-handed?,0
+4,"Yes, both films won an award at the Academy Awards.",no,0.0010795593261718,0.9921591281890868,0.1614060997962951,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0
+5,Rosebud County.,Rosebud County,0.0010688304901123,0.6679015159606934,0.987901508808136,1.0,1.0,In which county was The Battle of Little Muddy Creek fought?,1
+6,Christus,Christus,0.0010871887207031,0.5865099430084229,1.0,1.0,1.0,"What is the name of the 19-th century Carrara marble statue located in a Copenhagen cathedral, situated on Frue Plads?",1
+7,A Christmas Carol.,A Christmas Carol,0.0010373592376708,0.6096570491790771,0.9813527464866638,1.0,1.0,Is Khan Kluay or A Christmas Carol based off a story of the same name? ,1
+8,Lady and the Tramp.,Lady and the Tramp,0.0011031627655029,0.7457525730133057,0.9872393012046814,1.0,1.0,Don DaGradi started his animated features career with what 1955 romantic musical comedy-drama?,1
+9,World Boxing Organization (WBO),"San Juan, Puerto Rico",0.0010390281677246,0.70198655128479,0.1343826502561569,0.0,0.0,Where are the headquarters of the organization through which Nedal Hussein has won the Asia Pacific super featherweight title?,0
+10,"Footscray, Australia.","Footscray, Australia",0.0009474754333496,0.7193984985351562,0.9808946847915648,1.0,1.0,Where is the birthplace of the inventor of Denise Drysdale's nickname?,1
+11,"No, they play different sports. Ray Ruffels is a former professional tennis player, while Peter Curtis is a former Australian rules footballer.",yes,0.0009574890136718,1.620038986206055,0.1904881298542022,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?,0
+12,Filegate.,Filegate,0.0012235641479492,0.6423547267913818,0.9657611846923828,1.0,1.0," Robert William Ray (born April 4, 1960) is an American lawyer practicing in the New York office of the Dallas-based law firm of Thompson & Knight, LLP, as the successor to Ken Starr, as the head of the Office of the Independent Counsel (1999 to 2002) he investigated and issued the final reports on the White House FBI files controversy of the Clinton Administration, often referred to as which term, arose in June 1996 around improper access in 1993 and 1994 to FBI security-clearance documents?",1
+13,"""Catch-22""","""Catch-22""",0.0009994506835937,0.7313640117645264,1.0,1.0,1.0,What book contains the character Edward J. Nately III and a title whose name has become a synonym for an absurd or contradictory choice?,1
+14,The Dark Crystal.,The Dark Crystal,0.0009968280792236,0.6353933811187744,0.9738848209381104,1.0,1.0,"Which film did the voice actor who plays Sam Eagle in the television show ""The Muppet Show"" co-direct with Jim Henson?",1
+15,"coach in June 2008 and became head coach in May 2009. During his tenure, the Impact won the inaugural Canadian Championship in 2008 to claim the Voyageurs Cup and a berth in the 2008-09 CONCACAF Champions League. Dos Santos then led Montreal through three different leagues in consecutive campaigns, winning the USL First Division title in 2009 before transitioning into USSF Division 2 in 2010 and the North American Soccer League in 2011.
+
+2015 Canada Cup of Curling: 
+The 2015 Canada Cup of Curling was held from December 3 to 7 at Revolution Place in Grande Prairie, Alberta. This was the first time that Grande Prairie hosted the Canada Cup, and the third time that Alberta hosted the Canada Cup, which was also held in Medicine Hat in 2010 and in Camrose in 2014.
+
+2005 Open Canada Cup: 
+The 2005 Open Canada Cup was the 8th edition of the Canadian Professional Soccer League's open cup tournament running from late May through early September.
+---------------------
+The City of London is a separated municipality, politically separate from Middlesex County, though it remains the county seat.
+
+Open Canada Cup: 
+The Open Canada Cup was a Canadian soccer competition, similar in concept to tournaments such as the English FA Cup, the Coppa Italia, and the US Open Cup. The competition was held starting with the second version of the CSL's first season in 1998 until 2007.
+
+2007 Open Canada Cup: 
+The 2007 Open Canada Cup was the 10th edition of the Canadian Soccer League's open cup tournament running from July through early September. Trois-Rivières Attak defeated Columbus Clan F.C. 3-0 in the final played at Cove Road Stadium, London, Ontario. It was the Attak's first Open Canada Cup title and marked the first time in the tournament's history where a Quebec club won. The 2007 tournament was significant as it featured for the first time professional and amateur teams from Ontario, Quebec, and British Columbia.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What is the population of the city which hosted the 2004 Open Canada Cup?
+        
+        assistant
+         The population of London, Ontario is 383,822.","383,822",0.0010466575622558,0.949249505996704,-0.0401445776224136,0.0109890109890109,0.0109890109890109,What is the population of the city which hosted the 2004 Open Canada Cup ?,1

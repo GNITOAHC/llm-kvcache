@@ -1,0 +1,81 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,"2,956","2,956",0.0010292530059814,2.443122148513794,0.9999999403953552,1.0,1.0,"How many hotel rooms are in the hotel where Wayne Newton performed his May 23, 1989 Pay-Per-View concert?",1
+1,Edgar Kaiser.,Edgar Kaiser,0.0011084079742431,0.647557258605957,0.9837488532066344,1.0,1.0,Ted Sundquist was promoted to GM of the Denver Broncos in 2001 by the family who purchased the team from which former owner in 1984?,1
+2,"""Master of Complications""",Master of Complications,0.0009851455688476,0.7377293109893799,0.955991804599762,1.0,1.0,"What slogan does this Swiss watchmaker and his company carry, who purchased 80% of the Minsk Watch Plant in 2010?",1
+3,"It's Okay, That's Love, which aired from July 23 to September 11, 2014.","July 23 to September 11, 2014",0.001063585281372,1.4422006607055664,0.4257347285747528,0.5714285714285715,0.5714285714285715,"What was the air date of this 2014 South Korean television series starring Jo In-sung, whose soundtrack was by Punch?",1
+4,The 1970s.,1970s,0.001014232635498,0.8014788627624512,0.9295619130134584,0.6666666666666666,0.6666666666666666,Leonora Mary Grosvenor's father was the richest man in Britain in what decade?,1
+5,Trussed Concrete Steel Company.,Trussed Concrete Steel Company,0.0009999275207519,0.7001152038574219,0.9707152843475342,1.0,1.0,"What company was founded by Julius Kahn in Detroit, Michigan?",1
+6,Alessandro Scarlatti (1660) is older than Philip Glass (1937).,Pietro Alessandro Gaspare Scarlatti,0.0009346008300781,1.220656156539917,0.6393991708755493,0.3076923076923076,0.3076923076923076,"Between Franz Schreker and Alessandro Scarlatti, who was born earlier?",0
+7,They are both documentary films.,documentary,0.0009500980377197,0.7815663814544678,0.631668210029602,0.3333333333333333,0.3333333333333333,WHat genre are both Game Face and Junket Whore?,1
+8,AVN Adult Entertainment Expo.,AVN Adult Entertainment Expo,0.0009639263153076,0.7716460227966309,0.988517165184021,1.0,1.0,"Which of the publication of AVN Media Network is an adult entertainment convention and trade show held each January in Las Vegas, Nevada and is sponsored by ""AVN"" magazine?",1
+9,The Los Angeles Memorial Coliseum.,Los Angeles Memorial Coliseum,0.0010104179382324,0.778278112411499,0.9766395092010498,0.888888888888889,0.888888888888889,"Exposition Park, Los Angeles includes which NFL football stadium?",1
+10,New Holland.,New Holland,0.0009748935699462,0.641305685043335,0.9772232174873352,1.0,1.0,"What North Lincolnshire, England village contains the Humber Ferry?",1
+11,Amar'e Stoudemire.,Amar'e Carsares Stoudemire,0.0010015964508056,0.826514482498169,0.8606484532356262,0.8571428571428571,0.8571428571428571,What NBA veteran was a 2005 all star along with his team mates Steven Nash and Shawn Marion?,1
+12,Hozier.,Hozier,0.0010299682617187,0.7068474292755127,0.967622935771942,1.0,1.0,"""From Eden"" is a number 2 song from the Irish Singles Chart that came from what album that was released on September 19th?",1
+13,The Central Landfill.,Central Landfill,0.0010244846343994,0.7295613288879395,0.9638691544532776,0.8,0.8,"What landfill located in the town of Johnston in Providence County, Rhode Island, United States is owned by Rhode Island Resource Recovery Corporation?",1
+14,VfB Stuttgart has won the national championship 5 times.,five times,0.0009927749633789,1.031064510345459,0.3674339950084686,0.1818181818181818,0.1818181818181818,How many times during the season in which Manchester United recorded Lift it High did they lose?,0
+15,Zydrunas Ilgauskas.,Zydrunas Ilgauskas,0.0010836124420166,0.866943359375,0.9916270971298218,1.0,1.0,"The 1997–98 NBA season was the 28th season of the National Basketball Association in Cleveland, Ohio, which Lithuanian retired professional basketball center of the National Basketball Association (NBA), and played for the Cleveland Cavaliers from 1996 to 2010, was selected to the All-Rookie First Team?",1
+16,Blues rock and jazz.,rock and blues,0.0010099411010742,0.7385239601135254,0.8425790071487427,0.8571428571428571,0.5714285714285715,Essential Montreux is a box-set by a singer known for being a guitar virtuoso in what two genres?,0
+17,"Essie Davis played Elizabeth Woodville in the TV series ""The White Princess"" on Starz.","Esther ""Essie"" Davis",0.0009722709655761,1.321040391921997,0.567065954208374,0.2352941176470588,0.2352941176470588,Which Australian actress played Elizabeth Woodville in the TV series The White Princess which aired on Starz?,1
+18,"Mark Stuart is known as the lead vocalist for Audio Adrenaline, and Vincent Walker is known as the lead singer of Suburban Legends.",singer,0.0009613037109375,1.678110122680664,0.3885815739631653,0.0833333333333333,0.0833333333333333,Which other occupation is the American actress who stars as a Jewish-American girl who befriends a German prisoner of war in a made-for-television war drama?,0
+19,"No, they are not from the same country. One Ok Rock is from Japan and Galaxie 500 is from the United States.",no,0.0009717941284179,1.6735107898712158,0.1320651471614837,0.0869565217391304,0.0869565217391304,Are Chris Marker and Yvonne Rainer American?,0
+20,James Arness.,Gage Clarke,0.0009486675262451,0.6709115505218506,0.3483515679836273,0.0,0.0,What is the name of the American Actor who starred in Gunsmoke?,0
+21,Christian Nodal.,Adiós Amor,0.0009629726409912,0.6925342082977295,0.1340017318725586,0.0,0.0,What was the debut single of the composer and singer of Probablemente ?,0
+22,Grant Imahara.,Grant Imahara,0.0011253356933593,0.74169921875,0.9840484261512756,1.0,1.0,"Geoff Peterson is an animatronic human skeleton that served as the sidekick on the late-night talk show ""The Late Late Show with Craig Ferguson"", often referred to as a ""robot skeleton"", Peterson is a radio-controlled robot puppet, are animatronics refers to the use of robotic devices to emulate a human or an animal, or bring lifelike characteristics to an otherwise inanimate object, was designed and built by who, of ""MythBusters""?",1
+23,"No, they are not. Daniela Hantuchová is from Slovakia and Balázs Taróczy is from Hungary.",no,0.0009779930114746,1.637901782989502,0.1136710047721862,0.1111111111111111,0.1111111111111111,Are Chris Marker and Yvonne Rainer American?,0
+24,William James.,William James,0.0010545253753662,0.6167879104614258,0.9785269498825072,1.0,1.0,"José Ortega y Gasset, was a Spanish philosopher, and essayist, philosophy has been characterized as a ""philosophy of life"" that ""comprised a long-hidden beginning in a pragmatist metaphysics inspired by which American philosopher and psychologist who was also trained as a physician?",1
+25,Anjali Pictures.,Anjali Pictures,0.0009799003601074,0.6999003887176514,0.98917818069458,1.0,1.0,Who distributed a 1971 Telugu-language film starring a man who made his film debut in Bhakta Shabari?,1
+26,"No, they are not located in the same state. Tucson International Airport is in Arizona, and Juneau International Airport is in Alaska.",no,0.0009582042694091,1.6635620594024658,0.0423096641898155,0.0869565217391304,0.0869565217391304,Are Chris Marker and Yvonne Rainer American?,0
+27,"vice president. Within a year from arrival into American Airlines, he became full vice president. Gibson served as New York's first black deputy mayor for four years. After resigning from his title, Lucille Mason Rose took over and became New York's first woman to become deputy mayor, whom was also black.
+
+Alena Apina: 
+Alena was born on August, 23rd, 1964 in the City of Saratov. When she was 5 years old, her parents enrolled her to a local Music School in the piano class. She successfully graduated from Music School and attended Music College. After she graduated from College, she enrolled to the Folk Song Faculty of the Saratov State Conservatory.
+
+Tara Allain: 
+Tara Allain (born October 2, 1985) is Miss Maine for 2007. She is a 2008 graduate of Colby College.
+
+Laura Kaminsky: 
+Laura Kaminsky (born September 28, 1956) is an American composer, producer of musical and multi-disciplinary cultural events, and educator.
+---------------------
+Francis Delafield: 
+Francis Delafield (August 3, 1841 – July 17, 1915) was an American physician, born in New York City. His father, Dr. Edward Delafield, was the son of the prominent John Delafield who had emigrated to America from London, England in 1783 carrying the provisional peace treaty between England and The United States. While his father Edward graduated Yale in 1812, Francis graduated at Yale (1860) and at the College of Physicians and Surgeons, Columbia University (1863), and after further study abroad practiced medicine in New York. Francis was appointed to the staff of Bellevue Hospital (1874), and to the chair of pathology and practice of medicine in the College of Physicians and Surgeons (1875–82).
+
+Tara McPherson: 
+Tara McPherson (born April 7, 1976 in San Francisco, California) is an American artist based in New York City. She studied art at Santa Monica Community College and earned her BFA from Art Center in Pasadena, CA in August 2001. While in college, she interned with Rough Draft Studios. In a brief 2008 piece concerning concert artwork, ""Elle"" magazine referred to her as ""the crown princess of poster art. She opened the Cotton Candy Machine boutique in New York City in 2011.
+
+Tara Bray Smith: 
+Tara Bray Smith (born September 1970) is an American author. She was born and grew up in Hawaii. She graduated from Dartmouth College and received a master's in non-fiction writing from Columbia University.
+
+Paul Gibson Jr.: 
+Paul Peyton Gibson, Jr. (August 5, 1927 – July 10, 2014) was an American airline executive and New York City’s first black deputy mayor, serving as deputy mayor to Abraham Beame after being sworn into the position in 1974. Gibson was born in Manhattan in 1927. At eight years old, Gibson and his family moved to Brooklyn. He graduated from the Boys High School and later entered the City College of New York, where he also graduated from. Shortly after the second world war, Gibson enlisted into the American Army and was assigned to the Army Air Forces, and was mainly stationed in the Philippines. After his return from military service, he began a law firm.
+---------------------
+She has advocated positions on numerous subjects including victimization, philanthropy, immigration reform, crime prevention, racism, racial profiling, rape, politics, welfare, and matters pertaining to cities and academia. She is a Thomas W. Smith Fellow of the Manhattan Institute. In addition, she is a contributing editor to New York's ""City Journal"" and a lawyer by training. She has written numerous editorials and is the author of several books. Born in California, she graduated from Phillips Academy in Andover in 1974. In 1978 she graduated from Yale (where she was in Berkeley College). She then attended Cambridge and graduated from Stanford University Law School in 1985.
+
+Colby College: 
+Colby College is a private liberal arts college in Waterville, Maine. Approximately 1,800 students from more than 60 countries are enrolled annually. The college offers 54 major fields of study and 30 minors. It was founded in 1813 as the Maine Literary and Theological Institution until it was renamed after the city it resides in with Waterville College. The donations of Christian philanthropist Gardner Colby saw the institution renamed again to Colby University before concluding on its final and current title, reflecting its liberal arts college curriculum.
+
+Rufus Osgood Mason: 
+Mason was the son of Rufus and Prudence (Woods) Mason. He prepared for college at Thetford, Vermont and later graduated at Dartmouth College in 1854. He then entered Union Theological Seminary (1854–1855) before moving to medicine. In 1859, he graduated at the College of Physicians and Surgeons in New York City (now a part of Columbia University). He became one of the most noted surgeons of his day in New York City.
+---------------------
+Lincoln, Rhode Island: 
+Lincoln is a town in Providence County, Rhode Island, United States. The population was 21,105 at the 2010 census. Lincoln is located in northeastern Rhode Island, north of Providence. Lincoln is part of the Providence metropoliton statistical area and the Greater Boston combined statistical area.
+
+John Hopkins Clarke: 
+John Hopkins Clarke (April 1, 1789November 23, 1870) was a United States Senator from Rhode Island. Born in Elizabeth, New Jersey, he moved to Providence where he studied under a private teacher. He graduated from Brown University in 1809, studied law, admitted to the bar and commenced practice in Providence in 1812. He was clerk of the supreme court of Providence County in 1813 and proprietor of a distillery in Cranston until 1824 when he became a cotton manufacturer in Providence, Pontiac, and Woonsocket. He was a member of the Rhode Island House of Representatives from 1836 to 1842 and from 1845 to 1847.
+
+Rhode Island Route 99: 
+Route 99, also known as the Woonsocket Industrial Highway, is a numbered state highway running 2.9 mi in Providence County, Rhode Island, United States. The route is a nominally north–south limited-access freeway for its entire length. Route 99 serves Manville and the Highland Industrial Park, providing freeway access to the city of Woonsocket from Rhode Island Route 146, which bypasses the city. The southern terminus of Route 99 is at a partial interchange with Route 146 in Lincoln. The freeway has one unnumbered interchange in Manville, a village in Lincoln, before terminating at an at-grade intersection with Rhode Island Route 122 in Woonsocket.
+
+Lime Rock, Rhode Island: 
+Lime Rock (Limerock) is a village and historic district in Lincoln, Providence County, Rhode Island, United States, near Rhode Island Route 146. The village was named after the limestone quarries in the area, which started in the 17th century, and continue to the present where Conklin Limestone Company now operates. Because of the abundance of limestone in the area many houses had massive end chimneys and were called ""stone enders,"" a distinctly Rhode Island style of architecture.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Tara Allain graduated from a college in which city?
+        
+        assistant
+         Waterville, Maine.","Waterville, Maine",0.0009491443634033,0.728147029876709,0.1433658301830291,0.0034632034632034,0.0034632034632034,Tara Allain graduated from a college in which city ?,1
+28,Yes.,yes,0.0009596347808837,0.5955123901367188,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+29,"Park Jin-pyo directed the film ""Love Forecast"" in which Jung Joon-young made his big screen debut.",Park Jin-pyo,0.0009765625,1.473712682723999,0.5454977750778198,0.2857142857142857,0.2857142857142857,Who directed the film in which Jung Joon-young made his big screen debut?,1
+30,"Yes, both Lionel Friedberg and Kenneth Anger were involved in the film industry.",yes,0.0009458065032958,1.1852686405181885,0.1669187247753143,0.1428571428571428,0.1428571428571428,Can Fraxinus and Onoclea both be found in North America?,0
+31,Yes.,yes,0.0009176731109619,0.5691401958465576,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1

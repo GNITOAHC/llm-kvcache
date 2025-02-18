@@ -1,0 +1,65 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0, Yes.,yes,93.94680500030518,98.27129173278809,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+1, Cannon Mountain Ski Area,Cannon Mountain Ski Area,94.41135454177856,99.77920961380003,0.9999999403953552,1.0,1.0,What state-owned resort used by US Olympic skier Bode Miller is under management of the New Hampshire Division of Parks and Recreation?
+2, No.,yes,94.36329460144044,98.88181161880492,0.6049201488494873,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?
+3, A Midsummer Night's Dream.,A Midsummer Night's Dream,93.43653297424316,100.13894891738892,0.9773761630058287,1.0,1.0,Peter Coleman-Wright played Demetrius in which opera whose music was by Benjamin Britten?  
+4, 1869,1869,93.99288415908812,98.7251148223877,1.0,1.0,1.0,The Medgar Evers House is owned by a college founded in what year?
+5, Sissy Spacek,Sissy Spacek,93.98246622085573,99.1497392654419,1.000000238418579,1.0,1.0,Which actress starred in both Blast from the Past and Coal Miner's Daughter?
+6, Keir Dullea,Geoffrey Rush,93.47523045539856,99.30569553375244,0.1628149598836898,0.0,0.0,Who played the part of the Marquis de Sade in the film for which Martin Childs was nominated for an award at the 74th Academy Awards?
+7, Doyle Wolfgang von Frankenstein,Doyle Wolfgang von Frankenstein,93.61589646339417,99.23787689208984,1.0,1.0,1.0,which  American guitaris was Famous Monsters last to feature 
+8, World War II,World War II,93.97509241104126,98.74196934700012,1.0,1.0,1.0,"Battle of Tarawa and Operation Overlord, occurred during which event?"
+9, 1761,1761,93.70969986915588,98.69900679588318,1.0000001192092896,1.0,1.0,In what year were the parents of Prince Octavius of Great Britain married?  
+10, Zareen Khan,Tamil and Punjabi,93.64120197296144,98.82317900657654,0.2788008153438568,0.0,0.0,Hate Story 3 is a 2015 Indian erotic thriller film starring an actress and model who has also appeared in what other language films?
+11, They are both part of a boy band.,band,94.45034670829772,102.03276991844176,0.5120164155960083,0.2222222222222222,0.2222222222222222,What kind of group does Social Distortion 2001 Tour and Mike Ness have in common?
+12," Robert Grosvenor, 5th Duke of Westminster's wife was Viola Grosvenor, Duchess of Westminster.",Viola Grosvenor,94.39995670318604,108.29261660575868,0.7018125057220459,0.25,0.25,Who was the wife of the richest man in Britian in the 1970s?
+13, Anil Agarwal through Volcan Investments.,Anil Agarwal,94.34921312332152,102.17675948143004,0.7095925807952881,0.5714285714285715,0.5714285714285715,Who principally owns the parent company of Hindustan Zinc Limited  ?
+14," The Netflix series ""Making a Murderer"".","""Making a Murderer""",94.0040204524994,101.3413360118866,0.7567955255508423,0.6666666666666666,0.6666666666666666,"The composer of ""A Love That Will Never Grow Old"" most recently composed the theme music for what Netflix series?"
+15, Hex and Catan are both board games.,board game,94.2847330570221,101.8582363128662,0.4608679711818695,0.4444444444444445,0.4444444444444445,Monopoly Junior and Tâb are both what?
+16, Pritchardia,Bunchosia,93.67349767684937,98.87135720252992,0.2675568461418152,0.0,0.0,"Which contains more species, Corynocarpus and Bunchosia?"
+17, Yes.,yes,93.99496364593506,98.3001790046692,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+18, Yes.,no,93.97924876213074,98.28054594993591,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?
+19, Lamiaceae,Lythraceae,93.96562123298644,98.7139995098114,0.4765460789203644,0.0,0.0,Ras Rumman is known for the cultivation of shrubs in what family?
+20, Dawn,Roma,93.75337648391724,97.60391783714294,0.2122350633144378,0.0,0.0,"What is the middle name of the British actress & comedian who was a cast member of both ""The Comic Strip"" and ""The Vicar of Dibley""?"
+21, Marfa lights,Marfa lights,94.34941005706789,99.10714864730836,0.9999999403953552,1.0,1.0,"What is the name of the ghost lights found east of the county seat of Presidio County, Texas?"
+22, Framing Hanley,The Operation M.D.,94.3789644241333,99.54512310028076,0.0564685091376304,0.0,0.0,"Which of the following had a debut album entitled ""We Have an Emergency"": Hot Hot Heat or The Operation M.D.?"
+23, 1995,1972,93.98461866378784,98.7362768650055,0.4584916830062866,0.0,0.0,The film Jogan fetures a song by a musician that died in what year?
+24, Julie Ege,Julie Ege,93.93479490280151,98.69515776634216,1.0,1.0,1.0,What star of Bortreist på ubestemt tid was born on 12 November 1943?
+25, No.,no,94.3900830745697,98.69179058074953,0.8128341436386108,1.0,1.0,Are Chris Marker and Yvonne Rainer American?
+26, Apple.,Apple,93.84043264389038,98.16418075561523,0.9395343661308287,1.0,1.0,Avie Tevanian and Tanya Seghatchian were both vice presidents of what company?
+27, Adani Ports & SEZ Limited.,Adani Ports & SEZ Limited,94.16491746902466,101.06569004058838,0.950554370880127,1.0,1.0,"Mundra Port is the largest private port of India located on the north shores of the Gulf of Kutch near Mundra, Kutch district, Gujarat, it's owned by Adani Group, a multinational conglomerate company headquartered in Ahmedabad, Gujarat, India, which later expanded it into  which organization, managing several ports?"
+28, Italy,Albanian Kingdom,93.90560722351074,97.76609134674072,0.427713394165039,0.0,0.0,In which country Hermann Neubacher held a diplomatic post as an Austrian Nazi politician when it was under the control of the Kingdom of Italy?
+29," The Friend is a children's magazine, and Wired is a technology magazine.",magazine,93.94328737258913,103.8606185913086,0.4663393497467041,0.1428571428571428,0.1428571428571428,"Moves and Heavy Metal, are which type of publication?"
+30, Shock around the world.,shock around the world,93.69322180747986,99.28812909126282,0.9710838198661804,1.0,1.0,Operation Flavius was followed by an event that was filmed by television news crews and caused what?
+31, The Tree That Remembers,The Tree That Remembers,93.63350534439088,99.25057363510132,1.0,1.0,1.0,"Which documentary was animated, The Tree That Remembers or Being Osama?"
+32, S. H. Kress & Co.,S. H. Kress & Co.,93.82310700416564,101.16882848739624,1.0,1.0,1.0,"Kress building was built in 1934 by what chain of five and dime retail department stores, which operated from 1896 to 1981?"
+33, Tina Turner,Tina Turner,93.95905089378356,98.24925637245178,1.0000001192092896,1.0,1.0,"Break Every Rule World Tour is the fourth worldwide concert tour by which American-born Swiss recording singer, songwriter, dancer, actress, and author, and relinquished her American citizenship after obtaining Swiss citizenship in 2013?"
+34, Middle East Airlines,Middle East Airlines,93.87580752372742,98.61205124855042,1.0000001192092896,1.0,1.0,"Boutros Salim AbouNader, is a former Lebanese civil aviation pilot, he has worked for Air Liban S.A.L., for over 50 years, most commonly known as which name?"
+35, No.,no,94.32625722885132,98.64177799224854,0.8128341436386108,1.0,1.0,Are Chris Marker and Yvonne Rainer American?
+36," Lowell, Massachusetts",25 miles,94.38200354576112,99.12260341644289,0.2405419796705246,0.0,0.0,Konarka Technologies was a spin off from the college located how far northwest of Boston?
+37, Pierre-Hugues Herbert,Pierre-Hugues Herbert,93.60462713241576,99.22076511383057,1.0,1.0,1.0,"who had more success as singles, Travis Parrott or Pierre-Hugues Herbert"
+38, Board games.,board game,93.97151112556458,98.7247724533081,0.8520805835723877,1.0,1.0,Monopoly Junior and Tâb are both what?
+39, Watch My Chops,Watch My Chops,93.9010570049286,99.09380340576172,1.0,1.0,1.0,"Pitt & Kantrop is a children's television programme produced by the Eurovision Network and was shown on BBC One and CBBC in the United Kingdom, it is from the creators of which French animated series about an intelligent talking dog, Corneil, and his ""dog-sitter"", Bernie Barges?"
+40, Jagged Edge,Jagged Edge,93.48335194587708,98.2070643901825,1.0,1.0,1.0,"For what film, was the actor who starred with Robert Taylor in Cattle King, nominated for an Academy Award ? "
+41, No.,no,94.38891673088074,98.92074728012084,0.8128341436386108,1.0,1.0,Are Chris Marker and Yvonne Rainer American?
+42, Alternative rock,rock,93.63104248046876,97.95249032974245,0.7255392074584961,0.6666666666666666,0.6666666666666666,"Shihad and Violent Soho, have which genre in common?"
+43," The author of ""The Life of Reason"", George Santayana, was raised and educated in the United States from the age of eight.",United States,93.9472484588623,109.4798550605774,0.1385970115661621,0.1666666666666666,0.1666666666666666,Where is the owner of Next big sound provides analytics for online music available?
+44, USS Missouri,Mighty Mo,94.36448884010316,98.66141366958618,0.4181244075298309,0.0,0.0,What is the nickname of the United States Navy battleship featured in the 1945 documentary Appointment in Tokyo?
+45, NY 396,396,93.60872602462769,98.3438274860382,0.6046315431594849,0.6666666666666666,0.6666666666666666,On what New York State Route does the town Rowe Farm is near sit on?
+46, The Whitman family.,Whitman family,93.94824600219728,99.54675841331482,0.9664859771728516,0.8,0.8,Who owns the upscale shopping mall known for luxury retail on Florida State Road 922?
+47," Las Vegas, Nevada.","Las Vegas, Nevada",93.96709966659546,99.56385111808775,0.9732741713523864,1.0,1.0,Where was the American mixed martial arts organization at which Marlon Moraes competes with bantamweight division based? 
+48, Public research universities.,public research,93.94198703765868,99.0955126285553,0.6710618734359741,0.8,0.8,What does University of Alabama at Birmingham and University of Kansas have in common?
+49, 1911,1954,93.636705160141,98.4205424785614,0.4285195767879486,0.0,0.0,The Golden Gate score was composed by an American composer who was born in what year?
+50, The Wolf of Wall Street.,The Wolf of Wall Street,93.6607427597046,99.7104320526123,0.9834253787994384,1.0,1.0,"The star of the upcoming film Don’t Worry, He Won’t Get Far on Foot born in 1983 received an Academy Award nomination for what 2013 film?"
+51, Caballo Dorado,Caballo Dorado,94.30981183052064,99.51017379760742,1.0,1.0,1.0,In 1995  Frank J. Myers won a Grammy for a song covered in 1998 by what Mexican country band?
+52, Doha,the Persian Gulf,93.98276233673096,98.27078819274902,0.3579862117767334,0.0,0.0,the 15th Asian Games were held in a city located on which gulf ?
+53, The 2017 Pakistan Super League Final.,2017 Pakistan Super League Final,94.0934512615204,101.41880655288696,0.975695788860321,0.9090909090909092,0.9090909090909092,"The Quetta Gladiators participated in what event against Peshawar Zalmi, held at Gaddafi Stadium?"
+54, Gabe Kaplan,Gabe Kaplan,94.38288927078248,99.12512516975404,1.0000001192092896,1.0,1.0,"What American comedian, actor, poker commentator and professional poker player, starred in the American sitcom Lewis & Clark?"
+55, Éire,Éire,93.717698097229,98.0334177017212,1.0000001192092896,1.0,1.0,What Irish word for the name of an island and a sovereign state is featured on Irish euro coins?
+56, David Berenbaum,Marius de Vries,93.75167608261108,98.95179271697998,0.2346287369728088,0.0,0.0,Who composed the score of the 2015 film co-written by the writer of the film Elf?
+57, The United States.,American,93.60781145095824,99.01029515266418,0.4885761737823486,0.0,0.0,Kerry Remsen is the daughter of an actor with what ethnicity?
+58, Ricoh Coliseum,Ricoh Coliseum,93.71387362480164,98.90150904655457,1.0,1.0,1.0,What is the name of the Coliseum where Tyler Bozak's former AHL team plays hockey?
+59, Anthrax,Anthrax,93.62439823150636,97.90056347846983,1.0000001192092896,1.0,1.0,Longtime Randall amp customer Scott Ian is original rhythm guitarist for which metal band?
+60, Yes.,yes,93.96568489074708,98.509699344635,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+61, Ain Shams University,University of Central Florida,93.6740894317627,99.05690908432008,0.4407615065574646,0.2857142857142857,0.2857142857142857,"Which university that Jay Bergman coached at, resides in Orlando, Florida? "
+62, Toby Gad,Toby Gad,93.62403893470764,97.912522315979,1.0000001192092896,1.0,1.0,"Along with whom Brittany Jean Carlson wrote the song ""If I Were a Boy""?"
+63," Maurice Gibb, a member of the Bee Gees.",the Bee Gees,93.59455680847168,102.46899318695068,0.6697667837142944,0.5454545454545454,0.5454545454545454,Friðrik Karlsson is an Icelandic musician and songwriter who contributed to the soundtrack of musical with a book by Nan Knighton and music and lyrics by who?

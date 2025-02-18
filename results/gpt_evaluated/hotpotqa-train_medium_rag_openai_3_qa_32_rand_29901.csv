@@ -1,0 +1,97 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,African-American.,African American,0.3621819019317627,2.298326253890991,0.8992266654968262,1.0,1.0,"What was the race of the man whose ""St. Louis Blues.""  were depicted in Blue Rhythm?",1
+1,The novel of the same name by Lauren Weisberger.,Lauren Weisberger's 2003 novel of the same name,0.3033130168914795,1.0865533351898191,0.8763646483421326,0.7777777777777778,0.5555555555555556,"What was ""The Devil Wears Prada"" based off of?",1
+2,Emeritus Professor of Economics.,Emeritus Professor of Economics,0.2724330425262451,0.7804274559020996,0.984165906906128,1.0,1.0,"What position did the  man hold who held Executive Director of the Australia-Japan Research Centre until 2002, who was born in a town located approximately 630 kilometres north of the New South Wales State capital, Sydney, 340 km south of Brisbane, Queensland and approximately 35 km west of the Tasman Sea coast ?",1
+3,Harold Wilson.,Harold Wilson,0.2969794273376465,0.7260336875915527,0.978937029838562,1.0,1.0,The Public Records Act of 1967 was passed during which 1964-1970 Prime Minister?,1
+4,Draymond Green.,Draymond Green,0.2706916332244873,0.722975492477417,0.9875936508178712,1.0,1.0,"The Cavaliers–Warriors rivalry is a National Basketball Association (NBA) rivalry between the Cleveland Cavaliers and the Golden State Warriors, the two teams feature 11 NBA All-Stars, including which American professional basketball player, and was named an NBA All-Star and All-NBA Team member the following two seasons?",1
+5,Tool.,Tool,0.3243875503540039,0.6182126998901367,0.9141275882720948,1.0,1.0,Who is the American rock band from California with a hit single Stinkfist?,1
+6,The CIA.,the CIA,0.4723544120788574,0.6570773124694824,0.9737504124641418,1.0,1.0,Which organization created the R. V. Jones Intelligence Award which honors those who are accomplished in the area of scientific military intelligence such as Reginald Victor Jones?,1
+7,Over 100 languages.,100,0.2584400177001953,0.7899870872497559,0.3921327590942383,0.5,0.5,"The show will bring ten amateur baking contestants together in a bake-off competition of ""themed culinary challenges"" to find a best, over-all competitor, judging the competition will be pastry chef Feldeisen, a multiple James Beard Award nominee and the former executive pastry chef for Four Seasons Hotels Ltd., trading as Four Seasons Hotels and Resorts, is a Canadian international luxury hospitality company headquartered in Toronto, Ontario, it operates more than how many hotels worldwide?",0
+8,Pete's Tavern on Irving Place in New York City.,at Pete's Tavern on Irving Place in New York City,0.3283731937408447,1.0876312255859375,0.9687362909317015,0.9523809523809524,0.9523809523809524,Raincoat is a 2004 Indian Hindi drama film which is an adaptation of a short story that was allegedly written at which tavern ?,1
+9,Asian Paralympic Committee (APC),Asian Paralympic Committee,0.3724393844604492,0.8379290103912354,0.8976110816001892,0.8571428571428571,0.8571428571428571,"Japan Paralympic Committee is recognized by International Paralympic Committee (IPC), Ministry of Health and what other committee?",1
+10,The Town of Hempstead is in the 7th State Senate district.,8th,0.9261956214904784,1.1277503967285156,0.2135573625564575,0.0,0.0,"The Town of Hempstead in New York, United States is in what New York State Senate district?",0
+11,A Pulitzer Prize and Tony nominations.,Pulitzer Prize,0.2530784606933594,0.8245143890380859,0.7244863510131836,0.5,0.5,"Edward Albee and Oliver La Farge both won this award, one for a novel and one for a play?",0
+12,"manager at Barnsley.
+
+Ray Lewington: 
+Raymond Lewington (born 7 September 1956) is an English retired footballer and current assistant manager of Crystal Palace FC. Previously he was the assistant manager of the England national football team. His son, Dean, is a professional footballer playing for Milton Keynes Dons.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Arthur Noss won a Military Cross as the gunner of a soldier born in which year?
+        
+        assistant
+         1892",1892,0.2748994827270508,0.6193900108337402,0.1063234806060791,0.0263157894736842,0.0263157894736842,"What year was the trophy, in which the 1989-90 Calgary Flames won, commissioned?",0
+13,"Michael Williams and J-Bo co-wrote and produced ""Pour It Up"".",Mike Will Made It,0.6167654991149902,1.105656623840332,0.2468110769987106,0.125,0.125,What trap beat artist co-wrote and produced Pour It Up?,1
+14,The Amazon rainforest.,Amazon rainforest,0.494621992111206,0.8867306709289551,0.9383839964866638,0.8,0.8,"Where is the legendary giant anaconda discovered that Vincent Castellanos, the American actor best known for his role in Anaconda from?",1
+15,Jules Massenet.,Jules Émile Frédéric Massenet,0.322277307510376,0.788214921951294,0.8539185523986816,0.5,0.5,"Which composer lived a longer life, Dmitri Shostakovich or Jules Massenet?",1
+16,They are both film directors.,film director,0.2777431011199951,0.923804759979248,0.7297666072845459,0.5714285714285715,0.5714285714285715,What is the occupation of Wang Quan'an and Donald Sawyer?,1
+17,25 episodes.,25,0.5978572368621826,0.8084380626678467,0.4410458207130432,0.6666666666666666,0.6666666666666666,Dambai is the capital of one of how many districts in the Volta region?,0
+18,1940,1940,0.2796809673309326,0.6544370651245117,0.9999999403953552,1.0,1.0,What year was the director of Snake Eyes born?,1
+19,Neither Copeland nor Florence and the Machine are related in occupation type.,music,0.2630667686462402,1.286970615386963,0.0475876927375793,0.0,0.0,What activity do both The Owl Service and Sigur Rós have in common?,0
+20,Picric acid.,Turpenite,0.3646087646484375,0.6985833644866943,0.3367322087287903,0.0,0.0,The a German chemist who received the Nobel Prize in Chemistry in 1918 reported the smell of what war gas allegedly developed by the French chemist Eugène Turpin?,0
+21,Rihanna.,Rihanna,0.3231256008148193,0.7543585300445557,0.9637503623962402,1.0,1.0,New Zealand top 50 singles of 2014 contained a song by Eminem that had guest vocals from what Barbadian singer?,1
+22,1962,1962,0.399299144744873,0.6371865272521973,1.0,1.0,1.0,The founder of the techno record label Metroplex was born in what year?,1
+23,"Ferula genus is more useful to humans as it is a source of various compounds, including ferulic acid, and has been used in medicine and as a spice, whereas Loasa is primarily an ornamental plant.",Ferula,0.3723073005676269,2.234978437423706,0.5197393298149109,0.0555555555555555,0.0555555555555555,Is the Loasa genus or the Ferula genus more useful to humans?,1
+24,Jeremy,Jeremy,0.3730897903442383,0.6452140808105469,0.9999999403953552,1.0,1.0,"Which song, inspired by a high school student who shot himself in front of his English class, also appears with Yellow Ledbetter?",1
+25,"manager to Tommy Wright at St Johnstone.
+
+Richard Hill (footballer, born 1963): 
+Richard Wilfred Hill (born 20 September 1963) is an English football coach and manager, who is currently Director of Football and caretaker manager at Eastleigh. He is also a former footballer who played for Oxford United, Watford, Northampton Town and Leicester City. He has been assistant manager at six different clubs, including Queens Park Rangers, had a difficult but successful stint as manager of Stevenage Borough before he took Eastleigh into the National League for the first time in their history.
+
+Bobby Davison: 
+Robert ""Bobby"" Davison (born 17 July 1959) is an English former professional footballer who played as a striker. Born in South Shields he began his career with Huddersfield Town before spending time at Halifax Town, Derby County (twice), Leeds United, Sheffield United (twice), Leicester City, Rotherham United and Hull City. After he retired from playing he spent time on the coaching staff of a number of clubs, including brief spells as manager of Guiseley and Ferencváros, and is currently youth team coach at Crystal Palace and assistant manager to Noel Blake's England national under-19 football team.
+
+Nigel Pearson: 
+Nigel Graham Pearson (born 21 August 1963) is an English football manager and former professional player who is currently manager of OH Leuven. He previously managed Hull City, Southampton, Carlisle United and Leicester City and was assistant manager for England Under-21s and Newcastle United. During his playing career, he was a defender and played for Shrewsbury Town, Sheffield Wednesday and Middlesbrough.
+
+History of Leicester City F.C.: 
+This is the history of Leicester City Football Club, based in Leicester, England, the United Kingdom. Having been founded over a 100 years ago, for the first time, in the 2015–16 season, Leicester City won the Premier League, with manager Claudio Ranieri being the manager. Also, in this same season, the team qualified for the UEFA Champions League.
+
+2014–15 Oxford United F.C. season: 
+The 2014–15 season was Oxford United's fifth season in League Two after returning from the Conference, and their first under new manager Michael Appleton. They finished 13th in the table, following an 8th-place finish in League Two in 2013–14. It was the club's 121st year in existence, their 115th of competitive football and their 66th since turning professional. This article covers the period from 1 July 2014 to 30 June 2015.
+
+Michael Appleton: 
+Michael Antony Appleton (born 4 December 1975) is an English football coach and former player who is currently the assistant manager of Leicester City.
+
+Brian Carey: 
+Brian Patrick Carey (born 31 May 1968) is a former Irish international footballer who played in the Football League for Leicester City as well as Wrexham, whom he also served as manager. Since his playing retirement he has worked as the Assistant Manager at Doncaster and Wolves and Chesterfield FC. He was the Lead Professional Development a Coach at Blackburn Rovers until May 2015 until early diapered for First Team League Football once again. He is a UEFA A Licence Coach, holds a BSc in Sport Coaching and Exercise Science and he has represented Republic of Ireland at Senior International Level.
+
+Malcolm Shotton: 
+Malcolm Shotton (born 16 February 1957) is an English former professional footballer and manager. He was on the books of Leicester City as an apprentice but failed to make the break into senior football there. He played for Atherstone United and Nuneaton Borough in non-league football before signing for Oxford United in 1980. He formed a notable defensive partnership with Gary Briggs and went on to become captain of the side as they rose from Division Three to Division One. His finest moment as captain was lifting the Milk Cup at Wembley Stadium in April 1986. At the end of the following season he was transferred to Portsmouth. He later played for Huddersfield Town, Barnsley, Hull City and Ayr United and, after his playing career ended, served as assistant manager at Barnsley.
+---------------------
+Malcolm Shotton: 
+Malcolm Shotton (born 16 February 1957) is an English former professional footballer and manager. He was on the books of Leicester City as an apprentice but failed to make the break into senior football there. He played for Atherstone United and Nuneaton Borough in non-league football before signing for Oxford United in 1980. He formed a notable defensive partnership with Gary Briggs and went on to become captain of the side as they rose from Division Three to Division One. His finest moment as captain was lifting the Milk Cup at Wembley Stadium in April 1986. At the end of the following season he was transferred to Portsmouth. He later played for Huddersfield Town, Barnsley, Hull City and Ayr United and, after his playing career ended, served as assistant manager at Barnsley.
+
+Ray Lewington: 
+Raymond Lewington (born 7 September 1956) is an English retired footballer and current assistant manager of Crystal Palace FC. Previously he was the assistant manager of the England national football team. His son, Dean, is a professional footballer playing for Milton Keynes Dons.
+---------------------
+He still holds many records for his rebounding, blocked shots and scoring. In 2007, Davis was appointed by New Hampshire Governor John Lynch to the N.H. Workforce Youth Council, and in 2008 he became the chair. He is also a board member of the Greater Seacoast United Way. Dwight spends much of his free time working with at risk teens with lessons on and off the court.
+
+David Lee (basketball): 
+David Lee (born April 29, 1983) is an American professional basketball player who last played for the San Antonio Spurs of the National Basketball Association (NBA). He played college basketball for the Florida Gators before he was drafted 30th overall by the New York Knicks in the 2005 NBA draft. In 2010, Lee was signed and traded to the Golden State Warriors. Lee is a two-time All-Star and All-NBA Team member, and won an NBA championship with the Warriors in 2015.
+
+Klay Thompson: 
+Klay Alexander Thompson (born February 8, 1990) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The son of former NBA player Mychal Thompson, he played college basketball for three seasons at Washington State University, where he was a two-time first-team all-conference selection in the Pac-10. Thompson was selected in the first round of the 2011 NBA draft by Golden State with the 11th overall pick. In 2014, he and teammate Stephen Curry set a then NBA record with 484 combined three-pointers in a season, as the pair were given the nickname the ""Splash Brothers"". Thompson is a three-time NBA All-Star and a two-time All-NBA Third Team honoree. In 2015, he helped lead the Warriors to their first NBA Championship since 1975. Thompson helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship.
+
+Mo Williams: 
+Maurice Williams (born December 19, 1982) is an American professional basketball player who last played for the Cleveland Cavaliers of the National Basketball Association (NBA). After a successful high school career at Murrah High School, Williams attended college at the University of Alabama, where he led his team as a freshman to a 27–8 record, and also shared an SEC regular-season championship. After two seasons at Alabama, Williams entered the 2003 NBA draft where he was selected with the 47th overall pick by the Utah Jazz. Throughout his career, he has also played for the Milwaukee Bucks, Los Angeles Clippers, Portland Trail Blazers, Minnesota Timberwolves, Charlotte Hornets and Cleveland Cavaliers. In 2009, Williams was selected as an NBA All-Star. In 2016, he won an NBA championship with the Cavaliers.
+
+List of Golden State Warriors head coaches: 
+The Golden State Warriors are an American professional basketball team based in Oakland, California. The franchise had been known as the Philadelphia Warriors and the San Francisco Warriors, due to it previously being based in or near those cities. The team is a member of the Pacific Division of the Western Conference in the National Basketball Association (NBA). The Warriors initially joined the Basketball Association of America (BAA) as the Philadelphia Warriors in 1946, and won the first BAA championship title in the same year under coach Edward Gottlieb. The Warriors later joined the NBA at its foundation in 1949. The Warriors' record was 26–42 in their first NBA season and lost in the first round of the playoffs to the Syracuse Nationals. Franklin Mieuli and the Diners Club put together a group of 40 local investors to move the Warriors to San Francisco before the 1962–63 NBA season, with Mieuli eventually buying all the shares of the franchise to keep the team from collapsing and to keep it in the area. The team became the Golden State Warriors and moved to Oakland before the 1971–72 NBA season.
+
+2017 NBA Finals: 
+The 2017 NBA Finals was the championship series of the National Basketball Association (NBA)'s 2016–17 season and conclusion of the season's playoffs. The Western Conference champion Golden State Warriors defeated the defending NBA champion and Eastern Conference champion Cleveland Cavaliers 4 games to 1. This Finals was the first time in NBA history the same two teams had met for a third consecutive year. The Cavaliers sought to repeat as champions after winning the championship in 2016, while the Warriors won the first meeting in 2015. Golden State earned home court advantage with a 2016–17 regular season record of 67–15, while Cleveland finished the regular season with a 51–31 record.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        The current assistant manager of Leicester City used to coach which team in the 2014-15 Season?
+        
+        assistant
+         Oxford United.",Oxford United,0.4937460422515869,0.6169631481170654,0.2639711201190948,0.0024257125530624,0.0024257125530624,The current assistant manager of Leicester City used to coach which team in the 2014-15 Season ?,0
+26,Thomas Paine.,Thomas Paine,0.3190832138061523,0.8118829727172852,0.9836512804031372,1.0,1.0,What English and American political activist wrote a book that helped Joseph L. Lewis leave theism?,1
+27,Swedish.,English,0.7204594612121582,0.6988320350646973,0.5857225656509399,0.0,0.0,What language is spoken at both Lipscomb University and University of Debrecen?,0
+28,"""A Long Way Home"" by Saroo Brierley.","""A Long Way Home""",0.3280496597290039,1.0841007232666016,0.7175344228744507,0.7272727272727273,0.7272727272727273,"The actor that played Jamal Malik in ""Slumdog Millionaire"" also starred with Rooney Mara in a 2016 film based on what non-fiction book?",1
+29,"k-os released a song called ""Crabbuckit"" based on the crab mentality metaphor.",k-os,0.3962182998657226,1.4578394889831543,0.4239350259304046,0.2666666666666667,0.2666666666666667,Who released a song based on a metaphor rephgering to the pattern of behavior seen in a group of crabs trapped in a bucket?,1
+30,"Oakland, California.","Pittsburgh, Pennsylvania",0.3047332763671875,0.69244384765625,0.563395619392395,0.0,0.0,"What is the birthplace of the novelist who created the poem ""Sacred Emily?""",0
+31,887,887,0.3150308132171631,0.6024801731109619,0.9999999403953552,1.0,1.0,What is the area of the town that Church of St. Anne is located in (in Acres)?,1

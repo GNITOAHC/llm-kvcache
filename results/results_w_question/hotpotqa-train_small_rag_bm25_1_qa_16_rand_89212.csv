@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,Walgett.,Walgett,0.0010511875152587,1.4421892166137695,0.9836324453353882,1.0,1.0,"In New South Wales, the ABC Local Radio Station ABC Western Plains, broadcasts to what northern town;which is near the junctions of the Barwon and Naomi rivers?"
+1,1945,1945,0.0008399486541748,0.2435691356658935,1.0000001192092896,1.0,1.0,"What year was the singer of ""wavelength"" born ?"
+2,"The album ""Fuckfest"" is by the band Oxbow, but the question is not answered in the given context.","San Francisco, California",0.0006647109985351,1.035320281982422,0.1158793568611145,0.0,0.0,Lenny Von Dohlen was an architect in the 1984 movie set in what location?
+3,Unbreakable.,Unbreakable,0.0007433891296386,0.276973009109497,0.9620705842971802,1.0,1.0,Alex Ross did the DVD packaging art for what 2000 American superhero thriller film that starred Bruce Willis and Samuel L. Jackson?
+4,Cecil Sharp.,Cecil James Sharp,0.0008666515350341,0.2407834529876709,0.9091007709503174,0.8,0.8,Who was a founding father of the folk-song revival in England in the early 20th century and had a portait painted of them by Esther Blaikie MacKinnon?
+5,Yale University.,Yale University,0.000737190246582,0.2276184558868408,0.9727520942687988,1.0,1.0,George Herbert Walker's great-grandson graduated from where in 1968?
+6,"No, they are not. Salford Cathedral is in England, while Plymouth Cathedral is in Colombia.",yes,0.0006663799285888,0.8813624382019043,0.0772289037704467,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?
+7,1900.,1900,0.0007412433624267,0.2754850387573242,0.9619110226631165,1.0,1.0,The 11th SS Panzer Army was formed by a man born in what year?
+8,"Terry O. Morse was born on January 30, 1906.",Terry O. Morse,0.0007178783416748,0.6652514934539795,0.7246469259262085,0.5,0.5,"Between two American filmmakers, Jon Paul Puno and Terry O. Morse, who was born earlier"
+9,Apollo 17.,Apollo 17,0.000779390335083,0.2745647430419922,0.9847585558891296,1.0,1.0,"Saturn V delivered men to the Moon for the last time, in which NASA mission?"
+10,Paul Schrader.,Paul Schrader,0.0007622241973876,0.3119399547576904,0.9839420914649964,1.0,1.0,Which director of a film starring Lindsey Lohan also directed 18 feature films?
+11,Professional tennis players.,tennis player,0.0007028579711914,0.270742654800415,0.8081836104393005,0.8,0.8,"Gabriela Sabatini and Patrick McEnroe, are professionals of which sports occupation?"
+12,"Über Goober was created in the United States, not India.",Veena Vaadanam,0.0006670951843261,0.7088398933410645,0.1019062399864196,0.0,0.0,"Which documentary was created in India, Veena Vaadanam or Über Goober?"
+13,"No, Joseph Roth was Austrian, while João Guimarães Rosa was Brazilian.",no,0.0007202625274658,0.7749814987182617,0.0745746791362762,0.1428571428571428,0.1428571428571428,Are Chris Marker and Yvonne Rainer American?
+14,Operation Quicksilver.,Operation Quicksilver,0.0008559226989746,0.3119361400604248,0.9760154485702516,1.0,1.0,"Which operation, part of the Invasion of Normandy, was conducted by the fictitious allied army group to deceive the Germans about where the Allies would land in preparation for Operation Overlord?"
+15,The Nutty Professor.,The Pursuit of Happyness,0.0007727146148681,0.3123481273651123,0.2038449198007583,0.2857142857142857,0.2857142857142857,"The first movie the son of the actress who starred in ""True Colors,"" ""A Different World,"" and ""The Nutty Professor,"" was named what?"

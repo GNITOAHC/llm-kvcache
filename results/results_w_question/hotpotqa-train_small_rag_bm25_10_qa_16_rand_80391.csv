@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,Kate Spade.,Kate Spade,0.001589298248291,2.485339403152466,0.9669650197029114,1.0,1.0,"eBags carries the brand of which American fashion designer and businesswoman born on December 24, 1962?"
+1,"Columbus, Ohio.","Columbus, Ohio",0.0013790130615234,1.2372760772705078,0.9755048155784608,1.0,1.0,"Grace Krilanovich's first novel was published by an independent mom-and-pop publishing house that was founded in 2005, and is based where?"
+2,Saddam Hussein.,Saddam Hussein,0.0013399124145507,1.1243281364440918,0.9434317350387572,1.0,1.0,What fifth President of Iraq did Abdel-Karim Mahoud al-Mohammedawi lead the resistance against?
+3,"Pete Sampras won Wimbledon 7 times, not Menno Oosting or Goran Ivanišević.",Goran Ivanišević,0.0013573169708251,2.2740566730499268,0.5205743312835693,0.375,0.375,"Who won Wimbledon more times, Menno Oosting or Goran Ivanišević?"
+4,The Multifunction Polis (MFP) was a controversial scheme for a planned community proposed in 1987 and abandoned in 1998.,Multifunction Polis,0.0013103485107421,2.437422275543213,0.4786926209926605,0.1904761904761905,0.1904761904761905,What controversial scheme for a planned community was in Garden Island?
+5,Microsoft Windows and Linux.,Microsoft Windows and Linux,0.0013215541839599,1.234436273574829,0.865555465221405,1.0,1.0,On what operating systems the crowdfunded space simulator that Chris Roberts created is compatible with?
+6,Tameside Stadium.,Tameside Stadium,0.0012092590332031,1.2860610485076904,0.9869006872177124,1.0,1.0,What is the current stadium of the semi-professional football club that Eddie Stanford plays for?
+7,Scania.,Danes,0.0012083053588867,1.1385443210601809,0.1706855297088623,0.0,0.0,Strut-Harald was a king who ruled over what North Germanic tribe of southern Scandinavia?
+8,"Teucrium has hundreds of species, while Atalaya has 18 species.",Teucrium,0.0011940002441406,1.8241312503814695,0.5906305313110352,0.1818181818181818,0.1818181818181818,"Which plant has more species, Teucrium or Atalaya?"
+9,Floyd Mayweather Jr. vs. Conor McGregor.,The Money Fight,0.0013368129730224,1.5089306831359863,0.4590835273265838,0.0,0.0,Mauro Ranallo was a Showtime broadcaster for the bout that was known as what?
+10,"September 5, 1967.","September 5, 1967",0.0012164115905761,1.385261058807373,0.9838533401489258,1.0,1.0,When does the Filipino singer and songwriter born who 14th studio album is Eclipse?
+11,Lincoln City.,Lincoln City,0.001321792602539,1.197669506072998,0.977350115776062,1.0,1.0,Robert “Bobby” Cumming and John Reames were both members of what team?
+12,Daniel Negreanu.,Daniel Negreanu,0.0012488365173339,1.3047151565551758,0.9819578528404236,1.0,1.0,"Who was born first, Brock Parker of Daniel Negreanu?"
+13,"No, the Laleli Mosque is located in Istanbul, Turkey, but the Cathedral of the Holy Spirit is located in Jataí, Brazil.",yes,0.0013513565063476,2.557595014572144,0.0729479640722274,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?
+14,"No, they are not.",no,0.0013389587402343,1.3610990047454834,0.2431753873825073,0.4,0.4,Are Chris Marker and Yvonne Rainer American?
+15,The Sweet Escape.,The Sweet Escape,0.0012743473052978,1.2908296585083008,0.9684563279151917,1.0,1.0,"Now That You Got It is a song by Gwen Stefani, from what album that was released on December 1, 2006 by Interscope Records?"

@@ -1,0 +1,65 @@
+idx,generated_response,ground_truth,reset_cache_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Hanover College,Hanover College,0.000525951385498,1.721099615097046,1.0,1.0,1.0,In which college Stephen Earl attended which was affiliated with the Presbyterian Church?,1
+1, Nancy Walker,Patricia Birch,0.0005548000335693,1.2567102909088137,0.4820946156978607,0.0,0.0,"Maureen Teefy's films include an American musical romantic comedy that was produced by Allan Carr and Robert Stigwood, and was directed by who?",0
+2, Foreign Affairs,Foreign Affairs,0.0005004405975341,1.24499773979187,1.0,1.0,1.0,"Which magazine was founded the earliest, Foreign Affairs or Amazing Heroes?",1
+3, Navy Exchange,Navy Exchange,0.0004973411560058,1.246415376663208,1.0,1.0,1.0,What is the retail store chain owned and operated by the United States Navy that requires eligibility verification at VetVerify.org?,1
+4, Oklahoma Sooners,Oklahoma Sooners,0.0004999637603759,1.6527526378631592,1.0000001192092896,1.0,1.0,What football team represented the University of Oklahoma and was featured as  #11 (BCS ranked) on the The 80th annual Sugar Bowl?,1
+5, 1971,17 July 1971,0.0004956722259521,1.6419079303741455,0.8660916090011597,0.5,0.5,When was the  Australian politician who is  the Minister for the Environment and Energy born,0
+6, real estate investment trust (REIT),shopping mall operator,0.0005111694335937,3.625732660293579,0.0247425995767116,0.0,0.0,"The non-profit organization, Simon Youth Foundation's parent company is an American commercial real estate company and also the largest what in the United States?",0
+7, 1956,1908,0.0005052089691162,1.6413953304290771,0.4435688257217407,0.0,0.0,When was the football team became active which was represented by Manfred Eglin in 1956 Summer Olympics?,0
+8, Film director,film director,0.000497817993164,1.2457263469696045,1.0,1.0,1.0,What is the occupation of Wang Quan'an and Donald Sawyer?,1
+9, The Dakota,Edward Severin Clark,0.0005083084106445,1.26552414894104,0.19996377825737,0.0,0.0,"Who is the owner of the cooperative apartment building located on the northwest corner of 72nd Street and Central Park West in the Upper West Side of Manhattan in New York City, built in 1884?",0
+10, KBS2,KBS2,0.0005333423614501,1.2495346069335938,1.0,1.0,1.0,What network aired the series where Kim Woo-bin took on his first leading role?,1
+11," Brooklands produced a 2.75 mi motor racing circuit and aerodrome, while Forrestburn Hillclimb is a 1030 m hillclimb track.",military aircraft,0.0005106925964355,13.892296314239502,0.0851057320833206,0.0,0.0,What did Brooklands produce that Forrestburn Hillclimb did not?,0
+12, 1987,1987,0.0005099773406982,1.6412322521209717,1.0,1.0,1.0,"Of the games Mega Man and 140, what year was the oldest of the two, released?",1
+13, The Dakar Rally.,Amaury Sport Organisation,0.0005321502685546,2.430729866027832,0.3072122633457184,0.0,0.0,The 2016 Africa Eco Race replaced a rally raid organised by who?,0
+14, Richard Craig,Craig,0.0005028247833251,1.2470686435699463,0.8247544765472412,0.6666666666666666,0.6666666666666666,What is the middle name of successful candidate in The 2004 United States Senate election in Alabama ?,0
+15, World War II,World War II,0.0005035400390625,1.641643762588501,1.0,1.0,1.0,"Battle of Tarawa and Operation Overlord, occurred during which event?",1
+16, Jimmy Choo,Jimmy Choo,0.000502586364746,1.6463127136230469,1.0,1.0,1.0,American producer K.E. on the Track worked with Fetty Wap on a song named after which shoemaker?,1
+17, Yes,no,0.000518798828125,0.8563003540039062,0.7334951162338257,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0
+18, The Bronx borough of New York City,"Newark, New Jersey",0.0005204677581787,3.2325146198272705,0.4229517579078674,0.2,0.2,What was the departure of the flight on which Susan Wehle died? ,0
+19, Red State,Let's Get Lost,0.0005061626434326,1.2554171085357666,0.2239282131195068,0.0,0.0,"Which was made in the 20th century, Let's Get Lost or Red State?",0
+20, 1903,1903,0.0004963874816894,1.6594586372375488,1.0,1.0,1.0,Atınç Nukan plays as a centre-back for a sports club founded in what year?,1
+21, The Empire State Building is taller.,Empire State Building,0.0005056858062744,3.2439558506011963,0.7869081497192383,0.6666666666666666,0.6666666666666666,"Of the two New York buildings, Time Warner Center and the Empire State Building, which one is taller?",1
+22, No,no,0.0005059242248535,0.857311487197876,1.0,1.0,1.0,Are Chris Marker and Yvonne Rainer American?,0
+23, NASA,National Advisory Committee for Aeronautics,0.000504732131958,0.8675813674926758,0.4513152241706848,0.0,0.0,What is the organization whose founding members include the Serbian-American physicist that lends his name to the asteroid 57868 Pupin?,0
+24, 26 August 1882,9 October 1879,0.0004942417144775,2.86018705368042,0.6443039178848267,0.0,0.0,What is the birthdate of this German physicist who won the Nobel Prize in Physics and was part of the Gottingen Manifesto against arming the West German Army?,0
+25," Kalamazoo, Michigan","74,262",0.0005016326904296,2.8444552421569824,0.0693101733922958,0.0,0.0,Waldo Stadium is located in a city that had how many inhabitants in 2010 ?,0
+26, 2015 UEFA Champions League Final,2015 UEFA Champions League Final,0.0005090236663818,3.2419192790985107,1.0,1.0,1.0,which match was played between Italian side Juventus and Spanish side Barcelona on 6June 2015?,1
+27, Richard Wright,Thomas Loren Friedman,0.0005061626434326,1.252284049987793,0.2981464862823486,0.0,0.0,"Name the journalist and author, a three time Pulitzer Prize winner, whose international best selling book, The World is Flat, analyzes globalization?",0
+28, The CILIP Carnegie Medal.,2012 CILIP Carnegie Medal,0.0004959106445312,3.239123582839966,0.9108425378799438,0.75,0.75,Ashes in the Snow is based on a novel that was nominated for what?,0
+29, 1512,"1454February 22, 1512",0.0005075931549072,1.652390718460083,0.6512819528579712,0.5,0.5,"When did the cartographer, that the Américo Vespucio Avenue is named after, die?",0
+30, L. Frank Baum,L. Frank Baum,0.0005099773406982,2.050533533096313,1.0,1.0,1.0,Who created the fictional character that is the main protagonist and has an Uncle Henry in the Oz novels?,1
+31, Vanessa Karen White,Vanessa White,0.0004944801330566,1.6643083095550537,0.8590667247772217,0.8,0.8,"Ester Dean is an American singer, songwriter, record producer, and actress, who co-wrote a song with what English singer-songwriter, dancer and actress, who rose to fame in 2008 as a member of the group The Saturdays? ",1
+32," ""We Were Soldiers Once… And Young""",We Were Soldiers Once and Young,0.0005109310150146,4.034447193145752,0.8187642097473145,1.0,1.0,"Myron F. Diduryk, was described by Hal Moore in which book?",1
+33, Mound Laboratories,Miami Indian burial mound.,0.0004968643188476,1.6511437892913818,0.4784296751022339,0.3333333333333333,0.3333333333333333,"What was the laboratory, in which Albert Attalla worked, named after ? ",1
+34, Shelter,Shelter,0.0005085468292236,0.8664741516113281,1.0,1.0,1.0,The star of Velvet Goldmine is also known for his role in what movie directed by Måns Mårlind and Björn Stein? ,1
+35, 19th,19th century,0.0005257129669189,1.657846212387085,0.7518644332885742,0.6666666666666666,0.6666666666666666,"The Blue Lacy, official breed of Texas, and Chesapeake Bay Retriever, are both dog breeds developed during which century?",1
+36, Hedy West,Hedy West,0.0005147457122802,1.6554303169250488,1.0000001192092896,1.0,1.0,Wee Cooper O'Fife is a folk song also recorded by which folksinger that died in 2005?,1
+37, Yes,no,0.0005044937133789,0.8581840991973877,0.7334951162338257,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0
+38, In the Streets to Africa,action-adventure video game,0.0005202293395996,2.442810535430908,0.1841963529586792,0.0,0.0,What game featured In the Streets to Africa?,0
+39, Saludos Amigos,Saludos Amigos,0.0005116462707519,2.122262716293335,1.0,1.0,1.0,Was Freaky Friday or Saludos Amigos released first?,1
+40, Lido Pimienta,Lido Pimienta,0.0005054473876953,2.856486320495605,1.0000001192092896,1.0,1.0,"Which Colombian-Canadian electronic musician incorporates a variety of styles and influences and released the album La Papessa, which won the 2017 Polaris Music Prize?",1
+41, 1984,1984,0.0004987716674804,1.654273509979248,1.0,1.0,1.0,Mr. Peregrine Percival is a fictional character in a children's tv series that was first broadcast in Great Britian in what year?,1
+42, The New York Times Building,The New York Times Building,0.0005164146423339,2.4470772743225098,1.0000001192092896,1.0,1.0,"Which structure was most recently created, 40 Wall Street or The New York Times Building?",1
+43, Divekick,Dungeons & Dragons,0.0005090236663818,1.2533862590789795,0.1694795340299606,0.0,0.0,The Gates of Firestorm Peak was an adventure written by the author who worked on which game series for Wizards of the Coast?,0
+44, 3,three,0.0005133152008056,1.2544443607330322,0.8656187057495117,0.0,0.0,"Death of a Soldier is a 1986 Australian film based on the life of American serial killer Eddie Leonski, he was an American soldier and serial killer responsible for the strangling murders of how many women in Melbourne, Australia?",1
+45, Catherine Zeta-Jones,Catherine Zeta-Jones,0.0005030632019042,2.447453737258911,1.0000001192092896,1.0,1.0,Which Welsh actress born in September 1969 has stayed at the Butler Arms Hotel in Waterville as a guest?,1
+46," Chencun, Guangdong",It is popular with its flower planting and has become a production base of fresh flowers.,0.000523567199707,2.844372272491455,0.1040127426385879,0.0,0.0,"Is Wuzhong, Ningxia or Chencun, Guangdong a popular city known for fresh flowers?",1
+47, Madonna Wayne Gacy,Pogo,0.0005040168762207,2.0616469383239746,0.1586635410785675,0.0,0.0,Which Turner Broadcasting channel hosts an Indian animated television series named Kumbh Karan?,0
+48, 1874,1874,0.0005035400390625,1.650627851486206,1.0000001192092896,1.0,1.0,"""Rain"" is a short story by a British writer born in what year?",1
+49, Thin,Thin,0.000504732131958,0.8571901321411133,0.9999999403953552,1.0,1.0,"Which documentary film was made earlier, Thin or Reagan?",1
+50, Upchurch Hoard,Upchurch Hoard,0.0005371570587158,2.047048807144165,1.000000238418579,1.0,1.0,What pot containing thirty-seven ancient Roman coins issued on rare occasions? ,1
+51, Kaashmora,Kaashmora,0.0005021095275878,2.0507044792175293,1.0000001192092896,1.0,1.0,Madhusudhan Rao appeared in which Tamil-language fantasy comedy film of 2016?,1
+52, Manhattan Community District 11.,Manhattan Community District 11,0.0005245208740234,2.839771747589112,0.9905200004577636,1.0,1.0,Which community district is the Ogden Codman House in?,1
+53, Ben Bagdikian,Ben Haig Bagdikian,0.0005128383636474,2.047372341156006,0.8349472880363464,0.8,0.8,"Who was born first, Janet Shamlian or Ben Bagdikian?",1
+54, 1997,1997,0.0004994869232177,1.6503875255584717,1.0000001192092896,1.0,1.0,"""Oranges Are Not The Only Fruit""  was written by an award winning writer who also wrote a novel about human relationships and physics in what year?",1
+55, The Axis is a mid-sized auditorium located inside Planet Hollywood Las Vegas on the Las Vegas Strip.,"Paradise, Nevada",0.0004985332489013,8.41028356552124,0.3956260681152344,0.0,0.0,In what city and state is The AXIS located?,1
+56, Bowral,Bowral,0.00050950050354,1.2609822750091553,1.0,1.0,1.0,"Ian Hindmarsh is an Australian former professional rugby league footballer, from what largest town in the Southern Highlands of New South Wales, Australia?",1
+57, Buy Bye Beauty,Buy Bye Beauty,0.0005059242248535,1.6497695446014404,1.0,1.0,1.0,"Which film was created earlier, Buy Bye Beauty or Thinking XXX?",1
+58," Federated Department Stores, Inc.","Macy's, Inc.",0.0005080699920654,3.238727331161499,0.657278835773468,0.2857142857142857,0.2857142857142857,Lazarus was a founding partner in which holding company based in Cincinnati?,1
+59, Edmonton Oilers,Edmonton Oilers,0.000516653060913,1.274677038192749,1.0,1.0,1.0,Which team did Randolph Frank Rota play on that is a member of the Pacific Division of the Western Conference?,1
+60, 2016,2016,0.0004959106445312,1.6540477275848389,1.0,1.0,1.0,In what year was the choreographer with whom Laz Brotherston has collaborated knighted?,1
+61," The most populous city in the Philippines, which contains Eastern Samar province, is Tacloban City.",Quezon City,0.0004982948303222,8.409103870391846,0.5765036344528198,0.1176470588235294,0.1176470588235294,In what city was the night club whose fire killed more people than the  Kentex Manufacturing factory fire?,0
+62, 5,five-member,0.0004982948303222,1.2667205333709717,0.5969527959823608,0.0,0.0,"""Snapback"" is a song by American country music group Old Dominion, Old Dominion is an American, with how many members, country music band formed in Nashville, Tennessee?",1
+63, 2015,2015,0.0005006790161132,1.652885675430298,1.0,1.0,1.0,Nick Bell is the Vice President of the company whose CEO was named youngest billionaire in the world in what year?,1

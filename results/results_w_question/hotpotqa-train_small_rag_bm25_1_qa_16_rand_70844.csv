@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,No.,no,0.0010974407196044,1.5852515697479248,0.8128341436386108,1.0,1.0,Are Chris Marker and Yvonne Rainer American?
+1,"The Assiniboine people, to which Dolly Akers belongs, are originally from the Northern Great Plains of North America.",the Northern Great Plains of North America,0.0008583068847656,1.0806715488433838,0.4008412957191467,0.56,0.56,"Where are the group of people, which Dolly Akers belongs to, originally from?"
+2,"The text does not mention the number of civilians who died during the war when USS ""Felicia"" was acquired by the U.S. Navy.",seven million,0.0007970333099365,1.1942718029022217,0.2339518666267395,0.0,0.0,"How many civilians died in the war during which USS ""Felicia"" was acquired by the U.S. Navy?"
+3,San Juan.,San Juan,0.0008037090301513,0.2396454811096191,0.9796933531761168,1.0,1.0,A Primera División team plays in which city that is located in the Cyuo region of Argentina?
+4,China Blue (2005) came out first.,Wild Man Blues,0.0007820129394531,0.4938066005706787,0.2941929996013641,0.2222222222222222,0.2222222222222222,"Which documentary film came out first, Wild Man Blues or China Blue?"
+5,Yes.,yes,0.0007367134094238,0.1486520767211914,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+6,"Memphis, Tennessee metropolitan area.","1,324,108",0.0007688999176025,0.3320496082305908,-0.0348647683858871,0.0,0.0,DeSoto County is located in a metropolitan area that had how many inhabitants in 2010 ?
+7,Anushka Shetty,Anushka Shetty,0.0007874965667724,0.3140013217926025,1.0000001192092896,1.0,1.0,What Indian actor/actress born in 1981 had a lead role in Lakshyam?
+8,Yes.,yes,0.0008101463317871,0.2049553394317627,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+9,Senior officer.,senior officer,0.0008058547973632,0.2399888038635254,0.9751384258270264,1.0,1.0,Was the honoree of the Earl Haig memorial a junior or senior officer of the British Army?
+10,"""Jeepers Creepers"".",Jeepers Creepers,0.0007839202880859,0.424701452255249,0.9411847591400146,1.0,1.0,"Victor Ronald Salva, the director of ""Powder"" also directed what horrow film based on a song from 1938 and set in rural Florida?"
+11,The Living Desert (1953) was released before Angels in the Outfield (1994).,The Living Desert,0.0007388591766357,0.8112471103668213,0.4553061723709106,0.4,0.4,"Which film is a documentary, The Last Flight of Noah's Ark or The Living Desert?"
+12,Francesco Baracca.,Count Francesco Baracca,0.0007815361022949,0.3138213157653808,0.8498319387435913,0.8,0.8,The Prancing Horse was used by which top Italian fighter ace?
+13,"None, but the name ""Conn"" may be related to the Old Irish ""cenn"" (""head"", ""chief""), which is also related to the name of the king of the Fomorians, Balor.",wife,0.0007922649383544,1.7170650959014893,0.0648973733186721,0.0,0.0,What is the relation between Cethlenn (Old Irish) and the king of named Fomorians who is a interpreted as a god?
+14,West Lancashire.,Rosie Cooper,0.0007376670837402,0.2780098915100097,0.1505883038043975,0.0,0.0, Colin Pickthall was Labour Member of Parliament for a constituency currently represented by who?
+15,Emmitt Smith.,Emmitt Smith,0.0007781982421875,0.276313304901123,0.9881536960601808,1.0,1.0,"What all-time leading NFL rusher was one of ""The Triplets""?"

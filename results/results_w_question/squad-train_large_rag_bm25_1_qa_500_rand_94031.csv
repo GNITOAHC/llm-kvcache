@@ -1,0 +1,531 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,16,16,0.0008840560913085,1.8315608501434328,1.0,1.0,1.0,How many policing districts was Paris divided into?
+1,The text does not mention bitumen.,fumes or skin,0.0010502338409423,0.5208961963653564,0.2297413200139999,0.0,0.0,By what means can humans be exposed to bitumen?
+2,I don't have information on Barcelona's most often used change colors.,yellow and orange,0.0007851123809814,0.8223063945770264,0.3251296877861023,0.0,0.0,What are Barcelona's most often used change colors?
+3,The lack of formal agreements and power imbalances between donors and recipients contribute to the unaccountability of transnational policing.,this is a secretive area and one not open to civil society involvement,0.0007901191711425,1.3130388259887695,0.2777087390422821,0.125,0.125,Why is transnational policing so unaccountable?
+4,Asphalte.,tar,0.0007452964782714,0.3336193561553955,0.436261922121048,0.0,0.0,What is a naming term for asphalt?
+5,Message.,channel (through which medium),0.0007374286651611,0.2344293594360351,0.0452620573341846,0.0,0.0,What is one dimension that communication is typically described along?
+6,Bitumen.,bitumen,0.0006909370422363,0.2835128307342529,0.9760992527008056,1.0,1.0,"Instead of tar, what does the La Brea Tars Pits contain?"
+7,Northern Alberta.,Northern Alberta,0.0006651878356933,0.2829799652099609,0.975871443748474,1.0,1.0,Where are the Athabasca oil sands located?
+8,1912.,1912,0.0006892681121826,0.334336519241333,0.9596837759017944,1.0,1.0,What year did the end of Imperial China occur?
+9,"1,000 troops.","1,000 troops and their supporting vehicles",0.0008044242858886,0.4305131435394287,0.8493969440460205,0.6,0.6,How many troops can be maintained on a Canbera-class LHD?
+10,Carrier-launched aircraft had higher range and precision than naval guns.,They had higher range and precision,0.0007572174072265,0.7733433246612549,0.6019538640975952,0.5882352941176471,0.5882352941176471,Why were carrier-launched aircraft more effective than naval guns?
+11,3 years.,3 years,0.0006728172302246,0.3345372676849365,0.9512752294540404,1.0,1.0,What was the expected serice life of the UK 1942 Design Light Fleet Carrier?
+12,83-92%,83% to 92%,0.0006232261657714,0.3800773620605469,0.8871172070503235,0.8,0.8,What is the variance in bitumen content rock asphalt?
+13,There is no mention of the 2015 FIFA World Cup Final in the text.,River Plate,0.0006477832794189,0.9688348770141602,-0.0116283120587468,0.0,0.0,What team did Barcelona defeat to win the 2015 FIFA World Cup Final?
+14,1918.,1918,0.0006978511810302,0.3343052864074707,0.9612902998924256,1.0,1.0,In what year did Argentina's University Revolution occur?
+15,June 1982.,June 1982,0.0007398128509521,0.3833460807800293,0.980152428150177,1.0,1.0,When was Diego Maradona signed by Barcelona?
+16,The Era of Fragmentation.,Era of Fragmentation,0.0007574558258056,0.4313597679138183,0.9702173471450806,0.8571428571428571,0.8571428571428571,What followed the collapse of imperial Tibet?
+17,"Prominent politicians and slaveholders, but later grew to include mostly abolitionists.",people who supported abolition of slavery,0.0006346702575683,0.9220433235168456,0.680737316608429,0.0,0.0,"The ""american colonization society"" consisted mostly of whom"""
+18,Christianity was used by some Tibetan monarchs to counterbalance the influence of the Gelugpa sect in the 17th century.,counterbalance the influence of the Gelugpa sect,0.0007872581481933,1.40966796875,0.6390181183815002,0.5384615384615384,0.5384615384615384,How was Christianity used by some Tibetan monarchs?
+19,"The constraints of constructing a flight deck affect the role of a carrier because they influence the weight, type, and configuration of aircraft that can be launched and recovered.","they influence the weight, type, and configuration of the aircraft that may be launched",0.0007815361022949,1.7000713348388672,0.6207209229469299,0.6046511627906977,0.5581395348837208,Why do the constraints of constructing a flight deck affect the role of a carrier?
+20,"100,000.","100,000",0.0006947517395019,0.3843588829040527,0.963464856147766,1.0,1.0,How many things were altered after developer version release?
+21,Roofs.,roofs,0.0006358623504638,0.2872576713562011,0.9602362513542176,1.0,1.0,For what was most of the the Bitumont plant's output was used for waterproofing?
+22,5%,5%,0.0008320808410644,0.2863590717315674,1.0,1.0,1.0,What percent of the $13.7 billion did the CIA receive?
+23,Another person or being.,another person or being,0.0006580352783203,0.3840799331665039,0.9725792407989502,1.0,1.0,What is one target of communication?
+24,Law enforcement service.,public sector,0.0006206035614013,0.3359699249267578,0.4465610980987549,0.0,0.0,What kind of service are police?
+25,Tibetan and Sanskrit.,Tibetan or Sanskrit,0.0006747245788574,0.3828418254852295,0.9470663070678712,0.6666666666666666,0.6666666666666666,In what languages is Tibetan music often chanted in?
+26,"16,000 ft.","16,000",0.0006430149078369,0.4323325157165527,0.6458567976951599,0.8,0.8,How much was 1 US Dollar worth in Iranian Rials in early 2012?
+27,"The club was in decline, and managers came and went.",decline,0.0006561279296875,0.724268913269043,0.5200982689857483,0.1818181818181818,0.1818181818181818,"Does physical aggression decline or increase during high-school, college, and early adulthood?"
+28,Esperanto.,programming languages,0.0006787776947021,0.2869460582733154,0.2665092051029205,0.0,0.0,What is an example of a language that is not restricted to properties of human language?
+29,Hover capability.,hover,0.0006406307220458,0.2840585708618164,0.8290091753005981,0.6666666666666666,0.6666666666666666,What capability do helicopters use to move over the flight deck and land vertically?
+30,1774.,1774,0.0006542205810546,0.3353352546691894,0.9730980396270752,1.0,1.0,What year was the Hammond-Harwood House built?
+31,The War of the Castilian Succession.,War of the Castilian Succession,0.0005717277526855,0.5795812606811523,0.979544460773468,0.9090909090909092,0.9090909090909092,What war ended in 1479?
+32,15 counties.,fifteen,0.0006084442138671,0.3360130786895752,0.489507257938385,0.0,0.0,How old was Amanda Todd when she took her own life because of bullying?
+33,"for giving short answers based on given context.
+        user
+        Context information is below.
+        ------------------------------------------------
+        They encouraged religious organizations to set up missions and schools to educate the indigenous peoples.
+On April 12, 1980, a military coup led by Master Sergeant Samuel Doe of the Krahn ethnic group overthrew and killed President William R. Tolbert, Jr.. Doe and the other plotters later executed a majority of Tolbert's cabinet and other Americo-Liberian government officials and True Whig Party members. The coup leaders formed the People's Redemption Council (PRC) to govern the country. A strategic Cold War ally of the West, Doe received significant financial backing from the United States while critics condemned the PRC for corruption and political repression.
+The rebels soon split into various factions fighting one another. The Economic Community Monitoring Group under the Economic Community of West African States organized a military task force to intervene in the crisis. From 1989 to 1996 one of Africa's bloodiest civil wars ensued, claiming the lives of more than 200,000 Liberians and displacing a million others into refugee camps in neighboring countries. A peace deal between warring parties was reached in 1995, leading to Taylor's election as president in 1997.
+In March 2003, a second rebel group, Movement for Democracy in Liberia, began launching attacks against Taylor from the southeast. Peace talks between the factions began in Accra in June of that year, and Taylor was indicted by the Special Court for Sierra Leone for crimes against humanity that same month. By July 2003, the rebels had launched an assault on Monrovia. Under heavy pressure from the international community and the domestic Women of Liberia Mass Action for Peace movement, Taylor resigned in August 2003 and went into exile in Nigeria.
+The subsequent 2005 elections were internationally regarded as the most free and fair in Liberian history. Ellen Johnson Sirleaf, a Harvard-trained economist and former Minister of Finance, was elected as the first female president in Africa. Upon her inauguration, Sirleaf requested the extradition of Taylor from Nigeria and transferred him to the SCSL for trial in The Hague. In 2006, the government established a Truth and Reconciliation Commission to address the causes and crimes of the civil war.
+Liberia is divided into fifteen counties, which, in turn, are subdivided into a total of 90 districts and further subdivided into clans.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Why was Taylor indicted by a special court?
+        
+        assistant
+         He was indicted for crimes against humanity.",for crimes against humanity,0.0005664825439453,0.5326979160308838,0.3535946607589721,0.0188679245283018,0.0188679245283018,Why was Taylor indicted by a special court ?
+34,Establish a colony for freed African Americans.,establish a colony for freed African Americans.,0.0007176399230957,0.5330989360809326,1.0000001192092896,1.0,1.0,African  Americans were sent to the pepper coast to do what?
+35,Barcelona's opponents are not mentioned in the given context.,Porto,0.0006980895996093,0.679840087890625,0.3002187013626098,0.0,0.0,Which team did Barcelona beat to win the UEFA Super Cup?
+36,"The indigenous tribes of Liberia, particularly those in the ""bush"".",indigenous natives of the tribes they encountered,0.0007750988006591,0.8242266178131104,0.5263488292694092,0.4705882352941176,0.3529411764705882,Who did Americo-Liberians not identify with? 
+37,Persia.,Persia,0.0007436275482177,0.2883927822113037,0.9727338552474976,1.0,1.0,What has the West historically referred Iran as?
+38,"29,029 ft.","29,029",0.0007109642028808,0.4354825019836426,0.6872962713241577,0.8,0.8,"How tall, in feet, is Mount Everest?"
+39,"The functions of police grew beyond law enforcement to urban planning due to the miasma theory of disease, which linked poor living conditions to disease, prompting the need for urban planning to improve public health.","because of the miasma theory of disease; thus, cemeteries were moved out of town, etc.",0.0007364749908447,2.0930540561676025,0.5304718613624573,0.24,0.24,Why did the functions of police grow beyond law enforcement to urban planning?
+40,Asphalt/bitumen.,bituminous rock,0.0008139610290527,0.3374366760253906,0.4827628135681152,0.0,0.0,What natural substance was used in early road pavings?
+41,Wilson used an aggressive recruiting drive with higher police salaries to attract professionally qualified officers.,an aggressive recruiting drive with higher police salaries,0.0007588863372802,0.9247217178344728,0.7862085103988647,0.6956521739130436,0.6956521739130436,How did Wilson recruit more qualified police?
+42,2016.,2016,0.0008313655853271,0.340085506439209,0.9577949643135072,1.0,1.0,When will the BBC's weekend highlights package run out?
+43,"The rebels eventually split into factions, and a peace deal was reached in 1995, leading to Charles Taylor's election as president in 1997.",split into various factions fighting one another.,0.0006616115570068,1.655555248260498,0.3830297887325287,0.1935483870967741,0.1935483870967741,What eventually happened to the rebels?
+44,1926.,1926,0.0007150173187255,0.3389797210693359,0.9698734879493712,1.0,1.0,In what year was the World War I Memorial Carillon constructed?
+45,The applicability and transportability of policing models between jurisdictions.,there are questions about the applicability and transportability of policing models between jurisdictions,0.0006930828094482,0.7313475608825684,0.9532389640808104,0.8181818181818181,0.8181818181818181,What concern did Hills raise about police models?
+46,The Fifth Amendment.,Fifth,0.0006673336029052,0.3389179706573486,0.4635261595249176,0.5,0.5,Which amendment prevents self-incrimination?
+47,7-10%,7–10%,0.0006804466247558,0.3851494789123535,0.967376470565796,1.0,1.0,What is the percentage of binder in mastic asphalt?
+48,1929.,23 June 1929,0.0006139278411865,0.3372161388397217,0.8228110671043396,0.5,0.5,When did Barcelona win the Spanish League?
+49,1834.,1834,0.0006239414215087,0.3388705253601074,0.9652233719825744,1.0,1.0,When was the Toronto police created?
+50,"According to the text, some think the most important police work happens in the administrative, economic, and social spheres, not just law enforcement.",on patrol,0.0006124973297119,1.5140149593353271,0.2628812789916992,0.0,0.0,Where do some think the most important police work happens?
+51,Athletic Bilbao.,Athletic Bilbao,0.0008552074432373,0.3386836051940918,0.9789384603500366,1.0,1.0,Which Spanish team did Barcelona defeat to win the Supercopa de Espana?
+52,The text does not provide a specific number of slaves freed during the American Civil War.,"more than 15,000",0.0006718635559082,0.9747858047485352,0.1639682650566101,0.0,0.0,How many slaves were freed in the american civil war?
+53,Franco and Salvador Artigas.,Franco,0.0007166862487792,0.4844670295715332,0.6900207996368408,0.4,0.4,Whose regime prohibited political parties?
+54,Intelligence-led policing.,Intelligence-led,0.0007374286651611,0.3393621444702148,0.7084511518478394,0.8,0.8,What kind of policing has become common practice?
+55,"990 per 100,000 births.","990 per 100,000 births",0.0006051063537597,0.563755989074707,0.9877982139587402,1.0,1.0,What was the maternal mortality rate in 2010?
+56,7,7,0.0008466243743896,0.240919828414917,1.0000001192092896,1.0,1.0,How far is Boudhanath from Kathmandu in miles?
+57,The Pool of London on the River Thames.,docks,0.0007529258728027,0.5835392475128174,0.2480699121952057,0.0,0.0,Where did the West Indies merchants in London create a police force?
+58,"In the form of veins, filling cracks in a more or less horizontal direction.",veins,0.0007851123809814,0.9237849712371826,0.621290922164917,0.1333333333333333,0.1333333333333333,How is the rock asphalt mainly found?
+59,"The original ancestors of the Tibetan people are represented by the six red bands in the Tibetan flag: the Se, Mu, Dong, Tong, Dru, and Ra.",six red bands in the Tibetan flag,0.0007107257843017,1.803288221359253,0.83056640625,0.4242424242424242,0.4242424242424242,How are the original ancestors of the Tibetan people represented?
+60,196 goals.,196,0.0006935596466064,0.3375601768493652,0.6124728918075562,0.6666666666666666,0.6666666666666666,How many games has Everton played against Aston Villa?
+61,The use of natural gas has pushed out the need to produce roads with coal tar.,natural gas,0.0007522106170654,0.9748244285583496,0.5209522247314453,0.2222222222222222,0.2222222222222222,What resource does Iran have the largest supply of in the world?
+62,King Louis XIV in 1667.,King Louis XIV,0.0007526874542236,0.5345308780670166,0.7979855537414551,0.7499999999999999,0.7499999999999999,Who created Paris's police force?
+63,"Honorary members, associate members, and patrons.",Catalonia's new arrivals,0.0007190704345703,0.6327731609344482,0.0870790407061576,0.0,0.0,What type of supporters did Barcelona  attract?
+64,"Grand Bassa and Montserrado are the oldest counties in Liberia, both founded in 1839.",Grand Bassa,0.0007855892181396,1.2173304557800293,0.4589617252349853,0.25,0.25,What is the oldest county in liberia?
+65,The Legislature is composed of the Senate and the House of Representatives.,the Senate and the House of Representatives,0.000676155090332,0.7778444290161133,0.7433559894561768,0.7368421052631579,0.7368421052631579,What is the legislature composed of? 
+66,1911-12.,1911–12,0.0007052421569824,0.4346010684967041,0.8728363513946533,1.0,1.0,When did the Xinhai Revolution topple the Qing dynasty?
+67,Paco Aguilar.,Paco Aguilar,0.0007472038269042,0.3864636421203613,0.9879535436630248,1.0,1.0,What journalist alleged that the Barcelona team was threatened to make certain of Real Madrid's win?
+68,Management of exhaust from the power plant.,management of the exhaust from the power plant,0.0006628036499023,0.5314540863037109,0.98784738779068,0.9333333333333332,0.9333333333333332,What was the biggest drawback to the flush deck configuration?
+69,60.8%,60.8%,0.0006468296051025,0.3876943588256836,1.0000001192092896,1.0,1.0,What was the literacy rate in Liberia in 2010?
+70,There is no mention of Steaua Bucuresti or the loss in Seville in the provided context.,penalties,0.0006630420684814,1.269521713256836,0.1738440692424774,0.0,0.0,What caused Arsenal's loss to Galatasarey in the 1999-2000 season?
+71,"Unmarked cars are used for traffic law enforcement, which is considered controversial as it may lead to motorists being pulled over by impersonators.",for traffic law enforcement,0.0007574558258056,1.4613256454467771,0.462960422039032,0.2962962962962963,0.2962962962962963,What use of unmarked cars is controversial?
+72,General Atomics.,General Atomics,0.0006394386291503,0.338381290435791,0.9657949805259703,1.0,1.0,Who developed EMALS?
+73,2008.,2008,0.0005886554718017,0.3382806777954101,0.9594326615333556,1.0,1.0,When was 'The World In Grey' published?
+74,FIFA Disciplinary Committee.,FIFA Disciplinary Committee,0.0006210803985595,0.3866298198699951,0.9820727705955504,1.0,1.0,Who banned Saurez for four months after he bit another player?
+75,Traité de la Police.,Traité de la Police,0.0005679130554199,0.4346086978912353,0.981389045715332,1.0,1.0,What was the 'Treatise on the Police' called in French?
+76,"Over 13,000.","13,000",0.0006368160247802,0.4369204044342041,0.8349312543869019,0.8,0.8,By 1837 the ACS had assisted in moving how many african americans to liberia?
+77,English.,late Middle English,0.0006406307220458,0.2404773235321045,0.55937260389328,0.5,0.5,What is the last origination of the word asphalt?
+78,65% of 1.3 million barrels per day.,65%,0.0006265640258789,0.778961181640625,0.5938186049461365,0.2222222222222222,0.2222222222222222,What percent of Ukraine is fluent in Russian as of 2006?
+79,Catalan.,Spanish,0.0007600784301757,0.2423524856567382,0.6353670358657837,0.0,0.0,Who taught indigenous scribes to write their languages?
+80,Asphaltum.,asphaltum,0.0008251667022705,0.2907218933105469,0.9788594245910645,1.0,1.0,"When mixed wit clay, what is bitumen called?"
+81,1980.,1980,0.0008018016815185,0.3399531841278076,0.9577760696411132,1.0,1.0,In what year did a military coupe overthrow leadership leading to william tubmans death?
+82,Five.,five,0.0007288455963134,0.2420814037322998,0.925620436668396,1.0,1.0,How many sectors make up the Kathmandu metropolitan area?
+83,1980.,1980,0.0006206035614013,0.3368623256683349,0.9577760696411132,1.0,1.0,In what year did a military coupe overthrow leadership leading to william tubmans death?
+84,There is no information about when Barcelona signed Kubala.,June 1950,0.0006337165832519,0.6792030334472656,0.1705803722143173,0.0,0.0,When did Barcelona sign Kubala?
+85,During China's Cultural Revolution.,During China's Cultural Revolution,0.0006074905395507,0.4364492893218994,0.9719076156616212,1.0,1.0,When were nearly all of Tibet's monasteries destroyed by the Red Guard?
+86,De-asphalting unit.,de-asphalting,0.0007121562957763,0.4858894348144531,0.8523508906364441,0.8,0.8,"In processing asphalt, what is the unit used to separate it?"
+87,The Supreme Court.,Supreme Court,0.0006680488586425,0.3372831344604492,0.9244683980941772,0.8,0.8,What is Liberia's highest judicial authority? 
+88,Crime and disorder.,corruption,0.0006890296936035,0.3380334377288818,0.4502381980419159,0.0,0.0,What problem do many police forces have?
+89,There is no information about the first published reports of bitumen extraction in Albania.,1868,0.0006616115570068,0.9294610023498536,0.1536059379577636,0.0,0.0,When was the passage of the 14th Amendment?
+90,"Modern police often communicate through radio communications equipment, both on the person and in vehicles, to coordinate their work, share information, and get help quickly.",radio,0.0008108615875244,1.608511447906494,0.4056478142738342,0.0769230769230769,0.0769230769230769,How do modern police often communicate?
+91,The French.,French,0.000788927078247,0.2897899150848388,0.8333637714385986,0.6666666666666666,0.6666666666666666,Who invaded Portugal in 1808?
+92,"Embark, transport, and deploy an embarked force.","to embark, transport and deploy an embarked force",0.0006461143493652,0.6794443130493164,0.9680784940719604,0.9333333333333332,0.9333333333333332,What is one primary role of the Canbera-class LDH?
+93,2014-15 season.,June 2015,0.0006682872772216,0.4819166660308838,0.5651784539222717,0.0,0.0,"When was the latest version, Unicode 8.0, released?"
+94,Thousands.,thousands,0.0006415843963623,0.2410428524017334,0.9544610381126404,1.0,1.0,How many years of selective breeding did it take to domesticate maize?
+95,Spanish football fans.,Joan Gamper,0.0006074905395507,0.3379299640655517,0.243079274892807,0.0,0.0,From what source do Catalons think the red/blue colors originated?
+96,Tarmac.,tarmac,0.0005836486816406,0.2901620864868164,0.9790067672729492,1.0,1.0,What is the mixture of bitumen and minerals called?
+97,Police have radios both on their person and in their vehicles.,carried both on the person and installed in vehicles,0.0006518363952636,0.7294673919677734,0.4414142370223999,0.6,0.6,Where do police have radios?
+98,With a minimal armament and fuel load.,with a minimal armament and fuel load,0.0006234645843505,0.5826327800750732,0.9574508666992188,1.0,1.0,How is the Russian SU-33 able to launch from the carrier Admiral Kuznetsov?
+99,The Brazilian Navy.,the Brazilian Navy,0.000779390335083,0.3381776809692383,0.9884020686149596,1.0,1.0,Who is the Sao Paulo currently in service for?
+100,It allows the aircraft to take off more easily by reducing the number of objects between the aircraft and the end of the runway.,bolt,0.0008270740509033,1.3624014854431152,0.1239553093910217,0.0,0.0,What does a landing area angles off access allow an aircraft to do if if misses the arresting wires?
+101,1346-1354.,Between 1346 and 1354,0.000716209411621,0.484708309173584,0.8024801015853882,0.6666666666666666,0.6666666666666666,When was the Phagmodrupa Dynasty founded?
+102,"There is no single definition, but aircraft carriers can be classified into several variants or sub-types.",according to the type of aircraft they carry and their operational assignments,0.0006124973297119,1.0707213878631592,0.5240688323974609,0.1379310344827586,0.0689655172413793,How may aircraft carriers be classified?
+103,2010.,2010,0.0007288455963134,0.3381960391998291,0.9565384387969972,1.0,1.0,When was Liberia was granted observer status with the world trade organization>
+104,Hispania.,Hispania,0.0006928443908691,0.2900848388671875,0.9846447110176086,1.0,1.0,"When the colors were first worn, what team did Barcelona play?"
+105,The Tondern Raid in July 1918.,the Tondern Raid in July 1918,0.00067138671875,0.6835227012634277,0.9809487462043762,1.0,1.0,What was the first carrier-launched airstrike?
+106,1973.,1973,0.0007882118225097,0.3376479148864746,0.9672453999519348,1.0,1.0,John Rhodes served as minority leader beginning in what year?
+107,Imbalances of power between donors and recipients of transnational police development-aid.,With transnational police development-aid the imbalances of power between donors and recipients are stark,0.0006852149963378,0.9273004531860352,0.9698383808135986,0.8148148148148148,0.5185185185185186,What concern did Hills raise about power imbalances?
+108,The 5th Dalai Lama.,5th Dalai Lama,0.0007004737854003,0.5332217216491699,0.9659173488616944,0.8571428571428571,0.8571428571428571,Who is known for unifying the Tibetan heartland?
+109,"33,000.","33,000",0.0006334781646728,0.3857312202453613,0.9677641987800598,1.0,1.0,How many dock workers were the Thames River Police policing?
+110,Manchester United.,Real Madrid,0.0006604194641113,0.2884280681610107,0.5351515412330627,0.0,0.0,What team did favorite play Luis Figo leave Barcelona to join?
+111,55%,55%,0.0006542205810546,0.2888727188110351,1.0,1.0,1.0,How much of the Bronx's vote in 1948 did Truman get?
+112,Sidney Ells.,Sidney Ells,0.0005722045898437,0.3372769355773926,0.9865314960479736,1.0,1.0,Who experimented with bitumen extraction techniques to make shipping easier?
+113,"""Més que un club"" (More than a club).",Més que un club,0.0005643367767333,0.778494119644165,0.8998823165893555,0.7142857142857143,0.7142857142857143,What is the Barcelona motto?
+114,The flight deck.,The flight deck,0.0006742477416992,0.3400654792785644,0.9803537130355836,1.0,1.0,Where are the most notable differences between a carrier and a land runway found?
+115,Theories of coregulation.,Theories of coregulation,0.0007696151733398,0.4741151332855224,0.9852363467216492,1.0,1.0,What describes communication as creative and dynamic rather than discrete?
+116,60%,60%,0.0006380081176757,0.2907884120941162,1.0,1.0,1.0,How much of the US 16-bit console market did the Genesis have in summer 1992?
+117,820 feet.,820-foot-long (250 m),0.0006225109100341,0.3404178619384765,0.7501986026763916,0.2857142857142857,0.2857142857142857,How long is Japan's largest military ship?
+118,The Chief Justice of Liberia.,the Chief Justice of Liberia,0.0007812976837158,0.4345674514770508,0.9831507205963136,1.0,1.0,Who is the head of the supreme court?
+119,Robert C. Fitzsimmons.,Robert C. Fitzsimmons,0.0007472038269042,0.4849674701690674,0.989810824394226,1.0,1.0,Who constructed the Bitumont oil separation plant?
+120,Liberians and the Lebanese.,Liberians and the Lebanese,0.0007252693176269,0.4368939399719238,0.9848157167434692,1.0,1.0,There is high percentage of interracial marriage between what two groups?
+121,"STOVL (Short Takeoff and Vertical Landing) is used by other navies because it allows aircraft to operate from smaller, more compact flight decks, enabling amphibious assault ships to carry and launch aircraft.",it is cheaper to operate,0.0007393360137939,2.1923789978027344,0.1267760992050171,0.2162162162162162,0.1621621621621621,Why is STOVL used by other navies?
+122,World War II era.,World War II,0.0007069110870361,0.3870143890380859,0.8085201978683472,0.8571428571428571,0.8571428571428571,The dead of what war were the first to be commemorated by the Virginia War Memorial?
+123,"The harder policing agencies work to produce security, the greater are feelings of insecurity.","the harder policing agencies work to produce security, the greater are feelings of insecurity",0.0007803440093994,0.9274346828460692,0.988744616508484,1.0,1.0,What paradox did Sheptycki point out?
+124,"The Greek word for asphalt, ἄσφαλτος (ásphaltos, ásphalton), means ""asphalt/bitumen/pitch"".",asphalt/bitumen/pitch,0.0007412433624267,1.657691478729248,0.6579791307449341,0.4285714285714285,0.4285714285714285,What are the meanings of the Greek word for asphalt?
+125,Losar.,Losar,0.000751256942749,0.2680130004882812,0.9552001953125,1.0,1.0,What is the Tibetan New Year Festival called?
+126,Indian Navy officers.,Indian Navy officers,0.0006685256958007,0.3378858566284179,0.973548710346222,1.0,1.0,Who was impressed by the demonstration of EMALS by General Atomics?
+127,The Athabasca oil sands.,Athabasca oil sands,0.0005793571472167,0.4841701984405517,0.9654768109321594,0.8571428571428571,0.8571428571428571,What is Canada's only surface bitumen mine?
+128,The multinational nature of Barça's primary board.,multinational nature,0.0006012916564941,0.6316845417022705,0.5077205896377563,0.3636363636363636,0.3636363636363636,Of what element of Barcelona's board did Espanyol disapprove?
+129,Sichuan and Qinghai.,Sichuan and Qinghai,0.0005795955657958,0.4851984977722168,0.9740006327629088,1.0,1.0,Which Chinese provinces used to be the eastern part of Tibet?
+130,Recitations of sacred texts or celebrations of various festivals.,recitations of sacred texts,0.0006837844848632,0.6794567108154297,0.8043652772903442,0.6153846153846153,0.6153846153846153,What do the chants often contain?
+131,Training and coordination.,this is the first aircraft carrier in their possession,0.0006413459777832,0.3401179313659668,0.0657436698675155,0.0,0.0,Why did the Chinese PLA Navy need 4-5 years for Liaoning to reach full capacity?
+132,The 1960s.,1960s,0.000805377960205,0.4343128204345703,0.9481246471405028,0.6666666666666666,0.6666666666666666,When did European powers grant independence to their colonies in Africa?
+133,1822.,1822,0.0006461143493652,0.3397059440612793,0.965772271156311,1.0,1.0,When was Ireland's police force established?
+134,"142,000 square kilometers.","142,000 square kilometres",0.0006923675537109,0.4853205680847168,0.9570281505584716,0.75,0.75,What is the area amount of the Canadian asphalt deposits?
+135,1798.,1798,0.0006372928619384,0.3391070365905761,0.9719501733779908,1.0,1.0,When were the Marine Police created in the UK?
+136,Shaking a hand.,shaking a hand,0.0007405281066894,0.3870701789855957,0.968376874923706,1.0,1.0,What is an example of a voluntary intent of a message related to nonverbal communication?
+137,Queen Elizabeth class.,Queen Elizabeth,0.0006535053253173,0.3381390571594238,0.7898396253585815,0.8,0.8,Which class of aircraft carriers is being constructed to replace the Invincible-class carriers?
+138,"for giving short answers based on given context.
+        user
+        Context information is below.
+        ------------------------------------------------
+        By 1867, the ACS (and state-related chapters) had assisted in the migration of more than 13,000 African Americans to Liberia. These free African Americans and their descendants married within their community and came to identify as Americo-Liberians. Many were of mixed race and educated in American culture; they did not identify with the indigenous natives of the tribes they encountered. They intermarried largely within the colonial community, developing an ethnic group that had a cultural tradition infused with American notions of political republicanism and Protestant Christianity.
+The Americo-Liberian settlers did not identify with the indigenous peoples they encountered, especially those in communities of the more isolated ""bush."" They knew nothing of their cultures, languages or animist religion. Encounters with tribal Africans in the bush often developed as violent confrontations. The colonial settlements were raided by the Kru and Grebo people from their inland chiefdoms. Because of feeling set apart and superior by their culture and education to the indigenous peoples, the Americo-Liberians developed as a small elite that held on to political power. It excluded the indigenous tribesmen from birthright citizenship in their own lands until 1904, in a repetition of the United States' treatment of Native Americans. Because of the cultural gap between the groups and assumption of superiority of western culture, the Americo-Liberians envisioned creating a western-style state to which the tribesmen should assimilate. They encouraged religious organizations to set up missions and schools to educate the indigenous peoples.
+On April 12, 1980, a military coup led by Master Sergeant Samuel Doe of the Krahn ethnic group overthrew and killed President William R. Tolbert, Jr.. Doe and the other plotters later executed a majority of Tolbert's cabinet and other Americo-Liberian government officials and True Whig Party members. The coup leaders formed the People's Redemption Council (PRC) to govern the country. A strategic Cold War ally of the West, Doe received significant financial backing from the United States while critics condemned the PRC for corruption and political repression.
+The rebels soon split into various factions fighting one another. The Economic Community Monitoring Group under the Economic Community of West African States organized a military task force to intervene in the crisis.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What was the PRC criticized for?
+        
+        assistant
+         Corruption and political repression.",corruption and political repression,0.0006053447723388,0.3859949111938476,0.1843818128108978,0.0195599022004889,0.0195599022004889,What was the PRC criticized for ?
+139,The Washington Naval Treaty of 1922.,Washington Naval Treaty of 1922,0.0007095336914062,0.5842995643615723,0.9728928804397584,0.9090909090909092,0.9090909090909092,"What caused early aircraft carriers to be made up of conversions of ships that were previously cargo ships, cruisers or battlecruisers?"
+140,4,four,0.0006995201110839,0.2412598133087158,0.8942000865936279,0.0,0.0,In how many directions does the Buddha of Swayambhu look?
+141,Law enforcement service.,public sector,0.0006201267242431,0.3393607139587402,0.4465610980987549,0.0,0.0,What kind of service are police?
+142,Bitumen feedstock (BFS).,bitumen feedstock,0.0006659030914306,0.5369172096252441,0.8709951639175415,0.8,0.8,What is the liquefied mixture called? 
+143,Canada has the second-largest proven oil reserves in the world.,second-largest,0.000819444656372,0.7288305759429932,0.3878207504749298,0.3076923076923077,0.3076923076923077,Where does Canada rank in world's oil supplies?
+144,Because aircraft carriers are extremely expensive.,Today's aircraft carriers are so expensive,0.0007755756378173,0.4837844371795654,0.8759372234344482,0.6153846153846153,0.6153846153846153,Why do nations risk significant political impacts if a carrier is lost or even used in conflict?
+145,Tsampa.,tsampa,0.0006642341613769,0.2679760456085205,0.9808768033981324,1.0,1.0,What is dough made from barley flour called?
+146,As spoken language.,spoken language,0.0006725788116455,0.3377177715301513,0.7735933065414429,0.8,0.8,What is the meaning of bhasa?
+147,Drilling fluid additive.,fluid additives,0.0006406307220458,0.3873391151428222,0.6571517586708069,0.8,0.8,What purpose does Selenizza have in the drilling industry?
+148,Frederick Walter Simms.,Samuel Ryland Phipson,0.0006611347198486,0.3874299526214599,0.4059605002403259,0.0,0.0,What friend of Claridge's was helpful in introducing asphalt for use in pavements?
+149,There is no mention of Cruyff refusing to play for a team in the given context.,Real Madrid,0.0006384849548339,1.0698211193084717,0.1466594785451889,0.0,0.0,What team did favorite play Luis Figo leave Barcelona to join?
+150,Liberia is considered one of the world's poorest countries.,one of the world's poorest countries,0.0006105899810791,0.6785767078399658,0.7261528968811035,0.8235294117647058,0.8235294117647058,What is Liberia considered around the world economically? 
+151,Mongolian prince Khuden.,Mongolian prince Khuden,0.0006747245788574,0.4367668628692627,0.9815452694892884,1.0,1.0,Who gained temporal power in Tibet in the 1240s?
+152,Powder or granular material.,granular,0.0006613731384277,0.4364898204803467,0.6333250999450684,0.4,0.4,In what form is Selenizza offered?
+153,Ancient microscopic algae (diatoms) and other once-living things.,once-living things,0.0007171630859375,0.8294343948364258,0.4978851079940796,0.5,0.5,What are the sources of natural deposits of asphalt?
+154,Korea and Japan.,Korea and Japan,0.0007591247558593,0.3383266925811767,0.9764156937599182,1.0,1.0,Which countries adopted the 'prefecture system' from China?
+155,Tibet is ranked the lowest among China's 31 provinces on the Human Development Index.,lowest,0.000767707824707,0.97342848777771,0.3425462245941162,0.125,0.125,Where is Tibet ranked among China's 31 provinces on the UN's Human Development Index?
+156,Anthroposemiotics.,anthroposemiotics,0.0007243156433105,0.3874459266662597,0.978690266609192,1.0,1.0,What is the study of human communication called?
+157,Admiral Kuznetsov.,Tbilisi,0.000648021697998,0.4145784378051758,0.230071872472763,0.0,0.0,What was Admiral Flota Sovetskovo Soyuza Kuznetsov renamed?
+158,Difficulty in developing a broad range of skills.,it is difficult to develop such a broad range of skills,0.0007812976837158,0.580233097076416,0.905878245830536,0.631578947368421,0.631578947368421,Why do communications professionals typically specialize in only one or two areas of communication?
+159,There is no mention of a person named Nunez in the given context.,wages and discipline,0.0006575584411621,0.9256722927093506,-0.0060311048291623,0.0,0.0,What was Nunez known to be strict about?
+160,Irish Constabulary Act of 1822.,Irish Constabulary Act,0.0007457733154296,0.6321005821228027,0.8750582933425903,0.7499999999999999,0.7499999999999999,Which law established Ireland's police?
+161,It never fully solidifies and corrupts other pigments.,solidifies,0.0007028579711914,0.7303392887115479,0.2773315608501434,0.2222222222222222,0.2222222222222222,What did bitumen when used as a paint not do correctly?
+162,"The Fielding brothers, Henry and John, started the Bow Street detectives.",Henry and John Fielding,0.000706672668457,0.8751943111419678,0.5544782876968384,0.5333333333333333,0.3999999999999999,Who started the Bow Street detectives?
+163,10 years.,10 years,0.0006225109100341,0.3160219192504883,0.951340675354004,1.0,1.0,What is the required education for males on Tuvalu?
+164,1959,1959,0.0006256103515625,0.2892837524414062,1.000000238418579,1.0,1.0,When did the USAF stop appointing warrant officers?
+165,The River Thames.,London Review,0.0006160736083984,0.3366599082946777,0.4475889503955841,0.0,0.0,Where was 'Preventive Police' published?
+166,50 men.,50,0.0006260871887207,0.3379006385803222,0.5945426225662231,0.6666666666666666,0.6666666666666666,How many temples are present in Kathmandu's Durbar Square?
+167,Núñez's presidency.,Núñez's presidency,0.0005970001220703,0.4864113330841064,0.9876844882965088,1.0,1.0,What did the resulting split in the Boixos Nois group cause many to support?
+168,Textile arts and quilting.,textile arts and quilting,0.000701904296875,0.4626381397247314,0.9892654418945312,1.0,1.0,What arts does Liberia have a rich history of?
+169,Supercarriers.,Supercarriers,0.0007107257843017,0.3871560096740722,0.9795801639556884,1.0,1.0,"What type of carrier is capable of displacing 75,000 tonnes or greater?"
+170,30 July 1930.,30 July 1930,0.000741958618164,0.4847719669342041,0.9859559535980223,1.0,1.0,When did Gamper commit suicide?
+171,El Clásico.,El Clásico,0.0007038116455078,0.3888001441955566,0.9855237007141112,1.0,1.0,What is the game between the rivals Barcelona and Real Madrid called?
+172,11-1.,11–1,0.0007705688476562,0.3868889808654785,0.8919861316680908,1.0,1.0,What was the score of the second match in 1943 played against Real Madrid?
+173,There is no mention of Spain's police force in the given context.,Ferdinand and Isabella,0.0006444454193115,0.8253509998321533,0.2545695900917053,0.0,0.0,Who formed Spain's first national police force?
+174,Utah.,Utah,0.0006821155548095,0.2413499355316162,0.962263286113739,1.0,1.0,"Besides occurrences in Canada, where in the US is asphalt found?"
+175,Foreign direct investment to GDP in the world.,of foreign direct investment to GDP in the world,0.0005998611450195,0.5838677883148193,0.9635377526283264,0.9411764705882352,0.9411764705882352,Liberia has the highest ratio of what?
+176,1998.,1998,0.0007612705230712,0.3374617099761963,0.9467677474021912,1.0,1.0,When did Stein win a Pulitzer?
+177,Johan Cruyff.,Cruyff,0.0006327629089355,0.3852090835571289,0.6496738195419312,0.6666666666666666,0.6666666666666666,By 1992 who was Barcelona's most successful manager?
+178,Athabasca oil sands.,Athabasca oil sands,0.0006375312805175,0.4348468780517578,0.9906576871871948,1.0,1.0,What is Canada's only surface bitumen mine?
+179,"1997, 2009, 2011, 2012, and 2015.","1997, 2009, 2011, 2012 and 2015",0.0006015300750732,1.172105312347412,0.9743295907974244,1.0,1.0,Barcelona ranked first in the IFFHS Club World Ranking in what years?
+180,The Fairs Cup in 1966.,Fairs Cup,0.0008151531219482,0.5819013118743896,0.6958574652671814,0.5714285714285715,0.5714285714285715,What competition did Barcelona win in 1966?
+181,1914.,1914,0.0007462501525878,0.336522102355957,0.9601083993911744,1.0,1.0,One of Jehovah Witnesses' central teachings is that the world entered into its last days at what year?
+182,Catalonia and Castile.,rival regions,0.0006861686706542,0.3877990245819092,0.4231767952442169,0.0,0.0,What basic difference is there between the teams of Barcelona and Real Madrid?
+183,16 March 1938.,16 March 1938,0.000575304031372,0.4857552051544189,0.9777056574821472,1.0,1.0,When did the Italians bomb Barcelona?
+184,The island.,an island,0.0006260871887207,0.2868306636810303,0.8810884356498718,0.5,0.5,What was the result of the whole cladera being above sea level during the Ice Ages?
+185,The Crown of Aragon.,Crown of Aragon,0.0006029605865478,0.4357562065124511,0.965575098991394,0.8571428571428571,0.8571428571428571,Of what area was Valencia the largest city?
+186,6,five,0.0005886554718017,0.2401695251464843,0.7472491264343262,0.0,0.0,How many sectors make up the Kathmandu metropolitan area?
+187,Charles de Gaulle.,Charles de Gaulle,0.0006015300750732,0.385761022567749,0.975007176399231,1.0,1.0,"What is the name of the 42,000 tonne nuclear-powered carrier commissioned in 2001?"
+188,Reciprocally.,reciprocally,0.0006015300750732,0.3865487575531006,0.9423061609268188,1.0,1.0,How are the sender and receiver connected in a slightly more complex form of communication model?
+189,Spanish football fans.,Spanish football fans,0.0006051063537597,0.3373658657073974,0.9848979711532592,1.0,1.0,What type of group founded Espanyol?
+190,The United States.,oil refineries,0.0005929470062255,0.3375742435455322,0.1619922220706939,0.0,0.0,Where does most of Canada's asphalt end up these days?
+191,2017.,in 2017,0.0006053447723388,0.3149480819702148,0.7826598882675171,0.6666666666666666,0.6666666666666666,When is HMS Queen Elizabeth projected to commission?
+192,Fumes from the power plant were a major issue.,Fumes coming across the deck,0.0005669593811035,0.6804382801055908,0.4735956490039825,0.2857142857142857,0.2857142857142857,What was a major issue in the USS Langley?
+193,"None, Selenizza is a naturally occurring solid hydrocarbon bitumen.",mastic asphalts,0.0007669925689697,0.874523401260376,0.4120731055736542,0.0,0.0,To what other paving material is Selenizza added?
+194,"Mount Everest, 8,848 m (29,029 ft) above sea level.",Mount Everest,0.0007426738739013,1.021090030670166,0.7209107875823975,0.3076923076923077,0.3076923076923077,What is the highest elevation in Tibet?
+195,After the Battle of Chamdo.,1728,0.0007088184356689,0.4874963760375976,0.079641044139862,0.0,0.0,When was Kham incorporated into neighboring Chinese provinces?
+196,"Regional nationalism signs, including language, flag, and separatist symbols.",regional nationalism,0.000812292098999,0.8281655311584473,0.7147781848907471,0.3636363636363636,0.3636363636363636,What kind of signs were removed form club Barcelona?
+197,The 18th century.,18th century,0.0007078647613525,0.4347765445709228,0.957527995109558,0.8,0.8,What century did Qing China stretch to its largest?
+198,Around 500 °C.,500 °C,0.0006322860717773,0.4354004859924316,0.8791507482528687,0.8,0.8,What boiling point is considered to be the for asphalt?
+199,It's the only European asphalt mine still in use.,still in use,0.0007541179656982,0.6818842887878418,0.2981708347797394,0.4615384615384615,0.4615384615384615,What is it about the mine that is unusual?
+200,The 18th century.,in the 18th century,0.0007884502410888,0.4361402988433838,0.9509250521659852,0.8571428571428571,0.8571428571428571,When did the French language adopt the word 'police'?
+201,Coal tar was used as a binder for road aggregates.,binder,0.0007615089416503,0.6795046329498291,0.385117769241333,0.1818181818181818,0.1818181818181818,For what was coal tar used in road paving?
+202,There is no information about the percentage of bitumen use for roads in the US in the given context.,85%,0.0006430149078369,1.169219732284546,0.1824682503938675,0.0,0.0,How much can a building's carbon footprint be reduced by switching to LEDs?
+203,Henry Kelsey.,Henry Kelsey,0.0007343292236328,0.336625337600708,0.978401780128479,1.0,1.0,Who was the first European trader to see asphalt?
+204,A message in natural language.,a message in natural language,0.0006680488586425,0.4346132278442383,0.9662742018699646,1.0,1.0,What kind of message is sent in a simple model?
+205,"Winters in Tibet are extremely cold, with intense cold in the northern regions.",intense cold,0.000598669052124,0.9239115715026855,0.4270135164260864,0.2666666666666667,0.2666666666666667,What are winters like in Tibet?
+206,Rivaldo.,Rivaldo,0.0006968975067138,0.3379890918731689,0.9793655872344972,1.0,1.0,Which Barcelona player was the fourth to win European Footballer of the Year?
+207,17th and 18th centuries.,17th and 18th centuries,0.0006961822509765,0.582672119140625,0.958858609199524,1.0,1.0,When did Roman Catholic Jesuits and Capuchins arrive in Tibet from Europe?
+208,The Second Spanish Republic.,Second Spanish Republic,0.0006797313690185,0.3860321044921875,0.9617882370948792,0.8571428571428571,0.8571428571428571,What was club Barcelona considered to represent when on tour in 1937?
+209,The Republic of China after the Xinhai Revolution.,Qing,0.000633955001831,0.6777002811431885,0.4846844673156738,0.0,0.0,What is another name for the Manchu dynasty?
+210,1714 (Commissioners of Police for Scotland) and 1798 (Marine Police).,the appointment of Commissioners of Police for Scotland in 1714,0.0006728172302246,1.117844820022583,0.7962263226509094,0.6,0.5,What was the first use of 'police' in the UK?
+211,Merchant ships.,mercantile hulls,0.0006318092346191,0.2899858951568603,0.6397714018821716,0.0,0.0,What were most escort carriers built from?
+212,It's a training ship.,it is a training ship,0.0006332397460937,0.4388074874877929,0.961577296257019,0.8000000000000002,0.8000000000000002,Why is Liaoning not assigned to any of China's operation fleets?
+213,The Marshal of France and the Constable of France.,The Marshal of France and the Constable of France,0.0007910728454589,0.6834073066711426,0.9809378385543824,1.0,1.0,Which two entities in Medieval France had police duties?
+214,Asphalt must be heated or diluted to be workable.,heated or diluted,0.0008013248443603,0.6794910430908203,0.4563363194465637,0.5,0.5,How must asphalt be treated to be workable?
+215,"None, the text states that the word ""police"" was borrowed from French into the English language.",English,0.0008435249328613,1.1685945987701416,0.3536925315856933,0.1176470588235294,0.1176470588235294,What secondary language do educated people in Kathmandu speak?
+216,A training ship.,a training ship,0.0007185935974121,0.337287425994873,0.990201473236084,1.0,1.0,What is Liaoning classifed as?
+217,Primarily ethnic Tibetans and some other ethnic groups.,ethnic Tibetans,0.0007290840148925,0.6794064044952393,0.9012278318405152,0.4,0.4,What has the population of Tibet primarily consisted of?
+218,A landing signal officer (LSO).,a landing signal officer,0.0007007122039794,0.5336892604827881,0.8860248327255249,0.888888888888889,0.888888888888889,Who does a conventional aircraft rely upon to moniter the aircraft's approach and transmit the data to the pilot?
+219,The Marshal's force was called the Marshalcy.,the Marshalcy,0.000697374343872,0.6308841705322266,0.7675371170043945,0.4,0.4,What was the Marshal's force called?
+220,Espanyol.,Espanyol,0.0006294250488281,0.3864974975585937,0.9882454872131348,1.0,1.0,What team is Barcelona's local rival?
+221,There is no mention of the Pyrenees Cup in the given context.,four,0.0006415843963623,0.876396894454956,0.0670810043811798,0.0,0.0,In how many directions does the Buddha of Swayambhu look?
+222,"Japan's largest military ship since World War II, the Izumo.",Japan's largest military ship since World War II,0.0007398128509521,0.8257358074188232,0.8847888708114624,0.9,0.9,What was the August 2013 launching ceremony in Yokohama held for?
+223,Birthright citizenship in their own lands.,citizenship in their own lands,0.0006883144378662,0.5340876579284668,0.8226787447929382,0.9090909090909092,0.9090909090909092,What did Americo-liberians exclude tribes from?
+224,The French Navy (Marine Nationale).,the French Navy,0.0008044242858886,0.579535961151123,0.8888954520225525,0.7499999999999999,0.7499999999999999,Who was the Sao Paulo first commissioned by in 1963?
+225,"8,000 nautical miles (15,000 kilometres).","8,000 nautical miles",0.0006995201110839,0.7795267105102539,0.9381797313690186,0.7272727272727273,0.7272727272727273,"What will the range of the Indian-made ship be, carrying 160 officers, 1400 sailers, and 30 aircraft?"
+226,180 goals.,180,0.000633955001831,0.3375859260559082,0.6495891809463501,0.6666666666666666,0.6666666666666666,How many Japanese ships were sunk in 1942 by United States submarines?
+227,Brazil.,Brazil,0.0006260871887207,0.2401840686798095,0.9418349862098694,1.0,1.0,Where can police shoot fleeing convicts?
+228,"By joining and supporting FC Barcelona, which became a symbol of Catalan identity and freedom.",joining Barça,0.0005724430084228,0.9748203754425048,0.5691609382629395,0.2222222222222222,0.2222222222222222,How did the Catalans show their identity during the dictatorships?
+229,2004.,1995,0.0007343292236328,0.3378529548645019,0.6187036037445068,0.0,0.0,When did Sheptycki write about global policing?
+230,Jeremy Bentham.,Jeremy Bentham,0.0006561279296875,0.3381614685058594,0.9807707667350768,1.0,1.0,Whose philosophy influenced Peel?
+231,Sign players during the summer of 2014.,sign players,0.0006568431854248,0.634019136428833,0.801494836807251,0.4444444444444445,0.4444444444444445,What did the pending appeal allow Barcelona to do anyway?
+232,Nicolas Delamare.,Nicolas Delamare,0.0008072853088378,0.3880887031555176,0.9837175011634828,1.0,1.0,Who wrote the 'Treatise on the Police'?
+233,2016.,2016,0.0007040500640869,0.3394687175750732,0.9577949643135072,1.0,1.0,When will the BBC's weekend highlights package run out?
+234,V/STOL stands for Vertical/Short Take-Off and Landing.,aircraft capable of vertical or short take-off and landing,0.000720739364624,0.8733205795288086,0.4097408056259155,0.6,0.6,What does V/STOL refer to?
+235,Exposure to light.,blowing,0.0006806850433349,0.3380830287933349,0.3077621459960937,0.0,0.0,What is the process used to harden the asphalt?
+236,Revolutionary spirit.,revolutionary,0.0006723403930664,0.2903592586517334,0.7599326968193054,0.6666666666666666,0.6666666666666666,What was Chapman's style of tactics that provided the basis for the Arsenal club's success?
+237,3,three,0.000706672668457,0.2411549091339111,0.8656187057495117,0.0,0.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+238,"Flooring, paving, and waterproofing of baths and swimming pools.",to deploy balloons,0.0005955696105957,0.7775194644927979,0.1591847836971283,0.0,0.0,What were carriers used for in the early 20th century?
+239,Canada.,Canada,0.0005900859832763,0.2393536567687988,0.9222739934921264,1.0,1.0,Where have cases in the Jehovah's Witnesses favor been heard outside of the U.S.?
+240,There is no information about the president elected in 2010.,Sandro Rosell,0.0006220340728759,0.7772455215454102,0.0174582544714212,0.0,0.0,Who was elected as president of the Barcelona club in 2010?
+241,Diego Maradona.,Diego Maradona,0.0006978511810302,0.3877034187316894,0.9850090146064758,1.0,1.0,To whom was Messi's goal in the first leg of the Copa del Rey compared?
+242,Espanyol.,Espanyol,0.0006356239318847,0.3860588073730469,0.9882454872131348,1.0,1.0,What team is Barcelona's local rival?
+243,Place de la Concorde.,Place de la Concorde,0.0006086826324462,0.485872745513916,0.9847628474235536,1.0,1.0,Where in France in 1835 was asphalt used to lay pavement? 
+244,"60,000.","20,000",0.0007076263427734,0.3875215053558349,0.7049419283866882,0.5,0.5,About how many people live in a square kilometer in Gonggabu VDC?
+245,Laurel tree.,laurel,0.000629186630249,0.2896854877471924,0.7829489707946777,0.6666666666666666,0.6666666666666666,"Beside a palm, what tree appears on the crest?"
+246,Penyes.,penyes,0.000579833984375,0.2883946895599365,0.978041410446167,1.0,1.0,What are the fan clubs called?
+247,The Royal Australian Navy.,The Royal Australian Navy,0.0006248950958251,0.3859806060791015,0.9856184720993042,1.0,1.0,Who is in the process of procuring two Canbera-class LHD's?
+248,One every four years.,one every four years,0.0006866455078125,0.3858768939971924,0.985798716545105,1.0,1.0,How many new carriers per year did the House Armed Services Seapower subcommittee recommend in 7/24/07?
+249,The oil refining industry.,modern oil refineries,0.00063157081604,0.3869071006774902,0.6952083706855774,0.2857142857142857,0.2857142857142857,What industry is capable of refining bitumen directly into gasoline without preprocessing?
+250,Elliot Sperling.,Elliot Sperling,0.0005536079406738,0.3871781826019287,0.9876253604888916,1.0,1.0,Who is an American Tibetologist?
+251,1911-12.,1912,0.0005857944488525,0.4370927810668945,0.560483992099762,0.0,0.0,What year did the end of Imperial China occur?
+252,90%,90%,0.0007181167602539,0.2882940769195556,1.0,1.0,1.0,How much of Pakistan's paper products does Punjab manufacture?
+253,"29,029 ft.","29,029",0.0006520748138427,0.4342026710510254,0.6872962713241577,0.8,0.8,"How tall, in feet, is Mount Everest?"
+254,"None, according to the text.",Al Ahly SC,0.0007243156433105,0.4877321720123291,0.0415976159274578,0.0,0.0,What was the only team to match Barcelona's record of trophy wins by 2015?
+255,1829.,1829,0.0007572174072265,0.3384969234466553,0.9701173305511476,1.0,1.0,When was 'Preventive Police' published?
+256,1800.,1800,0.0006568431854248,0.3393466472625732,0.9630804061889648,1.0,1.0,When was Glasgow's police force established?
+257,Patents.,patents,0.0006945133209228,0.288445234298706,0.9420243501663208,1.0,1.0,"Many of what were granted in France, but denied in Britain?"
+258,As a floating casino.,on the pretext of use as a floating casino,0.0006735324859619,0.3857860565185547,0.8551297187805176,0.6153846153846153,0.6153846153846153,Why did China purchase the STOBAR carrier Liaoning in 1998?
+259,Until the age of 70.,until the age of 70,0.0005877017974853,0.4827327728271484,0.9771660566329956,1.0,1.0,How long do members of the supreme court serve?
+260,Human language is defined as a system of symbols and the grammars that govern their manipulation.,a system of symbols,0.0006129741668701,1.0221004486083984,0.3607389330863952,0.4,0.4,What is human communication defined as?
+261,1667,1667,0.0006525516510009,0.2895750999450683,1.0,1.0,1.0,In what year did Paris get a police force?
+262,The 1960s and 1970s.,1960s and 1970s,0.0006380081176757,0.6804664134979248,0.9673085808753968,0.8571428571428571,0.8571428571428571,During which time frame were most grandes ecoles relocated?
+263,"The handler is responsible for the movement of aircraft before launching and after recovery, working just inside the island from the flight deck.",the movement of aircraft before launching and after recovery,0.0006120204925537,1.361555814743042,0.5556347370147705,0.5625,0.5625,What is the handler responsible for?
+264,Manchester United.,Manchester United,0.0007135868072509,0.2893269062042236,0.9565579891204834,1.0,1.0,Against which team was the first goal scored?
+265,The Royal Irish Constabulary.,Royal Irish Constabulary,0.0007457733154296,0.4858400821685791,0.9717297554016112,0.8571428571428571,0.8571428571428571,What was Ireland's police force called?
+266,Printing and maintaining the Liberian dollar.,printing and maintaining the Liberian dollar,0.0006625652313232,0.5320274829864502,0.9799124598503112,1.0,1.0,What is the central bank of Liberia responsible for?
+267,Failure to emulate Real Madrid in the Champions League.,win any trophies,0.0006566047668457,0.6310737133026123,0.2989674806594848,0.0,0.0,What failure did Cruyff have in his last two seasons as manager with Barcelona?
+268,The text does not mention the rank of Barcelona in 2003.,15th,0.00057053565979,0.8246822357177734,0.1107527762651443,0.0,0.0,During what century did carmine start to see use?
+269,Qinghai Lake (Koko Nor) is the largest lake in China.,Qinghai Lake,0.0007216930389404,0.8744027614593506,0.7781052589416504,0.3333333333333333,0.3333333333333333,Which lake is the largest in China?
+270,Lord Shiva.,Lord Shiva,0.0007431507110595,0.3366625308990478,0.9522991180419922,1.0,1.0,What is another name for Pashupati?
+271,"Marriage, parenthood, and divorce.","marriage, parenthood or divorce",0.0006139278411865,0.5369570255279541,0.9108546376228333,0.75,0.75,What are some time periods that family communication study looks at?
+272,Excellent writing ability.,excellent writing ability,0.0007784366607666,0.3371124267578125,0.9699920415878296,1.0,1.0,What is one of the most important qualifications for a communications professional to have?
+273,"Easier dispatching of calls, criminal background checks, and updating officers' daily activity logs and reports in real-time.",criminal background checks on persons of interest to be completed in a matter of seconds,0.0008111000061035,1.3147635459899902,0.3878660500049591,0.303030303030303,0.2424242424242424,What have computers in police cars enabled for investigation?
+274,Borussia Dortmund.,Borussia Dortmund,0.0007927417755126,0.3375976085662842,0.9725689888000488,1.0,1.0,What is the only team that has a higher attendance rate than Club Barcelona? 
+275,They were Great Officers of the Crown of France with police responsibilities.,Great Officers of the Crown of France,0.0006749629974365,0.7778720855712891,0.8864666819572449,0.7368421052631579,0.7368421052631579,How were the Marshal and Constable of France formally classified?
+276,1910.,1910,0.0005888938903808,0.3385231494903564,0.9679754376411438,1.0,1.0,When did secondary education emerge in the United States?
+277,A Liberian-made quilt.,Liberian-made quilt,0.0005867481231689,0.4139463901519775,0.9721940755844116,0.8571428571428571,0.8571428571428571,What did President Ellen Johnson Sirleaf have installed in her presidential office?
+278,1553.,1553,0.0006129741668701,0.3381094932556152,0.9753916263580322,1.0,1.0,When did Belon make his shipbuilding observations?
+279,Skinheads.,skinheads,0.0006289482116699,0.2887508869171142,0.9473279714584352,1.0,1.0,What right-wing separatists tried to spread fascism to the Boixos Nois?
+280,An emulsion.,emulsion,0.0005788803100585,0.3374526500701904,0.9207500219345092,0.6666666666666666,0.6666666666666666,What does mixing bitumen with water create?
+281,The Battle of Chamdo.,Battle of Chamdo,0.0006227493286132,0.4357943534851074,0.9660590887069702,0.8571428571428571,0.8571428571428571,Which battle led to Tibet's incorporation into the People's Republic of China?
+282,Asphalt.,'asphalt,0.0005662441253662,0.2396502494812011,0.9216813445091248,1.0,1.0,"With what word in America, is bitumen used interchangeably?"
+283,The Court of Arbitration for Sport.,Court of Arbitration for Sport,0.0006279945373535,0.5322012901306152,0.957852840423584,0.9090909090909092,0.9090909090909092,To whom did Barcelona appeal to lift the transfer bad?
+284,The Glasgow Police Act.,Glasgow Police Act,0.0006179809570312,0.3884108066558838,0.9643813371658324,0.8571428571428571,0.8571428571428571,Which law established Glasgow's police?
+285,32%,32%,0.0007078647613525,0.2906155586242676,1.0,1.0,1.0,"In Australia, what percentage of passerine birds were partially migratory"
+286,Get free people of color out of the South.,to get free people of color out of the South,0.0006122589111328,0.6318399906158447,0.8637018203735352,0.9473684210526316,0.9473684210526316,What did slave holders want to do?
+287,Personal filters.,different regional traditions,0.0006518363952636,0.2890207767486572,-0.0053730476647615,0.0,0.0,What is something that may alter the intended meaning of a message?
+288,100 tons per power shovel.,310 billion barrels,0.0005760192871093,0.4846465587615967,0.3429767489433288,0.0,0.0,What is the amount of bitumen that can be extracted in Alberta?
+289,"Third in 2013, second in 2014.",fourth,0.0006399154663085,0.7263209819793701,0.3256673216819763,0.0,0.0,Where does Namibia rank in the exportation of uranium? 
+290,Prussian police.,Prussian,0.0006666183471679,0.3387989997863769,0.8108963370323181,0.6666666666666666,0.6666666666666666,Which police force monitored Karl Marx?
+291,5 mg/m3.,5 mg/m3,0.0007803440093994,0.4342048168182373,0.9903899431228638,1.0,1.0,What is the nationally set limit for exposure of asphalt in a 15 minute period?
+292,Robespierre's First Republic.,Joan Gamper,0.0006544589996337,0.4884235858917236,0.1745090633630752,0.0,0.0,From what source do Catalons think the red/blue colors originated?
+293,Rivaldo.,Rivaldo,0.0007739067077636,0.3383622169494629,0.9793655872344972,1.0,1.0,Which Barcelona player was the fourth to win European Footballer of the Year?
+294,Gbarpolu.,Gbarpolu,0.0007579326629638,0.3869102001190185,0.9775434732437134,1.0,1.0,What is Liberia's newest county?
+295,Germany and France.,German and French,0.0006449222564697,0.3366265296936035,0.6635163426399231,0.3333333333333333,0.3333333333333333,Which countries' scholars developed the contemporary police concept?
+296,1973.,The 1973–74 season,0.0006804466247558,0.336719274520874,0.7195950150489807,0.4,0.4,When did Johan Cruyff join Barcelona?
+297,Frank Rijkaard.,Frank Rijkaard,0.0006055831909179,0.4345366954803467,0.987040638923645,1.0,1.0,"After Gaspart, who was manager of team Barcelona?"
+298,"60,000 spectators.","60,000",0.000619888305664,0.4367880821228027,0.5884809494018555,0.8,0.8,What was the most people that Highbury stadium could host?
+299,The Royal Navy.,the Royal Navy,0.0005905628204345,0.3366742134094238,0.9842307567596436,1.0,1.0,Napoleon acknowledged that the fleet of France was no match for what rival fleet in direct combat?
+300,People of Black African descent.,Black African descent.,0.0005717277526855,0.4360947608947754,0.8486793637275696,0.7499999999999999,0.7499999999999999,The Liberian constitution restricts citizenship of whom?
+301,1709.,1709,0.0006322860717773,0.3379347324371338,0.9703022241592408,1.0,1.0,When were police inspectors added to Paris's police?
+302,"The central region around Lhasa, now known as Ü.",central region around Lhasa,0.0006251335144042,0.7745208740234375,0.8482187986373901,0.6666666666666666,0.6666666666666666,What area did Bod originally refer to?
+303,Late 18th and early 19th centuries.,late 18th and early 19th centuries,0.0005879402160644,0.680321216583252,0.9559025764465332,1.0,1.0,When were police used to protect the class system?
+304,There is no mention of Canberra-class LDH's in the given context.,the largest in Australian naval history,0.0007286071777343,0.8549509048461914,0.2185504883527755,0.2105263157894736,0.1052631578947368,How large will the two Canbera-class LDH's be?
+305,"The state wants a police force to enforce the law, protect property, and limit civil disorder.","enforce the law, protect property, and limit civil disorder",0.0008049011230468,1.0706069469451904,0.760793924331665,0.72,0.72,What does the state want a police force to do?
+306,Bitumen and asphalt are often used interchangeably to refer to the same substance.,interchangeably,0.0007920265197753,0.9254446029663086,0.28046715259552,0.1428571428571428,0.1428571428571428,How are the words bitumen and asphalt frequently used?
+307,"La Liga, Copa del Rey, and the UEFA Champions League.",continental treble,0.000802993774414,0.7787210941314697,0.1876899003982544,0.0,0.0,What series of wins did Barcelona achieve in 2009?
+308,"Family rules, family roles, and family dialectics.","family rules, family roles or family dialectics",0.0007224082946777,0.6800575256347656,0.976412296295166,0.8571428571428571,0.8571428571428571,What is some factors in family communication that could affect communication between family members?
+309,Queen Victoria.,Queen Victoria,0.0006465911865234,0.2680141925811767,0.9674348831176758,1.0,1.0,Who did Martha Ann Ricks present the famed Liberian coffee tree to?
+310,Anarchist agitators and other political radicals.,anarchist agitators and other political radicals,0.0008265972137451,0.6830995082855225,0.9781767129898072,1.0,1.0,What groups did European police work against across borders in the 19th century?
+311,Canoes in Canada and cisterns in France.,pools and baths,0.0008223056793212,0.7303762435913086,0.2691897749900818,0.2,0.2,In what places were asphalt used as waterproofing?
+312,HMS Argus.,HMS Argus,0.0007805824279785,0.3386898040771484,0.9825633764266968,1.0,1.0,What was the world's first carrier capable of launching and recovering naval aircraft?
+313,2% of the population aged 15–49.,2%,0.0006570816040039,0.7068593502044678,0.5123174786567688,0.25,0.25,What percent of Armenia uses Russian as their main language?
+314,5,five,0.0007286071777343,0.2411248683929443,0.9229784607887268,0.0,0.0,How many sectors make up the Kathmandu metropolitan area?
+315,The embarked admiral and his staff.,the embarked admiral and his staff,0.0005924701690673,0.5332324504852295,0.9895713925361632,1.0,1.0,Who is the Flag Bridge area of the ship designated for?
+316,Heavily laden aircraft.,heavily laden aircraft,0.0006084442138671,0.4348633289337158,0.9791452884674072,1.0,1.0,What cannot launch using a ski-jump due to their high loaded weight?
+317,There is no information about the stadium being closed in the given context.,six months,0.0006144046783447,0.8273687362670898,0.0239559225738048,0.0,0.0,How long could a dictator be appointed for in times of certain emergencies?
+318,1993.,1993,0.0006327629089355,0.3386430740356445,0.9678646326065063,1.0,1.0,When did Nadelmann write about global policing?
+319,Catalonia.,close to the regime,0.0005788803100585,0.2402377128601074,0.3163710236549377,0.0,0.0,From where did Espanyol draw their supporters?
+320,William H. Baxter.,William H. Baxter,0.0006685256958007,0.3859825134277344,0.9864861369132996,1.0,1.0,Who reconstructed Middle Chinese spoken from the 7th century to the 10th century?
+321,"None, the text states that the club had little money to spend on new players due to the completion of the Camp Nou in 1957.",international,0.0006036758422851,1.5608439445495603,0.0066676195710897,0.0,0.0,The national side of the Order was influenced by what other side?
+322,"The strengths of the simple model are simplicity, generality, and quantifiability.","simplicity, generality, and quantifiability",0.0006828308105468,0.9721400737762452,0.7280848026275635,0.5333333333333333,0.5333333333333333,What are the strengths of the simple model?
+323,Taxation.,all taxation,0.0007264614105224,0.2886018753051758,0.7627649307250977,0.6666666666666666,0.6666666666666666,What is Tibet exempt from?
+324,"140,000 square kilometers.",most,0.0006322860717773,0.4859848022460937,0.0179226361215114,0.0,0.0,How much of the planet's asphalt is located in Canada?
+325,1979.,1979,0.0007336139678955,0.3368520736694336,0.9622029662132264,1.0,1.0,When did UNESCO make Boudhanath a World Heritage Site?
+326,1870.,1870,0.0006892681121826,0.338541030883789,0.964709997177124,1.0,1.0,When did Charles Taze Russell form a group?
+327,"Théodore Géricault's ""Raft of the Medusa"".",Théodore Géricault's,0.0006575584411621,0.8800621032714844,0.6752594709396362,0.7142857142857143,0.7142857142857143,What artist's work i considered to be an example of the damaging effects of bitumen?
+328,57.4 years (in 2012).,57.4 years,0.0007765293121337,0.6589374542236328,0.8807967305183411,0.7499999999999999,0.7499999999999999,What is the life expectancy in Liberia?
+329,He was a representative of the pro-independence political party.,pro-independence political party,0.0008201599121093,0.7289955615997314,0.7198499441146851,0.5714285714285715,0.5714285714285715,"Besides being club president, what was Sunyol involved in to have caused his murder?"
+330,La Liga titles.,La Liga,0.0007007122039794,0.3370757102966308,0.8488866090774536,0.8,0.8,Which league had the most Champions League wins between 1992 and 2013?
+331,"""Terry stop"" and ""PACE"" (Police and Criminal Evidence Act).","international policing, transnational policing, and/or global policing",0.0006048679351806,0.9026820659637452,0.3933352828025818,0.2352941176470588,0.2352941176470588,What terms have been used to describe policing beyond one country?
+332,"70,600 tonnes.",the largest warships ever built for the Royal Navy,0.0005931854248046,0.4127142429351806,0.2235227972269058,0.0,0.0,How large will the two Queen Elizabeth ships be?
+333,Oil-bearing sand.,petroleum,0.0005784034729003,0.3375406265258789,0.5195647478103638,0.0,0.0,What type of fuel do diesel locomotives use?
+334,"Peel standardized the police force as an official paid profession, organized it in a civilian fashion, and made it answerable to the public.",in a civilian fashion,0.0005578994750976,1.4633667469024658,0.4297000765800476,0.2962962962962963,0.2962962962962963,How did Peel organize police?
+335,Synbit.,synbit,0.0006108283996582,0.2902534008026123,0.9668513536453248,1.0,1.0,What is the synthetic crude additive to bitumen called?
+336,Clarmac Roads Ltd.,Clarmac Roads Ltd,0.0007185935974121,0.3869950771331787,0.9918279647827148,1.0,1.0,What was the subsidiary company that lead Claridge into ruin?
+337,The Chinese government denounced the Simla Accord as illegal.,illegal,0.0006747245788574,0.6790285110473633,0.3107286095619201,0.1999999999999999,0.1999999999999999,What was the legal status of the U-2 flyovers?
+338,"South Africa's ""shoot-to-kill"" policy allows police to use deadly force against anyone who poses a significant threat to them or civilians.",allows police to use deadly force against any person who poses a significant threat to them or civilians,0.000586986541748,1.5119714736938477,0.7470308542251587,0.761904761904762,0.761904761904762,"What is South Africa's ""shoot-to-kill"" policy?"
+339,The American Colonization Society (ACS) was a group founded in 1816 to resettle free blacks and freed slaves in Africa.,a movement to resettle American free blacks and freed slaves in Africa.,0.0005877017974853,1.4641976356506348,0.6069400310516357,0.6874999999999999,0.625,"What is ""the american colonization society""?"
+340,The police can help by establishing the guest's identity and forwarding it to the innkeeper.,establish a restaurant guest's identity and forward it to the innkeeper,0.0007092952728271,1.0035831928253174,0.7596403360366821,0.7142857142857143,0.7142857142857143,How could police help the owner when a restaurant guest doesn't pay because their wallet got stolen?
+341,Synbit.,syncrude,0.0008144378662109,0.2891130447387695,0.4110983610153198,0.0,0.0,What is synthetic crude oil usually called?
+342,Crime and disorder.,corruption,0.0007007122039794,0.3387038707733154,0.4502381980419159,0.0,0.0,What problem do many police forces have?
+343,Redwater.,"Redwater, Alberta",0.0006778240203857,0.2892742156982422,0.7524029016494751,0.6666666666666666,0.6666666666666666,Where is a sixth upgrader being built in Alberta?
+344,Espanyol was seen as cultivating compliance to the central authority.,compliance,0.0006217956542968,0.8290865421295166,0.3892217874526977,0.1818181818181818,0.1818181818181818,How was Espanyol viewed as being toward Spanish authority by the people of Barcelona?
+345,Asia.,Asia,0.0006060600280761,0.2395906448364257,0.9424371719360352,1.0,1.0,Which continent was India colliding with in the Miocene?
+346,Selenizza.,Selenizza,0.0005872249603271,0.3377220630645752,0.9826659560203552,1.0,1.0,What component is added to bitumen to improve it?
+347,Cochin Shipyard.,Cochin Shipyard,0.0006122589111328,0.3873536586761474,0.9864052534103394,1.0,1.0,Who is constructing the Indian-made ship?
+348,Nothing was proven.,nothing,0.0006027221679687,0.337674617767334,0.3682712614536285,0.5,0.5,What was proven about the alleged threats to Barcelona before the game?
+349,The Marshal's force was called the Marshalcy.,the Marshalcy,0.0005772113800048,0.6323039531707764,0.7675371170043945,0.4,0.4,What was the Marshal's force called?
+350,1926.,1926,0.0006287097930908,0.3399994373321533,0.9698734879493712,1.0,1.0,In what year was the World War I Memorial Carillon constructed?
+351,1850s to 1920s.,1850s to the 1920s,0.000596284866333,0.6325898170471191,0.981007993221283,0.8571428571428571,0.8571428571428571,During what period was bitumen used in printing processes?
+352,"The first model for communication, introduced by Claude Shannon and Warren Weaver, consisted of three primary parts: sender, channel, and receiver.","sender, channel, and receiver",0.0007185935974121,1.46474027633667,0.6679758429527283,0.32,0.32,What did the first model for communication consist of?
+353,Barley.,barley,0.0007886886596679,0.2675435543060303,0.9610965251922609,1.0,1.0,What is the most important crop in Tibet?
+354,8 years.,eight,0.0006189346313476,0.3367199897766113,0.5738191604614258,0.0,0.0,How many rivers travel through Kathmandu?
+355,11 May 2013.,11 May 2013,0.0006382465362548,0.4858770370483398,0.9531197547912598,1.0,1.0,When was Sharif re-elected CM?
+356,Futbol Club Barcelona.,Futbol Club Barcelona,0.000648021697998,0.386693000793457,0.9804826378822328,1.0,1.0,"With Franco's dictatorship over, to what did Barcelona change their name ?"
+357,HMS Queen Elizabeth and HMS Prince of Wales.,HMS Queen Elizabeth and HMS Prince of Wales,0.0006659030914306,0.5601766109466553,0.976864755153656,1.0,1.0,What will the 2 Queen Elizabeth class ships be named?
+358,3-0.,3–0,0.0006835460662841,0.3857131004333496,0.938849687576294,1.0,1.0,What was the score in the final game that Everton won its second FA Cup in 1993 against Manchester City?
+359,Amdo region.,Amdo region,0.0006020069122314,0.3894810676574707,0.9890339970588684,1.0,1.0,Where did the Zhang Zhung people migrate from?
+360,1954.,1954,0.0008082389831542,0.3397154808044433,0.9741775989532472,1.0,1.0,In what year was Eisenhower's EDC rejected?
+361,5.,five,0.0007922649383544,0.288919448852539,0.8671916127204895,0.0,0.0,How many sectors make up the Kathmandu metropolitan area?
+362,UN sanctions were placed on Liberian timber exports in 2003.,Liberian timber exports,0.0006875991821289,0.8251709938049316,0.7147892713546753,0.4615384615384615,0.4615384615384615,What were UN sanctions place placed on 2003?
+363,474 goals.,474,0.0007526874542236,0.337583065032959,0.5528300404548645,0.6666666666666666,0.6666666666666666,What is Lionel Messi's goal total in all competitions?
+364,Police often use unmarked cars for sting operations or to apprehend criminals without alerting them to their presence.,primarily for sting operations or apprehending criminals without alerting them to their presence,0.0006191730499267,1.216996192932129,0.7376582622528076,0.7741935483870968,0.7741935483870968,When do police often use unmarked cars?
+365,There is no mention of a hospital in Monrova in the given context.,John F. Kennedy Medical Center,0.0006182193756103,0.9246892929077148,0.2821123003959656,0.0,0.0,What is the name of the hospital in Monrova?
+366,1724.,1724,0.0006947517395019,0.3374865055084228,0.9658308029174804,1.0,1.0,In what year was Mubariz Khan defeated by Asif Jah I?
+367,Diesel fuel.,diesel fuel,0.0006604194641113,0.2885966300964355,0.8846727013587952,1.0,1.0,What does Alaska's economy heavily rely on?
+368,Supercarrier.,fleet carrier,0.0006027221679687,0.3865418434143066,0.5158542394638062,0.0,0.0,What type of carrier is the largest?
+369,Ocean-going canoes.,canoes,0.0005829334259033,0.38812255859375,0.8589401245117188,0.5,0.5,For what  did Canadian natives use asphalt as a waterproofing material?
+370,The People's Redemption Council (PRC).,the People's Redemption Council,0.0006301403045654,0.5817902088165283,0.7740147709846497,0.9090909090909092,0.9090909090909092,The coup leaders later became known as?
+371,2.,two,0.000807762145996,0.2890706062316894,0.781783938407898,0.0,0.0,How many types are Nepali works of art typically divided into?
+372,Espanyol with a 6-0 win in 1951.,Espanyol,0.0006330013275146,0.9234468936920166,0.5640671253204346,0.2222222222222222,0.2222222222222222,What team is Barcelona's local rival?
+373,Gabriel Nicolas de la Reynie.,Gabriel Nicolas de la Reynie,0.0006270408630371,0.4848315715789795,0.9858062863349916,1.0,1.0,Who was Paris's first head of police?
+374,15% formal employment rate.,15%,0.0006389617919921,0.4826173782348633,0.6187999248504639,0.4,0.4,Greece's navy accounts for more than what percentage of the world's total deadweight tonnage?
+375,The 15 counties of Liberia.,the 15 counties on the basis of the national census,0.0006449222564697,0.4866065979003906,0.5822591781616211,0.5333333333333333,0.5333333333333333,What are the 73 members of the house are appropriated among? 
+376,"Plants communicate to warn nearby plants of danger through volatiles, releasing chemical signals when exposed to herbivory attack behavior.",via volatiles,0.0008034706115722,1.367720603942871,0.3401712775230407,0.0952380952380952,0.0952380952380952,How do plants communicate to warn nearby plants of danger?
+377,"Jaime Gil-Aluja, the then-chairman of the Economical-Statutory Committee.",Jaime Gil-Aluja,0.0008130073547363,1.0239243507385254,0.5435509085655212,0.4285714285714285,0.4285714285714285,Who recommended setting up the FC Barcelona Foundation?
+378,There is no mention of Zubizareta in the provided context.,director of football,0.0007839202880859,0.8044610023498535,0.0597481131553649,0.1538461538461538,0.1538461538461538,What position did Zubizareta have?
+379,"April 12, 1980.","April 12, 1980",0.0007548332214355,0.5315513610839844,0.9860187768936156,1.0,1.0,On what date was William R. Tolbert killed?
+380,Monrovia.,Monrovia.,0.0007181167602539,0.3372616767883301,1.0,1.0,1.0,"Who did the rebels launch an assault on in July, 2003?"
+381,Forward rolling movement of the aircraft into vertical velocity.,some of the forward rolling movement of the aircraft into vertical velocity,0.0006110668182373,0.6320943832397461,0.9592588543891908,0.8571428571428571,0.8571428571428571,What does a ski-jump ramp convert in order to be successful?
+382,Barcelona's youth academy.,youth academy,0.0006415843963623,0.3863453865051269,0.7437387704849243,0.6666666666666666,0.6666666666666666,"Where did Messi, Iniesta and Xavi learn their football in Barcelona?"
+383,Ellen Johnson Sirleaf.,Ellen Johnson Sirleaf,0.0005602836608886,0.3874895572662353,0.9789343476295472,1.0,1.0,Who was elected the first female president of Africa?
+384,The Constabulary (Connétablie).,Connétablie,0.0006208419799804,0.6312832832336426,0.5490666627883911,0.6666666666666666,0.6666666666666666,"What was the Constable's force called, in French?"
+385,The Romans.,Romans,0.0006670951843261,0.2893145084381103,0.921057105064392,0.6666666666666666,0.6666666666666666,Which civilization was it that founded some of the first Galician cities?
+386,I don't have information about the weight of Japan's largest military ship. The text does not mention it.,"19,500-ton",0.0007379055023193,1.2205419540405271,0.3311438858509063,0.0,0.0,How much does Japan's largest military ship weigh?
+387,Mercantilist theory.,mercantilist theory,0.0007762908935546,0.4369740486145019,0.9814292192459106,1.0,1.0,Which economic theory did Foucault say supported the police?
+388,"Pixtumens translates to the English word ""bitumen"".",pitch,0.000655174255371,0.7775146961212158,0.0689108297228813,0.0,0.0,To what English word does the Latin translate?
+389,Bitumen.,Bitumen,0.0006940364837646,0.2901241779327392,0.9760992527008056,1.0,1.0,What pigment did 19th century artists use that was deemed unfavorably?
+390,"Güshi Khan, the Oirat leader of the Khoshut Khanate.",Güshi Khan,0.0006189346313476,0.97104811668396,0.8060777187347412,0.4615384615384615,0.4615384615384615,Who helped the 5th Dalai Lama?
+391,Robert Peel.,Peel,0.0006554126739501,0.2891280651092529,0.6091517210006714,0.6666666666666666,0.6666666666666666,Who was the 'father of modern policing'?
+392,The Queen Elizabeth class.,"two new larger STOVL aircraft carriers, the Queen Elizabeth class",0.0006213188171386,0.385962963104248,0.5073360800743103,0.5714285714285715,0.5714285714285715,What is the British Navy constructing to replace their three Invincible-class carriers?
+393,14 June 1925.,14 June 1925,0.0006842613220214,0.4882681369781494,0.986613929271698,1.0,1.0,On what day did the stadium crowd jeer the Royal March in protest against Primo de Rivera's dictatorship?
+394,5 years.,five years,0.0007355213165283,0.3387372493743896,0.9109305143356324,0.5,0.5,How long was the rule of the national democratic party?
+395,Vertical landing aircraft.,vertical,0.0007669925689697,0.3382108211517334,0.592900276184082,0.5,0.5,For radio broadcast that one would hear in their car what type of towers are used?
+396,Liquidity.,liquidity,0.0007812976837158,0.288935899734497,0.9556576013565063,1.0,1.0,To promote what characteristic is diesel oil added to asphalt for shipping?
+397,Buddhism.,Tibetan Buddhism,0.0006630420684814,0.2403533458709716,0.7601787447929382,0.6666666666666666,0.6666666666666666,What is the dominant religion in Tibet?
+398,"The African civil war in Liberia lasted from 1989 to 2003, but the context provided only mentions the 1980 coup and the subsequent crisis, which suggests the civil war started in 1980 and continued until the intervention of the Economic Community Monitoring Group in the crisis.",1989 to 1996,0.000643253326416,2.921407699584961,0.2846702039241791,0.0816326530612244,0.0816326530612244,During what period did the African civil war last?
+399,An aircraft carrier.,An aircraft carrier,0.0007457733154296,0.3386650085449219,0.9741960167884828,1.0,1.0,"Typically, what is the capital ship of any fleet?"
+400,Bod (བོད་),Bod,0.0006470680236816,0.6792829036712646,0.545106053352356,1.0,1.0,What is the Tibetan name for the area?
+401,"Paco Aguilar, a local journalist, alleged that police threatened Barcelona players.",police,0.0007936954498291,0.9263770580291748,0.2910334467887878,0.1666666666666666,0.1666666666666666,Who is rumored to have threatened Barcelona players before the match against Real Madrid?
+402,Members are nominated by the president and confirmed by the Senate.,Members are nominated to the court by the president and are confirmed by the Senate,0.0007777214050292,0.7274875640869141,0.8947569131851196,0.846153846153846,0.846153846153846,How are members chosen for the court?
+403,Mastic pavements.,mastic,0.0007903575897216,0.386993408203125,0.4519024491310119,0.6666666666666666,0.6666666666666666,What type of pavement techniques had already been tried by a competitor of Claridge?
+404,1624.,1624,0.0007119178771972,0.3376429080963135,0.9696050882339478,1.0,1.0,When did Portuguese missionaries first arrive in western Tibet?
+405,The 7th century.,7th century,0.000657320022583,0.4342007637023926,0.9420435428619384,0.8,0.8,How early did people in the Muslim World start using watermills?
+406,"Alberta, Canada.",petroleum,0.0006351470947265,0.3382351398468017,0.2600848078727722,0.0,0.0,What type of fuel do diesel locomotives use?
+407,Not specified in the text.,short time,0.0006337165832519,0.4346835613250732,0.1944289654493332,0.0,0.0,How long did Ronaldo remain with Barcelona?
+408,10.,10,0.0006639957427978,0.289003849029541,0.9186002016067504,1.0,1.0,How many members of the Swazi House of Assembly are chosen by the king?
+409,"Fungi communicate to coordinate growth, development, and interactions with other organisms through biochemical signals.",to coordinate and organize their growth and development,0.0006036758422851,1.0224552154541016,0.3211340606212616,0.5454545454545454,0.3636363636363636,Why do fungi communicate?
+410,Many hours of exposure in the camera were required.,hours of exposure,0.0007674694061279,0.6317329406738281,0.7712373733520508,0.5,0.5,What feature of bitumen use in photography made it impractical?
+411,The British.,indigenous peoples,0.0007517337799072,0.2895333766937256,0.3130432963371277,0.0,0.0,What group initially made use of asphalt?
+412,3 July 1927.,3 July 1927,0.0007002353668212,0.486220121383667,0.9821134209632874,1.0,1.0,On what date did the FC Barca hold a second testimonial match for Paulino Alcántara against the Spanish national team?
+413,The deaths and displacement of more than half a million people.,large-scale arrests,0.0006484985351562,0.7290854454040527,0.2647892832756042,0.0,0.0,What did the resulting violence perpetrated by the extremists produce?
+414,Asphalte.,asphalte,0.0006868839263916,0.3367962837219238,0.9712022542953492,1.0,1.0,What is the French term for natural asphalt?
+415,The global financial crisis.,The global financial crisis,0.00065279006958,0.3854427337646484,0.9828437566757202,1.0,1.0,Why was Liberia's GDP growth stalled in 2007?
+416,"The Tibetan Plateau, mostly in present-day Qinghai Province.",Tibetan Plateau,0.0005741119384765,0.7752130031585693,0.8267208337783813,0.3636363636363636,0.3636363636363636,Where is the source of the Yangtze river?
+417,Unmanned combat air vehicles (UCAV) and varied aircraft.,varied aircraft including unmanned combat air vehicles (UCAV),0.0006191730499267,0.8743140697479248,0.959618330001831,0.875,0.625,What do EMALS enable the launching of?
+418,The 18th century.,18th century,0.0006518363952636,0.4357385635375976,0.957527995109558,0.8,0.8,What century did Qing China stretch to its largest?
+419,Multiple helicopters at one time.,multiple helicopters at one time,0.0007383823394775,0.4374234676361084,0.9474971294403076,1.0,1.0,How many helicopters is the LHD capable of launching?
+420,110 million years old.,110 million years,0.0007200241088867,0.4351344108581543,0.8458250761032104,0.8571428571428571,0.8571428571428571,How old are the Athabasca deposits?
+421,Barcelona.,Real Madrid,0.00071382522583,0.2409920692443847,0.6201657652854919,0.0,0.0,What team did favorite play Luis Figo leave Barcelona to join?
+422,Patrick Colquhoun.,Patrick Colquhoun,0.0006814002990722,0.4348692893981933,0.9874277114868164,1.0,1.0,Who convinced the West Indies merchants in London to establish police?
+423,A small fur trading post.,living material,0.0006434917449951,0.4336702823638916,0.219353049993515,0.0,0.0,What did the Alberta bitumen mines begin as?
+424,Barcelona.,Barcelona,0.0005819797515869,0.2395451068878173,0.9608309268951416,1.0,1.0,What team beat Arsenal to win the 2006 UEFA Champions League?
+425,There is no information about a player being successful for Real Madrid in 1950 in the given context.,Alfredo di Stéfano,0.000584602355957,1.1703829765319824,0.2321087121963501,0.0,0.0,In 1950 what player was successful for Real Madrid?
+426,Josep Lluís Núñez.,Josep Lluís Núñez,0.0007648468017578,0.6303298473358154,0.9907472133636476,1.0,1.0,Who was the first elected president of the Barcelona club?
+427,Approximately 6 million people.,approximately 6 million,0.0007200241088867,0.4379544258117676,0.7716211080551147,0.8571428571428571,0.8571428571428571,How many people across the Tibetan Plateau speak 'greater Tibetan'?
+428,The answer is not mentioned in the given context.,Real Madrid,0.0008049011230468,0.6310794353485107,0.0729636549949646,0.0,0.0,What team did favorite play Luis Figo leave Barcelona to join?
+429,1837.,25 November 1837,0.0008087158203125,0.3396773338317871,0.8148030042648315,0.5,0.5,When did Richard Tappin Claridge patent asphalt for use in pavement?
+430,Passing style of play.,passing style,0.000727891921997,0.3857655525207519,0.7466921806335449,0.6666666666666666,0.6666666666666666,What feature of play did Cruyff introduce to Barcelona?
+431,1838.,1838,0.0007476806640625,0.3375649452209472,0.9673311710357666,1.0,1.0,When was the Montreal police created?
+432,1705.,1705,0.0006241798400878,0.3366663455963135,0.9660866856575012,1.0,1.0,When was the 'Treatise on the Police' published?
+433,Up to 90 aircraft each.,up to 90,0.0006930828094482,0.4852275848388672,0.4662796556949615,0.7499999999999999,0.7499999999999999,How many aircraft can supercarriers carry?
+434,STOBAR aircraft carrier.,STOBAR,0.0006537437438964,0.4135773181915283,0.6296006441116333,0.5,0.5,What type of carrier is Admiral Flota Sovetskovo Soyuza Kuznetsov?
+435,5 years.,five years,0.0006186962127685,0.3388290405273437,0.9109305143356324,0.5,0.5,How long was the rule of the national democratic party?
+436,"A hostile reception, including objects being thrown at him.",hostile,0.0006380081176757,0.6784977912902832,0.5025264620780945,0.1999999999999999,0.1999999999999999,What kind of treatment was Figo offered during visits to Barcelona?
+437,"There is no mention of a book called ""Preventive Police"" in the given context.",1829,0.0005748271942138,1.070279598236084,0.0456041991710662,0.0,0.0,When was 'Preventive Police' published?
+438,5,five,0.000758409500122,0.239480972290039,0.9229784607887268,0.0,0.0,How many sectors make up the Kathmandu metropolitan area?
+439,"Acts that confer knowledge and experiences, give advice and commands, and ask questions.","confer knowledge and experiences, give advice and commands, and ask questions",0.000655174255371,0.9269354343414308,0.7626264095306396,0.9166666666666666,0.9166666666666666,What acts are included in communication between parties?
+440,August.,August,0.00079345703125,0.239619493484497,0.9490442872047424,1.0,1.0,In what month does the city council not meet?
+441,Hudson's Bay Company.,Hudson’s Bay Company,0.0006990432739257,0.3856267929077148,0.9812989830970764,1.0,1.0, For what trading company did Kelsey work?
+442,90 districts.,90,0.0006530284881591,0.3385460376739502,0.5263859033584595,0.6666666666666666,0.6666666666666666,How many districts are the 15 counties of liberia divided into?
+443,They had the advantage of speed due to their converted cruiser hulls.,speed,0.0005795955657958,0.8267035484313965,0.3336599469184875,0.1538461538461538,0.1538461538461538,Whate are small brushes favorable for?
+444,At the end of the 1980s.,1989,0.0006074905395507,0.6321201324462891,0.6705368161201477,0.0,0.0,When was 'True Love' released?
+445,"The second most valuable sports team in the world, worth $3.2 billion.",second,0.0007364749908447,0.9697492122650146,0.1529545485973358,0.1428571428571428,0.1428571428571428,On what day did U.S> planes located Ozawa's fleet?
+446,Outside of Europe.,outside of Europe,0.0006988048553466,0.3400540351867676,0.9524121880531312,1.0,1.0,Where has cross-border policing been most under-studied?
+447,2004-05.,2004–05,0.0007774829864501,0.4366729259490967,0.916374146938324,1.0,1.0,What season did Barcelona win La Liga and Supercopa de Espana?
+448,To meet UEFA criteria.,meet UEFA criteria,0.0007848739624023,0.3888216018676758,0.8251283168792725,0.8571428571428571,0.8571428571428571,Why did the stadium need to be redesigned in 1980?
+449,Aggregates.,pressure,0.0008175373077392,0.338829755783081,0.1949325054883957,0.0,0.0,"Besides heat, what other requirement is needed to form asphalt?"
+450,"Animal emotions, animal culture, learning, and sexual conduct.","animal emotions, animal culture and learning",0.0007381439208984,0.7297892570495605,0.8786674737930298,0.8571428571428571,0.7142857142857143,What are some fields of knowledge concerning the animal world that have been revolutionizes in the 21st century?
+451,Environmental concerns.,environmental,0.0006594657897949,0.2897391319274902,0.710044264793396,0.6666666666666666,0.6666666666666666,What additional type of law applies in the case of migratory birds and endangered species?
+452,Lieutenant General of Police.,lieutenant general of police,0.0006422996520996,0.3876502513885498,0.98599773645401,1.0,1.0,"What was the title of the head of Paris's police, in English?"
+453,Arresting cables and a tailhook.,traditional carrier arresting cables and a tailhook on their aircraft,0.0005884170532226,0.5327582359313965,0.7592405676841736,0.6666666666666666,0.6666666666666666,What do Russian carriers still use to recover?
+454,Police are usually paid through taxes.,through taxes,0.0005478858947753,0.4834475517272949,0.5064887404441833,0.5,0.5,How are police usually paid?
+455,There is no mention of asphalt in the given context.,Greek,0.0005700588226318,0.6770803928375244,0.0658025443553924,0.0,0.0,What myths did the Romans adapt to their needs?
+456,Gendarmerie are military units charged with civil policing.,military units charged with civil policing,0.0005989074707031,0.7276158332824707,0.7796275615692139,0.8571428571428571,0.8571428571428571,What are gendarmerie?
+457,A search during an investigatory stop is limited to determining if the suspect is armed.,what [is] minimally necessary to determine whether [a suspect] is armed,0.0006411075592041,0.9529733657836914,0.6256143450737,0.5384615384615385,0.4615384615384615,What is an investigatory stop's search limited to?
+458,"Assisted launch mechanisms are primarily used for heavy aircraft, especially those loaded with air-to-ground weapons.",heavy aircraft,0.0007979869842529,1.1194946765899658,0.5177383422851562,0.2105263157894736,0.2105263157894736,What are assisted launch mechanisms primarily used for?
+459,The Bautai people.,Bautai,0.0007638931274414,0.4339301586151123,0.7651492357254028,0.5,0.5,"Which ancient people were mentioned in the first written reference to Bod ""Tibet""?"
+460,The Royal Navy.,Royal Navy,0.0006985664367675,0.3391890525817871,0.9452609419822692,0.8,0.8,In which armed force was the Duke of Edinburgh?
+461,Joan Gamper.,Gamper,0.0005943775177001,0.3384349346160888,0.5808549523353577,0.6666666666666666,0.6666666666666666,What past president of the Barcelona club committed suicide in 1930?
+462,There is no mention of von Hornigk in the given context.,Political economist and civil servant,0.0005693435668945,0.8269796371459961,0.1137784421443939,0.0,0.0,What was von Hornigk's career?
+463,The 7th century.,7th century,0.0005779266357421,0.4354288578033447,0.9420435428619384,0.8,0.8,How early did people in the Muslim World start using watermills?
+464,€1.5 million per year.,€1.5 million,0.0005910396575927,0.5368752479553223,0.8843581676483154,0.7499999999999999,0.7499999999999999,How much does Barcelona donate to UNICEF per year?
+465,France.,France,0.0008070468902587,0.2406060695648193,0.9445564150810242,1.0,1.0,Where was the 'Continental model' of police from?
+466,"Foreign aid, foreign direct investment, and exports of natural resources such as iron ore, rubber, and timber.",foreign aid,0.0006308555603027,1.216891527175903,0.716772198677063,0.2105263157894736,0.2105263157894736,What does Liberia's economy heavily depends on?
+467,The Nimitz class has a displacement nearly four times that of the USS Enterprise.,nearly four times,0.000777244567871,0.973015308380127,0.1605810970067978,0.3529411764705882,0.3529411764705882,How much more displacement does the modern Nimitz class have compared to the older USS Enterprise?
+468,Sanctions were placed on Liberian timber exports because they were believed to be funding rebels in Sierra Leone.,were believed to be funding rebels in Sierra Leone.,0.0006825923919677,1.1661367416381836,0.6199393272399902,0.6666666666666666,0.6666666666666666,Why were sanctions place on Liberian timber exports?
+469,"The USS Independence was a CATOBAR carrier, but the text does not specifically mention the type of aircraft it carried.",light,0.0006399154663085,1.3137893676757812,-0.0282732434570789,0.0,0.0,Most insects are able to perceive darkness and what else?
+470,Mustard seed.,Mustard,0.00067138671875,0.3178215026855469,0.8591357469558716,0.6666666666666666,0.6666666666666666,What seed is cultivated in Tibet?
+471,The FIFA charge was the transfer of footballers aged under 18.,footballers aged under 18,0.0007522106170654,0.826359748840332,0.7226568460464478,0.5333333333333333,0.5333333333333333,What was the FIFA  charge that Barcelona violated?
+472,Barcelona.,blaugrana,0.0007832050323486,0.2412281036376953,0.2509852051734924,0.0,0.0,What team was awarded by Franco for having a good relationship?
+473,The Karma Kagyu sect.,Karma Kagyu,0.0006649494171142,0.4359982013702392,0.6897799968719482,0.6666666666666666,0.6666666666666666,What sect did the Tsangpa Dynasty of Shigatse favor?
+474,Murmansk.,Murmansk,0.0007381439208984,0.3391380310058594,0.9788401126861572,1.0,1.0,Where was the Northern Fleets nuclear-powered aircraft carrier supposed to be stationed?
+475,"Selenizza bitumen is not found in sands, it's a product made from oil sands.",rock asphalt,0.000687837600708,1.1216962337493896,0.4360652565956116,0.0,0.0,In what way is Selenizza bitumen geologically different than bitumen found in sands? 
+476,Archbishop of Barcelona Gregorio Modrego.,Archbishop of Barcelona Gregorio Modrego,0.0008060932159423,0.5336847305297852,0.9786933064460754,1.0,1.0,Who blessed the first stone of the new stadium?
+477,The Constabulary.,the Constabulary,0.0007181167602539,0.3873360157012939,0.98748117685318,1.0,1.0,"What was the Constable's force called, in English?"
+478,Franco.,Pope John Paul II,0.000596284866333,0.2410123348236084,0.1783604323863983,0.0,0.0,"Who declared him ""blessed?"""
+479,Photographic technology.,photographic,0.0007233619689941,0.3378212451934814,0.8265228271484375,0.6666666666666666,0.6666666666666666,Trophy hunting can include areas which would likely be unsuitable for what other types of ecotourism?
+480,1729.,1729,0.0007612705230712,0.3369972705841064,0.962515652179718,1.0,1.0,When did Canada get its first police?
+481,"Unstable and corrosive, causing paintings to deteriorate over time.",unstable,0.000767707824707,0.8288583755493164,0.3463290929794311,0.1999999999999999,0.1999999999999999,What major problem did bitumen as a pigment show itself to be?  
+482,"Fungi communicate with insects through biochemicals, specifically through symbiotic interactions with biotic origin.",through biochemicals of biotic origin,0.0008161067962646,1.0689003467559814,0.4121851027011871,0.4444444444444444,0.4444444444444444,How do fungi communicate with insects?
+483,1911.,1911,0.000746726989746,0.3382806777954101,0.9687958359718324,1.0,1.0,In what year did Eisenhower matriculate to West Point?
+484,The United States Army.,Army,0.0006153583526611,0.3850269317626953,0.7996413707733154,0.4,0.4,Which military branch did the Pinkertons exceed at their height?
+485,Saint George.,Catalan Saint George,0.0005850791931152,0.2883071899414062,0.7539881467819214,0.8,0.8,Who did Johan Cruyff name his son after?
+486,Microscopic algae (diatoms) and other once-living things.,plants and animals,0.0006220340728759,0.825312614440918,0.3905856609344482,0.1818181818181818,0.1818181818181818,What kind of living materials formed the basis of bitumen?
+487,€752 million.,€752 million,0.0006701946258544,0.3351800441741943,0.9684659242630004,1.0,1.0,What did Forbes say Barcelona was worth in 2010?
+488,Barcelona.,Barcelona,0.0006079673767089,0.2381434440612793,0.9608309268951416,1.0,1.0,What team beat Arsenal to win the 2006 UEFA Champions League?
+489,The Tibetan empire's long-standing influence.,Tibetan empire,0.0006334781646728,0.5337560176849365,0.8541790843009949,0.4444444444444445,0.4444444444444445,What influenced the consistency of the written Tibetan language?
+490,Terry Venables.,Terry Venables,0.0006468296051025,0.3401699066162109,0.9901450872421264,1.0,1.0,Who was hired as manager in 1984?
+491,Songtsän Gampo.,Songtsän Gampo,0.0007684230804443,0.4357945919036865,0.9817194938659668,1.0,1.0,Who founded the Tibetan Empire?
+492,1566.,1566,0.0007281303405761,0.3352706432342529,0.9763693809509276,1.0,1.0,When did Rio get its first police investigator?
+493,Accelerate more quickly to gain lift.,accelerate more quickly to gain lift,0.0006864070892333,0.532738447189331,0.912206530570984,1.0,1.0,What do aircraft need to do when using shorter runway lengths?
+494,a single year.,single year,0.0006248950958251,0.3399398326873779,0.8797513246536255,0.8,0.8,In 2009 Barcelona became the first team to win six of six competitions in what span of time?
+495,Zhang Zhung.,Zhang Zhung,0.0006535053253173,0.3379466533660888,0.9797581434249878,1.0,1.0,What is considered to be the original home of the Bon religion?
+496,'Space Binding'.,Space Binding,0.0005629062652587,0.3224804401397705,0.8749485015869141,1.0,1.0,What did Harold Innis call papyrus?
+497,Dublin Castle.,Kashag,0.0005972385406494,0.2897448539733886,0.2784696519374847,0.0,0.0,What was the governing councel called?
+498,89%,89%,0.0006871223449707,0.2888109683990478,1.0000001192092896,1.0,1.0,What minimum percent of each Punjab district speaks Punjabi natively?
+499,There is no information about the amount Barcelona paid for Luis Suarez in the given context.,between €81 to €94 million,0.0005905628204345,0.9717252254486084,0.3625946044921875,0.0,0.0,How much did Barcelona pay for Luis Saurez?

@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, The Fox Cub Bold,The Fox Cub Bold,0.0781445503234863,7.967049598693848,1.0,1.0,1.0,Which book follows Fox's Feud in The Animals of Farthing Wood series?,1
+1, Allen Iverson,Allen Iverson,0.0706672668457031,7.766249656677246,0.9999999403953552,1.0,1.0,Which American professional basketball player was the NBA's Most Valuable Player in 2001?,1
+2, Phil Ivey,Phillip Dennis Ivey Jr.,0.0490996837615966,7.72582745552063,0.8004541397094727,0.3333333333333333,0.3333333333333333,which American professional poker player purchased  LeggoPoker ,1
+3," Kinsley, Kansas.","1,457",0.0652644634246826,8.139067888259888,-0.0712756961584091,0.0,0.0,What is the population of the city in Kansas where Peter Joseph Mehringer was from?,0
+4, Kvinner og Klær,Kvinner og Klær,0.058701753616333,7.999218702316284,1.0,1.0,1.0,"Which magazine covers lesbian women, The Ladder or Kvinner og Klær?",0
+5, Mount Fuji,Mount Fuji,0.0636937618255615,7.617008447647095,0.9999999403953552,1.0,1.0,"""The Forest"" follows a young woman who travels to a forest on the northwestern flank of what mountain?",1
+6, 2016,1943,0.0536746978759765,7.741189241409302,0.289120078086853,0.0,0.0,William Frederick Truax was traded by the Los Angeles Rams to the Dallas Cowboys for a wide receiver born in what year?,0
+7, A legal term in Lithuanian and Polish historical law.,history of Lithuania,0.0478527545928955,8.824413776397705,0.5803026556968689,0.0,0.0,"What is Neminem captivabimus , a legal term that dates back to settlements founded many thousands years ago considered?",0
+8, Dark Skies (2013),Scott Stewart,0.0695998668670654,8.245111465454102,0.2248148322105407,0.0,0.0,Who directed the American science fiction horror which featured Alyvia Alyn Lind as her debut? ,0
+9, Zaitokukai,Widerstand,0.0487496852874755,8.0054292678833,0.0949891507625579,0.0,0.0,Paul Jahnke was part of the activist group that took what German name?,0
+10, the United States.,United States,0.0600197315216064,7.895792484283447,0.8440276384353638,0.8,0.8,Where is the owner of Next big sound provides analytics for online music available?,1
+11, Yes.,yes,0.0572650432586669,7.645998001098633,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+12, Tex (1982) was created before Miracle (2004).,Tex,0.0662074089050293,8.891605615615845,0.5426434278488159,0.25,0.25,"Which film was created first, Tex or Miracle?",1
+13," Scott Shaw has a broader scope of profession, including cartoonist, animator, historian of comics, actor, author, film director, film producer, journalist, martial artist, musician, and professor.",Scott Shaw,0.0530247688293457,12.067578077316284,0.6307655572891235,0.1428571428571428,0.1428571428571428,"Who has more scope of profession, Scott Shaw or George B. Seitz?",1
+14, 12 Angry Men,12 Angry Men,0.1049911975860595,7.834299564361572,1.0,1.0,1.0,Which 1957 American courtroom drama film starred Martin Balsam?,1
+15, Neil deGrasse Tyson.,Neil deGrasse Tyson,0.0662076473236084,8.105996131896973,0.974357008934021,1.0,1.0,RadioWest is a radio show who has hosted what American astrophysicist born in 1958?,1

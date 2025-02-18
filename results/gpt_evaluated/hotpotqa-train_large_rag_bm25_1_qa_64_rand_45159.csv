@@ -1,0 +1,80 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,Wile E. Coyote.,getting injured in slapstick fashion.,0.0009634494781494,1.9224984645843504,0.0796165168285369,0.0,0.0,The Whizzard of Ow features a coyote who is often what?,0
+1,There is no information about Haia being the mother of Enbilulu in the given context.,Ninlil,0.0008654594421386,1.0900912284851074,-0.0419859960675239,0.0,0.0,Who is the daughter of Haia and mother of Enbilulu?,0
+2,Kindergarten Cop.,Kindergarten Cop,0.0008056163787841,0.3392066955566406,0.9807550311088562,1.0,1.0,Which movie starred Arnold Schwarzenegger as a cop and Pamela Reed as his partner?,1
+3,"No, Adenium is not mentioned in the given context.",yes,0.0006566047668457,0.7867629528045654,0.1167617589235305,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?,0
+4,The Neris River.,Neris,0.0006635189056396,0.3904681205749511,0.6836561560630798,0.5,0.5,What tributary of the Neman River forms the bank of Vilijampolė?,1
+5,"DC-8, a plane built by Douglas Aircraft Company.",Douglas Aircraft Company,0.0007779598236083,0.736379861831665,0.6747441291809082,0.5,0.5,Xenu was a dictator of a culture who brought people to earth in the spacecraft that was similar to one built by what company?,1
+6,"Yes, Backpacker magazine is about wilderness hiking and adventure.",no,0.0006508827209472,0.7392454147338867,0.1188825070858001,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0
+7,Weekly Shōnen Champion.,Weekly Shōnen Champion,0.0007917881011962,0.4374682903289795,0.975361943244934,1.0,1.0,Saint Seiya: Next Dimension is published in which Akita Shoten-published manga magazine?,1
+8,Annie in Little Einsteins.,Annie,0.0007030963897705,0.4880406856536865,0.7313227653503418,0.4,0.4,Which character does Natalia Wójcik play in the educational preschool series which was developed by television by Douglas Wood?,1
+9,"for giving short answers based on given context.
+        user
+        Context information is below.
+        ------------------------------------------------
+        Eiður Guðjohnsen: 
+Eiður Smári Guðjohnsen (born 15 September 1978) is a former Icelandic professional footballer who played for the Iceland national team as a forward.
+
+Arnór Guðjohnsen: 
+Arnór Guðjohnsen (born 30 April 1961) is an Icelandic former footballer who played as a striker. He is most famous for his seven-year stint with Belgian club Anderlecht and was the top scorer in the 1986–87 season. He is the father of striker Eiður Guðjohnsen.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        When was the son of Arnór Guðjohnsen born?
+        
+        assistant
+         15 September 1978.",15 September 1978,0.0005860328674316,0.4268083572387695,0.1029683947563171,0.0483870967741935,0.0483870967741935,When was the son of Arnór Guðjohnsen born ?,1
+10,Brian Johnson,Brian Johnson,0.0006158351898193,0.2403671741485595,1.0000001192092896,1.0,1.0,"In the band ac/dc, which vocalist replaced Bon Scott?",1
+11,Néstor Kirchner.,Néstor Kirchner,0.0006248950958251,0.4391465187072754,0.9848703742027284,1.0,1.0,"Until 2010, who led the electoral alliance of which Mónica Troadello was a part?",1
+12,"Dennis Banks was born on April 12, 1937.","April 12, 1937",0.0008349418640136,0.789330244064331,0.5505234003067017,0.5454545454545454,0.5454545454545454,"When was the Native American leader, teacher, lecturer, activist and author born with whom Clyde Howard Bellecourt co-founded AIM in 1968?",1
+13,"Epcot, located in Bay Lake, Florida.",Bay Lake,0.000784158706665,0.6895887851715088,0.4541915357112884,0.5,0.5,The ImageWorks is an interactive exhibit area at a theme park located in what Florida city?,1
+14,Comcast through the Universal Filmed Entertainment Group division of its wholly owned subsidiary NBCUniversal.,Comcast,0.0007712841033935,0.989222526550293,0.5582740306854248,0.1333333333333333,0.1333333333333333,"The network that airs the comedy series ""30 Rock"" is a subsidiary of what company?",1
+15,"No, Genista is in the Fabaceae family, while Callicarpa is in the Lamiaceae family.",no,0.0006935596466064,1.285597324371338,0.1329153329133987,0.1333333333333333,0.1333333333333333,Are Chris Marker and Yvonne Rainer American?,0
+16,The Charge of the Light Brigade.,Charge of the Light Brigade,0.0007524490356445,0.4885649681091308,0.96110600233078,0.9090909090909092,0.9090909090909092,Canon William Murrell Lummis MC conducted research on what event led by Lord Cardigan against Russian forces in 1854?,1
+17,The one mil coin.,one mil coin,0.0007598400115966,0.3909859657287597,0.9345532655715942,0.8571428571428571,0.8571428571428571,What was the smallest denomination of the official currency of the Hong Kong Special Administrative Region from 1863 to 1866?,1
+18,1949.,1949,0.0007250308990478,0.3405740261077881,0.9726004600524902,1.0,1.0,Which year was the author of Lord of Scoundrels born? ,1
+19,"Meem is the 13th letter of the Semitic language abjads, also a branch of the Afroasiatic language family.",Semitic,0.0006172657012939,1.520662784576416,0.5021844506263733,0.1052631578947368,0.1052631578947368,What is a branch of the Afroasiatic language family and also known as the letter Mem?,1
+20,"""Girls on Top""","""Girls on Top""",0.0007882118225097,0.3890626430511474,1.0,1.0,1.0,"What British sitcom, starring the English comedian and actress Jennifer Saunders, did Difford & Tilbrook write the music for?",1
+21,A romance novel.,romantic,0.0006794929504394,0.3408503532409668,0.6210768818855286,0.0,0.0,What genre of movie is the 2014 Hindi film that was inspired by a 2003 film directed by Yann Samuell and starred Marion Cotillard and Guillaume Canet?,0
+22,French.,French,0.0006358623504638,0.2394819259643554,0.9555248618125916,1.0,1.0,What nationality was the mathematician who proposed the Legendre's conjecture?,1
+23,AC/DC.,AC/DC,0.0006847381591796,0.3408629894256592,0.9772477746009828,1.0,1.0,"The English heavy metal band that released two albums in the 1980s had a member from Glasgow, Scotland leave the band to replace his father in what iconic hard rock band?",1
+24,Yes.,yes,0.0006461143493652,0.241373062133789,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+25,Godey's Lady's Book.,Godey's Lady's Book,0.0009002685546875,0.5409302711486816,0.9720922708511353,1.0,1.0,"Edgar Allan Poe's ""A Tale of the Ragged Mountains was first appeared in which United States women's magazine that was published in Philadelphia from 1830–1878?",1
+26,Burlington Northern Railroad.,Burlington Northern Railroad,0.0007815361022949,0.3427891731262207,0.97947895526886,1.0,1.0,"The St. Louis, San Francisco and Texas Railway (SLSF), was a subsidiary railway to the St. Louis-San Francisco Railway, in 1980 it merged into which United States-based railroad company formed from a merger of four major U.S. railroads?",1
+27,1939,1939,0.0007088184356689,0.2928168773651123,1.0,1.0,1.0,Ross C. Goodman's mother was born in what year?,1
+28,Junji Ito.,Junji Ito,0.0006589889526367,0.3927104473114013,0.9864482283592224,1.0,1.0,"Uzumaki, is a ""seinen"" horror manga series written and illustrated, by which Japanese horror manga artist?",1
+29,"The Molotov-Ribbentrop Pact led to Romania's territorial losses, including the land of Ținutul Jiu, to the Axis powers in 1940.",ceased to exist,0.0006260871887207,2.0871448516845703,0.1698027849197387,0.08,0.08,How did the Molotov-Ribbentrop Pact impact the land of Tinutul Jiu?,0
+30,I don't have information about the person who has a blimp promoting his show.,"Brookline, Massachusetts",0.0007927417755126,0.9883983135223388,0.1355777531862259,0.0,0.0,Where was the person who has blimp promoting his show born at?,0
+31,St. Paul.,St. Paul,0.0007715225219726,0.3431274890899658,0.9828692078590392,1.0,1.0,Chris Stewart plays for a professional ice hockey team that is the only Minneapolis-St. Paul area major professional sports league franchise to play in what city?,1
+32,Western Michigan.,Western Michigan,0.000605821609497,0.2907187938690185,0.9696229696273804,1.0,1.0,The younger brother of Titus Davis played for what college team?,1
+33,A church.,It is a religious building,0.000615119934082,0.2926523685455322,0.6298509240150452,0.2857142857142857,0.2857142857142857,What type of building was built between 1752 and 1756 in the capital city of Mauritius?,1
+34,Malcolm Turnbull.,Malcolm Turnbull,0.0005898475646972,0.2912206649780273,0.9804420471191406,1.0,1.0,Who was born in 1954 and appointed Arthur Sinodinos as Cabinet Secretary?,1
+35,"I couldn't find any information about an album called ""Where the Light Shines Through"".",Jon Foreman,0.0006144046783447,1.0376160144805908,0.022187702357769,0.0,0.0,"What is the name of the lead vocalist of the band who  recorded the album ""Where the Light Shines Through""?",0
+36,The San Francisco 49ers.,San Francisco 49ers,0.000624656677246,0.4892873764038086,0.9486846327781676,0.8571428571428571,0.8571428571428571,The 2002 Detroit Lions changed coaches before the season to the former head coach of which other team?,1
+37,The Meiji period.,Meiji,0.0006055831909179,0.3887200355529785,0.8547784090042114,0.5,0.5,Kotaro Honda was taught by a pioneer of Japanese physics during what period?,1
+38,Broadway.,Yale Repertory Theatre,0.0005996227264404,0.226419448852539,0.5374243259429932,0.0,0.0,Mykelti Williamson played Gabriel Maxson in a film adapted from a play that debuted at what theater?,0
+39,The New Jersey Coastal Heritage Trail Route extends along the Atlantic Ocean for the Jersey Shore.,141 mi,0.0006325244903564,0.9910845756530762,0.0787007808685302,0.0,0.0,About how much oceanfront is included in the coastal region along which the New Jersey Coastal Heritage Trail Route extends? ,0
+40,Sway (2014),Sway,0.000666856765747,0.4471352100372314,0.7999703288078308,0.6666666666666666,0.6666666666666666,What adult fiction book by Kat Spears in based on a play 1897 by Edmond Rostand?,1
+41,1980.,1980,0.0007860660552978,0.3418009281158447,0.9577760696411132,1.0,1.0,In what year was the actress that played the new Section chief born?,1
+42,Charles Dickens.,Charles Dickens,0.0006854534149169,0.2721509933471679,0.976762592792511,1.0,1.0,"Alfred R. Kelman is an American film and television documentary producer and director who is known for his work on the 1984 television version of ""A Christmas Carol"", which was originally a novella written by which famous British author?",1
+43,Stanley Kubrick.,Stanley Kubrick,0.0006313323974609,0.343144416809082,0.9702875018119812,1.0,1.0,The Pervert's Guide to Ideology explores a 1987 British-American war film that was directed and produced by who?,1
+44,European Footballer of the Year in 1991.,European Footballer of the Year,0.0006899833679199,0.6905181407928467,0.8508683443069458,0.8333333333333333,0.8333333333333333,"Two years after the Coupe de France Final where Olympique de Marseille defeats AS Monaco, what honor did the man with the most goals that match receive?",1
+45,The Dutch Antilles.,Dutch Antilles,0.0006470680236816,0.3923292160034179,0.9444798231124878,0.8,0.8,What is the other name given to the Dutch islands that retired baseball playerR aily Legito is from?,1
+46,Cage9 was formed first in 1993.,Silverchair,0.0006988048553466,0.6271755695343018,0.1195065900683403,0.0,0.0,"Which rock band was formed first, The Zutons or Silverchair?",0
+47,Kid Rock.,Allison Moorer,0.000756025314331,0.2930753231048584,0.0994584113359451,0.0,0.0,"The duet known as ""Picture"" features Sheryl Crow in Kid Rock's third major album ""Cocky"", but was later replaced with this country singer for the radio.",0
+48,"December 14, 2018.","December 14, 2018",0.0006616115570068,0.539038896560669,0.9797399640083312,1.0,1.0,"When is the movie ""Mortal Engines"" coming out that an actor that played in ""Misfits"" is starring in?",1
+49,Horace Grant.,Horace Grant,0.0007965564727783,0.3222999572753906,0.9811710119247437,1.0,1.0,Who is the identical twin brother of the man who finished second in Most Improved Player voting in the 1990-1991 NBA season?,1
+50,"There is no mention of a ""Japanese Fourth Army"" in the provided context. The Russo-Japanese War was fought between the Russian Empire and the Empire of Japan.",Manchuria and Korea,0.0006716251373291,1.7819526195526123,0.3265456259250641,0.064516129032258,0.064516129032258,What areas were fought over in the war fought by the Japanese Fourth Army?,0
+51,"No, they were not both lead vocalists.",yes,0.0006608963012695,0.6397521495819092,0.1731890439987182,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?,0
+52,Taylor Swift and Nathan Chapman.,Swift and Liz Rose,0.0009427070617675,0.4467561244964599,0.6730408072471619,0.4444444444444445,0.4444444444444445,"""Sparks Fly"" is a song written and recorded by American singer-songwriter Taylor Swift for her third studio album ""Speak Now"" (2010), Swift wrote the song when she was 16 years old, prior to the release of her debut single, in Tim McGraw, and first published song recorded by American singer-songwriter Taylor Swift, the song was written by which two people?",0
+53,Comedian.,comedian,0.000662088394165,0.2927570343017578,0.939243495464325,1.0,1.0,What do both Tom Leamore and Dan Leno have in common? ,1
+54,"Yes, both are magazine publications.",yes,0.0005905628204345,0.4910218715667724,0.1331281960010528,0.3333333333333333,0.3333333333333333,Can Fraxinus and Onoclea both be found in North America?,0
+55,Eureka.,"Eureka County, Nevada, United States",0.0005791187286376,0.2900319099426269,0.6077128648757935,0.3333333333333333,0.3333333333333333,Where was Mary Hill Fulstone born?,1
+56,Ray Bradbury.,Ray Bradbury,0.0006365776062011,0.34197998046875,0.9852343201637268,1.0,1.0,"The film The illustrated Man is based upon a science fiction short story, which was published in 1951 by what author?",1
+57,California.,"Roy ""Wrong Way"" Riegels",0.0006577968597412,0.2432897090911865,0.0593347996473312,0.0,0.0,Who played William Alexanders team in the rose bowl in 1929?,0
+58,There is no information about the species of bird that is the nickname of De Papegaai.,393,0.0006852149963378,1.1371078491210938,0.0213736649602651,0.0,0.0,How man species are there of the bird that is the nickname of De Papegaai?,0
+59,Fred Barron.,Eric Robles,0.0007646083831787,0.3072316646575928,0.4175053238868713,0.0,0.0,"Who created a series that included the ""Wizboy"" episode?",0
+60,For Your Consideration.,For Your Consideration,0.0006649494171142,0.3917825222015381,0.9293339252471924,1.0,1.0,What is the name of a 2006 comedy film direct by the 5th Baron Haden-Guest?,1
+61,The Turtle Mountain Band of Chippewa Indians.,Turtle Mountain Band of Chippewa Indians,0.0006122589111328,0.6896307468414307,0.974146842956543,0.923076923076923,0.923076923076923,"What group is the author of the novel ""The Round House"" a member of?",1
+62,Miles Teller,Amy Beth Schumer,0.0006048679351806,0.2906389236450195,0.2763083577156067,0.0,0.0,Which American stand-up comedian starred in thank You for Your Service,0
+63,Park Subin.,Park Su-bin,0.0006153583526611,0.3418583869934082,0.5256251692771912,0.4,0.4,Which of the following is part of the girl group Dal Shabet: Park Subin or Toby Rand?,1

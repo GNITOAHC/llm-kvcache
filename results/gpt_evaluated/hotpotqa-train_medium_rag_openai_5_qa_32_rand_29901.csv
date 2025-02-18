@@ -1,0 +1,198 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,African-American.,African American,0.3748764991760254,2.7689967155456543,0.8992266654968262,1.0,1.0,"What was the race of the man whose ""St. Louis Blues.""  were depicted in Blue Rhythm?",1
+1,Lauren Weisberger's 2003 novel of the same name.,Lauren Weisberger's 2003 novel of the same name,0.2645885944366455,1.654233455657959,0.974595069885254,1.0,1.0,"What was ""The Devil Wears Prada"" based off of?",1
+2,"manager to Tommy Wright at St Johnstone.
+
+Richard Hill (footballer, born 1963): 
+Richard Wilfred Hill (born 20 September 1963) is an English football coach and manager, who is currently Director of Football and caretaker manager at Eastleigh. He is also a former footballer who played for Oxford United, Watford, Northampton Town and Leicester City. He has been assistant manager at six different clubs, including Queens Park Rangers, had a difficult but successful stint as manager of Stevenage Borough before he took Eastleigh into the National League for the first time in their history.
+
+Bobby Davison: 
+Robert ""Bobby"" Davison (born 17 July 1959) is an English former professional footballer who played as a striker. Born in South Shields he began his career with Huddersfield Town before spending time at Halifax Town, Derby County (twice), Leeds United, Sheffield United (twice), Leicester City, Rotherham United and Hull City. After he retired from playing he spent time on the coaching staff of a number of clubs, including brief spells as manager of Guiseley and Ferencváros, and is currently youth team coach at Crystal Palace and assistant manager to Noel Blake's England national under-19 football team.
+
+Nigel Pearson: 
+Nigel Graham Pearson (born 21 August 1963) is an English football manager and former professional player who is currently manager of OH Leuven. He previously managed Hull City, Southampton, Carlisle United and Leicester City and was assistant manager for England Under-21s and Newcastle United. During his playing career, he was a defender and played for Shrewsbury Town, Sheffield Wednesday and Middlesbrough.
+
+History of Leicester City F.C.: 
+This is the history of Leicester City Football Club, based in Leicester, England, the United Kingdom. Having been founded over a 100 years ago, for the first time, in the 2015–16 season, Leicester City won the Premier League, with manager Claudio Ranieri being the manager. Also, in this same season, the team qualified for the UEFA Champions League.
+
+2014–15 Oxford United F.C. season: 
+The 2014–15 season was Oxford United's fifth season in League Two after returning from the Conference, and their first under new manager Michael Appleton. They finished 13th in the table, following an 8th-place finish in League Two in 2013–14. It was the club's 121st year in existence, their 115th of competitive football and their 66th since turning professional. This article covers the period from 1 July 2014 to 30 June 2015.
+
+Michael Appleton: 
+Michael Antony Appleton (born 4 December 1975) is an English football coach and former player who is currently the assistant manager of Leicester City.
+
+Brian Carey: 
+Brian Patrick Carey (born 31 May 1968) is a former Irish international footballer who played in the Football League for Leicester City as well as Wrexham, whom he also served as manager. Since his playing retirement he has worked as the Assistant Manager at Doncaster and Wolves and Chesterfield FC. He was the Lead Professional Development a Coach at Blackburn Rovers until May 2015 until early diapered for First Team League Football once again. He is a UEFA A Licence Coach, holds a BSc in Sport Coaching and Exercise Science and he has represented Republic of Ireland at Senior International Level.
+
+Malcolm Shotton: 
+Malcolm Shotton (born 16 February 1957) is an English former professional footballer and manager. He was on the books of Leicester City as an apprentice but failed to make the break into senior football there. He played for Atherstone United and Nuneaton Borough in non-league football before signing for Oxford United in 1980. He formed a notable defensive partnership with Gary Briggs and went on to become captain of the side as they rose from Division Three to Division One. His finest moment as captain was lifting the Milk Cup at Wembley Stadium in April 1986. At the end of the following season he was transferred to Portsmouth. He later played for Huddersfield Town, Barnsley, Hull City and Ayr United and, after his playing career ended, served as assistant manager at Barnsley.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What position did the  man hold who held Executive Director of the Australia-Japan Research Centre until 2002, who was born in a town located approximately 630 kilometres north of the New South Wales State capital, Sydney, 340 km south of Brisbane, Queensland and approximately 35 km west of the Tasman Sea coast?
+        
+        assistant
+         Emeritus Professor of Economics.",Emeritus Professor of Economics,0.4617135524749756,1.362914800643921,0.1062916964292526,0.0107962213225371,0.0107962213225371,"What position did the  man hold who held Executive Director of the Australia-Japan Research Centre until 2002, who was born in a town located approximately 630 kilometres north of the New South Wales State capital, Sydney, 340 km south of Brisbane, Queensland and approximately 35 km west of the Tasman Sea coast ?",0
+3,Harold Wilson.,Harold Wilson,0.5318601131439209,1.1082584857940674,0.978937029838562,1.0,1.0,The Public Records Act of 1967 was passed during which 1964-1970 Prime Minister?,1
+4,Draymond Green.,Draymond Green,0.4034590721130371,1.23298978805542,0.9875936508178712,1.0,1.0,"The Cavaliers–Warriors rivalry is a National Basketball Association (NBA) rivalry between the Cleveland Cavaliers and the Golden State Warriors, the two teams feature 11 NBA All-Stars, including which American professional basketball player, and was named an NBA All-Star and All-NBA Team member the following two seasons?",1
+5,Tool.,Tool,0.2822539806365967,1.0814342498779297,0.9141275882720948,1.0,1.0,Who is the American rock band from California with a hit single Stinkfist?,1
+6,The CIA.,the CIA,0.3342082500457763,1.166985034942627,0.9737504124641418,1.0,1.0,Which organization created the R. V. Jones Intelligence Award which honors those who are accomplished in the area of scientific military intelligence such as Reginald Victor Jones?,1
+7,Over 100 languages.,100,0.3548972606658935,1.301525592803955,0.3921327590942383,0.5,0.5,"The show will bring ten amateur baking contestants together in a bake-off competition of ""themed culinary challenges"" to find a best, over-all competitor, judging the competition will be pastry chef Feldeisen, a multiple James Beard Award nominee and the former executive pastry chef for Four Seasons Hotels Ltd., trading as Four Seasons Hotels and Resorts, is a Canadian international luxury hospitality company headquartered in Toronto, Ontario, it operates more than how many hotels worldwide?",0
+8,Pete's Tavern on Irving Place in New York City.,at Pete's Tavern on Irving Place in New York City,0.4707343578338623,1.5639173984527588,0.9687362909317015,0.9523809523809524,0.9523809523809524,Raincoat is a 2004 Indian Hindi drama film which is an adaptation of a short story that was allegedly written at which tavern ?,1
+9,Asian Paralympic Committee (APC),Asian Paralympic Committee,0.4691762924194336,1.210458755493164,0.8976110816001892,0.8571428571428571,0.8571428571428571,"Japan Paralympic Committee is recognized by International Paralympic Committee (IPC), Ministry of Health and what other committee?",1
+10,The Town of Hempstead is in the 7th State Senate district.,8th,0.3379056453704834,1.5394113063812256,0.2135573625564575,0.0,0.0,"The Town of Hempstead in New York, United States is in what New York State Senate district?",0
+11,A Pulitzer Prize and Tony nominations.,Pulitzer Prize,0.3333358764648437,1.3021118640899658,0.7244863510131836,0.5,0.5,"Edward Albee and Oliver La Farge both won this award, one for a novel and one for a play?",0
+12,"manager at Barnsley.
+
+Ray Lewington: 
+Raymond Lewington (born 7 September 1956) is an English retired footballer and current assistant manager of Crystal Palace FC. Previously he was the assistant manager of the England national football team. His son, Dean, is a professional footballer playing for Milton Keynes Dons.
+---------------------
+It follows in the tradition of eighteenth-century British deism, and challenges institutionalized religion and the legitimacy of the Bible. It was published in three parts in 1794, 1795, and 1807. It was a best-seller in the United States, where it caused a short-lived deistic revival. British audiences, however, fearing increased political radicalism as a result of the French Revolution, received it with more hostility. ""The Age of Reason"" presents common deistic arguments; for example, it highlights what Paine saw as corruption of the Christian Church and criticizes its efforts to acquire political power. Paine advocates reason in the place of revelation, leading him to reject miracles and to view the Bible as ""an ordinary piece of literature rather than as a divinely inspired text"". It promotes natural religion and argues for the existence of a creator-God.
+
+Helga Zepp-LaRouche: 
+Helga Zepp-LaRouche (born August 25, 1948, Trier) is a German political activist, wife of American political activist Lyndon LaRouche, and founder of the LaRouche movement's Schiller Institute and the German ""Bürgerrechtsbewegung Solidarität"" party (""BüSo"") (Civil Rights Movement Solidarity).
+
+Alvin Plantinga's free will defense: 
+Alvin Plantinga's free will defense is a logical argument developed by American analytic philosopher Alvin Plantinga, the John A. O'Brien Professor of Philosophy Emeritus at the University of Notre Dame, and published in its final version in his 1977 book ""God, Freedom, and Evil"". Plantinga's argument is a defense against the logical problem of evil as formulated by philosopher J. L. Mackie beginning in 1955. Mackie's formulation of the logical problem of evil argued that three attributes of God, omniscience, omnipotence, and omnibenevolence, in orthodox Christian theism are logically incompatible with the existence of evil. In 1982, Mackie conceded that Plantinga's defense successfully refuted his argument in ""The Miracle of Theism,"" though he did not claim that the problem of evil had been put to rest.
+
+John Rensenbrink: 
+John C. Rensenbrink is an American political scientist, philosopher, journalist, educational innovator, and political activist. He has initiated and helped found many organizations, the most prominent of which are the Maine Green Party (1984); the Green Party of the United States (1984-87) for both of which he was a principal founder; and CREA (the Cathance River Education Alliance) 2000 to the present, a hands-on ecological education project for local schools, schoolchildren and high school students in mid-coast Maine.
+
+Williamson Evers: 
+Williamson M. ""Bill"" Evers (born October 18, 1948) is an American political activist and education researcher. In 1988, he became a resident scholar at Stanford University's Hoover Institution—first as a national fellow, then a visiting scholar, and most recently a research fellow there and at The Independent Institute. He went on leave from Hoover to serve as Assistant Secretary for the Office of Planning, Evaluation and Policy Development in the United States Department of Education during 2007-2009. In November 2016, he was selected to lead President Elect Trump's transition team for the Department of Education.
+
+John Burman: 
+John Burman (5 October 1838 – 14 May 1900) was an English first-class cricketer, who played one match for Yorkshire County Cricket Club, scoring a duck and a vital 1 not out against Cambridgeshire at Queens Park, Wisbech in 1867. That was his only first-class run, and his only contribution to the game, but it was a heroic innings as he was last man in, and helped Joseph Rowbotham take the score from 76 for 9, to the 91 they needed to complete a one wicket win.
+---------------------
+Roman Karmen: 
+Roman Lazarevich Karmen (Russian: Рома́н Ла́заревич Карме́н ; 29 November [O.S. 16 November] 1906 in Odessa – 28 April 1978 in Moscow) was a Soviet war camera-man and film director and one of the most influential figures in documentary film making.
+
+Nils Gaup: 
+Nils Gaup (born April 12, 1955) is a Sámi film director from Norway.
+
+Great Is My Country: 
+Vast is my Native Land (1958), also known as ""Great is my Country"", (Russian: Широка страна моя родная, ""Shiroka strana moya rodnaya"" ), from the song of the same name, which is featured in the film, by the Russian composer Isaac Dunaevsky) was the first film shot in the Soviet wide-screen film format known as Kinopanorama. The film was directed by Roman Karmen, known for various documentary films produced in the Soviet Union. The music was composed by Kirill Molchanov, a noted composer of music for ballet and opera.
+
+Head Above Water: 
+Head Above Water is a 1996 American comedy thriller film directed by Jim Wilson and starring Harvey Keitel, Cameron Diaz, Craig Sheffer. It was rated PG-13 by the MPAA. The film is a remake of ""Hodet over vannet"" by Norwegian film director Nils Gaup.
+
+The Last King (film): 
+The Last King (original Norwegian title ""Birkebeinerne"") is a 2016 Norwegian historical drama, directed by Nils Gaup. The film centers on the efforts of the Birkebeiner loyalists (""Birkebeinerne"") to protection the infant, Haakon Haakonsson (later King Haakon IV), who was an heir to the Norwegian throne after the death of his father, King Haakon III. The film is set during the Civil war era in Norway during the 13th century.
+
+Nuremberg Trials (film): 
+The Nuremberg Trials is a 1947 Soviet-made documentary film about the trials of the Nazi leadership. It was produced by Roman Karmen, and was an English-language version of the Russian language film ""Суд народов"" (Judgment of the Peoples).
+
+North Star (1996 film): 
+North Star is a 1996 action-Western film starring James Caan, Christopher Lambert and Catherine McCormack. Directed by Nils Gaup, it was written by Sergio Donati and loosely based on Henry Wilson Allen's 1956 Western novel ""The North Star"". Lambert executive produced the film.
+
+Oleg Makara: 
+Oleg Makara-Kalmáry (born October 13, 1954, Czechoslovakia) is a film director, screenwriter and Slovak writer. In 1969, he wrote his debut as a screenwriter ""Pozlátené dievča"" at the age of 14. He then went on to study film directing at All States Institute (now Gerasimov Institute of Cinematography) in Moscow under Roman Karmen. A pseudonym is after his grandfather, art carpenter, Eduard Kalmáry. E. Kalmáry was a chief manager of water sawmill in Remetské Hámre, East Slovakia, owned by family Vanderbilts.
+
+The Kautokeino Rebellion: 
+The Kautokeino Rebellion (Norwegian: Kautokeino-opprøret, Northern Sami: Guovdageainnu Stuimmit ) is a 2008 film based on the true story of the Kautokeino riots in Kautokeino, Norway in 1852 in response to the Norwegian exploitation of the Sami community at that time. It is directed by Nils Gaup and was released in January, 2008. Music to this movie was mostly composed by Sami musician Mari Boine.
+
+Shipwrecked (1990 film): 
+Shipwrecked (Norwegian: ""Haakon Haakonsen"" ) is a 1990 family action-adventure film directed by Nils Gaup and starring Stian Smestad and Gabriel Byrne. The film is a dramatization of Norwegian author Oluf Falck-Ytter's book """" (""Haakon Haakonsen: A Norwegian Robinson""). In Norway, it was titled ""Haakon Haakonsen"".
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Arthur Noss won a Military Cross as the gunner of a soldier born in which year?
+        
+        assistant
+         1892",1892,0.480560302734375,1.081477165222168,0.0517760440707206,0.0016142050040355,0.0016142050040355,"What year was the trophy, in which the 1989-90 Calgary Flames won, commissioned?",0
+13,Michael Williams.,Mike Will Made It,0.444857120513916,1.0375006198883057,0.3566696047782898,0.0,0.0,What trap beat artist co-wrote and produced Pour It Up?,1
+14,The Amazon rainforest.,Amazon rainforest,0.3724789619445801,1.3797829151153564,0.9383839964866638,0.8,0.8,"Where is the legendary giant anaconda discovered that Vincent Castellanos, the American actor best known for his role in Anaconda from?",1
+15,Jules Massenet.,Jules Émile Frédéric Massenet,0.4835176467895508,1.145397424697876,0.8539185523986816,0.5,0.5,"Which composer lived a longer life, Dmitri Shostakovich or Jules Massenet?",1
+16,They are both film directors.,film director,0.3643043041229248,1.391862869262695,0.7297666072845459,0.5714285714285715,0.5714285714285715,What is the occupation of Wang Quan'an and Donald Sawyer?,1
+17,23 episodes.,25,0.332648754119873,1.321682691574097,0.3672887086868286,0.0,0.0,Dambai is the capital of one of how many districts in the Volta region?,0
+18,1940,1940,0.3580853939056396,1.1564397811889648,0.9999999403953552,1.0,1.0,What year was the director of Snake Eyes born?,1
+19,Musician/Artist,music,0.314443826675415,1.262160301208496,0.6905940771102905,0.0,0.0,What activity do both The Owl Service and Sigur Rós have in common?,1
+20,Picric acid.,Turpenite,0.2688081264495849,1.2054636478424072,0.3367322087287903,0.0,0.0,The a German chemist who received the Nobel Prize in Chemistry in 1918 reported the smell of what war gas allegedly developed by the French chemist Eugène Turpin?,0
+21,Rihanna.,Rihanna,0.3482093811035156,1.0290477275848389,0.9637503623962402,1.0,1.0,New Zealand top 50 singles of 2014 contained a song by Eminem that had guest vocals from what Barbadian singer?,1
+22,1962,1962,0.3087856769561767,0.927159547805786,1.0,1.0,1.0,The founder of the techno record label Metroplex was born in what year?,1
+23,"Ferula genus is more useful to humans, as it includes plants with medicinal and aromatic properties, such as Galbanum, which has been used in traditional medicine and perfumery.",Ferula,0.5636708736419678,2.6135995388031006,0.563382089138031,0.0689655172413793,0.0689655172413793,Is the Loasa genus or the Ferula genus more useful to humans?,1
+24,Jeremy,Jeremy,0.4704220294952392,0.8869180679321289,0.9999999403953552,1.0,1.0,"Which song, inspired by a high school student who shot himself in front of his English class, also appears with Yellow Ledbetter?",1
+25,"manager to Tommy Wright at St Johnstone.
+
+Richard Hill (footballer, born 1963): 
+Richard Wilfred Hill (born 20 September 1963) is an English football coach and manager, who is currently Director of Football and caretaker manager at Eastleigh. He is also a former footballer who played for Oxford United, Watford, Northampton Town and Leicester City. He has been assistant manager at six different clubs, including Queens Park Rangers, had a difficult but successful stint as manager of Stevenage Borough before he took Eastleigh into the National League for the first time in their history.
+
+Bobby Davison: 
+Robert ""Bobby"" Davison (born 17 July 1959) is an English former professional footballer who played as a striker. Born in South Shields he began his career with Huddersfield Town before spending time at Halifax Town, Derby County (twice), Leeds United, Sheffield United (twice), Leicester City, Rotherham United and Hull City. After he retired from playing he spent time on the coaching staff of a number of clubs, including brief spells as manager of Guiseley and Ferencváros, and is currently youth team coach at Crystal Palace and assistant manager to Noel Blake's England national under-19 football team.
+
+Nigel Pearson: 
+Nigel Graham Pearson (born 21 August 1963) is an English football manager and former professional player who is currently manager of OH Leuven. He previously managed Hull City, Southampton, Carlisle United and Leicester City and was assistant manager for England Under-21s and Newcastle United. During his playing career, he was a defender and played for Shrewsbury Town, Sheffield Wednesday and Middlesbrough.
+
+History of Leicester City F.C.: 
+This is the history of Leicester City Football Club, based in Leicester, England, the United Kingdom. Having been founded over a 100 years ago, for the first time, in the 2015–16 season, Leicester City won the Premier League, with manager Claudio Ranieri being the manager. Also, in this same season, the team qualified for the UEFA Champions League.
+
+2014–15 Oxford United F.C. season: 
+The 2014–15 season was Oxford United's fifth season in League Two after returning from the Conference, and their first under new manager Michael Appleton. They finished 13th in the table, following an 8th-place finish in League Two in 2013–14. It was the club's 121st year in existence, their 115th of competitive football and their 66th since turning professional. This article covers the period from 1 July 2014 to 30 June 2015.
+
+Michael Appleton: 
+Michael Antony Appleton (born 4 December 1975) is an English football coach and former player who is currently the assistant manager of Leicester City.
+
+Brian Carey: 
+Brian Patrick Carey (born 31 May 1968) is a former Irish international footballer who played in the Football League for Leicester City as well as Wrexham, whom he also served as manager. Since his playing retirement he has worked as the Assistant Manager at Doncaster and Wolves and Chesterfield FC. He was the Lead Professional Development a Coach at Blackburn Rovers until May 2015 until early diapered for First Team League Football once again. He is a UEFA A Licence Coach, holds a BSc in Sport Coaching and Exercise Science and he has represented Republic of Ireland at Senior International Level.
+
+Malcolm Shotton: 
+Malcolm Shotton (born 16 February 1957) is an English former professional footballer and manager. He was on the books of Leicester City as an apprentice but failed to make the break into senior football there. He played for Atherstone United and Nuneaton Borough in non-league football before signing for Oxford United in 1980. He formed a notable defensive partnership with Gary Briggs and went on to become captain of the side as they rose from Division Three to Division One. His finest moment as captain was lifting the Milk Cup at Wembley Stadium in April 1986. At the end of the following season he was transferred to Portsmouth. He later played for Huddersfield Town, Barnsley, Hull City and Ayr United and, after his playing career ended, served as assistant manager at Barnsley.
+---------------------
+Malcolm Shotton: 
+Malcolm Shotton (born 16 February 1957) is an English former professional footballer and manager. He was on the books of Leicester City as an apprentice but failed to make the break into senior football there. He played for Atherstone United and Nuneaton Borough in non-league football before signing for Oxford United in 1980. He formed a notable defensive partnership with Gary Briggs and went on to become captain of the side as they rose from Division Three to Division One. His finest moment as captain was lifting the Milk Cup at Wembley Stadium in April 1986. At the end of the following season he was transferred to Portsmouth. He later played for Huddersfield Town, Barnsley, Hull City and Ayr United and, after his playing career ended, served as assistant manager at Barnsley.
+
+Ray Lewington: 
+Raymond Lewington (born 7 September 1956) is an English retired footballer and current assistant manager of Crystal Palace FC. Previously he was the assistant manager of the England national football team. His son, Dean, is a professional footballer playing for Milton Keynes Dons.
+---------------------
+He still holds many records for his rebounding, blocked shots and scoring. In 2007, Davis was appointed by New Hampshire Governor John Lynch to the N.H. Workforce Youth Council, and in 2008 he became the chair. He is also a board member of the Greater Seacoast United Way. Dwight spends much of his free time working with at risk teens with lessons on and off the court.
+
+David Lee (basketball): 
+David Lee (born April 29, 1983) is an American professional basketball player who last played for the San Antonio Spurs of the National Basketball Association (NBA). He played college basketball for the Florida Gators before he was drafted 30th overall by the New York Knicks in the 2005 NBA draft. In 2010, Lee was signed and traded to the Golden State Warriors. Lee is a two-time All-Star and All-NBA Team member, and won an NBA championship with the Warriors in 2015.
+
+Klay Thompson: 
+Klay Alexander Thompson (born February 8, 1990) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The son of former NBA player Mychal Thompson, he played college basketball for three seasons at Washington State University, where he was a two-time first-team all-conference selection in the Pac-10. Thompson was selected in the first round of the 2011 NBA draft by Golden State with the 11th overall pick. In 2014, he and teammate Stephen Curry set a then NBA record with 484 combined three-pointers in a season, as the pair were given the nickname the ""Splash Brothers"". Thompson is a three-time NBA All-Star and a two-time All-NBA Third Team honoree. In 2015, he helped lead the Warriors to their first NBA Championship since 1975. Thompson helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship.
+
+Mo Williams: 
+Maurice Williams (born December 19, 1982) is an American professional basketball player who last played for the Cleveland Cavaliers of the National Basketball Association (NBA). After a successful high school career at Murrah High School, Williams attended college at the University of Alabama, where he led his team as a freshman to a 27–8 record, and also shared an SEC regular-season championship. After two seasons at Alabama, Williams entered the 2003 NBA draft where he was selected with the 47th overall pick by the Utah Jazz. Throughout his career, he has also played for the Milwaukee Bucks, Los Angeles Clippers, Portland Trail Blazers, Minnesota Timberwolves, Charlotte Hornets and Cleveland Cavaliers. In 2009, Williams was selected as an NBA All-Star. In 2016, he won an NBA championship with the Cavaliers.
+
+List of Golden State Warriors head coaches: 
+The Golden State Warriors are an American professional basketball team based in Oakland, California. The franchise had been known as the Philadelphia Warriors and the San Francisco Warriors, due to it previously being based in or near those cities. The team is a member of the Pacific Division of the Western Conference in the National Basketball Association (NBA). The Warriors initially joined the Basketball Association of America (BAA) as the Philadelphia Warriors in 1946, and won the first BAA championship title in the same year under coach Edward Gottlieb. The Warriors later joined the NBA at its foundation in 1949. The Warriors' record was 26–42 in their first NBA season and lost in the first round of the playoffs to the Syracuse Nationals. Franklin Mieuli and the Diners Club put together a group of 40 local investors to move the Warriors to San Francisco before the 1962–63 NBA season, with Mieuli eventually buying all the shares of the franchise to keep the team from collapsing and to keep it in the area. The team became the Golden State Warriors and moved to Oakland before the 1971–72 NBA season.
+
+2017 NBA Finals: 
+The 2017 NBA Finals was the championship series of the National Basketball Association (NBA)'s 2016–17 season and conclusion of the season's playoffs. The Western Conference champion Golden State Warriors defeated the defending NBA champion and Eastern Conference champion Cleveland Cavaliers 4 games to 1. This Finals was the first time in NBA history the same two teams had met for a third consecutive year. The Cavaliers sought to repeat as champions after winning the championship in 2016, while the Warriors won the first meeting in 2015. Golden State earned home court advantage with a 2016–17 regular season record of 67–15, while Cleveland finished the regular season with a 51–31 record.
+---------------------
+Cavaliers–Warriors rivalry: 
+The Cavaliers–Warriors rivalry is a National Basketball Association (NBA) rivalry between the Cleveland Cavaliers and the Golden State Warriors. While the two teams have played each other since the Cavaliers joined the league in 1970, their rivalry did not develop until the 2014–15 season, when they met in the first of three consecutive NBA Finals series. The two teams have met in three straight NBA Finals, becoming the only two teams in NBA history to do so. Of these three series, the Warriors have won two, most recently in 2017the Cavaliers have won one, in 2016. The two teams feature 11 NBA All-Stars: LeBron James, Kyrie Irving, Kevin Love, Deron Williams and Kyle Korver (Cleveland), and Stephen Curry, Kevin Durant, Draymond Green, Klay Thompson, David West and Andre Iguodala (Golden State). Two players, Andrew Bogut and Anderson Varejão, played for both teams during this time.
+
+Kevin Durant: 
+Kevin Wayne Durant (born September 29, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). He has won an NBA championship, an NBA Most Valuable Player Award, the Bill Russell NBA Finals Most Valuable Player Award, the NBA All-Star Game Most Valuable Player Award, four NBA scoring titles, the NBA Rookie of the Year Award, and two Olympic gold medals. Durant has also been selected to seven All-NBA teams and eight NBA All-Star teams.
+
+Draymond Green: 
+Draymond Jamal Green Sr. (born March 4, 1990) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). Green, who plays primarily at the power forward position, was named to the NBA All-Defensive Team and won his first NBA Championship with the Warriors in 2015. Green was named an NBA All-Star and All-NBA Team member the following two seasons. In 2017, he won NBA Defensive Player of the Year and his second NBA Championship as a member of the Warriors.
+
+Isaiah Thomas (basketball): 
+Isaiah Jamar Thomas (born February 7, 1989) is an American professional basketball player for the Cleveland Cavaliers of the National Basketball Association (NBA). The 5 ft point guard played three years of college basketball for the Washington Huskies and was a three-time all-conference selection in the Pac-10. After electing to forgo his senior year in college, Thomas was selected by the Sacramento Kings with the final pick in the 2011 NBA draft. He spent three seasons with the Kings before joining the Phoenix Suns in 2014. Thomas was acquired by the Boston Celtics in February 2015 and went on to earn NBA All-Star nods in 2016 and 2017, as well as All-NBA Team honors in 2017 after leading the Celtics to the first seed in the Eastern Conference. In August 2017, he was sent to the Cavaliers in a five-player trade.
+
+Dwight Davis (basketball): 
+Dwight E. Davis (born October 11, 1949) is a retired American professional basketball player. After playing college basketball at the University of Houston from 1969–72, Davis was selected as the 3rd overall pick of 1972 NBA draft by the Cleveland Cavaliers. Nicknamed ""Double D"", Davis played for five seasons in the NBA with two teams: the Cleveland Cavaliers (1972–75) and Golden State Warriors (1975–77). The 6 ft 8 in forward averaged 8.6 points in 340 career regular season games. Dwight was inducted into the ""Hall of Honor"" at the University of Houston in November 2006, some 34 years after leaving. He still holds many records for his rebounding, blocked shots and scoring. In 2007, Davis was appointed by New Hampshire Governor John Lynch to the N.H. Workforce Youth Council, and in 2008 he became the chair. He is also a board member of the Greater Seacoast United Way. Dwight spends much of his free time working with at risk teens with lessons on and off the court.
+
+David Lee (basketball): 
+David Lee (born April 29, 1983) is an American professional basketball player who last played for the San Antonio Spurs of the National Basketball Association (NBA). He played college basketball for the Florida Gators before he was drafted 30th overall by the New York Knicks in the 2005 NBA draft. In 2010, Lee was signed and traded to the Golden State Warriors.
+---------------------
+The team became the Golden State Warriors and moved to Oakland before the 1971–72 NBA season.
+
+2017 NBA Finals: 
+The 2017 NBA Finals was the championship series of the National Basketball Association (NBA)'s 2016–17 season and conclusion of the season's playoffs. The Western Conference champion Golden State Warriors defeated the defending NBA champion and Eastern Conference champion Cleveland Cavaliers 4 games to 1. This Finals was the first time in NBA history the same two teams had met for a third consecutive year. The Cavaliers sought to repeat as champions after winning the championship in 2016, while the Warriors won the first meeting in 2015. Golden State earned home court advantage with a 2016–17 regular season record of 67–15, while Cleveland finished the regular season with a 51–31 record. The Warriors entered the 2017 Finals after becoming the first team in NBA playoff history to start 12–0, while the Cavaliers entered the 2017 Finals with a 12–1 record during the first three rounds of the postseason. The Warriors' 15–0 start in the playoffs is the most consecutive postseason wins in NBA history and their 16–1 record is the best winning percentage () in NBA Playoff history.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        The current assistant manager of Leicester City used to coach which team in the 2014-15 Season?
+        
+        assistant
+         Oxford United.",Oxford United,1.2997486591339111,0.9314985275268556,0.2639711201190948,0.0015521924718665,0.0015521924718665,The current assistant manager of Leicester City used to coach which team in the 2014-15 Season ?,0
+26,Thomas Paine.,Thomas Paine,0.2900509834289551,1.2591054439544678,0.9836512804031372,1.0,1.0,What English and American political activist wrote a book that helped Joseph L. Lewis leave theism?,1
+27,"The album ""Music Inspired by Watership Down"" was inspired by the English author Richard Adams.",English,0.8367757797241211,1.9340617656707764,0.103040799498558,0.125,0.125,What language is spoken at both Lipscomb University and University of Debrecen?,0
+28,"""A Long Way Home"" by Saroo Brierley with Larry Buttrose.","""A Long Way Home""",0.302180528640747,1.8708362579345703,0.6552650928497314,0.5714285714285715,0.5714285714285715,"The actor that played Jamal Malik in ""Slumdog Millionaire"" also starred with Rooney Mara in a 2016 film based on what non-fiction book?",1
+29,"k-os released a song called ""Crabbuckit"" based on the crab in the bucket syndrome.",k-os,0.5965266227722168,1.892595052719116,0.4200320541858673,0.2352941176470588,0.2352941176470588,Who released a song based on a metaphor rephgering to the pattern of behavior seen in a group of crabs trapped in a bucket?,1
+30,"Pittsburgh, Pennsylvania.","Pittsburgh, Pennsylvania",0.4663386344909668,1.120382308959961,0.9803575277328492,1.0,1.0,"What is the birthplace of the novelist who created the poem ""Sacred Emily?""",1
+31,887,887,0.3164353370666504,1.0802662372589111,0.9999999403953552,1.0,1.0,What is the area of the town that Church of St. Anne is located in (in Acres)?,1

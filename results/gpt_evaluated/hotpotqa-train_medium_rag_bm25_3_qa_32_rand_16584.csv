@@ -1,0 +1,61 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,"2,956","2,956",0.0010552406311035,2.063413143157959,0.9999999403953552,1.0,1.0,"How many hotel rooms are in the hotel where Wayne Newton performed his May 23, 1989 Pay-Per-View concert?",1
+1,Edgar Kaiser.,Edgar Kaiser,0.00101900100708,0.422368049621582,0.9837488532066344,1.0,1.0,Ted Sundquist was promoted to GM of the Denver Broncos in 2001 by the family who purchased the team from which former owner in 1984?,1
+2,"""Master of Complications""",Master of Complications,0.0009164810180664,0.5489141941070557,0.955991804599762,1.0,1.0,"What slogan does this Swiss watchmaker and his company carry, who purchased 80% of the Minsk Watch Plant in 2010?",1
+3,"July 23 to September 11, 2014.","July 23 to September 11, 2014",0.0008902549743652,0.7580873966217041,0.9806677103042604,1.0,1.0,"What was the air date of this 2014 South Korean television series starring Jo In-sung, whose soundtrack was by Punch?",1
+4,The 1970s.,1970s,0.000903844833374,0.5541465282440186,0.9295619130134584,0.6666666666666666,0.6666666666666666,Leonora Mary Grosvenor's father was the richest man in Britain in what decade?,1
+5,Trussed Concrete Steel Company.,Trussed Concrete Steel Company,0.0008809566497802,0.5774767398834229,0.9707152843475342,1.0,1.0,"What company was founded by Julius Kahn in Detroit, Michigan?",1
+6,Alessandro Scarlatti (1660) is older than Philip Glass (1937).,Pietro Alessandro Gaspare Scarlatti,0.0008587837219238,1.018782138824463,0.6393991708755493,0.3076923076923076,0.3076923076923076,"Between Franz Schreker and Alessandro Scarlatti, who was born earlier?",0
+7,They are both documentary films.,documentary,0.0008811950683593,0.5597572326660156,0.631668210029602,0.3333333333333333,0.3333333333333333,WHat genre are both Game Face and Junket Whore?,1
+8,AVN Adult Entertainment Expo.,AVN Adult Entertainment Expo,0.0008826255798339,0.5519788265228271,0.988517165184021,1.0,1.0,"Which of the publication of AVN Media Network is an adult entertainment convention and trade show held each January in Las Vegas, Nevada and is sponsored by ""AVN"" magazine?",1
+9,The Los Angeles Memorial Coliseum.,Los Angeles Memorial Coliseum,0.0009098052978515,0.5686287879943848,0.9766395092010498,0.888888888888889,0.888888888888889,"Exposition Park, Los Angeles includes which NFL football stadium?",1
+10,New Holland.,New Holland,0.0008904933929443,0.4163358211517334,0.9772232174873352,1.0,1.0,"What North Lincolnshire, England village contains the Humber Ferry?",1
+11,Amar'e Stoudemire.,Amar'e Carsares Stoudemire,0.0009317398071289,0.598806619644165,0.8606484532356262,0.8571428571428571,0.8571428571428571,What NBA veteran was a 2005 all star along with his team mates Steven Nash and Shawn Marion?,1
+12,Hozier.,Hozier,0.0009081363677978,0.5011584758758545,0.967622935771942,1.0,1.0,"""From Eden"" is a number 2 song from the Irish Singles Chart that came from what album that was released on September 19th?",1
+13,The Central Landfill.,Central Landfill,0.0009288787841796,0.5129928588867188,0.9638691544532776,0.8,0.8,"What landfill located in the town of Johnston in Providence County, Rhode Island, United States is owned by Rhode Island Resource Recovery Corporation?",1
+14,The text does not mention Ron-Robert Zieler's team winning the national championship.,five times,0.0008821487426757,0.9839658737182616,0.0296795722097158,0.0,0.0,How many times during the season in which Manchester United recorded Lift it High did they lose?,0
+15,Zydrunas Ilgauskas.,Zydrunas Ilgauskas,0.001021385192871,0.6324172019958496,0.9916270971298218,1.0,1.0,"The 1997–98 NBA season was the 28th season of the National Basketball Association in Cleveland, Ohio, which Lithuanian retired professional basketball center of the National Basketball Association (NBA), and played for the Cleveland Cavaliers from 1996 to 2010, was selected to the All-Rookie First Team?",1
+16,Blues rock and Northern Irish.,rock and blues,0.0008971691131591,0.5619034767150879,0.7570602893829346,0.7499999999999999,0.5,Essential Montreux is a box-set by a singer known for being a guitar virtuoso in what two genres?,0
+17,"Essie Davis played Elizabeth Woodville in the TV series ""The White Princess"" on Starz.","Esther ""Essie"" Davis",0.0008919239044189,1.0730037689208984,0.567065954208374,0.2352941176470588,0.2352941176470588,Which Australian actress played Elizabeth Woodville in the TV series The White Princess which aired on Starz?,1
+18,"Mark Stuart is the lead vocalist for Audio Adrenaline, and Vincent Walker is the lead singer of Suburban Legends.",singer,0.0008854866027832,1.2738690376281738,0.371423065662384,0.1,0.1,Which other occupation is the American actress who stars as a Jewish-American girl who befriends a German prisoner of war in a made-for-television war drama?,0
+19,"No, they are not. One Ok Rock is from Japan and Galaxie 500 is from the United States.",no,0.0008578300476074,1.2546710968017578,0.1532615423202514,0.1052631578947368,0.1052631578947368,Are Chris Marker and Yvonne Rainer American?,0
+20,James Arness.,Gage Clarke,0.0008563995361328,0.4805212020874023,0.3483515679836273,0.0,0.0,What is the name of the American Actor who starred in Gunsmoke?,0
+21,Christian Nodal.,Adiós Amor,0.0008633136749267,0.4829332828521728,0.1340017318725586,0.0,0.0,What was the debut single of the composer and singer of Probablemente ?,0
+22,Grant Imahara.,Grant Imahara,0.0010578632354736,0.5447032451629639,0.9840484261512756,1.0,1.0,"Geoff Peterson is an animatronic human skeleton that served as the sidekick on the late-night talk show ""The Late Late Show with Craig Ferguson"", often referred to as a ""robot skeleton"", Peterson is a radio-controlled robot puppet, are animatronics refers to the use of robotic devices to emulate a human or an animal, or bring lifelike characteristics to an otherwise inanimate object, was designed and built by who, of ""MythBusters""?",1
+23,"No, they are not. Daniela Hantuchová is from Slovakia and Balázs Taróczy is from Hungary.",no,0.0008738040924072,1.317636489868164,0.1136710047721862,0.1111111111111111,0.1111111111111111,Are Chris Marker and Yvonne Rainer American?,0
+24,William James.,William James,0.0009794235229492,0.4657042026519775,0.9785269498825072,1.0,1.0,"José Ortega y Gasset, was a Spanish philosopher, and essayist, philosophy has been characterized as a ""philosophy of life"" that ""comprised a long-hidden beginning in a pragmatist metaphysics inspired by which American philosopher and psychologist who was also trained as a physician?",1
+25,Anjali Pictures.,Anjali Pictures,0.0009317398071289,0.539886474609375,0.98917818069458,1.0,1.0,Who distributed a 1971 Telugu-language film starring a man who made his film debut in Bhakta Shabari?,1
+26,No.,no,0.0009007453918457,0.4028475284576416,0.8128341436386108,1.0,1.0,Are Chris Marker and Yvonne Rainer American?,0
+27,"vice president. Within a year from arrival into American Airlines, he became full vice president. Gibson served as New York's first black deputy mayor for four years. After resigning from his title, Lucille Mason Rose took over and became New York's first woman to become deputy mayor, whom was also black.
+
+Alena Apina: 
+Alena was born on August, 23rd, 1964 in the City of Saratov. When she was 5 years old, her parents enrolled her to a local Music School in the piano class. She successfully graduated from Music School and attended Music College. After she graduated from College, she enrolled to the Folk Song Faculty of the Saratov State Conservatory.
+
+Tara Allain: 
+Tara Allain (born October 2, 1985) is Miss Maine for 2007. She is a 2008 graduate of Colby College.
+
+Laura Kaminsky: 
+Laura Kaminsky (born September 28, 1956) is an American composer, producer of musical and multi-disciplinary cultural events, and educator.
+---------------------
+Francis Delafield: 
+Francis Delafield (August 3, 1841 – July 17, 1915) was an American physician, born in New York City. His father, Dr. Edward Delafield, was the son of the prominent John Delafield who had emigrated to America from London, England in 1783 carrying the provisional peace treaty between England and The United States. While his father Edward graduated Yale in 1812, Francis graduated at Yale (1860) and at the College of Physicians and Surgeons, Columbia University (1863), and after further study abroad practiced medicine in New York. Francis was appointed to the staff of Bellevue Hospital (1874), and to the chair of pathology and practice of medicine in the College of Physicians and Surgeons (1875–82).
+
+Tara McPherson: 
+Tara McPherson (born April 7, 1976 in San Francisco, California) is an American artist based in New York City. She studied art at Santa Monica Community College and earned her BFA from Art Center in Pasadena, CA in August 2001. While in college, she interned with Rough Draft Studios. In a brief 2008 piece concerning concert artwork, ""Elle"" magazine referred to her as ""the crown princess of poster art. She opened the Cotton Candy Machine boutique in New York City in 2011.
+
+Tara Bray Smith: 
+Tara Bray Smith (born September 1970) is an American author. She was born and grew up in Hawaii. She graduated from Dartmouth College and received a master's in non-fiction writing from Columbia University.
+
+Paul Gibson Jr.: 
+Paul Peyton Gibson, Jr. (August 5, 1927 – July 10, 2014) was an American airline executive and New York City’s first black deputy mayor, serving as deputy mayor to Abraham Beame after being sworn into the position in 1974. Gibson was born in Manhattan in 1927. At eight years old, Gibson and his family moved to Brooklyn. He graduated from the Boys High School and later entered the City College of New York, where he also graduated from. Shortly after the second world war, Gibson enlisted into the American Army and was assigned to the Army Air Forces, and was mainly stationed in the Philippines. After his return from military service, he began a law firm.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Tara Allain graduated from a college in which city?
+        
+        assistant
+         Waterville, Maine.","Waterville, Maine",0.0008583068847656,0.5212254524230957,0.1433658301830291,0.0074626865671641,0.0074626865671641,Tara Allain graduated from a college in which city ?,1
+28,Yes.,yes,0.0008952617645263,0.3801240921020508,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+29,"Park Jin-pyo directed the film ""Love Forecast"" in which Jung Joon-young made his big screen debut.",Park Jin-pyo,0.0008981227874755,1.253467321395874,0.5454977750778198,0.2857142857142857,0.2857142857142857,Who directed the film in which Jung Joon-young made his big screen debut?,1
+30,"Yes, both Lionel Friedberg and Kenneth Anger were involved in the film industry.",yes,0.0008773803710937,0.9866342544555664,0.1669187247753143,0.1428571428571428,0.1428571428571428,Can Fraxinus and Onoclea both be found in North America?,0
+31,Yes.,yes,0.0008869171142578,0.3704721927642822,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1

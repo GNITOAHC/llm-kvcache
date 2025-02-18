@@ -1,0 +1,181 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,African-American.,African American,0.0012791156768798,2.730626583099365,0.8992266654968262,1.0,1.0,"What was the race of the man whose ""St. Louis Blues.""  were depicted in Blue Rhythm?"
+1,The novel of the same name by Lauren Weisberger.,Lauren Weisberger's 2003 novel of the same name,0.0012965202331542,1.6601214408874512,0.8763646483421326,0.7777777777777778,0.5555555555555556,"What was ""The Devil Wears Prada"" based off of?"
+2,Emeritus Professor of Economics.,Emeritus Professor of Economics,0.0014023780822753,1.3615176677703855,0.984165906906128,1.0,1.0,"What position did the  man hold who held Executive Director of the Australia-Japan Research Centre until 2002, who was born in a town located approximately 630 kilometres north of the New South Wales State capital, Sydney, 340 km south of Brisbane, Queensland and approximately 35 km west of the Tasman Sea coast ?"
+3,Harold Wilson.,Harold Wilson,0.0012686252593994,1.2283785343170166,0.978937029838562,1.0,1.0,The Public Records Act of 1967 was passed during which 1964-1970 Prime Minister?
+4,Draymond Green.,Draymond Green,0.001357078552246,1.3137152194976809,0.9875936508178712,1.0,1.0,"The Cavaliers–Warriors rivalry is a National Basketball Association (NBA) rivalry between the Cleveland Cavaliers and the Golden State Warriors, the two teams feature 11 NBA All-Stars, including which American professional basketball player, and was named an NBA All-Star and All-NBA Team member the following two seasons?"
+5,Tool.,Tool,0.0013248920440673,1.2400641441345217,0.9141275882720948,1.0,1.0,Who is the American rock band from California with a hit single Stinkfist?
+6,The CIA created the R. V. Jones Intelligence Award.,the CIA,0.0013589859008789,1.689258337020874,0.5656139850616455,0.3636363636363636,0.3636363636363636,Which organization created the R. V. Jones Intelligence Award which honors those who are accomplished in the area of scientific military intelligence such as Reginald Victor Jones?
+7,Over 100 languages.,100,0.0013873577117919,1.3490748405456543,0.3921327590942383,0.5,0.5,"The show will bring ten amateur baking contestants together in a bake-off competition of ""themed culinary challenges"" to find a best, over-all competitor, judging the competition will be pastry chef Feldeisen, a multiple James Beard Award nominee and the former executive pastry chef for Four Seasons Hotels Ltd., trading as Four Seasons Hotels and Resorts, is a Canadian international luxury hospitality company headquartered in Toronto, Ontario, it operates more than how many hotels worldwide?"
+8,". Emily Blunt and Stanley Tucci co-star as co-assistant Emily Charlton and art director Nigel, respectively.
+
+Mark Livolsi: 
+Mark Livolsi is an American film editor. He is primarily known for his work on the hit comedies ""Wedding Crashers"" (2005) and ""The Devil Wears Prada"" (2006); for each film, Livolsi was nominated for an ACE Eddie Award. His most recent film as editor is the hugely successful football drama ""The Blind Side"".
+
+Rise Up Tour: 
+The Rise Up Tour is a concert tour co-headlined by American metalcore band The Devil Wears Prada and American metalcore band Memphis May Fire. The tour supports The Devil Wears Prada's Sixth studio album, ""Transit Blues"" and Memphis May Fire's fifth studio album, ""This Light I Hold"". The second leg in Europe added Canadian post-hardcore band Silverstein as a third headliner supporting their eighth studio album ""I Am Alive in Everything I Touch.
+
+Space Zombies EP: 
+Space Zombies is the first EP by YouTube comedian Jarrod Alonge, released under the moniker of his fictitious metalcore band Amidst the Grave's Demons on June 17, 2016. The album's title is a reference to the ""Zombie"" and ""Space"" EPs by The Devil Wears Prada.
+
+Dead Throne: 
+Dead Throne is the fourth studio album by American metalcore band The Devil Wears Prada. It was released on September 13, 2011 through Ferret Music.
+---------------------
+High School Big Shot: 
+High School Big Shot is a 1959 film starring Tom Pittman as Marv Grant, a smart high school student whose plans for getting a college scholarship are threatened by his alcoholic father played by Malcolm Atterbury, and his relationship with the most popular girl in school. The plot is remarkably similar to that of Stanley Kubrick's ""The Killing"", released only three years previous. ""High School Big Shot"" was featured on an episode of the popular comedy series ""Mystery Science Theater 3000"". Filmed in 1958 under the title ""Blood Money"", executive producer Roger Corman released the film as a double feature with ""T-Bird Gang"" in his first Filmgroup release.
+
+Yellow Ledbetter: 
+""Yellow Ledbetter"" is a song by the American alternative rock band Pearl Jam. Featuring lyrics written by vocalist Eddie Vedder and music co-written by bassist Jeff Ament and guitarist Mike McCready, ""Yellow Ledbetter"" was an outtake from the band's debut album, ""Ten"". ""Yellow Ledbetter"" was selected by the band to be on the B-side 1992 single for the song ""Jeremy"", where it was first released. The song eventually found its way onto radio, peaking at number 21 on the ""Billboard"" Mainstream Rock Tracks chart. The song was included on the 2003 B-sides rarities album ""Lost Dogs"", and on the 2004 greatest hits album ""Rearviewmirror (Greatest Hits 1991–2003)"".
+
+Rias Gremory: 
+Rias Gremory (リアス・グレモリー, Riasu Guremorī ) is a fictional character who appears in the light novel, anime, and manga series ""High School DxD"" authored by Ichiei Ishibumi. Rias is the main love interest of the protagonist, Issei Hyodo. Rias is a high school student at Kuoh Academy, which, unbeknownst to most students, contains angels, devils, and fallen angels as part of its student population. ""High School DxD"" is set in a world where there is constant battle between these three main factions (angels, devils, fallen angels), though the war has died down as of late, and many famous angels and devils have already ceased to exist.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Raincoat is a 2004 Indian Hindi drama film which is an adaptation of a short story that was allegedly written at which tavern?
+        
+        assistant
+         Pete's Tavern on Irving Place in New York City.",at Pete's Tavern on Irving Place in New York City,0.0012495517730712,1.6451396942138672,0.0275245681405067,0.0356564019448946,0.0356564019448946,Raincoat is a 2004 Indian Hindi drama film which is an adaptation of a short story that was allegedly written at which tavern ?
+9,Asian Paralympic Committee (APC),Asian Paralympic Committee,0.0012910366058349,1.6418800354003906,0.8976110816001892,0.8571428571428571,0.8571428571428571,"Japan Paralympic Committee is recognized by International Paralympic Committee (IPC), Ministry of Health and what other committee?"
+10,The Town of Hempstead is in the 6th State Senate district.,8th,0.0012485980987548,1.8481981754302976,0.2042667418718338,0.0,0.0,"The Town of Hempstead in New York, United States is in what New York State Senate district?"
+11,A Pulitzer Prize and Tony nominations.,Pulitzer Prize,0.0012600421905517,1.3800251483917236,0.7244863510131836,0.5,0.5,"Edward Albee and Oliver La Farge both won this award, one for a novel and one for a play?"
+12,1892,1892,0.0012657642364501,1.235726833343506,1.0000001192092896,1.0,1.0,"What year was the trophy, in which the 1989-90 Calgary Flames won, commissioned?"
+13,Michael Williams.,Mike Will Made It,0.0012445449829101,1.319472074508667,0.3566696047782898,0.0,0.0,What trap beat artist co-wrote and produced Pour It Up?
+14,The Amazon rainforest.,Amazon rainforest,0.0012793540954589,1.345440149307251,0.9383839964866638,0.8,0.8,"Where is the legendary giant anaconda discovered that Vincent Castellanos, the American actor best known for his role in Anaconda from?"
+15,Jules Massenet.,Jules Émile Frédéric Massenet,0.0012106895446777,1.3080682754516602,0.8539185523986816,0.5,0.5,"Which composer lived a longer life, Dmitri Shostakovich or Jules Massenet?"
+16,They are both film directors.,film director,0.0012521743774414,1.4179959297180176,0.7297666072845459,0.5714285714285715,0.5714285714285715,What is the occupation of Wang Quan'an and Donald Sawyer?
+17,24 episodes.,25,0.0012733936309814,1.3014469146728516,0.3543934524059295,0.0,0.0,Dambai is the capital of one of how many districts in the Volta region?
+18,1940,1940,0.0012862682342529,1.2680072784423828,0.9999999403953552,1.0,1.0,What year was the director of Snake Eyes born?
+19,"None, they are unrelated. Copeland is an American rock band and Florence and the Machine is an English indie rock band.",music,0.0012481212615966,2.370055675506592,0.2875518202781677,0.0,0.0,What activity do both The Owl Service and Sigur Rós have in common?
+20,Picric acid.,Turpenite,0.0013339519500732,1.3206672668457031,0.3367322087287903,0.0,0.0,The a German chemist who received the Nobel Prize in Chemistry in 1918 reported the smell of what war gas allegedly developed by the French chemist Eugène Turpin?
+21,Rihanna.,Rihanna,0.0012900829315185,1.169600248336792,0.9637503623962402,1.0,1.0,New Zealand top 50 singles of 2014 contained a song by Eminem that had guest vocals from what Barbadian singer?
+22,1962.,1962,0.0012993812561035,1.3580963611602783,0.9593217968940736,1.0,1.0,The founder of the techno record label Metroplex was born in what year?
+23,"Ferula genus is more useful to humans, as it is the source of ferulic acid, a precursor to other aromatic compounds, and galbanum, a valuable aromatic gum resin.",Ferula,0.0012397766113281,2.996742010116577,0.5713506937026978,0.0689655172413793,0.0689655172413793,Is the Loasa genus or the Ferula genus more useful to humans?
+24,Jeremy,Jeremy,0.0013124942779541,1.1763205528259275,0.9999999403953552,1.0,1.0,"Which song, inspired by a high school student who shot himself in front of his English class, also appears with Yellow Ledbetter?"
+25,"manager to Noel Blake's England national under-19 football team.
+
+Nigel Pearson: 
+Nigel Graham Pearson (born 21 August 1963) is an English football manager and former professional player who is currently manager of OH Leuven. He previously managed Hull City, Southampton, Carlisle United and Leicester City and was assistant manager for England Under-21s and Newcastle United. During his playing career, he was a defender and played for Shrewsbury Town, Sheffield Wednesday and Middlesbrough.
+
+History of Leicester City F.C.: 
+This is the history of Leicester City Football Club, based in Leicester, England, the United Kingdom. Having been founded over a 100 years ago, for the first time, in the 2015–16 season, Leicester City won the Premier League, with manager Claudio Ranieri being the manager. Also, in this same season, the team qualified for the UEFA Champions League.
+
+2014–15 Oxford United F.C. season: 
+The 2014–15 season was Oxford United's fifth season in League Two after returning from the Conference, and their first under new manager Michael Appleton. They finished 13th in the table, following an 8th-place finish in League Two in 2013–14. It was the club's 121st year in existence, their 115th of competitive football and their 66th since turning professional. This article covers the period from 1 July 2014 to 30 June 2015.
+
+Michael Appleton: 
+Michael Antony Appleton (born 4 December 1975) is an English football coach and former player who is currently the assistant manager of Leicester City.
+
+Brian Carey: 
+Brian Patrick Carey (born 31 May 1968) is a former Irish international footballer who played in the Football League for Leicester City as well as Wrexham, whom he also served as manager. Since his playing retirement he has worked as the Assistant Manager at Doncaster and Wolves and Chesterfield FC. He was the Lead Professional Development a Coach at Blackburn Rovers until May 2015 until early diapered for First Team League Football once again.
+---------------------
+Callum Davidson: 
+Callum Iain Davidson (born 25 June 1976 in Stirling) is a Scottish professional football player and coach. Davidson played as a left back for St Johnstone, Blackburn Rovers, Leicester City and Preston North End between 1994 and 2014. At international level, Davidson represented Scotland on 19 occasions between 1998 and 2009. Since retiring as a player, Davidson has become a football coach. He is currently the assistant manager to Tommy Wright at St Johnstone.
+
+Richard Hill (footballer, born 1963): 
+Richard Wilfred Hill (born 20 September 1963) is an English football coach and manager, who is currently Director of Football and caretaker manager at Eastleigh. He is also a former footballer who played for Oxford United, Watford, Northampton Town and Leicester City. He has been assistant manager at six different clubs, including Queens Park Rangers, had a difficult but successful stint as manager of Stevenage Borough before he took Eastleigh into the National League for the first time in their history.
+
+Bobby Davison: 
+Robert ""Bobby"" Davison (born 17 July 1959) is an English former professional footballer who played as a striker. Born in South Shields he began his career with Huddersfield Town before spending time at Halifax Town, Derby County (twice), Leeds United, Sheffield United (twice), Leicester City, Rotherham United and Hull City. After he retired from playing he spent time on the coaching staff of a number of clubs, including brief spells as manager of Guiseley and Ferencváros, and is currently youth team coach at Crystal Palace and assistant manager to Noel Blake's England national under-19 football team.
+
+Nigel Pearson: 
+Nigel Graham Pearson (born 21 August 1963) is an English football manager and former professional player who is currently manager of OH Leuven. He previously managed Hull City, Southampton, Carlisle United and Leicester City and was assistant manager for England Under-21s and Newcastle United. During his playing career, he was a defender and played for Shrewsbury Town, Sheffield Wednesday and Middlesbrough.
+
+History of Leicester City F.C.: 
+This is the history of Leicester City Football Club, based in Leicester, England, the United Kingdom.
+---------------------
+It was the club's 121st year in existence, their 115th of competitive football and their 66th since turning professional. This article covers the period from 1 July 2014 to 30 June 2015.
+
+Michael Appleton: 
+Michael Antony Appleton (born 4 December 1975) is an English football coach and former player who is currently the assistant manager of Leicester City.
+
+Brian Carey: 
+Brian Patrick Carey (born 31 May 1968) is a former Irish international footballer who played in the Football League for Leicester City as well as Wrexham, whom he also served as manager. Since his playing retirement he has worked as the Assistant Manager at Doncaster and Wolves and Chesterfield FC. He was the Lead Professional Development a Coach at Blackburn Rovers until May 2015 until early diapered for First Team League Football once again. He is a UEFA A Licence Coach, holds a BSc in Sport Coaching and Exercise Science and he has represented Republic of Ireland at Senior International Level.
+
+Malcolm Shotton: 
+Malcolm Shotton (born 16 February 1957) is an English former professional footballer and manager. He was on the books of Leicester City as an apprentice but failed to make the break into senior football there. He played for Atherstone United and Nuneaton Borough in non-league football before signing for Oxford United in 1980. He formed a notable defensive partnership with Gary Briggs and went on to become captain of the side as they rose from Division Three to Division One. His finest moment as captain was lifting the Milk Cup at Wembley Stadium in April 1986. At the end of the following season he was transferred to Portsmouth. He later played for Huddersfield Town, Barnsley, Hull City and Ayr United and, after his playing career ended, served as assistant manager at Barnsley.
+
+Ray Lewington: 
+Raymond Lewington (born 7 September 1956) is an English retired footballer and current assistant manager of Crystal Palace FC. Previously he was the assistant manager of the England national football team. His son, Dean, is a professional footballer playing for Milton Keynes Dons.
+---------------------
+After a successful high school career at Murrah High School, Williams attended college at the University of Alabama, where he led his team as a freshman to a 27–8 record, and also shared an SEC regular-season championship. After two seasons at Alabama, Williams entered the 2003 NBA draft where he was selected with the 47th overall pick by the Utah Jazz. Throughout his career, he has also played for the Milwaukee Bucks, Los Angeles Clippers, Portland Trail Blazers, Minnesota Timberwolves, Charlotte Hornets and Cleveland Cavaliers. In 2009, Williams was selected as an NBA All-Star. In 2016, he won an NBA championship with the Cavaliers.
+
+List of Golden State Warriors head coaches: 
+The Golden State Warriors are an American professional basketball team based in Oakland, California. The franchise had been known as the Philadelphia Warriors and the San Francisco Warriors, due to it previously being based in or near those cities. The team is a member of the Pacific Division of the Western Conference in the National Basketball Association (NBA). The Warriors initially joined the Basketball Association of America (BAA) as the Philadelphia Warriors in 1946, and won the first BAA championship title in the same year under coach Edward Gottlieb. The Warriors later joined the NBA at its foundation in 1949. The Warriors' record was 26–42 in their first NBA season and lost in the first round of the playoffs to the Syracuse Nationals. Franklin Mieuli and the Diners Club put together a group of 40 local investors to move the Warriors to San Francisco before the 1962–63 NBA season, with Mieuli eventually buying all the shares of the franchise to keep the team from collapsing and to keep it in the area. The team became the Golden State Warriors and moved to Oakland before the 1971–72 NBA season.
+
+2017 NBA Finals: 
+The 2017 NBA Finals was the championship series of the National Basketball Association (NBA)'s 2016–17 season and conclusion of the season's playoffs. The Western Conference champion Golden State Warriors defeated the defending NBA champion and Eastern Conference champion Cleveland Cavaliers 4 games to 1. This Finals was the first time in NBA history the same two teams had met for a third consecutive year. The Cavaliers sought to repeat as champions after winning the championship in 2016, while the Warriors won the first meeting in 2015.
+---------------------
+Season 3 premiered September 4, 2009.
+
+Regular Show (season 7): 
+The seventh season of the American animated comedy television series ""Regular Show"", created by J. G. Quintel, originally aired on Cartoon Network in the United States. Quintel originally created the series' pilot using characters from his comedy shorts for the cancelled anthology series ""The Cartoonstitute"". He developed ""Regular Show"" from his own experiences in college, while several of its main characters originated from his animated shorts ""The Naïve Man from Lolliland"" and ""2 in the AM PM"". He himself voices one of the main characters in the show, ""Mordecai"", a blue jay. The series was renewed for a seventh season at the 2014 San Diego Comic-Con International on July 25, 2014. The previous season contained 31 episodes in order to accommodate for the and this season will contain the normal 40 episodes from the previous seasons. However, it was technically 39 episodes because the last episode of the season was used for the five shorts which were broadcast on Cartoon Network in March and April 2016. Therefore, the five shorts took up one production code for the 40 episodes.
+
+Law &amp; Order: Special Victims Unit (season 7): 
+The seventh season of the television series, """" premiered September 20, 2005 and ended May 16, 2006 on NBC. It aired on Tuesday nights at 10pm/9c. Critically the show's most successful season, both lead actors received nominations at the 2006 Emmy Awards with a win by Mariska Hargitay.
+
+Hawaii Five-0 (2010 TV series, season 7): 
+The seventh season of the CBS police procedural drama series ""Hawaii Five-0"" premiered on Friday September 23, 2016, and concluded on May 12, 2017. The season contained 25 episodes, and the series's 150th episode. For the 2016-17 U.S. television season, the seventh season of ""Hawaii Five-0"" ranked #15 with an average of 12.15 million viewers, and in the 18–49 demographic ranked 43rd with a 1.8/7 Rating/Share.
+
+List of Are You the One? episodes: 
+""Are You the One?""
+---------------------
+Critically the show's most successful season, both lead actors received nominations at the 2006 Emmy Awards with a win by Mariska Hargitay.
+
+Hawaii Five-0 (2010 TV series, season 7): 
+The seventh season of the CBS police procedural drama series ""Hawaii Five-0"" premiered on Friday September 23, 2016, and concluded on May 12, 2017. The season contained 25 episodes, and the series's 150th episode. For the 2016-17 U.S. television season, the seventh season of ""Hawaii Five-0"" ranked #15 with an average of 12.15 million viewers, and in the 18–49 demographic ranked 43rd with a 1.8/7 Rating/Share.
+
+List of Are You the One? episodes: 
+""Are You the One?"" is a United States reality television series on MTV. It follows 20 people who are living together to find their perfect match. If all 20 singles are able to match up with their predetermined partners within 10 attempts, they share the largest cash prize ever awarded by an MTV show and walk away with a potential partner for life. The first season was filmed in Hawaii and premiered January 21, 2014. The second season premiered October 6, 2014. The third season premiered September 25, 2015 and was filmed in Puerto Rico. The fourth season premiered June 13, 2016 and was filmed in Hawaii. The fifth season premiered on January 11, 2017 and was filmed in Cabarete, Dominican Republic. The sixth season will premiere on September 20, 2017 and was filmed in New Orleans, Louisiana.
+
+List of Undercover Boss (U.S. TV series) episodes: 
+""Undercover Boss"" is an American 2010 reality television series, based on the British series of the same name. The first episode of the first season premiered on February 7, 2010, after Super Bowl XLIV, and featured Bob O'Donnell, President and Chief Operating Officer of Waste Management, Inc. On March 9, 2010, CBS announced it had renewed ""Undercover Boss"" for a second season.
+---------------------
+The third season premiered September 25, 2015 and was filmed in Puerto Rico. The fourth season premiered June 13, 2016 and was filmed in Hawaii. The fifth season premiered on January 11, 2017 and was filmed in Cabarete, Dominican Republic. The sixth season will premiere on September 20, 2017 and was filmed in New Orleans, Louisiana.
+
+List of Undercover Boss (U.S. TV series) episodes: 
+""Undercover Boss"" is an American 2010 reality television series, based on the British series of the same name. The first episode of the first season premiered on February 7, 2010, after Super Bowl XLIV, and featured Bob O'Donnell, President and Chief Operating Officer of Waste Management, Inc. On March 9, 2010, CBS announced it had renewed ""Undercover Boss"" for a second season. On July 28, 2010, CBS announced four company executives had signed up for the second season of ""Undercover Boss"", the executives are from NASCAR, DirecTV, Chiquita Brands International and Great Wolf Lodge, Inc. The Choice Hotels CEO, Steve Joyce, was the first boss for the second season of the show on September 26, 2010. On March 27, 2011, CBS officially renewed ""Undercover Boss"" for a third season. On May 18, 2011, CBS then announced that it would be holding the show for a mid-season replacement to premiere Sunday January 15, 2012, with an undetermined amount of episodes. The third season premiered on January 15, 2012. The fourth season premiered on November 2, 2012. The fifth season premiered on September 27, 2013. The sixth season premiered on December 14, 2014. The eighth season premiered on December 21, 2016.
+
+Hawaii Five-0 (2010 TV series): 
+Hawaii Five-0 is an American action police procedural television series, which premiered on Monday, September 20, 2010 on CBS. The series is a reboot of the original series, which aired on CBS from 1968 to 1980. Like the original, it follows an elite state police task force set up to fight crime in the state of Hawaii.
+---------------------
+He played college basketball for the Florida Gators before he was drafted 30th overall by the New York Knicks in the 2005 NBA draft. In 2010, Lee was signed and traded to the Golden State Warriors. Lee is a two-time All-Star and All-NBA Team member, and won an NBA championship with the Warriors in 2015.
+
+Klay Thompson: 
+Klay Alexander Thompson (born February 8, 1990) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). The son of former NBA player Mychal Thompson, he played college basketball for three seasons at Washington State University, where he was a two-time first-team all-conference selection in the Pac-10. Thompson was selected in the first round of the 2011 NBA draft by Golden State with the 11th overall pick. In 2014, he and teammate Stephen Curry set a then NBA record with 484 combined three-pointers in a season, as the pair were given the nickname the ""Splash Brothers"". Thompson is a three-time NBA All-Star and a two-time All-NBA Third Team honoree. In 2015, he helped lead the Warriors to their first NBA Championship since 1975. Thompson helped the Warriors return to the NBA Finals for a third straight year in 2017, winning his second NBA Championship.
+
+Mo Williams: 
+Maurice Williams (born December 19, 1982) is an American professional basketball player who last played for the Cleveland Cavaliers of the National Basketball Association (NBA). After a successful high school career at Murrah High School, Williams attended college at the University of Alabama, where he led his team as a freshman to a 27–8 record, and also shared an SEC regular-season championship. After two seasons at Alabama, Williams entered the 2003 NBA draft where he was selected with the 47th overall pick by the Utah Jazz. Throughout his career, he has also played for the Milwaukee Bucks, Los Angeles Clippers, Portland Trail Blazers, Minnesota Timberwolves, Charlotte Hornets and Cleveland Cavaliers. In 2009, Williams was selected as an NBA All-Star. In 2016, he won an NBA championship with the Cavaliers.
+
+List of Golden State Warriors head coaches: 
+The Golden State Warriors are an American professional basketball team based in Oakland, California.
+---------------------
+The team became the Golden State Warriors and moved to Oakland before the 1971–72 NBA season.
+
+2017 NBA Finals: 
+The 2017 NBA Finals was the championship series of the National Basketball Association (NBA)'s 2016–17 season and conclusion of the season's playoffs. The Western Conference champion Golden State Warriors defeated the defending NBA champion and Eastern Conference champion Cleveland Cavaliers 4 games to 1. This Finals was the first time in NBA history the same two teams had met for a third consecutive year. The Cavaliers sought to repeat as champions after winning the championship in 2016, while the Warriors won the first meeting in 2015. Golden State earned home court advantage with a 2016–17 regular season record of 67–15, while Cleveland finished the regular season with a 51–31 record. The Warriors entered the 2017 Finals after becoming the first team in NBA playoff history to start 12–0, while the Cavaliers entered the 2017 Finals with a 12–1 record during the first three rounds of the postseason. The Warriors' 15–0 start in the playoffs is the most consecutive postseason wins in NBA history and their 16–1 record is the best winning percentage () in NBA Playoff history.
+---------------------
+Cavaliers–Warriors rivalry: 
+The Cavaliers–Warriors rivalry is a National Basketball Association (NBA) rivalry between the Cleveland Cavaliers and the Golden State Warriors. While the two teams have played each other since the Cavaliers joined the league in 1970, their rivalry did not develop until the 2014–15 season, when they met in the first of three consecutive NBA Finals series. The two teams have met in three straight NBA Finals, becoming the only two teams in NBA history to do so. Of these three series, the Warriors have won two, most recently in 2017the Cavaliers have won one, in 2016. The two teams feature 11 NBA All-Stars: LeBron James, Kyrie Irving, Kevin Love, Deron Williams and Kyle Korver (Cleveland), and Stephen Curry, Kevin Durant, Draymond Green, Klay Thompson, David West and Andre Iguodala (Golden State). Two players, Andrew Bogut and Anderson Varejão, played for both teams during this time.
+
+Kevin Durant: 
+Kevin Wayne Durant (born September 29, 1988) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). He has won an NBA championship, an NBA Most Valuable Player Award, the Bill Russell NBA Finals Most Valuable Player Award, the NBA All-Star Game Most Valuable Player Award, four NBA scoring titles, the NBA Rookie of the Year Award, and two Olympic gold medals. Durant has also been selected to seven All-NBA teams and eight NBA All-Star teams.
+
+Draymond Green: 
+Draymond Jamal Green Sr. (born March 4, 1990) is an American professional basketball player for the Golden State Warriors of the National Basketball Association (NBA). Green, who plays primarily at the power forward position, was named to the NBA All-Defensive Team and won his first NBA Championship with the Warriors in 2015. Green was named an NBA All-Star and All-NBA Team member the following two seasons. In 2017, he won NBA Defensive Player of the Year and his second NBA Championship as a member of the Warriors.
+
+Isaiah Thomas (basketball): 
+Isaiah Jamar Thomas (born February 7, 1989) is an American professional basketball player for the Cleveland Cavaliers of the National Basketball Association (NBA).
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        The current assistant manager of Leicester City used to coach which team in the 2014-15 Season?
+        
+        assistant
+         Oxford United.",Oxford United,0.001253604888916,1.2591230869293213,0.4075667858123779,0.0011834319526627,0.0011834319526627,The current assistant manager of Leicester City used to coach which team in the 2014-15 Season ?
+26,Thomas Paine.,Thomas Paine,0.0012741088867187,1.327573299407959,0.9836512804031372,1.0,1.0,What English and American political activist wrote a book that helped Joseph L. Lewis leave theism?
+27,Richard Adams' nationality is British.,English,0.0013682842254638,1.4318079948425293,0.2419391870498657,0.0,0.0,What language is spoken at both Lipscomb University and University of Debrecen?
+28,"""A Long Way Home"" by Saroo Brierley with Larry Buttrose.","""A Long Way Home""",0.0012392997741699,1.940293550491333,0.6552650928497314,0.5714285714285715,0.5714285714285715,"The actor that played Jamal Malik in ""Slumdog Millionaire"" also starred with Rooney Mara in a 2016 film based on what non-fiction book?"
+29,"k-os released a song called ""Crabbuckit"" based on the crab mentality metaphor.",k-os,0.0012972354888916,2.081897020339966,0.4239350259304046,0.2666666666666667,0.2666666666666667,Who released a song based on a metaphor rephgering to the pattern of behavior seen in a group of crabs trapped in a bucket?
+30,Gertrude Stein.,"Pittsburgh, Pennsylvania",0.0012428760528564,1.41041898727417,0.1269396245479583,0.0,0.0,"What is the birthplace of the novelist who created the poem ""Sacred Emily?"""
+31,887,887,0.0012295246124267,1.1845417022705078,0.9999999403953552,1.0,1.0,What is the area of the town that Church of St. Anne is located in (in Acres)?

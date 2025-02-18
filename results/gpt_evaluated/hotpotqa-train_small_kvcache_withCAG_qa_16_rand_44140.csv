@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,reset_cache_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Molly Shannon,Molly Shannon,0.0004818439483642,0.4200499057769775,0.9999999403953552,1.0,1.0,"What star of ""Year of the Dog"" was also in ""Other People""?",1
+1, Adolf Hitler,Adolf Hitler,0.0004956722259521,0.3711366653442383,1.0,1.0,1.0,Who was the Chancellor of Germany that Alfred Delp was falsely accused of attempting to overthrow?,1
+2, Van Morrison was knighted in 2016.,2016,0.0004913806915283,1.3033876419067385,0.221712127327919,0.2857142857142857,0.2857142857142857,In what year was the choreographer with whom Laz Brotherston has collaborated knighted?,0
+3, nine.,nine,0.0004928112030029,0.3793129920959472,0.9047521352767944,1.0,1.0,How many members does the band who released the extended play (EP) Signal consist of?,1
+4, Football.,The song was endorsed by African footballers Emmanuel Adebayor and Samuel Eto'o.,0.0004982948303222,0.368328332901001,0.0983374416828155,0.1428571428571428,0.1428571428571428,What sport did Emmanuel Adebayor play?,1
+5, Ireland,Airlann,0.000481367111206,0.2633299827575683,0.2607792317867279,0.0,0.0,What is the Ulster-Scots name for the island where Thomas de Thelwall held office as Master of the Rolls and clerk to the Privy Council?,0
+6, Yes.,yes,0.0004980564117431,0.3693969249725342,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+7," No, we do not have enough information to determine which one directed more films.",no,0.0005030632019042,2.006375312805176,0.1423905193805694,0.1333333333333333,0.1333333333333333,Are Chris Marker and Yvonne Rainer American?,0
+8, Institutes of Technology Act.,Institutes of Technology Act,0.0004971027374267,0.7286391258239746,0.987529456615448,1.0,1.0,Narinder Kumar Gupta is Professor of Mechanics at a public institution that was declared to be Institute of National Importance by Government of India under what?,1
+9, Rihanna,Rihanna,0.0004725456237792,0.2626018524169922,1.0000001192092896,1.0,1.0,New Zealand top 50 singles of 2014 contained a song by Eminem that had guest vocals from what Barbadian singer?,1
+10, A1,A1,0.0005218982696533,0.3778655529022217,1.0,1.0,1.0,"Name the modern road which parallels the route of the Great North Road which began in London and passed a grade II listed public house in Hatfield known as the Red Lion, an example of a coaching inn or staging post providing accommodation and stabling for horses?",1
+11, Don Roos,Don Roos,0.0005128383636474,0.4866080284118652,1.0,1.0,1.0,Gwyneth Paltrow who starred in the movie Bounce was directed by who?,1
+12, Dayton.,"Dayton, Ohio",0.0004966259002685,0.3810653686523437,0.8957773447036743,0.6666666666666666,0.6666666666666666,Where was the team that replaced the team originally known as the Dayton Devils based?,1
+13, 1-10 overall and 1-6 in Big Eight Conference play.,2–9,0.0005040168762207,2.0130186080932617,0.515181303024292,0.0,0.0,What was the final record for the Kansas State Wildcats football team in the year that Jim Dickey redshirted 18 players?,0
+14, 1992,1992,0.0005085468292236,0.5193417072296143,1.0,1.0,1.0,The most recent person to win the Crystal Palace F.C. Player of the Year for the second time is a footballer who was born in what year?,1
+15, The University of Illinois system has more locations.,The University of Michigan,0.0005037784576416,1.1847026348114014,0.4685477018356323,0.5,0.5,In between University of Michigan and Universidade Positivo which one was moved to Ann Arbor in 1837?,0

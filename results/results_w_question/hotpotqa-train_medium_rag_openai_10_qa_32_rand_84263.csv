@@ -1,0 +1,194 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,Yes.,yes,0.3029360771179199,4.085829257965088,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+1,Kentucky Kingdom,Hurricane Bay.,0.4170887470245361,2.477903127670288,0.2452026307582855,0.0,0.0,"What is the name of the water park, in the amusement park, where the roller coaster Lightning Run is located ?"
+2,RCA,RCA,0.4936051368713379,2.5584499835968018,1.0,1.0,1.0,What company helped fund the building of the outer space roller coaster that inspired part of the Walt Disney World Quest: Magical Racing Tour?
+3,"34,228","34,228",0.3524284362792969,2.349904537200928,1.0,1.0,1.0,What is the current capacity of the stadium used by a team coached by Mickey Arthur?
+4,Steve Kerr.,Steve Kerr,0.2673466205596924,2.0303680896759038,0.9764338731765748,1.0,1.0,What seven time NBA champion was acquired by the Cleveland Cavaliers in the 1989 season?
+5,The Red Shoes (2005),"""The Red Shoes""",0.3169331550598144,2.6017942428588867,0.8481107950210571,0.8571428571428571,0.8571428571428571,Which South Korean horror film starred Kim Sung-Soo? 
+6,"2006, in Torino, Italy.",Italy,0.5507791042327881,2.675431966781616,0.5835516452789307,0.4,0.4,"In what country was Dino Zoff, the oldest winner of the World Cup, born?"
+7,London.,"South Kensington, London",0.3468320369720459,2.247272253036499,0.7611474990844727,0.5,0.5,John McAleese led an SAS team that stormed an embassy in what location?
+8,Ricky Warwick.,Ricky Warwick,0.2738008499145508,2.168199062347412,0.9754121899604796,1.0,1.0,Which musician in Circus Diablo is also the frontman for the Scottish hard rock band The Almighty?
+9,Georgia.,Utah,0.8842582702636719,2.368028163909912,0.5681267976760864,0.0,0.0,In which state was the company whose current executive is Steve Lund founded?
+10,"The Mercedes-Benz E-Class, the coupé and convertible versions of the fourth generation Mercedes-Benz E-Class automobile, also known as the C207 and A207, were sold from 2009 to 2017.",Mercedes-Benz E-Class,0.3191337585449219,4.723593235015869,0.786877453327179,0.2222222222222222,0.2222222222222222,"The Mercedes-Benz E-Class (W213 and S213) series represent the fifth-generation of the Mercedes-Benz E-Class range of executive cars, including sedan (W213) and station wagon (S213) configurations, it is the successor to the W212/S212 E-Class models, which series represent the fourth-generation of the Mercedes-Benz E-Class range of executive cars, including sedan (W212) and station wagon (S212) configurations?"
+11,The Monkees.,The Monkees,0.3982331752777099,2.3019111156463623,0.981952667236328,1.0,1.0,Which Los Angeles formed American rock and pop band stared in the 1968 musical Head?
+12,Lee Jun-ho,Lee Jun-ho,0.3022785186767578,2.7204034328460693,1.0000001192092896,1.0,1.0,Which member of the South Korean boy band 2PM is in the Korean television drama Good Manager?
+13,The United States.,United States,0.3056490421295166,2.3899645805358887,0.8440276384353638,0.8,0.8,Where is the owner of Next big sound provides analytics for online music available?
+14,Chad Hugo.,Chad Hugo,0.3434977531433105,2.1123878955841064,0.9789020419120787,1.0,1.0,"The Neptunes are a two-member producing group consisting of Pharrell Williams, and who?"
+15,The Los Angeles Lakers.,Los Angeles Lakers,0.6063685417175293,2.651275873184204,0.9363328218460084,0.8571428571428571,0.8571428571428571,"For what team did a retired basketball player nicknamed Mr. Clutch played alongside with Earnest ""Earnie"" Killum?"
+16,1966,1966,0.3256399631500244,2.336038112640381,1.0,1.0,1.0,"In which year was this American musician who wrote all songs of the album ""Brighten the Corners"" born?"
+17,"Shirley Jones played the mother in the 1970s American musical sitcom ""The Partridge Family"".",Shirley Jones,0.3698341846466064,3.560950994491577,0.612916111946106,0.25,0.25,Who played the mother in the 1970ies American musical sitcom that also starred child actress Suzanne Crough?
+18,They are both film directors.,film and television director,0.4688947200775146,2.5327601432800293,0.7020904421806335,0.4444444444444445,0.4444444444444445,"Peter Watkins and Baltasar Kormákur, have which occupations in common?"
+19,Philip Hammond.,Philip Anthony Hammond,0.3371617794036865,2.4658992290496826,0.903657078742981,0.8,0.8,The March 2017 United Kingdom budget was delivered by which Conservative Party politician?
+20,Jacques Villeneuve,Jacques Villeneuve,0.3143842220306396,2.3854894638061523,1.0,1.0,1.0,Which 1995 CART Championship winner drove the BAR 004?
+21,Josh Earnest.,Joshua Ryan Henry Earnest,0.3312971591949463,2.0991945266723637,0.704204797744751,0.3333333333333333,0.3333333333333333,"Eric Schultz is a senior advisor to former President Barack Obama and is the founder of Schultz Group, after which White House Deputy Press Secretary, replaced Jay Carney to become White House Press Secretary, Schultz was appointed White House Deputy Press Secretary?"
+22,1836,1854,0.2899904251098633,2.33875036239624,0.5835756063461304,0.0,0.0,"When was the University founded, from which Jamal Gray obtained a degree ? "
+23,Harriet Beecher Stowe.,Harriet Beecher Stowe,0.3320636749267578,2.5508828163146973,0.9885925054550172,1.0,1.0,Who wrote the novel which the terms Tom show and Uncle Tom are derived from?
+24,Tennis.,tennis,0.3486146926879883,2.2562198638916016,0.9499958753585817,1.0,1.0,Which sport do both John Austin and Todd Woodbridge play?
+25,RCA Nashville.,RCA Nashville,0.3107156753540039,2.2806437015533447,0.9832605123519896,1.0,1.0,"What record label released the album that featured Miranda Lambert's song ""Somethin' Bad""?"
+26,"Blum in the field of inorganic analytical chemistry of minerals. For a postdoctoral position, he joined the laboratory of Adolf von Baeyer at the University of Straßburg. Goldschmiedt worked in the field of organic chemistry for two years, but he also studied mineralogy and crystallography with Paul Heinrich von Groth. During that time, Emil Fischer and Franz S. Exner also worked with Baeyer in Straßburg. For Goldschmiedt, the time in Straßburg ended abruptly because he joined the group of Schneiders at the University of Vienna. After his habilitation in 1875, he was sent as official observer to the world fair in Philadelphia in 1876.
+---------------------
+Leila Aboulela: 
+Leila Aboulela (born 1964), Arabic 'ليلى ابوالعلا' is a Sudanese writer who writes in English. Her latest novel, ""The Kindness of Enemies"" is inspired by the life of Imam Shamil, who united the tribes of the Caucasus to fight against Russian Imperial expansion. Leila's novel ""Lyrics Alley"", was Fiction Winner of the Scottish Book Awards and short-listed for a Regional Commonwealth Writers Prize. She is also the author of the novels ""The Translator"" (a New York Times 100 Notable Book of the Year) and ""Minaret"". All three novels were long-listed for the Orange Prize and the IMPAC Dublin Award. Leila Aboulela won the Caine Prize for African Writing for her short story, ""The Museum"", included in the collection ""Coloured Lights"" which went on to be short-listed for the Macmillan/Silver PEN award. Aboulela’s work has been translated into fourteen languages and included in publications such as ""Granta"", ""The Washington Post"" and ""The Guardian"". BBC Radio has adapted her work extensively and broadcast a number of her plays including ""The Mystic Life"" and the historical drama ""The Lion of Chechnya"". The five-part radio serialization of her novel ""The Translator"" was short-listed for the RIMA (Race In the Media Award). Aboulela grew up in Khartoum and now lives in Aberdeen.
+
+Mary Curtis Richardson: 
+Mary Curtis Richardson (9 April 1848 in New York City – 1 November 1931 in San Francisco) was an impressionist painter and known as the ""Mary Cassatt of the West"". Her father, Lucien Curtis went overland to the gold fields of California in 1849. The following year, Mary, her sister Leila and her mother went to California via the Isthmus of Panama to join her father and settled in San Francisco.
+
+Vivian Fowler Memorial College for Girls: 
+The Vivian Fowler Memorial College For Girls is an all-girls Independent college founded in 1991 by Chief Mrs. Leila Fowler in Nigeria. It is located in the Ikeja suburb of the city of Lagos, the capital of Lagos State. It serves to prepare girls for additional private education either at a university in Nigeria or elsewhere in the world. It is Classified as one of the most prestigious private schools in western Africa, with students from families of extreme wealth and political power.
+
+University College Dublin: 
+University College Dublin (commonly referred to as UCD) (Irish: ""An Coláiste Ollscoile, Baile Átha Cliath"" ) is a research university in Dublin, Ireland. It has over 1,482 faculty and 32,000 students, and it is Ireland's largest university. The university originates in a body founded in 1854 with John Henry Newman as the first rector known as the Catholic University of Ireland, re-formed in 1880 and chartered in its own right in 1908. The Universities Act, 1997 renamed the ""constituent university"" as the ""National University of Ireland, Dublin"", and a ministerial order of 1998 renamed the institution as ""University College Dublin - National University of Ireland, Dublin"".
+
+Olga de Amaral: 
+Olga de Amaral was born as Olga Ceballos Velez in Bogotá, Cundinamarca, Colombia to parents from the Antioquia region of Colombia. She was raised in a traditional religious family with 5 sisters and 2 brothers. She grew up in a traditional neighbourhood in Bogotá in a warm, safe family atmosphere, maintaining a special relationship with her loving and caring mother. Upon graduating from high school, in the years 1951-52 she got a degree in Architectural Design at the Colegio Mayor de Cundinamarca in Bogotá. After graduation, the future textile artist worked for a year as a director of the Architectural Drawing Faculty at the same school. In 1954, de Amaral went to the United States to study English in New York at the Columbia University. She then moved and studied fiber art at the Cranbrook Academy of Art in Bloomfield Hills, Michigan, USA (1954–55). The artist cherishes that period of her education and considers it crucial for her later artistic development: ""In Cranbrook, the textile workshop had eight looms placed against the windows: one of them, in the corner, would be my home for a year. There, I lived my most intimate moments of solitude; there was born my certainty about color; its strength; I felt as if I loved color as though it were something tangible. I also learned to speak in color.
+---------------------
+In 1871, he moved to the University of Heidelberg, Germany. There he received his PhD for work with Robert Wilhelm Bunsen and his assistant Blum in the field of inorganic analytical chemistry of minerals. For a postdoctoral position, he joined the laboratory of Adolf von Baeyer at the University of Straßburg. Goldschmiedt worked in the field of organic chemistry for two years, but he also studied mineralogy and crystallography with Paul Heinrich von Groth. During that time, Emil Fischer and Franz S. Exner also worked with Baeyer in Straßburg. For Goldschmiedt, the time in Straßburg ended abruptly because he joined the group of Schneiders at the University of Vienna. After his habilitation in 1875, he was sent as official observer to the world fair in Philadelphia in 1876. After visiting California, he went back to Vienna and married in 1886. It took until 1890 for him to become assistant professor at University of Vienna, but only one year later he became full professor. In 1891, Goldschmiedt moved to the German Charles-Ferdinand University in Prague and worked there for 20 years. In the meantime, he received the Lieben Prize in 1892 and became a member of the Vorstand of Deutschen Chemischen Gesellschaft in 1900 and 1901. In 1911, Goldschmiedt succeeded Zdenko Hans Skraup at the University of Vienna and was mostly involved in administrative tasks, such as supervising the construction of the laboratory building and reorganization of the institute. Starting from 1914, his health deteriorated slowly but steadily, resulting in his eventual death on August 6, 1915.
+
+Lelia Doolan: 
+Doolan was born in Cork in 1934. She studied French and German at University College Dublin, where she won a scholarship to study at the Brecht Theatre in Germany.
+
+Pamela Rai: 
+Pamela Leila Rai (born March 29, 1966, in New Westminster, BC, Canada) is a former freestyle and butterfly swimmer who represented Canada from 1980 to 1987. Rai competed at the 1984 Summer Olympics in Los Angeles, California where she won an Olympic bronze medal in the 4 × 100-metre medley relay, with teammates Anne Ottenbrite, Reema Abdo and Michelle MacPherson. Rai successfully represented Canada at many international meets throughout her career. Other notable accomplishments include University of Victoria Athlete of the Year 1986, City of Victoria Athlete of the Year 1985, 1983 Hapoel Games silver, 1983 Pan American Games silver, and 1986 Commonwealth Games gold medals. From 1984 to 1987 Rai swam for the University of Victoria, where she dominated Canadian university women's swimming. She graduated with a degree in Sociology and went on to attain a degree in Education from the University of British Columbia. She is currently a high school math and social justice teacher. Rai is also a certified yoga instructor trained in India of the Sivananda lineage. Rai owns and operates Silent Motion Yoga in Nanaimo, British Columbia. She is an honored inductee to the BC Sports Hall of Fame, the Swim BC Hall of Fame, the University of Victoria Sports Hall of Fame and the Delta Sports Hall of Fame. Rai is the first woman in the world of Indian ancestry, and the first Indo-Canadian to win an Olympic medal. In 1964, Rai's father, Harinder Jit Singh Rai was the first Indo-Canadian to qualify for an Olympic Games (field hockey). His stellar skills led him to score the only goal at the qualifying match enabling Canada's field hockey team entry to the Olympic games for the first time. Just prior to the 1964 Olympic Games in Tokyo, Japan, he was removed from the team by officials who favoured an all-white contingent. Rai dedicated her 1984 Olympic success to her father who died from leukemia 3 months prior to her competing in the games.
+
+AMCHA Initiative: 
+The AMCHA Initiative (founded 2011) is a nonprofit organization based in California which seeks to investigate, document, educate about, and combat antisemitism at institutions of higher education in the United States. The Initiative was founded by University of California Santa Cruz lecturer Tammi Rossman-Benjamin and University of California Los Angeles Professor Emeritus Leila Beckwith.
+
+Ferhad Shakely: 
+Ferhad Shakely (born 1951) is a prominent Kurdish writer, poet and researcher. He is one of the founders of modern Kurdish poetry in the post-Goran period.
+---------------------
+Just prior to the 1964 Olympic Games in Tokyo, Japan, he was removed from the team by officials who favoured an all-white contingent. Rai dedicated her 1984 Olympic success to her father who died from leukemia 3 months prior to her competing in the games.
+
+AMCHA Initiative: 
+The AMCHA Initiative (founded 2011) is a nonprofit organization based in California which seeks to investigate, document, educate about, and combat antisemitism at institutions of higher education in the United States. The Initiative was founded by University of California Santa Cruz lecturer Tammi Rossman-Benjamin and University of California Los Angeles Professor Emeritus Leila Beckwith.
+
+Ferhad Shakely: 
+Ferhad Shakely (born 1951) is a prominent Kurdish writer, poet and researcher. He is one of the founders of modern Kurdish poetry in the post-Goran period. He was born in 1951 in the province of Kirkuk in Iraq. He began publishing poetry in 1968. In the early 1970s he studied in the Kurdish department of the Baghdad University. He joined the Kurdish national movement under the leadership of Mustafa Barzany in 1974 and went to Syria in 1975. He lived in Germany from Autumn 1977 to Summer 1978. Finally he settled in Sweden in the same year. In 1981, after studying for one year at the University of Stockholm, he went to Uppsala University where he studied Iranian languages. He is now teaching in the same university. He published a Swedish-Kurdish Journal between 1985 and 1989 called ""Svensk-Kurdisk Journal"". Moreover, he published a literary Kurdish magazine, Mamosta-y Kurd (31 issues) between 1985 and 1996. In 1992, he published Kurdish nationalism in Mam and Zin of Ahmad Khani, a literary history that was translated into Swedish, Turkish and Arabic. Many of his poems have been translated into Persian, Arabic, Norwegian, Swedish, English, French, Italian, Icelandic and Danish.
+---------------------
+Jim Honochick: 
+George James John Honochick (August 19, 1917 – March 10, 1994) was an American League umpire. His career started in 1949 and ended in 1973. During his career, he officiated six World Series and four All-Star games. He also called balls and strikes for three no-hitters (the first of Virgil Trucks' two in 1952, Jack Kralick in 1962, and Sonny Siebert in 1966). He was the crew chief who declared that the Washington Senators forfeit its last game in because a mob, furious that the franchise was going to relocate to the Dallas-Fort Worth Metroplex the next season, stormed the playing field with the team only one out away from victory.
+
+Iranian Embassy siege: 
+The Iranian Embassy siege took place from 30 April to 5 May 1980, after a group of six armed men stormed the Iranian embassy in South Kensington, London. The gunmen, members of an Iranian Arab group campaigning for Arab national sovereignty in the southern Iranian region of Khuzestan Province, took 26 people hostage—mostly embassy staff, but also several visitors as well as a police officer who had been guarding the embassy. They demanded the release of Arab prisoners from prisons in Khuzestan and their own safe passage out of the United Kingdom. Margaret Thatcher's government quickly resolved that safe passage would not be granted, and a siege ensued. Over the following days, police negotiators secured the release of five hostages in exchange for minor concessions, such as the broadcasting of the hostage-takers' demands on British television.
+
+Operation Lost: 
+During World War II, Operation Lost was a reactive seven-man Special Air Service operation inserted into Brittany alongside Operation Dingson on 22–23 June 1944. The team, drawn from officers and men of 37 Military Mission and the SAS Brigade, was originally inserted to discover what had happened to the Dingson base after it had been attacked and dispersed by German led rear area security troops.
+
+Joint Task Force Lebanon: 
+Joint Task Force Lebanon (JTF-L) is a U.S. European Command (EUCOM) operational unit established in 2006 and assigned responsibility for U.S. military support to the American Embassy in Beirut and to help U.S. Department of State led humanitarian assistance efforts that are providing aid to the people of Lebanon. Led by Commander, U.S. Sixth Fleet Navy Vice Admiral John ""Boomer"" Stufflebeem, JTF Lebanon officially accepted the mission on August 23, 2006 from U.S. Central Command (CENTCOM) units, which had been operating in the region since mid-July 2006 shortly after hostilities began between Israel and Hezbollah militants based in Lebanon.
+
+Roger Manners, 5th Earl of Rutland: 
+Roger Manners, 5th Earl of Rutland (6 October 1576 – 26 June 1612) was the eldest surviving son of John Manners, 4th Earl of Rutland and his wife, Elizabeth ""nee"" Charleton (d. 1595). He travelled across Europe, took part in military campaigns led by the Earl of Essex, and was a participant of Essex's rebellion against Queen Elizabeth I. He was favoured by James I, and honoured by his contemporaries as a man of great intelligence and talent. He enjoyed the friendship of some of the most prominent writers and artists of the Elizabethan age and Jacobean age. In 1603 he led an Embassy to Denmark, homeland of James' Queen Anne of Denmark.
+
+Battle of Shancaowan: 
+The Battle of Shancaowan (), also known as Battle of Veniaga Island (Portuguese:""Batalha da Ilha da Veniaga"") was a naval battle between the Ming dynasty coast guard and a Portuguese fleet led by Martim Afonso de Mello that occurred in 1522. The Ming court threatened to expel Portuguese traders from China after receiving news that the Malacca Sultanate, a Ming tributary, had been invaded by the Portuguese. In addition, Portuguese pirates had been conducting slave raids on the Chinese coast, kidnapping children to sell in Portuguese Malacca, which received widespread condemnation by the common people and the court. Portuguese traders were executed in China and the Portuguese embassy was arrested, with their freedom promised on the condition that the Portuguese released and returned Malacca to its sultan. Martim Afonso de Mello arrived at the Pearl River but was blockaded by a Ming fleet. After two weeks without being able to gain a foothold in China they decided to run the blockade and managed to escape with the loss of two ships and several dozen men.
+---------------------
+1969 Stockholm Open – Singles: 
+The 1969 Stockholm Open was a tennis tournament played on hard courts in Stockholm, Sweden. The tournament was held from November 1 through November 7, 1969. Nikola Pilić defeated Ilie Năstase in the final, 6–4, 4–6, 6–2.
+
+Boro Jovanović: 
+Boro Jovanović (born 21 October 1939) is a former Yugoslav tennis player. Jovanović was runner-up in the 1962 Wimbledon doubles tournament with Nikola Pilić, and quarter-finalist in the 1968 Wimbledon doubles tournament. In singles, Jovanovic reached the final of the 1963 Italian Open and the quarterfinals of the 1968 French Open. In 1972, Boro Jovanović joined the World Championship Tennis Tour.
+
+Challenge of Champions: 
+The ""Challenge of Champions"" was created to be one of the richest prize money tennis events in the world. Created by Leo E. Fenn III in 1985 as an Invitation Only Tennis Tournament which would feature daily matches which were the equivalent to the Finals of the US Open or Wimbledon. It was usually held before the Masters and invited only the top eight men's tennis players in the world according to their rankings on the ATP poll. In 1985, creator & founder 24-year-old Leo E. Fenn III partnered with 28-year-old Mark Myden to form a company called Special Events Productions. SEP produced the ""Challenge of Champions"" Tournament which became a major player in professional tennis. These two entrepreneurs became the youngest producers in history of professional tennis. Leo & Mark acquired major fortune 500 corporate sponsors such as AT&T, VISA, Cadillac, Fila Sportswear, DeBeers Diamonds as well as negotiated two days of live weekend television coverage on NBC. Their title sponsorship package sold to AT&T was the largest single vent sponsorship package in professional tennis that year. Leo negotiated with the brand new Thomas Mack Center Arena in Las Vegas to host the inaugural event. The event rights were eventually sold to Pro Serve and concluded following the 1989 Challenge.
+
+1973 Wimbledon Championships – Men's Singles: 
+Jan Kodeš defeated Alex Metreveli 6–1, 9–8, 6–3 in the final to win the Gentlemen's Singles title at the 1973 Wimbledon Championships. The final match included a tie-breaker played at 8–8 in the second set; the first ever Wimbledon singles final to include a tie-break. Eighty-one of the top players boycotted Wimbledon in 1973 (including reigning champion Stan Smith) to protest against the suspension of Nikola Pilić.
+
+Ana Jovanović: 
+Ana Jovanović (Serbian Cyrillic: Ана Јовановић; born 28 December 1984) is a Serbian former professional tennis player. She was coached by Nikola Pilić.
+
+Barbara Jordan (tennis): 
+Barbara Jordan (born April 2, 1957) is a former professional female tennis player from the United States who won the 1979 Australian Open singles title.
+
+David Falk: 
+David B. Falk (born 1950) is an American sports agent who primarily works with basketball players in the National Basketball Association. Falk began his career representing professional tennis players for Donald Dell's ProServ and is best known for representing sports icon Michael Jordan for the entirety of Jordan's career. Besides Jordan, Falk has represented more than 100 other NBA players, and is generally considered to be the most influential player agent the NBA has seen. During the peak years of Falk's career in the 1990s, he was often considered the second-most powerful person in the NBA behind Commissioner David Stern, and in 2000 he had at least one client on all but two NBA teams. He was listed among the ""100 Most Powerful People in Sports"" for 12 straight years from 1990 to 2001 by ""The Sporting News"", and was also named one of the Top 50 Marketers in the United States by Advertising Age in 1995.
+
+Nikola Pilić: 
+Nikola ""Niki"" Pilić (born 27 August 1939) is a retired Croatian professional tennis player who competed for SFR Yugoslavia.
+
+Athletic DNA: 
+Athletic DNA (ADNA) is an American sports apparel company. Founded in Seattle in 2007, ADNA began by training young tennis athletes, which evolved into sponsoring Select Junior Tennis players, and then expanded to manufacturing clothing for youth and adult tennis players. ADNA has since spread to professional tennis, and currently sponsors players on the ATP Tour & WTA Tour.
+---------------------
+John McEnroe: 
+John Patrick McEnroe Jr. (born February 16, 1959) is a retired American tennis player, often considered among the greatest in the history of the sport. He was known for his shot-making artistry and volleying skills, as well as his confrontational on-court behavior that frequently landed him in trouble with umpires and tennis authorities.
+
+1993 Paris Open – Doubles: 
+John McEnroe and Patrick McEnroe were the defending champions. John McEnroe did not participate this year. Patrick McEnroe partnered Richey Reneberg, losing in the second round.
+
+2013 French Open – Legends Over 45 Doubles: 
+John McEnroe and Patrick McEnroe were the defending champions, but Patrick McEnroe did not participate.<br>
+
+Lindsay Davenport: 
+Lindsay Ann Davenport Leach (born June 8, 1976) is an American former professional tennis player. She was ranked World No. 1 on eight different occasions, for a total of 98 weeks. Davenport is one of five women who have been the year-end World No. 1 at least four times (1998, 2001, 2004, and 2005) since 1975; the others are Chris Evert, Steffi Graf, Martina Navratilova and Serena Williams. She has achieved the No. 1 ranking in doubles as well.
+
+1989 Los Angeles Open – Doubles: 
+John McEnroe and Mark Woodforde were the defending champions but only Woodforde competed that year with Patrick McEnroe.
+
+2012 French Open – Legends Over 45 Doubles: 
+Guy Forget and Henri Leconte were the defending champions but lost the final to John McEnroe and Patrick McEnroe, 7–6, 6–3.
+
+2015 French Open – Legends Over 45 Doubles: 
+John McEnroe and Patrick McEnroe were the defending champions, but were eliminated in the round-robin stage.
+
+1999 Porsche Tennis Grand Prix – Doubles: 
+The 1999 Porsche Tennis Grand Prix – Doubles was the tennis doubles event at the 1999 Porsche Tennis Grand Prix, the twenty-second edition of the most prestigious tournament in Baden-Württemberg. Lindsay Davenport and Natasha Zvereva were the defending champions, but they did not compete this year. Davenport competed with Martina Hingis as the first seed, while Zvereva competed with Elena Tatarkova. Davenport and Hingis withdrew in the quarterfinals due to Davenport having a wrist injury, whilst Tatarkova and Zvereva were knocked out in the first round.
+
+2000 Toray Pan Pacific Open – Doubles: 
+Lindsay Davenport and Natasha Zvereva were the defending champions, but Davenport did not compete this year. Zvereva teamed up with Katarina Srebotnik and lost in quarterfinals to Lisa Raymond and Rennae Stubbs.
+
+Patrick McEnroe: 
+Patrick John McEnroe (born July 1, 1966) is a former professional tennis player and the former captain of the United States Davis Cup team.
+---------------------
+Richard Martin (television director): 
+Richard Martin (born 1930) is a retired British television director and former actor. After starting his career as an actor, he worked regularly as a director throughout the 1960s, 1970s and 1980s, which included directing several early serials of ""Doctor Who"" starring William Hartnell, and series such as ""Compact"", ""Crown Court"" and ""All Creatures Great and Small"". He is married to actress Suzanne Neve.
+
+Getting Together: 
+Getting Together was an American musical sitcom, which aired on the ABC television network during the 1971-72 season. It starred Bobby Sherman and Wes Stern as Bobby Conway and Lionel Poindexter, a songwriting duo. The pilot for the series had aired the previous spring as the first-season finale episode of ""The Partridge Family"" named ""A Knight in Shining Armor"", in which Lionel and Bobby were introduced to each other by the Partridges. The unaired version of this episode, entitled ""Words And Music"", ran 33 minutes, and featured Farah Fawcett and Pat Boone. The 8 extra minutes of footage was filmed on March 15, 1971.
+
+Kate Shepherd: 
+Kate Shepherd (born 1961, in New York City) is an American artist. Known for her original use of intense color, scale and a delicate yet descriptive painted line, Shepherd's work has beautiful references to architecture, gesture and portraiture. Playing with perspective, Shepherd’s pieces are built on spatial complexity yet their surfaces are simple and clean. The viewer’s position is finely tuned in relation to the depicted image, establishing a contemplative resting place or a singular iconic impression to be absorbed at a glance. Her mother is actress Suzanne Shepherd.
+
+Malese Jow: 
+Malese Jow (born Elizabeth Melise Jow; February 18, 1991) is an American actress and singer. She is known for her roles as Geena Fabiano on the Nickelodeon sitcom ""Unfabulous"" and Lucy Stone on the Nickelodeon musical sitcom ""Big Time Rush"" and as Anna, a teenage vampire on The CW's fantasy drama ""The Vampire Diaries"". She starred as Julia Yeung in the short-lived CW science fiction romantic drama ""Star-Crossed"". She was also cast in the recurring role of Linda Park in The CW's series ""The Flash"". Jow will be starring as Mareth Ravenlock in Season two of The Shannara Chronicles.
+
+The Partridge Family: 
+The Partridge Family is an American musical-sitcom starring Shirley Jones and featuring David Cassidy. Jones played a widowed mother, and Cassidy played the oldest of her five children who embarked on a music career. It ran from September 25, 1970, until March 23, 1974, on the ABC network as part of a Friday-night lineup, and had subsequent runs in syndication. The family was loosely based on the real-life musical family The Cowsills, a popular band in the late 1960s and early 1970s.
+
+No Babies Wanted: 
+No Babies Wanted is a 1928 silent film domestic drama directed by Jack Harvey, released under the alternative title The Baby Mother. It starred child actress Priscilla Moran (b. 1917) and seasoned silent veteran William V. Mong as her grandfather. It is preserved at the Library of Congress.
+
+Jenny Agutter: 
+Jennifer Ann Agutter {'1': "", '2': "", '3': 'OBE', '4': ""} (born 20 December 1952) is a British actress. She began her career as a child actress in 1964's ""East of Sudan"" and went on to appear in ""Star!"" and two adaptations of ""The Railway Children""—the BBC's 1968 television adaptation and the 1970 film version. She also starred in the critically acclaimed 1971 film ""Walkabout"", before moving to Hollywood in 1974. Her Hollywood film roles included parts in ""Logan's Run"" (1976), ""An American Werewolf in London"" (1981) and ""Child's Play 2"" (1990). Agutter won the Emmy Award for Outstanding Supporting Actress in a Drama for the 1971 TV film ""The Snow Goose"", and the BAFTA Award for Best Actress in a Supporting Role for playing Jill Mason in the 1977 film ""Equus"".
+
+Julius von Borsody: 
+Julius von Borsody (8 April 1892 in Vienna – 18 January 1960, also in Vienna) was an Austrian film architect and one of the most employed set designers in the Austrian and German cinemas of the late silent and early sound film periods. His younger brother, Eduard von Borsody, was a film director in Austria and Germany.
+---------------------
+Eddie Eagan: 
+Edward Patrick Francis Eagan (April 26, 1897 – June 14, 1967) was an American sportsman who is notable as being the only person to win a gold medal at both the Summer and Winter Olympic Games in different events. Gillis Grafström won gold in both the Summer and Winter Olympic Games but it was in the same event. That is because in 1920, prior to the Winter Olympics, figure skating was part of the Summer Olympics. Eagan won his summer gold in boxing and his winter gold in four-man bobsled. Finally, Eagan is one of the few athletes who have competed in both the Summer and Winter Olympic games.
+
+North Korea at the Olympics: 
+North Korea (Democratic People's Republic of Korea) first participated at the Olympic Games in 1964, appearing only in the Winter Olympic Games that year. Eight years later in 1972, the nation first participated at the Summer Olympic Games. Since then, the nation has appeared in every Summer Games, except when North Korea joined the Soviet-led boycott of the 1984 Summer Olympics, and when they boycotted the 1988 Games in Seoul, South Korea. North Korea's attendance at the Winter Games has been infrequent; only seven of the last twelve Games have included a North Korean team. In 2010 a team competed at the Winter Olympics in Vancouver.
+
+List of Olympic Games host cities: 
+This is a list of host cities of the Olympic Games, both summer and winter, since the modern Olympics began in 1896. Since then, summer games have usually but not always celebrated a four-year period known as an Olympiad. There have been 28 Summer Olympic Games held in 23 cities, and 22 Winter Olympic Games held in 19 cities. In addition, three summer and two winter editions of the Games were scheduled to take place but later cancelled due to war: Berlin (summer) in 1916; Tokyo/Helsinki (summer) and Sapporo/Garmisch-Partenkirchen (winter) in 1940; and London (summer) and Cortina d'Ampezzo, Italy (winter) in 1944. The 1906 Summer Olympics were officially sanctioned and held in Athens. However, in 1949, the International Olympic Committee (IOC), decided to unrecognize the 1906 Games. Five cities have been chosen by the IOC to host upcoming Olympic Games: Pyeongchang for the 2018 Winter Olympics, Tokyo for the 2020 Summer Olympics, Beijing for the 2022 Winter Olympics, Paris for the 2024 Summer Olympics, and Los Angeles for the 2028 Summer Olympics.
+
+List of people who have opened the Olympic Games: 
+The Olympic Games are an international multi-sport event featuring both summer and winter sports, held every two years with Summer and Winter Olympic Games alternating. During Olympic Games opening ceremonies, the sitting president of the International Olympic Committee (IOC) will make a speech before inviting a representative from the host country to officially declare that particular Games open. The current Olympic Charter requires this person to be the head of state of the host country, although this has not always been the case. This article lists the people who have had the ceremonial duty to declare each Olympic Games open.
+
+2006 Winter Olympics: 
+The 2006 Winter Olympics, officially known as the XX Olympic Winter Games (French: Les ""XX Jeux olympiques d'hiver"") (Italian: ""XX Giochi olimpici invernali"") and commonly known as Turin 2006 or Torino 2006, was a winter multi-sport event which was held in Turin, Piedmont, Italy from February 10 to 26, 2006. This marked the second time Italy hosted the Olympic Winter Games, the first being the VII Olympic Winter Games in Cortina d'Ampezzo in 1956. Italy also hosted the Games of the XVII Olympiad in Rome in 1960. Turin was selected as the host city for the 2006 games in June 1999.
+
+Lydia Lassila: 
+Lydia Lassila (née Ierodiaconou) (born 17 January 1982) is an Australian Olympic freestyle skier gold medalist who competed in the 2002 Winter Olympic Games in Salt Lake City, the 2006 Winter Olympic Games in Turin, the 2010 Winter Olympic Games in Vancouver, and the 2014 Winter Olympic Games in Sochi, Russia. She is the 2010 Olympic champion and the 2014 bronze medalist.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        In what year was the Oxford College, at which Peter Momtchiloff was educated, founded?
+        
+        assistant
+         1714",1714,0.5524849891662598,2.6055052280426025,0.0520017594099044,0.0003894839337877,0.0003894839337877,When was the constituent college founded in which Francis Rosslyn Courtenay Bruce was educated?
+27,"November 14, 2017.","August 31, 2010",0.3472225666046142,2.360590934753418,0.5259997248649597,0.0,0.0,When was the first book of the series that has a book containing 122 chapters published?
+28,Denis Leary and Brian Grazer.,Leary and Brian Grazer,0.2981231212615967,2.494503259658813,0.9421242475509644,0.888888888888889,0.888888888888889,"The second episode of ""The Simpsons"" twentieth season guest stars which two actors who previously appeared in the fifth episode of the tenth season?"
+29,Burlington Northern Railroad.,Burlington Northern Railroad,0.5718948841094971,2.5100913047790527,0.97947895526886,1.0,1.0,"The St. Louis, San Francisco and Texas Railway (SLSF), was a subsidiary railway to the St. Louis-San Francisco Railway, in 1980 it merged into which United States-based railroad company formed from a merger of four major U.S. railroads?"
+30,Frank Darabont.,Frank Darabont,1.2861521244049072,2.588501214981079,0.9825079441070556,1.0,1.0,Stephen King's serial novel about an unusual inmate who displays healing and empathetic abilities was adapted into a film by what director?
+31,"July 26, 2015.","July 26, 2015",0.5819971561431885,2.855323314666748,0.9790971279144288,1.0,1.0,"The closing ceremony of the 2015 Pan American Games took place on Sunday which date, beginning at 8:00 p.m. EDT at Rogers Centre, a multi-purpose stadium in Downtown Toronto, Ontario, Canada, situated just southwest of the CN Tower near the northern shore of Lake Ontario?"

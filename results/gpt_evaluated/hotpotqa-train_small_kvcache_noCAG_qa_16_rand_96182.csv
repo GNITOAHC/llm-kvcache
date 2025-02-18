@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Wolfgang Puck,Wolfgang Puck,0.0524446964263916,7.562088966369629,1.0000001192092896,1.0,1.0,"Who is this Austrian-born American celebrity chef, restaurateur, and occasional actor at whose restaurant Ed LaDou helped develop California pizzas?",1
+1, Christopher Nolan.,Christopher Nolan,0.0556254386901855,7.542815685272217,0.974437952041626,1.0,1.0,R U Professional was a satirical song that partly referenced the 2008 superhero film directed by whom?,1
+2, Minneapolis.,Minneapolis,0.0529794692993164,7.418820381164551,0.9709689617156982,1.0,1.0,"Felt, Vol 2: A Tribute to Lisa Bonet is an album from a hip hop duo that consists of a rapper from what Minnesota town?",1
+3, A fraternal benefit order.,mutual aid,0.0534226894378662,7.88999605178833,0.487428069114685,0.0,0.0,The American Legion of Honor was a type of society that provides what? ,1
+4," Norfolk County, Massachusetts.",Norfolk County,0.0505893230438232,7.7635719776153564,0.8237125873565674,0.8,0.8,The Quincy Police Station is in a city located in which county ?,1
+5, Alternative rock,rock,0.0685701370239257,7.412649869918823,0.7255392074584961,0.6666666666666666,0.6666666666666666,"Shihad and Violent Soho, have which genre in common?",1
+6, I don't have information on the author's international debut.,2005,0.0476412773132324,8.591115236282349,0.2223509550094604,0.0,0.0,"In which year was this former Detroit City Council member, with whom Sheila Cockrel had a fractious relationship with, first elected to the council?",0
+7, Eugene Levy.,Eugene Levy,0.0528128147125244,7.499563455581665,0.9755634665489196,1.0,1.0,"What Canadian actor acted with Catherine O'hara in ""Waiting for Guffman""?",1
+8, S. Sowmya,S. Sowmya,0.0542571544647216,7.879732131958008,1.0,1.0,1.0,Which singer who co-authored the first comprehensive reference CD-ROM on Carnatic music is also a notable Asthana Vidushi?,1
+9, The Majestic Theatre.,245 West 44th Street,0.0477416515350341,7.788884878158569,0.2126290202140808,0.0,0.0,Where is the Broadway theatre located which was the third home to a musical with music and lyrics by Sherman Edwards?,0
+10, Lewis Collins,Lewis Collins,0.0509936809539794,7.405324935913086,1.0000001192092896,1.0,1.0,What English actor starred in the British crime action series The Professionals?,1
+11, Walk the Moon,Walk The Moon,0.0465664863586425,7.532143115997314,0.9999999403953552,1.0,1.0,"what bands Lead singer Nicholas Petricca started the band in 2006, The Kooks or Walk the Moon ?",1
+12, The Kentucky Headhunters,The Breeders,0.0482211112976074,7.777815103530884,0.2672908306121826,0.4,0.4,Which American alternative rock band formed in 1999 performed in concerts opened by Mulchmen?,0
+13, Yes.,yes,0.0476751327514648,7.413545370101929,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+14, Confederate Railroad,Confederate Railroad,0.0477967262268066,7.412573575973511,1.0,1.0,1.0,"Which  American country rock–Southern rock band recorded ""Queen of Memphis""",1
+15," Árran comes out quarterly, while Contempo Magazine comes out bi-weekly.",Contempo Magazine,0.0473628044128418,9.20113730430603,0.620182991027832,0.3076923076923077,0.3076923076923077,"Which magazine comes out most often, Contempo Magazine or Árran?",1

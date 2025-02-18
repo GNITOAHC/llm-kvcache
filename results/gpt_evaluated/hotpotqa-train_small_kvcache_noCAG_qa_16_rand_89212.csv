@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Walgett,Walgett,0.0470967292785644,8.223268032073975,1.0,1.0,1.0,"In New South Wales, the ABC Local Radio Station ABC Western Plains, broadcasts to what northern town;which is near the junctions of the Barwon and Naomi rivers?",1
+1, 1945,1945,0.1028401851654052,8.293554782867432,1.0000001192092896,1.0,1.0,"What year was the singer of ""wavelength"" born ?",1
+2," San Francisco, California.","San Francisco, California",0.067171573638916,8.547548532485962,0.971776008605957,1.0,1.0,Lenny Von Dohlen was an architect in the 1984 movie set in what location?,1
+3, Unbreakable,Unbreakable,0.0961565971374511,8.270532846450806,1.0,1.0,1.0,Alex Ross did the DVD packaging art for what 2000 American superhero thriller film that starred Bruce Willis and Samuel L. Jackson?,1
+4, Cecil Sharp.,Cecil James Sharp,0.0581295490264892,8.3149893283844,0.9091007709503174,0.8,0.8,Who was a founding father of the folk-song revival in England in the early 20th century and had a portait painted of them by Esther Blaikie MacKinnon?,1
+5, Yale University,Yale University,0.063523530960083,8.154957056045532,1.0,1.0,1.0,George Herbert Walker's great-grandson graduated from where in 1968?,1
+6, Yes.,yes,0.0530159473419189,8.178556680679321,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+7, 1900,1900,0.0562460422515869,8.301204442977905,1.0000001192092896,1.0,1.0,The 11th SS Panzer Army was formed by a man born in what year?,1
+8," Terry O. Morse was born earlier, on January 30, 1906.",Terry O. Morse,0.0477306842803955,10.035417795181274,0.7258098125457764,0.4615384615384615,0.4615384615384615,"Between two American filmmakers, Jon Paul Puno and Terry O. Morse, who was born earlier",1
+9, Apollo 17.,Apollo 17,0.1636064052581787,8.500447034835815,0.9847585558891296,1.0,1.0,"Saturn V delivered men to the Moon for the last time, in which NASA mission?",1
+10, Paul Schrader directed the film in which Scott Paulin played a supporting role in 1982.,Paul Schrader,0.0498363971710205,10.530903100967407,0.642675518989563,0.2352941176470588,0.2352941176470588,Which director of a film starring Lindsey Lohan also directed 18 feature films?,0
+11, Professional tennis player.,tennis player,0.0706994533538818,8.414673328399658,0.9351492524147034,0.8,0.8,"Gabriela Sabatini and Patrick McEnroe, are professionals of which sports occupation?",1
+12, Veena Vaadanam,Veena Vaadanam,0.0475049018859863,8.545865774154663,1.0,1.0,1.0,"Which documentary was created in India, Veena Vaadanam or Über Goober?",1
+13, Yes.,no,0.1051125526428222,8.18885350227356,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0
+14, Operation Quicksilver.,Operation Quicksilver,0.0478055477142334,8.575266599655151,0.9760154485702516,1.0,1.0,"Which operation, part of the Invasion of Normandy, was conducted by the fictitious allied army group to deceive the Germans about where the Allies would land in preparation for Operation Overlord?",1
+15, The Pursuit of Happyness.,The Pursuit of Happyness,0.0483324527740478,8.924087762832642,0.9784098863601683,1.0,1.0,"The first movie the son of the actress who starred in ""True Colors,"" ""A Different World,"" and ""The Nutty Professor,"" was named what?",1

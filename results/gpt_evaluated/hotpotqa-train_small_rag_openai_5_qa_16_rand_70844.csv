@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,No.,no,0.2918465137481689,2.214938879013061,0.8128341436386108,1.0,1.0,Are Chris Marker and Yvonne Rainer American?,0
+1,The Assiniboine people.,the Northern Great Plains of North America,0.2795865535736084,1.3395307064056396,0.299603670835495,0.2,0.2,"Where are the group of people, which Dolly Akers belongs to, originally from?",0
+2,World War I.,seven million,0.3291282653808594,1.0067684650421145,0.1820672750473022,0.0,0.0,"How many civilians died in the war during which USS ""Felicia"" was acquired by the U.S. Navy?",0
+3,San Juan.,San Juan,0.3427188396453857,1.124074935913086,0.9796933531761168,1.0,1.0,A Primera División team plays in which city that is located in the Cyuo region of Argentina?,1
+4,China Blue (2005) came out before Wild Man Blues (1997).,Wild Man Blues,0.266470193862915,1.688023328781128,0.6378234624862671,0.4615384615384615,0.4615384615384615,"Which documentary film came out first, Wild Man Blues or China Blue?",0
+5,Yes.,yes,0.2938323020935058,0.9019286632537842,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+6,"1,324,108.","1,324,108",0.3903136253356933,1.2434196472167969,0.9931968450546264,1.0,1.0,DeSoto County is located in a metropolitan area that had how many inhabitants in 2010 ?,1
+7,Anushka Shetty,Anushka Shetty,0.3083081245422363,1.2316949367523191,1.0000001192092896,1.0,1.0,What Indian actor/actress born in 1981 had a lead role in Lakshyam?,1
+8,Yes.,yes,0.2872285842895508,1.2389605045318604,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+9,Senior officer.,senior officer,0.4327874183654785,0.9567103385925292,0.9751384258270264,1.0,1.0,Was the honoree of the Earl Haig memorial a junior or senior officer of the British Army?,1
+10,Jeepers Creepers.,Jeepers Creepers,0.4154033660888672,1.2840614318847656,0.9873523712158204,1.0,1.0,"Victor Ronald Salva, the director of ""Powder"" also directed what horrow film based on a song from 1938 and set in rural Florida?",1
+11,The Living Desert (1953) was released before Angels in the Outfield (1951).,The Living Desert,0.3980715274810791,1.831469774246216,0.4332929849624634,0.4,0.4,"Which film is a documentary, The Last Flight of Noah's Ark or The Living Desert?",0
+12,Francesco Baracca.,Count Francesco Baracca,0.7900428771972656,1.0504510402679443,0.8498319387435913,0.8,0.8,The Prancing Horse was used by which top Italian fighter ace?,1
+13,"Cethlenn is the wife of Balor, the king of the Fomorians.",wife,0.357088565826416,1.5426092147827148,0.2805109620094299,0.1666666666666666,0.1666666666666666,What is the relation between Cethlenn (Old Irish) and the king of named Fomorians who is a interpreted as a god?,1
+14,Rosie Cooper.,Rosie Cooper,0.414076566696167,0.9538609981536864,0.978474497795105,1.0,1.0, Colin Pickthall was Labour Member of Parliament for a constituency currently represented by who?,1
+15,Emmitt Smith.,Emmitt Smith,0.2657859325408935,1.0130400657653809,0.9881536960601808,1.0,1.0,"What all-time leading NFL rusher was one of ""The Triplets""?",1

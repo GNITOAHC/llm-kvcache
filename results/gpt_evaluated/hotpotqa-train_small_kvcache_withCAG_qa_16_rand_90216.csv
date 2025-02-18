@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,reset_cache_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Deceased,Deceased,0.0004796981811523,0.5156524181365967,1.0,1.0,1.0,Which band chose an image from the 1963 horror film directed by Mario Bava for the cover art on their album Luck of the Corpse?,1
+1, 1989,1989,0.0005090236663818,0.4830687046051025,0.9999999403953552,1.0,1.0,"What ""Red"" album follow up beat out James Reid's second studio album on the Philippine iTunes pop chart?",1
+2, Playing Mona Lisa,Playing Mona Lisa,0.000493049621582,0.4672243595123291,1.0,1.0,1.0,What was the 2000 comedy that the actress from That Girl appeared on?,1
+3," Jerome Storm died earlier, in 1958, while Terence Fisher died in 1980.",Jerome Storm,0.0004897117614746,2.3747127056121826,0.5389101505279541,0.2857142857142857,0.2857142857142857,Who died earlier: Terence Fisher or Jerome Storm?,1
+4, Scooby-Doo,Hanna-Barbera,0.0004973411560058,0.5809450149536133,0.3789311647415161,0.0,0.0,Who produced the animated mystery comedy television series for which Indira Stefanianna originally voiced the character Daphne Blake?,0
+5, Canadian North.,Canadian North,0.0004849433898925,0.473262071609497,0.976619839668274,1.0,1.0," Iqaluit Airport hosts which airline that is headquartered in Calgary, Alberta, Canada and whose main base is Edmonton Airport?",1
+6, Yes.,yes,0.0004904270172119,0.3547101020812988,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+7, American.,American,0.0005009174346923,0.3541610240936279,0.9135115146636964,1.0,1.0,Kerry Remsen is the daughter of an actor with what ethnicity?,1
+8, Save Money,Save Money,0.0005011558532714,0.3534944057464599,1.0000001192092896,1.0,1.0,What Chicago collective had a member release a free mixtape?,1
+9, The U.S. Express supported the NWA.,World Wrestling Federation,0.0005035400390625,1.2494676113128662,0.3363937735557556,0.0,0.0,Who produced the event that took place in part of the trip-city area Mid-Michigan?,0
+10, Styx,Styx,0.0004932880401611,0.3611977100372314,1.0,1.0,1.0,Domo was a robot that includes a song written by which Chicago-based group?,1
+11, Actor.,actor,0.0005011558532714,0.3541622161865234,0.9118056297302246,1.0,1.0,What were the occupations of both Billy Chapin and Charles Laughton?,1
+12, Starz,Starz,0.0004971027374267,0.3547201156616211,1.000000238418579,1.0,1.0,In 2016 Joel Tobeck stared in a show developed for what network? ,1
+13, George Harrison,George Harrison,0.000490665435791,0.3611581325531006,1.0,1.0,1.0,"Who was the lead singer on the A-side of the record which reached No. 35 on the Billboard Hot 100, and had Thank You Girl as it's B-side ?",0
+14, Frank Lucas,Frank Lucas,0.0004932880401611,0.3548555374145508,1.0,1.0,1.0,What person was the crime movie that featured a cameo from Sean Ringgold about?,1
+15, Lambretta,Lambretta,0.0004959106445312,0.4789860248565674,1.0,1.0,1.0,"Ferdinando Innocenti, was an Italian businessman, who founded the machinery-works company Innocenti, and was the creator of which brand name of a line of motor scooters initially manufactured in Milan, Italy, by Innocenti?",1

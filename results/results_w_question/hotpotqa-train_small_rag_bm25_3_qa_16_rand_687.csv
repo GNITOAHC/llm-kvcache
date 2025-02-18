@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,New York.,New York,0.0010561943054199,1.6189818382263184,0.964856505393982,1.0,1.0,"101 Park Avenue and 55 Water Street, are located in which state?"
+1,Saint Casimir.,Johannes Longinus,0.0009381771087646,0.4050264358520508,0.3694825768470764,0.0,0.0,Who was the tutor of the person San Casimiro is named after?
+2,"""U Can't Touch This"".",U Can't Touch This,0.0009334087371826,0.5773146152496338,0.734320878982544,1.0,1.0,Special Generation sang heart felt harmonic background vocals on several MC Hammers hit releases like which track considered to be Hammer's signature song and is his most successful single?
+3,English.,English,0.0009667873382568,0.3670942783355713,0.9305142164230348,1.0,1.0,What language is spoken at both Lipscomb University and University of Debrecen?
+4,"Pennsylvania State University was founded in 1855, while the founding year of University of East Anglia is not specified in the given context.",Pennsylvania State University,0.0009174346923828,1.3780748844146729,0.5872012972831726,0.2307692307692307,0.2307692307692307,"Which University was founded first, Pennsylvania State University, or University of East Anglia?"
+5,2013.,"March 21, 1985",0.0009241104125976,0.4351155757904053,0.3582780957221985,0.0,0.0,When does the American football running back born who was featured in Minnesota Vikings eighth-generation versions?
+6,Todd Phillips.,Todd Phillips,0.0009334087371826,0.4314582347869873,0.9849976897239684,1.0,1.0,Who directed the 2003 American comedy film where Elisha Cuthbert played Darcie Goldberg?
+7,Lil Dicky.,Chris Brown,0.0009136199951171,0.4419102668762207,0.3593020439147949,0.0,0.0,What rap artist has been featured in duets by both artists B.o.B and Bow Wow?
+8,They are both types of flowering plants.,genus,0.0008399486541748,0.5899574756622314,0.3589128255844116,0.0,0.0,Austrocylindropuntia and Ceratopteris are both examples of what taxonomic category?
+9,Road Kings.,Road Kings,0.0009341239929199,0.4003095626831054,0.9759840965270996,1.0,1.0,"What is the name of the pinball game developed by Williams that had as its theme a well known 1979 Australian dystopian action film directed by George Miller, produced by Byron Kennedy, and starring Mel Gibson?"
+10,Yes.,yes,0.0008537769317626,0.417288064956665,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+11,Yes.,yes,0.0009036064147949,0.3951449394226074,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+12,"The Rahmi M. Koç Museum opened first in 1994, while the Endem TV Tower was built between 1998 and 2002.",Rahmi M. Koç Museum,0.0009365081787109,1.5017781257629397,0.6876896619796753,0.3333333333333333,0.3333333333333333,"Which Istanbul landmark opened first, the Rahmi M. Koç Museum or the Endem TV Tower?"
+13,Bayern Munich.,Porto,0.0009782314300537,0.4354703426361084,0.4955749809741974,0.0,0.0,Which team won the European Cup Final in which Helmut Winklhofer played ?
+14,Miami Heat.,Oklahoma City Thunder,0.0009453296661376,0.4386451244354248,0.387850672006607,0.0,0.0,James Harden previously played for which team?
+15,"Philip Saville was born on October 28, 1930, and Christophe Gans was born on March 11, 1960.",Philip Saville,0.0008351802825927,1.4036262035369873,0.5981122255325317,0.2105263157894736,0.2105263157894736,"Who was born first, Philip Saville or Christophe Gans?"

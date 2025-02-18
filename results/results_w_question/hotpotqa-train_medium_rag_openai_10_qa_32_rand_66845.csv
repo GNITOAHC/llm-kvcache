@@ -1,0 +1,37 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,The Cape Colony.,Cape Colony,0.3678886890411377,3.432267665863037,0.9471240043640136,0.8,0.8,"The eight part British television series ""Rhodes"" is based on the life of a man who was Prime Minister of what then-British colony?"
+1,Kim Soo-hyun.,Shin Ha-kyun,0.3471431732177734,2.6583001613616943,0.4105704724788666,0.0,0.0,Oh Jung-se had a part in the 2013 South Korean action film starring whom?
+2,Bayern Munich,Porto,1.6930952072143557,2.518123149871826,0.5006292462348938,0.0,0.0,Which team won the European Cup Final in which Helmut Winklhofer played ?
+3,1937,1937,0.2593913078308105,2.088090658187866,1.0,1.0,1.0,Tom Powers appeared as Brutus in an adaptation of a William Shakespeare play that was first produced in what year?
+4,"1,200","1,200",0.2864437103271484,2.4282069206237797,1.0,1.0,1.0, West Edmonton Mall is  the tenth largest in the world along with a mall that includes how many shops?
+5,The United States.,United States,0.4254989624023437,2.4352855682373047,0.8440276384353638,0.8,0.8,Where is the owner of Next big sound provides analytics for online music available?
+6,Hobart.,Hobart,0.3058359622955322,2.2984189987182617,0.9743171334266664,1.0,1.0,What Australian capital was host to the 1945 TANFL season?
+7,2002.,2002,0.2421865463256836,2.47920298576355,0.9519264101982116,1.0,1.0,In what year did the last fluent speaker of the language spoken by the Okehocking Tribe die?
+8,David Diamond.,David Diamond,0.2297370433807373,2.587728261947632,0.9820916056632996,1.0,1.0,Which American Screenwriter utilized Saturn Films for the production of The Family Man? 
+9,Yiddish,Italian,0.5856411457061768,2.404674530029297,0.3716312944889068,0.0,0.0,Tosca starred the tenor who was of what nationality?
+10,Wilfrid Brambell,Henry Wilfrid Brambell,0.2908546924591064,2.553089141845703,0.8917086124420166,0.8,0.8,"What is the name of this Irish film and television actor from the film ""A Hard Day's Night"", who also acted in ""Never Say Die""?"
+11,"No, Harry Crosby was a poet, but Gerhart Hauptmann was a dramatist and novelist.",no,0.3087935447692871,3.5131967067718506,0.0481013320386409,0.1333333333333333,0.1333333333333333,Are Chris Marker and Yvonne Rainer American?
+12,The east bank.,east bank,0.422762393951416,2.225054979324341,0.9471474289894104,0.8,0.8,"On what bank of Jed Water is the castle near Abbotrule, Scotland, that was restored by Peter Kerr?"
+13,UK.,UK-based,0.363532543182373,2.428290605545044,0.5818777680397034,0.6666666666666666,0.6666666666666666,The Stud is a 1978 British film staring a Swiss-born actor and director who is based where?
+14,"""God and my right"".",God and my right,0.4428679943084717,2.1720845699310303,0.7508558630943298,1.0,1.0,What is the meaning of the motto of the monochary of the United Kingdom which is commonly referred to as the British monarchy?
+15,Malaysia.,Malaysia,0.4378981590270996,2.235901355743408,0.9520540237426758,1.0,1.0,The Aerotrain is an automated transport network that moves people around the main international airport of which Asian country?
+16,Marcus Rashford.,Marcus Rashford,0.4840481281280517,2.1223485469818115,0.9776395559310912,1.0,1.0,"The ""Nike Hypervenom"" is endorced by which Manchester United forward?"
+17,204 BC.,204 BC,0.6516599655151367,2.8120062351226807,0.985283613204956,1.0,1.0,"What was the establishment date of this ancient kingdom that was annexed during the Southward expansion of the Han Dynasty, and consisted of the commanderies Nanhia, Guilin, and Xiang?"
+18,Tony Hoare.,Tony Hoare,0.2786817550659179,2.3535897731781006,0.9869613647460938,1.0,1.0,Which British commputer scientist developed an algorithm for sorting strings in 1959/1960?
+19,Frank Beyer (1932-2006) is older than Jocelyn Moorhouse (born 1960).,Frank Paul Beyer,0.3052976131439209,3.6183581352233887,0.6142365336418152,0.2857142857142857,0.2857142857142857,"Which director is older, Frank Beyer or Jocelyn Moorhouse?"
+20,The Montreal Expos.,Montreal Expos,0.4325454235076904,2.5744402408599854,0.9681159257888794,0.8,0.8,"What National League East Division baseball team had a pitcher that grew up in RIalto, California?"
+21,"Han Seung-yeon has had success in multiple forms of entertainment, including singing, acting, and television series.",Ross Shor Lynch,0.3865971565246582,3.547367811203003,0.1357071995735168,0.0,0.0,Who has had success in multiple forms of entertainment Han Seung-yeon or Ross Lynch?
+22,"Q1: Prudential Financial
+A1: Prudential Financial operates in over 30 countries, while Jackson National Life operates in the U.S.
+
+Q2: Prudential Financial
+A2: Prudential Financial provides a wide range of services including life insurance, annuities, mutual funds, and commercial and residential real estate, while Jackson National Life primarily offers annuities and fixed income products.",Prudential Financial.,0.358104944229126,7.758419036865234,0.4944518208503723,0.0701754385964912,0.0701754385964912,"Q1: Who has operations in more countries, Jackson National Life or Prudential Financial? A1: Prudential Financial. Q2: Who provides more services, Jackson National Life or Prudent Financial? A2: Prudent Financial."
+23,Portal,The Orange Box,0.6205272674560547,2.0394647121429443,0.3647319674491882,0.0,0.0,What video game package included a game featuring the character GLaDOS?
+24,Cold Blood.,Lost,0.3171446323394775,2.579537868499756,0.2860276401042938,0.0,0.0,"Which American drama television series that originally aired on the American Broadcasting Company (ABC),  comprising a total of 121 episodes, included a fictional character who was played by Ian Somerhalder? "
+25,British.,Northern Irish,0.2888820171356201,2.370978116989136,0.450462281703949,0.0,0.0,Last in Line reunited in 2010 with the guitarist who was of what nationality?
+26,Yes.,yes,0.2700262069702148,2.0075252056121826,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+27,2010 and 2011.,2011,0.3617584705352783,2.5847489833831787,0.8522845506668091,0.5,0.5,"Ikemen desu ne, released in which year, is a Japanese television series, it is the Japanese remake of the Korean musical romantic comedy television drama ""You're Beautiful""?"
+28,"No, Shaoshan is under the administration of Xiangtan prefecture-level City, not Xiangyang City.",no,0.295353889465332,4.058321237564087,0.1486454606056213,0.1333333333333333,0.1333333333333333,Are Chris Marker and Yvonne Rainer American?
+29,The Birds,The Birds,0.354959487915039,2.508840322494507,1.0,1.0,1.0,What film directed by Alfred Hitchcock in 1963 had a sequel made for television in 1994?
+30,Film director.,film director and screenwriter,0.3116748332977295,2.589289665222168,0.8304933309555054,0.6666666666666666,0.6666666666666666,"Erick Zonca and Sally Potter, have which mutual occupations?"
+31,Hilo International Airport serves most of East Hawai.,Hilo International Airport,0.2803208827972412,2.862114429473877,0.7358610033988953,0.5454545454545454,0.5454545454545454,"Which airport Airport serves most of East Hawai, Logan International Airport and Hilo International Airport?"

@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,There is no information about a Wollongong Wolves Football Club playing at the Wollongong Showground.,1911,0.0007202625274658,2.1167709827423096,0.0435990542173385,0.0,0.0,"In what year was the wife of the of the, March 14, 1903 born, Barrow Gang member born?"
+1,New South Wales (Warringah),New South Wales,0.0008988380432128,0.4197278022766113,0.7848789095878601,0.8571428571428571,0.8571428571428571,Which state held a by-election in 1979 for the Australian House of Representatives?
+2,"The film score for the 1988 American road comedy-drama film ""Rain Man"" was produced by none, as the context only mentions the production of the album ""Rhythm of the Pride Lands"" and the film itself, not the score.",Media Ventures,0.0007846355438232,1.9446508884429927,0.0181867592036724,0.0,0.0,What company produced the film score for the 1988 American road comedy-drama film directed by Barry Levinson?
+3,American.,Gibraltarian,0.0007283687591552,0.2020018100738525,0.3309535980224609,0.0,0.0,"What is the nationality of the man who wrote ""When I Need You""?"
+4,Grandmaster Flash and the Furious Five.,Grandmaster Flash and the Furious Five,0.0007510185241699,0.4207603931427002,0.993341326713562,1.0,1.0,"Red, White and Brown was by the comedian who was introduced to the stage by the lead rapper for which group?"
+5,1996,1978,0.0007352828979492,0.2313697338104248,0.5764687061309814,0.0,0.0,When was the interior of the location of the 1997 MTV Video Music Awards declared a city landmark?
+6,CBS Corporation.,Leslie Moonves,0.0006942749023437,0.2399549484252929,0.1943950057029724,0.0,0.0,Who is the current CEO of the corporation that Michael H. Jordan headed from 1995-1998?
+7,Shenandoah National Park.,the Blue Ridge Mountains,0.0007092952728271,0.3452029228210449,0.3344058394432068,0.0,0.0,Which mountain range contains the highest rise of the Hazel River?
+8,New Jersey.,New Jersey,0.0007715225219726,0.2411293983459472,0.9690638780593872,1.0,1.0,What city are both myths located in?
+9,Yes.,no,0.0007789134979248,0.2021653652191162,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?
+10,David Grisman.,Acoustic Disc,0.0007474422454833,0.2763509750366211,0.0117897875607013,0.0,0.0,Mike Marshall is a bluegrass mandolinist who has collaborated with Darol Anger and a musician that started what record label?
+11,"There is no information about an actress born June 29, 1982 playing in the movie The Veil.",Lily Rabe,0.0007214546203613,0.9616374969482422,0.1259853541851043,0.0,0.0,"What actress born June 29, 1982 played in the movie The Veil?"
+12,"""Every Breath You Take""","""Just Be Good to Me""",0.0006942749023437,0.3452322483062744,0.2708219885826111,0.0,0.0,What cover by Karmah samples The Police's chart-topping 1983 single?
+13,The Dark Knight.,The Dark Knight,0.0006425380706787,0.2595956325531006,0.971114456653595,1.0,1.0,What film was William Fichtner in that also had Heath Ledger in it?
+14,Bob's Burgers.,Bob's Burgers,0.0006399154663085,0.3082787990570068,0.9902617931365968,1.0,1.0,What American adult animated sitcom has Jenny Sarah Slate appeared in?
+15,"Julia Roberts was born first, on October 28, 1967, while Julie Wagner was born on October 22, 1965.",Julie Anne Wagner,0.0006234645843505,1.1819562911987305,0.5397605299949646,0.1904761904761905,0.1904761904761905,"Who was born first, Julie Wagner or Julia Roberts?"

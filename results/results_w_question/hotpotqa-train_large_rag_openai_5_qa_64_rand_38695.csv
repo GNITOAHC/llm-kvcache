@@ -1,0 +1,87 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,The North Sea.,North Sea,0.2618460655212402,2.512052536010742,0.9457703828811646,0.8,0.8,Krystkongres is usually held by members of the students who live near what body of water?
+1,Slovenia.,Slovenia,0.2861595153808594,1.098955154418945,0.9449217319488524,1.0,1.0,"In which country was the coach of ND Črnuče, during the mid 1900s, born?"
+2,Franz Liszt.,Franz Liszt,0.4180090427398681,1.223460674285889,0.9817004799842834,1.0,1.0,"Who was the 19th century Hungarian composer who wrote a rendition of ""Hungarian Rhapsody No. 2?"
+3,German Pinscher.,German Pinscher,0.2342977523803711,0.9757790565490724,0.9846800565719604,1.0,1.0,In between German Pinscher and Berger Blanc Suisse who got the full acceptance to AKC in 2003?
+4,The Blank Generation.,The Blank Generation,0.4149110317230224,1.0926945209503174,0.976678729057312,1.0,1.0,"What is the earliest published D-I-Y ""home movies"" of New York punk's birth filmed by Amos Poe and Ivan Kral, Koyaanisqatsi or The Blank Generation?"
+5,Moschino.,Moschino,0.3338806629180908,1.0843987464904783,0.980825662612915,1.0,1.0,What fashion house is the person who redesigned the VMA trophies creative director of?
+6,New York City.,New York City,0.3484048843383789,1.16727614402771,0.9656890034675598,1.0,1.0,Q: Staten Island and 125 Greenwich Street are both places in which City? A: New York City
+7,", then a casting director at Risa Bramon & Billy Hopkins Casting. Shows his company has cast include (Broadway) ""Rent"", ""Wicked"", ""In the Heights"", ""South Pacific"", ""Hairspray"", ""Rock of Ages"", ""Equus"", ""Legally Blonde"", ""A Catered Affair"", ""The Homecoming"", ""Talk Radio"", ""November"", ""Grey Gardens"", ""The Color Purple"", ""The Rocky Horror Show"", ""All Shook Up"", ""Tarzan"", and """", (Off-Broadway) ""reasons to be pretty"", ""50 Words"", ""Almost an Evening"", and ""De La Guarda"". He has cast for several theatre companies including the Atlantic Theatre Company, Signature Theatre, Westport Country Playhouse, New York Theatre Workshop, Drama Dept, ACT in San Francisco, La Jolla Playhouse, McCarter Theatre, Long Wharf Theatre, Hartford Stage, and Goodman Theatre. Films cast include ""Rachel Getting Married"", ""Sex and the City"", ""Margin Call"", ""Across the Universe"", ""Dan in Real Life"", ""Pieces of April"", ""Rent"".
+
+Urban Cowboy: 
+Urban Cowboy is a 1980 American romantic drama film about the love-hate relationship between Buford Uan ""Bud"" Davis (John Travolta) and Sissy (Debra Winger). The movie captured the late 1970s/early 1980s popularity of country music. It was John Travolta's third major acting role after ""Saturday Night Fever"" and "" Grease"". Much of the action centers around activities at Gilley's Club, a honky tonk in Pasadena, Texas.
+
+Taran Bajaj: 
+Taran Bajaj is an Indian casting director and actor who worked as associate casting director in the film like Bhaag Milkha Bhaag, Fukrey. Jazbaa, Thuppakki, Mausam (2011 film) etc. Bajaj first film as individual casting director was Wedding Pullav.
+
+Sherwood Cryer: 
+Sherwood Cryer (September 2, 1927 – August 17, 2009) was a Pasadena, Texas-based entrepreneur. He attained fame as the owner and operator of the famous country-western nightclub Gilley's, an enormous honky tonk that was the central setting of the 1980 movie ""Urban Cowboy"" starring John Travolta, and co-starring Debra Winger.
+
+Marion Dougherty: 
+Marion Caroline Dougherty (February 9, 1923 – December 4, 2011) was an American casting director. She is known for casting films such as ""The World of Henry Orient"", ""Midnight Cowboy"", ""Me, Natalie"", ""Panic in Needle Park"", ""Grease"", ""Urban Cowboy"", ""The World According to Garp"", and ""Batman"". She is also the primary subject of the 2012 documentary ""Casting By"".
+
+Doron Ofir: 
+Doron Ofir is a casting director and president of Doron Ofir Casting, a division of Popular Productions, Inc.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Who won the 2002 Academy Award for Best Actress for her performance in the romantic drama ""Monster's Ball"", and starred in a 1998 American political comedy film starring Warren Beatty?
+        
+        assistant
+         Halle Berry.",Halle Maria Berry,0.3117878437042236,1.1308255195617676,0.110185295343399,0.0094562647754137,0.0094562647754137,"Who won the 2002 Academy Award for Best Actress for her performance in the romantic drama ""Monster's Ball"", and starred in a 1998 American political comedy film starring Warren Beatty ?"
+8,"Approximately 3,700 personnel.","3,700 personnel",0.3786790370941162,1.2762126922607422,0.8902680277824402,0.8571428571428571,0.8571428571428571,How many people are in the Royal Norwegian Navy?
+9,Eddie Murphy.,Eddie Murphy,0.3424739837646484,1.1070024967193604,0.9710349440574646,1.0,1.0,What comedian who starred on Saturday Night Live later appeared in A Thousand Words?
+10,Faber and Faber.,Faber and Faber,0.2971253395080566,1.4004151821136477,0.989076852798462,1.0,1.0,"Etcetera is a fictional character in Cats, which is the musical play based on a collection of poems that was published by who?"
+11,Prairie Oysters.,prairie oysters,0.3404781818389892,1.125584602355957,0.9836852550506592,1.0,1.0,"What is the other name in Canada for one of the dishes served in ""Rocky Mountain cuisine""?"
+12,Gary Glitter's real name is Paul Francis Gadd.,Paul Francis Gadd,0.2527337074279785,1.420598030090332,0.6634397506713867,0.5,0.5,"What was the real name of the performer who released an album called ""Silver Star""?"
+13,Hong Kong.,Hong Kong,0.2616579532623291,1.088298797607422,0.9702165722846984,1.0,1.0,The artist who released the album Xposed is based in which city?
+14,Craig.,Craig,2.4575603008270264,0.9498076438903807,0.9622198939323424,1.0,1.0,What is the middle name of successful candidate in The 2004 United States Senate election in Alabama ?
+15,"Yes, both Phoenix and Lit are pop bands.",no,0.3976752758026123,1.5060148239135742,0.2048242837190628,0.0,0.0,Are Chris Marker and Yvonne Rainer American?
+16,15.,15,0.3163437843322754,0.9841537475585938,0.9291602969169616,1.0,1.0,"""Littlest Things"" is a song by an English singer who left school at what age?"
+17,Ant-Man.,Scott Lang and Hank Pym,0.2968034744262695,1.1793861389160156,0.3142958879470825,0.0,0.0,Joe Cornish co-wrote a film based on what characters?
+18,"Sandra Dallas has written 7 non-fiction books, while Judy Blume has written none.","Sandra Dallas is an award-winning American author of 13 adult novels, 2 children's novels, and 7 non-fiction books.",0.2784562110900879,1.7853493690490725,0.6361382007598877,0.3428571428571428,0.3428571428571428,Has Judy Blume or Sandra Dallas written more non fiction books?
+19,Brian Taylor.,the Seven Network,0.5917904376983643,0.8828821182250977,0.1711269915103912,0.0,0.0,For whom does the commentator other than Dennis Cometti on AFL Live comment for on television?
+20,Yes.,yes,0.2873377799987793,1.0606563091278076,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+21,"Peter Schamoni directed 35 films, while Manish Gupta's filmography is not fully listed, but he has directed at least 5 films.",Peter Schamoni,0.3888304233551025,2.680661916732788,0.4582332968711853,0.1666666666666666,0.1666666666666666,"Who has directed more films, Manish Gupta or Peter Schamoni?"
+22,Chicago Enforcers.,XFL,0.3536567687988281,1.0881836414337158,0.1303789317607879,0.0,0.0,"John Edward Avery, Jr. played for what team that only played one season in 2001"
+23,Yes.,yes,0.2812197208404541,0.7355403900146484,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+24,Time magazine.,Time,0.2400794029235839,1.1136033535003662,0.4599125981330871,0.6666666666666666,0.6666666666666666,Denver Nicks has written several pieces including one about Bradley Manning and is a staff writer for which popular magazine?
+25,Documentary film genre.,documentary,0.3047983646392822,1.2755725383758545,0.7671842575073242,0.5,0.5,WHat genre are both Game Face and Junket Whore?
+26,Tennis.,tennis,0.3984308242797851,1.0625557899475098,0.9499958753585817,1.0,1.0,Which sport do both John Austin and Todd Woodbridge play?
+27,Emma Roberts.,Emma Roberts,0.2797377109527588,0.971480131149292,0.975208044052124,1.0,1.0,"What actress starred with James Franco in Palo Alto and played Kristina Jung in ""Blow""?"
+28,"""Casting By""","""Casting By""",0.3365294933319092,1.0010356903076172,0.9999999403953552,1.0,1.0,What is the name of the documentary about the casting director for the 1980 movie starring John Travolta and Debra Winger?
+29,"The BB&T Center in Sunrise, Florida.",BB&T Center in Sunrise,0.2777795791625976,1.333332061767578,0.8676161170005798,0.8333333333333333,0.8333333333333333,"Described at the age of 17 as ""the new face of American hockey,"" this person was selected in a draft held at what institution in 2015?"
+30,D6 Space.,D6 Space,0.3485584259033203,1.2241709232330322,0.9712851047515868,1.0,1.0,"Star Wars: The Roleplaying Game's game system was slightly modified and rereleased in 2004 as which generic science fiction role-playing game (RPG) based on the ""D6 System""?"
+31,Rakshakudu.,Rakshakudu,0.3777809143066406,1.274770736694336,0.9769147634506226,1.0,1.0,What is the title of the film that stars the 1998 Jnanpith Award winning actor Girish Karnad when it dubbed into Telugu?
+32,"Fair Oaks Mall is located in Fair Oaks, Fairfax County, Virginia, at the intersection of Interstate 66 and U.S. Route 50.","Fairfax County, Virginia",0.306699275970459,2.1707496643066406,0.4574232697486877,0.24,0.24,Where is the Fair Oaks Mall located?
+33,Javi Martínez.,defensive midfielder or a central defender.,0.3484759330749511,1.07122802734375,0.3700112700462341,0.0,0.0,Mario Gómez was teammates with a Spanish footballer that plays what two positions and had the 2nd highest transfer fee in the Bundesliga?
+34,Pulsion Technology.,Pulsion Technology,0.4150738716125488,1.2545013427734375,0.9701751470565796,1.0,1.0,What company develops mobile software products in the discipline that focuses upon the efficient and effective delivery of support services?
+35,"Liam Neeson played the starring role in the 1996 historical biopic ""Michael Collins"" and the starring role in the 1993 Oscar winner ""Schindler's List"".",Schindler's List,0.4082019329071045,2.873378276824951,0.5602688789367676,0.2142857142857142,0.2142857142857142,What 1993 movie was Emilie Schindler's husband the subject of?
+36,1977.,1977,0.3478221893310547,1.0946977138519287,0.9569631814956664,1.0,1.0,"American Eagle Outfitters, Inc. is an American clothing and accessories retailer, headquartered in the Southside Works Neighborhood of Pittsburgh, Pennsylvania, it was founded in which year, by brothers Jerry and Mark Silverman as a subsidiary of Retail Ventures, Inc.?"
+37,"Woodlawn, Baltimore County, Maryland.",Woodlawn,0.5456721782684326,1.2716891765594482,0.6811680197715759,0.4,0.4,"WHich unincorporated community and census-designated place in Baltimore County, Maryland hosts a social insurance program consisting of retirement, disability, and survivors' benefits"
+38,Robin Hardy.,Robin Hardy,0.5817456245422363,1.0919086933135986,0.980663001537323,1.0,1.0,"Geraldine ""Gerry"" Cowper, is an English actress who is best known for playing Rowan Morrison in The Wicker Man, a 1973 British mystery horror film directed by who?"
+39,Naval Base Kitsap.,Naval Base Kitsap,0.3883471488952636,1.2011768817901611,0.9848252534866332,1.0,1.0,Naval Submarine Base Bangor has merged into which Washington state Navy base?
+40,1971,1971,0.3595058917999267,1.1664297580718994,1.0,1.0,1.0,What year was the choreographer of the ballet that was featured in a 2000 British dance drama film set during the 1984-85 coal miners' strike born?
+41,The Old Hume Highway.,Old Hume Highway,0.3331987857818603,1.1297569274902344,0.9642347097396852,0.8571428571428571,0.8571428571428571,Harper's Mansion is located in a village that is located along what highway? 
+42,U2.,U2,0.3305580615997314,1.0505459308624268,0.9680662155151368,1.0,1.0,For which band does the founder of Arcane Collective play?
+43,"C. S. Forester was born on August 27, 1899, and Lionel Trilling was born on July 4, 1905.",Cecil Louis Troughton Smith,0.5517213344573975,2.402989864349365,0.2682523131370544,0.0,0.0,"Who was born first, C. S. Forester or Lionel Trilling?"
+44,1917.,1917,1.201026201248169,0.9498498439788818,0.9652109742164612,1.0,1.0,What year did Britain's Royal Flying Corps choose watches made by the company who later made the Electroquartz as their official timekeepers?
+45,"Sugarloaf has a vertical drop of 2600 ft, which is higher than Sugarbush's 2000 ft.",Sugarloaf,0.3971304893493652,2.072989225387573,0.5807163715362549,0.1176470588235294,0.1176470588235294,"Which mountain has a higher vertical drop, Sugarbush or Sugarloaf?"
+46,Dutch.,Dutch,0.2953970432281494,1.0446710586547852,0.9625337719917296,1.0,1.0,Ooster-Eems means Ems-oriental in what language spoken by around 24 million people as a first language?
+47,Gianluigi Buffon.,"Gianluigi ""Gigi"" Buffon",0.3444607257843017,1.268815994262695,0.8819265961647034,0.8,0.8,Who is the Italian professional footballer that Taiwanese goalkeeper Lu Kun-Chai is nicknamed after?
+48,Manchester Airport.,Manchester Airport,0.2609326839447021,1.0341501235961914,0.9620479345321656,1.0,1.0,"As of 2008, Gerard ""Ged"" Keegan was working as a car-parking attendant at which international airport in Ringway, Manchester, England, 7.5 NM south-west of Manchester city centre?"
+49,"Kim Dae-seung directed the historical film ""The Magician"" (2015) starring Yoo Seung-ho.",Kim Dae-seung,0.355839729309082,2.2777979373931885,0.560332179069519,0.3529411764705882,0.3529411764705882,"Who directed a historical film starring Yoo Seung-ho, about a South Korean period fantasy?"
+50,Vincent Ward has appeared in more films.,Jon Paul Puno,0.4007375240325928,1.288501262664795,0.1617800593376159,0.0,0.0,"Who has appeared in more films, Jon Paul Puno or Vincent Ward?"
+51,They are both actors.,musician,0.3804001808166504,1.0928328037261963,0.2887854278087616,0.0,0.0,What do Andrew Stockdale and Marty Balin have in common?
+52,Energy drinks.,drinks,0.3196637630462646,0.9996531009674072,0.674629271030426,0.6666666666666666,0.6666666666666666,Kool-Aid and  Lucozade are examples of what?
+53,Pro Evolution Soccer 2016,Gran Turismo Sport,0.5601398944854736,1.362844705581665,0.3695352077484131,0.0,0.0,"What was the name of the racing video game in which the performance of ""somebody new"" was featured?"
+54,First Lady of Zimbabwe.,First Lady of Zimbabwe,0.3381252288818359,1.3525030612945557,0.9855092763900756,1.0,1.0,What was Grace Mugabe's title after she married the former chairman of the Zimbabwe African National Union?
+55,Both Haidong and Fengzhen are prefecture-level cities.,Haidong,0.2896735668182373,1.3386189937591553,0.6577072143554688,0.2222222222222222,0.2222222222222222,"Which is a prefecture level city, Haidong or Fengzhen or both?"
+56,California.,California,0.6834146976470947,0.9334583282470704,0.940902292728424,1.0,1.0,Where is the author who wrote the 2016 novel about members of a cult that resembles the Manson Family from?
+57,Gulf Air.,Gulf Air,0.3071870803833008,1.0738494396209717,0.973389744758606,1.0,1.0,What is the name of this principal flag carrier of Bahrain that evolved from Gulf Aviation?
+58,Nicol David.,Datuk Nicol Ann David,0.3050346374511719,1.0410215854644775,0.7510594129562378,0.6666666666666666,0.6666666666666666,What Malaysian female professional squash player beat Vicky Botwright to win the 2008 World Open?
+59,NBA All-Rookie Team.,NBA All-Rookie Team,0.2800471782684326,1.366725206375122,0.9827712774276732,1.0,1.0,"What  is an annual National Basketball Association (NBA) honor given since the 1962–63 NBA season to the top rookies, that was given to the man who had a successful college career at Marquette and was drafted fifth overall in the 2003 NBA draft by the Miami Heat ? "
+60,"""Salvation is Created""",Salvation is Created,0.334038496017456,1.2636454105377195,0.9224982261657716,1.0,1.0,Pavel Grigorievich Chesnokov is best known for composing which choral work?
+61,"Pete Davidson was born November 16, 1993.","November 16, 1993",0.456071138381958,1.5563461780548096,0.5251303911209106,0.6,0.6,What is the exact birth date of the other SNL cast member besides Luke Knoll that was born in the 1990's?
+62,Atlantic Islands of Galicia National Park.,Atlantic Islands of Galicia National Park,0.2679769992828369,1.1664292812347412,0.9891814589500428,1.0,1.0,"What is the only national park located in the autonomous community of Galicia, Spain, Atlantic Islands of Galicia National Park or Picos de Europa National Park?"
+63,"Nitro at Adlabs Imagica in Mumbai, India features five inversions.",Nitro,0.2935113906860351,1.584775686264038,0.3811339437961578,0.1818181818181818,0.1818181818181818,"What roller coaster in Mumbai, India features five track turns that put riders upside-down? "

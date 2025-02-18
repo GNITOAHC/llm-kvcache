@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,reset_cache_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0, House Beautiful,House Beautiful,0.0004868507385253,0.4153048992156982,1.0,1.0,1.0,What magazine published by the Hearst Corporation features the work of Michelle Holzapfel?
+1, Yes.,yes,0.0005056858062744,0.3647849559783935,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+2, Eye in the Sky,"""Eye in the Sky""",0.0004918575286865,0.6065354347229004,0.9358803033828736,1.0,1.0, Han Hyo-joo won Best Actress at the 34th Blue Dragon Film Awards for her performance in a movie that was a remake of what 2007 film?
+3, Thunder,AC/DC,0.0004858970642089,0.2487022876739502,0.3110836446285248,0.0,0.0,"The English heavy metal band that released two albums in the 1980s had a member from Glasgow, Scotland leave the band to replace his father in what iconic hard rock band?"
+4, 659 minutes,659,0.0004973411560058,0.4805264472961426,0.5203872919082642,0.6666666666666666,0.6666666666666666,How many minutes did the current goalkeeper for Borussia Dortmund remain unbeaten at his previous club?
+5, Julie Cooper,Julie Cooper,0.0004961490631103,0.3652148246765136,1.0,1.0,1.0,Who represents the district that Gawthorpe is in?
+6, Ramallah,Ramallah,0.0004885196685791,0.3712053298950195,1.0,1.0,1.0,Karim Khalaf was Mayor of which West Bank city for 10 years in the late 20th century?
+7, No,no,0.0004959106445312,0.2482833862304687,1.0,1.0,1.0,Are Chris Marker and Yvonne Rainer American?
+8, Atomic Blonde,Kurt Johnstad,0.0005085468292236,0.3653197288513183,0.2368443310260772,0.0,0.0,Who wrote the film Theron starred in after she starred in The Fate of the Furious?
+9, Bugs Bunny,Bugs Bunny,0.0004820823669433,0.3634333610534668,1.0,1.0,1.0,What cartoon bunny was the director of Robin Hood Makes Good famous for?
+10, Kelley Jakle,Kelley Jakle,0.000495433807373,0.4865612983703613,1.0,1.0,1.0,"Pitch Perfect 2 stars which actress who is also known for her appearances on the first and second seasons of ""The Sing-Off"" in 2009 and 2010?"
+11, Russia,People's Republic of China,0.0004982948303222,0.2826104164123535,0.3978418111801147,0.0,0.0,"Yanzhou District and Yizheng, are in which country?"
+12, Asia.,Asia,0.0005061626434326,0.364811897277832,0.9424371719360352,1.0,1.0,What continent can both Fraxinus and Rice be found?
+13, MacGyver.,"the television series ""MacGyver"" (1985–1992)",0.0004796981811523,0.7094297409057617,0.7032359838485718,0.2857142857142857,0.2857142857142857,What was Richard Dean Anderson famous from before Stargate?
+14, Cleo,Croissant,0.0005052089691162,0.3637845516204834,0.2758748531341553,0.0,0.0,Which magazine Croissant or Darling is issued more often ?
+15, Jennifer Beals,Flashdance,0.0005068778991699,0.480196475982666,0.2267096489667892,0.0,0.0,The Spree starred the actress who had a role in what 1983 romantic drama?

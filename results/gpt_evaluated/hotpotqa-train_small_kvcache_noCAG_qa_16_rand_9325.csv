@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0," No, they are not in the same state. The Colorado River Aqueduct is in California, while the Eastside Canal is in Kern County, California.",yes,0.0810179710388183,12.293172836303713,0.0838471353054046,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?,0
+1, The United States.,the United States,0.137580394744873,8.831321001052856,0.9500843286514282,1.0,1.0,The song Doctor Robert by the Beatles was released on the album Yesterday and Today in what country?,1
+2, They were both writers.,writer,0.0896997451782226,8.998156547546387,0.5271021127700806,0.4,0.4,E. Howard Hunt and Nâzım Hikmet both share the job title as being what?,1
+3, Cibotium has more species.,Cibotium,0.085151195526123,9.35717225074768,0.7233430743217468,0.4,0.4,"Which genus has more species, Cibotium or Crowea?",1
+4," Perry Hall is located in Baltimore County, Maryland, which is the third-most populous county in Maryland.",third-most,0.0619852542877197,10.868535995483398,-0.0021456517279148,0.2105263157894736,0.2105263157894736,What is Perry Hall counties ranking in terms of population?,1
+5, Jason Aldean,Jason Aldean,0.2126789093017578,8.842931747436523,1.0,1.0,1.0,"Chris DeStefano wrote the song ""Just Gettin' Started"" with which artist signed to Broken Bow Records?",1
+6, Angelina Grimké,Angelina Grimké,0.1087746620178222,8.893620491027832,1.0000001192092896,1.0,1.0,Who was the American political activist that was a supporter of women's suffrage movement and was also the wife of the author who wrote American Slavery As It Is: Testimony of a Thousand Witnesses?,1
+7," California, Maryland, and other parts of the United States.",New York,0.1140124797821044,9.86727213859558,0.412267655134201,0.0,0.0,"101 Park Avenue and 55 Water Street, are located in which state?",0
+8, University of Tennessee.,University of New Mexico,0.2353191375732422,8.81505012512207,0.6951932311058044,0.5714285714285715,0.5714285714285715,What college football team did Casey Urlacher's brother play for?,0
+9, Gerry Rafferty.,"Gerald ""Gerry"" Rafferty",0.0799200534820556,8.98316764831543,0.8496783971786499,0.8,0.8,"Which singer is Scottish, Kevin Cronin or Gerry Rafferty?",1
+10, National Collegiate Honors Council,the New England Association of Schools and Colleges,0.0710546970367431,9.111798286437988,0.4764370322227478,0.0,0.0,Which association accredited the university in which Alex Phillips was Director of Assessment and Curriculum Development?,0
+11, Tucumán Province,Tucumán Province,0.0506105422973632,8.973741054534912,1.000000238418579,1.0,1.0,Santa Rosa de Leales is a settlement in which most most densly populated province in Argentina?,1
+12, Composer.,composer,0.210864782333374,8.58286190032959,0.9182189106941224,1.0,1.0,What were Vincent McEveety and Peer Raben known for?,0
+13, United States.,United States,0.0561821460723876,8.720975637435913,0.9286460876464844,1.0,1.0,Where is the owner of Next big sound provides analytics for online music available?,1
+14, mandolin,mandolin,0.0729210376739502,8.607911348342896,1.0,1.0,1.0,"What instrument did the first generation Lonesome Pine Fiddler, born in 1931, play?",1
+15, Irish.,Irish,0.0556144714355468,8.58501672744751,0.9473912119865416,1.0,1.0,William Procter founded a lucrative business with a soap maker of what heritage?,1

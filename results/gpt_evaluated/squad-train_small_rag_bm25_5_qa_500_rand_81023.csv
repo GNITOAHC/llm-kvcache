@@ -1,0 +1,388 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,The Mozilla Foundation.,Mozilla Foundation,0.0009577274322509,1.9095826148986816,0.9259703159332277,0.8,0.8,What did Netscape launch in 1998?,1
+1,January 2009.,January 2009,0.0010821819305419,0.7319939136505127,0.9733129739761353,1.0,1.0,When did the European Commission say they would investigate the bundling?,1
+2,Transistors.,transistors,0.0009605884552001,0.6905324459075928,0.9459264278411864,1.0,1.0,Vacuum tubes in early computers were replaced by what?,1
+3,A byte.,a byte,0.0009450912475585,0.6525990962982178,0.9634421467781068,1.0,1.0,A group of 8 bits is called what?,1
+4,Quantum factoring.,quantum factoring,0.000974416732788,0.69400954246521,0.9782191514968872,1.0,1.0,By what method do quantum computers solve encryption algorithms quickly?,1
+5,Richard Braithwait.,Richard Braithwait,0.0009617805480957,0.7377293109893799,0.9869220852851868,1.0,1.0,"Who was the author of the book, The Yong Mans Gleanings?",1
+6,The Z3.,the Z3,0.0009870529174804,0.6970081329345703,0.983423113822937,1.0,1.0,"What was the first automatic, digital, programmable computer created by Konrad Zuse?",1
+7,The Liberal Party has faced 5 consecutive losses as the opposition in South Australia since the 2002 election.,a record five,0.000995397567749,1.3953402042388916,0.248844102025032,0.0,0.0,How many consecutive losses has the Liberal party faced since the 2002 election?,1
+8,The United States Navy.,the United States Navy,0.0009925365447998,0.7381429672241211,0.9767524600028992,1.0,1.0,What part of the US military developed an electromechanical analog computer to use on a submarine?,1
+9,World War II.,"World War II,",0.0009815692901611,0.6958801746368408,0.9625085592269896,1.0,1.0,During what war were computers first used for military applications?,1
+10,Programmer error or an oversight made in the program's design.,programmer error or an oversight made in the program's design,0.0009613037109375,1.0232179164886477,0.9279968738555908,1.0,1.0,Bugs are usually the fault of whom or what?,1
+11,Persia (in 1235) by Abi Bakr of Isfahan.,Persia,0.0009913444519042,1.2591831684112549,0.7122883796691895,0.2222222222222222,0.2222222222222222,What has the West historically referred Iran as?,1
+12,Photolithographed semiconductors.,photolithographed semiconductors,0.0009493827819824,0.8378691673278809,0.99155855178833,1.0,1.0,Transistors are typically made up of what today?,1
+13,The 1967 Referendum.,1967 Referendum,0.000967264175415,0.8194525241851807,0.9671088457107544,0.8,0.8,Which Referendum allowed Indigenous Australians to be counted in the Census?,1
+14,September 1947.,September 1947,0.0009849071502685,0.7380626201629639,0.9769178628921508,1.0,1.0,When was Grace Hopper's Hardvard Mark II shorted by a moth?,1
+15,The University of Pennsylvania.,University of Pennsylvania,0.0009591579437255,0.7394068241119385,0.9653996229171752,0.8571428571428571,0.8571428571428571,Where was ENIAC located?,1
+16,SAGE system.,SAGE system,0.0009882450103759,0.6938683986663818,0.9579161405563354,1.0,1.0,What system of the U.S. military's was the first large-scale system to coordinate information between several locations?,1
+17,Tommy Flowers.,Flowers,0.0009682178497314,0.6510570049285889,0.5954682230949402,0.6666666666666666,0.6666666666666666,Who built the first Colossus in 1943?,1
+18,1936.,1936,0.0009944438934326,0.6945638656616211,0.9675049185752868,1.0,1.0,In what year was Studio Misr founded?,1
+19,Problems with interoperability.,problems with interoperability,0.0009443759918212,0.7204849720001221,0.9787808060646056,1.0,1.0,Non-standard dialects led to what?,1
+20,A severe drought.,a severe drought,0.0009703636169433,0.684945821762085,0.978617787361145,1.0,1.0,What environmental consequence affected the Australian economy by 1983?,1
+21,"AND, OR, XOR, and NOT.","AND, OR, XOR, and NOT",0.0009462833404541,0.893366813659668,0.9921127557754515,1.0,1.0,Boolean logic consists of what?,1
+22,The 1770s.,In the 1770s,0.0009906291961669,0.7747008800506592,0.9207605123519896,0.8,0.8,When did Pierre Jaquet-Droz build a mechanical doll that could hold a pen?,1
+23,Derek J. de Solla Price.,Derek J. de Solla Price.,0.0009763240814208,0.8514506816864014,1.0000001192092896,1.0,1.0,The Antikythera mechanism was thought to be the first computer according to whom?,1
+24,1888.,1888,0.0009713172912597,0.6890847682952881,0.9602977633476256,1.0,1.0,When did NYC buy land for its parks?,1
+25,12 September 1958.,12 September 1958.,0.0009541511535644,0.8111884593963623,0.9999999403953552,1.0,1.0,When was the first functional IC demonstrated?,1
+26,Bob Hawke.,Bob Hawke,0.0009706020355224,0.6893436908721924,0.9810844659805298,1.0,1.0,Who did Frazer eventually lose to in 1983?,1
+27,"The Z2, created by German engineer Konrad Zuse in 1939.",The Z2,0.0009629726409912,1.22037672996521,0.6960930228233337,0.3333333333333333,0.3333333333333333,What is one of the first electromechanical relay computers?,1
+28,Firmware.,software,0.0009522438049316,0.6022994518280029,0.5430688261985779,0.0,0.0,What specifically did his son work on?,0
+29,1950s,50s,0.0009858608245849,0.6951594352722168,0.5666390657424927,0.0,0.0,By what decade were analog computing devices rendered obsolete?,1
+30,Artificial Intelligence and Machine Learning.,artificial intelligence,0.0009534358978271,0.7637655735015869,0.7557907104492188,0.5714285714285715,0.5714285714285715,In 1956 the company demonstrated the first example of what?,0
+31,Late 2004.,late 2004,0.000929832458496,0.7330918312072754,0.9786151647567748,1.0,1.0,When was Firefox released?,1
+32,private networks or file systems.,private networks,0.0009806156158447,0.7718584537506104,0.7272402048110962,0.5714285714285715,0.5714285714285715,"In addition to accessing the Internet, browsers can also access info that is put there by web servers in what?",1
+33,Time-sharing.,"""time-sharing""",0.0009577274322509,0.6466493606567383,0.90303635597229,1.0,1.0,"A method of multitasking that takes a ""slice"" of time in turn is called what?",1
+34,Internet Explorer.,Internet Explorer,0.0009636878967285,0.6564338207244873,0.7528218030929565,1.0,1.0,What was bundled for free with the Windows OS?,1
+35,Windows operating system.,Windows,0.0009329319000244,0.695636510848999,0.7984075546264648,0.5,0.5,What was bundled with Internet Explorer?,1
+36,Central Processing Unit.,central processing unit,0.0009667873382568,0.6895887851715088,0.9755199551582336,1.0,1.0,The CPU is an abbreviation for what?,1
+37,Don Chipp.,Don Chipp,0.0009486675262451,0.686713457107544,0.9812923669815063,1.0,1.0,Which former liberal founded the Australian Democrats in 1977?,1
+38,Competition between web browsers.,competition between web browsers,0.0009567737579345,0.7296826839447021,0.9714312553405762,1.0,1.0,The Commission felt that bundling the browser with Windows computers harmed what?,1
+39,Gigaflops.,(gigaflops),0.0009522438049316,0.6957933902740479,0.8775871992111206,1.0,1.0,Billions of instructions per second are called what in computer terms?,1
+40,consumer choice.,product innovation,0.0009348392486572,0.6546962261199951,0.3475976586341858,0.0,0.0,The Commission felt that the bundling undermined what?,0
+41,The BIOS chip is located on the motherboard.,the motherboard,0.0009596347808837,0.8958251476287842,0.633732795715332,0.4,0.4,A BIOS chip is located where in a computer?,1
+42,Royal Radar Establishment of the Ministry of Defence.,Royal Radar Establishment of the Ministry of Defence,0.0009543895721435,0.8942205905914307,0.9881249666213988,1.0,1.0,Where did Geoffrey W.A. Dummer work at?,1
+43,Wheel-and-disc mechanisms.,wheel-and-disc,0.00095796585083,0.7230768203735352,0.8283181190490723,0.8571428571428571,0.8571428571428571,What type of mechanisms did the differential analyzer use?,1
+44,rendered in the same way.,rendered in the same way,0.0009443759918212,0.7740561962127686,0.9317724704742432,1.0,1.0,HTML and XHTML should be what by all browsers?,1
+45,2010,2010,0.0009655952453613,0.6497440338134766,1.0,1.0,1.0,When was Liberia was granted observer status with the world trade organization>,1
+46,The Liberal Party's ideological ancestry stretched back to the anti-Labor groupings in the first Commonwealth parliaments.,anti-Labor groupings in the first Commonwealth parliaments,0.000960350036621,1.455503225326538,0.6812436580657959,0.6153846153846153,0.6153846153846153,From where did the ideology of the Liberals stem?,1
+47,He resigned.,he resigned,0.0009913444519042,0.6502370834350586,0.9558387398719788,1.0,1.0,"Was Gorton impeached, voted out, or did he resign?",1
+48,"Menzies promised to end rationing of butter, tea, and petrol, and provided a five-shilling endowment for first-born children, as well as for others.","end rationing of butter, tea and petrol and provided a five-shilling endowment for first-born children",0.0009598731994628,1.934401512145996,0.7690889835357666,0.8095238095238095,0.8095238095238095,What promises did Menzies make in the 1949 election?,0
+49,"The flow of control within the program, which allows the computer to repeat instructions until an internal condition is met.",the flow of control,0.0009677410125732,1.415818691253662,0.5572643280029297,0.3333333333333333,0.3333333333333333,What allows a computer to perform repetitive tasks without human intervening?,1
+50,Jumps.,"""jumps""",0.0009541511535644,0.6513121128082275,0.8847269415855408,1.0,1.0,Instructions that change the program counter are called what?,1
+51,2400 BC.,2400 BC,0.0009396076202392,0.732865571975708,0.98499196767807,1.0,1.0,When was the Roman abacus first used?,1
+52,An assembler.,a compiler,0.0009663105010986,0.6520335674285889,0.5103947520256042,0.0,0.0,Assembly language that is translated into machine language is done by what type of computer?,1
+53,"""live bookmarks""",live bookmarks,0.0009443759918212,0.6865437030792236,0.9621731042861938,1.0,1.0,Firefox does web feeds as what?,1
+54,Multitasking.,multitasking,0.0009644031524658,0.7269058227539062,0.9548789262771606,1.0,1.0,"In computer terms, when a computer is switching rapidly between running each program in turn, is called what?",1
+55,"""The forgotten people""","""backbone of Australia""",0.0009660720825195,0.7328267097473145,0.2492492944002151,0.0,0.0,How did Roosevelt refer to the middle class?,0
+56,form and search history.,form and search history,0.0009765625,0.7346320152282715,0.9179251790046692,1.0,1.0,"Cache, download history, cookies, browsing and what else can be quickly deleted in browsers?",1
+57,20 words (about 80 bytes),ENIAC,0.000939130783081,0.8946566581726074,0.3160842359066009,0.0,0.0,On what computer was the first numerical weather forecast produced?,0
+58,The central processing unit (CPU).,CPU,0.0009644031524658,0.8154439926147461,0.6200962066650391,0.3333333333333333,0.3333333333333333,Processing data from input and output devices is typically done by what?,1
+59,1947.,1947.,0.0009233951568603,0.6752951145172119,1.0,1.0,1.0,When was the bipolar transistor created?,1
+60,An interrupt.,"an interrupt,",0.0009393692016601,0.6549649238586426,0.9718502759933472,1.0,1.0,A signal that stops a compute executing instructions is called what?,1
+61,SQL.,SQL,0.0009214878082275,0.6004064083099365,0.878853440284729,1.0,1.0,"When customers first tested IBM's system, what computer language had been added? ",1
+62,1906.,1906,0.0009651184082031,0.6971728801727295,0.9640109539031982,1.0,1.0,In what year was Swaziland given self governance? ,1
+63,A bit (binary digit) of information.,a bit (binary digit) of information,0.0009613037109375,0.8930439949035645,0.9820475578308104,1.0,1.0,A circuit in a computer part represents what?,1
+64,Analog computers were originally used for astronomical calculations and navigation.,astronomical calculations,0.000960350036621,0.973362684249878,0.4139560461044311,0.3333333333333333,0.3333333333333333,What were analog computers originally used for?,1
+65,"The 1962 Commonwealth Electoral Act, introduced by Menzies, gave all Indigenous Australians the right to enrol and vote at federal elections.",Menzies' Commonwealth Electoral Act,0.0009727478027343,1.6573238372802734,0.7694103717803955,0.32,0.24,Which ruling allowed indigenous Australians the right to vote?,1
+66,development at Google and of Google Chrome.,Google Chrome,0.0009474754333496,0.8532507419586182,0.6303645372390747,0.4444444444444445,0.4444444444444445,"The increased revenue funds what, in addition to Google?",0
+67,DARPA.,DARPA),0.0009541511535644,0.6494417190551758,0.8674149513244629,1.0,1.0,ARPA is now known as what?,1
+68,The birthday cake interview.,the infamous birthday cake interview,0.0009951591491699,0.7261857986450195,0.947471559047699,0.888888888888889,0.888888888888889,What discussion proved an example of the difficulty of explaining what foods were and were not included in the Goods and Services Tax?,1
+69,1977,1977,0.001183271408081,0.6524138450622559,1.0,1.0,1.0,When did Knorr die? ,1
+70,1920s.,1920s,0.0009717941284179,0.7373566627502441,0.9677363038063048,1.0,1.0,"What decade is considered the ""golden age"" of women's football?",1
+71,"More than 90,000.","more than 90,000",0.0009732246398925,0.8151500225067139,0.9758829474449158,1.0,1.0,How many members were in the Young Liberals by Sept 1945?,1
+72,Netscape Navigator.,Netscape Navigator,0.0009317398071289,0.6894259452819824,0.9325628876686096,1.0,1.0,What browser did Andreessen release in 1994?,1
+73,"January 18, 1944.",18 January 1944,0.0009374618530273,0.8526606559753418,0.9566041231155396,1.0,0.6666666666666666,When was the Colossus sent to Bletchley Park?,1
+74,A program counter.,the program counter,0.0009336471557617,0.6898961067199707,0.9545708894729614,0.6666666666666666,0.6666666666666666,What is a component that all CPUs have?,1
+75,0 to 255 or -128 to +127.,0 to 255 or −128 to +127,0.0009541511535644,1.0254416465759275,0.931528389453888,1.0,1.0,What is the range of the numbers that a byte can represent?,1
+76,Malcolm Turnbull.,Malcolm Turnbull,0.0009467601776123,0.6560995578765869,0.9804420471191406,1.0,1.0,Who is the Australian Liberal Party's leader?,1
+77,5000 times.,5000,0.000943899154663,0.7362456321716309,0.6678751111030579,0.6666666666666666,0.6666666666666666,How many times could it add or subtract a second?,1
+78,Uniform Resource Locator.,Uniform Resource Locator,0.000948429107666,0.6909258365631104,0.9483479857444764,1.0,1.0,What does URL stand for?,1
+79,"The CPU is not explicitly broken down into 3 parts in the given text, but it is mentioned that it contains a special set of memory cells called registers, an ALU (Arithmetic Logic Unit), and a control unit.","The control unit, ALU, and registers",0.0009377002716064,2.3744537830352783,0.6428414583206177,0.2727272727272727,0.1363636363636363,What 3 parts make up the CPU?,1
+80,London.,London,0.0009539127349853,0.6021621227264404,0.9624133110046388,1.0,1.0,In what city did the US and Russia conduct nuclear talks in 1955?,1
+81,Peripheral devices.,Peripheral devices,0.0009407997131347,0.6564843654632568,0.9500315189361572,1.0,1.0,What are the devices called that are from an external source?,1
+82,Campbell Newman.,"former Brisbane Lord Mayor, Campbell Newman",0.000962495803833,0.6519808769226074,0.6762176752090454,0.5,0.5,Who led the new Liberal National Party of Queensland through the election in March 2012?,1
+83,Henry Babbage.,Henry Babbage,0.0009746551513671,0.6929740905761719,0.9819639325141908,1.0,1.0,Who created a simple version of the analytical engine's computing unit?,1
+84,A system of pulleys and wires.,system of pulleys and wires,0.0009753704071044,0.8532838821411133,0.9293699860572816,0.9090909090909092,0.9090909090909092,What did Sir William Thomson's tide-predicting machine use to function?,1
+85,The mobile phone web browser market.,mobile phone web browser,0.0009429454803466,0.8144786357879639,0.7680534720420837,0.8,0.8,Opera focused on which quickly growing market?,1
+86,CPUs.,CPUs,0.0009846687316894,0.6137838363647461,0.8991233110427856,1.0,1.0,Multiprocessor and multi-core computers have multiples of what?,1
+87,"Australia, New Zealand, and the United States.","Australia, New Zealand and the United States",0.0009500980377197,0.934760570526123,0.924430012702942,1.0,1.0,Which areas were involved in the ANZUS Treaty?,1
+88,browser war.,browser war,0.0009346008300781,0.6492762565612793,0.956680417060852,1.0,1.0,The release of Internet Explorer started the first what?,1
+89,26 January 1966.,26 January 1966,0.0009665489196777,0.8125982284545898,0.9827836155891418,1.0,1.0,When did Menzies resign from Parliament?,1
+90,The Yong Mans Gleanings by Richard Braithwait in 1613.,The Yong Mans Gleanings,0.000953197479248,1.1872599124908447,0.6195772886276245,0.6153846153846153,0.6153846153846153,"In which book, was the term ""computer"" first used?",1
+91,Anti-communism.,Anti-communism,0.0009577274322509,0.7361533641815186,0.9605956673622132,1.0,1.0,What was a key political topic in the 1950s and 1960s?,1
+92,1917,1917,0.0009520053863525,0.6579267978668213,1.0,1.0,1.0,When did Herter die?,1
+93,1945.,1945,0.0009369850158691,0.6929817199707031,0.967690885066986,1.0,1.0,In what year was the OSS dissolved?,1
+94,Tony Abbott.,Tony Abbott,0.0009510517120361,0.6520118713378906,0.969413995742798,1.0,1.0,Who was Turnbull elected to replace?,1
+95,4GL provides ways to obtain information without requiring the direct help of a programmer.,provides ways to obtain information without requiring the direct help of a programmer,0.0009520053863525,1.228977918624878,0.6073497533798218,0.962962962962963,0.962962962962963,What is the pro of 4GL over a 3G language?,1
+96,The University of Pennsylvania.,University of Pennsylvania,0.0009753704071044,0.7289555072784424,0.9653996229171752,0.8571428571428571,0.8571428571428571,Where was ENIAC located?,1
+97,John Howard and Paul Keating.,former Treasurer John Howard competing with former Foreign Minister Andrew Peacock,0.000967264175415,0.8154966831207275,0.4524774849414825,0.25,0.25,Which two title holders fought for political power in the early 1990s?,0
+98,Firmware.,"firmware,",0.0009381771087646,0.6048057079315186,0.9504395723342896,1.0,1.0,Software stored in ROM is called what usually?,1
+99,An interpreter.,an interpreter,0.000953197479248,0.6558208465576172,0.955042839050293,1.0,1.0,Programming languages are translated at run time by what?,1
+100,1833,1833,0.0009806156158447,0.6442511081695557,0.9999998807907104,1.0,1.0,When was the New Hampshire Baptist Confession of Faith created?,1
+101,Intel 4004.,Intel 4004,0.0009489059448242,0.7311620712280273,0.9732100963592528,1.0,1.0,What was the name of the first single-chip microprocessor?,1
+102,Uniform Resource Locator.,Uniform Resource Identifier,0.0009489059448242,0.6936876773834229,0.7462499141693115,0.6666666666666666,0.6666666666666666,What does URL mean?,0
+103,Marc Andreessen released Mosaic in 1993.,Marc Andreessen,0.0009341239929199,0.9784090518951416,0.6012257933616638,0.5,0.5,Who released Mosaic?,1
+104,The Victoria University of Manchester.,Victoria University of Manchester,0.000962495803833,0.7752377986907959,0.9743302464485168,0.888888888888889,0.888888888888889,Where was the Manchester Small-Scale Experimental Machine built?,1
+105,The electronics division of the Atomic Energy Research Establishment at Harwell.,electronics division of the Atomic Energy Research Establishment at Harwell,0.0009443759918212,1.052114725112915,0.9918073415756226,0.9523809523809524,0.9523809523809524,Who built the Harwell CADET?,1
+106,Kythera and Crete.,Kythera and Crete,0.0009524822235107,0.8149433135986328,0.9870675206184388,1.0,1.0,Where is the Greek Island of Antikythera located between?,1
+107,The British at Bletchley Park.,", the British",0.0009875297546386,0.9009416103363036,0.4846366345882416,0.5714285714285715,0.5714285714285715,Who achieved success at cracking secret German military communications during World War II?,1
+108,1939.,1939,0.0009469985961914,0.6910948753356934,0.9678189158439636,1.0,1.0,When did World War II start?,1
+109,Geoffrey W.A. Dummer.,Geoffrey W.A. Dummer,0.0009365081787109,0.8118033409118652,0.9875460863113404,1.0,1.0,The integrated circuit of a computer was the idea of whom?,1
+110,The 1950s.,the 1950s,0.0009567737579345,0.7740540504455566,0.9819705486297609,1.0,1.0,When did laws stop banning marriage between whites and asians?,1
+111,237 million.,237 million devices,0.0009377002716064,0.6943676471710205,0.6562754511833191,0.8,0.8,How many tablets were sold in 2Q 2013?,1
+112,Money.,sums of money,0.0009975433349609,0.6145305633544922,0.3862265944480896,0.5,0.5,A checkered cloth on a table was used in medieval Europe to help count what?,1
+113,web feed aggregator.,feed aggregator,0.000941514968872,0.6946589946746826,0.8633928894996643,0.8,0.8,The top browsers have a built-in what?,1
+114,Programs.,programs,0.0009593963623046,0.6089129447937012,0.90436053276062,1.0,1.0,The ability to store and execute lists of instructions are called what?,1
+115,microsequencer,microsequencer,0.0009620189666748,0.6560590267181396,1.0000001192092896,1.0,1.0,In some CPU designs there is tinier computer called what?,1
+116,The Howard Government.,The Howard Government,0.0009856224060058,0.6977803707122803,0.9824930429458618,1.0,1.0,Which government supported the US's war Afghanistan and Iraq?,1
+117,Decoding.,(decodes,0.0009651184082031,0.6578047275543213,0.6657875776290894,1.0,1.0,Reading and interpreting from a control unit is called doing what?,1
+118,The Arithmetic Logic Unit (ALU).,the ALU,0.0009593963623046,0.8581578731536865,0.5273767113685608,0.5714285714285715,0.5714285714285715,In what part can the program counter be changed by calculations?,1
+119,The planisphere and dioptra.,the planisphere and dioptra,0.0009574890136718,0.8508529663085938,0.9820477366447448,1.0,1.0,The astrolabe was a combination of what two devices in history?,1
+120,"The Antikythera mechanism was found in the Antikythera wreck off the Greek island of Antikythera, between Kythera and Crete.",Antikythera wreck off the Greek island of Antikythera,0.0009417533874511,1.852017164230347,0.883983850479126,0.5925925925925926,0.5925925925925926,Where was the Antikythera mechanism found in 1901?,1
+121,Registers.,registers,0.0009503364562988,0.6067323684692383,0.9450258612632751,1.0,1.0,RAM cache memory is slower than what?,1
+122,South East Asia Collective Defence Treaty Organization,South East Asia Collective Defence Treaty,0.000955581665039,0.814744234085083,0.9552792310714722,0.923076923076923,0.923076923076923,What does the acronym SEATO stand for?,0
+123,Robert Menzies.,Menzies,0.0009629726409912,0.7320935726165771,0.7539408206939697,0.6666666666666666,0.6666666666666666,Which politician purposely created strong state divisions to a weaker national party?,1
+124,1971,1971,0.0009815692901611,0.65480637550354,1.0,1.0,1.0,In what year was the Taragaon Museum built?,1
+125,Lord Kelvin.,Lord Kelvin,0.0009651184082031,0.6453032493591309,0.983427345752716,1.0,1.0,James Thomson was the brother of what famous figure?,1
+126,Analog computers remain in use in education (control systems) and aircraft (slide rule).,education (control systems) and aircraft (slide rule).,0.0009667873382568,1.217205286026001,0.5626708269119263,0.7000000000000001,0.7000000000000001,Analog computers remain in use in what industries?,1
+127,January 2003.,January 2003,0.0009357929229736,0.7358999252319336,0.9754822254180908,1.0,1.0,When was the first beta release for Safari?,1
+128,Microprocessors.,a microprocessor,0.0009500980377197,0.6557900905609131,0.8391363620758057,0.6666666666666666,0.6666666666666666,CPUs that are constructed on a single integrated circuit are called what?,1
+129,Publicly owned.,publicly,0.0009608268737792,0.6907494068145752,0.7138829231262207,0.6666666666666666,0.6666666666666666,Were utilities publically or privately owned in Menzie's economy?,1
+130,Kurt Gödel.,Kurt Gödel,0.0010175704956054,0.6948873996734619,0.984581708908081,1.0,1.0,In 1930 who gave a strongly negative answer to Von Neuman's approach to the axiomatic system of theory of sets?,1
+131,Mac.,Mac,0.0009436607360839,0.6119444370269775,0.9356533288955688,1.0,1.0,What other OS could use Internet Explorer?,1
+132,21 June 1948.,21 June 1948,0.0009524822235107,0.8142712116241455,0.9881856441497804,1.0,1.0,When did the Manchester Small-Scale Experimental Machine run its first program?,1
+133,Six.,six,0.0009574890136718,0.6087296009063721,0.9331915378570556,1.0,1.0,How many periods of geology are within the Paleozoic era?,1
+134,1990.,1990,0.0009200572967529,0.6928091049194336,0.9542157053947448,1.0,1.0,"When did ""Awakenings"" come out?",1
+135,Flash applications and Java applets.,Flash applications and Java applets,0.0009405612945556,0.8117144107818604,0.9652441143989564,1.0,1.0,Browsers typically have plug-ins to support what?,1
+136,San Francisco.,San Francisco,0.0009336471557617,0.6495590209960938,0.967161238193512,1.0,1.0,Where did Chen live in 2005?,1
+137,"Robert Menzies became Prime Minister after Joseph Lyons' death in 1939, on the eve of war.",Lyons' death in 1939,0.0009868144989013,1.4546232223510742,0.6648157835006714,0.4,0.4,What event caused Robert Menzies to become Prime Minister?,1
+138,World War II.,World War II,0.0009698867797851,0.6919405460357666,0.9605373740196228,1.0,1.0,The dead of what war were the first to be commemorated by the Virginia War Memorial?,1
+139,Instructions that are repeated by the computer.,instructions that are repeated by the computer),0.0009684562683105,0.8568065166473389,0.9643733501434326,1.0,1.0,Loops are defined as what?,1
+140,"Frederic C. Williams, Tom Kilburn, and Geoff Tootill.","Frederic C. Williams, Tom Kilburn and Geoff Tootill",0.0009574890136718,1.1743841171264648,0.9790962338447572,1.0,1.0,Who built the Manchester Small-Scale Experimental Machine?,1
+141,Harvard Mark II.,Harvard Mark II,0.0009591579437255,0.6939716339111328,0.9794873595237732,1.0,1.0,What type of computer of Grace Hopper's was shorted by a moth?,1
+142,1953.,1953,0.0009434223175048,0.6920676231384277,0.9732455015182496,1.0,1.0,In what year did Joseph McCarthy declare that the federal government was employing communists?,1
+143,The program counter.,which location in memory the next instruction is to be read from,0.0009322166442871,0.6954605579376221,0.3717216551303863,0.1333333333333333,0.1333333333333333,A register of a CPU keeps track of what?,1
+144,Output devices.,output devices,0.0009546279907226,0.6468808650970459,0.9429815411567688,1.0,1.0,Where is the data from input devices sent to after being processed?,0
+145,Dr Brendan Nelson was elected leader of the Parliamentary Liberal Party after the 2007 Federal Election.,Dr Brendan Nelson,0.000964879989624,1.2926757335662842,0.6488003730773926,0.3157894736842105,0.3157894736842105,Who was elected to the Parliamentary Liberal Party after the 2007 Federal Election?,1
+146,A Universal Machine is known as a Universal Turing Machine.,Universal Turing machine,0.0009407997131347,0.9700555801391602,0.8919777870178223,0.4615384615384615,0.4615384615384615,A Universal Machine is known as what today?,1
+147,The Liberal and National parties merged in Queensland in 2008 to form the Liberal National Party of Queensland.,the Liberal and National parties,0.0009596347808837,1.3809828758239746,0.5529115796089172,0.4347826086956522,0.4347826086956522,Which parties merged in Queensland in 2008 to form the new Liberal National Party of Queensland?,1
+148,Slow input/output devices.,input/output devices,0.0009493827819824,0.7301185131072998,0.5777777433395386,0.8571428571428571,0.8571428571428571,What do a lot of programs spend time waiting for?,1
+149,MIT.,MIT,0.0009365081787109,0.6084854602813721,0.9668267369270324,1.0,1.0,Where was the differential analyzer built by H.L. Hazen?,1
+150,ENIAC (Electronic Numerical Integrator and Computer),ENIAC,0.0009806156158447,1.0176663398742676,0.6514984369277954,0.2857142857142857,0.2857142857142857,On what computer was the first numerical weather forecast produced?,1
+151,The European Commission.,the European Commission,0.0009515285491943,0.6885707378387451,0.9808425903320312,1.0,1.0,Who investigated the bundling of the IE browser with Windows OS?,1
+152,1951.,1951,0.0009257793426513,0.6898312568664551,0.9644289016723632,1.0,1.0,When was the Puerto Rican constitution written?,1
+153,The Internet.,the Internet.,0.0009472370147705,0.6426689624786377,1.000000238418579,1.0,1.0,The network spread to be known as what today?,1
+154,John Mauchly and J. Presper Eckert at the University of Pennsylvania.,John Mauchly and J. Presper Eckert,0.0009224414825439,1.2164433002471924,0.8397213220596313,0.7058823529411764,0.7058823529411764,ENIAC was constructed by whom?,1
+155,Aviation.,Aviation,0.0009400844573974,0.6094110012054443,0.9570302963256836,1.0,1.0,What industry are slide rules still used today?,1
+156,The Manchester Small-Scale Experimental Machine (Baby) was the world's first stored-program computer.,The Manchester Small-Scale Experimental Machine,0.0009427070617675,1.2975265979766846,0.6065348386764526,0.5714285714285715,0.5714285714285715,What was the first stored-program computer in the world?,1
+157,"Albury, New South Wales.","Albury, New South Wales",0.0009574890136718,0.8121209144592285,0.9793787002563475,1.0,1.0,Where was the second anti-Labor Party held in 1944?,1
+158,Netscape.,Netscape,0.0009770393371582,0.6481165885925293,0.9552396535873412,1.0,1.0,"When Andreessen left the company he worked for, what new company did he start?",1
+159,Robert Menzies.,Robert Menzies,0.0009570121765136,0.7335987091064453,0.9892230033874512,1.0,1.0,Who founded Australia's liberal party?,1
+160,Software.,Software,0.0009710788726806,0.6090471744537354,0.8748559951782227,1.0,1.0,Parts of a computer that are not material objects are collectively known as what?,1
+161,Supercomputer.,Supercomputers,0.0009670257568359,0.6598019599914551,0.9302815794944764,1.0,1.0,What is the name of a computer that has many CPUs and much more powerful?,1
+162,September 2008.,September 2008,0.0009210109710693,0.7347488403320312,0.9754329919815063,1.0,1.0,When was Smartzone rolled out to customers?,1
+163,Internet Relay Chat.,Internet Relay Chat,0.0009284019470214,0.6874189376831055,0.904969334602356,1.0,1.0,What does IRC stand for?,1
+164,The Aboriginal Land Rights Act 1976.,Aboriginal Land Rights Act 1976,0.0009779930114746,0.899512767791748,0.983242392539978,0.9090909090909092,0.9090909090909092,Which document allowed Indigenous peoples the right to some traditional lands?,1
+165,"The parliamentary parties make party policy, with some influence from Liberal party members.","almost entirely by the parliamentary parties, not by the party's rank-and-file members",0.0009386539459228,1.1352393627166748,0.588667631149292,0.3571428571428571,0.3571428571428571,Who makes party policy?,0
+166,Hypertext Transfer Protocol.,Hypertext Transfer Protocol,0.0009324550628662,0.7247583866119385,0.9827873706817628,1.0,1.0,What does http stand for?,1
+167,1938.,1938,0.0009541511535644,0.6922962665557861,0.9626467227935792,1.0,1.0,When was 'The War of the Worlds' radio broadcast?,1
+168,Menzies committed troops to the Korean War and attempted to ban the Communist Party of Australia in an unsuccessful referendum.,committed troops to the Korean War and attempted to ban the Communist Party of Australia in an unsuccessful referendum during the course of that war,0.0009560585021972,1.4628193378448486,0.8168158531188965,0.8444444444444444,0.8444444444444444,What actions showed Menzies' anti-Communist beliefs?,1
+169,open source software model.,open source software model,0.0009429454803466,0.7389781475067139,0.9732801914215088,1.0,1.0,Netscape wanted to have a competitive browser using what?,1
+170,Robert Menzies founded the Liberal Party of Australia in 1945.,Robert Menzies,0.0009362697601318,1.1406044960021973,0.6052122116088867,0.3333333333333333,0.3333333333333333,Who founded Australia's liberal party?,1
+171,Hardware.,hardware,0.0009379386901855,0.6072874069213867,0.8900453448295593,1.0,1.0,Have reviews praised the PS3's hardware of software more frequently?,1
+172,1945,1945,0.0009775161743164,0.6537153720855713,1.0000001192092896,1.0,1.0,In what year was the OSS dissolved?,1
+173,"The first commercially available computer for the public was the UNIVAC I, released in 1951.",Ferranti Mark 1,0.0009386539459228,1.369297742843628,0.1158739179372787,0.0,0.0,What was the first available computer for the public?,0
+174,Sir William Thomson.,Sir William Thomson,0.0009617805480957,0.6858904361724854,0.9806662797927856,1.0,1.0,Who invented the first analog computer in the form of a tide-predicting machine?,1
+175,1901.,1901,0.0009524822235107,0.6857950687408447,0.963381290435791,1.0,1.0,What year did they win the cup? ,1
+176,Superscalar computers.,Superscalar,0.0009629726409912,0.7351641654968262,0.7386289238929749,0.6666666666666666,0.6666666666666666,Computers that have multiple ALUs are called what?,1
+177,Neville Bonner was chosen by the Liberal Party to fill a Senate vacancy in 1971.,chosen by the Liberal Party to fill a Senate vacancy in 1971,0.0009567737579345,1.3085980415344238,0.7082133293151855,0.888888888888889,0.888888888888889,How was Bonner appointed his position?,1
+178,Asia.,Asia,0.0009605884552001,0.6095027923583984,0.9424371719360352,1.0,1.0,Which continent was India colliding with in the Miocene?,1
+179,The Post Office Research Station in London.,Post Office Research Station,0.0009567737579345,0.8564679622650146,0.87813401222229,0.7272727272727273,0.7272727272727273,Where did the engineer Tommy Flowers work at during the 1930s?,1
+180,browser usage share.,current security vulnerabilities,0.00093674659729,0.6866116523742676,0.152950257062912,0.0,0.0,A comparison of browser must be seen to know what?,0
+181,The Liberal Party of Australia considers itself anti-socialist.,anti-socialist,0.0009667873382568,0.9765563011169434,0.7415024042129517,0.3636363636363636,0.3636363636363636,Does the Liberal Party of Australia consider itself socialist or anti-socialist?,1
+182,"Clay spheres, cones, etc. that represented counts of items, probably livestock or grains.","(clay spheres, cones, etc.)",0.0009305477142333,1.2494804859161377,0.755207359790802,0.4705882352941176,0.4705882352941176,Calculi during the Fertile Crescent refers to what?,1
+183,"The doll is at the Musée d'Art et d'Histoire of Neuchâtel, Switzerland.",Musée d'Art et d'Histoire,0.0009641647338867,1.4585604667663574,0.5625258684158325,0.6086956521739131,0.6086956521739131,Where is the doll Pierre Jaquet-Droz built today?,1
+184,traditional.,traditional,0.0009317398071289,0.607612133026123,0.9540378451347352,1.0,1.0,What liturgical forms in Anglicanism were considered unacceptable by many progressive Protestants?,1
+185,"Henry Babbage, the son of Charles Babbage.",Henry Babbage,0.0009541511535644,0.974271297454834,0.8677142262458801,0.4444444444444445,0.4444444444444445,Who created a simple version of the analytical engine's computing unit?,1
+186,"A browser can be used on various platforms, including Windows, Mac, and mobile devices.",World Wide Web,0.0009212493896484,1.251492977142334,0.3904721736907959,0.0,0.0,What platform is a browser used on?,0
+187,A PDA or a hand-held videogame.,a PDA or a hand-held videogame,0.0009338855743408,0.9375219345092772,0.9751986861228944,1.0,1.0,An ARM architecture computer can be found in what?,1
+188,File Transfer Protocol.,File Transfer Protocol,0.0009562969207763,0.6912176609039307,0.9627035856246948,1.0,1.0,What does ftp stand for?,1
+189,256.,256 different numbers,0.0009582042694091,0.6534423828125,0.6441835761070251,0.5,0.5,How many numbers can a byte represent?,1
+190,"""Bugs""","""bugs",0.00093674659729,0.698620080947876,0.8834859728813171,1.0,1.0,Another name for errors in programs are called what?,1
+191,Iowa State University.,Iowa State University,0.0009582042694091,0.6863939762115479,0.9789471626281738,1.0,1.0,At what school did John Vincent Atansoff and Clifford E. Berry work?,1
+192,1872.,1872,0.0009760856628417,0.6893210411071777,0.96599942445755,1.0,1.0,How long has the FA Cup been contested?,1
+193,Vannevar Bush.,Vannevar Bush,0.000955581665039,0.726595401763916,0.9795928597450256,1.0,1.0,"In the 1920s, who was the person who developed mechanical differential analyzers?",1
+194,The University of Manchester.,University of Manchester,0.0009524822235107,0.7322731018066406,0.972412884235382,0.8571428571428571,0.8571428571428571,Where was the Ferranti Mark 1 sent to after it was developed?,1
+195,"Howard supported the monarchy and traditional Australian institutions, whereas Keating did not.","he supported traditional Australian institutions like the Monarchy in Australia, the commemoration of ANZAC Day and the design of the Australian flag",0.0009388923645019,1.1184351444244385,0.5177726745605469,0.4117647058823529,0.2941176470588235,How was Howard different from Paul Keating?,1
+196,1500.,1500 thermionic valves (tubes),0.0009384155273437,0.6920375823974609,0.3335951864719391,0.4,0.4,How many vacuum tubes did the Colossus Mark I contain?,1
+197,To bring information resources to the user.,the World Wide Web,0.0009303092956542,0.8572206497192383,0.3352589309215545,0.1818181818181818,0.1818181818181818,The primary function of a browser is to use what?,0
+198,May 2012.,May 2012,0.000943899154663,0.7284502983093262,0.967382311820984,1.0,1.0,When did the Chelsea Football Club win the UEFA Champions League title?,1
+199,The CPU.,The CPU,0.0009512901306152,0.6546478271484375,0.956814169883728,1.0,1.0,What part of the computer has memory cells called registers?,1
+200,"November 11, 1975.",11 November 1975,0.0009479522705078,0.8607113361358643,0.9576552510261536,1.0,0.6666666666666666,On what day did the 1975 constitutional crisis deadlock end?,1
+201,1993.,1993,0.0009112358093261,0.6930956840515137,0.9678646326065063,1.0,1.0,When did Nadelmann write about global policing?,1
+202,Menzies and Malcolm Fraser generally maintained Australia's high tariff levels.,generally maintain,0.0009727478027343,1.104886770248413,0.1435441374778747,0.3076923076923077,0.3076923076923077,"Did Mezies and Malcom Fraser raise, mainain, or lower tariff levels?",1
+203,Personal Computer.,personal computers,0.0009372234344482,0.6382560729980469,0.8514936566352844,1.0,1.0,"In computer terms, what does PC stand for?",1
+204,Hipparchus.,Hipparchus,0.0009803771972656,0.6921789646148682,0.982247233390808,1.0,1.0,Whose work did Al-Battani improve?,1
+205,Malcolm Turnbull.,Malcolm Turnbull,0.0009472370147705,0.6512799263000488,0.9804420471191406,1.0,1.0,Who is the Australian Liberal Party's leader?,0
+206,Input/output device.,input and output,0.0009443759918212,0.6955299377441406,0.7309911251068115,0.6666666666666666,0.6666666666666666,Hard disk drives are what type of peripheral device?,1
+207,Charles Babbage.,Admiral Grace Hopper,0.0009346008300781,0.6940829753875732,0.3660008311271667,0.0,0.0,"Who first coined the term ""bugs""?",0
+208,on.,on,0.0009522438049316,0.6194324493408203,0.8455936908721924,1.0,1.0,What position is the switch in when saturated?,1
+209,5-10 Hz.,about 5–10 Hz,0.0009605884552001,0.7787976264953613,0.9015355706214904,0.8571428571428571,0.8571428571428571,What did the Z3 operate for a clock frequency?,1
+210,Favorites.,Favorites,0.0009372234344482,0.6089684963226318,0.8878955245018005,1.0,1.0,"What are ""bookmarks"" called in Internet Explorer?",1
+211,Most browsers.,Most browsers,0.0009231567382812,0.653846263885498,0.9500498175621032,1.0,1.0,HTTP Secure is supported by what?,1
+212,HTML and XHTML.,HTML and XHTML,0.000941514968872,0.6923706531524658,0.9363666772842408,1.0,1.0,Modern browser support standards-based and defacto what?,1
+213,Firmware.,firmware,0.0009431838989257,0.6064894199371338,0.9273015260696412,1.0,1.0,Software stored in hardware that cannot be changed easily is called what?,1
+214,A checkered cloth.,a checkered cloth,0.0009543895721435,0.7319636344909668,0.981481909751892,1.0,1.0,In medieval Europe was was placed on a table to help count money?,1
+215,Machine language.,basic instruction can be given a short name that is indicative of its function,0.0009417533874511,0.6499435901641846,0.3731643855571747,0.0,0.0,A computer's assembly language is known as what?,0
+216,Baby.,Baby,0.0010526180267333,0.6133301258087158,0.8086581230163574,1.0,1.0,What was the nickname of the Manchester Small-Scale Experimental Machine?,1
+217,Opposed to the Australian Labor Party.,opposed,0.0009684562683105,0.859931230545044,0.4176771640777588,0.2857142857142857,0.2857142857142857,What was Eisenhower's position on the use of nuclear weapons against Japan?,0
+218,"more slowly, in direct proportion to the number of programs it is running.","more slowly,",0.0009419918060302,1.1369950771331787,0.4767727851867676,0.2666666666666667,0.2666666666666667,Multitasking would seemingly cause a computer to run in what fashion?,1
+219,"The Liberal National Party of Queensland, led by Campbell Newman.",the new Liberal National Party of Queensland,0.0009589195251464,1.0128366947174072,0.7902238965034485,0.7058823529411764,0.7058823529411764,"In March 2012, which party won by an historic landslide?",1
+220,Admiral Grace Hopper.,Admiral Grace Hopper,0.0009515285491943,0.7352488040924072,0.982528269290924,1.0,1.0,"Who first coined the term ""bugs""?",1
+221,A web browser.,Web browsers,0.001000165939331,0.6934835910797119,0.7486026287078857,0.8,0.8,"A user interface, UI backend, layout engine and other things are part of what?",1
+222,The Manchester Mark 1.,The Mark 1,0.0009224414825439,0.7747476100921631,0.6962665319442749,0.8571428571428571,0.8571428571428571,What was the prototype for the Ferranti Mark 1?,1
+223,"Sine, cosine, etc.","sine, cosine,",0.0009357929229736,0.8172681331634521,0.8262888193130493,0.8,0.8,Some trigonometry functions are what?,1
+224,Integers.,(integers,0.0009348392486572,0.6405537128448486,0.8225274085998535,1.0,1.0,The term for whole numbers is what?,1
+225,Alan Turing.,Alan Turing,0.0009386539459228,0.650583028793335,0.9756528735160828,1.0,1.0,With whom did von Neumann work on the philosophy of artificial intelligence?,1
+226,Millions to billions of times more capable.,millions to billions of times,0.0009546279907226,0.8458607196807861,0.6793228387832642,0.8333333333333333,0.8333333333333333,How much more powerful are modern computers versus early computers?,1
+227,Smartphones.,smartphones,0.0009589195251464,0.6520466804504395,0.8872109055519104,1.0,1.0,Computing resources that are created in cell phones are called what?,0
+228,Safari.,Safari,0.0009441375732421,0.6092150211334229,0.9113743901252748,1.0,1.0,What browser was automatically included with OS X?,1
+229,The United States and Britain.,United States and Britain,0.0009601116180419,0.7782502174377441,0.9315647482872008,0.888888888888889,0.888888888888889,Which countries did Gorton maintain close relationships with?,1
+230,Registers.,ROM,0.0009639263153076,0.6119060516357422,0.283848375082016,0.0,0.0,What type of memory is always kept and kept the same?,0
+231,Howard and Keating were similar in that they both pursued privatisation of public utilities and the introduction of a broad-based consumption tax (GST).,pursued privatisation of public utilities and the introduction of a broad based consumption tax,0.0009310245513916,1.6423165798187256,0.6460639834403992,0.7368421052631579,0.7368421052631579,In what ways was Howard similar to Paul Keating?,1
+232,Valves.,valves,0.0009431838989257,0.6492102146148682,0.9567110538482666,1.0,1.0,What did the machine use to generate its clock waveforms?,1
+233,default newsgroup reader.,default newsgroup reader,0.0009088516235351,0.7693603038787842,0.9463518857955932,1.0,1.0,A news: prefix is given to the user's what?,1
+234,Alan Turing.,Alan Turing,0.0009410381317138,0.6512012481689453,0.9756528735160828,1.0,1.0,With whom did von Neumann work on the philosophy of artificial intelligence?,1
+235,ROM (Read-Only Memory),ROM,0.0009369850158691,0.8093833923339844,0.5895481109619141,0.4,0.4,What type of memory is always kept and kept the same?,1
+236,Assemblers.,an assembler.,0.0009617805480957,0.6927602291107178,0.8424476385116577,0.6666666666666666,0.6666666666666666,Programs that convert assembly language into machine language are called what?,1
+237,Output device.,output,0.0009174346923828,0.6478955745697021,0.6606447696685791,0.6666666666666666,0.6666666666666666,A printer is what type of peripheral device?,1
+238,Julie Bishop.,Julie Bishop,0.0009374618530273,0.6542763710021973,0.9805810451507568,1.0,1.0,Who is the Australian Party's deputy leader?,1
+239,The Abbott Government.,the Abbott Government,0.0009338855743408,0.6901087760925293,0.9809421300888062,1.0,1.0,What was the former name of the Turnbull Government?,1
+240,Sir William Thomson.,Sir William Thomson,0.0009608268737792,0.6908979415893555,0.9806662797927856,1.0,1.0,Who invented the first analog computer in the form of a tide-predicting machine?,1
+241,Electronic Numerical Integrator and Computer.,Electronic Numerical Integrator and Computer),0.0009419918060302,0.8481850624084473,0.9937145709991456,1.0,1.0,The US-buils ENIAC stands for what?,1
+242,Konrad Zuse.,Konrad Zuse,0.0009384155273437,0.7308714389801025,0.979894518852234,1.0,1.0,"Who created the relay computer, the Z2?",1
+243,The Gorton Government.,The Gorton Government,0.0009622573852539,0.7380735874176025,0.9865262508392334,1.0,1.0,Which government established equal pay for men and women?,1
+244,Germanium.,germanium,0.0009107589721679,0.6472461223602295,0.9652519822120668,1.0,1.0,What were gold contacts attached to to increase signal output?,1
+245,1968-1970.,1968 election to the 1970 election,0.000962495803833,0.8128383159637451,0.6603118777275085,0.5,0.5,During what years did the dismantling of the Playmander begin?,1
+246,off,off,0.0009503364562988,0.5753326416015625,1.0,1.0,1.0,"In positive logic representation a ""0"" represents when a circuit is what?",1
+247,1945.,1945.,0.0009963512420654,0.6934976577758789,1.0,1.0,1.0,The first outline for the report on the EDVAC was released by John von Neumann when?,1
+248,Malcolm Fraser.,Defence Minister Malcolm Fraser,0.0009808540344238,0.6571297645568848,0.8419960737228394,0.6666666666666666,0.6666666666666666,Who commented that Gorton was not fit to be Prime Minister?,1
+249,April 1951.,April 1951,0.0009200572967529,0.735605001449585,0.9722017049789428,1.0,1.0,When was the LEO 1 computer first operational?,1
+250,The Church–Turing thesis.,The Church–Turing thesis,0.0009455680847167,0.8115630149841309,0.995945930480957,1.0,1.0,The mathematical statement of computers versatility is known as what?,1
+251,Nintendo's Wii.,Nintendo's Wii,0.0009505748748779,0.6930117607116699,0.9368784427642822,1.0,1.0,Opera is also available on which video game console?,1
+252,Charles Babbage.,Charles Babbage,0.0009405612945556,0.6868574619293213,0.9855143427848816,1.0,1.0,"Who is considered the ""father of the computer""?",1
+253,11.4%,11.4%,0.000925064086914,0.7165944576263428,1.0,1.0,1.0,What was the Australian unemployment rate in 1992?,1
+254,Harvard architecture.,the Harvard architecture,0.0009727478027343,0.651644229888916,0.9505977034568788,0.8,0.8,A computer that stores its program in memory and kept separate from the data is called what?,1
+255,"The main use of a browser is to retrieve, present, and traverse information resources on the World Wide Web.",to bring information resources to the user,0.0009264945983886,1.4243972301483154,0.4580766260623932,0.3076923076923077,0.3076923076923077,What is the main use of a browser?,1
+256,"The ANZUS Treaty between Australia, New Zealand, and the United States.",ANZUS Treaty,0.0009717941284179,1.1735000610351562,0.8356218338012695,0.3076923076923077,0.3076923076923077,Which treaty was Australia's first military alliance outside of the British Commonwealth?,1
+257,"The name ""Liberal"" was taken in honor of the old Commonwealth Liberal Party.",in honour of the old Commonwealth Liberal Party,0.0009458065032958,1.2084519863128662,0.8365933299064636,0.6666666666666667,0.6666666666666667,"Where did the name ""Liberal"" come from?",1
+258,Compiler or assembler.,a compiler or an assembler,0.00093674659729,0.694774866104126,0.8948050737380981,0.7499999999999999,0.7499999999999999,Programming languages are translated into machine code by what?,1
+259,Menzies was against nationalizing the banking system in Australia.,strongly against,0.0009443759918212,1.0621590614318848,0.2367158979177475,0.1818181818181818,0.1818181818181818,Was Menzies for or against nationalizing the banking system in Australia?,1
+260,A computer always has memory and a CPU.,"(CPU), and some form of memory",0.0009713172912597,0.8935012817382812,0.7061214447021484,0.4285714285714285,0.1428571428571428,What are two things that a computer always has?,1
+261,The Australian Democrats.,Australian Democrats,0.0009620189666748,0.6932263374328613,0.9385274648666382,0.8,0.8,Which party did Don Chipp seperate to form in 1977?,1
+262,A Uniform Resource Identifier (URI) or Uniform Resource Locator (URL).,Hyperlinks,0.000934362411499,1.0989699363708496,0.3714308142662048,0.0,0.0,What allows a person to direct their browser to a resource?,0
+263,Three consecutive elections.,three,0.0009517669677734,0.6777210235595703,0.4850555956363678,0.5,0.5,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?",0
+264,1995.,1995,0.0009222030639648,0.6889643669128418,0.9562497138977052,1.0,1.0,When did Sheptycki write about global policing?,1
+265,90%,90%,0.0009646415710449,0.6436972618103027,1.0,1.0,1.0,How much of Pakistan's paper products does Punjab manufacture?,1
+266,Integrated circuits.,integrated circuits,0.000962495803833,0.6512894630432129,0.9408880472183228,1.0,1.0,Computers in today's age are based on what that make them much faster than earlier computers?,1
+267,A tally stick.,a form of tally stick,0.0009212493896484,0.6864476203918457,0.9208607077598572,0.7499999999999999,0.7499999999999999,The earliest device to help count was what?,1
+268,Firmware.,the BIOS,0.0009171962738037,0.6055467128753662,0.4203379154205322,0.0,0.0,A progam inside the ROM of a PC is called what?,0
+269,The World Wide Web Consortium (W3C).,the World Wide Web Consortium,0.0009331703186035,0.9204959869384766,0.8933318853378296,0.9090909090909092,0.9090909090909092,What was Berners-Lee a director of?,1
+270,Arithmetic tasks.,arithmetic tasks,0.0009276866912841,0.6507899761199951,0.9688202142715454,1.0,1.0,What was the abacus first used for?,1
+271,Dame Enid Lyons.,Dame Enid Lyons,0.0009522438049316,0.7399806976318359,0.9880504608154296,1.0,1.0,Who was the first women to serve on the Australian Cabinet?,1
+272,The control unit and memory.,"the control unit, the memory",0.0009775161743164,0.7766683101654053,0.9655848741531372,0.8000000000000002,0.8000000000000002,"Besides the ALU, input and output devices, what are the other two main components of a computer?",1
+273,Firefox.,Chrome,0.0009396076202392,0.6092305183410645,0.6159131526947021,0.0,0.0,What other browser has Google as the default search engine?,0
+274,Silicon.,silicon,0.0009310245513916,0.6076219081878662,0.953633725643158,1.0,1.0,One other measure involved the molar volume of what element?,1
+275,Quantum computer.,quantum computers,0.0009534358978271,0.6496453285217285,0.9021809101104736,1.0,1.0,What type of computer can break encryption algorithms quickly?,1
+276,1620-1630.,1620–1630,0.0009379386901855,0.809497594833374,0.9806337356567384,1.0,1.0,When was the slide rule first invented?,1
+277,Texas Instruments and Fairchild Semiconductor.,Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor.,0.0009393692016601,0.8114967346191406,0.7444968223571777,0.625,0.625,Where created the first practical integrated circuits?,1
+278,A dead moth.,moth,0.0009601116180419,0.6902360916137695,0.8160625696182251,0.5,0.5,What type of creature shorted a relay of Grace Hopper's computer?,1
+279,1955,1955,0.0009441375732421,0.6504080295562744,0.9999999403953552,1.0,1.0,When did Tribhuvan die?,1
+280,The ANZUS treaty.,the ANZUS treaty,0.0009784698486328,0.7680597305297852,0.9900646209716796,1.0,1.0,Under what agreement did the Australian government support the US?,1
+281,"Internet Explorer was partially funded by the sales of Windows to computer manufacturers and direct to users, and by Microsoft's operating system sales.",sales of Windows to computer manufacturers and direct to users,0.0009758472442626,1.577690601348877,0.6043193936347961,0.5882352941176471,0.5882352941176471,Internet Explorer was partially funded in what two ways?,0
+282,"Franklin D. Roosevelt's ""fireside chats"".","Franklin D. Roosevelt's ""fireside chats""",0.0009505748748779,0.9346985816955566,0.9557527899742126,1.0,1.0,"To what are Menzies' ""Forgotten People"" radio talks compared to?",1
+283,1970.,end of 1970,0.00095796585083,0.6960265636444092,0.8312503695487976,0.5,0.5,What year did the Gorton Government stop replacing troups in Vietnam?,1
+284,Peripherals.,I/O,0.0009462833404541,0.6487288475036621,0.1739624142646789,0.0,0.0,Input and output devices are known as what term?,0
+285,The 19th century.,19th century,0.000972032546997,0.7718064785003662,0.9499816298484802,0.8,0.8,When do hunting regulations date from in the US?,1
+286,The government under Harold Holt experienced the conversion to decimal currency.,Holt,0.0009818077087402,1.0281853675842283,0.3379260897636413,0.1666666666666666,0.1666666666666666,Government under whom experienced the conversion to decimal currency?,1
+287,The Immigration Act's entry permit system reflected economic and skills criteria.,economic and skills criteria,0.0009357929229736,1.0600976943969729,0.5262160301208496,0.5,0.5,What did the Immigration Act's entry permit system include?,1
+288,Since the mid-1970s.,mid-1970s,0.0009913444519042,0.8569493293762207,0.7753178477287292,0.6666666666666666,0.6666666666666666,When were DBX recordings released?,1
+289,Holt's increased Australian commitment to the growing War in Vietnam received some public opposition.,commitment to the growing War in Vietnam,0.0009670257568359,1.1799893379211426,0.6377924680709839,0.6363636363636364,0.6363636363636364,Which of Holt's stances received some public opposition?,1
+290,New Right.,New Right,0.000946044921875,0.651484489440918,0.9452158808708192,1.0,1.0,What is economic liberalism sometimes also referred to?,1
+291,The Antikythera mechanism.,The Antikythera mechanism,0.0009388923645019,0.8204643726348877,0.9826151728630066,1.0,1.0,What is thought to be the first mechanical analog computer?,1
+292,Sydney Town Hall on 31 August 1945.,Sydney Town Hall,0.0009529590606689,0.9796969890594482,0.7525167465209961,0.6,0.6,Where was the formation of the Liberal party officially announced?,1
+293,Ken Wyatt.,Ken Wyatt,0.0009539127349853,0.6516742706298828,0.9799987077713012,1.0,1.0,Who was the first indigenous Australian elected to the House?,1
+294,"The gridlock ended when the Governor-General, Sir John Kerr, dismissed the Whitlam government on November 11, 1975.","the Whitlam government was dismissed by the Governor-General, Sir John Kerr",0.0009412765502929,1.6187965869903564,0.8096088171005249,0.6666666666666667,0.4666666666666666,How did the gridlock between Whitlam and Fraser end?,1
+295,1872.,1872,0.0009853839874267,0.6878631114959717,0.96599942445755,1.0,1.0,How long has the FA Cup been contested?,1
+296,256 (2^8),a single number,0.0009465217590332,0.8119137287139893,0.3265753984451294,0.0,0.0,How many numbers can a cell of a computer's memory hold?,0
+297,Texas Instruments.,Texas Instruments,0.00095796585083,0.6475036144256592,0.9664025902748108,1.0,1.0,Who developed the technology for the digital cinema projection?,1
+298,"A web browser is commonly referred to as a ""browser"".",browser,0.0009424686431884,1.0203802585601809,0.7191126942634583,0.1818181818181818,0.1818181818181818,What do people typically call a web browser?,1
+299,"The prefix of the URL, specifically the Uniform Resource Identifier (URI).",The prefix of the URL,0.000934362411499,1.09025239944458,0.7796651124954224,0.625,0.625,What is the determining factor in how a URL will be interpreted?,1
+300,Pop-up blockers.,pop-up blockers,0.0009350776672363,0.6867599487304688,0.929760754108429,1.0,1.0,What does not allow windows to pop up without consent?,1
+301,Babylonia.,Babylonia,0.0009558200836181,0.6956849098205566,0.9782227873802184,1.0,1.0,Where did Jews migrate to after the Babylonian conquest?,1
+302,Charles Babbage.,Charles Babbage,0.000934362411499,0.6906912326812744,0.9855143427848816,1.0,1.0,"Who is considered the ""father of the computer""?",1
+303,1941.,1941,0.0009458065032958,0.6853549480438232,0.9722514152526855,1.0,1.0,When was Reza Shah forced to abdicate in Iran?,1
+304,Peripherals.,peripherals,0.0009536743164062,0.6452977657318115,0.9548763036727904,1.0,1.0,Devices that give input or output to a computer are called what?,1
+305,"An ""Internet suite"".",Internet suites,0.0009262561798095,0.7318270206451416,0.7135522961616516,0.8,0.8,"When a browser includes a lot of extras, it can be referred to as what?",1
+306,Colossus.,Colossus,0.0009548664093017,0.6931731700897217,0.980872631072998,1.0,1.0,What was the first electronic digital programmable computer in the world?,1
+307,32 years.,from the 1933 election to the 1965 election,0.000929832458496,0.6855041980743408,0.2064572870731353,0.0,0.0,How long was Tom Playford in political power?,1
+308,"Robert Menzies referred to the middle class as ""The forgotten people"".",the middle class,0.0009360313415527,1.1316838264465332,0.5466689467430115,0.4285714285714285,0.4285714285714285,"Whom are referred to as ""The forgoten people?""",1
+309,2400,2400,0.0009360313415527,0.6479947566986084,1.0000001192092896,1.0,1.0,How many tubes did Colossus Mark II contain?,1
+310,1955.,1955,0.0009446144104003,0.6893770694732666,0.9697723984718324,1.0,1.0,When did Tribhuvan die?,1
+311,Pierre Jaquet-Droz was a Swiss watchmaker.,a Swiss watchmaker,0.0009398460388183,0.963097333908081,0.7132169008255005,0.6,0.6,What was the profession of Pierre Jaquet-Droz?,1
+312,The formation of the anti-Communist Democratic Labor Party (DLP) and the consequent split in the Australian Labor Party.,the formation of the anti-Communist Democratic Labor Party (DLP) and the consequent split in the Australian Labor Party early in 1955,0.0009346008300781,1.574516773223877,0.9282869696617126,0.9268292682926828,0.9268292682926828,What helped the Liberals to victory in December 1955?,1
+313,The post-war boom period of the Menzies Government (1949–1966).,the post-war boom period of the Menzies Government (1949–1966),0.0009622573852539,1.249079942703247,0.9863394498825072,1.0,1.0,During what period did Australia experience long-term economic growth?,1
+314,The Great Depression.,the Great Depression,0.0009551048278808,0.6898250579833984,0.970684289932251,1.0,1.0,What economic event influenced the 1931 Election?,1
+315,Google pays Mozilla to make Google Search the default search engine in Firefox.,Google,0.0009322166442871,1.0986180305480957,0.2971422374248504,0.1428571428571428,0.1428571428571428,Youtube's financial records are not reported by who?,0
+316,The Country Party.,the Country Party,0.0009517669677734,0.6877713203430176,0.9790604710578918,1.0,1.0,"Which group is currently known as the ""National Party""?",1
+317,German.,German,0.0009570121765136,0.6062114238739014,0.9494163393974304,1.0,1.0,What was the origin of the second writing?,1
+318,Tom Kilburn.,Tom Kilburn,0.0009498596191406,0.6947517395019531,0.984233558177948,1.0,1.0,"At the University of Manchester, who oversaw the building of a computer using transistors instead of valves?",1
+319,Input device.,input,0.0009393692016601,0.6531567573547363,0.7279378175735474,0.6666666666666666,0.6666666666666666,Compression ratio depends on the sample rate and bit depth of which signal?,0
+320,Malcolm Fraser.,Fraser,0.0009472370147705,0.6491456031799316,0.8532076478004456,0.6666666666666666,0.6666666666666666,Who won the 1975 election by large margin?,1
+321,"Neuchâtel, Switzerland.","Neuchâtel, Switzerland",0.0009479522705078,0.8241357803344727,0.982132375240326,1.0,1.0,Where is the Musee d-Art et d'Histoire located?,1
+322,1942,1942,0.0009479522705078,0.6572530269622803,1.0,1.0,1.0,In what year did Japan establish a base in New Guinea?,1
+323,1936.,1936,0.0009727478027343,0.6974434852600098,0.9675049185752868,1.0,1.0,In what year was Studio Misr founded?,1
+324,"Ted Hoff, Federico Faggin, and Stanley Mazor at Intel.","Ted Hoff, Federico Faggin, and Stanley Mazor",0.0009398460388183,1.1843657493591309,0.8403803110122681,0.8750000000000001,0.8750000000000001,Who created the Intel 4004 microprocessor?,1
+325,The Nationalist Party of Australia.,Nationalist Party of Australia,0.0009350776672363,0.8118958473205566,0.9801442623138428,0.888888888888889,0.888888888888889,What did the Commonwealth Liberal Party merge to form?,1
+326,Input device.,input,0.0009183883666992,0.6484837532043457,0.7279378175735474,0.6666666666666666,0.6666666666666666,Compression ratio depends on the sample rate and bit depth of which signal?,1
+327,Rendering.,rendering,0.0009281635284423,0.6097371578216553,0.8774669766426086,1.0,1.0,What is it called when content is changed from markup to an interactive document?,1
+328,Firmware.,BIOS set up,0.000934362411499,0.6090571880340576,0.3222612738609314,0.0,0.0,What type of software is stored in a BIOS chip?,1
+329,Apple.,Apple,0.0009069442749023,0.6061642169952393,0.9395343661308287,1.0,1.0,"While Windows sales went down, which company experienced an increase in sales?",1
+330,Intel.,Intel.,0.0009465217590332,0.6103832721710205,1.0000001192092896,1.0,1.0,"Where did Ted Hoff, Federico Faggin, and Stanley Mazor work at?",1
+331,The Harvard Mark I computer.,Harvard Mark I computer,0.0009870529174804,0.7844488620758057,0.944177746772766,0.888888888888889,0.888888888888889,Which computer is the Harvard architecture modeled after?,1
+332,A computer.,a computer,0.000964879989624,0.6442897319793701,0.9754924774169922,1.0,1.0,All devices that can process information can qualify being called what?,1
+333,The software's responsibility.,the software's,0.0009515285491943,0.731738805770874,0.6752504110336304,0.8571428571428571,0.8571428571428571,What is the responsibility of giving significance to what the memory sees as nothing but numbers?,1
+334,The Young Liberals.,Young Liberals,0.0009388923645019,0.689307451248169,0.91996169090271,0.8,0.8,What was the name of the Liberal Party's youth division?,1
+335,The Labor Party divided over concerns about the influence of the Communist Party over the Trade Union movement.,"concerns about the influence of the Communist Party over the Trade Union movement,",0.00093674659729,1.3059396743774414,0.8604005575180054,0.8387096774193548,0.8387096774193548,Over what did the Labor party divide?,1
+336,1 vote.,42 votes to 41,0.0009346008300781,0.68888258934021,0.4356639385223388,0.3333333333333333,0.3333333333333333,How close was the race betwen Turnbull and Abbott in 2009?,1
+337,19th century.,early 19th century,0.0009534358978271,0.7365546226501465,0.9088597893714904,0.8,0.8,When did modern sociology surface?,1
+338,The late 16th century.,16th century,0.0009469985961914,0.8077366352081299,0.935722291469574,0.6666666666666666,0.6666666666666666,When did the Portuguese arrive in the Indian Ocean?,1
+339,A browser extension.,browser extension,0.000927448272705,0.6889476776123047,0.8328671455383301,0.8,0.8,A computer program that continues the functionality of a browser is called what?,1
+340,Machine language.,machine language,0.0009548664093017,0.6484873294830322,0.872757613658905,1.0,1.0,Computer programs that are long lists of numbers are called what?,1
+341,"A conservative liberal group that advocates market deregulation, privatisation of public utilities, reductions in government programs, and tax cuts.","a conservative liberal group who advocated market deregulation, privatisation of public utilities, reductions in the size of government programs and tax cuts",0.000946044921875,1.5357365608215332,0.9311280250549316,0.8780487804878049,0.8780487804878049,"What is the ""New Right""?",1
+342,"Sir Tim Berners-Lee invented the first web browser, called WorldWideWeb, in 1990.",Sir Tim Berners-Lee,0.0009281635284423,1.425776481628418,0.3532964587211609,0.4705882352941176,0.4705882352941176,Who invented the first browser?,1
+343,Neville Bonner,Neville Bonner,0.000960350036621,0.6477742195129395,1.0000001192092896,1.0,1.0,Who became the first indigenous Austrailian in Parliament?,1
+344,Hyperlinks.,hyperlinks,0.0009307861328125,0.6523146629333496,0.8709943294525146,1.0,1.0,What is an important element of the World Wide Web?,1
+345,Microsoft released the Internet Explorer browser in 1995.,Microsoft,0.0009198188781738,0.9752197265625,0.4638395011425018,0.2222222222222222,0.2222222222222222,Media Transfer Protocol was designed by who?,0
+346,A browser can also access files in private networks or file systems.,file systems,0.0009272098541259,1.0563335418701172,0.3973127603530884,0.2857142857142857,0.2857142857142857,A browser can also access files where?,1
+347,A register.,a register,0.0009417533874511,0.6467440128326416,0.9776880145072936,1.0,1.0,A special memory cell of a CPU is called what?,1
+348,2000 relays.,2000,0.0009350776672363,0.7695889472961426,0.5381476879119873,0.6666666666666666,0.6666666666666666,About how long has Kathmandu existed?,0
+349,Thousands.,thousands,0.0009527206420898,0.6158590316772461,0.9544610381126404,1.0,1.0,How many years of selective breeding did it take to domesticate maize?,1
+350,ARPA (now DARPA) funded the linking of computers in the 1970s.,ARPA,0.0009655952453613,1.3033640384674072,0.5532481670379639,0.1666666666666666,0.1666666666666666,Who funded the linking of computers around the US in the 1970s?,1
+351,Internet Explorer.,Internet Explorer,0.0009436607360839,0.6509592533111572,0.7528218030929565,1.0,1.0,What was bundled for free with the Windows OS?,1
+352,The United Australia Party (UAP) was the predecessor to the Liberal Party.,United Australia Party (UAP),0.0009193420410156,1.1613833904266355,0.8482189774513245,0.5,0.5,Which group was predecessor to the Liberals?,1
+353,1927,1927,0.001176118850708,0.6473355293273926,1.0,1.0,1.0,The Great Mississippi occurred during what year?,1
+354,23 years.,a record 23 years,0.0009677410125732,0.6934735774993896,0.7780311703681946,0.6666666666666666,0.6666666666666666,How many years did the Liberals stay in office after the 1949 election?,1
+355,The Gorton Government.,The Gorton Government,0.0009522438049316,0.7345900535583496,0.9865262508392334,1.0,1.0,Which government established equal pay for men and women?,1
+356,The CPU.,CPU,0.0009403228759765,0.6495096683502197,0.7796621322631836,0.6666666666666666,0.6666666666666666,Processing data from input and output devices is typically done by what?,1
+357,The slide rule is a hand-operated analog computer for doing multiplication and division.,doing multiplication and division.,0.0009243488311767,1.1821722984313965,0.4959810972213745,0.4444444444444445,0.4444444444444445,What is the slide rule used for?,1
+358,1613.,1613,0.000948429107666,0.697242259979248,0.9654380679130554,1.0,1.0,When was the Taula de Canvi bankrupted?,1
+359,functionalities.,functionalities,0.0009491443634033,0.6098728179931641,0.9563238620758056,1.0,1.0,"The layout engine, rendering engine, user interface and other things are components that offer different what of web browsers?",1
+360,Central Processing Unit.,central processing unit,0.0009188652038574,0.6945068836212158,0.9755199551582336,1.0,1.0,The CPU is an abbreviation for what?,1
+361,SEATO (South East Asia Collective Defence Treaty),the South East Asia Collective Defence Treaty (SEATO),0.0009255409240722,0.9232213497161864,0.9789270162582396,0.9333333333333332,0.7999999999999999,Which group is a counterpart to NATO?,1
+362,12 years.,12 years,0.0009388923645019,0.6941606998443604,0.9587495923042296,1.0,1.0,How long did Bonner serve as a Liberal Senator?,1
+363,Control system or central controller.,a control system or central controller),0.0009424686431884,0.7784013748168945,0.9288620352745056,0.9090909090909092,0.9090909090909092,What are other names for a control unit for a computer?,1
+364,Lord Kelvin.,James Thomson,0.0009522438049316,0.6484031677246094,0.3980380892753601,0.0,0.0,"Who wrote ""Poem to the Memory of Newton?""",0
+365,Arithmetic Logic Unit.,arithmetic logic,0.0009422302246093,0.69533371925354,0.8469565510749817,0.8,0.8,The ALU of a computer stands for what?,1
+366,Two to one hundred.,two and one hundred registers,0.000927448272705,0.7356877326965332,0.5215693116188049,0.6666666666666665,0.6666666666666665,What is the typical range of registers for a CPU?,1
+367,1996,1996,0.0009264945983886,0.6549010276794434,1.0,1.0,1.0,When did New York State ban unmarked cars for traffic cops?,1
+368,rich user interfaces supporting a wide variety of file formats and protocols.,rich user interfaces,0.0009496212005615,1.0481398105621338,0.6560956239700317,0.4,0.4,Features on a browser can range from minimal with little support to what?,1
+369,Proprietary web browsers.,proprietary web browsers,0.0009377002716064,0.7707579135894775,0.891887366771698,1.0,1.0,Quick development of what kind of browsers led to non-standard HTML dialects?,1
+370,300,about 300,0.0009655952453613,0.6082696914672852,0.8294870853424072,0.6666666666666666,0.6666666666666666,How many vacuum tubes did the Atanasoff-Berry computer use?,1
+371,1235.,1235,0.0009436607360839,0.6908102035522461,0.9674218893051147,1.0,1.0,The first astrolabe with gear-wheels was invented when?,1
+372,1939-1941 and 1949-1966.,1939 to 1941,0.0009605884552001,1.1009771823883057,0.8605524897575378,0.5,0.5,What years did Robert Menzies serve as Prime Minister?,0
+373,Firefox.,Firefox,0.0009171962738037,0.6067795753479004,0.8645927309989929,1.0,1.0,What was the resulting browser for the Mozilla Foundation?,1
+374,Abū Rayhān al-Bīrūnī.,Abū Rayhān al-Bīrūnī,0.0009295940399169,1.050781488418579,0.981969952583313,1.0,1.0,who stated that there was no evidence to rule out a vacuum?,1
+375,Lord Kelvin.,Lord Kelvin,0.0009393692016601,0.6331512928009033,0.983427345752716,1.0,1.0,James Thomson was the brother of what famous figure?,1
+376,Bletchley Park.,Bletchley Park,0.0009493827819824,0.7724974155426025,0.9896320104599,1.0,1.0,Where did the British crack secret German military communications during World War II?,1
+377,H. W. Nieman.,H. W. Nieman,0.0009546279907226,0.8099887371063232,0.9897948503494264,1.0,1.0,The torque amplifiers of the differential analyzer were created by whom?,1
+378,Trigonometry.,trigonometry,0.0009844303131103,0.6931357383728027,0.9170712232589722,1.0,1.0,What type of math did the Torpedo Data computer use to fire a torpedo at a moving target?,1
+379,Bookmarks.,bookmarked,0.00095796585083,0.6522729396820068,0.801071047782898,1.0,1.0,A list of websites a user can click to get back to easy have been what by the user?,1
+380,World Wide Web Consortium (W3C),World Wide Web Foundation,0.0009300708770751,0.8955693244934082,0.7044525146484375,0.6666666666666665,0.6666666666666665,What organization did Berners-Lee create?,0
+381,The flow of control within the program.,the flow of control,0.0009875297546386,0.8557224273681641,0.7617359757423401,0.7272727272727273,0.7272727272727273,What allows a computer to perform repetitive tasks without human intervening?,1
+382,RAM.,RAM,0.0009317398071289,0.6076276302337646,0.944178819656372,1.0,1.0,What type of memory can a CPU read and write from?,1
+383,64 words.,64,0.0009312629699707,0.6922719478607178,0.5557019710540771,0.6666666666666666,0.6666666666666666,How old was Truman in 1948?,0
+384,A billiard ball computer.,billiard ball computer),0.0009751319885253,0.763986349105835,0.9433833360671996,0.8571428571428571,0.8571428571428571,A computer that is made using pool balls is known as what?,1
+385,Opera-mini.,Opera-mini version,0.0009536743164062,0.6511571407318115,0.8988229036331177,0.8,0.8,What accounted for 1.1% of browser use in April 2011?,1
+386,"Chrome, released in September 2008.",Chrome,0.0009236335754394,0.8960211277008057,0.7127375602722168,0.3333333333333333,0.3333333333333333,What other browser has Google as the default search engine?,1

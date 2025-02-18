@@ -1,0 +1,65 @@
+idx,generated_response,ground_truth,reset_cache_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Contessina de' Bardi,Contessina de' Bardi,0.0005483627319335,3.5881543159484863,1.0000001192092896,1.0,1.0,"What is the name of the Italian noblewoman from the House of Bardi, who was played by the English actress Annabel Scholey in an 8 part television series with Dustin Hoffman and Richard Madden?",1
+1, James Gunn.,James Gunn,0.000542402267456,1.7393238544464111,0.970685601234436,1.0,1.0,"Tania Saulnier is a Canadian actress, perhaps best known for her role in a 2006 American science fiction-comedy horror film that was the directoral debut of who?",1
+2, New York City,"Overland Park, Kansas",0.0005035400390625,1.7345874309539795,0.4195047616958618,0.0,0.0,In what city is the school where the Kansas City Spartans play their home games located?,0
+3, The Guildhall School of Music and Drama.,Carlos Antonio Pini OBE,0.0005087852478027,4.239444732666016,0.0377787053585052,0.0,0.0,Who was a teacher at an independent music and dramatic arts school founded in 1880 in London?,0
+4, 1941-1945,Prime Minister of the United Kingdom from 1955 to 1957,0.0005021095275878,2.984621286392212,0.2980863749980926,0.0,0.0,What years did ponsonby baronet serve a conservative politician before they became a prime minister,0
+5, The Plains Indians.,Plains Indians,0.0005018711090087,2.149418830871582,0.9468576908111572,0.8,0.8,"This group of natives in North America were indigenous to the Interior Plains, historically nomadic, and relied on bison hunting.",1
+6, P.O.D.,P.O.D.,0.000516653060913,2.150047063827514,1.0000001192092896,1.0,1.0,"Which band would be classified as Christian nu metal, P.O.D. or Swervedriver?",1
+7, Central Africa,Africa,0.000514268875122,1.3393611907958984,0.8063839673995972,0.6666666666666666,0.6666666666666666,Which Country are both Carthamus and Artabotrys found in?,0
+8, 1,"1,200",0.0005037784576416,1.3168091773986816,0.2766214311122894,0.6666666666666666,0.6666666666666666, West Edmonton Mall is  the tenth largest in the world along with a mall that includes how many shops?,0
+9, Jack Moran,Roger Ebert,0.0005064010620117,1.3150873184204102,0.3849081397056579,0.0,0.0,A character named Lance Rocke appeared in a 1970 film co-written by Russ Meyer and what other person?,0
+10, Wichita State University,Wichita State University,0.0005109310150146,1.735475778579712,1.0000001192092896,1.0,1.0,"Which university is located in Kansas, the Holy Cross of Davao College or Wichita State University?",1
+11, No,no,0.0005052089691162,0.8955161571502686,1.0,1.0,1.0,Are Chris Marker and Yvonne Rainer American?,0
+12, Han Hee-won,Michelle Sung Wie,0.0005004405975341,2.5662527084350586,0.3308419585227966,0.0,0.0,Mike Cowan was the caddie for which LPGA player in 2003?,0
+13, Lubbock,the northwestern part,0.0004994869232177,1.7310898303985596,0.080279141664505,0.0,0.0,Texas Tech university is located in what part of the state of Texas?,0
+14, Eastern Algonquian,Eastern Algonquian languages,0.0005059242248535,2.574218273162842,0.7821714878082275,0.8,0.8,"The Patapsco River is a 39 mi river in central Maryland, Patapsco is derived from which subgroup, of the Algonquian languages?",1
+15, 20th Century Fox,20th Century Fox,0.0005176067352294,2.5652475357055664,1.0,1.0,1.0,"Which movie studio located in Los Angeles released the 1939 movie ""The Jones Family in Hollywood""?",1
+16, Blitz,Blitz,0.0004999637603759,0.9034619331359864,0.9999999403953552,1.0,1.0,Paddy Considine had a supporting role in which 2011 Elliott Lester film?,1
+17, Armando Iannucci,Armando Iannucci,0.0005304813385009,2.573720216751098,1.0,1.0,1.0,The British sitcom starring Sharon Horgan and Rob Delaney is produced by a man known for his collaborations with who?,1
+18," ""The General""",The General,0.0005030632019042,2.162740707397461,0.9102236032485962,1.0,1.0,What was the nickname of the reserve forward of the Ohio State Buckeyes who was entered in the Hall of Fame?,1
+19, PA-28,PA28R-200 IFR,0.0005273818969726,1.7450838088989258,0.479299932718277,0.0,0.0,What model of aircraft is part of the PA-28 family of aircrafts and can also be rented from the Freeway Airport?,0
+20, They are both home computers.,computer,0.0005154609680175,3.0044500827789307,0.4877821803092956,0.3333333333333333,0.3333333333333333,what does Exidy Sorcerer and Heathkit H11 have in common?,1
+21, Scottish Widows,Scottish Widows,0.0005226135253906,1.7580609321594238,1.0,1.0,1.0,"Chris Phillips (1956–2007) was a Chief Executive of which life, pensions and investment company located in Edinburgh, Scotland, and is a subsidiary of Lloyds Banking Group?",1
+22, Eddie Murphy,Saturday Night Live,0.0005152225494384,1.3234515190124512,0.2925505638122558,0.0,0.0,"Gilda Radner, star of Gilda Live, was a founder members of which iconic comedy TV show?",0
+23, James T. Kirk,"James Tiberius ""Jim"" Kirk",0.0005013942718505,2.161360502243042,0.7596354484558105,0.5714285714285715,0.5714285714285715, Dwellers in the Crucible was a novel that spoke of the friendship between Spock and which captain of the Enterprise?,1
+24, Scotland,Scotland,0.0004966259002685,0.9030911922454834,1.0,1.0,1.0,What country are both the Dunans Castle and Dunans Bridge located in?,1
+25, silicon photonics,silicon photonics,0.0004947185516357,1.7506320476531982,1.0,1.0,1.0,Rony Abovitz is the  founder and CEO of a U.S. startup company that is attempting to construct a light-field chip using what?,1
+26," The capital of the district where The Presbyterian University College, Ghana is located is Abetifi.",Kwahu East district,0.0005087852478027,8.4529869556427,0.1951039582490921,0.1111111111111111,0.1111111111111111,"In the capital of what district is The Presbyterian University College, Ghana?",0
+27, Old Yeller,Old Yeller,0.0005114078521728,1.7449560165405271,1.0,1.0,1.0,"Which film was released first, Old Yeller or Flight of the Navigator?",1
+28, Makoto Shinkai,Makoto Shinkai,0.0005152225494384,2.586523056030273,1.0,1.0,1.0,"Who directed a film that used ""Zenzenzense"" as a theme song?",1
+29, Sord Computer Corporation,Sord Computer Corporation,0.0005156993865966,2.161740064620972,1.0000001192092896,1.0,1.0,"Between TRS-80 MC-10 and Sord Computer Corporation, which was founded/produced earlier?",1
+30, Chevrolet Tahoe,The Chevrolet Tahoe,0.0005114078521728,1.3235044479370115,0.9647273421287536,0.8,0.8,Which full-size SUV from General Motors platform was  Hummer H2  based on ,1
+31, Oscar Micheaux directed more films.,Micheaux,0.0005102157592773,3.421959638595581,0.4723405539989471,0.3333333333333333,0.3333333333333333,"Between P. J. Castellaneta and Oscar Micheaux, who directed more films?",1
+32, Felicity,Felicity,0.0005044937133789,1.3234338760375977,1.000000238418579,1.0,1.0,Barefoot is a romantic comedy-drama film starring an actor known for playing Ben Covington in what television series?,1
+33, Aleksander Ford,Aleksander Ford,0.0005049705505371,1.7423906326293943,1.0000001192092896,1.0,1.0,"Who was born first, Pablo Trapero or Aleksander Ford?",1
+34, Katniss Everdeen,Katniss Everdeen,0.0005171298980712,2.580817222595215,1.0,1.0,1.0,"Which fictional charater portrayed by Jennifer Lawrence, is from a trilogy wirtten by American novelist Suzanne Collins?",1
+35, No,no,0.0004949569702148,0.9026334285736084,1.0,1.0,1.0,Are Chris Marker and Yvonne Rainer American?,1
+36," ""Closer""","""Closer""",0.0005018711090087,2.1666579246521,1.0,1.0,1.0,What was the first EP of the singer who recorded What Ifs?,1
+37," I do not have information on the birthplace of the producer of ""ZOS: Zone of Separation"".","Calgary, Alberta",0.0005087852478027,9.711777925491331,0.1069487035274505,0.0,0.0,"Where was the producer of ""ZOS:Zone of Seperation"" born?",0
+38, The Prodigy,The Prodigy,0.0005192756652832,2.233510255813598,1.0,1.0,1.0,"Music for an Accelerated Culture is the debut album from new rave/grindie band Hadouken!, the title is thought to be a reference to both Douglas Coupland's book and Music for the Jilted Generation, the second studio album by which English electronic dance music band?",1
+39, Yes,yes,0.0005114078521728,0.9059693813323976,1.0000001192092896,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+40, Kosciuszko National Park,Kosciuszko National Park,0.0005028247833251,2.999987840652466,1.0,1.0,1.0,The Snowy River originates on the slopes of a moutain in what national park?,1
+41, David Zdrilic,Cameron Mooney,0.0005059242248535,2.582254409790039,0.3672194182872772,0.0,0.0,Bounce is currently hosted by what former Australian football player born in 1979,0
+42, Broadchurch,Broadchurch,0.0005037784576416,1.3309736251831057,1.0,1.0,1.0,This British comedy-drama film starred Peter O'Toole and an English actress praised for her role as a grieving mother in what film?,0
+43," Deua National Park and Batemans Bay are located in New South Wales, Australia.","New South Wales, Australia",0.0005228519439697,8.035183906555176,0.5969051718711853,0.4705882352941176,0.4705882352941176,Where is the country musician who made the album Beyond the Dancing from?,0
+44, Lo-Pro,Das Damen,0.0005080699920654,1.3202228546142578,0.0966790318489074,0.0,0.0,"What was founded first, Das Damen or Lo-Pro?",0
+45, J. Stephen Maunder,J. Stephen Maunder,0.000511884689331,3.008625030517578,1.0000001192092896,1.0,1.0,Who directed the 2010 American action film 'Shadows in Paradise' starring Sofya Skya?,1
+46, Cetus,Cetus,0.0005018711090087,1.324519157409668,1.0000001192092896,1.0,1.0,NGC is a galaxy in what constellation that refers to a sea monter in Greek mythology?,1
+47, Mumbai,"Kolkata, West Bengal",0.0005304813385009,0.9023582935333252,0.6023810505867004,0.0,0.0,Robert Keane played for an Indian Super League football franchise based where?,0
+48, The coast of West Africa.,West Africa,0.0005006790161132,3.002821683883667,0.8310716152191162,0.5714285714285715,0.5714285714285715,Naré Maghann Konaté was a 13th century king of a country in which part of Africa ?,1
+49, David Nutter,Rob Reiner,0.0005068778991699,1.7395989894866943,0.4212313890457153,0.0,0.0,Which American activist directed Flipped?,0
+50, 1930,"July 19, 1922",0.0004987716674804,1.7370505332946775,0.6035634279251099,0.0,0.0,When was Thomas Eagleton's running mate born?,0
+51, Manchester United,Manchester United,0.0005319118499755,1.3311562538146973,1.0,1.0,1.0,The player in which Ryan Green broke the record for youngest player spent his entire professional career with what team?,1
+52, 1967,"""Divorce American Style""",0.000502586364746,1.745195388793945,0.1027862429618835,0.0,0.0,What was the film debut of the actress who starred in Pandemonium?,0
+53, Collingwood Football Club,Western Bulldogs,0.0005125999450683,2.578571319580078,0.4046849608421325,0.0,0.0,Cameron Cloke's brother plays for which Australian football team?,0
+54, Sibley Memorial Hospital being a part of Johns Hopkins Medicine occurred first.,St. Elizabeths Hospital,0.0005292892456054,6.778944492340088,0.4381722509860992,0.1333333333333333,0.1333333333333333,"Which occurred first, St. Elizabeths Hospital being designated a National Historic Landmark or Sibley Memorial Hospital being a part of Johns Hopkins Medicine?",0
+55, 1988,"February 27, 1943",0.0005197525024414,1.7505254745483398,0.4769619703292846,0.0,0.0,When was the student of Robert Linn who won a National Medal of Arts in 2007 born?,0
+56, Dan Gurney,Nissan/Datsun,0.0004999637603759,2.162426710128784,0.1579529345035553,0.0,0.0,Jeff Wood made his CART debut in 1983 at a car race sponsored by what company?,0
+57, 4 April 1964,4 April 1964,0.0004968643188476,3.0053839683532715,1.0,1.0,1.0,What is the birthdate of the person who was San Jose Earthquakes head coach during the 2002 MLS All-Star Game?,1
+58, They are both musicians.,singer,0.0005061626434326,2.5816211700439453,0.4526169300079345,0.0,0.0,Which other occupation is the American actress who stars as a Jewish-American girl who befriends a German prisoner of war in a made-for-television war drama?,0
+59, Nantes.,Nantes,0.0005056858062744,1.7428112030029297,0.9770960211753844,1.0,1.0,The manager from the 2012–13 AS Monaco FC season later became the head coach of what team?,1
+60," Stuttgart, Baden-Württemberg, Germany",Stuttgart,0.0005078315734863,5.102330923080444,0.8285954594612122,0.3333333333333333,0.3333333333333333,"Where is the headquarters of this German multinational automotive corporation, which includes Mercedes-Benz buses?",1
+61, The 2009 NBA draft.,the WaMu Theatre,0.000518798828125,3.4255712032318115,0.1190341040492057,0.2857142857142857,0.2857142857142857,Where was the draft where Tywon Ronell Lawson was picked by the Minnesota Timberwolves held?,0
+62, Tom Pelphrey,Anthony Herrera,0.0005271434783935,2.170376300811768,0.32066810131073,0.0,0.0,What is the name of the actor who portrays Jim Stenbeck on the drama As the world Turns?,0
+63, James St. James,James St. James,0.00050950050354,2.163549423217773,1.0,1.0,1.0,"Who wrote the memoir about a friend who was a club promoter, musician , writer and served 17 years in prison for manslaughter?",1

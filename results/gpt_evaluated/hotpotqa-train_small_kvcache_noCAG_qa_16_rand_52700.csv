@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0," ""Nothing's Gonna Stop Us Now""",Nothing's Gonna Stop Us Now,0.051145315170288,9.676966190338137,0.7793365716934204,1.0,1.0,"What song on the album No Protection was a No. 1 in the ""Billboard"" Hot 100 in April 1987?",1
+1, Screwed Up Click,Dead End Alliance,0.0919954776763916,8.996847152709961,0.1187882274389267,0.0,0.0,"Fat Pat and DJ Screw were musical artists from Houston, Texas, and were both in a three-letter acronym band--what was the band's full name?",0
+2, BBC in 1969.,BBC in 1969,0.1085023880004882,9.27412247657776,0.9797784686088562,1.0,1.0,Terry Jones was a member of this comedy group whos sketch comedy show first aired on what channel in this year?,1
+3, Chester Brewer,Chester Brewer,0.1313722133636474,8.799471378326416,1.0,1.0,1.0,Which head coach of the Missouri Tigers football team amassed a 5-3 record during his 1911-1913 tenure?,1
+4, Guzmania,Guzmania,0.0491292476654052,8.876204252243042,1.0,1.0,1.0,"Which species is found at higher elevations, Arundina or Guzmania?",1
+5, Caesars Entertainment Corporation.,Caesars Entertainment Corporation,0.0865468978881836,9.285038948059082,0.9850574135780334,1.0,1.0,Who owns and operates the casino at which the 2010 World Series of Poker was held?,1
+6, Forward.,forward,0.1136527061462402,8.757830381393433,0.9309850931167604,1.0,1.0,"John Hansen was a Danish footballer who played which position nearest to the opposing team's goal, and are therefore most responsible for scoring goals?",1
+7, 102 Dalmatians,"""101 Dalmatians""",0.0670244693756103,9.307414054870604,0.8426738977432251,0.5,0.5,Joely Kim Richardson appeared in what movie based on Dodie Smith's 1956 novel?,0
+8, The Myth,The Myth,0.0822222232818603,8.800096273422241,1.0,1.0,1.0,Which 2005 Hong Kong martial arts film starring Mallika Sherawat was remade as a TV series of the same name?,1
+9, German,German,0.0472958087921142,8.644525527954102,1.0,1.0,1.0,Der Schwanendreher was a concerto by the composer of what nationality?,1
+10, Reef,Reef,0.0535385608673095,8.630696535110474,1.0,1.0,1.0,"Which band is from Glastonbury, Reef or Simple Plan?",1
+11," George Abbott was born first, in 1887.",George Francis Abbott,0.0536489486694335,9.881983041763306,0.7171589136123657,0.4,0.4,"As of now, has George Abbott or Matt Stone's career spanned more decades?",0
+12, Tim Hortons.,Tim Hortons,0.2126829624176025,9.015509366989136,0.9860640168190002,1.0,1.0,Timbits are a bite-sized fried doughnut sold at which Canadian-owned international bakery chain?,1
+13, Collier's,Collier's,0.0523030757904052,8.903836250305176,0.9999999403953552,1.0,1.0,"Which magazine was founded first, Collier's or Indianapolis Monthly?",1
+14, June,November,0.0673975944519043,8.654604434967041,0.5968850255012512,0.0,0.0,Agbadza is an Ewe music and dance performed during a festival celebrated in what month?,0
+15, Yes.,no,0.129307746887207,8.73712706565857,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0

@@ -1,0 +1,51 @@
+\begin{table}
+    \caption{Experiment Results-1}
+    \label{tab:results}
+    \begin{tabular}{llccc}
+      \toprule
+      & & & HotPotQA & SQuAD \\
+      Size & System & Top-$k$ & BERT-Score & BERT-Score \\
+      \midrule
+      \multirow{11}{*}{Small}
+        & \multirow{4}{*}{Sparse RAG}
+          & 1 & 0.0673 & 0.7469\\
+        & & 3 & 0.0673 & 0.7999 \\
+        & & 5 & 0.7549 & 0.8022 \\
+        & & 10 & 0.7461 & 0.8191 \\ \cline{2-5}
+      & \multirow{4}{*}{Dense RAG}
+          & 1   & 0.7079 & 0.6445\\
+        & & 3   & 0.7509 & 0.7304 \\
+        & & 5   & 0.7414 & 0.7583 \\
+        & & 10  & 0.7516 & 0.8035 \\  \cline{2-5}
+      & CAG (Ours) & & \textbf{0.7759} & \textbf{0.8265} \\
+      \midrule
+      \multirow{11}{*}{Medium}
+        & \multirow{4}{*}{Sparse RAG}
+          & 1   & 0.6652 & 0.7036\\
+        & & 3   & 0.7619 & 0.7471 \\
+        & & 5   & 0.7616 & 0.7467 \\
+        & & 10  & 0.7238 & 0.7420 \\ \cline{2-5}
+      & \multirow{4}{*}{Dense RAG}
+          & 1   & 0.7135  & 0.6188\\
+        & & 3   & 0.7464  & 0.6869 \\
+        & & 5   & 0.7278  & 0.7047 \\
+        & & 10  & 0.7451  & 0.7350 \\ \cline{2-5}
+      & CAG (Ours) & & \textbf{0.7696} & \textbf{0.7512} 
+   \\
+      \midrule
+      \multirow{11}{*}{Large}
+        & \multirow{4}{*}{Sparse RAG}
+          & 1   & 0.6567 & 0.7135 \\
+        & & 3   & 0.7424 & 0.7510 \\
+        & & 5   & 0.7495 & 0.7543 \\
+        & & 10  & 0.7358 & 0.7548 \\ \cline{2-5} 
+      & \multirow{4}{*}{Dense RAG}
+          & 1   & 0.6969  & 0.6057 \\
+        & & 3   & 0.7426  & 0.6908 \\
+        & & 5   & 0.7300  & 0.7169 \\
+        & & 10  & 0.7398  & 0.7499 \\ \cline{2-5}
+      & CAG (Ours) & & \textbf{0.7527} & \textbf{0.7640} \\
+      \bottomrule
+    \end{tabular}
+  \end{table}
+  

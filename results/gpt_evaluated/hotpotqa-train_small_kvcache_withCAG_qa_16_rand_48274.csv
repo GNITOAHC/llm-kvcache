@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,reset_cache_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Danny Thomas,Danny Thomas,0.0004878044128417,0.4968993663787842,1.0,1.0,1.0,"Which american entertainer, known for his dedication to fundraising and charity, made his debut at the Copacabana?",1
+1, 2011,2011,0.0005044937133789,0.6081819534301758,1.0,1.0,1.0,"Ikemen desu ne, released in which year, is a Japanese television series, it is the Japanese remake of the Korean musical romantic comedy television drama ""You're Beautiful""?",1
+2, Oregon.,Oregon,0.0004777908325195,0.4437823295593261,0.963522970676422,1.0,1.0,Which state in the Pacific Northwest region on the West coast of the United states  has the Schinia vacciniae?,1
+3, Elizabeth of York,Elizabeth of York,0.0004844665527343,0.567333459854126,1.000000238418579,1.0,1.0,Who was the mother of Margaret Tudor and daughter of Edward IV?,1
+4, Marvel Comics,Marvel Cinematic Universe,0.0004773139953613,0.4305884838104248,0.8415006399154663,0.4,0.4,What comic universe is a frequent source of work for an American actor who starred in the film 88 Minutes?,0
+5, They are both musicians.,singer,0.000490665435791,0.8412234783172607,0.4526169300079345,0.0,0.0,Which other occupation is the American actress who stars as a Jewish-American girl who befriends a German prisoner of war in a made-for-television war drama?,0
+6," ""Opposites Attract""","""Opposites Attract""",0.0004806518554687,1.1218960285186768,1.0000001192092896,1.0,1.0,The winner of the 1991 Kids' Choice Awards KCA Hall of Fame Special Gold Blimp also won a Grammy for what video?,1
+7, Yes.,no,0.0004820823669433,0.4308841228485107,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0
+8, Hull Property Group owns the Hudson Valley Mall.,Moonbeam Capital Investments LLC,0.0004763603210449,1.3857479095458984,0.2795802354812622,0.0,0.0,Who owns the mall where the Playhouse performs?,0
+9, Rules of Engagement,Rules of Engagement,0.0004827976226806,0.5761463642120361,1.0000001192092896,1.0,1.0,"The first season of which American television comedy series, premiered on CBS on February 5, 2007, originally airing as a mid-season replacement?",1
+10," ""Don't You Know You're Beautiful""",Don't You Know You're Beautiful,0.0004751682281494,1.397136688232422,0.8095719218254089,1.0,1.0,"What was the first released single on the self-titled album released by an American country artist whose second single was co-written by Taylor Swift and released on December 1, 2008?",1
+11, Inside-out flowers,plants,0.0004997253417968,0.5670831203460693,0.4439370036125183,0.0,0.0,What type of vegetation does Ceratostigma and Crocosmia have in common?,0
+12, Shakira,Shakira,0.0004849433898925,0.4298219680786133,1.0,1.0,1.0,Which singer that was born in Colombia in 1977 has Ric Fierabracci toured with?,1
+13," No, Brides magazine was published monthly until 2013 when it switched to bimonthly.",yes,0.0004787445068359,3.0265543460845947,0.1024703234434127,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?,0
+14," 1,500","5,141",0.0004806518554687,0.7045669555664062,0.3508471846580505,0.0,0.0,What was the 200 poopulation of the town where James M. Cook died?,0
+15, Brandon Sanderson,Brandon Sanderson,0.0005016326904296,0.5694708824157715,1.0000001192092896,1.0,1.0,"Scadrial is a fictional planet in the Mistborn series,  a series of epic fantasy novels written by what American author?",1

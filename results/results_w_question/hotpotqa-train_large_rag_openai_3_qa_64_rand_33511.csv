@@ -1,0 +1,106 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,The 2017 Cannes Film Festival.,Cannes Film Festival,0.4903156757354736,2.4918646812438965,0.8803174495697021,0.7499999999999999,0.7499999999999999,Which 2005 film festival screened out of competition the film that depicted the unofficial ceasefires along the Western Front of World War I around Christmas 1914?
+1,Memorial City Mall.,Memorial City Mall,0.4102396965026855,0.7381751537322998,0.96672785282135,1.0,1.0,What is one of Houston's most popular malls and was to be superseded by Town & Country Mall?
+2,Szombathelyi Haladás,Szombathelyi Haladás,0.3937523365020752,0.8491120338439941,1.0,1.0,1.0,"Ahmad Khormali, who plays goalkeeper, wears pyjama-like tracksuit bottoms to honor another goalkeeper who plays for what team?"
+3,"Jamal Crawford and Cole Aldrich are the American professional basketball players for the Minnesota Timberwolves of the National Basketball Association (NBA), that previously were traded by the Chicago Bulls to the New York Knicks.",Jamal Crawford,0.4121661186218261,2.576223611831665,0.684970498085022,0.1111111111111111,0.1111111111111111,"Who is the American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA), that previously was traded by the Chicago Bulls to the New York Knicks?"
+4,"Yes, both Edwin Greenwood and Andrew Lau Wai-Keung were directors.",yes,0.3155934810638428,1.3875889778137207,0.1113686114549636,0.1666666666666666,0.1666666666666666,Can Fraxinus and Onoclea both be found in North America?
+5,"Timothy Leary was from the United States, which is farther West than Jaroslav Seifert's Czechoslovakia.",Timothy Francis Leary,0.2639894485473633,1.7678663730621338,0.6262259483337402,0.2105263157894736,0.2105263157894736,"Who has more scope of profession,  Arnold Bennett or Timothy Leary?"
+6,Dan Bilzerian.,Brandon,2.0256154537200928,0.7731850147247314,0.3887110352516174,0.0,0.0,Extraction is a 2015 American action-thriller film starring an american professional poker player whose middle name is what?
+7,Walt Disney Productions.,Walt Disney,0.2675642967224121,0.8620438575744629,0.8660064935684204,0.8,0.8,Who produced The Shaggy D.A. and Tarzan?
+8,"The CBS drama ""Wisdom of the Crowd"" premiered on October 1, 2017.","October 1, 2017",0.2703309059143066,1.6483147144317627,0.4196036458015442,0.4,0.4,When did the series premier in which Blake Lee plays Josh Novak?
+9,The Bling Ring.,The Bling Ring,0.3150899410247803,0.8989808559417725,0.9865915775299072,1.0,1.0,Claire Julien had a leading role in which 2013 satirical crime film?
+10,The actress is not specified in the given context.,Sympathy for Mr. Vengeance,0.3480217456817627,1.0410830974578855,0.0649772584438324,0.0,0.0,Master of Study starred the actress who had a role as a political activist in what 2002 film?
+11,Macbeth.,"""Macbeth""",0.447629451751709,0.6148324012756348,0.9154202938079834,1.0,1.0,"What Shakespearean play has a pair of brothers where one inherits the throne, and the other flees to Ireland after their father's murder?"
+12,World War I.,World War II,0.3207833766937256,0.7111036777496338,0.7649798393249512,0.6666666666666666,0.6666666666666666,"Battle of Tarawa and Operation Overlord, occurred during which event?"
+13,Vijay Iyer released an album on the Red Giant label.,Vijay Iyer,0.5055503845214844,1.2821102142333984,0.6214116215705872,0.3333333333333333,0.3333333333333333,Which MacArthur Fellow released an album on the Red Giant record label?
+14,Michael Wincott is older than Jeff Wincott.,Jeffrey Wincott,0.3871467113494873,1.240764617919922,0.6974159479141235,0.2222222222222222,0.2222222222222222,"Which brother is older, Jeff Wincott or Michael Wincott?"
+15,Al Bano.,Albano Carrisi,0.4662034511566162,0.7900819778442383,0.4879525899887085,0.0,0.0,What Albanian citizen sings in both Italian and Spanish?
+16,SpongeBob SquarePants.,Stephen Hillenburg,0.401785135269165,0.9633572101593018,0.170234739780426,0.0,0.0,"This CarniK Con meme development, involving duct tape, was based on an animated Nickelodeon series created by what marine biologist?"
+17,The nationality of the composer of Lento (by Howard Skempton) is English.,English,0.474405288696289,1.5592494010925293,0.2283711582422256,0.1538461538461538,0.1538461538461538,What language is spoken at both Lipscomb University and University of Debrecen?
+18,Fox Sports 1.,Fox Sports 1,0.5518558025360107,0.7773354053497314,0.9868631958961488,1.0,1.0,"MLB Whiparound with Kenneth H. ""Ken"" Rosenthal airs on what network?"
+19,Uhrichsville.,Uhrichsville,0.4093570709228515,0.8426101207733154,0.9861499667167664,1.0,1.0,U.S. Route 136 in Nebraska is a spur route of the US Route that has an eastern terminus in what Ohio city?
+20,The London Eye.,London Stansted Airport,0.4363222122192383,0.8386821746826172,0.4013925194740295,0.3333333333333333,0.3333333333333333,"While the British structural engineer Jane Wernick worked with Arup, she was involved in this project that is located at Stansted Mountfitchet?"
+21,"The Quiet Family (South Korean film) was released in 1998, while Yaamirukka Bayamey (Indian Tamil film) was released in 2014.",South Korean comedy horror film.,0.3933320045471191,2.4457828998565674,0.3999776840209961,0.24,0.24,"Which film was released first, the South Korean film or the Indian Tamil film?"
+22,Tennis.,tennis,0.2841424942016601,0.6992285251617432,0.9499958753585817,1.0,1.0,Which sport do both John Austin and Todd Woodbridge play?
+23,Cantinflas and David Niven.,Cantinflas and David Niven,0.3360433578491211,0.99804425239563,0.9820008277893066,1.0,1.0,James Poe worked on the 1956 movie that starred which actors?
+24,"West Chester, Pennsylvania. The population is 18,461.","18,461",0.3182055950164795,1.2675964832305908,0.4121822714805603,0.4,0.4,What is the population of the city that WC East is located in?
+25,"Joseph Michael Cross starred in ""Running with Scissors"" (2006), which earned Joseph Cross a Satellite Award, not an ALMA Award.",Andy García,0.3502202033996582,2.032366752624512,0.2001921832561493,0.0869565217391304,0.0869565217391304,Joseph Michael Cross starred in an American action thriller film which earned who an ALMA Award?
+26,Tim Burton.,Tim Burton,0.407768964767456,0.6778714656829834,0.97327983379364,1.0,1.0,"Who directed the 1989 film on which ""Batman: The Ride"" is thematically based?"
+27,"Yes, both Peter Furler and Amy Lee are songwriters.",yes,0.2923901081085205,1.2889249324798584,0.2237891852855682,0.1999999999999999,0.1999999999999999,Can Fraxinus and Onoclea both be found in North America?
+28,The Life of Birds (1998) was released before Genghis Blues (1999).,The Life of Birds,0.2983627319335937,1.6147832870483398,0.5542637705802917,0.5333333333333333,0.5333333333333333,"Which documentary was released first, The Life of Birds or Genghis Blues?"
+29,1952,1952,0.7609055042266846,0.7571132183074951,0.9999999403953552,1.0,1.0,Andrew Brackman is represented by a sports agent born in which year ?
+30,"in 1981, Garrin eventually emerged as one of the important collaborators of video art superstar Nam June Paik, working closely from 1982 to 1996.
+
+John Merrick (insurance): 
+John Merrick (1859–1919) was an African-American entrepreneur whose life represents a rags-to-riches story. Born into slavery in Clinton, North Carolina, Merrick relied on his social savvy, entrepreneurial spirit, and inner drive to achieve great personal wealth by founding various companies in the Raleigh, North Carolina and Durham, North Carolina areas, most notably the North Carolina Mutual Life Insurance Company. Portions of his wealth were channeled back into the black community through philanthropy. John Merrick was a great man- his business acumen and social consciousness made him one of the most influential members of the African-American community in his lifetime.
+
+Padman: 
+Padman is an upcoming 2018 Indian Hindi comedy-drama film featuring Akshay Kumar, Sonam Kapoor and Radhika Apte in lead roles. Amitabh Bachchan will appear in a special role. The film is inspired from the life of Arunachalam Muruganantham.
+
+Gold (2018 film): 
+Gold is an upcoming 2018 Indian sports film, directed by Reema Kagti and produced by Ritesh Sidhwani and Farhan Akhtar under the banner Excel Entertainment.
+---------------------
+Portions of his wealth were channeled back into the black community through philanthropy. John Merrick was a great man- his business acumen and social consciousness made him one of the most influential members of the African-American community in his lifetime.
+
+Padman: 
+Padman is an upcoming 2018 Indian Hindi comedy-drama film featuring Akshay Kumar, Sonam Kapoor and Radhika Apte in lead roles. Amitabh Bachchan will appear in a special role. The film is inspired from the life of Arunachalam Muruganantham.
+
+Gold (2018 film): 
+Gold is an upcoming 2018 Indian sports film, directed by Reema Kagti and produced by Ritesh Sidhwani and Farhan Akhtar under the banner Excel Entertainment. It is a biopic based on the life of hockey player Balbir Singh, who was on the team that won the first Olympic medal for India as a free nation in 1948.
+---------------------
+He is only the third actor to receive a National Film Award for Best Actor in the Tamil film industry. Vikram is known for his intense performances, with his work often fetching critical acclaim and commercial success. He has won a National Film Award and seven Filmfare Awards South, of which five are Best Actor awards.
+
+Sneha (actress): 
+Suhasini Rajaram Naidu, popularly known by her stage name Sneha, is an Indian film actress, who works in the South Indian film industry. She debuted in the Malayalam film ""Ingane Oru Nilapakshi"" (2000), directed by Anil – Babu and was later signed for the Tamil film ""Virumbugiren"", though it was only released two years later. She started getting offers in Tamil and moved her focus to Kollywood, and the movie ""Ennavale"", where she starred opposite R. Madhavan, was released first in the same year.
+
+Manthiri Kumari: 
+Manthiri Kumari (English: ""The Minister's Daughter"" ) is a 1950 Indian Tamil historical fiction film directed by Ellis R. Dungan and starring M. G. Ramachandran, M. N. Nambiar. The title of the film is on the character of Amudhvalli, which was played by Madhuri Devi.This film had limited scope for the heroine of M.G.R and hence G. Shakuntala was paired opposite M.G.R. The screen play was written by M. Karunanidhi based on an incident from the Tamil epic ""Kundalakesi"". This was the last Tamil film directed by Dungan and is considered to be among the most successful films of that decade. Shortly after directing this film, Dungan left the Tamil film industry and did not direct Tamil films again. Singer T. M. Soundararajan sang for very first time for Ramachandran in this film.
+
+Mayandi Kudumbathar: 
+Mayandi Kudumbathar (English: Mayandi's family ) is a 2009 Indian Tamil film/family drama written and directed by Rasu Madhuravan, who directed Poomagal Oorvalam and Paandi previously. Starring 10 Tamil film directors, including Manivannan, Seeman, Tarun Gopi and Ponvannan, in lead and supporting roles. The film, scored by Sabesh-Murali and filmed by Balabharani, was released on 5 June 2009, going on to become successful at the box office.
+
+Kedi (2006 film): 
+Kedi is a 2006 Indian Tamil film written and directed by Jyothi Krishna, who earlier directed the 2004 Tamil film ""Enakku 20 Unakku 18"". Starring his brother Ravi Krishna in the lead role, the film marks the Kollywood debut of the female actress Tamannaah Bhatia and Ileana. Where Tamannaah plays a character with negative shade and Ileana plays love interest of Ravi Krishna whilst Ramesh Khanna, Atul Kulkarni, Adithya, M. S. Baskar and Suman Setty played supporting roles in the film. The film's score and soundtrack are composed by Yuvan Shankar Raja. The film released on 24 September 2006 and was later dubbed into Telugu and released as ""Jadoo"".The film earned mixed to positive reviews in both Tamil and Telugu and commercial success.
+
+Bommalattam (2008 film): 
+Bommalattam is a 2008 Tamil film directed by Bharathiraja starring Arjun Sarja and Nana Patekar in the lead roles. Originally filmed in Hindi under the title ""Cinema"", the film was released first in Tamil. Hindi version retitled ""Final Cut of Director"" will be released in 2016. This marked Nana Patekar's Tamil film debut.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What is the invention of the social entrepreneur whose life is the subject of an upcoming 2018 Indian film called 'Padman'?
+        
+        assistant
+         A low-cost sanitary pad making machine.",low-cost sanitary pad making machine,0.3881311416625976,0.8614051342010498,0.0097763463854789,0.013029315960912,0.013029315960912,What is the invention of the social entrepreneur whose life is the subject of an upcoming 2018 Indian film called 'Padman' ?
+31,American Pimp (1999) was created after Where Have All the Flowers Gone? (1955).,American Pimp,0.4128801822662353,1.7021617889404297,0.6308430433273315,0.2666666666666667,0.2666666666666667,"Which documentary came out first, American Pimp or Go Further?"
+32,Flight of the Navigator.,Flight of the Navigator,0.2497985363006591,0.9121928215026855,0.9781550765037536,1.0,1.0,Joey Cramer is a former Canadian child actor who is known for his role in what 1986 American science fiction film that was directed by Randal Kleiser?
+33,"""Tony and Susan"" by Austin Wright.",Tony and Susan,0.2836422920227051,0.9743092060089112,0.6883219480514526,0.6666666666666666,0.6666666666666666,having previously served as the creative director at Gucci and Yves Saint Laurent this American fashion designer directed a film based on what novel?
+34,John Toland.,John Willard Toland,0.3324527740478515,0.8689706325531006,0.7817814946174622,0.8,0.8,Which of the following writers is best known for his biography of Adolf Hitler: John Toland or David James Duncan? 
+35,Archana played the character Ambili in the film Yamanam.,Archana,0.3811964988708496,1.3474462032318115,0.4284358620643616,0.1999999999999999,0.1999999999999999,Who is an Indian film actress that starred in Parattai Engira Azhagu Sundaram?
+36,Cliffhanger.,Renny Harlin,0.4702281951904297,0.7435965538024902,0.108825959265232,0.0,0.0,Who directed the 2006 film featuring visual effects from Giantsteps?
+37,"Pema Lhaki, a Tibetan tailor and wife of Peter Aufschnaiter.",Pema Lhaki,0.6537055969238281,1.4458215236663818,0.6982614994049072,0.3333333333333333,0.3333333333333333,What role did Lhakpa Tsamchoe play in the 1997 American biographical war drama film based on a 1952 book written by Heinrich Harrer?
+38,Tuller School.,Tuller School,0.2948570251464844,0.8303241729736328,0.9858537912368774,1.0,1.0,What was the name of the school run by the Teachers of the Children of God order in Southhampton?
+39,The University of Hawaii.,Western Association of Schools and Colleges,0.9324667453765868,0.7765500545501709,0.4481133818626404,0.2,0.2,Carpo was discovered by a team of astronomers at the school accredited by which body?
+40,"The Go-Betweens had more bandmates, with a total of 6 members, while Jersey Budd is a solo artist.",The Go-Betweens,0.7323894500732422,1.9579849243164065,0.4831998646259308,0.2727272727272727,0.2727272727272727,"Who has had more bandmates, Jersey Budd or The Go-Betweens?"
+41,Jim Carrey.,Jim Carrey,0.5068285465240479,0.8685851097106934,0.9696862101554872,1.0,1.0,"I Love You Phillip Morris is a 2009 black comedy drama film based on the 1980s and '90s real-life story of con artist, impostor, and multiple prison escapee Steven Jay Russell, an American con artist known for escaping from prison multiple times, as played by which actr?"
+42,"Toshimitsu Deyama, also known as Toshi, has had a solo singing career.",Toshimitsu Deyama,3.5286214351654053,1.679349660873413,0.8021327257156372,0.2857142857142857,0.2857142857142857,Was Seo Min-woo or Toshi born first?
+43,The School Boys.,The School Boys,0.2910220623016357,0.7982869148254395,0.9777308702468872,1.0,1.0,Funmi Falana is the mother of the rapper and stage actor who began his career with what group?
+44,Saraghrar.,Saraghrar,0.5983016490936279,0.8657791614532471,0.9763875007629396,1.0,1.0,"What is the fourth highest independent peak in the Hindu Kush, Saraghrar or Chomo Lonzo?"
+45,Jena Malone.,Jena Malone,5.03702449798584,0.7848532199859619,0.9770190119743348,1.0,1.0,The film Cold Mountain stars what actress who was born in 1984?
+46,Charlie Parsons.,Charlie Parsons,0.3703012466430664,0.6796627044677734,0.9745477437973022,1.0,1.0," Robert ""Bob"" Crowley is a former teacher and reality TV personality, known for winning the seventeenth season of the American TV series ""Survivor”, the American version of the international ""Survivor"" reality competition television franchise created by who?"
+47,"W New York Downtown Hotel and Residences is taller, at 630 ft, compared to the Marine Midland Building's 688 ft.",Marine Midland Building,0.3265304565429687,1.938126802444458,0.5758987665176392,0.25,0.25,"Which building is taller, Marine Midland Building or W New York Downtown Hotel and Residences?"
+48,John R. Neill.,John R. Neill,0.2549917697906494,0.9671051502227784,0.9819061160087584,1.0,1.0,A Wish Way is a device that appears in a book illustrated by who?
+49,Los Angeles.,Los Angeles,0.5439631938934326,0.7895517349243164,0.9625944495201112,1.0,1.0, The 12th Annual Honda Civic Tour was a concert tour headlined by an American pop rock band that originated in what city?
+50,The New Kingdom.,New Kingdom of Egypt,0.4772787094116211,0.7334909439086914,0.709037721157074,0.5714285714285715,0.5714285714285715,"The Second Intermediate Period marks a period when Ancient Egypt fell into disarray for a second time, between the end of the Middle Kingdom and the start of which period in ancient Egyptian history between the 16th century BC and the 11th century BC, covering the Eighteenth, Nineteenth, and Twentieth Dynasties of Egypt?"
+51,2016.,2016,0.2680046558380127,0.7878870964050293,0.9577949643135072,1.0,1.0,In what year was the choreographer with whom Laz Brotherston has collaborated knighted?
+52,They are both songs by American rapper G-Eazy.,rapper,0.2611732482910156,1.073406219482422,0.4268366694450378,0.1999999999999999,0.1999999999999999,What kind of artist does 911 / Mr. Lonely and Flower Boy have in common?
+53,1409,"December 2, 1409",0.3456642627716064,0.641770601272583,0.5661680698394775,0.5,0.5,"When was the university, for which Friedrich Leibniz was registrar and professor of moral philosophy, founded?"
+54,29.5 miles.,29.5 mi south,0.2829830646514892,0.9164063930511476,0.6571487784385681,0.5714285714285715,0.5714285714285715,The airport adjacent to the Cedars immigration detention facility is located how far away from Central London?
+55,Satchel Paige.,Satchel Paige,0.5112903118133545,0.7693972587585449,0.9862974882125854,1.0,1.0,Which American Negro league baseball player called Chino Smith one of the two most dangerous hitters in Negro league history?
+56,Cumberland County.,Cumberland,0.7421722412109375,0.8025321960449219,0.7818508148193359,0.6666666666666666,0.6666666666666666,Richard Hewes was a politician from a town in what Maine county?
+57,1974,1888,0.9368939399719238,0.6806449890136719,0.3988386690616607,0.0,0.0,William Greenleaf Eliot is the grandfather of an essayist who was born in which year ?
+58,Amarillo.,"199,582",0.4658792018890381,0.7301158905029297,0.0511199682950973,0.0,0.0,What was the population in 2016 of the city where Quentin Wilson resides?
+59,The Italian National Fascist Party.,The National Fascist Party,0.4450640678405761,0.9381227493286132,0.8437008857727051,0.888888888888889,0.888888888888889,"Which organisation, founded by Benito Mussolini, influenced the later creation of the Yugoslav Radical Union?"
+60,Goldfield.,268,0.2391972541809082,0.6895718574523926,0.2258618026971817,0.0,0.0,The Cactus Range is a small mountain range 23 miles east of an unincorporated community with a population of what at the 2010 census?
+61,Armenian.,Armenian,0.3753073215484619,0.5043838024139404,0.9639847278594972,1.0,1.0,Both Arthur T. Gregorian and Robert Nalbandyan belongs to which national?
+62,November 2011.,In November 2011,0.2609720230102539,0.7833540439605713,0.90696519613266,0.8,0.8,When did the host of the Krypton Factor move back to Belfast?
+63,The fourth.,fourth,0.3341619968414306,0.6494195461273193,0.814795970916748,0.6666666666666666,0.6666666666666666,"Kim Ok-bin (born December 29, 1986) is a South Korean actress, Kim made her debut in an online beauty contest in 2004, and began her acting career with a role in 2005 film ""Voice"", Voice is a 2005 South Korean horror film, and which number installment of the ""Whispering Corridors"" film series?"

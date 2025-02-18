@@ -1,0 +1,5 @@
+Batch completed
+Traceback (most recent call last):
+  File "/home/brian/桌面/ml/CAG/llm-kvcache/results/chat_judge.py", line 125, in <module>
+    from openai import APIConnectionError, OpenAI, RateLimitError
+ModuleNotFoundError: No module named 'openai'

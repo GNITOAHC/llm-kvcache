@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,House Beautiful.,House Beautiful,0.0007836818695068,1.4092645645141602,0.9679437279701232,1.0,1.0,What magazine published by the Hearst Corporation features the work of Michelle Holzapfel?,1
+1,Yes.,yes,0.0008447170257568,0.2101147174835205,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+2,"""Eye in the Sky"".","""Eye in the Sky""",0.0007703304290771,0.3556938171386719,0.9764493107795716,1.0,1.0, Han Hyo-joo won Best Actress at the 34th Blue Dragon Film Awards for her performance in a movie that was a remake of what 2007 film?,1
+3,"None, according to the text.",AC/DC,0.0007421970367431,0.3947219848632812,0.0741167739033699,0.0,0.0,"The English heavy metal band that released two albums in the 1980s had a member from Glasgow, Scotland leave the band to replace his father in what iconic hard rock band?",0
+4,659 minutes.,659,0.0008199214935302,0.2896814346313476,0.5098403096199036,0.6666666666666666,0.6666666666666666,How many minutes did the current goalkeeper for Borussia Dortmund remain unbeaten at his previous club?,1
+5,"Gawthorpe is in the Kirklees District, but the information about its representative is not provided in the given context.",Julie Cooper,0.0007145404815673,1.091385841369629,0.0557584278285503,0.0,0.0,Who represents the district that Gawthorpe is in?,0
+6,Ramallah.,Ramallah,0.0007362365722656,0.2438781261444091,0.9708780646324158,1.0,1.0,Karim Khalaf was Mayor of which West Bank city for 10 years in the late 20th century?,1
+7,"No information is provided about Eatza Pizza, so the comparison cannot be made.",no,0.0007581710815429,0.7165729999542236,0.1037010625004768,0.1428571428571428,0.1428571428571428,Are Chris Marker and Yvonne Rainer American?,0
+8,Chris Morgan.,Kurt Johnstad,0.0007662773132324,0.2431378364562988,0.3594407439231872,0.0,0.0,Who wrote the film Theron starred in after she starred in The Fate of the Furious?,0
+9,Bugs Bunny.,Bugs Bunny,0.0007545948028564,0.2380924224853515,0.9680497646331788,1.0,1.0,What cartoon bunny was the director of Robin Hood Makes Good famous for?,1
+10,Kelley Jakle.,Kelley Jakle,0.0007576942443847,0.2775349617004394,0.9852548837661744,1.0,1.0,"Pitch Perfect 2 stars which actress who is also known for her appearances on the first and second seasons of ""The Sing-Off"" in 2009 and 2010?",1
+11,Northeast China.,People's Republic of China,0.0009114742279052,0.2463207244873047,0.5273292064666748,0.2857142857142857,0.2857142857142857,"Yanzhou District and Yizheng, are in which country?",0
+12,Nepal.,Asia,0.0007269382476806,0.1676714420318603,0.5637703537940979,0.0,0.0,What continent can both Fraxinus and Rice be found?,0
+13,"He was famous for playing Dr. Jeff Webber in ""General Hospital"" and as the lead actor in the TV series ""MacGyver"".","the television series ""MacGyver"" (1985–1992)",0.0007369518280029,1.2448019981384275,0.5306728482246399,0.2222222222222222,0.2222222222222222,What was Richard Dean Anderson famous from before Stargate?,1
+14,"Cleo came out monthly, while Croissant came out biweekly.",Croissant,0.0007762908935546,0.6523592472076416,0.6070781350135803,0.1999999999999999,0.1999999999999999,Which magazine Croissant or Darling is issued more often ?,0
+15,Julie Christie.,Flashdance,0.0007448196411132,0.2389862537384033,0.1551462262868881,0.0,0.0,The Spree starred the actress who had a role in what 1983 romantic drama?,0

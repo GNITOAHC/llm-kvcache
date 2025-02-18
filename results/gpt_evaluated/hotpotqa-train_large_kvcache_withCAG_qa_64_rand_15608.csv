@@ -1,0 +1,65 @@
+idx,generated_response,ground_truth,reset_cache_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Chicago,Chicago,0.0005321502685546,0.9918475151062012,1.0,1.0,1.0,What city did Al Capone and Edward J. O'Hare both work in?,1
+1, 1936,"September 3, 1925",0.0005297660827636,1.7278544902801514,0.5441339015960693,0.0,0.0,"When was the  American actress of stage, screen, and television who starred in The Tiger Makes Out born? ",0
+2, I couldn't find any information on a movie that David Pruiksma worked on based on a novel of the same name.,Quasimodo,0.0004966259002685,10.898537158966064,0.1396576464176178,0.0,0.0,"Who is the main character in the movie that David Pruiksma worked on, that is based on a novel by the same name? ",0
+3, United States,American,0.0005576610565185,1.311535358428955,0.6264461278915405,0.0,0.0,Kerry Remsen is the daughter of an actor with what ethnicity?,1
+4, Cris Morena,Cris Morena,0.0005173683166503,2.141979694366455,1.0,1.0,1.0,Which former fashion model wrote Sweet Baby for Erreway?,1
+5, A Muse,"He is best known for his films ""Happy End"" (1999) and ""A Muse"" (2012).",0.0005140304565429,1.3101675510406494,0.4465327262878418,0.25,0.25,What film is Jung Ji-woo best known for?,0
+6, Chief Mouser to the Cabinet Office.,Chief Mouser to the Cabinet Office,0.000500202178955,3.806008100509644,0.9819830656051636,1.0,1.0,"Larry is the 10 Downing Street, official resident cat of the Prime Minister of the UK, also called? ",1
+7, 1964,1964,0.0005497932434082,1.7333555221557615,1.0000001192092896,1.0,1.0,"What year  was this wrestler who was the challenger to the Undertaker  WWF World Heavyweight Championship on May 11, 1997, was born?",1
+8, Kevin Turpin,Kevin Turpin,0.0004858970642089,1.8047616481781008,1.000000238418579,1.0,1.0,"Who is the president of the company that ranked Randy Neugebauer ""the most conservative"" member of the House in 2011?",1
+9, Nangpai Gosum,Dhaulagiri,0.0004901885986328,2.565457820892334,0.3413178324699402,0.0,0.0,Which was climbed first Nangpai Gosum or Dhaulagiri?,0
+10, Grave Digger,Grave Digger,0.0004980564117431,1.7334551811218262,1.0,1.0,1.0,Around the World in 80 Ways follows the exploits of the driver of which monster truck?,1
+11, 1996,1996-2009,0.0004923343658447,1.742410659790039,0.8262352347373962,0.6666666666666666,0.6666666666666666,"When was the man who became a member of a formal body of advisers to the Chief Executive of Macau, a former First Secretary of the Legislative Assembly of Macau?",0
+12, Delonix,Delonix,0.0004920959472656,1.73085618019104,1.0,1.0,1.0,"Which flowering plant is in the pea family, Barbarea or Delonix?",1
+13, Jennifer Lynch,Jennifer Chambers Lynch,0.0004925727844238,1.3224072456359863,0.8890094757080078,0.8,0.8,"What American film director  is also known as the author of the book ""The Secret Diary of Laura Palmer"", Peter Tscherkassky or Jennifer Lynch?",1
+14, New York metropolitan area,The New York metropolitan area,0.0005013942718505,2.152676582336426,0.9755709171295166,0.888888888888889,0.888888888888889,which Tri-State Area has SummerSlam been the the first pay-per-view to have events,1
+15, Ranger Rick,Ranger Rick,0.0005183219909667,1.3222439289093018,1.0,1.0,1.0,"Which magazine is published in the U.S., Ranger Rick or OK!?",1
+16, The Hasty Pudding Club was a social club for Harvard students.,a social club,0.0004892349243164,6.763647556304932,0.5055152177810669,0.4285714285714285,0.4285714285714285,"What type of club was the Hasty Pudding Club, founded by Charles Macomb Flandrau?",1
+17," No, Wells Fargo is a bank and financial services company, while Southwest Airlines is an airline.",no,0.0004987716674804,8.424877643585205,0.0458956509828567,0.1176470588235294,0.1176470588235294,Are Chris Marker and Yvonne Rainer American?,0
+18, 3,three,0.0004949569702148,1.3240699768066406,0.8656187057495117,0.0,0.0,"Death of a Soldier is a 1986 Australian film based on the life of American serial killer Eddie Leonski, he was an American soldier and serial killer responsible for the strangling murders of how many women in Melbourne, Australia?",1
+19, Zugspitze,Zugspitze,0.0005006790161132,2.171649217605591,1.0000001192092896,1.0,1.0,"What is the highest mountain in Germany, ahead of the Hochwanner the highest peak on the main ridge of the Wetterstein, lying south of the town of Garmisch-Partenkirchen?",1
+20," January 27, 1984","June 19, 2006",0.0004956722259521,3.40634822845459,0.5443675518035889,0.0,0.0,What is the release date of this song recorded by Taylor Swift for which she released a music video?,0
+21, Documentary films,documentary,0.0004961490631103,1.3188352584838867,0.8869969248771667,0.6666666666666666,0.6666666666666666,WHat genre are both Game Face and Junket Whore?,1
+22, Todd McFarlane,Todd McFarlane,0.000495433807373,2.1717283725738525,1.0,1.0,1.0,"Kiss Psycho Circus is a comic book series published by Image Comics, and which Canadian-American comic book creator and entrepreneur, best known for his work on ""The Amazing Spider-Man"" and the horror-fantasy series ""Spawn""?",1
+23, Netflix,Showtime,0.0004920959472656,0.8996589183807373,0.6221416592597961,0.0,0.0,"Zachary Brendan ""Zach"" McGowan is known for his role as Jody in a television series which airs on what network?",0
+24, Mackinaw City,Mackinaw City,0.0004980564117431,2.1545069217681885,1.0,1.0,1.0,"Dorton, Kentucky is located along a US highway that runs between Jacksonville, Florida and what Michigan city?",1
+25, Yes,yes,0.0005085468292236,0.8979644775390625,1.0000001192092896,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+26," No, Nine Inch Nails is an industrial rock band, and The Script is an Irish pop-rock band.",yes,0.0004901885986328,9.659728765487673,0.1428037881851196,0.0,0.0,Can Fraxinus and Onoclea both be found in North America?,0
+27, Pneumonia,pneumonia,0.000500202178955,1.7348077297210691,1.0,1.0,1.0,"What disease did Mary Stuart, daughter of Frederick II of Denmark, have that eventually cause her death?",1
+28, FEMSA,FEMSA and C.F. Monterrey,0.000490665435791,1.737534761428833,0.6646894812583923,0.3333333333333333,0.3333333333333333,Who developed the stadium at which C.F. Monterrey home game was played? ,0
+29, Louisville,Louisville Cardinals,0.0004940032958984,0.9046401977539062,0.7212932705879211,0.6666666666666666,0.6666666666666666,Which Big East championship team defeated the Florida Gators in the 2013 Sugar Bowl with a overall record of 11-2??,1
+30," ""Ice Princess""",Ice Princess,0.0005009174346923,2.1630821228027344,0.9442794919013976,1.0,1.0,"Which film inspired Zahra Laari, A Tiger Walks or Ice Princess?",1
+31, Basketball,basketball,0.0005314350128173,0.8963003158569336,1.0,1.0,1.0,"Dime Magazine and Time, are which specific type of periodical?",0
+32, The Hasty Pudding Award,Pour le Mérite,0.0004844665527343,3.4090139865875244,0.2323267161846161,0.0,0.0,What award did the creator of the HTO receive in the WW?,0
+33, Hunan TV,Hunan TV,0.0005064010620117,1.7407209873199463,1.0,1.0,1.0,Hans Zhang had a role in the 2009 series premiering on what station?,1
+34, Freiburg,"Freiburg im Breisgau, Baden-Württemberg",0.0004961490631103,1.7361783981323242,0.8192272186279297,0.2857142857142857,0.2857142857142857,The football club FC Nürnberg is loaning Lucas Hufnagel from is based in what city?,1
+35, Barq's,Barq's,0.0004963874816894,1.741189956665039,1.0000001192092896,1.0,1.0,Ramblin' Root Beer was made by the Coca-Cola Company until which brand of root beer was purchased by them in 1995?,1
+36, Nerrukku Ner,"After making his debut in ""Nerukku Ner""",0.0004858970642089,2.5642406940460205,0.636750340461731,0.2222222222222222,0.2222222222222222,"Suriya, who starred in the 1999 Tamil film ""Periyanna,"" made his debut in which movie?",1
+37, Tusculum College,"Tusculum, Tennessee",0.0005049705505371,2.147847414016724,0.6980389356613159,0.5,0.5,"On February 1, 2004 the University of South Carolina Upstate Spartans baseball team played a team from what city?",1
+38, New College,New College,0.0004980564117431,1.320096731185913,1.0000001192092896,1.0,1.0,"Longwall Street is named after an old city wall to the west of it, now largely hidden in the grounds of which University of Oxford constituent college? ",1
+39, 1979,1979,0.0004928112030029,1.727015495300293,0.9999999403953552,1.0,1.0,"In which year was this Jewish American reggae vocalist, beatboxer, and alternative rock musician who worked with Aaron Dugan born?",1
+40, The First Schleswig War,First Schleswig War,0.0004959106445312,2.981890916824341,0.9911649227142334,0.8571428571428571,0.8571428571428571,The Battle of Bov was the first battle of what military conflict between southern Denmark and northern Germany?,1
+41, New York City FC,New York City,0.0004918575286865,2.148490190505981,0.6907769441604614,0.8571428571428571,0.8571428571428571,Q: Staten Island and 125 Greenwich Street are both places in which City? A: New York City,0
+42, No,no,0.0004904270172119,0.8952169418334961,1.0,1.0,1.0,Are Chris Marker and Yvonne Rainer American?,1
+43, left winger,left winger,0.000483751296997,1.318613052368164,1.0,1.0,1.0,"During the 2007-08 Atlético Madrid season, the team signed the former Portuguese player who played mainly what position?",1
+44, The Recording Industry Association of America.,Recording Industry Association of America,0.0004825592041015,3.4116315841674805,0.9570045471191406,0.9090909090909092,0.9090909090909092," ""Beware My Love"" is a song used as the B-side of a single that included the No. 1 easy listening hit in the U.S. that was certified Gold by who?",1
+45, Shaggy,"Norville ""Shaggy"" Rogers",0.0005023479461669,1.7330608367919922,0.6871887445449829,0.5,0.5,"What character did Casey Kasem portray in What's New, Scooby-Doo?",1
+46, Ohio State University,Ohio State University,0.0004870891571044,1.7332885265350342,1.0,1.0,1.0,"Which university is larger, Ohio State University or The University of Oklahoma?",1
+47, Amy Jo Johnson,Amy Jo Johnson,0.0004885196685791,1.7483220100402832,1.0,1.0,1.0,"Which ""MIghty Morphin Power Rangers"" actress also starred in Veritas, Prince of Truth?",1
+48, Kevin Curran,Kevin Curran,0.0005042552947998,1.7250678539276123,1.0,1.0,1.0,Which American television comedy writer wrote The Winter of His Content?,1
+49, Lunar Module Pilot,Lunar Module Pilot,0.0004935264587402,1.7289574146270752,1.0,1.0,1.0,"What was the job title of this American engineer and former astronaut aboard Apollo 11, who inspired the musical Moon Landing?",1
+50, Victoria University of Wellington,Victoria University of Wellington,0.0004909038543701,2.1439626216888428,1.0,1.0,1.0,Which was established first Victoria University of Wellington and University of West Florida?,1
+51, China,People's Republic of China,0.0004966259002685,0.8993239402770996,0.5955054759979248,0.3333333333333333,0.3333333333333333,"Yanzhou District and Yizheng, are in which country?",1
+52, Clark County,Clark County,0.00050950050354,1.31465482711792,1.0,1.0,1.0,62d Expeditionary Reconnaissance Squadron is stationed at an Air Force base in what county?,1
+53, 1.9 million years,2.1 and 1.5 million years ago,0.0004956722259521,2.992722749710083,0.769195556640625,0.5,0.5,How long ago did the the species associated with KNM ER 1805 live?,0
+54, 15,15,0.0004959106445312,1.3281352519989014,1.0,1.0,1.0,"""Littlest Things"" is a song by an English singer who left school at what age?",1
+55, Kent,Kent,0.0004856586456298,0.901031255722046,1.0,1.0,1.0,"What was the middle name of the man whose first TV show was ""Hey, Landlord""?",1
+56, 1909,1909,0.0004889965057373,1.747602939605713,0.9999999403953552,1.0,1.0,When was the debut of the  football club from which Francesco Bardi was loaned? ,1
+57," Albert I, Duke of Saxony",King Valdemar II,0.0005207061767578,3.412940263748169,0.3618145287036896,0.0,0.0,Who was Jutta of Saxony's father-in-law?,0
+58, Yes,yes,0.0005006790161132,0.9015028476715088,1.0000001192092896,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+59, Disney's All-Star Movies Resort,Disney's All-Star Movies Resort,0.0005049705505371,2.9959821701049805,1.000000238418579,1.0,1.0,Disney's Pop Century Resort follows which other hotel in the Value category?,1
+60, Young Boys,Young Boys,0.0004911422729492,1.3300437927246094,1.0,1.0,1.0,Which club does the Swiss professional footballer and former member of the German association football club based in the Charlottenburg locality of Berlin currently play for?,1
+61, Yes.,yes,0.0005397796630859,1.328441143035889,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+62, Eric Knowles,Eric Knowles,0.0004937648773193,1.7450881004333496,1.0,1.0,1.0,hich of Anne Robinson's Antiques Roadshow's co-workers has a main interest of ceramics?,1
+63, 1,three,0.0004951953887939,1.3239057064056396,0.6364648938179016,0.0,0.0,"Death of a Soldier is a 1986 Australian film based on the life of American serial killer Eddie Leonski, he was an American soldier and serial killer responsible for the strangling murders of how many women in Melbourne, Australia?",0

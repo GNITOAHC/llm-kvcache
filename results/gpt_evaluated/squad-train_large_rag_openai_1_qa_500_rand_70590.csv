@@ -1,0 +1,501 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,Sponges filter food particles from the water.,drawing in water through pores,0.5589702129364014,2.1573145389556885,0.3710777759552002,0.1666666666666666,0.1666666666666666,How do sponges typically feed?,1
+1,1773.,1773,0.5450747013092041,0.4122862815856933,0.9729280471801758,1.0,1.0,When did Isaac Backus write against a state sanctioned religion?,1
+2,"The Act of ""Nihil novi nisi commune consensu"" was a law in the Province of West Jersey that declared there should be no religious test for office.",forbade the king to pass any new law without the consent of the representatives of the nobility,0.426661729812622,1.5714244842529297,0.2696518301963806,0.2272727272727272,0.1818181818181818,"What did The Act of ""Nihil novi nisi commune consensu"" Do",0
+3,J. Brent Walker.,J. Brent Walker,0.6295998096466064,0.3772242069244385,0.9862083196640016,1.0,1.0,Who is the Executive Director of the Baptist Joint Committee?,1
+4,"July 23 - August 28, 2008.",April 28.,0.4891886711120605,0.5369653701782227,0.7151196599006653,0.2857142857142857,0.2857142857142857,What date did the torch relay event take place?,0
+5,The Silk Road.,Silk Road,0.492093563079834,0.410275936126709,0.9549000263214112,0.8,0.8,Which network was used to exchange goods with Rome?,1
+6,"Olympia, Greece.","Olympia, Greece",0.325624942779541,0.2263898849487304,0.9843223690986632,1.0,1.0,Where was the Olympic torch lit?,1
+7,There is no mention of MOCAD in the given context.,Museum of Contemporary Art Detroit,0.6789312362670898,0.7573935985565186,0.0241164080798625,0.1333333333333333,0.1333333333333333,What does MOCAD stand for?,0
+8,The separation of church and state.,constitutional limitation on religious establishment,0.4237840175628662,0.5268933773040771,0.6398825645446777,0.0,0.0,What do scholars also disagree with about the way the Supreme Court has interpreted what?,1
+9,Hereditary and privileged.,"formalized, hereditary",0.5020902156829834,0.4517953395843506,0.6432408690452576,0.4,0.4,What are two adjectives that best describe the szlachta?,0
+10,Co-proprietors of Piast realms.,co-proprietors of Piast realms,0.2735192775726318,0.6048166751861572,0.976728081703186,1.0,1.0,What did some Mozni regard themselves with?,1
+11,The spiritual world.,a religious dimension,0.383594274520874,0.4122755527496338,0.5620208978652954,0.0,0.0,What has the separation of church and state failed to deny the political realm of?,0
+12,"The night blooming flower on St. Barts is the ""Queen of the Night"" or ""Queen of the Island"", also known as the ""Cestrum nocturnum"".",cereus,0.50411057472229,1.4971981048583984,0.3173654079437256,0.0,0.0,What is the name of the night blooming flower on St. Barts?,0
+13,Belle Isle Park.,Belle Isle Park,0.3466560840606689,0.4126369953155517,0.9831501841545104,1.0,1.0,What is the large island park in Detroit?,1
+14,"The international torch relay was canceled for the 2008 Summer Olympics in Paris, France, and San Francisco, USA, due to protests.",Paralympic Games,0.4344241619110107,1.147879123687744,0.2555265426635742,0.0,0.0,For what events was the torch relay decided to not be held?,0
+15,Tension with suburban counterparts over regional matters.,high crime rate,0.3528258800506592,0.6025261878967285,0.257681131362915,0.0,0.0,What was Mayor Young criticized for not reducing?,0
+16,The establishment clause.,"""establishment clause""",0.4546873569488525,0.4131665229797363,0.9246662855148317,0.8,0.8,What is the first part of the First Amendment know as?,1
+17,The Plymouth Colony and Massachusetts Bay Colony both established churches.,churches,0.2645142078399658,0.6820309162139893,0.3779279589653015,0.1818181818181818,0.1818181818181818,What did the Plymouth Colony and Massachusetts Bay Colony both establish?,1
+18,"""Hanover"" possibly originally meant ""raven's town"" or ""high town"".","""high (river)bank""",0.6553399562835693,0.7700824737548828,0.32153981924057,0.1538461538461538,0.1538461538461538,What did Hanover possibly originally mean?,0
+19,Roger Williams was a nonconformist Protestant Christian who fled England to escape persecution and ensured the protection of religious minorities in his colony of Rhode Island.,Baptist theologian,0.3107941150665283,1.4117138385772705,0.3377516269683838,0.0,0.0,Who was Roger Williams?,0
+20,"The Detroit Free Press was founded in 1831, but I couldn't find any information about a newspaper founded in 1935.",Michigan Chronicle,0.5299561023712158,1.2961328029632568,0.3992506563663482,0.0,0.0,What newspaper was founded in 1935?,0
+21,Hannover 96.,Hannover 96,0.416579008102417,0.4506239891052246,0.9794034957885742,1.0,1.0,"Who does the nicname ""Die Roten"" belong to?",1
+22,Civil religion.,pervasive,0.3061039447784424,0.2987768650054931,0.2301471084356308,0.0,0.0,What type of secularism came to dominate American public life?,0
+23,Mieszko I of Poland.,Ducal Prussia,0.2359812259674072,0.5273065567016602,0.4980798363685608,0.0,0.0,What is one leader from the polish-lithuanian common weaith. ,0
+24,1800-1828,"A.D., 1138 – A.D., 1314",0.2694230079650879,0.3034021854400635,0.3198451399803161,0.0,0.0,WHen was the period of Division?,0
+25,The Eiffel Tower in Paris.,Paris,0.2531182765960693,0.5662939548492432,0.680320143699646,0.3333333333333333,0.3333333333333333,What was the largest European city in 1667?,0
+26,I don't see any information about Jens Galschiøt in the given context.,The Color Orange,0.2694950103759765,0.9568989276885986,0.0419908724725246,0.1176470588235294,0.1176470588235294,What group did Jens Galschiøt lead?,0
+27,Clay.,clay,0.4226303100585937,0.3095211982727051,0.9541090130805968,1.0,1.0,What material is the Detroit Moraine composed of?,1
+28,"None, the text does not mention any additional teams helping with the Mainland China route.",Two,0.2558403015136719,0.95219087600708,0.1198791712522506,0.0,0.0,How many methods comprise standard approaches used to classify bacteria and diagnose disease?,0
+29,There is no mention of Sherman in the provided context.,Constitution only gave Congress stated powers,0.6054894924163818,0.6811184883117676,0.2217299044132232,0.0,0.0,Why did Sherman believe the establishment clause was unnecessary? ,0
+30,There is no information in the text about the number of Catholic high schools in Detroit.,three,0.2367525100708007,0.9128592014312744,0.0465609356760978,0.0,0.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?",0
+31,400.,400,0.3093523979187011,0.34908127784729,0.944799780845642,1.0,1.0,How many members of the National Assembly were from Egypt?,1
+32,"Majora Carter, an environmental advocate.",Sulaf Fawakherji,0.7075841426849365,0.5686337947845459,0.1532498598098755,0.0,0.0,Which actress carried the torch for part of the route?,0
+33,"A Polish nobleman was referred to as a ""rycerz"" before the 15th century.",rycerz,0.3364641666412353,1.0682506561279297,0.4853900671005249,0.1428571428571428,0.1428571428571428,WHat was a polish nobleman referred to as before the 15th century?,1
+34,It was extinguished by Chinese security officials for security reasons.,by bus,0.2530593872070312,0.7233390808105469,-0.0178392697125673,0.1666666666666666,0.1666666666666666,"Rather than being carried by an athlete, how did the torch end its route in Paris?",0
+35,The historic Library Pavillon.,Library Pavillon,0.3458333015441894,0.4897172451019287,0.8927910327911377,0.6666666666666666,0.6666666666666666,What historic landmark is near the entrance to the Berggarten?,1
+36,The state was allowed to continue to fund transportation of students to both public and Catholic schools.,transportation of students to religious schools,0.4471426010131836,0.948383331298828,0.6747757196426392,0.4347826086956522,0.4347826086956522,What was the state allowed to continue to fund?,1
+37,The Polish nobility.,the highest members of the nobility,0.4231221675872803,0.4191749095916748,0.5314440727233887,0.4444444444444444,0.4444444444444444,WHo was first invloved in the polonization?,1
+38,Democracy.,democracy.,0.3161835670471191,0.3101680278778076,1.0,1.0,1.0,"Some people waved plastic inflated flames, saying they symbolize what?",1
+39,Torch relay.,global relays,0.3148312568664551,0.1778671741485595,0.5969805121421814,0.5,0.5,What was halted with the torch relay for future Olympics?,0
+40,1988.,1988 Summer Olympics,0.9107584953308104,0.388277530670166,0.6508016586303711,0.5,0.5,Which Olympics did Seoul host?,1
+41,The Chinese government used state media to call for calm and censored the internet to remove comments related to the boycott.,censorship,0.3352992534637451,1.145073652267456,0.4445012807846069,0.0,0.0,"Napoleon employed what practice in controlling aspects of the media, books, and the arts?",0
+42,Mia Farrow.,Mia Farrow,0.3169353008270263,0.4127166271209717,0.9854749441146852,1.0,1.0,Which actress from America was initially held and then gave a speech about China and Sudan?,1
+43,The religious clauses in the state constitutions.,religious clauses in the state constitutions,0.2925326824188232,0.6024050712585449,0.9779637455940248,0.923076923076923,0.923076923076923,What was Tucker concerned the establishment clause could preempt?,1
+44,There is no information about the number of bombing raids in the given context.,88,0.3259074687957763,0.836371898651123,0.0496210418641567,0.0,0.0,How many shows were sold out?,0
+45,I-275.,I-275,0.2810037136077881,0.3009026050567627,0.9759057760238647,1.0,1.0,Which highway runs north from I-75 to the junction of I-96 and I-696?,1
+46,To worship freely and escape religious persecution.,governmentally composed prayers for religious services,0.2329835891723632,0.5678362846374512,0.444150447845459,0.1538461538461538,0.1538461538461538,What was one of the reasons early colonists left England to seek religious freedom in America?,1
+47,1956,1956,0.2580020427703857,0.3726439476013183,1.0,1.0,1.0,When did construction on the Tribhuvan Highway begin?,1
+48,There is no mention of a famous mansion in the provided text.,David Whitney House,0.3296010494232178,0.7592105865478516,0.2723729908466339,0.0,0.0,What is the most famous mansion in Detroit?,0
+49,The internal body cavity of animals in the Bilateria group is called a pseudocoelom.,coelom or pseudocoelom,0.282515287399292,0.989978551864624,0.6417896747589111,0.1176470588235294,0.1176470588235294,What is the internal body cavity of animals in the Bilateria group called?,0
+50,New Center.,New Center,0.3183317184448242,0.3727807998657226,0.9733954668045044,1.0,1.0,Where is TechTown based?,1
+51,Gustavia.,Gustavia,0.4202334880828857,0.2593350410461426,0.9822341203689576,1.0,1.0,What town is the Museum located in?,1
+52,"The first relay runner, Georgia's Nino Ninua, disappeared with the torch in the 2008 Summer Olympics.",a warehouse,0.3507661819458008,0.9980795383453368,-0.1120489537715911,0.0,0.0,Where did the first relay runner disappear to with the torch??,0
+53,86% of Detroit's homes are in good condition.,86%,0.2403221130371093,0.7228515148162842,0.5024391412734985,0.1999999999999999,0.1999999999999999,How many of Detroit's home are in good condition?,1
+54,Reporters Without Borders.,Reporters Without Borders,0.2541906833648681,0.4513449668884277,0.97656512260437,1.0,1.0,"In the 2014 Press Freedom Index, what organization ranked the media environment in Eritrea as the worse of 178 countries?",1
+55,The Olympic Stadium in Beijing.,Jinnah Stadium,0.2837791442871094,0.3036682605743408,0.6367897987365723,0.2857142857142857,0.2857142857142857,Where was an indoor ceremony held since the outdoor relay was cancelled?,0
+56,Over 1.6 million people visited the Hanover Zoo in 2010.,1.6 million,0.4616410732269287,0.9114546775817872,0.3736035227775574,0.4285714285714285,0.4285714285714285,How many people visited the Hanover Zoo in 2010?,1
+57,There is no information in the provided context about someone being arrested on April 26 for posting an online message.,A Macau resident,0.2966456413269043,1.1047356128692627,0.1213006675243377,0.0,0.0,Who was arrested on April 26 for posting an online message?,0
+58,There is no information in the text about a major global reinsurance company having their headquarters east of the city center.,Hannover Re,0.2757995128631592,1.1463303565979004,0.1865827739238739,0.0,0.0,Which major global reinsurance company has their headquarters east of the city center?,0
+59,The szlachta's legal status was dependent on the Russian Empire's sovereignty until 1918.,szlachta,0.2850794792175293,1.0618507862091064,0.5062472820281982,0.125,0.125,UNtil 1918 whos legal status was dependent on the russian empiresovereignty of szlachta?,1
+60,La Pointe.,La Pointe,1.6354632377624512,0.2982263565063476,0.9798427820205688,1.0,1.0,On what part of the island is Fort Oscar located on the far side of?,1
+61,I-696 (Reuther Freeway) runs through the northern suburbs of Detroit.,I-696,0.2873129844665527,0.7988336086273193,0.4954286217689514,0.3076923076923077,0.3076923076923077,Which highway runs through the northern suburbs of Detroit?,1
+62,"""Respect for Human Rights in China""",Respect for Human Rights in China,0.2889003753662109,0.6074573993682861,0.9601730108261108,1.0,1.0,Why did the banner say that was unveiled during the temporary halt?,1
+63,The authorities.,police,0.3915796279907226,0.3721740245819092,0.6835859417915344,0.0,0.0,Who is rumored to have threatened Barcelona players before the match against Real Madrid?,1
+64,"£750,000.","£750,000",0.2513771057128906,0.4498858451843261,0.9620665311813354,1.0,1.0,How much did security cost for the torch relay in London?,1
+65,"""Animalis"" means ""of or pertaining to an animal"".","having breath, having soul or living being",0.3491427898406982,0.5721590518951416,0.116835743188858,0.1333333333333333,0.1333333333333333,What does the Latin word animalis mean?,0
+66,die beste leuten,die beste leuten,0.3538248538970947,0.4112515449523926,1.0000001192092896,1.0,1.0,WHat were nobles named in german language?,0
+67,The Garden Theatre.,GOP Variety theatre,0.302290678024292,0.4134788513183594,0.6317295432090759,0.3333333333333333,0.3333333333333333,What famous theatre is located in Georgs Palace?,0
+68,"The population of Detroit shifted to the suburbs in the second half of the 20th century, a phenomenon known as ""white flight"".",suburbs,0.3644087314605713,1.294184684753418,0.3933563530445099,0.0869565217391304,0.0869565217391304,Where did wealthy residents move?,1
+69,23 October 1501.,23 October 1501,0.3362555503845215,0.5283758640289307,0.9870712757110596,1.0,1.0,When did the Mielnik Polish–Lithuanian union reform?,1
+70,szlachta,indygenat,0.3407044410705566,0.4147682189941406,0.1950680911540985,0.0,0.0,WHat is another name for polish noble?,0
+71,1817,1817,0.5309908390045166,0.3724353313446045,1.0000001192092896,1.0,1.0,When did  The Hotel Meurice open?,1
+72,April 9.,April 9,0.2737832069396972,0.4137928485870361,0.9714570045471193,1.0,1.0,What day did the torch arrive in San Francisco?,1
+73,Protests and demonstrations.,terrorist targets.,0.3790395259857178,0.4260754585266113,0.3732247948646545,0.0,0.0,What kind of targets do Republic Day events present as?,0
+74,Berlin.,Berlin,0.2900702953338623,0.2618253231048584,0.974478244781494,1.0,1.0,"Along with reducing nuclear weapons, what was to have been the topic of conversation at the Four Power Paris Summit?",1
+75,There is no information in the text about Detroit celebrating its 300th anniversary.,2001,0.2745649814605713,0.8722984790802002,0.1353379637002945,0.0,0.0,When was vaccination used to prevent the spread of the foot-and-mouth virus?,0
+76,The fur trade.,fur,0.2816722393035888,0.4118368625640869,0.7414562702178955,0.5,0.5,What trade was instrumental to the growth of this region?,1
+77,"2 (Lin Hatfield Dodds and 2 intended torchbearers in Japan, Choi Seung-kook and Park Won-sun)",five,0.2689089775085449,1.3706698417663574,0.1937151849269867,0.0,0.0,How many sectors make up the Kathmandu metropolitan area?,0
+78,1422.,1422,0.5911037921905518,0.3871643543243408,0.9731607437133788,1.0,1.0,When did the established right for inviolability of nobles property?,1
+79,13th century.,13th century,0.3736140727996826,0.2655229568481445,0.9636054039001464,1.0,1.0,In what century did the first Osman I organized military unit form?,1
+80,Richard Gere.,Richard Gere,0.2647087574005127,0.412013292312622,0.9848474264144896,1.0,1.0,What actor was scheduled to attend a San Francisco Olympic protest?,1
+81,Zenkō-ji temple.,Japanese Buddhist temple Zenkō-ji,0.3012595176696777,0.5279946327209473,0.8787220120429993,0.7499999999999999,0.5,What location was supposed to be the start of the relay event in Nagano?,1
+82,Delta blues.,blues,0.3800263404846191,0.3737721443176269,0.7340799570083618,0.6666666666666666,0.6666666666666666,What type of music is John Lee Hooker known for?,1
+83,"1355, 1374, 1422, 1430, 1447, and 1454.",at the time of their election to the throne,0.261481761932373,1.191806077957153,0.1986642479896545,0.0,0.0,When did kings grant privileges to the nobles?,0
+84,Platyhelminthes.,Platyhelminthes,0.3289463520050049,0.3516354560852051,0.9877396821975708,1.0,1.0,What is another name for flatworm?,1
+85,Strict separation of church and state.,strict separationism,0.318157434463501,0.5256204605102539,0.6243370771408081,0.25,0.25,What is opposed today by members of many Protestant faiths?,1
+86,B65.,B65,0.3167512416839599,0.37530517578125,0.9757128953933716,1.0,1.0,What road does the Südschnellweg start out as?,1
+87,There is no information about a specific event on the 15th of December 1941 in the given context.,Wannsee Conference,0.2580859661102295,1.1390018463134766,0.0593097321689128,0.0,0.0,What occured on the 15th of December 1941?,0
+88,There is no information about the Stanley Cup in the given context.,Red Wings,0.2847929000854492,0.7586588859558105,0.4135375320911407,0.0,0.0,Who won the Stanley Cup in 1936?,0
+89,The suburbs.,suburbs,0.3675954341888428,0.3749303817749023,0.9161810874938964,0.6666666666666666,0.6666666666666666,Where did wealthy residents move?,1
+90,The Obelisk to the city hall.,from the Obelisk to the city hall,0.409053087234497,0.6040589809417725,0.9641181230545044,0.923076923076923,0.923076923076923,What route was planned for an alternative march?,1
+91,Władysław II Jagiełło.,King Casimir III the Great,0.2442946434020996,0.6158256530761719,0.298938512802124,0.0,0.0,Under whos' reign did the szlachta gain institutional privileges?,0
+92,The text does not mention the family that purchased the Detroit Opera House.,Nederlander,0.2526581287384033,0.7988216876983643,0.0375166535377502,0.0,0.0,What family purchased the Detroit opera House?,0
+93,The text does not mention the right to mint coinage.,ceded,0.3190789222717285,0.7184133529663086,0.1602770984172821,0.0,0.0,What happened to the right to mint coinage?,0
+94,To guarantee the Polish throne for his daughter Jadwiga.,in order to guarantee the Polish throne for his daughter Jadwiga,0.3292789459228515,0.6943597793579102,0.927743434906006,0.9,0.9,WHy did King louis approve the privilege?,1
+95,Living creatures.,non-human members of the kingdom Animalia,0.3732838630676269,0.1872007846832275,0.4346582889556885,0.0,0.0,The word animal is usually only used to refer to what?,0
+96,"Cacti, succulents, sea grapes, palm trees, mangroves, and other tropical plants.",succulent,0.2749378681182861,1.138434886932373,0.4124831557273865,0.1666666666666666,0.1666666666666666,What types of plants are usually found at St. Barts?,1
+97,The Great Migration.,Great Migration,0.3391110897064209,0.4111182689666748,0.8911918997764587,0.8,0.8,What was the movement of blacks to northern cities called?,1
+98,There is no information about the native peoples of Saint-Barthélemy calling the island by a specific name.,Ouanalao,0.2567718029022217,1.1407883167266846,0.0561583116650581,0.0,0.0,What did the native peoples of Saint-Barthélemy call the island?,0
+99,"The wall separating church and state in the US must be kept by maintaining the Establishment Clause of the 1st Amendment, which prohibits government support or favoritism towards any particular religion.",high and impregnable,0.2599780559539795,1.4990594387054443,-0.0189138874411582,0.0588235294117647,0.0588235294117647,How must the wall separating church and state be kept?,0
+100,Pakistan.,Republic Day celebrations,0.3327510356903076,0.33538818359375,0.0972942486405372,0.0,0.0,The security given to the torch relay in New Delhi is reminiscent of the security of what?,0
+101,10%,8%,1.2267649173736572,0.1893115043640136,0.808820903301239,0.0,0.0,How much of Greece's energy consumption came from renewable sources in 2008?,0
+102,Placards.,placards,0.9008643627166748,0.4108664989471435,0.9920910596847534,1.0,1.0,What did Chinese volunteers take from two Malaysian demonstrators?,1
+103,King Władysław II Jagiełło,Hieronim Nekanda Trepka,0.3333842754364013,0.6160993576049805,0.3015787601470947,0.0,0.0,Who denounced many nobles?,0
+104,CNN.,CNN,0.3238606452941894,0.3341493606567383,0.927415668964386,1.0,1.0,What TV channel carried the broadcast of the coup?,1
+105,1868.,1868,0.3303859233856201,0.4141407012939453,0.9646062850952148,1.0,1.0,When was the passage of the 14th Amendment?,1
+106,Hanover.,Gustavia,0.482656717300415,0.3000507354736328,0.3074465990066528,0.0,0.0,What town is the Museum located in?,0
+107,The BBC and Carrefour.,their staff,0.36346435546875,0.5248193740844727,0.2730347216129303,0.0,0.0,Both organizations withdrew what?,0
+108,Ho Chi Minh City.,Ho Chi Minh City,0.3640072345733642,0.4247381687164306,0.9903604984283448,1.0,1.0,Where was the torch event held in Vietnam?,1
+109,May.,May,0.4022200107574463,0.3332612514495849,0.889477014541626,1.0,1.0,Which month marks the start of a Premier League season?,0
+110,2 (Leine and Ihme),two,0.4829995632171631,0.4171960353851318,0.4508064389228821,0.0,0.0,How many types are Nepali works of art typically divided into?,1
+111,Yonge Street.,Van Ness Avenue,0.227853775024414,0.2155544757843017,0.507885217666626,0.0,0.0,"After the bearer of the torch disappeared into a warehouse, what road did the relay reappear on?",0
+112,The NCAA football Little Caesars Pizza Bowl is held at Ford Field in Detroit each December.,Little Caesars Pizza Bowl,0.2573325634002685,0.9849975109100342,0.6781995892524719,0.4,0.4,Which bowl game is held in Detroit?,1
+113,800 ennoblements per century.,two ennoblements per year,0.2457969188690185,0.5679337978363037,0.7529308795928955,0.5,0.5,What is average for ennoblements between 14th and min 18th century.,-1
+114,There is no information about Miesko I of Poland in the given context.,(c. 935 – 25 May 992),0.4073834419250488,0.8755769729614258,0.119887501001358,0.0,0.0,How long was Miesko I of Poland reigning?,0
+115,A protest banner.,banner,0.3077685832977295,0.4113566875457763,0.6886937618255615,0.5,0.5,What was hung from the Eiffel Tower?,1
+116,The Pillar of Shame.,Pillar of Shame,0.2699301242828369,0.4866018295288086,0.9465668201446532,0.8571428571428571,0.8571428571428571,What structure did Jens Galschiøt build to monumentalize the Tianamen Square protests in 1989?,1
+117,The Cranbrook Art Museum.,Cranbrook Art Museum,0.3324792385101318,0.4893314838409424,0.9721516370773317,0.8571428571428571,0.8571428571428571,What museum is in Bloomfield Hills?,1
+118,Bias.,Western media bias.,0.2740132808685303,0.3338220119476318,0.6489804983139038,0.5,0.5,Some Chinese have accused Western media of what in their reportings?,1
+119,The first syllable.,first,0.3530149459838867,0.4503171443939209,0.3764425814151764,0.5,0.5,Where did students after the scientific revolution put science on the scale of importance?,0
+120,"The Poles of the 17th century thought the term ""szlachta"" came from the German ""schlachten"" (""to slaughter"" or ""to butcher"") or ""Schlacht"" (""battle"").","German ""schlachten""",0.2872099876403808,1.985933780670166,0.6519219279289246,0.16,0.16,What did the poles of the 17th century think the term szlachta came from?,1
+121,Pacifism and traditional village life.,peace and pacifism,0.3265962600708008,0.5316753387451172,0.5769942998886108,0.5,0.25,What was also pushed for by result of sarmatism?,0
+122,7,seven,0.2752339839935303,0.3327491283416748,0.9258614778518676,0.0,0.0,How many Monument Zones are present in the Kathmandu valley?,1
+123,"1,400.","1,400",0.3258812427520752,0.4511842727661133,0.9798928499221802,1.0,1.0,How many neophytes resided in the San Diego area in 1797?,1
+124,Earthworms.,earthworms,0.2519567012786865,0.4124124050140381,0.9649503827095032,1.0,1.0,Triploblastic worms were comparable in size to what other creatures?,1
+125,"Olympia, Greece.",Olympic Park,2.003446578979492,0.2268478870391845,0.4883378744125366,0.0,0.0,Where was the start point for the relay?,0
+126,Regionalliga Nord.,fourth league,0.4800775051116943,0.2662763595581054,0.1978523731231689,0.0,0.0,Which league does the reserve team Hanover 96 II play in?,1
+127,"The word ""animal"" comes from the Latin ""animalis"", meaning ""having breath"", ""having soul"", or ""living being"".",Latin animalis,0.2984077930450439,1.2910120487213137,0.6649327278137207,0.2222222222222222,0.2222222222222222,Where does the word animal come from?,1
+128,Midtown and downtown areas.,in the hotels,0.3389027118682861,0.487450361251831,0.4319658279418945,0.0,0.0,Where are most of the nice restaurants located?,0
+129,Mauricio Macri.,Mauricio Macri,0.3193724155426025,0.4526500701904297,0.9882285594940186,1.0,1.0,What is the name of the mayor who passed off the torch to the first bearer in Argentina?,1
+130,Board of Education of Kiryas Joel Village School District v. Grumet (1994).,Board of Education of Kiryas Joel Village School District v. Grumet,0.2418596744537353,0.9847424030303956,0.9639506936073304,0.9565217391304348,0.9565217391304348,What was a recent case involving the application of the principle of the establishment clause against states?,1
+131,The traditional English spelling.,traditional English spelling,0.355353832244873,0.4490203857421875,0.88624107837677,0.8571428571428571,0.8571428571428571,Which spelling of Hanover is used in historical contexts?,1
+132,I don't have information about Nursultan Nazarbaev in the given context.,the President of Kazakhstan,0.3791067600250244,0.8852529525756836,0.3565210998058319,0.125,0.125,Who is Nursultan Nazarbaev?,0
+133,"""The Midnight Express""",The Midnight Express,0.3932993412017822,0.2640461921691894,0.956799328327179,1.0,1.0,What is Eddie Tolan's nickname?,1
+134,Raw eggs.,plastic air-filled batons,0.2811846733093261,0.3746662139892578,0.0502418875694274,0.0,0.0,What were a Japanese family who unveiled a Tibetan flag hit with?,0
+135,Petronas Twin Towers.,Petronas Twin Towers.,0.4524319171905517,0.4881529808044433,1.0,1.0,1.0,Where did the relay end in Malaysia?,1
+136,Health.,health,0.3275518417358398,0.336216926574707,0.8801814913749695,1.0,1.0,What generally declines in places that are segregated by race or class?,1
+137,Dutch Reformed Church.,"Dutch Reformed, Quaker or Presbyterian",0.4210073947906494,0.4534254074096679,0.7535504102706909,0.5,0.5,"Instead of Anglican, what were the churches most often supported in New York and New Jersey?",0
+138,They were prohibited from searching for words related to the French protests online.,owning land,0.2576320171356201,0.7948548793792725,-0.0175261385738849,0.0,0.0,What were the townsfolk prohibited from doing?,0
+139,Religious beliefs.,Religious,0.3156018257141113,0.3730754852294922,0.7774500846862793,0.6666666666666666,0.6666666666666666,What type of beliefs are not an allowed job qualification test for federal employees?,1
+140,5 times.,five,0.2425043582916259,0.4124596118927002,0.6086008548736572,0.0,0.0,How many sectors make up the Kathmandu metropolitan area?,1
+141,Procedural grounds.,liberum veto,0.2902116775512695,0.4522008895874023,0.1070897728204727,0.0,0.0,What is is called to nullify proceedings?,0
+142,The flatworms' closest relatives are the microscopic Gastrotricha.,Gastrotricha,0.3786842823028564,0.8328044414520264,0.5417774319648743,0.2222222222222222,0.2222222222222222,What are the flatworms closest relative?,1
+143,Beijing's Tiananmen Square.,Justin Herman Plaza,0.2956538200378418,0.3327236175537109,0.2555089592933655,0.0,0.0,What is the name of the location where the relay ending event was canceled?,0
+144,130 days.,130 days,0.3835282325744629,0.4098761081695556,0.9682961702346802,1.0,1.0,How many days did the plane travel?,1
+145,Mauricio Macri.,Mauricio Macri,0.4268815517425537,0.4513180255889892,0.9882285594940186,1.0,1.0,What is the name of the mayor who passed off the torch to the first bearer in Argentina?,1
+146,"713,777.","700,000",0.3335978984832763,0.4511160850524902,0.4190489053726196,0.0,0.0,What was the population of Detroit in 2010?,1
+147,There is no information about the number of restaurants on the island.,over 70,0.4676446914672851,0.7305829524993896,0.078896515071392,0.0,0.0,How many waymarkers are present on the Devonport Heritage Trail?,0
+148,48.9% of land in Russian Poland was in peasant hands.,48.9%,0.327716588973999,0.836439847946167,0.4074297547340393,0.3076923076923077,0.3076923076923077,How much land was held by the peasants? ,1
+149,484.,484,0.3539912700653076,0.3732838630676269,0.9643412828445436,1.0,1.0,How many Hanoverian Jews were expelled in 1938?,1
+150,The text does not specify the distance of the relay route in the Middle East.,20,0.2608928680419922,0.8690612316131592,0.0838556066155433,0.0,0.0,How many members of the Council received their positions via nomination rather than election?,0
+151,There is no mention of Île Frégate in the provided context.,satellite islets,0.2822401523590088,0.8355963230133057,0.0795062407851219,0.0,0.0,What is Île Frégate in relation to St Barts?,0
+152,There is no mention of a protest in Delhi in the given context.,police.,0.3114576339721679,0.7945332527160645,0.0320510491728782,0.0,0.0,Who disbanded the protest in Delhi?,0
+153,"The low-density areas of Detroit are located in the city's neighborhoods, with about a quarter of residential lots being undeveloped or vacant.",northeast and on the city's fringes,0.2443909645080566,1.3320257663726809,0.3131750524044037,0.1935483870967741,0.1935483870967741,Where are most of the low density area of Detroit located?,0
+154,"There is no specific number mentioned in the text, but it mentions that ""numerous protests"" were planned, including one led by actor Richard Gere and Archbishop Desmond Tutu.",hundreds,0.3491830825805664,1.6342709064483645,0.4316539764404297,0.0,0.0,How many denominations were spawned by Pentecostalism?,0
+155,The Mumford Auto Show parade started in 1924.,America's Thanksgiving Parade,0.4018938541412353,0.7157773971557617,0.4335788786411285,0.1666666666666666,0.1666666666666666,Which parade started in 1924?,0
+156,May 1.,May 1,0.3513948917388916,0.4113569259643554,0.9723951816558838,1.0,1.0,When did protests in front of Carrefour's stores occur in China?,1
+157,The second syllable.,second,0.3274753093719482,0.4525814056396484,0.3508192896842956,0.5,0.5,On what day did U.S> planes located Ozawa's fleet?,0
+158,"The topic of Reynolds v. U.S. was the examination of the history of religious liberty in the US and the meaning of the word ""religion"" in the Constitution.",Mormon polygamy,0.3408243656158447,1.593008279800415,0.1610484421253204,0.0,0.0,What was the topic of Reynolds v. U.S.?,0
+159,There is no information in the text about the year Detroit's population peaked.,1950,0.2647871971130371,0.8358981609344482,0.1690084934234619,0.0,0.0,In what year could Nepal be said to have been discovered by the outside world?,0
+160,Corktown.,Corktown,0.4478166103363037,0.3728973865509033,0.9805973172187804,1.0,1.0,"Other than Downtown and Midtown, what area boasts a fast growing restaurant scene?",1
+161,No religious test.,religious test,0.2735466957092285,0.4126977920532226,0.8741704821586609,0.8,0.8,What clause are both elected officials and appointed ones covered by?,1
+162,Garage rock.,garage rock,0.2336997985839843,0.3736910820007324,0.9771806001663208,1.0,1.0,What genre does The White Stripes fit into?,1
+163,The text does not mention the specific religious group operating the Catholic high schools.,Society of Jesus,0.4317035675048828,0.8309028148651123,0.2616847157478332,0.0,0.0,Two of the three Catholic high schools are operated by which religious group?,0
+164,Obscure.,obscure,0.2586917877197265,0.4128093719482422,0.96991229057312,1.0,1.0,Have the origins of the szlachta been clear or obscure?,1
+165,1964.,1964,0.8354549407958984,0.4121267795562744,0.9599661827087402,1.0,1.0,"When was the 'one man, one vote' decision?",1
+166,The Midwest.,Midwest,0.2928767204284668,0.3738174438476562,0.9221113324165344,0.6666666666666666,0.6666666666666666,In what region of the country is Detroit located?,1
+167,Gustaf III Airport is located on the north coast of the island.,the north coast,0.4122517108917236,0.7978565692901611,0.3842909932136535,0.4,0.4,Where is the airport located on the island?,1
+168,"The external ectoderm and internal endoderm layers develop into the epidermis and the lining of the digestive tract, respectively.",tissues and organs,0.311838150024414,1.2984437942504885,0.3888997435569763,0.0909090909090909,0.0909090909090909,What do the external ectoderm and an internal endoderm layers develop into?,0
+169,"The text does not mention the name of the Detroit Pistons' arena. It does mention the Detroit Red Wings' arena, but not the Pistons'.",The Palace of Auburn Hills,0.2966988086700439,1.3751063346862793,0.3053894639015198,0.1379310344827586,0.1379310344827586,What is the name of Detroit Piston's arena?,0
+170,Tri-Centennial State Park and Harbor.,Tri-Centennial State Park,0.4171609878540039,0.6040945053100586,0.88036048412323,0.8,0.8,What is Michigan's first urban park?,1
+171,"The two clauses of the First Amendment, the ""establishment clause"" and the ""free exercise clause"", form the textual basis for the Supreme Court's interpretations of the ""separation of church and state"" doctrine.","the Supreme Court's interpretations of the ""separation of church and state"" doctrine.",0.2808318138122558,1.9037213325500488,0.7956322431564331,0.5652173913043478,0.5652173913043478,What do the two clauses of the First Amendment for the basis of?,1
+172,There is no mention of someone throwing a Tibetan flag from a City Hall window in the text.,Green Party officials.,0.3951313495635986,0.98844313621521,0.1424923837184906,0.0,0.0,Who put a flag of Tibet out of the window at City Hall?,0
+173,"Because the Supreme Court ruled that it displayed no preference for a particular religion, and was considered ceremonial deism.",because it displayed no preference for a particular religion,0.3349034786224365,1.1016616821289062,0.727224588394165,0.6428571428571429,0.6428571428571429,Why was Ohio allowed to use a biblical passage as its motto?,1
+174,"The torch relay was not held in the streets of Islamabad, Pakistan, due to security concerns.",Paralympic Games,0.2331213951110839,0.9921219348907472,0.1020850017666816,0.0,0.0,For what events was the torch relay decided to not be held?,0
+175,1919.,1919,0.2826058864593506,0.4106719493865967,0.972391963005066,1.0,1.0,For a time during which year did Popper consider himself a communist?,1
+176,80,80,0.2622110843658447,0.3342344760894775,1.0000001192092896,1.0,1.0,What percentage of french publishing houses were in Paris in the 1970s?,1
+177,Downtown Detroit and Midtown.,Midtown,0.2988805770874023,0.4878411293029785,0.8073122501373291,0.4,0.4,What part of Detroit still has high population density??,0
+178,Religious minorities.,religious minorities,0.3108656406402588,0.3744487762451172,0.9695450067520142,1.0,1.0,What did William Penn ensure the protection of in his colony?,1
+179,Incorporation of all relevant federal rights against the states.,incorporation of all relevant federal rights against the states,0.3481860160827636,0.6836755275726318,0.9502099752426147,1.0,1.0,What does the 14th Amendment also introduce the concept of?,1
+180,The A7 highway.,mule trains,0.3387842178344726,0.265939712524414,0.2124035358428955,0.0,0.0,What is one example of traffic that passed through Hanover?,0
+181,The Great Migration brought rural blacks from the South to Detroit in the middle of the 20th century.,Jim Crow,0.3265218734741211,1.0625019073486328,0.336264044046402,0.0,0.0,Why did Blacks move to Detroit in the middle if the 20th century?,1
+182,Steve Wynn.,Stanley Ho.,0.2854492664337158,0.2273273468017578,0.3119852542877197,0.0,0.0,Which casino tycoon participated in the torch relay event?,0
+183,There is no information about a business operating on Third Avenue in the given context.,Fortune,0.3718588352203369,0.871856689453125,0.011116337031126,0.0,0.0,What label operated in Third Avenue?,0
+184,The court's decision argued that the separation of church and state could never be absolute.,absolute,0.3160967826843261,0.7163631916046143,0.3112683892250061,0.1176470588235294,0.1176470588235294,What did the court's decision argue that the separation of church and state could never be?,1
+185,French.,English,0.2698860168457031,0.1495006084442138,0.635948657989502,0.0,0.0,What secondary language do educated people in Kathmandu speak?,0
+186,"Maryland uses the phrase ""Manly deeds, womanly words"" as its motto, but it is not a direct quote from the Bible.",Ohio,0.3750476837158203,1.3285200595855713,0.0543879941105842,0.0,0.0,What state uses as a motto a passage from the Bible?,0
+187,There is no mention of a company that mines salt in Detroit in the provided text.,Detroit Salt Company,0.3539266586303711,0.908984899520874,0.7617743015289307,0.3157894736842105,0.1052631578947368,What company mines salt in Detroit?,0
+188,King Casimir III the Great.,Vytautas the Great,0.2596044540405273,0.502126932144165,0.4066845774650574,0.5,0.5,WHo reformed the grand duchy army?,0
+189,Sweden.,Swedish,0.3942534923553467,0.220522403717041,0.7101798057556152,0.0,0.0,What country was Prussia fighting on another front?,1
+190,The Detroit International Riverfront.,riverfront,0.6261417865753174,0.4900214672088623,0.7349427938461304,0.4,0.4,What area has Detroit been trying to redevelop?,1
+191,They are easy to keep and breed.,they are easy to keep and breed,0.3277909755706787,0.5657246112823486,0.9912415742874146,1.0,1.0,Why are  the fruit fly and the nematode the most intensively studied metazoan model organisms?,1
+192,"The Olympic torch did not visit Jakarta. It visited several other cities, including Buenos Aires, Dar es Salaam, Muscat, Islamabad, and New Delhi.",April 22,0.2635083198547363,1.483442783355713,-0.0157758705317974,0.0,0.0,When did the Olympic torch visit Jakarta?,0
+193,"There is no mention of ""Roques"" in the given context.",little Turtle rocks,0.3575038909912109,0.6820862293243408,0.1315475404262542,0.0,0.0,"What does ""Roques"" mean in English?",0
+194,The Olympic torch.,a major Buddhist temple,0.4344780445098877,0.2265830039978027,0.1755088865756988,0.0,0.0,Where was the inital opening ceremony to be held in Nagano?,0
+195,Libération.,Libération,0.3498461246490478,0.37209153175354,0.9344599843025208,1.0,1.0,What other newspaper was accused of bias?,1
+196,There is no information about streetcars running along Woodward Ave in 1941 in the given context.,60,0.3927676677703857,0.99843430519104,0.0220506563782691,0.0,0.0,Approximately how many extant bird species are flightless?,0
+197,America's earlier limited-access highway.,limited-access,0.3051731586456299,0.4153010845184326,0.4207445085048675,0.5,0.5,A part of I-94 was an example of what type of highway?,1
+198,There is no information about whale migration season in the provided context.,December,0.2991230487823486,0.7559235095977783,0.2001912891864776,0.0,0.0,"By which month, were the Taliban no longer controlling Kabul?",0
+199,Greece.,Kazakhstan,0.3415970802307129,0.1497707366943359,0.5350288152694702,0.0,0.0,Where is the largest Slavic minority located?,0
+200,African Americans.,Hanoverian Jewish families,0.4863359928131103,0.3755471706390381,0.1977832168340683,0.0,0.0,Which portion of the population underwent ghettoisation?,0
+201,The Hong Kong Cultural Centre in Tsim Sha Tsui.,Hong Kong Cultural Centre,0.2791626453399658,0.6929936408996582,0.8029419779777527,0.6153846153846153,0.6153846153846153,Where was the torch event started in Hong Kong?,1
+202,Predation.,Predation,0.2973837852478027,0.2356936931610107,0.9639573097229004,1.0,1.0,What is the biological interaction where a predator feeds on its prey called?,1
+203,"Hanover, Germany.",east bank of the River Leine,0.3029565811157226,0.2635178565979004,0.3109560012817383,0.0,0.0,Where was Hanover originally founded?,0
+204,"The mistranslation of szlachta as ""gentry"" rather than ""nobility"" came about due to the economic status of some szlachta members being inferior to that of the nobility in other European countries.",included those almost rich and powerful enough to be magnates down to rascals,0.3554549217224121,2.064647912979126,0.2973573505878448,0.1363636363636363,0.1363636363636363,Why did the mistranslation of szlachta come about?,1
+205,Water or fire extinguishers were used to try to extinguish the flame.,the French flag,0.2998232841491699,0.8705248832702637,0.151377186179161,0.1333333333333333,0.1333333333333333,What was burned during these boycotts?,0
+206,April 6.,April 6,0.3512163162231445,0.4108576774597168,0.970879077911377,1.0,1.0,When did the torch route begin in London?,1
+207,"The text does not mention the Mexicantown International Welcome Center. However, it does mention that the Mexican community in Detroit began to settle in what is now Mexicantown in the 1940s.",Southwest Detroit,0.4805607795715332,1.904137134552002,0.3666279911994934,0.0606060606060606,0.0606060606060606,In which part of Detroit is Mexicantown International Welcome Center?,0
+208,There is no information about Almaty in the given context.,Nursultan Nazarbaev.,0.2827999591827392,0.758145809173584,0.1303102523088455,0.0,0.0,What is the name of the president who was the first torchbearer in Almaty?,0
+209,The Orchid House.,Orchid House,0.3412823677062988,0.4523742198944092,0.9482890367507936,0.8,0.8,What is the name of the area inside the Berggarten that hosts one of the world's biggest collection of orchids?,1
+210,The torch route ended in the Peter and Paul Fortress in Saint Petersburg.,Palace Square,0.3140678405761719,0.6087067127227783,0.1817309260368347,0.0,0.0,Where did the torch route end in Saint Petersburg?,0
+211,September 2014.,September 2014,0.3412656784057617,0.4249987602233886,0.9647214412689208,1.0,1.0,When did Afghanistan sign a security agreement with the US?,1
+212,The First Amendment.,the Pledge of Allegiance,0.2487046718597412,0.4128572940826416,0.3749895393848419,0.2857142857142857,0.2857142857142857,What did both houses of Congress pass measures reaffirming their support for?,0
+213,możni,możni,0.3409814834594726,0.3357176780700683,1.0,1.0,1.0,Who constantly sought to undermine princely authority?,1
+214,Laurel Sutherlin.,Laurel Sutherlin,0.3709921836853027,0.4502377510070801,0.9875800013542176,1.0,1.0,Who spoke to station KPIX-CBS5 about the bridge banner protests?,1
+215,Detroit.,Detroit,0.5808448791503906,0.3357222080230713,0.9437262415885924,1.0,1.0,Techno started in which city?,1
+216,President Pervez Musharraf and Prime Minister Yousaf Raza Gillani.,IOC members.,0.2962822914123535,0.9100568294525146,0.3663134276866913,0.0,0.0,Who asked that the torch relay be ended?,0
+217,Four.,four,0.2992391586303711,0.3333780765533447,0.943260371685028,1.0,1.0,In how many directions does the Buddha of Swayambhu look?,1
+218,Kraków.,at Kraków in 1433,0.4859793186187744,0.3477785587310791,0.6633332967758179,0.5714285714285715,0.5714285714285715,Where did the confirmation of privileges of Jedlnia take place?,0
+219,"Approximately 535,000.","518,000",0.3171751499176025,0.3023931980133056,0.5659425258636475,0.4,0.4,What is Hanover's population?,0
+220,Li Ning,Alexandros Nikolaidis,0.2835021018981933,0.1409761905670166,0.2097493559122085,0.0,0.0,What is the name of the first torchbearer for the 2008 Olympics?,0
+221,Religious persecution from the Anglican King of England.,religious persecution,0.3520803451538086,0.6449184417724609,0.7588838934898376,0.4,0.4,What were Protestant Christians fleeing from?,1
+222,"More than 6,000.","more than 6,000",0.2832541465759277,0.5260188579559326,0.9788428544998168,1.0,1.0,how many ghost towns are in the state of Kansas?,1
+223,"Tight junctions, gap junctions, and desmosomes.","tight junctions, gap junctions, and desmosomes",0.287431001663208,0.7553837299346924,0.9890171885490416,1.0,1.0,What are the intercellular junctions unique to animal cells?,1
+224,"There is no information about the ""Mile of Sculptures"" in the given context.",Trammplatz,0.3034002780914306,0.9494228363037108,-0.024245124310255,0.0,0.0,Where does the Mile of Sculptures start?,0
+225,By airplane.,by airplane,0.3204786777496338,0.3716082572937011,0.97158682346344,1.0,1.0,Besides boats how does St. Barts import most of its food?,1
+226,"750,000 people came to Detroit between 1941 and 1943.","400,000",0.3044095039367676,0.9083943367004396,0.2387343347072601,0.1666666666666666,0.1666666666666666,How many Green Standard Army soldiers  were on the Qing side?,0
+227,2 inches per hour.,2,0.2912185192108154,0.4872372150421142,0.2003971189260482,0.4,0.4,How many temples were built in Tell Qaramel?,0
+228,Vanderkaay.,Ian Thorpe,0.3394637107849121,0.2263705730438232,0.2422329783439636,0.0,0.0,Which athlete carried the torch for the final leg?,0
+229,Columbia Law School,Columbia Law school,0.2657754421234131,0.1883249282836914,1.0,1.0,1.0,What school is Philip Hamburger associated with?,1
+230,"£750,000 was spent on security for the torch relay, and the Chinese security team was allowed to participate.",two,0.3150970935821533,1.1363554000854492,0.0836964547634124,0.0,0.0,How many types are Nepali works of art typically divided into?,0
+231,"""Lucky Cloud""",Lucky Cloud,0.2759928703308105,0.4495718479156494,0.9176501035690308,1.0,1.0,What was the design name of the Chinese Olympic Torch?,1
+232,"There is no mention of the ""Living Constitution"" in the provided context.",progressivist,0.3863575458526611,0.7612228393554688,0.0290486477315425,0.0,0.0,What kind of theory is the doctrine of the Living Constitution?,0
+233,"A bill that would permit any Virginian to belong to any denomination, but require them to belong to some denomination and pay taxes to support it, chiefly supported by Patrick Henry.",a bill,0.3563964366912842,1.596261501312256,0.5672654509544373,0.1212121212121212,0.1212121212121212,What did Jefferson draft his Statute of Religious Freedom in opposition to?,1
+234,"No, the number of coats of arms in Poland did not fall in the late Middle Ages, it was rather low and did not exceed 200.",low and did not exceed 200,0.3565189838409424,1.3759610652923584,0.2943964600563049,0.375,0.375,Did number of cat of arms in the late middle ages fall?,1
+235,They were not hereditary.,not hereditary,0.5973691940307617,0.4551420211791992,0.7687996029853821,0.6666666666666666,0.6666666666666666,Was was unique about the dignities?,1
+236,Robert Graham.,Robert Graham,0.2911932468414306,0.3730044364929199,0.9809721112251282,1.0,1.0,Who sculpted the Joe Louis memorial?,1
+237,The Golden Gate Bridge.,Ladbroke Grove,0.3237113952636719,0.4513726234436035,0.3086221218109131,0.0,0.0,Where was an attempt made to take the torch?,0
+238,"""Running dogs""",radicals,0.4139933586120605,0.3864254951477051,0.1470416337251663,0.0,0.0,What are used to express the solutions of polynomials?,0
+239,Sea grapes.,Sea grapes,0.3406848907470703,0.3713417053222656,0.9780016541481018,1.0,1.0,What besides palm trees is a common plant to see in St. Barts?,1
+240,"A ""sort of civic religion"" with a generally-shared belief in a creator.",a sort of civic religion,1.424245834350586,0.7999448776245117,0.8675086498260498,0.5555555555555556,0.5555555555555556,What does Wood believe the U.S. operates on?,1
+241,The Lechici/Lekhi tribe.,Polish,0.2455127239227295,0.603593111038208,0.1565519869327545,0.0,0.0,What nationality was de Courtenay?,0
+242,The People's Daily.,People's Daily,0.2730605602264404,0.449392557144165,0.9450823664665222,0.8571428571428571,0.8571428571428571,Which newspaper asked the Chinese people to protest peacefully?,1
+243,Stainless steel.,aluminum.,0.3162155151367187,0.1876749992370605,0.7447521686553955,0.0,0.0,What metal is the torch constructed from?,0
+244,6,six,0.3385107517242431,0.3324949741363525,0.9383978843688964,0.0,0.0,How many periods of geology are within the Paleozoic era?,1
+245,Jane Birkin,Soha Ali Khan,0.2821431159973144,0.3732638359069824,0.1255421489477157,0.0,0.0,What actress removed herself from participation in the relay?,0
+246,The Great Lakes.,Great Lakes,0.3010809421539306,0.3860542774200439,0.9370681643486024,0.8,0.8,What body of water affects Detroit's climate?,1
+247,The Thirty-Sixth District Court.,Thirty-Sixth,0.3564178943634033,0.5650064945220947,0.5106126666069031,0.5714285714285715,0.5714285714285715,Which District Court is Detroit home to?,1
+248,There is no mention of a non-profit funded by Mark Palmer in the given context.,Friends of Falun Gong,0.3051884174346924,0.9092705249786376,0.0570889115333557,0.1,0.1,What is Susan Prager communication director of?,0
+249,The animal gets the energy required for motion.,giving the animal the energy required for motion,0.3109471797943115,0.4672324657440185,0.955672025680542,0.875,0.875,What happens with the reduced carbon compounds in the food are broken down releasing stored solar energy?,1
+250,The text does not mention Indonesia as a stop for the Olympic torch relay.,Jakarta,0.2789182662963867,0.8325033187866211,0.3279246687889099,0.0,0.0,Where did the torch relay begin in Indonesia?,0
+251,The Schützenfest Hannover.,Detroit Festival of the Arts,0.4158275127410888,0.4921355247497558,0.3945647776126861,0.2222222222222222,0.2222222222222222,Which festival attracts over a quarter million visitors?,0
+252,13.,13,0.8703248500823975,0.3733928203582763,0.9343002438545228,1.0,1.0,How many nurses does Princess Margaret have on staff?,1
+253,There is no information about a person named Philip Hamburger in the given context.,professor,0.3509814739227295,0.8703606128692627,0.1200399175286293,0.0,0.0,What is the profession of Philip Hamburger?,0
+254,Arid climate with a rainy season from May to November.,arid,0.2880730628967285,0.7173593044281006,0.6876817941665649,0.1818181818181818,0.1818181818181818,What is the overall climate description for Namibia? ,1
+255,Macau.,Sansha,0.2864701747894287,0.3717288970947265,0.2140544652938842,0.0,0.0,The Chinese government established what city in this disputed area?,0
+256,22,22,0.4066715240478515,0.3330278396606445,0.9999999403953552,1.0,1.0,How many airlines use Tribhuvan International for international flights?,1
+257,I don't have information about the capital city of Malaysia in the given context.,Kuala Lumpur,0.3128783702850342,0.8710980415344238,0.6519008874893188,0.0,0.0,What is the capital city of Malaysia?,0
+258,The 1940s.,1940s,0.2993364334106445,0.4874711036682129,0.9453063011169434,0.6666666666666666,0.6666666666666666,When was the slope-line approach system introduced?,1
+259,"The szlachta were inferior to the gentry in wealth, but not in hereditary juridical status.",szlachta,0.3574635982513428,1.179147720336914,0.4402317404747009,0.125,0.125,UNtil 1918 whos legal status was dependent on the russian empiresovereignty of szlachta?,0
+260,The suburbs.,suburbs,0.5533342361450195,0.3718950748443603,0.9161810874938964,0.6666666666666666,0.6666666666666666,Where did wealthy residents move?,1
+261,The Kleines Fest im Großen Garten (Small Festival in the Great Garden) hosted the musicals of the German rock musician Heinz Rudolf Kunze.,most successful Cabaret Festival in Germany,0.406665563583374,1.486152172088623,0.5658388137817383,0.1333333333333333,0.1333333333333333,What is a notable achievement about the Kleines Fest im Großen Garten?,0
+262,April 29.,April 29,0.4151160717010498,0.3871254920959472,0.9713062644004822,1.0,1.0,When did the torch arrive in Vietnam?,1
+263,John F. Kennedy's inaugural speech.,John F. Kennedy,0.3307185173034668,0.4921450614929199,0.6970431208610535,0.6666666666666666,0.6666666666666666,Who was the Democratic candidate for president in 1960?,0
+264,The Fox Theatre.,Masonic Temple Theatre,0.4327986240386963,0.412426233291626,0.5313339233398438,0.3333333333333333,0.3333333333333333,"Which Detroit theater has 4,404 seats?",0
+265,Aqueous environments.,in aqueous environments,0.321707010269165,0.4511456489562988,0.9407110810279846,0.8,0.8,Where are the rotifera most prominent?,1
+266,"Sponges (Porifera) were long thought to be the oldest animal phylum, but recent studies suggest that comb jellies (Ctenophora) may be the earliest-diverging animal phylum.",sponges,0.2576911449432373,1.9411382675170896,0.4154592156410217,0.074074074074074,0.074074074074074,Which animal represents the oldest animal phyla?,0
+267,szlachta,szlachta,0.4344751834869385,0.4108772277832031,0.9999999403953552,1.0,1.0,UNtil 1918 whos legal status was dependent on the russian empiresovereignty of szlachta?,1
+268,"The Constitution guarantees the separation of church and state, as stated in the Establishment Clause.",freedom,0.3244428634643554,0.9087362289428712,0.2770487368106842,0.0,0.0,What does the constitution guarantee when it comes to religion?,0
+269,Social equals.,equals,0.3098993301391601,0.3747036457061767,0.5207139253616333,0.6666666666666666,0.6666666666666666,In theory how were all polish noblemen viewed?,1
+270,"The exemption of a ""national religion"" was part of the significant changes in legislation.","1374 exemption from the land tax,",0.5082278251647949,0.9113998413085938,0.4003430008888244,0.2,0.2,What is one exemption was part of the significant changes in legislation?,0
+271,Fedor Emelianenko.,Fedor Emelianenko,0.3704195022583008,0.4878139495849609,0.986855924129486,1.0,1.0,What is the name of the MMA fighter who carried the torch in Russia?,1
+272,"English ""knight"".",knight,0.2678611278533935,0.4492707252502441,0.7861349582672119,0.6666666666666666,0.6666666666666666,What is roughly the same to the english version of rycerz?,1
+273,"""Free Tibet""",Taiwan and Tibet belong to China.,0.3075721263885498,0.4122908115386963,0.4318083524703979,0.25,0.25,What did the Chinese group yell?,0
+274,70,70,0.2673954963684082,0.3359076976776123,1.0,1.0,1.0,How old was Eisenhower in 1960?,1
+275,There is no mention of a Cabaret-Event in the given context.,Kleines Fest im Großen Garten,0.325963020324707,0.7596557140350342,0.1801269352436065,0.0,0.0,What is the most important Cabaret-Event?,0
+276,I'm not aware of any information about a German diplomat being assassinated in the provided context.,Paris,0.3178639411926269,0.9870033264160156,0.0863139778375625,0.0,0.0,What was the largest European city in 1667?,0
+277,Gród.,grόd,0.3322463035583496,0.37276291847229,0.5813040137290955,1.0,1.0,What were stronghold called?,1
+278,Deuterostomes.,deuterostomes,0.29376220703125,0.4504153728485107,0.9645245671272278,1.0,1.0,What superphylum are vertebrates in?,1
+279,"The case of Elk Grove Unified School District v. Newdow was overturned in 2004 solely on procedural grounds, not related to the substantive constitutional issue.",procedural grounds,0.4541029930114746,1.4883124828338623,0.2216006815433502,0.1481481481481481,0.1481481481481481,Why was the case of Elk Grove Unified School District v. Newdow overturned?,1
+280,"None, according to the text.",30,0.3585133552551269,0.527285099029541,0.2437555193901062,0.0,0.0,How many ajzā cover the entire Quran?,0
+281,Beijing National Stadium.,the Military Zone 7 Competition Hall stadium,0.3179664611816406,0.2261087894439697,0.6048502922058105,0.2,0.2,Where did the torch event end?,0
+282,"Disruptive protesters, specifically ""Tibet independence"" and ""human rights-minded NGO activists"".",the more disruptive protesters,0.2608873844146728,1.02264142036438,0.6784240007400513,0.2666666666666666,0.2666666666666666,What did the Chinese media focus on as far as human rights protesters?,1
+283,Jean-Baptiste Duvergier de Vignola.,Antoine de la Mothe Cadillac,0.294189453125,0.5715575218200684,0.4278492331504822,0.2,0.2,Which French officer led the 1701 expedition?,0
+284,"Approximately 200,000 tourists visit St. Barts each year.","200,000",0.3236937522888183,0.7719793319702148,0.2897080183029175,0.3636363636363636,0.3636363636363636,What was the Bronx's population in 1900?,0
+285,Leong Hong Man.,Leong Hong Man,0.3380410671234131,0.4487009048461914,0.9863314628601074,1.0,1.0,Who was the first person to carry the torch in Macao?,1
+286,"7 states (Texas, Massachusetts, Maryland, North Carolina, Pennsylvania, South Carolina, and Tennessee)",Seven,0.2758703231811523,1.0634093284606934,0.3768773674964905,0.0,0.0,How many states violate the religious test clause with language somewhere in their official policies?,1
+287,The Great Migration.,The Great Migration,0.2842442989349365,0.4116380214691162,0.978024959564209,1.0,1.0,What is the name of the movement of rural blacks in the early 20th century called?,1
+288,"The first route was not taken because of security concerns regarding ""militant threats or anti-China protests"".",security worries,0.4045019149780273,1.0622727870941162,0.2949947118759155,0.1052631578947368,0.1052631578947368,Why was the first route not taken?,1
+289,The text does not mention the case of Town of Greece v. Galloway.,5-4,0.4092073440551758,0.9139680862426758,0.0150181502103805,0.0,0.0,What was the Supreme Court's final vote in Town of Greece v. Galloway?,0
+290,There is no specific population figure mentioned in the text.,"9,035",0.2944939136505127,0.6551878452301025,0.1027978733181953,0.0,0.0,What is the population of St. Barts?,0
+291,Massachusetts' 6th congressional district.,Massachusetts,0.3222360610961914,0.3797013759613037,0.6688118577003479,0.4,0.4,What was Elbridge Gerry's constituency? ,1
+292,The War of 1812.,War of 1812,1.2429490089416504,0.5279052257537842,0.9472758769989014,0.8571428571428571,0.8571428571428571,Which major conflict that included the Battle of New Orleans is said to have given Tennessee its nickname?,1
+293,The San Francisco Board of Supervisors and Mayor Gavin Newsom requested the original route be cancelled.,the Chinese embassy,0.3877911567687988,0.9868569374084472,0.1264973133802414,0.1052631578947368,0.1052631578947368,Who was involved to ensure the pro Chinese demonstrators outweighed the Tibetan demonstrators?,0
+294,"58 per 100,000.","58 per 100,000",0.2523517608642578,0.5671441555023193,0.9866123795509338,1.0,1.0,What was Detroit's murder rate in the mid to late 80s?,1
+295,There is no mention of a ferry to Canada in the given context.,Detroit–Windsor Truck Ferry,0.3287196159362793,0.6817491054534912,0.5298811197280884,0.1176470588235294,0.1176470588235294,What it the Ferry to Canada called?,0
+296,Pak Du Ik.,Pak Du Ik,0.2978255748748779,0.3874862194061279,0.9818233251571656,1.0,1.0,Who was the first runner with the torch?,1
+297,"Olympia, Greece.",Lola Mora amphitheatre,0.3604950904846191,0.2265501022338867,0.2177308201789856,0.0,0.0,What place held an opening show for the relay?,0
+298,peaceful protest.,peaceful,3.052414894104004,0.3750536441802978,0.72690749168396,0.6666666666666666,0.6666666666666666,What sort of virus did Gaddafi describe HIV as?,1
+299,"""Schlacht"" in German means ""battle"".","(""to slaughter"" or ""to butcher"")",0.3689973354339599,0.6825132369995117,0.1428573131561279,0.0,0.0,What does schlachtan mean in german?,0
+300,Burgesses.,szlachta,0.583404541015625,0.3741335868835449,0.1707525998353958,0.0,0.0,UNtil 1918 whos legal status was dependent on the russian empiresovereignty of szlachta?,0
+301,Around 40 parks.,40,0.3589508533477783,0.4525363445281982,0.4559200704097748,0.5,0.5,Clark field was how many miles northwest of Manila?,0
+302,There is no information about a festival drawing up to 3 million people in the given context.,Windsor–Detroit International Freedom Festival,0.285637617111206,0.9849109649658204,0.3736369013786316,0.0909090909090909,0.0909090909090909,Which festival draws up to 3 million people?,0
+303,There is no mention of a chartered plane in the text.,red and yellow,0.3030624389648437,0.7307772636413574,0.0280527807772159,0.0,0.0,What colors was the aircraft painted?,0
+304,John Lee Hooker.,John Lee Hooker,0.3990628719329834,0.4509241580963135,0.9797980785369872,1.0,1.0,Which artist resided in Delray?,1
+305,There is no mention of the HRTR or its outreach director in the provided text.,Susan Prager,0.8706111907958984,0.908757209777832,0.1815461069345474,0.0,0.0,Who was the outreach director of HRTR?,0
+306,"The text does not mention the Duke, so it does not provide information on their stance on Anglicanism.","openly divine-right Catholic,",0.266035795211792,1.062469244003296,0.3361089825630188,0.0,0.0,Why was the Duke not a friend of Anglicanism?,0
+307,"There is no mention of ""VLW"" in the given context.",United light metal works,0.289933443069458,0.7934091091156006,0.0532354936003685,0.0,0.0,What does VLW stand for?,0
+308,Detroit.,Detroit,0.3131160736083984,0.3341081142425537,0.9437262415885924,1.0,1.0,Techno started in which city?,1
+309,A blastula.,blastula,0.3610553741455078,0.4107968807220459,0.908291757106781,0.6666666666666666,0.6666666666666666,What is the hollow sphere that a zygote initially develops into called?,1
+310,985 grams.,985 grams,0.2655150890350342,0.4100937843322754,0.982250154018402,1.0,1.0,How much does the Olympic Torch weigh?,1
+311,Libération and The Daily Telegraph.,The Daily Telegraph,0.3355169296264648,0.526616096496582,0.785986065864563,0.6666666666666666,0.6666666666666666,The Times has a traditional rival with what other major British newspaper?,0
+312,"""Journey of Harmony and Friendship""","""Journey of Harmony""",0.310647964477539,0.379164457321167,0.8569599986076355,0.7499999999999999,0.7499999999999999,What was the torch relay referred to as by organizers?,0
+313,Diego Maradona.,Diego Maradona,0.3356180191040039,0.4509785175323486,0.9850090146064758,1.0,1.0,To whom was Messi's goal in the first leg of the Copa del Rey compared?,1
+314,1,three,0.5050139427185059,0.3092968463897705,0.6364648938179016,0.0,0.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?",0
+315,April 16.,April 16,0.4295206069946289,0.413093090057373,0.960440158843994,1.0,1.0,When did a protest in Delhi occur to protest against Chinese repression in Tibet?,1
+316,Boats.,boats,0.3031125068664551,0.3735671043395996,0.9668905735015868,1.0,1.0,"Until the late 19th century, what vessels were almost always wooden?",1
+317,There is no mention of a protest in Delhi in the given context.,April 16,0.3313515186309814,0.7951757907867432,0.0668448656797409,0.0,0.0,When did a protest in Delhi occur to protest against Chinese repression in Tibet?,0
+318,"None, according to the text.",Chinese security officials,0.2946341037750244,0.5295629501342773,0.1465408354997635,0.0,0.0,Who put out the torch along the route for protection?,0
+319,One senator represents St. Barts in the French Senate.,A senator,0.3658545017242431,0.6940271854400635,0.4033030569553375,0.1818181818181818,0.1818181818181818,Who officially represents St. Barts in French legislation? ,1
+320,Canada is paying for the entire cost of the $250 million U.S. Customs plaza adjacent to the bridge.,95 per cent,0.2731256484985351,0.9884684085845948,0.1008230149745941,0.0,0.0,How much of the Gordie Howe International Bridge is Canada going to pay for?,0
+321,6-1.,6-1,0.2307956218719482,0.4525017738342285,0.9837151765823364,1.0,1.0,By what vote did the Supreme Court determine it unconstitutional for state official to compose an official school prayer?,1
+322,Możni.,magnat,0.3868758678436279,0.4120204448699951,0.2492115795612335,0.0,0.0,What is the singular version of magnates?,0
+323,Fruit fly (Drosophila melanogaster) and nematode (Caenorhabditis elegans).,fruit fly Drosophila melanogaster and the nematode Caenorhabditis elegans,0.2705650329589844,1.1776847839355469,0.9195126295089722,0.9411764705882352,0.9411764705882352,Which organisms were among the first life-forms to be genetically sequenced?,1
+324,There is no information about the drinking age in the given context.,"Windsor, Ontario",0.326103925704956,0.7559325695037842,0.0575238093733787,0.0,0.0,Which city has a lower than usual drinking age?,0
+325,Ford Field in Detroit.,Ford Field,0.3275415897369385,0.4489979743957519,0.8804076910018921,0.6666666666666666,0.6666666666666666,Where is the MAC Football Championship game played?,1
+326,Comerica Park.,Comerica Park,0.2798640727996826,0.4497134685516357,0.9839733242988586,1.0,1.0,Where do the Tigers play?,1
+327,A display of the Ten Commandments as part of a larger display on American legal traditions.,the Ten Commandments,0.2761039733886719,0.946826696395874,0.721335768699646,0.3157894736842105,0.3157894736842105,What was displayed in Kentucky courthouses?,1
+328,"Slahta is an Old High German word meaning ""(noble) family"".","""(noble) family""",2.712491512298584,0.8751649856567383,0.4544532001018524,0.3333333333333333,0.3333333333333333,What does slahta mean?,1
+329,A stinging slap in the face.,freedom of speech,0.2720456123352051,0.5680046081542969,0.1506323665380478,0.0,0.0,What are these statutes essential to?,0
+330,Shinola.,Shinola,0.2367639541625976,0.3717784881591797,0.971213698387146,1.0,1.0,Which company makes timepieces in Midtown?,1
+331,Acoelomates are animals that lack a body cavity (coelom) between their body wall and digestive tract.,lacking a body cavity,0.295133113861084,1.215548753738403,0.5249800682067871,0.4,0.4,What does acoelomates mean?,1
+332,Placozoans are being sequenced to explain the arrival of 1500 ancestral genes unique to the Eumetazoa.,they do not have a permanent digestive chamber,0.6575138568878174,1.2928099632263184,0.0356152392923831,0.0,0.0,What differentiates placozoans from the ctenophora and the cnidaria?,0
+333,Nazi party.,Nazi party,0.3807225227355957,0.3743503093719482,0.969003200531006,1.0,1.0,What does the NSDAP stand for?,0
+334,Justice Abe Fortas.,Justice Abe Fortas,0.3404042720794678,0.4524276256561279,0.9884210824966432,1.0,1.0,Who wrote the court's opinion in Epperson v. Arkansas?,1
+335,1605.,1605,0.3446109294891357,0.4129722118377685,0.970159113407135,1.0,1.0,"In what year was the name ""Paul"" last used as a pontifical name before Pope Paul VI became Pope?",1
+336,Comments related to the Carrefour boycott.,disputed islands and dotted lines marking China's maritime claims,0.3944540023803711,0.6027088165283203,0.1256680786609649,0.0,0.0,What was removed from the website that Lê Minh Phiếu had written about?,0
+337,There is no mention of protests in Xinjiang in the provided context.,Uyghurs living in Turkey,0.2424366474151611,0.794325590133667,0.1629207134246826,0.125,0.125,Who protested for their compatriots who were in Xinjiang?,0
+338,Jellyfish.,jellyfish,0.295581579208374,0.3705394268035888,0.9682295322418212,1.0,1.0,What is the favorite prey of leatherback sea turtles?,1
+339,Wayne State University.,Wayne State University,0.3602039813995361,0.4130914211273193,0.9821428060531616,1.0,1.0,What research university is located in Midtown?,1
+340,"The movement was not explicitly mentioned in the text as ""execution of laws"". However, the text mentions ""separation of church and state"" as a concept.","""executionist movement",0.843151330947876,1.479931116104126,0.5452377796173096,0.074074074074074,0.074074074074074,What was the movement called also known as execution of laws?,0
+341,Carlos Espínola.,Carlos Espínola.,0.2407746315002441,0.450904369354248,1.0000001192092896,1.0,1.0,Who was the first bearer of the torch in Argentina?,1
+342,Redlining.,redlining,1.3206303119659424,0.3746123313903808,0.9609179496765136,1.0,1.0,What is an example of economic discrimination?,1
+343,Hip-hop producer.,producer,0.2319376468658447,0.411510705947876,0.7116941213607788,0.5,0.5,What is J Dilla's occupation?,1
+344,2002.,2002,0.3049814701080322,0.4144506454467773,0.9519264101982116,1.0,1.0,When did Sheptycki write about police cooperation?,1
+345,The BBC.,Western media,0.2778894901275635,0.3724174499511719,0.4399243593215942,0.0,0.0,Which media outlets gave Jin Jing little notice?,0
+346,Walter Reuther.,Walter Reuther,0.3644590377807617,0.4108898639678955,0.9867433309555054,1.0,1.0,Who was the labor leader of the Autoworkers?,1
+347,The protesters.,counter-protesters,0.3158962726593017,0.2618227005004883,0.7994351387023926,0.5,0.5,Who amassed in large scale against protesters?,0
+348,David Bing was the Mayor of Detroit in 2011.,Mayor Bing,0.6574399471282959,0.7176690101623535,0.7478355169296265,0.3636363636363636,0.1818181818181818,Who was the Mayor of Detroit in 2011?,1
+349,Michigan State University.,Wayne State University,0.4055917263031006,0.2274119853973388,0.6908252835273743,0.6666666666666666,0.6666666666666666,What research university is located in Midtown?,0
+350,Bilaterians.,bilaterian,1.679295778274536,0.4132232666015625,0.8120458126068115,1.0,1.0,Animals in what group are thought to form a monophyletic group?,1
+351,Cacti and succulent plants.,Sweet potato,0.4037706851959228,0.563819408416748,0.1741886138916015,0.0,0.0,What is grown in patches on the island?,0
+352,There is no information about 1244 in the given context.,define knightly status,0.395390510559082,0.7576158046722412,0.0340594835579395,0.0,0.0,In 1244 the power to command and army had been used to do what?,0
+353,The International Olympic Committee (IOC) said they did not support relay interruptions.,the Tibetan government in exile,0.3497188091278076,0.6479811668395996,0.0576268956065177,0.1176470588235294,0.1176470588235294,Who said they did not support relay interruptions?,0
+354,Pennsylvania.,Pennsylvania,0.5083675384521484,0.3376951217651367,0.9627590775489808,1.0,1.0,What state became a hub of learning?,1
+355,Elijah J. McCoy Satellite Office.,Elijah J. McCoy Satellite Office,0.3612656593322754,0.5274982452392578,0.9855751991271972,1.0,1.0,What is the name Of the U.S. Patent office in Detroit?,1
+356,I don't have the specific information on the square miles of Detroit's urban area.,"1,337 square miles",0.3380436897277832,0.910325527191162,0.3704513013362884,0.2,0.2,How many square miles is is Detroit's urban area?,0
+357,"The mission of the organizations mentioned in the text is not explicitly stated, but they are primarily institutions of higher learning, offering academic degrees and programs in various fields.",raising awareness of conditions for children,0.3201770782470703,1.4826371669769287,-0.04316933080554,0.0571428571428571,0.0571428571428571,What is the mission of the organizations?,0
+358,None mentioned.,mooring buoys,0.4412188529968261,0.3712582588195801,0.059603314846754,0.0,0.0,Colombier Bay has what type of helpful structures placed in the water?,0
+359,"Pro-Tibetan independence and pro-Human Rights supporters, as well as Uyghur activists, protested along the torch route.",protesting,0.2736029624938965,1.2929837703704834,0.4947462081909179,0.1052631578947368,0.1052631578947368,What were some groups doing along the torch route that was not supportive of the Olympics?,1
+360,"Geographically, not racially.",racially,0.3009638786315918,0.462963342666626,0.6456677913665771,0.5,0.5,How does the determination between Patois and Creole French usually determined?,0
+361,15,15,0.4062592983245849,0.3347766399383545,1.0,1.0,1.0,How many cornerstones of this new way of thinking or religion were presented>,1
+362,Human rights.,against human rights.,0.2887134552001953,0.3717012405395508,0.800487220287323,0.8,0.8,North Korea is often listed among the worst offenders in the world in what regard?,1
+363,"March 13, 2008.","March 24, 2008",0.2717232704162597,0.3804299831390381,0.9574660062789916,0.6666666666666666,0.6666666666666666,On what date did the Olympic Flame get lit?,0
+364,"The torch relay in Japan was held in the cities of Ogasawara, Tokyo, and Nagoya.",Nagano,2.3012735843658447,0.9193191528320312,0.1630806773900985,0.0,0.0,Where was the torch relay held in Japan?,0
+365,I-75.,I-75,0.2380886077880859,0.2988655567169189,0.9845761060714722,1.0,1.0,Which Interstate is the major north-south route?,1
+366,"The Massachusetts Constitution originally provided that citizens could worship God in the manner of their choice, as long as they did not disturb the public peace or obstruct others in their worship.",legal privileges of the szlachta were legally abolished,0.4275009632110595,1.5632035732269287,0.1399224996566772,0.1,0.1,What did the Mach constitution do?,0
+367,The Charles H. Wright Museum of African American History.,Charles H. Wright Museum of African American History,0.2769727706909179,0.6796698570251465,0.986919641494751,0.9411764705882352,0.9411764705882352,What is the name of the Detroit museum of African American history?,1
+368,1974.,1974,0.4045286178588867,0.411447525024414,0.9617180824279784,1.0,1.0,When was 'The Wanderers' published?,1
+369,22°C.,13 °C,0.4339864253997803,0.4116158485412597,0.6927897930145264,0.5,0.5,What is the lowest nighttime temperature recorded at St. Barts?,0
+370,At least 2 routes to Canada: I-75 and I-94.,four,0.2823755741119385,0.7587690353393555,0.174862265586853,0.0,0.0,In how many directions does the Buddha of Swayambhu look?,0
+371,Teachers of secular subjects in private religious schools in Pennsylvania.,teachers of secular subjects,0.2895545959472656,0.6838691234588623,0.7834654450416565,0.5714285714285715,0.5714285714285715,Whose salaries were being reimbursed in private religious schools?,1
+372,France.,France,0.2647185325622558,0.3355710506439209,0.9445564150810242,1.0,1.0,Where was the 'Continental model' of police from?,1
+373,1785.,1785,0.318138837814331,0.2973809242248535,0.9593791365623474,1.0,1.0,What year was the very first publication of The Times?,1
+374,34 people were killed in the Detroit race riot of 1943.,34,0.4886953830718994,0.8321518898010254,0.2739954590797424,0.1666666666666666,0.1666666666666666,The German Empire had how many universities?,0
+375,1813.,1813,0.3757665157318115,0.4109477996826172,0.9584267735481262,1.0,1.0,"When did Schleiermacher publish his lecture ""On the Different Methods of Translation""?",1
+376,April 11.,April 11,0.6081256866455078,0.4129400253295898,0.969863772392273,1.0,1.0,When did the Olympic torch relay begin in Buenos Aires?,1
+377,There is no mention of a main commercial port in the provided context.,Gustavia,0.3340291976928711,0.7954919338226318,0.0573649778962135,0.0,0.0,What town is the Museum located in?,0
+378,They vowed to run with the torch.,run for spirit of Olympics,0.3944401741027832,0.5666160583496094,0.3772010803222656,0.1666666666666666,0.1666666666666666,"Though four withdrew, it was reported that Indian torchbearers vowed to what?",0
+379,Windsurfing.,windsurfing,0.3081896305084228,0.4104406833648681,0.9810414910316468,1.0,1.0,The windward side of St. Barts is popular for what type of activity?,1
+380,Chan is suing the Hong Kong government for breaching her human rights.,her human rights were breached.,0.2185695171356201,0.7929906845092773,0.458334743976593,0.4705882352941176,0.3529411764705882,Why is Chan suing the Hong Kong government?,1
+381,At least 35 arrests.,Tibetan flags,0.4012868404388428,0.4883468151092529,0.0331147946417331,0.0,0.0,What did French law enforcement take from protesters?,0
+382,"The Mayor of Nagano, Shoichi Washizawa.",India's Commerce Minister,0.5553247928619385,0.6103208065032959,0.2861801385879516,0.0,0.0,Who supposedly cancelled a trip to Beijing in protest?,0
+383,Torch supporters and pro-Beijing camp politicians.,counter-protesters,0.3051066398620605,0.6163475513458252,0.4190635979175567,0.0,0.0,Who amassed in large scale against protesters?,0
+384,Obscure and mysterious.,obscurity and mystery,0.3102412223815918,0.4896197319030761,0.74861079454422,1.0,1.0,Were the szlachta obscure and mysterious or obvious and proud.,1
+385,Kunigai.,Lechici/Lekhi (Lechitów):,0.3870918750762939,0.4121062755584717,0.4088836312294006,0.0,0.0,WHat was the name of the distinct element from a nnon-Slavic warrior class?,0
+386,Tourism.,wealth generated by wealthy tourists,0.4447782039642334,0.3330030441284179,0.6443716287612915,0.0,0.0,What besides investment is responsible for the high standard of living on the island?,0
+387,Saturday.,Saturdays,0.3317067623138428,0.3347818851470947,0.8298378586769104,1.0,1.0,On which day does Eastern Market attract the most visitors?,1
+388,There is no mention of Turkey in the given context.,Sultanahmet Square,0.6576979160308838,0.6816685199737549,0.1588867753744125,0.0,0.0,What is the name of the place in the city where the torch relay started in Turkey?,0
+389,295.,295,0.2728528976440429,0.3725259304046631,0.9466949701309204,1.0,1.0,How many murders did Detroit have in 2015?,1
+390,King Casimir III the Great.,Buda King Casimir III the Great,0.3125801086425781,0.5013203620910645,0.8597685098648071,0.9090909090909092,0.9090909090909092,who issied the first country wide privilege for the nobility? ,0
+391,Reynolds v. U.S. (1878),Reynolds v. U.S.,0.251744270324707,0.6411111354827881,0.7737037539482117,0.888888888888889,0.888888888888889,What was the case that used Jefferson's letter?,1
+392,"5 (I-75, I-94, I-96, I-275, I-696)",Four,0.5000879764556885,1.0255000591278076,0.318846046924591,0.0,0.0,How many days after the attack on Pearl Harbor did Germany wait to declare war on the United States?,0
+393,Annelids.,Onychophora and Tardigrada,0.2849664688110351,0.4111361503601074,0.333971619606018,0.0,0.0,What groups are relatives of the arthropods?,0
+394,The Detroit Historical Museum.,Graystone International Jazz Museum,0.4841325283050537,0.4515566825866699,0.4895775914192199,0.25,0.25,What is the name of the jazz museum in Detroit?,0
+395,Palmer Park.,Palmer Park,0.2636899948120117,0.3734703063964844,0.98377525806427,1.0,1.0,What is the neighborhood just west of Woodward?,1
+396,"metaphors like the ""wall of separation""",metaphors,0.3330318927764892,0.6052250862121582,0.5824159979820251,0.2857142857142857,0.2857142857142857,Stewart felt the court was not responsibly aided by the uncritical invocation of what?,1
+397,There is no information in the provided context about the first Anglican minister arriving in New Jersey.,1698,0.3738281726837158,0.9877405166625975,0.0573058202862739,0.0,0.0,When did the first Anglican minister arrive in New Jersey?,0
+398,Fedor Emelianenko.,Fedor Emelianenko,0.3005404472351074,0.4881582260131836,0.986855924129486,1.0,1.0,What is the name of the MMA fighter who carried the torch in Russia?,1
+399,The text does not mention the architect of the Gehry Tower.,American,4.0471813678741455,0.7584564685821533,-0.031234435737133,0.0,0.0,Astronomy and mathematics were also accomplishments of which civilizations?,0
+400,I don't see any information about Detroit's area code in the provided context.,313,0.2892003059387207,0.8717517852783203,0.1830319464206695,0.0,0.0,What is Detroit's area code?,0
+401,There is no information in the text about a wheelchair-bound bearer of the Olympic torch displaying a Tibetan flag.,Andrew Michael,0.256549596786499,1.0629279613494873,0.0169593766331672,0.0,0.0,What wheelchair-bound bearer of the Olympic torch displayed a Tibetan flag?,0
+402,"Chinese authorities, specifically those patrolling and censoring internet forums such as Sohu.com.",the Chinese government,0.2660756111145019,0.946302890777588,0.5589776039123535,0.125,0.125,Who removed Carrefour boycott comments from some websites?,1
+403,Sea Life Centre Hanover.,Sea Life Centre Hanover,0.3605399131774902,0.4876730442047119,0.9831363558769226,1.0,1.0,What is the name of the first tropical aquarium in Germany?,1
+404,a torchbearer.,caged woman,0.3009953498840332,0.3865528106689453,0.1714547723531723,0.0,0.0,The retired police officer said she would not run as what?,0
+405,March 2008.,March 2008,0.3483483791351318,0.4493279457092285,0.977948009967804,1.0,1.0,When were the first supplemental LTRO's offered?,1
+406,"Nagano, Japan.",Nagano,0.3187720775604248,0.2647559642791748,0.7679622173309326,0.6666666666666666,0.6666666666666666,Where was the torch relay held in Japan?,1
+407,"The London Mayor Ken Livingstone and Lord Coe, chairman of the London Olympic Committee, condemned the Chinese security guards as ""thugs"".",the Chinese government,0.3756942749023437,1.3299577236175537,0.3003178834915161,0.1666666666666666,0.1666666666666666,Who removed Carrefour boycott comments from some websites?,0
+408,Rotifers.,Nematoda,0.295727014541626,0.2350165843963623,0.2916014790534973,0.0,0.0,What is another name for roundworms?,0
+409,The Detroit Newspaper Partnership.,Detroit Newspaper Partnership,0.260157823562622,0.4508800506591797,0.9681734442710876,0.8571428571428571,0.8571428571428571,Under which agreement are Detroit's major newspapers published?,1
+410,Chapter 9 municipal bankruptcy.,Chapter 9,0.285449743270874,0.4892585277557373,0.5549405813217163,0.6666666666666666,0.6666666666666666,What type of bankruptcy did Detroit file?,1
+411,Gnathifera.,Bilateria,0.3276746273040771,0.4502983093261719,0.3001230955123901,0.0,0.0,What is the group of animals that often have a specialized head with feeding and sensory organs called?,0
+412,Canberra.,Canberra,0.2864003181457519,0.3328976631164551,0.9792311191558838,1.0,1.0,Where was the federal parliament moved after 1927?,1
+413,Moscow.,Victory Square,0.2810490131378174,0.1490521430969238,0.2865950763225555,0.0,0.0,What city location did the torch relay begin in Russia?,0
+414,HDI-Arena,HDI-Arena,0.314781904220581,0.2268333435058593,1.0000001192092896,1.0,1.0,What is the name of the stadium that the Hanover football team plays in?,1
+415,The 14th century.,Around the 14th century,0.4907724857330322,0.4896197319030761,0.9276238083839417,0.8571428571428571,0.8571428571428571,Around what time were the knights and szlachta very similiar?,1
+416,Ford Field.,Ford Field,0.2957377433776855,0.3727364540100097,0.9730141758918762,1.0,1.0,Where is the MAC Football Championship game played?,1
+417,"Between 2,000 and 10,000.","between 2,000 and 10,000",0.4949584007263183,0.6785871982574463,0.9663755893707277,1.0,1.0,It was thought that how many Chinese supporters would attend the torch relay?,1
+418,People's Daily.,People's Daily,0.4203190803527832,0.4110984802246094,0.97602778673172,1.0,1.0,Which newspaper asked the Chinese people to protest peacefully?,1
+419,Nguyễn Văn Hải.,Nguyễn Văn Hải,2.1450531482696533,0.3865292072296142,0.9836236834526062,1.0,1.0,What is blogger Điếu Cày's real name?,1
+420,The large number of enthusiastic supporters wearing red shirts and waving large Chinese flags.,related by blood or marriage,0.6433930397033691,0.8087472915649414,-0.0063849054276943,0.0,0.0,What gave them a sense of solidarity? ,0
+421,Creole houses.,Creole,0.4580779075622558,0.297307014465332,0.7462430596351624,0.6666666666666666,0.6666666666666666,What type of houses are on display at the museum in St. Barts?,1
+422,William Milliken.,William Milliken,0.3184995651245117,0.4101724624633789,0.9837127327919006,1.0,1.0,Who was Governor of Michigan in 1970?,1
+423,There is no mention of the current name of the building that serves as the town hall in the given context.,Hotel de la Collectivité,0.2941515445709228,0.9858388900756836,0.1691100001335144,0.0,0.0,What is the current name of the building in St. Barts that serves as town hall?,0
+424,"There is no mention of the ""privilege of Piotrkow"" in the provided text.",King John I Albert,0.3740499019622803,1.0282585620880127,0.071789726614952,0.0,0.0,Who granted the privilege of Piotrkow?,0
+425,The reserve team for the main Hanover team used to play at Eilenriedestadion.,Eilenriedestadium,0.2908027172088623,0.8364789485931396,0.4005649089813232,0.0,0.0,Where did the reserve team for the main Hanover team used to play?,1
+426,Lophophorates.,lophophore,0.2924232482910156,0.4884495735168457,0.6175899505615234,1.0,1.0,What are the phyla that have a ring of ciliated tentacles around the mouth called?,1
+427,"Hong Kong's one country, two systems policy.","one country, two systems",1.6086533069610596,0.6424605846405029,0.6064567565917969,0.6666666666666666,0.6666666666666666,A legislator said that by allowing Farrow to enter Hong Kong while denying others was a violation to what policy?,1
+428,49 men of the Black Legion were convicted of numerous crimes.,49,0.2935590744018554,0.756373405456543,0.2336104214191436,0.1666666666666666,0.1666666666666666,In how many nations are Muslims in the majority of people?,0
+429,Urban decay and thousands of empty buildings.,abandonment of properties,0.4601533412933349,0.5651049613952637,0.4038938581943512,0.2,0.2,What is one of the problems that currently effects property values in Detroit?,1
+430,The text does not mention the magnates doing anything with gifts.,never returned,0.3115031719207763,0.7579913139343262,0.071890115737915,0.0,0.0,What did the magnates do eventually with the gifts?,0
+431,Tax evasion.,tax evasion.,0.3311553001403808,0.3712480068206787,1.0,1.0,1.0,"Though he urged for demonstrations in Vietnam, Nguyễn Văn Hải was charged with what crime?",1
+432,Turtles.,Turtles,0.328826904296875,0.371272325515747,0.948520302772522,1.0,1.0,What protected species is a common sight along the beaches of St. Barts?,1
+433,"The szlachta, a noble class, were allowed to leave the village.",one son (not the eldest),0.4002821445465088,0.908867359161377,0.202579066157341,0.125,0.125,Who was allowed to leave the village?,0
+434,Saint Martin.,Saint Martin,0.2704954147338867,0.3477261066436767,0.9841004014015198,1.0,1.0,What island besides St. Barts was granted COM status by France in 2007?,1
+435,"The name ""Sarmatism"" originated from a myth of the szlachta's (Polish nobility) origin in the powerful ancient nation of Sarmatians.",powerful ancient nation of Sarmatians,0.2775483131408691,1.5966246128082275,0.6083667278289795,0.3846153846153846,0.3846153846153846,Where did the name sarmatism originate?,1
+436,There is no mention of Jeffries and Ryan in the provided context.,no-aid,0.3976149559020996,0.7923860549926758,0.2011892944574356,0.1428571428571428,0.1428571428571428,What position do Jeffries and Ryan argue was the reason for support from a coalition of separationists?,0
+437,Violent.,peaceful,0.3243329524993896,0.2620253562927246,0.5281168222427368,0.0,0.0,What sort of virus did Gaddafi describe HIV as?,0
+438,The state governments.,state governments,0.2247953414916992,0.4103872776031494,0.9317010045051576,0.8,0.8,What did the Supreme Court hold the First Amendment establishment clause was fully applicable to?,1
+439,Francesca Martinez and Richard Vaughan.,Francesca Martinez and Richard Vaughan,3.528970956802368,0.527503490447998,0.9839458465576172,1.0,1.0,What two people in England declined to bear the torch?,1
+440,Sacred Heart Major Seminary.,Sacred Heart Major Seminary,0.2773778438568115,0.4864108562469482,0.9784358739852904,1.0,1.0,What Seminary is located in Detroit?,1
+441,"There is no mention of the ""act of milno"" in the provided context.",more to strengthen the magnate dominated Senate of Poland then the lesser nobility,0.270533800125122,0.90773344039917,0.1507675796747207,0.2307692307692307,0.2307692307692307,What did the actof of milno do?,0
+442,"48,679.","48,679",0.3407580852508545,0.4482405185699463,0.982158362865448,1.0,1.0,What was Detroit's 2010 Hispanic population?,1
+443,The Detroit River.,Detroit River,0.299879789352417,0.3857591152191162,0.9507721662521362,0.8,0.8,What is the lowest point in Detroit along side?,1
+444,Modern art.,Modern art,0.3386309146881103,0.2995147705078125,0.9292287826538086,1.0,1.0,What is the main topic of the Kunsthalle Faust?,1
+445,Senators.,senators,0.277324914932251,0.3352792263031006,0.9518052339553832,1.0,1.0,Who comprised most of the members of the conspiracy to assassinate Caesar?,1
+446,"July 18, 2013.","July 18, 2013",0.2805080413818359,0.5654575824737549,0.9801534414291382,1.0,1.0,When did Detroit file for bankruptcy?,1
+447,The west side.,west,0.3220410346984863,0.4125423431396484,0.815071702003479,0.5,0.5,In what direction out of Kathmandu does the Prithvi Highway travel?,1
+448,"A unique and inclusive heraldic system that allowed minorities, such as Jews and Muslims, to be granted noble titles.",many rights,0.3241188526153564,1.1049635410308838,0.2123269736766815,0.0,0.0,THe polish nobility had many positives compared to others including what?,0
+449,Bangkok.,the Trocadéro.,0.3155674934387207,0.3355755805969238,0.1957966089248657,0.0,0.0,Where was the only place Tibetan flags were permitted?,0
+450,Officially-sponsored prayer or religious recitations in public schools.,religious observance,0.2670280933380127,0.71944260597229,0.4184240102767944,0.1818181818181818,0.1818181818181818,What was later banned in public education?,1
+451,Bajorai.,ponai,0.5101916790008545,0.4114961624145508,0.2578256130218506,0.0,0.0,What were the nobles named in lithuanian?,0
+452,They eat plants or plant-eating animals.,eating plants or plant-eating animals,0.3362681865692138,0.4646224975585937,0.7819982767105103,0.923076923076923,0.923076923076923,How do most animals use the energy of sunlight?,1
+453,Bundesliga.,Bundesliga,0.3099596500396728,0.3326823711395263,0.9688862562179564,1.0,1.0,Which league had only three Champions League wins between 1992 and 2013?,1
+454,"There is no information about the ""Parade of the Marksmen"" in the given context.",12.000,0.5463335514068604,1.0236866474151611,0.0589670464396476,0.0,0.0,How many participants are int he Parade of the Marksmen?,0
+455,Weekly.,weekly,0.2781283855438232,0.3352611064910888,0.9526283144950868,1.0,1.0,How often does Friday Cheers take place on Brown's Island?,1
+456,The Founding Fathers' conceptions of separation of church and state have long been argued over.,Jefferson and James Madison's,0.3196191787719726,0.985140323638916,0.3146252036094665,0.1,0.1,Whose conceptions of separation have long been argued over?,0
+457,15 July 2007.,15 July 2007,0.2413640022277832,0.5011637210845947,0.9764400124549866,1.0,1.0,When did the COM status for St. Barts take effect?,1
+458,"""Ritter""",Ritter,0.3138277530670166,0.4124209880828857,0.9408236742019652,1.0,1.0,German name for knight?,1
+459,The Nanas of Niki de Saint-Phalle.,Nanas of Niki de Saint-Phalle,0.3125183582305908,0.6438338756561279,0.9876872897148132,0.923076923076923,0.923076923076923,What world famous landmark is located on the bank of the Leine?,1
+460,The Imperial Diet.,Imperial Diet,0.4774081707000732,0.4116382598876953,0.92823326587677,0.8,0.8,Who confirmed the elevation of the Dukes of Brunswick-Lüneburg in 1708?,1
+461,"The Polish name for knight is ""szlachta"".",rycerz,0.3738646507263183,0.6845932006835938,0.219162181019783,0.0,0.0,WHat was a polish nobleman referred to as before the 15th century?,0
+462,Li Ning,Maria Nafpliotou,0.4430239200592041,0.1498992443084716,0.2137231081724167,0.0,0.0,What is the name of the woman who lit the torch for the new games?,0
+463,Paralympic athletes.,athletes,0.3369696140289306,0.4142885208129883,0.749895453453064,0.6666666666666666,0.6666666666666666,A newspaper article criticized that there were not enough of what kind of person among the torchbearers?,0
+464,"In sponges, blastula larvae swim to a new location and develop into a new sponge.",swim to a new location,0.2786903381347656,1.0241599082946775,0.2998296022415161,0.5,0.5,"In sponges, how do blastula develop into a new sponge?",1
+465,"Triploblastic worms, like metazoans.",triploblastic worms,0.337613582611084,0.6399946212768555,0.8589303493499756,0.6666666666666666,0.6666666666666666,Fossils found in the Tonian period indicate the presence of what creatures?,1
+466,The Golden Gate Bridge.,Golden Gate Bridge,0.3446991443634033,0.4501914978027344,0.9581010341644288,0.8571428571428571,0.8571428571428571,What famous bridge had two banners hung from it by protesters?,1
+467,Western media.,Ted Quinlan,0.2845211029052734,0.3722760677337646,0.0969520658254623,0.0,0.0,Who did not expect that reaction from the Chinese community?,0
+468,The State has no legitimate interest in protecting any or all religions from criticism.,views distasteful to them,0.2347629070281982,0.8324570655822754,0.1705217659473419,0.0,0.0,What does the State have no legitimate interest in protecting any or all religions from?,1
+469,Patrick Henry.,Elbridge Gerry,4.294845342636108,0.3731615543365478,0.2664598226547241,0.0,0.0,Who took issue with Madison's language during the debate over the establishment clause?,0
+470,Social duties or subversive of good order.,religion,0.369363784790039,0.6424119472503662,0.3335121273994446,0.0,0.0,Critics of modern separation of church and state note there was official establishment of what in several states at the time of ratification?,0
+471,Motown Records.,Motown,0.2557785511016845,0.4107344150543213,0.8805859684944153,0.6666666666666666,0.6666666666666666,What label became Detroit's most famous?,1
+472,"""so help me God""",so help me God,0.3869104385375976,0.4875917434692383,0.6773984432220459,1.0,1.0,What language do some of the same states specify the oath of office include?,1
+473,"The ""Victory Torch Relay""",Human Rights Torch Relay,0.2770063877105713,0.3411202430725097,0.6911505460739136,0.5,0.5,What was the unsanctioned alternative relay called?,0
+474,Conch.,conch,0.3356685638427734,0.372169017791748,0.9662288427352904,1.0,1.0,What common sea creature produces a collectable Item?,1
+475,Isaac Backus was a Baptist minister.,Baptist minister,0.3749387264251709,0.5626876354217529,0.6350589394569397,0.5,0.5,What was Issac Backus' profession?,1
+476,There is no mention of the Mount Soledad cross controversy in the provided context.,"May 3, 2006",0.2740175724029541,0.911125421524048,0.0803174972534179,0.0,0.0,When was a ruling handed down on the Mount Soledad cross controversy?,0
+477,They descended from a common ancestor.,theoretically descending from a common ancestor,0.2864351272583008,0.52762770652771,0.6251606345176697,0.8333333333333334,0.8333333333333334,What did the clans people all have in common?,1
+478,Olympic Park in Seoul.,Seoul,0.2903585433959961,0.4248590469360351,0.7925184965133667,0.4,0.4,What did the PVA and KPA gain by using the tactics during the Third Phase Offensive,0
+479,The rate of violent crime dropped 11 percent in 2008.,"16.73 per 1,000",0.2596986293792724,0.7951056957244873,0.1616316735744476,0.0,0.0,What was Detroit's rate of violent crimes in 2008?,0
+480,The information provided does not mention the case of Town of Greece v. Galloway.,"May 5, 2014",0.424872875213623,0.9499151706695556,0.1171909272670745,0.0,0.0,When did the Supreme Court rule on Town of Greece v. Galloway?,0
+481,Bone.,"shells, bones, and spicules",0.3890535831451416,0.3353941440582275,0.4410291314125061,0.4,0.4,What is formed when the collagen and elastic glycoproteins surrounding eukaryotic cells are calcified? ,0
+482,March 31.,March 31.,0.4401788711547851,0.4097588062286377,1.0,1.0,1.0,What date did the Olympic torch arrive at its destination in China?,1
+483,None is mentioned in the text.,Louis Miriani,0.3873751163482666,0.5251693725585938,0.0597488060593605,0.0,0.0,Who was Detroit's last Republican mayor?,0
+484,1806,1974,0.2601795196533203,0.3728141784667969,0.2581283748149872,0.0,0.0,When was 'The Wanderers' published?,0
+485,The Capitol.,at the Capitol,0.2935006618499756,0.3725671768188476,0.8177165389060974,0.8,0.8,Where did both Jefferson and Madison attend religious services?,1
+486,Coleman Young.,Coleman Young,1.066373348236084,0.37184739112854,0.9837982058525084,1.0,1.0,Who was Detroit's first black mayor?,1
+487,Any Polish noble or foreigner of royal blood.,any Polish noble or foreigner of royal blood,0.3029358386993408,0.6423876285552979,0.9748610258102416,1.0,1.0,After 1573 who could become a polish-lithuanian monarch?,1
+488,"April 1, 2008.","April 1, 2008",0.2466404438018798,0.5634608268737793,0.983201503753662,1.0,1.0,When was a resolution agreed to about Chinese human rights issues in San Francisco?,1
+489,Jane Birkin.,Jane Birkin,0.2917699813842773,0.4114534854888916,0.983202576637268,1.0,1.0,"Who, of the Trocadéro protest, spoke to the media?",1
+490,Members of Parliament and other French politicians.,Parliament,0.275841474533081,0.5640676021575928,0.5382435321807861,0.25,0.25,Who voted to have a committee investigate the mismanagement during the war?,0
+491,The Chinese presented a list of vulnerable relay locations to the Australian authorities.,Nirupama Sen.,0.2625682353973388,0.794165849685669,0.0784035176038742,0.0,0.0,The Chinese presented a list of vulnerable relay locations to who?,0
+492,Tibetan snow lion flag.,Tibetan,0.3339433670043945,0.4478316307067871,0.6170803308486938,0.4,0.4,"Along with Nepali, Indian and Chinese cuisines, what cuisine has been a focus of Kathmandu restaurants?",0
+493,The Battle of Waterloo.,Battle of Langensalza,0.3070659637451172,0.2635600566864013,0.4959694743156433,0.5714285714285715,0.5714285714285715,In which battle was the Hanover army destroyed?,0
+494,Japan and South Korea.,Nepal.,0.3205211162567138,0.4499197006225586,0.3797135353088379,0.0,0.0,What place had police experience violent problems with protesters?,0
+495,"The Polish-Lithuanian Commonwealth, a szlachta-run ""Commonwealth"".",oligarchy,0.724107027053833,0.9459714889526368,0.2635192573070526,0.0,0.0,What did the political system eventually evolve into?,0
+496,"The national motto ""In God We Trust"" is officially known as the Pledge of Allegiance.",ceremonial deism,0.3521769046783447,1.0220825672149658,0.2991215586662292,0.0,0.0,"What is the national motto ""In God We Trust"" officially known as?",0
+497,There is no mention of Campus Martius in the provided text.,2004,0.2660181522369385,0.7584967613220215,0.0699088275432586,0.0,0.0,When did India and Pakistan begin serious peace talks?,0
+498,Vienna Window Method (VWN),Volkswagen Commercial Vehicles Transporter,0.2782261371612549,0.3408620357513428,0.2046552300453186,0.0,0.0,What does VWN stand for?,0
+499,The Opera House.,Ballhof theatre,0.3350746631622314,0.4124064445495605,0.3833943605422973,0.0,0.0,What is the old royal sports hall now called?,0

@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Yes.,yes,0.0504431724548339,7.4803221225738525,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+1, Alternative rock.,alternative rock,0.0481250286102294,7.57891058921814,0.9691143035888672,1.0,1.0,What genre are both Splendora and Vertical Horizon?,1
+2, Gerald Ford.,Gerald Ford,0.0490059852600097,7.590325117111206,0.9736015796661376,1.0,1.0,Executive Order 11850 was signed by which 38th President of the United States?,1
+3, 1954,1954,0.0611970424652099,7.588801860809326,1.000000238418579,1.0,1.0,The Golden Gate score was composed by an American composer who was born in what year?,1
+4, L'Abbesse de Jouarre,L'Abbesse de Jouarre,0.048112154006958,8.330713033676147,1.0,1.0,1.0,"What was the name of a thoroughbred racehorse that won the 1889 Epsom Oaks and was owned by the Earl of Dunraven and Lord Randolph Churchill, a man who created the National Union of the Conservative Party?",1
+5, Slalom and giant slalom.,slalom and giant slalom,0.0490341186523437,8.089032411575317,0.980138063430786,1.0,1.0,"Phillip Ferdinand ""Phil"" Mahre had a  total of 27 World Cup race wins is fourth among Americans, only behind Lindsey Vonn, Bode Miller, and Mikaela Shiffrin, an American World Cup alpine ski racer who specialized  in what?",1
+6, Yes.,yes,0.0465497970581054,7.454701662063599,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+7," 5,615","5,615",0.059025764465332,7.71974778175354,1.0,1.0,1.0,Peaches was found in the CDP that had a population of what in 2010?,1
+8, Scott Fellows,Scott Fellows,0.0482053756713867,7.589494943618774,1.0,1.0,1.0,Tanya Chisholm plays Kelly Wainwright on a Nickelodeon sitcom created by who?,1
+9, Ben Affleck.,Ben Affleck,0.0586519241333007,7.726946830749512,0.9820345640182496,1.0,1.0,The daughter of former Congressman Pat Williams started an organization with what other person in 2010?,1
+10, 1986,1986,0.0472228527069091,7.600857973098755,1.0000001192092896,1.0,1.0,"Alan Douglas Ruck, is an American actor, he played Cameron Frye, Bueller's hypochondriac best friend in John Hughes' ""Ferris Bueller's Day Off"", released in which year?",1
+11," Germany, Switzerland, and Austria.","Germany, Switzerland and Austria",0.0590906143188476,8.0790855884552,0.9505090117454528,1.0,1.0,In what countries is the Trizonesien-Song popular?,1
+12, Johns Hopkins School of Medicine,Johns Hopkins School of Medicine,0.0481996536254882,7.818633556365967,1.0,1.0,1.0,Harriet Guild graduated from which academic medical teaching and research arm of the university with the same name?,1
+13, 1920,Denver,0.0470857620239257,7.613533973693848,0.2656235992908478,0.0,0.0,Fedor Anatolievich Tyutin most recently played for an NHL team based in what city?,0
+14, Hillsborough County.,Hillsborough County,0.0510787963867187,7.738725662231445,0.9770835041999816,1.0,1.0,Granite State Communications is based in what county?,1
+15, 19,nineteen,0.0472939014434814,7.469841957092285,0.8050111532211304,0.0,0.0,The actor who starred alongside Bing Crosby in Variety Girl hosted the Academy Awards how many times?,1

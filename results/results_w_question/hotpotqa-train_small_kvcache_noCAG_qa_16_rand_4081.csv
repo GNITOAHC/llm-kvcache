@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0, Guatemala.,Guatemala,0.11246919631958,7.17559289932251,0.9637786149978638,1.0,1.0,"Which country did Laura Godoy represent in the pageant held on 19 December 2012 at The AXIS, Las Vegas, Nevada, United States?"
+1, Los Angeles.,Los Angeles,0.054903507232666,7.185762166976929,0.9625944495201112,1.0,1.0, The 12th Annual Honda Civic Tour was a concert tour headlined by an American pop rock band that originated in what city?
+2, Mercury Records,Mercury Records,0.0916051864624023,7.08467960357666,1.0000001192092896,1.0,1.0,The Vamps released their debut single Can We Dance on what music label?
+3, Apocalypto,Apocalypto,0.0540423393249511,7.18626856803894,1.0,1.0,1.0,What film with actor Israel Contreras used the Yucatec Maya language?
+4, Michelle Kwan,Michelle Kwan,0.0846266746520996,7.243230581283569,1.0,1.0,1.0,"Artesia, is a city in southeast Los Angeles County, California, and the home of the East West Ice Palace, an ice rink which is co-owned, by which retired figure skater ?"
+5, Brother Bear (2003),Brother Bear,0.0577881336212158,7.525177001953125,0.836091935634613,0.8,0.8,What was the last movie that Barry Kooser worked as a background artist for?
+6, 1965.,1963,0.05938720703125,7.304011106491089,0.7095504999160767,0.0,0.0,Kenlake State Resort Park is part of a United States National Recreation Area that was designated a national recreation area by President John F. Kennedy in what year?
+7, Neal Avron,Neal Avron,0.141993761062622,7.162966251373291,0.9999999403953552,1.0,1.0,"Who was the producer of 2008 album ""Folie à Deux""?"
+8, The Midlands.,Leicestershire,0.0476353168487548,7.177923440933228,0.733471155166626,0.0,0.0,What region of England did the 1990 480 km of Donington  take place?
+9, Churros,churro,0.0519342422485351,7.178073883056641,0.918088674545288,1.0,1.0,"Based in Span and Portugal, which tasty breakfast snack features sprinkled sugar and a mixture of ground cinnamon?"
+10," No, they are not country music bands. Clap Your Hands Say Yeah is an indie rock band and Joywave is an indie rock band with electronic elements.",no,0.047145128250122,10.512614727020264,0.1286639273166656,0.0714285714285714,0.0714285714285714,Are Chris Marker and Yvonne Rainer American?
+11," London, England.","London, England",0.0982880592346191,7.3620264530181885,0.9752042889595032,1.0,1.0,"The magazine that voted Right Here, Right Now as the tenth-greatest dance record of all time is published where?"
+12," The Wolfgang Press was formed first, in 1983.",The Wolfgang Press,0.1219117641448974,8.266779899597168,0.7456173896789551,0.5454545454545454,0.5454545454545454,"Which band was formed first, The Wolfgang Press or Powerman 5000?"
+13, Japan,Japan,0.140535831451416,6.997748851776123,0.9999999403953552,1.0,1.0,"MiG Pilot: The Final Escape of Lieutenant Belenko is a 1980 biography by John Barron about the life and 1976 defection of which Soviet Mikoyan-Gurevich MiG-25 fighter pilot, who defected to the West while flying his MiG-25 'Foxbat' jet fighter and landed in Hakodate, in which country?"
+14, Prince William of Schleswig-Holstein-Sonderburg-Glücksburg,George I,0.1293034553527832,8.711802959442139,0.160770833492279,0.0,0.0,James Hudson belongs to an order created by what monarch?
+15, Yes.,no,0.1268737316131591,7.063921689987183,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?

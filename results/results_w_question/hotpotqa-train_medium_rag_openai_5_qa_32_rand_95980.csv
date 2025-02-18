@@ -1,0 +1,66 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,1983,6 June 1983,0.3810820579528808,2.325963020324707,0.8352314233779907,0.5,0.5,When was the killer of Nicola Huges born?
+1,1983.,1983,0.4122176170349121,1.2542684078216553,0.9709889888763428,1.0,1.0,The head coach of the 2011 Florida Atlantic Owls football team wona  national championship with Miami in what year?
+2,Peter Sellers.,Peter Sellers,1.6558914184570312,1.1515295505523682,0.9834222793579102,1.0,1.0,Who is the idol of the actor who played a Kazakh statirical character that was employed as a journalist?
+3,2011.,2011,0.2373023033142089,1.0809032917022705,0.9571799039840698,1.0,1.0,"Ikemen desu ne, released in which year, is a Japanese television series, it is the Japanese remake of the Korean musical romantic comedy television drama ""You're Beautiful""?"
+4,Infanta of Spain.,Infanta of Spain,0.3105881214141845,1.2299726009368896,0.9902615547180176,1.0,1.0,What by birth is the woman who was to get married to Prince Charles known by?
+5,The Wonderland murders.,four unsolved murders,0.3051731586456299,1.0022282600402832,0.518236517906189,0.3333333333333333,0.3333333333333333,What crime is a porn star born who died in 1988 suspected of commiting?
+6,England.,England,0.4377021789550781,1.113457441329956,0.9507434368133544,1.0,1.0,"What country Clock Tower, St Albans and Eleanor cross have in common?"
+7,1900.,31 May 1902,0.2743377685546875,1.034949779510498,0.5289214253425598,0.0,0.0,When did the war where the Mafeking Cadet Corps were founded end?
+8,United States.,United States,0.3135099411010742,1.045135259628296,0.9286460876464844,1.0,1.0,Where is the owner of Next big sound provides analytics for online music available?
+9,1889,"December 6, 1967",0.2719161510467529,1.2356276512145996,0.2900475263595581,0.0,0.0,"When was the writer of ""Fun with Dick and Jane"" born? "
+10,Gucci.,Gucci,0.2623486518859863,1.1264982223510742,0.9820009469985962,1.0,1.0,"Kate Dillon Levin (born March 2, 1974 in Washington D.C.) is an American model, activist and actress, the first plus-size model to appear in a campaign by which Italian luxury brand of fashion and leather goods, part of it's associated named Group, which is owned by the French holding company Kering?"
+11,4,four,0.2414271831512451,1.2064497470855713,0.8942000865936279,0.0,0.0,"This 2011 comedy film stars an American actress who won how many Golden Globes for her roll in ""Sex and the City""?"
+12,Dave McNally.,Dave McNally,0.341353178024292,1.207728385925293,0.9824200868606568,1.0,1.0,Who is the pitcher that along with Jim Hardin considered one of the best pitchers of the 1960s and 1970s who passed away in 2002?
+13,1998.,1998,0.5437793731689453,1.2149097919464111,0.9467677474021912,1.0,1.0,When was the inception of J. D. Martinez' team?
+14,Dutch surname.,Dutch names,0.324021577835083,0.8906536102294922,0.8876940011978149,0.5,0.5,Korver is a popular what?
+15,Edward Burne-Jones.,Edward Burne-Jones,0.3064694404602051,1.2298672199249268,0.9765100479125975,1.0,1.0,Which painter created the 'Beguiling of Merlin' and was closely associated with the later part of the Pre-Raphaelite movement? 
+16,1952.,1952,0.2884674072265625,1.2581043243408203,0.9718616008758544,1.0,1.0,Andrew Brackman is represented by a sports agent born in which year ?
+17,"and as a clerk for a doctor, and was an avid hunter. He became acquainted with John Surratt while attending classes at Charlotte Hall Military Academy in the late 1850s. A few years later, in December 1864, Surratt introduced him to John Wilkes Booth.
+
+Henry Stanhope Freeman: 
+Henry Stanhope Freeman (died April 1865) was the first Governor of the Lagos Colony, serving from 22 January 1862 to April 1865.
+
+Abraham Lincoln: 
+Abraham Lincoln ( ; February 12, 1809 – April 15, 1865) was an American politician and lawyer who served as the 16th President of the United States from March 1861 until his assassination in April 1865. Lincoln led the United States through its Civil War—its bloodiest war and perhaps its greatest moral, constitutional, and political crisis. In doing so, he preserved the Union, paved the way to the abolition of slavery, strengthened the federal government, and modernized the economy.
+
+John Surratt: 
+John Harrison Surratt, Jr. (April 13, 1844 – April 21, 1916) was accused of plotting with John Wilkes Booth to kidnap US President Abraham Lincoln and suspected of involvement in the Abraham Lincoln assassination. His mother, Mary Surratt, was convicted of conspiracy and hanged by the US government; she owned the boarding house that the conspirators as a safe house and to plot the scheme.
+
+Bruce by-election, April 1865: 
+The April 1865 Bruce by-election was a New Zealand by-election held in the multi-member electorate of Bruce during the 3rd New Zealand Parliament on 8 April 1865 triggered by the resignation of Member of Parliament Thomas Gillies.
+
+Mary E. Surratt Boarding House: 
+The Mary E. Surratt Boarding House in Washington, D.C.
+---------------------
+A revised formula was created by Bill Bridgforth in 1958. The rights to this formula were obtained by the Tip Corporation of Marion, Virginia. William H. ""Bill"" Jones of the Tip corporation further refined the formula, launching that version of Mountain Dew in 1961. In August 1964, the Mountain Dew brand and production rights were acquired from Tip by the Pepsi-Cola company, at which point distribution expanded more widely across the United States and Canada.
+
+Marion County Historical Society: 
+The Marion County Historical Society is located in Marion, Ohio, United States. In addition to operating Heritage Hall, a comprehensive museum dedicated to the preservation of Marion County Ohio history, the Society also operates the Rinker-Howser Resource Center, Linn School House and Seiter Cabin sites.
+
+Mike Moore (wrestler): 
+Michael Eugene Moore (born August 12, 1958) is an American retired professional wrestler. He is best known under the ring names Motor City Madman and Man Mountain Mike Moore, and for appearances in World Championship Wrestling (WCW).
+
+Man Mountain Mike: 
+Gary Fletcher, (September 15, 1940 – April 30, 1988) was an American professional wrestler who was best known by his ring name, Man Mountain Mike.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Martha Ellen Reeves got her masters at a university located in which US state?
+        
+        assistant
+         Montana.",Missouri,0.2611596584320068,0.9259719848632812,0.1924562007188797,0.0,0.0,The father of Chris Weddle is a managing partner for a firm headquartered in what state?
+18,1972,1972,0.2295472621917724,1.1288938522338867,1.0000001192092896,1.0,1.0,The film Jogan fetures a song by a musician that died in what year?
+19,Jonas Gahr Støre.,Jonas Gahr Støre,0.4078183174133301,1.4799048900604248,0.9880650639533995,1.0,1.0,Marit Svarva Henriksen was a politician for a social-democratic plitical party in Norway that is currently led by who?
+20,"Baltimore, Maryland.","Baltimore, Maryland",0.3213746547698974,1.3026847839355469,0.983634352684021,1.0,1.0,What was the birth place of Woody Rock and the founding location of the American singing group Dru Hill?
+21,Fever Pitch (2005),Fever Pitch,0.3463349342346191,1.2826178073883057,0.9105061888694764,0.8,0.8,Which film stars Drew Barrymore and Jimmy Fallon and is written by brothers that are 2 years apart in age?
+22,Colin Murray.,Music Broadcaster of the Year,0.4492471218109131,1.1309845447540283,0.3119317293167114,0.0,0.0, Miss You is a track by UK rock band Feeder that received its first radio play as part of a segment by a music radio presenter who was named what at the 2007 Sony Radio Academy Awards?
+23,Blur.,Blur,2.944920063018799,1.0400667190551758,0.924055516719818,1.0,1.0,"""What Ya Gonna Do Now?"" and ""Bloody Annoying"" are by a singer that is also fouinded what rock band?"
+24,1944,1944,0.3359503746032715,0.9737296104431152,1.0,1.0,1.0,What year was the the U.S. Third Army undertaking the Lorraine Campaign during World War II while the U.S. Fifth Army was engaged in Operation Diadem?
+25,Sarah Lane.,Sarah Lane,2.388255834579468,1.0722079277038574,0.978565514087677,1.0,1.0,"What American ballet dancer and principal dancer with the American Ballet Theatre, also starred as a ""dance double"" for Natalie Portman in the 2010 movie Black Swan?"
+26,1974.,1974,0.2670650482177734,1.031662940979004,0.9617180824279784,1.0,1.0,Melatonin MAgik is an album by an artist born in what year?
+27,Austria.,Austrian,0.325632095336914,1.1655669212341309,0.8425337076187134,0.0,0.0,Burning Secret was based on a short story by an author of what nationality?
+28,"Kwak Jae-yong directed the 2001 South Korean romantic comedy film ""My Sassy Girl"".",Kwak Jae-yong,0.2255671024322509,1.7875831127166748,0.5139502286911011,0.3529411764705882,0.3529411764705882,On Joo-wan appeared in the 2008 film directed by whom?
+29,Mountain Mike's Pizza operates in more states.,Mountain Mike's Pizza,0.3385660648345947,1.258415699005127,0.808826208114624,0.6666666666666666,0.6666666666666666,"Which operates in more states, Marion's Piazza or Mountain Mike's Pizza?"
+30,Abraham Lincoln.,Abraham Lincoln,0.5079638957977295,0.8317480087280273,0.9659408330917358,1.0,1.0,The brother of T.A.D Fessenden was secretary of the treasury under wich president?
+31,Atlanta Falcons.,the Atlanta Falcons,0.3719096183776855,1.2091197967529297,0.9563670754432678,0.8,0.8,The interim coach of the 1998 San Diego Chargers began his NFL coaching career with what team?

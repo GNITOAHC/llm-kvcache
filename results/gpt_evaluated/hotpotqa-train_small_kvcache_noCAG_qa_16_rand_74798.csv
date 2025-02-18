@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Yes.,yes,0.0509936809539794,8.600056648254395,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+1, Chuck D.,Carlton Douglas Ridenhour,0.065115213394165,8.726269245147705,0.2344690561294555,0.0,0.0,Hip Hop Connection was considered the best magazine in the world by which rapper and author?,1
+2, The Henry Ford Museum and Greenfield Village.,Dearborn's Henry Ford Centennial Library,0.0478982925415039,9.46092939376831,0.6762893199920654,0.3076923076923076,0.3076923076923076,Which Library is located near The Henry Ford and the Glass House in Michigan?,0
+3, Wolfgang Amadeus Mozart.,Wolfgang Amadeus Mozart,0.0597686767578125,9.112815618515016,0.9619248509407043,1.0,1.0, Who was born first Dmitri Shostakovich or Wolfgang Amadeus Mozart?,1
+4, My Friend Dahmer,Jeffrey Dahmer,0.0473072528839111,8.837939977645874,0.6273089051246643,0.4,0.4,"Who is the ""My Friend Dahmer"" 2017 American biographical drama film, also known as the Milwaukee Cannibal, based on?",0
+5, 1825,the late 1960s,0.0482821464538574,8.698199987411499,0.2150547951459884,0.0,0.0,When did the criminal gang formed by someone serving six life sentences at the ADX Florence supermax prison in Colorado?,0
+6, The actor Jack Elam served in the United States Navy during World War II.,the United States Navy,0.0571262836456298,10.387615442276,0.437221348285675,0.4444444444444445,0.4444444444444445,Where did the actor who played sidekick Toothy in Sugarfoot serve prior to acting?,1
+7, The Northern Territory.,Timor Sea,0.0474612712860107,8.84130334854126,0.3569391965866089,0.0,0.0,Jane Aagaard represents the capital city of the territory based on what sea?,0
+8, The Genesis Flood,The Genesis Flood,0.0497717857360839,8.740803003311157,1.0,1.0,1.0,"What is the name of this book written in 1961 by young earth creationists, who inspired the Biblical Creation Society?",1
+9, 1488,1488,0.0479159355163574,8.698150157928467,1.0000001192092896,1.0,1.0,Sir William Borthwick was master of the king's houshold for a king who passed away in which year ?,1
+10," No, they do not share the same nationality. Michel Butor is French, and Joanne Harris is English.",no,0.0651483535766601,11.289569854736328,0.07462739944458,0.1111111111111111,0.1111111111111111,Are Chris Marker and Yvonne Rainer American?,0
+11, Widnes Vikings.,Widnes Vikings,0.0612013339996337,8.813791513442993,0.9856057167053224,1.0,1.0,Which rugby team plays in the Super League and was one of the contestors of the 1982 Challenge Cup?,1
+12, A&M Records.,A&M Records,0.0570805072784423,8.856834411621094,0.9817119836807252,1.0,1.0,What record label features stars such as Rita Coolidge and Burt Bacharach?,1
+13, 2014,2014,0.0474855899810791,8.72468614578247,1.0,1.0,1.0,What year did Rene Russo star in the American thriller film Nightcrawler?,1
+14, Stargate,Stargate,0.1077635288238525,8.744024991989136,1.0000001192092896,1.0,1.0,What Norwegian record producing team helped produce Hymn for the Weekend,1
+15, Neil Barnes and Paul Daley.,Neil Barnes and Paul Daley,0.0551018714904785,9.222187280654907,0.987594485282898,1.0,1.0,"Managed by English music manager and producer, John Arnison, Leftfield, a British electronic music group, began as a duo between who?",1

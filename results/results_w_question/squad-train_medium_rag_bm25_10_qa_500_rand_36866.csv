@@ -1,0 +1,504 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,The Great Boston Fire of 1872.,The Great Boston Fire of 1872,0.0014169216156005,7.212548017501831,0.9896929264068604,1.0,1.0,What famous disaster happened in Boston in 1872?
+1,3%,3%,0.0014457702636718,1.2996902465820312,1.0000001192092896,1.0,1.0,How many Namibian's speak English?
+2,Subjective Idealism.,Subjective Idealism,0.0013167858123779,1.3987972736358645,0.9691055417060852,1.0,1.0,What school of thought did Berkeley belong to?
+3,The Back Bay.,the Back Bay,0.0013043880462646,1.3435239791870115,0.9847224354743958,1.0,1.0,The Boston Public Library is located in what part of Boston?
+4,33%,33%,0.0014412403106689,1.24908709526062,1.000000238418579,1.0,1.0,What percent vertical resolution increase did Squeeze LDs feature over regular widescreen LDs?
+5,Kierkegaard.,Kierkegaard,0.0013148784637451,1.3868653774261477,0.9753344655036926,1.0,1.0,"Along with Hegel, who also argued for human incompleteness?"
+6,The EPA determined that the air quality was unhealthy on those 4 days.,the EPA,0.0013306140899658,1.931537389755249,0.416577398777008,0.2666666666666667,0.2666666666666667,Who sponsored the Green Power Partnership?
+7,Yiddish.,Yiddish,0.001312255859375,1.339143991470337,0.965530812740326,1.0,1.0,What other language besides French and German are part of the Aslation-French dialect of today?
+8,"The people of Boston reacted vociferously to the demolition of the West End, with extensive public opposition.",with vociferous public opposition.,0.001321792602539,2.256513357162476,0.4305022954940796,0.3809523809523809,0.2857142857142857,How did the people of Boston react to the demolition of the West End?
+9,The 11th century.,11th century,0.0014381408691406,1.4243605136871338,0.9593385457992554,0.8,0.8,In what century had mills such as gristmills and sawmills dominate the Islamic world?
+10,"655,884.","655,884",0.0013289451599121,1.3934204578399658,0.9819696545600892,1.0,1.0,What was the population of Boston in 2014
+11,45 court officials.,45,0.0013215541839599,1.349980115890503,0.5231430530548096,0.5,0.5,How old was Yongzheng when he took over?
+12,Approximately one-third.,one-third,0.0014159679412841,1.2990922927856443,0.7768433094024658,0.8,0.8,During the height of the Cretaceous transgression how much of the earths land mass was under water?
+13,160,160,0.0012955665588378,1.1982738971710205,1.0000001192092896,1.0,1.0,How many square kilometers is Richmond?
+14,the cradle of Germanic tribes.,cradle of Germanic tribes,0.0013096332550048,1.5442519187927246,0.9749271869659424,0.888888888888889,0.888888888888889,"Ashkenaz is linked to Scandza/Scanzia, which is viewed as what?"
+15,Boston.,Boston,0.0013015270233154,1.210545539855957,0.9526292085647584,1.0,1.0,What city does San Diego come in second to in the biotech industry?
+16,The Syrian Jewish community.,Syrian Jewish community,0.0013191699981689,1.4018678665161133,0.974006712436676,0.8571428571428571,0.8571428571428571,"Most people with the surname Ashkenazi, hail from which particular community?"
+17,The abolitionist movement.,the abolitionist movement,0.0013461112976074,1.362722396850586,0.9832311868667604,1.0,1.0,What movement did Boston become the center of after it stopped slave trade?
+18,Bank of America.,Bank of America,0.0013232231140136,1.348844051361084,0.9741100072860718,1.0,1.0,Who bought FleetBoston Financial?
+19,The idea that the Ashkenazi may have come from Khazar stock surfaced in the later 19th century.,in the later 19th century,0.0013489723205566,2.364631414413452,0.3703518211841583,0.4545454545454545,0.4545454545454545,When did the idea that the Ashkenazi may have come from Khazar stock come about?
+20,"175,000+","175,000+",0.0014255046844482,1.3593463897705078,1.0,1.0,1.0,How many Puerto Rican hispanics live in greater Boston?
+21,The headquarters for the Christian Scientists is located in the Back Bay at the Mother Church (1894).,Back Bay,0.0013859272003173,2.166917085647583,0.3715506196022033,0.2105263157894736,0.2105263157894736,Where do Amtrack's Northeast corridor and Chicago lines end?
+22,The City of Boston.,a city,0.0013129711151123,1.3623039722442627,0.6033048033714294,0.3333333333333333,0.3333333333333333,Boston was chartered as what in 1822?
+23,Massachusetts.,Massachusetts,0.0012962818145751,1.230537176132202,0.9563392400741576,1.0,1.0,What was Elbridge Gerry's constituency? 
+24,Boston has been a noted religious center from its earliest days.,from its earliest days,0.0013251304626464,1.7687950134277344,0.2342173904180526,0.5333333333333333,0.5333333333333333,How long has Boston been a religious center?
+25,1750.,1750,0.0013113021850585,1.304661750793457,0.9622660875320436,1.0,1.0,Prior to what year was the Patterson-Schutte House built?
+26,Over 20 million visitors per year.,20 million,0.00132417678833,1.510127305984497,0.630460262298584,0.5,0.5,How many copies worldwide has Queen's 1995 album sold?
+27,Boston ranks 36th worldwide in quality of living in a 2011 survey of 221 major cities.,high,0.0013027191162109,2.248410701751709,0.1251359283924102,0.0,0.0,What is hunting pressure from?
+28,The city's ethnic composition.,the city's ethnic composition,0.0013158321380615,1.4216554164886477,0.9908846616744996,1.0,1.0,The first Europen immigrants arrival changed what in Boston?
+29,state politics.,state politics,0.001312255859375,1.301880121231079,0.9563447833061218,1.0,1.0,"As the state capital, Boston plays a large role in what?"
+30,The Theater District is located south of Boston Common.,south of Boston Common,0.0012974739074707,1.661921501159668,0.7115889191627502,0.6153846153846153,0.6153846153846153,Where is the theater District located?
+31,48 square miles (124 km2),89.6 square miles,0.0013747215270996,1.5524871349334717,0.7662367224693298,0.4444444444444445,0.4444444444444445,What is the total area of Boston?
+32,Every 4 years.,every fourth year,0.0013074874877929,1.391059637069702,0.8580735921859741,0.6666666666666666,0.6666666666666666,How often are elections for mayor held in Boston?
+33,"The School Committee, which is appointed by the mayor.",The School Committee,0.001293659210205,1.688849925994873,0.781391441822052,0.5,0.5,Who oversees the Boston Public Schools?
+34,Venture capital.,venture capital investment,0.0013320446014404,1.2822275161743164,0.8629215955734253,0.8,0.8,Route 128 and Greater Boston are centers for what type of investment?
+35,Sakanoue no Tamuramaro.,Sakanoue no Tamuramaro,0.0013325214385986,1.6308536529541016,0.9813929796218872,1.0,1.0,What was the name of the new commander Kanmu appointed in the year 797?
+36,"57,000 students.","57,000",0.0012922286987304,1.434216022491455,0.6253425478935242,0.8,0.8,How many students are in Boston Public schools?
+37,10.1%,10.1%,0.0013070106506347,1.3769159317016602,1.0,1.0,1.0,What percentage of the City of Boston's residents are over 65?
+38,The Levant.,the Levant,0.0013420581817626,1.3564815521240234,0.9739600419998168,1.0,1.0,Recent studies have found that contemporary Jews (excluding Indian and Ethiopian Jews) have a close genetic relationship to the people of what area?
+39,Beverly Municipal Airport is north of Logan Airport.,Beverly Municipal Airport,0.0013935565948486,1.613203048706055,0.7939987182617188,0.5454545454545454,0.5454545454545454,What airport is North of Logan Airport?
+40,The language of Ashkenaz and the country of Ashkenaz.,both the language of Ashkenaz and the country of Ashkenaz,0.001307725906372,1.889493703842163,0.979971408843994,0.9473684210526316,0.9473684210526316,"In the latter half of the 11th century, Rashi refers to what two things?"
+41,McTaggart believes that space and time are unreal.,unreal,0.0012874603271484,1.7159428596496582,0.2358066439628601,0.2222222222222222,0.2222222222222222,What does McTaggart believe space and time to be?
+42,The Christian Science Monitor publishes a weekly magazine format.,weekly,0.0013482570648193,1.6531853675842283,0.428528368473053,0.1999999999999999,0.1999999999999999,How often does Friday Cheers take place on Brown's Island?
+43,Hermann Lotze.,Hermann Lotze,0.0013341903686523,1.3829824924468994,0.986084282398224,1.0,1.0,"What notable idealist was responsible for a ""world ground"" theory?"
+44,Yiddish.,Yiddish,0.0013298988342285,1.3423008918762207,0.965530812740326,1.0,1.0,What other language besides French and German are part of the Aslation-French dialect of today?
+45,The Fujiwara clan.,Fujiwara,0.0013155937194824,1.3843083381652832,0.779144287109375,0.5,0.5,Succession to the throne was determined by what clan?
+46,39.,39,0.0012798309326171,1.2637555599212646,0.9369837045669556,1.0,1.0,How many days did the recount after the 2000 US election last for?
+47,8.3%,8.3%,0.0012738704681396,1.3656044006347656,1.0,1.0,1.0,How much growth did the IMF expect Nigeria's economy to have in 2009?
+48,The practice of the beth din that converted them.,the practice of the beth din that converted him or her,0.0012686252593994,1.714836835861206,0.8654807806015015,0.7999999999999999,0.7999999999999999,A convert generally follows which practice?
+49,Four women.,from just four women,0.0013430118560791,1.2949941158294678,0.7249624729156494,0.6666666666666666,0.6666666666666666,"A 2006 study by Behar et al, suggested that a large percentage of the current Ashkenazi population is descended matrilineally from how many women? "
+50,Spirit.,Spirit,0.0013368129730224,1.212782621383667,0.9221401214599608,1.0,1.0,"In Hegel's thought, what inner reality is possessed by both subject and object?"
+51,Sei Shōnagon.,Sei Shōnagon,0.0013070106506347,1.4590895175933838,0.9799715280532836,1.0,1.0,The Pillow Book was a collection of whose observations of the imperial court?
+52,57%,57%,0.0012967586517333,1.265106201171875,1.0,1.0,1.0,What percentage of Charleston's population was black in 1875?
+53,The Harborfest festivities last a week.,week-long,0.0013012886047363,1.5578279495239258,0.3712928593158722,0.25,0.25,How long are the Harbor-Fest festivities?
+54,WGBH-TV,WGBH-TV,0.0012693405151367,1.3429579734802246,1.0,1.0,1.0,What is the citys PBS station?
+55,"The ""Big Five"" group of the greatest American orchestras.",Big Five,0.0013079643249511,1.831026554107666,0.3941129148006439,0.3636363636363636,0.3636363636363636,The Boston Symphony Orchestra is a member of what?
+56,Minhagim refers to customs in addition to Halakha (religious law) that are followed by religious Jews.,customs,0.0013079643249511,2.314201593399048,0.4276483654975891,0.1176470588235294,0.1176470588235294,Greeks adopted what from local cultures?
+57,"Climacus believed Hegel endorsed a conception of right and wrong based on the prevailing bourgeois morality, where individual human will should coincide with the will of the State.",bourgeois,0.0014674663543701,2.840540885925293,0.3035436570644378,0.0689655172413793,0.0689655172413793,What conception of right and wrong did Climacus believe Hegel endorsed?
+58,19 years old.,19,0.0013070106506347,1.365957736968994,0.6743611693382263,0.5,0.5,How many divisions did the Germans add to Italy?
+59,"According to Schopenhauer, the ideal can be attributed to our own minds.",our own minds,0.0013415813446044,1.975386619567871,0.454764574766159,0.4,0.4,"According to Schopenhauer, to what can the ideal be attributed?"
+60,"The study examined the genetic relationships among all major Jewish groups, including Ashkenazim.",all major Jewish groups,0.0014338493347167,2.087293863296509,0.5496479272842407,0.4705882352941176,0.4705882352941176,The genome-wide genetic study carried out in 2010 by Behar et al. examined the genetic relationships among which Jewish groups?
+61,Saint Thomas Aquinas.,Saint Thomas Aquinas,0.001293659210205,1.4024863243103027,0.988724648952484,1.0,1.0,Who is a notable realistic personal theist?
+62,35 to 55 percent.,35 to 55 percent,0.001298189163208,1.509230613708496,0.9663923382759094,1.0,1.0,What percentage of the modern Ashkenazi genome could possibly be of European origin?
+63,The Emperor's Private Office.,Emperor's Private Office,0.0013360977172851,1.4274141788482666,0.971238374710083,0.888888888888889,0.888888888888889,What new office allowed government to issue administrative orders faster?
+64,Half.,half the world's chess champions,0.0013263225555419,1.24749493598938,0.3330200612545013,0.2857142857142857,0.2857142857142857,About how many of the world's chess champions come from the Ashkenazi Jewish community?
+65,Studies on the genetics of the Ashkenazim have come to divergent conclusions regarding the degree and sources of their European ancestry.,they have arrived at diverging conclusions,0.0013420581817626,2.5128064155578613,0.3070766627788543,0.2222222222222222,0.2222222222222222,Have studies on the genetics of the Ashkenazim come to similar or divergent conclusions regarding the degree and sources of their European ancestry?
+66,Yoma.,Yoma,0.0013198852539062,1.2660024166107178,0.9304150342941284,1.0,1.0,In which tractate of the Babylonian Talmud is the name Gomer given as Germania?
+67,2 million.,2 million,0.0013270378112792,1.350865364074707,0.9674758911132812,1.0,1.0,How many passengers do Palermo's ferries carry each year?
+68,The rubble from the Great Boston Fire of 1872 was used as landfill along the downtown waterfront.,as landfill along the downtown waterfront,0.0013034343719482,2.1914424896240234,0.6103818416595459,0.5217391304347826,0.5217391304347826,What was the rubble from the Great Boston Fire used for?
+69,52.,52,0.0012917518615722,1.2857859134674072,0.9440832734107972,1.0,1.0,How many Puerto Ricans have died in the Iraq War and War in Afghanistan?
+70,tidal areas.,tidal areas,0.0013093948364257,1.2907323837280271,0.9514468908309937,1.0,1.0,The modern land area was created by the gradual filling in of surrounding what?
+71,48 square miles.,48 square miles,0.0013246536254882,1.4105708599090576,0.9751338362693788,1.0,1.0,How many square miles is Boston?
+72,The Trust for Public Land.,ParkScore,0.0012922286987304,1.4159743785858154,0.153404414653778,0.0,0.0,Who ranks city park systems?
+73,"In Israel, the term Ashkenazi is now used to refer to all Jews who settled in Europe, including those whose ethnic background is actually Sephardic.",all Jews who settled in Europe and sometimes including those whose ethnic background is actually Sephardic,0.0012698173522949,2.8408467769622803,0.7295171618461609,0.6829268292682927,0.6829268292682927,"In Israel, the term Ashkenazi is now used to refer to whom?"
+74,Every three years.,every three years,0.0012946128845214,1.328343152999878,0.975447952747345,1.0,1.0,How often is Boston's climate plan updated?
+75,an oceanic coastline.,oceanic coastline,0.0013275146484375,1.408946514129639,0.9510786533355712,0.8,0.8,Boston is the only state capital in the contiguous US to have what type of coastline?
+76,"Subjective idealism, as held by Berkeley.",materialism,0.0013124942779541,1.6309082508087158,0.3428314328193664,0.0,0.0,What is an example of a school of thought Hegel believed to be wrong?
+77,More common today.,Jews of mixed background are increasingly common,0.0012788772583007,1.3444454669952393,0.2776743769645691,0.2,0.2,Are Jews of mixed backgrounds more or less common today?
+78,Third-best park system among the 50 most populous US cities.,third-best,0.0013098716735839,1.7962431907653809,0.4026936590671539,0.3076923076923077,0.3076923076923077,What ranking does the Boston park system have?
+79,Boston Common is located near the Financial District and Beacon Hill.,near the Financial District and Beacon Hill,0.0012958049774169,1.749673843383789,0.6641281843185425,0.7777777777777778,0.7777777777777778,Where is Boston Common located?
+80,A vibrant Yiddish culture and diverse political movements.,"a vibrant Yiddish culture, and many Jews were involved in diverse political movements",0.0012993812561035,1.708261013031006,0.8993499279022217,0.761904761904762,0.761904761904762,"By the 1930s, Paris was noted for which two things related to Jews?"
+81,South Station.,Back Bay,0.0013995170593261,1.2492706775665283,0.4687236547470093,0.0,0.0,Where do Amtrack's Northeast corridor and Chicago lines end?
+82,John Norris.,John Norris,0.0012722015380859,1.2850406169891355,0.9789873361587524,1.0,1.0,"Who was known as the ""Cambridge Platonist""?"
+83,Harvard Medical School.,Harvard Medical School,0.0012867450714111,1.3100013732910156,0.9743493795394896,1.0,1.0,The Longwood medical and Academic Area is affiliated with what medical school?
+84,36 championships in various professional sports leagues.,36 championships,0.0013022422790527,1.5985620021820068,0.833908200263977,0.4444444444444445,0.4444444444444445,How many championships has Boston won in these leagues?
+85,"Ashkenazi Jews were found to be a more genetically divergent population than Russians, Orcadians, French, and Basques.",a genetically more divergent population,0.0013220310211181,2.50683331489563,0.5239046812057495,0.4545454545454545,0.3636363636363636,"Were Ashkenazi Jews found to be a more or less genetically divergent population than Russians, Orcadians, French, and Basques?"
+86,Musgrave,Musgrave,0.0012946128845214,1.2440669536590576,1.0,1.0,1.0,"Who spoke of the ""warning signs"" of idealism?"
+87,Finance and commerce.,finance and commerce,0.0013158321380615,1.3190982341766355,0.9529751539230348,1.0,1.0,When Jews began to return to Frankish lands many took up occupations in which two fields?
+88,"""organizational dynamism"".",organizational dynamism,0.0013248920440673,1.4385623931884766,0.9486128687858582,1.0,1.0,The integration of Shinto shrines into government branches reflected a greater what?
+89,"The city of Boston was named by Puritan settlers, specifically a group of English Puritans who settled in the area in 1630.",Puritan colonists from England,0.0012590885162353,2.673623323440552,0.6788171529769897,0.0769230769230769,0.0769230769230769,Who named the city Boston?
+90,The represented image of an external object.,represented image of an external object,0.0013289451599121,1.551957130432129,0.9237139225006104,0.923076923076923,0.923076923076923,What sort of reality did Collier believe was knowable?
+91,December through March.,December through March,0.0013015270233154,1.346472978591919,0.9652578830718994,1.0,1.0,When does most snowfall occur?
+92,The Taira and Minamoto clashed during the Heiji Rebellion.,Taira and Minamoto,0.0014030933380126,1.794750452041626,0.6567314863204956,0.5,0.5,What clans fought during the Heiji Rebellion?
+93,"272,481 housing units.","272,481",0.0012691020965576,1.517033338546753,0.6122317910194397,0.6666666666666666,0.6666666666666666,How many housing units were there in Boston in 2010?
+94,The National Institutes of Health.,the National Institutes of Health,0.0012989044189453,1.4163508415222168,0.9878127574920654,1.0,1.0,"Of all cities in the US, Boston received the highest amount of funding from where?"
+95,"Ashkenaz, the first son of Gomer, son of Khaphet, son of Noah.",Ashkenaz,0.0012805461883544,2.208674192428589,0.5495931506156921,0.1538461538461538,0.1538461538461538,The name of Ashkenazi derives from which biblical figure?
+96,Kūkai brought Shingon Buddhism to Japan.,Kūkai,0.0012884140014648,1.7323453426361084,0.5872126817703247,0.4444444444444445,0.4444444444444445,Who brought Shingon Buddhism to Japan?
+97,"Berkeley considered things like matter to be ""unthinkable"" and therefore ""nothing to us"".",abstractions,0.0013041496276855,2.0753564834594727,0.2128456234931945,0.0,0.0,What did Berkeley consider things like matter to be?
+98,Teens in Print (T.i.P.),Teens in Print,0.0012948513031005,1.5557539463043213,0.9329597353935242,0.6666666666666666,0.6666666666666666,What is the name of the teen paper that the Boston Globe provides to schools?
+99,The 7th district.,the 7th district,0.0013937950134277,1.4495983123779297,0.9888454079627992,1.0,1.0,What district is the North 3/4 of the city located in?
+100,Fujiwara no Sumitomo.,Fujiwara no Sumitomo,0.0013046264648437,1.4979605674743652,0.94292950630188,1.0,1.0,What member of the Fujiwara family rebelled in western Japan?
+101,The Nara period.,Nara,0.0012876987457275,1.3306233882904053,0.8063724040985107,0.5,0.5,What was the name of the period before the Heian era?
+102,264 people were injured in the explosion.,264,0.0013031959533691,1.5630459785461426,0.3838669061660766,0.25,0.25,About how many people were injured in the explosion?
+103,"Boston is sometimes called the ""city of neighborhoods"" and the ""Athens of America"".",city of neighborhoods,0.0012829303741455,2.076338529586792,0.5257390737533569,0.375,0.375,What s Boston sometimes called?
+104,80%,80 percent,0.0013179779052734,1.2911927700042725,0.9329044818878174,0.6666666666666666,0.6666666666666666,How much of Oklahoma's population is Christian?
+105,The annual Boston Arts Festival is held at Christopher Columbus Waterfront Park.,Christopher Columbus Waterfront Park,0.0013873577117919,1.845728635787964,0.6492558121681213,0.5,0.5,Where is the annual Boston Arts festival?
+106,The New England Conservatory.,the New England Conservatory,0.0012986660003662,1.420820951461792,0.9865185022354126,1.0,1.0,What is the oldest independant conservatory in the US?
+107,Emperor Caracalla in 212 CE.,Emperor Caracalla,0.0012822151184082,1.6054573059082031,0.7872875928878784,0.5714285714285715,0.5714285714285715,Who gave Jews the right to full Roman citizenship?
+108,Boston.,Boston,0.001270055770874,1.2425041198730469,0.9526292085647584,1.0,1.0,What city does San Diego come in second to in the biotech industry?
+109,Hegel believed natural things are less real than spiritual things because they are less self-determining.,less self-determining,0.0013103485107421,2.1778078079223637,0.2623234689235687,0.3157894736842105,0.3157894736842105,Why did Hegel believe natural things are less real than spiritual things?
+110,Universities.,universities,0.0014004707336425,1.2059781551361084,0.9434776306152344,1.0,1.0,Where did this initiate?
+111,Hasidic and Hareidi groups.,many Hasidic and Hareidi groups,0.0012984275817871,1.581592321395874,0.9674314856529236,0.888888888888889,0.888888888888889,What two groups continue to use Yiddish in daily life?
+112,I-90.,I-90,0.001300573348999,1.34843111038208,0.9809713959693908,1.0,1.0,Boston is at the East end of what Interstate?
+113,20 million.,20 million,0.0013124942779541,1.3145241737365725,0.972656786441803,1.0,1.0,How many copies worldwide has Queen's 1995 album sold?
+114,The Fujiwara clan.,Fujiwara,0.0013105869293212,1.4086761474609375,0.779144287109375,0.5,0.5,Succession to the throne was determined by what clan?
+115,Neoplatonism.,Aristotelian scholasticism,0.0013091564178466,1.4490597248077393,0.2938769459724426,0.0,0.0,What philosophy influential in the medieval church was opposed to Christian idealism?
+116,Sefarad.,Sefarad,0.0013041496276855,1.3984508514404297,0.980634331703186,1.0,1.0,The custom of designating areas of Jewish settlement with biblical names meant that Spain was referred to as what?
+117,"Approximately 25,000 Jews live in the city of Boston.","25,000",0.0012938976287841,1.779813528060913,0.3737477660179138,0.3333333333333333,0.3333333333333333,How many people can fit in Dasarath Rangasala Stadium?
+118,A quarter of Fields Medal winners have been Ashkenazi Jews.,a quarter,0.0012860298156738,1.787100315093994,0.1458363533020019,0.3333333333333333,0.3333333333333333,How many of Detroit's residential lots are are underdeveloped?
+119,2004.,2004,0.0013048648834228,1.3168830871582031,0.9544477462768556,1.0,1.0,When did India and Pakistan begin serious peace talks?
+120,1.2 million.,1.2 million,0.0012965202331542,1.420867919921875,0.9802201986312866,1.0,1.0,How many people were living in the Palermo area in 2010?
+121,non-Jewish ethnic populations.,non-Jewish ethnic populations,0.0013585090637207,1.454648494720459,0.9705373048782348,1.0,1.0,The genome-wide genetic study carried out in 2010 by Behar et al. examined the genetic relationship between Jewish groups and what other population?
+122,"Boston's economy is diverse, with major industries including technology, biotechnology, finance, education, tourism, and healthcare.",$363 billion,0.0012705326080322,2.3817059993743896,0.1453906595706939,0.0,0.0,What is the economy of Boston?
+123,The Hebrew/Levantine mtDNA pool.,Hebrew/Levantine,0.0012900829315185,1.663151741027832,0.6250928044319153,0.5714285714285715,0.5714285714285715,The founder lineages were likely from what type of mtDNA pool?
+124,A Spanish-language television network.,Spanish-language television networks,0.0012760162353515,1.4530396461486816,0.9335525631904602,0.888888888888889,0.888888888888889,MundoFox is an example of what?
+125,"43.8 inches (1,110 mm)",43.8 inches,0.0012996196746826,1.7091825008392334,0.8335177302360535,0.6666666666666666,0.6666666666666666,What is the average snowfall per year in the City of Boston?
+126,Kyōto.,Kyōto,0.001296043395996,1.314095973968506,0.9672473669052124,1.0,1.0,Heian-kyo is now what present-day city?
+127,A logical system.,logical,0.0013427734375,1.341489315032959,0.6137276887893677,0.5,0.5,Which data model is displayed as a specific model that uses DBMS?
+128,Brighton Center of the city's Brighton neighborhood.,Brighton Center,0.0012853145599365,1.6157574653625488,0.8516565561294556,0.4,0.4,Where is St. Elizabeths medical center located?
+129,Gramophone.,Gramophone,0.0013153553009033,1.2640666961669922,0.9814088940620422,1.0,1.0,What classical music magazine called the Boston Symphony orchestra one of the worlds best orchestras?
+130,3,three,0.0012884140014648,1.2006568908691406,0.8656187057495117,0.0,0.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+131,41.2 square miles.,41.2 square miles,0.0012948513031005,1.5185387134552002,0.9857521057128906,1.0,1.0,How many square miles of water is Boston?
+132,24th.,24th,0.0012800693511962,1.3421735763549805,0.9594860076904296,1.0,1.0,Where does Valencia's population rank among EU municipalities?
+133,1630,1630,0.0012886524200439,1.2853121757507324,1.0,1.0,1.0,Around what year did settlement begin to occur in St. John's?
+134,"In sociology, idealism emphasizes how human ideas—especially beliefs and values—shape society.",beliefs and values,0.0013990402221679,2.086095094680786,0.3983768820762634,0.375,0.375,"In sociology, what sorts of ideas does idealism focus on?"
+135,"The Mystic River separates Charlestown from Chelsea and Everett, and also separates Charlestown from Boston proper.",The Charles River,0.0012948513031005,2.2962915897369385,0.5639188885688782,0.2105263157894736,0.2105263157894736,What river seperates Boston from Charlestown?
+136,The Napoleonic Wars.,the American Revolution,0.00130295753479,1.4497594833374023,0.5244629383087158,0.3333333333333333,0.3333333333333333,Boston was the location of many important events of what war?
+137,47.5%,35–36%,0.0012819766998291,1.3999488353729248,0.8014370799064636,0.0,0.0,What percentage of all Israelis are thought to be of Ashkenazi descent?
+138,Civil and religious institutions.,civil and religious,0.0013220310211181,1.3524861335754397,0.7632344961166382,0.8571428571428571,0.8571428571428571,Which institutions also hired private guards for protection?
+139,The term Ashkenazi also refers to a nusach (liturgical tradition) used by Ashkenazi Jews in their Siddur (prayer book).,the nusach Ashkenaz,0.0012638568878173,2.8068788051605225,0.6558386087417603,0.1818181818181818,0.1818181818181818,The term Ashkenazi also refers to what?
+140,"617,594.","617,594",0.0012555122375488,1.360879898071289,0.9837604761123656,1.0,1.0,About what was the population of Boston in 2010?
+141,Subjective idealists.,subjective,0.0013298988342285,1.386298418045044,0.6046339273452759,0.6666666666666666,0.6666666666666666,What type of knowledge did Schopenhauer believe the ideal to be?
+142,Fidelity Investments.,Fidelity Investments,0.0013353824615478,1.3410019874572754,0.9331132173538208,1.0,1.0,What helped make Boston one of the top financial cities in the US?
+143,Antisemitism.,increased with every outbreak of antisemitism,0.0013163089752197,1.394519567489624,0.6693560481071472,0.2857142857142857,0.2857142857142857,In central and eastern Europe it is thought that Jewish scorn for the life-style of their neighbors increased due to what?
+144,They referred to the Crusaders as Ashkenazim.,as Ashkenazim,0.0012860298156738,1.7717907428741455,0.5957590341567993,0.4444444444444445,0.4444444444444445,How did Byzantium and Syrian Jewish letters refer to the Crusaders?
+145,"Eastward into Poland, Lithuania, and Russia.",Jewish migration pushed eastward,0.001286506652832,1.6293981075286863,0.4336534738540649,0.2,0.2,"After expulsions from England and France, Jewish migration headed in which direction?"
+146,21.9%,21.9%,0.0012586116790771,1.3696701526641846,1.0,1.0,1.0,How much of China's wine did Sichuan produce in 2000?
+147,Two.,two distinct Jewish populations,0.0012800693511962,1.2201743125915527,0.1950343698263168,0.4,0.4,By the time of the French Revolution there were how many distinct Jewish populations?
+148,Simone Klein.,Simone Klein,0.0013196468353271,1.2945921421051023,0.9833420515060424,1.0,1.0,Who regarded Plato as the oldest exponent of metaphysical objective idealism?
+149,Approximately 75-80% of the world's Jewish population today.,nearly 80%,0.0013201236724853,1.8650155067443848,0.4926463067531585,0.1666666666666666,0.1666666666666666,The percentage of Ashkenazi Jews went from being close to 92% of all Jews in the world in 1931 prior to WWII to what percentage today?
+150,Tufts-New England Medical Center was renamed Tufts Medical Center.,Tufts Medical Center,0.0013034343719482,1.810636281967163,0.756973147392273,0.4615384615384615,0.4615384615384615,Tufts- new England medical Center was renamed what?
+151,Herodotus.,Herodotus,0.0013759136199951,1.3581328392028809,0.9766292572021484,1.0,1.0,What ancient writer gave later eras the idea that cotton might be a tree?
+152,James Ward was a notable disciple of Leibniz.,James Ward,0.0012826919555664,1.7656848430633545,0.6719539165496826,0.4,0.4,Who was a notable disciple of Leibniz?
+153,The Roman Empire.,Roman Empire,0.001296043395996,1.3447377681732178,0.9372591376304626,0.8,0.8,Who foreign group conquered Britain around AD 43?
+154,Prevailing wind patterns that blow offshore.,Prevailing wind patterns,0.0013067722320556,1.5483829975128174,0.8470926284790039,0.6666666666666666,0.6666666666666666,What minimizes the influence of the Atlantic ocean on Bostons weather?
+155,"The Heian period was known for its indigenous art, including vividly colored yamato-e paintings of court life and stories about temples and shrines.",poetry and literature,0.0012741088867187,2.6827731132507324,0.2445544302463531,0.074074074074074,0.074074074074074,The Heian period was known for what types of art?
+156,"In Hegel's philosophy, an ""object"" is something that appears to be separate or alien from the subject (human mind), but is actually identical to Spirit, which is the collective mind of all humans.",any external entity,0.0012791156768798,3.367449283599853,0.2045991867780685,0.0,0.0,"What does Hegel mean by ""object""?"
+157,The Shawmut Peninsula in 1630 by Puritan settlers from England.,Shawmut Peninsula,0.0012640953063964,1.9589743614196775,0.6235554218292236,0.3333333333333333,0.3333333333333333,Where was Boston Founded?
+158,Private college.,Smaller private schools,0.0012657642364501,1.2739558219909668,0.6312214136123657,0.4,0.4,Babson College is what type of institution?
+159,The population of Boston in 2014 was not explicitly stated in the provided text.,"655,884",0.001251220703125,1.9941864013671875,0.0209519602358341,0.0,0.0,What was the population of Boston in 2014
+160,"2,600 hours.","2,600",0.0013048648834228,1.4394512176513672,0.5324097275733948,0.8,0.8,How many cars can the Gateway Center at Bronx Terminal Market's parking garage hold?
+161,The Boston Public Garden.,Boston Public Garden,0.0013203620910644,1.3656044006347656,0.9639602899551392,0.8571428571428571,0.8571428571428571,What is next to Boston Common?
+162,"46,226.","about 46,226",0.0012311935424804,1.355686902999878,0.9004577398300171,0.8,0.8,What was the population of Boston in 1822?
+163,The general European population.,uncommon in the general European population,0.0012853145599365,1.368513107299805,0.6716646552085876,0.8,0.8,It was found that the Y-chromosome of Ashkenazi and Sephardic Jews contained mutations that are uncommon with what other people?
+164,The Football Bowl Subdivision.,the Football Bowl Subdivision,0.0012760162353515,1.4528212547302246,0.98931086063385,1.0,1.0,What is the name of the highest level of college football?
+165,Boston Common.,Boston Common,0.0012853145599365,1.263692855834961,0.982081651687622,1.0,1.0,What is the oldest public park in the US?
+166,Sergio DellaPergola.,Sergio DellaPergola,0.0013239383697509,1.483682632446289,0.9853087067604064,1.0,1.0,Who made rough calculations and implied that Ashkenazi Jews make up less than 74% of the Jewish population worldwide?
+167,Immanuel Kant.,Immanuel Kant,0.001300573348999,1.3464677333831787,0.984355330467224,1.0,1.0,"Who coined the term ""thing-in-itself""?"
+168,Universals.,ideas,0.0012822151184082,1.2590796947479248,0.2803301513195038,0.0,0.0,What was another term for forms in Plato's theory of forms?
+169,"22,000+","22,000+",0.0012824535369873,1.40045428276062,1.0,1.0,1.0,How many Colombians live in greater Boston?
+170,"July 27, 2015.","July 27, 2015",0.0012745857238769,1.5210435390472412,0.9806944727897644,1.0,1.0,When did Boston withdraw its bid for hosting the Olympic games?
+171,Plotinus was a Neoplatonist philosopher.,neoplatonist,0.0012769699096679,1.699533462524414,0.6246517896652222,0.3333333333333333,0.3333333333333333,What sort of philosopher was Plotinus?
+172,Cambridge University.,Cambridge,0.0012590885162353,1.2974815368652344,0.9033388495445251,0.6666666666666666,0.6666666666666666,With what university is J.M.E. McTaggart affiliated?
+173,Dualist theories.,dualist,0.0012750625610351,1.3418595790863037,0.8107233047485352,0.6666666666666666,0.6666666666666666,"Along with physicalist theories, what theories is idealism in conflict with?"
+174,Yamato-e.,yamato-e,0.0013132095336914,1.3206799030303955,0.9866023063659668,1.0,1.0,What was the name of the brightly colored paintings depicting court life?
+175,Berklee College of Music.,Berklee College of Music,0.0013060569763183,1.454694747924805,0.9810923933982848,1.0,1.0,What college plays an important role in making Boston known for Jazz?
+176,The Boston Patriots.,Boston Patriots,0.0012881755828857,1.3135473728179932,0.929102659225464,0.8,0.8,What was the original name of the new England patriots?
+177,2002.,2002,0.0013537406921386,1.3510141372680664,0.9519264101982116,1.0,1.0,When did Sheptycki write about police cooperation?
+178,A Siddur is a Jewish prayer book.,prayer book,0.0012719631195068,1.609755039215088,0.5064921379089355,0.4444444444444445,0.4444444444444445,What is the Siddur?
+179,May to September.,May to September,0.0013277530670166,1.351233720779419,0.970646321773529,1.0,1.0,When is Brasilia's dry season?
+180,"Technology, biotechnology, and financial services.",Tourism,0.0012731552124023,1.5742826461791992,0.2076481878757476,0.0,0.0,What accounts for much of Uruguay's economy?
+181,"Schopenhauer discussed whether we know external objects, unlike Plotinus.",whether we know external objects,0.0013072490692138,1.862523317337036,0.5555812120437622,0.7142857142857143,0.7142857142857143,What issue did Schopenhauer discuss that Plotinus did not?
+182,1 Kings 17:9.,1 Kings 17:9,0.0012898445129394,1.5474960803985596,0.987346649169922,1.0,1.0,The reference to France as Tsarefat was taken from which biblical passage?
+183,49.5%,49.5%,0.0012910366058349,1.350829839706421,1.0,1.0,1.0,"In 2000, what percen tof the population were non hispanic and white?"
+184,tourists,tourists,0.0013031959533691,1.182518720626831,1.0,1.0,1.0,Some child work as guides for whom?
+185,94.7%,94.7%,0.0012640953063964,1.355699062347412,1.0000001192092896,1.0,1.0,What percent of Boston's population was white in 1950?
+186,Emperor Go-Sanjō implemented reforms to reduce the Fujiwara's influence on government.,Go-Sanjō,0.0013039112091064,2.0417988300323486,0.4246703386306762,0.2666666666666667,0.2666666666666667,Who implemented reforms to reduce the Fujiwara's influence on government?
+187,The Hōgen Rebellion.,Hōgen Rebellion,0.0012636184692382,1.4120471477508545,0.963936448097229,0.8571428571428571,0.8571428571428571,What battle resulted in the destruction of the Fujiwara?
+188,Idealist philosophies are skeptical about the possibility of knowing a mind-independent thing.,mind-independent,0.0013072490692138,1.965073823928833,0.5845074653625488,0.2666666666666667,0.2666666666666667,What types of things are idealist philosophies skeptical about?
+189,The 6th largest economy in the country.,sixth-largest,0.0014102458953857,1.6385796070098877,0.6278485059738159,0.2222222222222222,0.2222222222222222,What ranking in the country does Greater Boston metro hold as far as economy?
+190,Boston's regional cuisine.,regional cuisine,0.0013082027435302,1.395571231842041,0.7063450813293457,0.6666666666666666,0.6666666666666666,"Food with an emphasis on seafood, salt, and dairy is an exaple of what?"
+191,1290.,1290,0.0012931823730468,1.3376142978668213,0.949512243270874,1.0,1.0,What year were the expulsions from England?
+192,The Boston Brahmins.,Boston Brahmins,0.0012741088867187,1.372028350830078,0.9552459716796876,0.8,0.8,Who came to be known as the nation's social elites?
+193,New England.,greater New England,0.001298189163208,1.2997186183929443,0.7863324880599976,0.8,0.8,Boston is culturally similar to what area?
+194,Marxism.,Marxism,0.0013480186462402,1.2423176765441897,0.9495214223861694,1.0,1.0,"Along with positivism and pragmatism, what philosophy rejected idealism's metaphysical views but what nevertheless influenced by it?"
+195,16.0% of families fall below the poverty line.,16.0%,0.0012857913970947,1.7841956615447998,0.483939528465271,0.3636363636363636,0.3636363636363636,What percent of families fall below the poverty line?
+196,Boston has the fifth-highest rate of public transit usage in the country.,fifth-highest,0.0012967586517333,1.89382004737854,0.3738137781620025,0.2666666666666667,0.2666666666666667,Where does Boston rank nationally in terms of public transportation use?
+197,1960,1960,0.0012710094451904,1.295032262802124,1.0,1.0,1.0,In what year did Eisenhower propose his second civil rights act?
+198,Boston has the highest percentage of pedestrian commuters.,pedestrian,0.0013065338134765,1.567054271697998,0.468232125043869,0.2222222222222222,0.2222222222222222,What kind of priority zone has the city centre been transformed into?
+199,838,838,0.0012910366058349,1.205510139465332,1.0,1.0,1.0,Tang China's influence over Japan ended in what year?
+200,The University of Huddersfield in England.,University of Huddersfield in England,0.0012667179107666,1.6610043048858645,0.9712356328964232,0.9090909090909092,0.9090909090909092,A 2013 study of Ashkenazi mitochondrial DNA was conducted by what university?
+201,1787,1787,0.0012590885162353,1.2999169826507568,1.0000001192092896,1.0,1.0,When was the second edition published?
+202,Fenway Park is located near Kenmore Square in the city's Fenway section.,near Kenmore Square,0.0012421607971191,2.021030902862549,0.6806352138519287,0.375,0.375,Where is Fenway park?
+203,living in buildings that are deemed energy efficient.,cost of living,0.0012958049774169,1.6287813186645508,0.4229441285133362,0.1818181818181818,0.1818181818181818,The incentive reduced the cost of what in buildings?
+204,The New England Patriots belong to the National Football League (NFL).,the National Football League,0.0012683868408203,1.839918613433838,0.544612467288971,0.5333333333333333,0.5333333333333333,Who was Jim Foster's employer prior to his founding the Arena Football League?
+205,Saadia Marciano,Saadia Marciano,0.0012612342834472,1.3277206420898438,1.0000001192092896,1.0,1.0,Who led the Israeli Black Panthers?
+206,High frequencies.,high frequencies,0.0013291835784912,1.31353759765625,0.947411835193634,1.0,1.0,Human geneticists argue that genetic variations have been identified that show high or low frequencies among Ashkenazi Jews?
+207,"2,500 years ago.","2,500 years ago",0.0012862682342529,1.4766623973846436,0.9806713461875916,1.0,1.0,The destruction of the First Temple was how many years ago?
+208,A strong system of education for males.,a strong system of education,0.0013182163238525,1.5358686447143557,0.7866647243499756,0.8333333333333333,0.8333333333333333,A lack of assimilation of Jews in central and eastern Europe is also attributed to males taking part in what type of system?
+209,Three ecologically compatible housing facilities.,three,0.0013189315795898,1.5191502571105957,0.2274368405342102,0.3333333333333333,0.3333333333333333,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+210,Emperor Kanmu.,Kanmu,0.0012919902801513,1.3156898021697998,0.7653098106384277,0.6666666666666666,0.6666666666666666,What was the name of the emperor who moved Japan's capital to Heian?
+211,Immaterialism.,immaterialism,0.0013041496276855,1.3516302108764648,0.9771942496299744,1.0,1.0,"Along with phenomenalism, what is another term for subjective idealism?"
+212,792.,792,0.0014166831970214,1.2687978744506836,0.9695258736610411,1.0,1.0,The early courts' military conscription broke down around what year?
+213,The early 10th century.,early tenth century,0.0013236999511718,1.4708349704742432,0.9182199835777284,0.5714285714285715,0.5714285714285715,The Fujiwara and other noble families became richer during which century?
+214,Allston.,Allston,0.0012955665588378,1.2929234504699707,0.9749903678894044,1.0,1.0,Where does Harvard plan to expand to?
+215,The 11th century.,11th century,0.0012931823730468,1.453223466873169,0.9593385457992554,0.8,0.8,In what century had mills such as gristmills and sawmills dominate the Islamic world?
+216,21.2 million domestic and international visitors.,21.2 million,0.0012645721435546,1.653451681137085,0.6659384965896606,0.6,0.6,How many tourists visited Boston in 2011?
+217,Taira Kiyomori.,Taira Kiyomori,0.0012965202331542,1.4543826580047607,0.9857664108276368,1.0,1.0,What military commander gained power after the fall of the Minamoto clan?
+218,The Fertile Crescent.,Fertile Crescent,0.001288890838623,1.4564208984375,0.9529004693031312,0.8,0.8,Genetic studies show that Jews bear their strongest resemblance to the peoples of where?
+219,Todai-ji and Kofuku-ji.,Todai-ji and Kofuku-ji,0.0012814998626708,1.6945436000823977,0.990054726600647,1.0,1.0,What were the names of the temples that Kiyomori destroyed?
+220,Poor or hasty writing.,poor or hasty writing,0.0012979507446289,1.4358038902282717,0.9702146053314208,1.0,1.0,"What was said to show low status or ""poor breeding""?"
+221,Logan Airport.,Logan Airport,0.0012626647949218,1.2535512447357178,0.9645468592643738,1.0,1.0,What is the name of Bostons main airport?
+222,48.4 square miles.,48.4 square miles,0.0012843608856201,1.5044963359832764,0.9790487289428712,1.0,1.0,How many square miles of land is Boston?
+223,1394.,1394,0.0012638568878173,1.3395400047302246,0.9598809480667114,1.0,1.0,What year were the expulsions from France?
+224,Sei Shōnagon.,Sei Shōnagon,0.0012545585632324,1.4848406314849854,0.9799715280532836,1.0,1.0,The Pillow Book was a collection of whose observations of the imperial court?
+225,1630,1630,0.0012612342834472,1.283874750137329,1.0,1.0,1.0,Around what year did settlement begin to occur in St. John's?
+226,Yiddishkeit.,Yiddishkeit,0.0013678073883056,1.393904209136963,0.9830858111381532,1.0,1.0,"Culturally, an Ashkenazi Jew can be identified by what concept?"
+227,The 11th largest in the United States.,11th largest,0.001267671585083,1.6222121715545654,0.876517653465271,0.4444444444444445,0.4444444444444445,How is Detroit's TV market ranked?
+228,"The text does not provide a specific date, but it mentions that until the early 20th century, Boston remained one of the nation's largest manufacturing centers and was notable for its garment production and leather-goods industries.",the early 20th century,0.0013208389282226,3.421779155731201,0.3659834265708923,0.1904761904761905,0.1904761904761905,When did the Great Migration occur?
+229,New England.,all of New England,0.0012965202331542,1.326136350631714,0.7805402874946594,0.6666666666666666,0.6666666666666666,What locations does the Rainbow Times serve?
+230,1701.,1701,0.0012910366058349,1.3447744846343994,0.9714105725288392,1.0,1.0,When was Yale founded?
+231,"About 6 million, which is more than two-thirds of the estimated 8.8 million Jews living in Europe at the time.",about 6 million,0.0012948513031005,2.5430333614349365,0.5881247520446777,0.24,0.24,"Of the large number of Jews living in Europe at the beginning of World War II, about how many were Ashkenazi?"
+232,The bombs exploded near the finish line of the Boston Marathon.,near the finish line,0.0012843608856201,1.7709636688232422,0.2395739555358886,0.5333333333333333,0.5333333333333333,At what point of the Marathon were the bombs exploded?
+233,ethnic group.,ethnic group,0.0012595653533935,1.256450653076172,0.9713152647018432,1.0,1.0,"Ashkenazi Jews, regardless of their place of origin, belong to the same what?"
+234,major daily newspapers.,daily newspapers,0.001307725906372,1.3514306545257568,0.8706942796707153,0.8,0.8,The Boston Globe and the Boston herals are two of Bostons what?
+235,The 10th century.,tenth,0.0012896060943603,1.4506607055664062,0.5397398471832275,0.0,0.0,5000 men represented what fraction of General Lee's army?
+236,Greater Boston.,Greater Boston,0.0012929439544677,1.296093225479126,0.9764368534088136,1.0,1.0,What is the name of the region that surrounds Boston?
+237,synagogues.,a synagogue,0.0012755393981933,1.337397813796997,0.919284462928772,0.6666666666666666,0.6666666666666666,The large number of Jews in Pannonia formed communities and built what?
+238,The Shawmut Peninsula.,the Shawmut Peninsula,0.0012698173522949,1.3962767124176023,0.9890426397323608,1.0,1.0,What is the name of the peninsula Boston was founded on?
+239,Chinatown,Chinatown,0.0012803077697753,1.2358500957489014,1.0,1.0,1.0,What neighborhood is the Tufts medical Center located in?
+240,The first half of the 11th century.,the first half of the 11th century,0.0013201236724853,1.65913987159729,0.9864336252212524,1.0,1.0,When did Hai Gaon refer to questions that had been addressed to him from Ashkenaz?
+241,Y-DNA shows a male's lineage only along his strict-paternal line.,a male's lineage only along his strict-paternal line,0.0012617111206054,2.031743288040161,0.8189541697502136,0.8695652173913044,0.8695652173913044,What does Y-DNA show?
+242,80.,80,0.0012714862823486,1.2608442306518557,0.9319597482681274,1.0,1.0,What percentage of french publishing houses were in Paris in the 1970s?
+243,Nusach Sefard and Nusach Ari.,"Nusach Sefard (not to be confused with the Sephardic ritual), which is the general Polish Hasidic nusach, and Nusach Ari",0.0012872219085693,1.769303560256958,0.6749681234359741,0.4,0.4,Two other major forms of nusach among Ashkenazic Jews are what?
+244,WSBK-TV.,WSBK-TV,0.0012869834899902,1.4006397724151611,0.9834822416305542,1.0,1.0,What is the sister station to WBZ-TV?
+245,The 6th century.,sixth,0.001307725906372,1.4499080181121826,0.399383008480072,0.0,0.0,In what century did the Soga family take the throne?
+246,January.,January,0.0012989044189453,1.242164134979248,0.9416074752807616,1.0,1.0,Which month does Brasilia have the highest rainfall?
+247,Gottfried Leibniz.,Leibniz,0.0012907981872558,1.4773333072662354,0.7993900179862976,0.6666666666666666,0.6666666666666666,Who believed the essence of reality to be composed of monads?
+248,"Schopenhauer believed that we can only know mental pictures or representations, and that we directly and immediately know only these representations.",representations,0.0013098716735839,2.4644699096679688,0.425542950630188,0.0909090909090909,0.0909090909090909,What did Schopenhauer believe were the only things we could know?
+249,El Planeta.,El Planeta,0.0013000965118408,1.3481462001800537,0.9789236783981324,1.0,1.0,The former publisher of the Boston phoenix owns what Spanish newspaper?
+250,October.,October,0.0012886524200439,1.250981092453003,0.9480910897254944,1.0,1.0,What month would the weather window begin to decline?
+251,Arthur Collier,Arthur Collier,0.0012855529785156,1.289933443069458,1.0000001192092896,1.0,1.0,Who was notably influenced by John Norris?
+252,25%,25%,0.0012786388397216,1.2675247192382812,1.0,1.0,1.0,How much revenue does mining provide Namibia?
+253,"The Fujiwara rulers failed to maintain adequate police forces, leaving robbers free to prey on travelers.",The Fujiwara rulers failed to maintain adequate police forces,0.0013082027435302,2.1920337677001958,0.8480490446090698,0.72,0.72,Why were travelers often robbed under Fujiwara rule?
+254,"WERS (Emerson), WHRB (Harvard), WUMB (UMass Boston), WMBR (MIT), WZBC (Boston College), WMFO (Tufts University), WBRS (Brandeis University), WTBU (Boston University), WRBB (Northeastern University), and WMLN-FM (Curry College) are some of the college and university radio stations in Boston.",WZBC,0.0012702941894531,5.519790410995483,0.4262967109680176,0.048780487804878,0.048780487804878,What is the name of Boston Colleges radio station?
+255,German.,German,0.0012962818145751,1.2102861404418943,0.9494163393974304,1.0,1.0,What was the origin of the second writing?
+256,South Station.,South Station,0.0013847351074218,1.2533974647521973,0.9830651879310608,1.0,1.0,Where do Amtrack's Northeast corridor and Chicago lines start?
+257,The southwestern suburbs of Boston.,southwestern,0.0012845993041992,1.4215984344482422,0.5026569366455078,0.3333333333333333,0.3333333333333333,What part of Oklahoma is the Antelope Hills in?
+258,The Levant.,the Levant,0.001326560974121,1.3076348304748535,0.9739600419998168,1.0,1.0,Recent studies have found that contemporary Jews (excluding Indian and Ethiopian Jews) have a close genetic relationship to the people of what area?
+259,The Holocaust.,Holocaust,0.0013997554779052,1.291948318481445,0.9069448113441468,0.6666666666666666,0.6666666666666666,What was Pius XII accused of not condemning?
+260,212 CE,212 CE,0.0012733936309814,1.270265817642212,1.0,1.0,1.0,Many Jews were denied full Roman citizenship until what year?
+261,Catholic saints.,Catholic saints,0.0012657642364501,1.2876818180084229,0.9739596843719482,1.0,1.0,Whos is honored in the Italian Summer Feasts?
+262,1787,2nd,0.0012774467468261,1.2991647720336914,0.1441840976476669,0.0,0.0,In what edition was there a Refutation of Idealism?
+263,The Boston Globe.,The Boston Globe,0.0012857913970947,1.349107265472412,0.9843214154243468,1.0,1.0,What newspaper named Comcast it's top place to work?
+264,Harvard University.,Harvard University,0.0012609958648681,1.2669825553894043,0.9682512879371644,1.0,1.0,To whom did Rothko donate Passion of Christ murals?
+265,Literary life.,literary life,0.001286506652832,1.267458200454712,0.9457929134368896,1.0,1.0,Boston was admired for what kind of life?
+266,Rice.,rice,0.0013017654418945,1.196934461593628,0.9592211842536926,1.0,1.0,What is used to make thwon?
+267,"The three factors that led to large numbers of Jews moving to France were: 
+1. Antisemitism, 
+2. The Russian revolution, 
+3. The economic turmoil of the Great Depression.","antisemitism, the Russian revolution, and the economic turmoil of the Great Depression",0.0012745857238769,3.302894115447998,0.398007869720459,0.55,0.55,What three factors led to large numbers of Jews moving to France?
+268,Tendai and Shingon.,Tendai and Shingon,0.0012986660003662,1.5512924194335938,0.9905849695205688,1.0,1.0,What were the two Japanese sects of Buddhism?
+269,Suffolk University,Suffolk University,0.001401662826538,1.2121398448944092,1.0000001192092896,1.0,1.0,What is another name for New Englans school of Art and Design
+270,6b,6b,0.0012845993041992,1.2523818016052246,1.0000001192092896,1.0,1.0,Most of the city lies in which USDA plant hardiness zone?
+271,Irish descent.,People of Irish descent,0.00128173828125,1.2533519268035889,0.8751766085624695,0.6666666666666666,0.6666666666666666,What people form the largest ethnic group in the city?
+272,Our direct and immediate experience is of representations or mental pictures of objects.,mind,0.0012967586517333,1.8824882507324217,0.3251097202301025,0.0,0.0,What is the main thing that we experience?
+273,Friedrich Nietzsche.,Friedrich Nietzsche,0.001291275024414,1.3054850101470947,0.9510749578475952,1.0,1.0,Who censured Kant for his agnostic tautology?
+274,Absolute idealist.,Absolute,0.0013210773468017,1.3413348197937012,0.5074145197868347,0.6666666666666666,0.6666666666666666,What sort of idealist did Hegel define himself as?
+275,"250,000 students.","250,000",0.0012638568878173,1.4130134582519531,0.630887508392334,0.8,0.8,How many Chinese civilians were estimated to have died during the Japanese Zhejiang-Jiangxi Campaign?
+276,Metaphysical and epistemological dualist.,metaphysical and epistemological,0.0013883113861083,1.6571869850158691,0.8317294716835022,0.8571428571428571,0.8571428571428571,What sort of dualist is Plato regarded as?
+277,Murasaki Shikibu.,Murasaki Shikibu,0.0012838840484619,1.4196085929870603,0.9846922755241394,1.0,1.0,Who is the author of The Tale of Genji?
+278,The early Heian era was from 784-967.,784–967,0.001293659210205,1.713536500930786,0.2472548931837082,0.4,0.4,What time period was the early Heian era?
+279,The Boston Marathon.,the Boston Marathon,0.0012867450714111,1.3423223495483398,0.9868830442428588,1.0,1.0,What is one of the most famous sporting events in the city?
+280,Stability.,a brief period of stability,0.0013074874877929,1.198277711868286,0.711785078048706,0.3333333333333333,0.3333333333333333,Did Charlemagne's expansion of the Frankish empire bring about a brief period of upheaval or stability in Francia?
+281,New England School of Law.,New England School of Law,0.001296043395996,1.4142799377441406,0.9816376566886902,1.0,1.0,What was the name of Americas first all female law school?
+282,"""The Walking City""",The Walking City,0.0012614727020263,1.358726978302002,0.9368342161178588,1.0,1.0,What is Bostons nickname?
+283,Heeded rabbinic leadership.,heeded rabbinic leadership,0.0013740062713623,1.5006747245788574,0.9784321188926696,1.0,1.0,"Besides living in shtetls, maintaining a strong system of education for males, and scorning the life-style of their neighbors, Jews in central and eastern Europe also did what?"
+284,A subset.,"Ashkenazim are supposed to be a subset, not a superset",0.0012879371643066,1.3035211563110352,0.4104007482528686,0.3333333333333333,0.3333333333333333,Were the Ashkenazim thought to be a subset or superset of their assumed geographical source population?
+285,George Berkeley is a notable subjective idealist.,George Berkeley,0.0012826919555664,1.5722112655639648,0.6830505728721619,0.4444444444444445,0.4444444444444445,Who is a notable subjective idealist?
+286,Boston's long seafaring tradition helped make it a wealthy port.,seafaring tradition,0.0013184547424316,1.880390167236328,0.5828135013580322,0.3076923076923077,0.3076923076923077,What long held tradition helped make Boston a wealthy port?
+287,King Dagobert I of the Franks.,King Dagobert I of the Franks,0.0012953281402587,1.6593286991119385,0.9847491383552552,1.0,1.0,Who expelled the Jews from his Merovingian kingdom in 629?
+288,The Boston Athenaeum is one of the oldest independent libraries in the United States.,The Boston Athenaeum,0.0012831687927246,2.0276153087615967,0.675727128982544,0.3529411764705882,0.3529411764705882,What is one of the oldest libraries in the US?
+289,More.,"many Ashkenazi Jews have intermarried, both with members of other Jewish communities and with people of other nations and faiths",0.0013067722320556,1.238128662109375,0.0361510515213012,0.0,0.0,"In the last 50-60 years, have more or less Ashkenazi Jews intermarried with people outside of their community?"
+290,Infinite.,infinite,0.0012805461883544,1.2103140354156494,0.8840007781982422,1.0,1.0,"According to Davidson, how many gods are there?"
+291,"Eastward, out of the German lands into Poland and Lithuania.",shifted steadily eastward,0.001270055770874,1.825298309326172,0.4804214239120483,0.1538461538461538,0.1538461538461538,"In the late Middle Ages, the Ashkenazi population shifted in which direction?"
+292,Cambridge.,Cambridge,0.0012645721435546,1.2401676177978516,0.9781219363212584,1.0,1.0,With what university is J.M.E. McTaggart affiliated?
+293,A member of the Fujiwara clan became the head of the Emperor's Private Office.,Fujiwara,0.0014054775238037,2.0532705783843994,0.5362781286239624,0.125,0.125,Succession to the throne was determined by what clan?
+294,339,339,0.001272439956665,1.2107605934143066,1.0000001192092896,1.0,1.0,How many Catholic churches were in the Boston area in 2010?
+295,a share of the harvest.,a share of the harvest,0.0012650489807128,1.3931596279144287,0.9837236404418944,1.0,1.0,Farm laborers traded titles to shoen holders in exchange for what?
+296,The Minamoto clan.,Minamoto,0.0013084411621093,1.335371732711792,0.7965347766876221,0.5,0.5,The members of what clan gradually replaced the Fujiwaras?
+297,"1,000 years.","1,000",0.0012767314910888,1.381166696548462,0.5083848237991333,0.8,0.8,How many planes were in the U.S. 3rd Fleet?
+298,The 2013 trans-genome study found no evidence of Khazar origin among Ashkenazi Jews.,found no evidence of Khazar origin among Ashkenazi Jews,0.0013024806976318,2.240330457687378,0.797927737236023,0.782608695652174,0.782608695652174,What did the 2013 trans-genome study find in regards to Ashkenazi Jews and Khazar origins?
+299,The Fujiwara clan.,Fujiwara,0.0012903213500976,1.4601843357086182,0.779144287109375,0.5,0.5,Succession to the throne was determined by what clan?
+300,"Hegel believes we cannot know God because we are finite beings and God is universal and infinite, and our understanding is limited by our finitude.",we are finite beings,0.0013012886047363,2.6385672092437744,0.3964226245880127,0.2758620689655173,0.2758620689655173,Why does Hegel believe we cannot know God?
+301,Subjectivists.,subjectivists,0.0012757778167724,1.3424797058105469,0.9696526527404784,1.0,1.0,What sort of thinkers were Foster and Luce?
+302,Hubway,Hubway,0.0012683868408203,1.2101283073425293,1.0000001192092896,1.0,1.0,What is the name of the bike share program in Boston?
+303,Humanity.,self,0.0013034343719482,1.209516525268555,0.4568858444690704,0.0,0.0,Who did Tucker argue that Hegel's philosophy involved the worship of?
+304,The Seaport District in Boston.,the Seaport District in Boston,0.0012929439544677,1.566852331161499,0.983500838279724,1.0,1.0,"In 2016, GE Corporation decided to move its global headquarters to where?"
+305,"""Peace"" in Japanese.",peace,0.0013885498046875,1.4181056022644043,0.6464680433273315,0.5,0.5,What does heian mean in Japanese?
+306,20.4%,20.4%,0.0012745857238769,1.3713858127593994,1.0,1.0,1.0,What percentage of the City of Bostons residents are 45 to 64?
+307,The Greater Boston region.,Greater Boston,0.001279592514038,1.40962815284729,0.8926748633384705,0.6666666666666666,0.6666666666666666,What is the name of the region that surrounds Boston?
+308,homogeneous genetic subgroup.,"a clear, homogeneous genetic subgroup",0.001394510269165,1.340664625167847,0.9671521186828612,0.7499999999999999,0.7499999999999999,A 2006 study found Ashkenazi Jews to be a what?
+309,2006,2006,0.001286506652832,1.233442783355713,1.0000001192092896,1.0,1.0,When did the Kathmandu valley monuments receive WHS status?
+310,48 square miles.,48,0.0012822151184082,1.3918311595916748,0.4574463665485382,0.5,0.5,How many departments does the Punjab administration have?
+311,Sephardic identity.,children inherit a Sephardic identity,0.0013244152069091,1.364713430404663,0.7357686758041382,0.5714285714285715,0.5714285714285715,When an Ashkenazi woman marries a Sephardi or Mizrahi man it is expected that her children will take on which kind of identity?
+312,Mike Capuano,Mike Capuano,0.0012800693511962,1.3442926406860352,1.0,1.0,1.0,Who represents the 7th district?
+313,Macy's.,Macy's,0.0013144016265869,1.305983543395996,0.9843862056732178,1.0,1.0,Material Girl clothing line is released under which brand?
+314,The Embargo Act of 1807.,The Embargo Act of 1807,0.0012998580932617,1.611250638961792,0.9921485781669616,1.0,1.0,What act cut down on Boston's harbor activity?
+315,Brookline and Newton.,Brookline and Newton,0.0012674331665039,1.3722891807556152,0.9766584634780884,1.0,1.0,What adjascent communities also hold a high Jewish population?
+316,Itinerant traders or artisans.,traders or artisans,0.0013115406036376,1.5012261867523191,0.8959422707557678,0.8571428571428571,0.8571428571428571,"In antiquity, most Jews in Gaul or Germany probably occupied what two roles?"
+317,Spring and early summer.,spring and early summer,0.0012605190277099,1.400726318359375,0.9664788246154784,1.0,1.0,During what seasons is fog common in Boston?
+318,"""Founder lineages""",founder lineages,0.0012879371643066,1.3769617080688477,0.971673309803009,1.0,1.0,The women that a large percentage of the current Ashkenazi population is descended from are also known as what?
+319,The theory of relativity.,relativity,0.0013132095336914,1.4539692401885986,0.8034237027168274,0.4,0.4,"Along with quantum physics generally, what scientific doctrine caused some physicists to embrace idealism?"
+320,4,four,0.00126314163208,1.231109857559204,0.8942000865936279,0.0,0.0,In how many directions does the Buddha of Swayambhu look?
+321,Environmental sustainability and investment.,environmental sustainability and investment,0.0013108253479003,1.3619053363800049,0.9818898439407348,1.0,1.0,Bostons businesses rank top in the country for what?
+322,Ashkenazi and Sephardic Jewish populations.,Ashkenazi and Sephardic Jewish populations,0.001331090927124,1.676133155822754,0.9795856475830078,1.0,1.0,A 2001 study by Nebel et al. showed that which two populations share the same overall paternal Near Eastern ancestries?
+323,"""Boston Tech""",Boston Tech,0.0012633800506591,1.3314220905303955,0.9368715882301332,1.0,1.0,What was MIT originally known as?
+324,Emishi.,Emishi,0.0012919902801513,1.277048110961914,0.9787164926528932,1.0,1.0,Who did Kammu fail to conquer?
+325,East European Ashkenazim.,east European Ashkenazim,0.0013251304626464,1.5149996280670166,0.97895348072052,1.0,1.0,"When Israel was in its infancy as a state, the Ashkenazi Jews involved in conflicts with Sephardic Jews were mainly what type of Jews?"
+326,"Autosomal DNA (atDNA), mitochondrial DNA (mtDNA), and Y-chromosomal DNA (Y-DNA).","autosomal DNA (atDNA), mitochondrial DNA (mtDNA), and Y-chromosomal DNA (Y-DNA)",0.0012598037719726,2.388832092285156,0.9743441939353944,1.0,1.0,What are the three types of origin testing?
+327,Plotinus.,Plotinus,0.001296043395996,1.2699241638183594,0.9682565927505492,1.0,1.0,"According to Noiré, who was the first true Western idealist?"
+328,1927,1927,0.0012586116790771,1.3067150115966797,1.0,1.0,1.0,The Great Mississippi occurred during what year?
+329,Violent crime.,violent crime,0.0012881755828857,1.3270328044891355,0.9399380087852478,1.0,1.0,"Since the early 1990's, Boston has had less of what type of crime?"
+330,The Freedom Trail.,the Freedom Trail,0.0012807846069335,1.358307123184204,0.9885030388832092,1.0,1.0,What is marked by a line of red bricks in the ground?
+331,Haredi Jews tend to have large families.,Haredi Jews often have extremely large families,0.0013058185577392,1.643733263015747,0.9728246331214904,0.7142857142857143,0.7142857142857143,Do Haredi Jews tend to have large or small families?
+332,"Gomer, son of Khaphet, son of Noah.",Gomer,0.001249074935913,1.8030378818511963,0.6379519701004028,0.25,0.25,Ashkenaz was the first son of whom?
+333,"In a manner unrelated to its original meaning, often applied to all Jews who settled in Europe and sometimes including those whose ethnic background is actually Sephardic.",in a manner unrelated to its original meaning,0.0012500286102294,2.7544422149658203,0.3978848457336426,0.4571428571428571,0.4571428571428571,"In Israel, the term Ashkenazi is now used in what manner?"
+334,16th century,16th-century,0.0013070106506347,1.3421943187713623,0.9742704629898072,1.0,1.0,Mystic Rabbi Elijah of Chelm is from what century?
+335,Shōen holders.,Shōen holders,0.0012874603271484,1.3667552471160889,0.975003719329834,1.0,1.0,Who had increased access to better military technology?
+336,Geiger-Gibson Community Health Center.,Geiger-Gibson Community Health Center,0.0012931823730468,1.5810363292694092,0.9915571808815002,1.0,1.0,"In 1990, the Colombia Point Health Center was renamed what?"
+337,"The three prominent families during the rise of the warrior classes were the Fujiwara, Taira, and Minamoto clans.","Fujiwara family, Taira clan, and Minamoto clan",0.0013229846954345,2.4363667964935303,0.8277794122695923,0.48,0.4,Who were the three prominent families during the rise of the warrior classes?
+338,"According to Hegel, if something transcends time, it also transcends human understanding.",human understanding,0.0013008117675781,2.0357213020324707,0.3703706264495849,0.2857142857142857,0.2857142857142857,"If something transcends time, what does it, according to Hegel, also transcend?"
+339,Nearly a third of Bostonians use public transportation for their commute to work.,nearly a third,0.001277208328247,1.87945556640625,0.2043927311897277,0.375,0.375,In 2010 what were the estimates for the amount of videos with advertisements uploaded without the copywriter's consent?
+340,Buddhism.,Buddhism,0.0012793540954589,1.1772220134735107,0.9374602437019348,1.0,1.0,What religion did Araniko help to evangelize?
+341,The Fenway district.,the Fenway district,0.0012826919555664,1.3723795413970947,0.9920198917388916,1.0,1.0,What is the Longwood medical and Academic Area located next to?
+342,The Taira clan.,Taira,0.0012948513031005,1.3397233486175537,0.7718430757522583,0.5,0.5,"After the Heiji Rebellion, what clan grew in power?"
+343,The United States Court of Appeals for the First Circuit and the United States District Court for the District of Massachusetts are located in Boston.,the United States Court of Appeals for the First Circuit,0.0013802051544189,2.4440488815307617,0.7078008651733398,0.5714285714285715,0.5714285714285715,What court is located in Boston?
+344,The Old Corner Bookstore.,the Old Corner Bookstore,0.0012755393981933,1.4492170810699463,0.9878889918327332,1.0,1.0,Where was the Atlantic Monthly first published?
+345,Chang'an.,Tang,0.0013024806976318,1.2582252025604248,0.3602349758148193,0.0,0.0,What dynasty can the oldest wooden buildings in China be dated to?
+346,1629,1629,0.0012853145599365,1.2909860610961914,1.0000001192092896,1.0,1.0,What year was the Cambridge Agreement signed?
+347,Ashkenazi Jews.,Ashkenazi Jews,0.0013196468353271,1.367748498916626,0.9730258584022522,1.0,1.0,Which group represents at least 70% of Jews worldwide?
+348,Nor'easter weather systems.,Nor'easter,0.0013058185577392,1.4492685794830322,0.7224301099777222,0.6666666666666666,0.6666666666666666,What type of weather systems in Boston can produce much snow and rain?
+349,"""to see""",to see,0.0012793540954589,1.3393783569335938,0.7218509912490845,1.0,1.0,What does ἰδεῖν mean in English?
+350,"Through our senses, such as sight, sound, touch, taste, and smell.",messages transmitted along the nerves to the seat of consciousness,0.0012345314025878,2.0331804752349854,0.36501145362854,0.0,0.0,How do receive information from the physical world?
+351,Ecstatic worship.,ecstatic worship,0.0012726783752441,1.2935354709625244,0.9752455949783324,1.0,1.0,Which new trend has been associated with the Jewish Renewal movement?
+352,The Red Stockings.,Red Stockings,0.0012705326080322,1.35654878616333,0.9206218123435974,0.8,0.8,What was the name of Bostons first baseball team?
+353,"For religious Jews, ""Ashkenazic"" refers to both a family ancestry and a body of customs binding on Jews of that ancestry.",a family ancestry and to a body of customs binding on Jews of that ancestry,0.0012595653533935,2.6013293266296387,0.6825094819068909,0.8333333333333333,0.7777777777777778,"For religious Jews, ""Ashkenazic"" refers to what two things?"
+354,Abstraction.,abstraction,0.0013201236724853,1.2642982006072998,0.9225702285766602,1.0,1.0,"According to Hegel, what form does thought necessarily take?"
+355,"The term ""Ashkenazi"" was used to describe the Jewish communities of medieval Germany and France.",jito,0.0012838840484619,2.1638200283050537,0.0558824501931667,0.0,0.0,What was the term used to describe supervisors of estates?
+356,The invading Persians.,the invading Persians,0.0012695789337158,1.399038791656494,0.9837305545806884,1.0,1.0,The Greek historian Herodotus listed the Jews as the levied naval forces in service to whom?
+357,The Office of Neighborhood Services.,Office of Neighborhood Services,0.0012850761413574,1.4249894618988037,0.9605445265769958,0.888888888888889,0.888888888888889,What division of the City Government designated the 23 neighborhoods?
+358,Boston.,Boston,0.0012872219085693,1.23486328125,0.9526292085647584,1.0,1.0,What city does San Diego come in second to in the biotech industry?
+359,Saadia Gaon.,Saadia Gaon,0.0012693405151367,1.4012675285339355,0.9846826195716858,1.0,1.0,Who identified Ashkenaz with the Saquliba or Slavic territories?
+360,"25,000+","25,000+",0.001249074935913,1.3597564697265625,1.0,1.0,1.0,How many Mexican hispanics live in greater Boston?
+361,The Rainbow Times.,The Rainbow Times,0.0012934207916259,1.3473224639892578,0.9871232509613036,1.0,1.0,What is the name of the citys only lesbian owned LGBT magazine?
+362,Cycling.,cycling,0.0013825893402099,1.2394201755523682,0.961793065071106,1.0,1.0,Bicycling magazine named Boston one of the worst cities in the US for what?
+363,Dependence upon an infinite personal God.,dependence upon an infinite personal God,0.0012788772583007,1.5550992488861084,0.9710326194763184,1.0,1.0,What issue do both Aquinas and Brightman discuss?
+364,A thriving publishing industry and the printing of hundreds of biblical commentaries.,A thriving publishing industry and the printing of hundreds of biblical commentaries,0.0012650489807128,1.8685121536254885,0.9897547960281372,1.0,1.0,What precipitated the development of the Hasidic movement?
+365,40%,40%,0.0013108253479003,1.2947468757629397,0.9999999403953552,1.0,1.0,How much of total employment did agriculture account for at the end of the 1990s?
+366,colleges and universities.,colleges and universities,0.0013124942779541,1.3489909172058103,0.9224287271499634,1.0,1.0,Boston is internationally known for education and medicine because of its many what?
+367,Liturgical Ashkenazi Hebrew.,liturgical Ashkenazi Hebrew,0.0012667179107666,1.4896502494812012,0.9644806981086732,1.0,1.0,In the past most Jews prayed in what language?
+368,33.2%,33.2%,0.0012595653533935,1.3750524520874023,1.0,1.0,1.0,What percentage of the City of Bostons population is 25 to 44?
+369,2009.,2009,0.0012876987457275,1.3573453426361084,0.9539592266082764,1.0,1.0,In what year did Sharif become CM?
+370,8.8 million.,8.8 million,0.0012605190277099,1.4066061973571775,0.9832541346549988,1.0,1.0,How many patients were diagnosed with tuberculosis in 2010?
+371,"The provincial upper class became a new military elite based on the ideals of the bushi (warrior) or samurai (literally, one who serves).",provincial upper class,0.0012924671173095,2.7980642318725586,0.6293268203735352,0.2307692307692307,0.2307692307692307,Which class became a new military elite?
+372,The late Mayor Thomas Menino.,Mayor Thomas Menino,0.0012812614440917,1.5233359336853027,0.925173282623291,0.7499999999999999,0.7499999999999999,Who came up with the Renew Boston Whole Building Incentive?
+373,Boston.,Boston,0.0013644695281982,1.2451653480529783,0.9526292085647584,1.0,1.0,What city does San Diego come in second to in the biotech industry?
+374,The Back Bay.,the Back Bay,0.0012784004211425,1.349149465560913,0.9847224354743958,1.0,1.0,The Boston Public Library is located in what part of Boston?
+375,Neoplatonism.,Neoplatonism,0.0012924671173095,1.4422998428344729,0.9678492546081544,1.0,1.0,In what philosophy was Christian idealism often rooted?
+376,Boston Brahmins.,Boston Brahmins,0.0012917518615722,1.3653564453125,0.9809612035751344,1.0,1.0,Who came to be known as the nation's social elites?
+377,The Ashkenazim viewed North African Sepharadim and Berber Jews as second-class citizens.,as second-class citizens,0.001335859298706,2.2364890575408936,0.3731208741664886,0.4705882352941176,0.4705882352941176,How did the Ashkenazim view north African Sepharadim and Berber Jews?
+378,Boston English.,Boston English,0.0011906623840332,1.2880592346191406,0.977127730846405,1.0,1.0,What is the Boston accent known as?
+379,12th century.,12th,0.0012252330780029,1.370612621307373,0.5420020818710327,0.6666666666666666,0.6666666666666666,In what century did Christian thought begin to be influenced by the scholasticism of Aristotle?
+380,"The nusach Ashkenaz refers to the ""liturgical tradition"" or rite in Hebrew.","""liturgical tradition"", or rite",0.0011725425720214,2.2001802921295166,0.6511845588684082,0.5,0.5,The nusach Ashkenaz refers to what in Hebrew?
+381,Hegel.,Hegel,0.0011911392211914,1.2880573272705078,0.9711014032363892,1.0,1.0,Who wrote Encyclopedia of the Philosophical Sciences?
+382,Genesis Rabbah,Genesis Rabbah,0.0012109279632568,1.3289031982421875,1.0,1.0,1.0,What is the name of the Midrash compilation?
+383,Boston is placed among the top 30 most economically powerful cities in the world.,among the top 30,0.0012359619140625,1.9817488193511963,0.4235386252403259,0.4444444444444445,0.4444444444444445,What rank does Boston hold as far as being an economically powerful city in the world?
+384,The Middle Ages.,the Middle Ages,0.0012078285217285,1.3392729759216309,0.9812238216400146,1.0,1.0,What other age occurred at the same time as the Islamic Golden Age?
+385,The FleetCenter.,the FleetCenter,0.0012145042419433,1.3359417915344238,0.9847387075424194,1.0,1.0,What is the TD Gardens former name?
+386,High technology remains an important sector.,high technology,0.0011959075927734,1.4953765869140625,0.6730198860168457,0.5,0.5,What remains an important sector?
+387,Fidelity Investments helped popularize the mutual fund in the 1980s.,Fidelity Investments,0.0011942386627197,1.9310338497161863,0.6818943023681641,0.3333333333333333,0.3333333333333333,What helped make Boston one of the top financial cities in the US?
+388,35%,35%,0.0012099742889404,1.2578125,1.0000001192092896,1.0,1.0,What percentage of Smartphone users use the youtube app?
+389,"""Spirit""",any human observer,0.001211404800415,1.2670269012451172,0.2719233334064483,0.0,0.0,"What is another term for Hegel's ""subject""?"
+390,pre-Christian times.,pre-Christian times,0.0012087821960449,1.3364176750183103,0.9798234701156616,1.0,1.0,When were the preserved hill forts in Estonia built?
+391,Borden Parker Bowne.,Bowne,0.0011897087097167,1.5084800720214844,0.7432564496994019,0.5,0.5,"Who was an exponent of so-called ""Boston Personalism""?"
+392,"According to Sergio DellaPergola, Ashkenazi Jews make up less than 74% of Jews worldwide.",74%,0.0012192726135253,2.387558937072754,0.3364419937133789,0.1333333333333333,0.1333333333333333,How many Greek Cypriots voted against the Annan Plan in 2004?
+393,The Massachusetts Port Authority (Massport) operates Logan Airport.,Massport,0.0011770725250244,1.731977462768555,0.5930754542350769,0.2222222222222222,0.2222222222222222,Who operates Logan Airport?
+394,1971,after relocating,0.0012984275817871,1.239696979522705,0.2324725538492202,0.0,0.0,When dod the Boston patriots change their name?
+395,Murder rate.,Murders,0.0012176036834716,1.2565910816192627,0.5875980854034424,0.6666666666666666,0.6666666666666666,The Boston Miracle is the name for the reduction in what crime from 1990 to 1999?
+396,"Ashkenaz, Riphath, and Togarmah.","Ashkenaz, Riphath, and Togarmah",0.0012192726135253,1.894365310668945,0.9885234832763672,1.0,1.0,What are the three German tribes or German lands talked about by Rabbi Berechiah?
+397,The New Thought Movement.,New Thought,0.0012280941009521,1.3936688899993896,0.6746051907539368,0.6666666666666666,0.6666666666666666,"Along with the Unity Church, what contemporary religious movement may be regarded as idealist?"
+398,Fresh water.,fresh water,0.0012176036834716,1.2576162815093994,0.9519335627555848,1.0,1.0,What did Tuvalu's new water tanks make possible to store?
+399,465 CE.,465 CE,0.0012011528015136,1.3471040725708008,0.9872310161590576,1.0,1.0,In what year did Jewish communities exist in Brittany?
+400,1822,1822,0.0012052059173583,1.2600367069244385,1.0,1.0,1.0,When was Ireland's police force established?
+401,"The ""Athens of America"".",Athens of America,0.0012192726135253,1.5067167282104492,0.9227865934371948,0.8571428571428571,0.8571428571428571,"Known for its literary culture, Boston has also been called what?"
+402,Platonic idealism.,Platonic,0.0012390613555908,1.4087536334991455,0.7850900888442993,0.6666666666666666,0.6666666666666666,What branch of idealism sees abstracts as more real than perceived objects?
+403,The imperial court.,imperial court,0.0012359619140625,1.3232433795928955,0.9465066194534302,0.8,0.8,Who could appoint staff to the kings?
+404,29%,29%,0.001310110092163,1.2814090251922607,1.0,1.0,1.0,"According to a poll, what percentage of New Jersey voters favored the takeover of Atlantic City by the state?"
+405,The New England Aquarium is located in Boston.,within the city,0.0011882781982421,1.5688071250915527,0.2328508645296096,0.1818181818181818,0.1818181818181818,Where is the New England Aquarium located?
+406,The Yogācāra school was affiliated with the Mahayana Buddhism sect.,Mahayana,0.0011849403381347,1.972963571548462,0.5562465190887451,0.1538461538461538,0.1538461538461538,With what sect of Buddhism was the Yogācāra school affiliated?
+407,Small.,very few Jews,0.0012149810791015,1.2233431339263916,0.2743871808052063,0.0,0.0,Does the archeological record suggest that there was a rather large or small population of Jews in Gaul and Germany?
+408,70 years.,70,0.0012030601501464,1.2970612049102783,0.602371096611023,0.6666666666666666,0.6666666666666666,How old was Eisenhower in 1960?
+409,The Columbia Point Health Center was located in the Dorchester neighborhood.,the Dorchester neighborhood,0.0011820793151855,1.7777013778686523,0.5921940803527832,0.4285714285714285,0.4285714285714285,Where was Colombia Point Health Center located?
+410,The Dreyfus affair occurred in the 1890s.,1890s,0.001213788986206,1.8259942531585691,0.532417356967926,0.25,0.25,When did the Dashnaktsutyun originate?
+411,Norwood Memorial Airport is south of Logan Airport.,Norwood Memorial Airport,0.0011894702911376,1.661275863647461,0.8681382536888123,0.5454545454545454,0.5454545454545454,What airport is south of Logan Airport?
+412,No significant evidence of Khazar contribution to the Ashkenazi Jewish DNA.,no significant evidence of Khazar contribution to the Ashkenazi Jewish DNA,0.0012109279632568,1.9233460426330569,0.8059898614883423,1.0,1.0,What did a 2013 study of Ashkenazi mitochondrial DNA find in regards to the Khazar descent idea?
+413,1900,1900,0.0012118816375732,1.3074400424957275,1.0000001192092896,1.0,1.0,When did the Boxers begin to kill missionaries and Chinese Christians?
+414,Marty Walsh,Marty Walsh,0.0012097358703613,1.2400739192962646,1.0000001192092896,1.0,1.0,"Who became Mayor in january, 2014?"
+415,Ash.,Ash,0.0012266635894775,1.2082324028015137,0.9458335638046264,1.0,1.0,Dutch Carnaval is celebrated until which Wednesday?
+416,Frederick Law Olmsted.,Frederick Law Olmsted,0.0011909008026123,1.423093318939209,0.9863314628601074,1.0,1.0,Who designed the Emerald necklace?
+417,Three people were killed in the explosions at the Boston marathon.,three,0.001328706741333,1.7408902645111084,0.2687799334526062,0.1666666666666666,0.1666666666666666,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+418,Middle Eastern Jews and European/Syrian Jews.,Middle Eastern Jews and European/Syrian Jews,0.0012087821960449,1.6582589149475098,0.9596761465072632,1.0,1.0,"In a 2010 study, which two groups were identified by principal component, phylogenetic, and identity by descent analysis?"
+419,1669,1669,0.0012018680572509,1.2814040184020996,1.0,1.0,1.0,What year was Old South Church organized?
+420,life sciences cluster.,life sciences cluster,0.0013735294342041,1.343275785446167,0.983902096748352,1.0,1.0,The Milken Institute rated Boston as the top what in the country?
+421,Eran Elhaik argued for Khazar descent.,argued for Khazar descent,0.0013682842254638,1.6891765594482422,0.7659069895744324,0.8,0.8,"Did Eran Elhaik, from Johns Hopkins University School of Public Health argue for or against Khazar descent?"
+422,1635.,1635,0.0012223720550537,1.317154884338379,0.9756757020950316,1.0,1.0,What year was the Academy of Science in France founded?
+423,July.,July,0.0012116432189941,1.244927167892456,0.9541279673576356,1.0,1.0,In what month in 1953 did the armistice come into being?
+424,Yiddish.,Yiddish,0.0012042522430419,1.343395709991455,0.965530812740326,1.0,1.0,What other language besides French and German are part of the Aslation-French dialect of today?
+425,Fichte was a transcendental idealist.,transcendental,0.0012135505676269,1.6019201278686523,0.5156936645507812,0.3333333333333333,0.3333333333333333,"According to Hegel, what sort of idealist was Fichte?"
+426,4,four,0.0013229846954345,1.2006936073303225,0.8942000865936279,0.0,0.0,In how many directions does the Buddha of Swayambhu look?
+427,"The streets of downtown Boston grew organically, not forming a planned grid.",organically,0.0011990070343017,1.908942699432373,0.228701040148735,0.1538461538461538,0.1538461538461538,How did the streets of downtown Boston grow?
+428,Harvard University.,Harvard,0.0012023448944091,1.2870941162109375,0.933400332927704,0.6666666666666666,0.6666666666666666,What university was Landis Gores associated with?
+429,Germanikia in northwestern Syria.,Germanikia in northwestern Syria,0.0012073516845703,1.5635077953338623,0.97419935464859,1.0,1.0,"Even though Gomer is rendered as Germania in the Yoma tractate of the Babylonian Talmud, in other rabbinical literature it was identified with what?"
+430,The Atlantic triangular slave trade.,slave trade,0.0012273788452148,1.4458837509155271,0.8184697031974792,0.5714285714285715,0.5714285714285715,What lucrative trade contributed greatly to Charles Town's growth?
+431,Time.,Time,0.0013275146484375,1.2360033988952637,0.8305327296257019,1.0,1.0,What did the Enneads believe might not have existence outside of the soul?
+432,9 championships.,nine,0.0011980533599853,1.317664384841919,0.5327947735786438,0.0,0.0,How many stories made up the Dharahara tower?
+433,Trimountaine.,Trimountaine,0.0012335777282714,1.3481035232543943,0.9749391078948976,1.0,1.0,What did Boston's early settlers call the area?
+434,WHRB,WHRB,0.0012061595916748,1.2110495567321775,1.0000001192092896,1.0,1.0,What is the name of Harvards radio station?
+435,Santander Bank,Federal Reserve Bank of Boston,0.0011975765228271,1.2916860580444336,0.5128043293952942,0.2857142857142857,0.2857142857142857,What is the name of the famous bank located in Boston?
+436,joining gangs.,joining gangs,0.0012142658233642,1.2923126220703125,0.959936022758484,1.0,1.0,Boston police and local groups make an effort toprevent youth from doing what?
+437,Vladimir Ashkenazy.,Vladimir Ashkenazy,0.0012013912200927,1.3975036144256592,0.9844123721122742,1.0,1.0,What famous person is mentioned as having the surname Ashkenazi?
+438,1954,1954,0.0012085437774658,1.284111738204956,1.000000238418579,1.0,1.0,In what year was Eisenhower's EDC rejected?
+439,The Ashkenazim were more diverse than their Middle Eastern relatives.,more diverse,0.001220703125,1.8812837600708008,0.4055676758289337,0.3333333333333333,0.3333333333333333,In one study it was found that the Ashkenazim were more or less diverse than their Middle Eastern relatives?
+440,"Over 140,000 rides.","more than 140,000",0.0012104511260986,1.4409310817718506,0.6072285175323486,0.5,0.5,How many rides did Hubway log in its first year?
+441,Catholics.,Catholics,0.0011892318725585,1.235198736190796,0.961634635925293,1.0,1.0,What group believes that some in the church have a special status to understand the bible?
+442,The Institute of Contemporary Art is located in the Seaport District.,in the Seaport District,0.0011885166168212,1.829030990600586,0.610344648361206,0.5333333333333333,0.5333333333333333,Where is the institute of contemporary Art located?
+443,The Fugitive Slave Law of 1850.,the Fugitive Slave Law of 1850,0.0012252330780029,1.684380054473877,0.9880322813987732,1.0,1.0,What law involving slaves did the city react strongly to?
+444,The chief Ashkenazi rabbi.,the chief Ashkenazi rabbi,0.0011975765228271,1.5496690273284912,0.981838881969452,1.0,1.0,Religious Ashkenazi Jews living in Israel follow the authority of whom in certain matters?
+445,Antoku,Antoku,0.0011842250823974,1.2115528583526611,1.0,1.0,1.0,What was the name of Takakura's successor?
+446,"Four: Boston College, Boston University, Harvard University, and Northeastern University.",four,0.0011992454528808,1.9720678329467771,0.374147355556488,0.1818181818181818,0.1818181818181818,In how many directions does the Buddha of Swayambhu look?
+447,Over two million members.,two million,0.0012211799621582,1.3706042766571045,0.6801156997680664,0.6666666666666666,0.6666666666666666,How many active members were there in 1975?
+448,Middle Eastern peoples.,Middle Eastern peoples,0.0012049674987792,1.315265655517578,0.9558118581771852,1.0,1.0,It was found that the Y-chromosome of Ashkenazi and Sephardic Jews contained mutations that are also common with what other people?
+449,tsuibushi,tsuibushi,0.0012035369873046,1.2630770206451416,1.0,1.0,1.0,Warriors appointed for specific tasks were called what?
+450,897-930,897-930,0.0011842250823974,1.3079633712768557,1.0,1.0,1.0,Emperor Daigo ruled during what years?
+451,62.,62,0.0011951923370361,1.289264678955078,0.9199797511100768,1.0,1.0,How many insititutions comprise the Association of American Universities' membership?
+452,Descartes.,Descartes,0.0012156963348388,1.345343828201294,0.9784774780273438,1.0,1.0,Whose work with metaphysics would come to define the notion of empty space?
+453,794 A.D.,794 A.D,0.0011858940124511,1.3371553421020508,0.981242537498474,1.0,1.0,The Heian period began in what year?
+454,The old Boston Garden.,Boston Garden,0.0011875629425048,1.3997445106506348,0.8702294230461121,0.6666666666666666,0.6666666666666666,What was the FleetCenter built to replace?
+455,Biotechnology.,biotechnology,0.0012180805206298,1.26397705078125,0.949833869934082,1.0,1.0,What kind of companies have had a more important role in drug development?
+456,a half-mile.,a half-mile,0.0012226104736328,1.3159427642822266,0.9804498553276062,1.0,1.0,Parkscore ranks the number of resident within what distance of the park?
+457,Hitachi.,Hitachi,0.0012037754058837,1.2668802738189695,0.97999906539917,1.0,1.0,Masakado led an uprising in what province?
+458,"The Taira, Minamoto, and Fujiwara families are playable characters in Total War: Shogun 2.","Taira, Minamoto or Fujiwara",0.0012080669403076,2.3806374073028564,0.5905011892318726,0.3333333333333333,0.3333333333333333,What families are playable characters in Total War: Shogun 2?
+459,Epistemological idealism.,Epistemological,0.0012497901916503,1.4526379108428955,0.7106049060821533,0.6666666666666666,0.6666666666666666,What branch of idealism believes that we can only know the real world via ideas?
+460,The 1920s and 1930s.,the 1920s and 1930s,0.00120210647583,1.7147457599639893,0.9874254465103148,1.0,1.0,In what years did large numbers of Jews arrive in France?
+461,Cold.,have not always been warm,0.0012140274047851,1.2391047477722168,0.4574458003044128,0.0,0.0,In the past have relations between Ashkenazim and Sephardim tended to be warm or cold?
+462,Venture capital.,venture capital,0.0012362003326416,1.2830774784088137,0.9698609113693236,1.0,1.0,Boston is the center for what type of capital firms?
+463,"Dorchester, Jamaica Plain, and Roslindale have a high rate of Hispanics.",the East Boston neighborhood,0.0011782646179199,2.041316509246826,0.3023121356964111,0.0,0.0,What neighborhoos has a high rate of hispanics?
+464,47.5%,47.5%,0.0011889934539794,1.4018371105194092,1.0,1.0,1.0,What percentage of Israeli Jews are people of Ashkenazi descent?
+465,Halakhic matters.,halakhic matters,0.0012273788452148,1.3996615409851074,0.9632951021194458,1.0,1.0,Religious Ashkenazi Jews look to the authority of the chief Ashkenazi rabbi in which matters?
+466,89.6 square miles.,48 square miles,0.0011992454528808,1.5134227275848389,0.8328135013580322,0.5714285714285715,0.5714285714285715,How many square miles is Boston?
+467,22.,22,0.0011699199676513,1.240654706954956,0.9370455741882324,1.0,1.0,How many airlines use Tribhuvan International for international flights?
+468,1998,1998,0.0012099742889404,1.2894690036773682,1.0,1.0,1.0,When did Stein win a Pulitzer?
+469,philanthropy.,philanthropy,0.0012285709381103,1.2871787548065186,0.9491970539093018,1.0,1.0,What was humanism once considered the same as?
+470,The 8th district.,the 8th district,0.0012047290802001,1.421647548675537,0.9884421825408936,1.0,1.0,What district is the South fourth of Boston located in?
+471,Harvard University and Tufts University.,Harvard University,0.0012359619140625,1.4678990840911863,0.8372377157211304,0.5714285714285715,0.5714285714285715,To whom did Rothko donate Passion of Christ murals?
+472,Symphony Hall.,Symphony Hall,0.0012049674987792,1.289355754852295,0.9817856550216676,1.0,1.0,What does Boston Symphony orchestra call home?
+473,John Foster,Foster,0.0012333393096923,1.251283884048462,0.840200662612915,0.6666666666666666,0.6666666666666666,Who wrote A World for Us: The Case for Phenomenalistic Idealism?
+474,The Gempei War.,Gempei War,0.0013465881347656,1.3357672691345217,0.9536543488502502,0.8,0.8,The Rise of the Samurai expansion for Total War: Shogun 2 depicts which war during the Heian period?
+475,Italy.,through what is now Italy,0.0012338161468505,1.2321810722351074,0.5885279774665833,0.3333333333333333,0.3333333333333333,The most well supported theory on the origins of the Ashkenazim is one that details a Jewish migration through which modern day country?
+476,"The Ryōmin (良民 ""Good People"")",Ryōmin,0.0012247562408447,1.642310619354248,0.4655787348747253,0.5714285714285715,0.5714285714285715,What was the name of the beneficiaries of Heian culture?
+477,"Military families gained prestige through connections to the imperial court, court-granted military titles, and access to manpower.",connections to the imperial court,0.0013110637664794,2.259164571762085,0.5636358261108398,0.4347826086956522,0.4347826086956522,How did military families gain prestige?
+478,939 A.D.,939 A.D,0.001209020614624,1.398927927017212,0.9855186343193054,1.0,1.0,In what year did Masakado begin his rebellion?
+479,parks designed by Frederick Law Olmsted to encircle the city.,parks,0.0011744499206542,1.876856803894043,0.5110287666320801,0.1818181818181818,0.1818181818181818,The Emerald necklace is a string of what?
+480,"26.5 per 100,000 people.","26.5 per 100,000",0.0011882781982421,1.715555191040039,0.8278005123138428,0.9090909090909092,0.9090909090909092,What was the murder rate in Boston in 1990?
+481,Trimountaine.,Trimountaine,0.0011999607086181,1.336439609527588,0.9749391078948976,1.0,1.0,What did Boston's early settlers call the area?
+482,"Boston Latin School, established in 1635.",The Boston Latin School,0.0012030601501464,1.6161730289459229,0.8076854944229126,0.6,0.6,What is the oldest public high school in the US?
+483,G. E. Moore,Moore,0.0011923313140869,1.380709886550903,0.875847578048706,0.5,0.5,Who wrote The Refutation of Idealism?
+484,Symphony Hall is located west of the Back Bay in Boston.,west of Back Bay,0.0011863708496093,1.7216074466705322,0.5031346082687378,0.5333333333333333,0.5333333333333333,Where is Symphony Hall located?
+485,McTaggart believed that minds relate to one another through love.,love,0.0012271404266357,1.8188252449035645,0.3314238488674164,0.1818181818181818,0.1818181818181818,How does McTaggart believe minds relate to one another?
+486,806.,806,0.0012097358703613,1.258758783340454,0.9655330181121826,1.0,1.0,In what year did Emperor Kanmu die?
+487,Go-Toba.,Go-Toba,0.0012099742889404,1.2982101440429688,0.979362726211548,1.0,1.0,What was the name of the emperor that Yoritomo removed from the throne?
+488,"Yiddishkeit means ""Jewishness"" in the Yiddish language.","""Jewishness""",0.0012075901031494,2.003331184387207,0.6625375151634216,0.25,0.25,What does Yiddishkeit mean in the Yiddish language?
+489,19 feet.,19 ft,0.001319408416748,1.3383240699768066,0.9115872383117676,0.5,0.5,How many feet above sea level is the City of Boston?
+490,"Over 27,000.","Over 27,000",0.0011875629425048,1.4329698085784912,0.9709442257881165,1.0,1.0,How many Chinese Americans lived in Boston City proper in 2013?
+491,92%,"three percent of the world's Jewish population, while at their peak in 1931 they accounted for 92 percent",0.0012118816375732,1.295914649963379,0.2504367232322693,0.1,0.1,"From the 11th century until 1931, the population of Ashkenazi Jews grew by what percent?"
+492,First Night.,First Night,0.0012035369873046,1.2847397327423096,0.932952642440796,1.0,1.0,What event occurs on New Year's Eve?
+493,Honshū.,Honshū,0.0012233257293701,1.308565378189087,0.9827824831008912,1.0,1.0,The imperial capital extended to the eastern edge of which Japanese island?
+494,Quantum physics.,quantum,0.0012121200561523,1.2863869667053225,0.8554490804672241,0.6666666666666666,0.6666666666666666,What branch of physics might support a worldview similar to Platonic dualism?
+495,"Physicists of the early 20th century, particularly those who were materialists.",physicist,0.0012428760528564,2.055100917816162,0.669101357460022,0.1666666666666666,0.1666666666666666,"According to the author, who would have particular trouble in accepting that reality is fundamentally mental?"
+496,Sense without Matter (1954),Sense without Matter,0.0012040138244628,1.4933042526245115,0.7915714979171753,0.8571428571428571,0.8571428571428571,What book was written by A.A. Luce?
+497,The present-day State House sits atop Beacon Hill.,State House,0.0011961460113525,1.6464853286743164,0.5562089085578918,0.3636363636363636,0.3636363636363636,What sits on Beacon Hill today?
+498,Bradley,Bradley,0.0012071132659912,1.1766698360443115,1.0,1.0,1.0,What general commanded the 12th US Army Group?
+499,Berkeley.,Berkeley,0.0011770725250244,1.235012769699097,0.9726189374923706,1.0,1.0,Who originated the saying 'esse est percipi'?

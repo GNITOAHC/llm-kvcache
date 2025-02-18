@@ -1,0 +1,488 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,1935,1935,0.4011619091033935,2.948873281478882,1.0,1.0,1.0,When did Reza Shan request that Iran officially be referred to as Iran and not Persia?
+1,"No, the number of entrants has varied over the years, with a record 763 clubs participating in the 2011-12 season.",The number of entrants has increased greatly in recent years,0.2831466197967529,2.599004030227661,0.6831884384155273,0.4516129032258064,0.3870967741935483,Has the number of entrants stayed the same? 
+2,"José Batlle y Ordóñez, President of Uruguay from 1911 to 1915.",José Batlle y Ordóñez,0.3165574073791504,2.224996328353882,0.684239387512207,0.5882352941176471,0.5882352941176471,Parque Batlle is named in honor of who?
+3,Francisco Antonio Maciel.,Francisco Antonio Maciel,0.3240940570831299,1.2494456768035889,0.9896161556243896,1.0,1.0,Who originally donated the land for Hospital Macie?
+4,"Yes, Rebecca Lowe became the first woman to host the FA Cup Final in the UK in 2011.",Rebecca Lowe became the first woman to host the FA Cup Final in the UK.,0.3415141105651855,2.226616621017456,0.9242324829101562,0.9090909090909092,0.9090909090909092,Has a woman ever broadcast a match? 
+5,A major storm.,A major storm,0.3997335433959961,1.2008459568023682,0.9748867750167848,1.0,1.0,What happened in 1923 that required repairs to many of the city's engineering works?
+6,Gordon Brown.,"his Chancellor, Gordon Brown",0.280045747756958,1.0571486949920654,0.7710922956466675,0.6666666666666666,0.6666666666666666,Who was Blair replaced by?
+7,May 1994.,May 1994,0.3251206874847412,1.4017093181610107,0.9781463146209716,1.0,1.0,When did Smith die?
+8,Plaza Zabala with the equestrian statue of Bruno Mauricio de Zabala.,Plaza de la Constitución,0.3487753868103027,2.124709367752075,0.4208224415779114,0.25,0.25,What is also a major note in Ciudad Vieja?
+9,191,191,0.5467925071716309,1.0106427669525146,1.0000001192092896,1.0,1.0,How many MP did they get in the election in 1924?
+10,The BBC and Sky Sports had FA Cup coverage from 1988-1997.,"From 1988 to 1997, the BBC and Sky Sports had coverage of the FA Cup",0.5724716186523438,2.003506898880005,0.9557037353515624,0.888888888888889,0.5925925925925926,Who had FA cup coverage from 1988-1997?
+11,There is no information in the given context about who planned the first set of subsidiary forts.,Portuguese,0.3539080619812011,1.7546048164367676,-0.0497167333960533,0.0,0.0,What is Brazil's official language?
+12,Telecommunications company.,telecommunications,1.669856071472168,1.2015254497528076,0.8162104487419128,0.6666666666666666,0.6666666666666666,What kind of company does ANTEL run?
+13,1942,1942,0.8743021488189697,1.3126482963562012,1.0,1.0,1.0,In what year did Japan establish a base in New Guinea?
+14,"81,774.","81,774",0.3206453323364258,1.4148969650268557,0.983536958694458,1.0,1.0,In 2007 the University of the Republic had a student body of how many people?
+15,"Yes, the trophy is decorated with ribbons in the colors of both finalists during the final.","the trophy wears is decorated with ribbons in the colours of both finalists, with the loser's ribbons being removed at the end of the game.",0.3082883358001709,1.7681255340576172,0.8697636127471924,0.5714285714285714,0.5714285714285714,Is the trophy decorated? 
+16,Rimer Cardillo,Rimer Cardillo,0.407402753829956,1.358067512512207,1.0000001192092896,1.0,1.0,Who made the National Institute of Fine Arts?
+17,The FA Cup trophy is replaced with an exact replica after 20 years of wear and tear.,"the trophy was to be permanently presented to any club which won the competition three times,",1.9680588245391848,2.105654716491699,0.570635199546814,0.1212121212121212,0.1212121212121212,What happens to multiple cup winners? 
+18,September 2006,September 2006,0.3901376724243164,1.1055576801300049,1.0,1.0,1.0,When did Blair announce he was quitting?
+19,207,207,0.8916037082672119,1.111896514892578,1.0,1.0,1.0,How many guest rooms does the Sheraton have?
+20,Plaza Zabala.,Plaza Zabala,0.2874224185943603,1.415893793106079,0.97856205701828,1.0,1.0,Where is the equestrian statue of Bruno Mauricio de Zabala located? 
+21,Romanesque Revival style.,Romanesque Revival style,0.2449522018432617,1.5103366374969482,0.960302233695984,1.0,1.0,What stle was the Iglesia Punta Carretas built in?
+22,Doncaster,Doncaster,0.2957265377044678,1.2463908195495603,1.0,1.0,1.0,Where was Thomas R. Steels a member?
+23,BT Sport took over after ESPN.,BT Sport,0.254685640335083,1.4566919803619385,0.7603031396865845,0.5,0.5,Who took over after ESPN? 
+24,Daniel Muñoz.,Daniel Muñoz,0.3051800727844238,1.408139944076538,0.9780284762382508,1.0,1.0,Who was the municipality's first mayor?
+25,The Militant tendency group's five-member editorial board were expelled on 22 February 1983.,activists and the two MPs who supported the group.,0.2874908447265625,2.1511876583099365,0.3417061567306518,0.1666666666666666,0.1666666666666666,Who did the NEC expel 
+26,1816.,1816,0.3136935234069824,1.3592925071716309,0.9636778831481934,1.0,1.0,"When was the ""american colonization society founded""?"
+27,2014,"2014 replica of the second design, introduced in 1911",0.314011812210083,1.310246467590332,0.260975182056427,0.1999999999999999,0.1999999999999999,When was the latest design intoduced?
+28,Sir John Chilcot.,Sir John Chilcot,0.3119320869445801,1.2124292850494385,0.9859715700149536,1.0,1.0,Who has an active Iraq War inquiry?
+29,European immigration.,the great European immigration,0.7094159126281738,1.3094432353973389,0.8164143562316895,0.6666666666666666,0.6666666666666666,The population quadrupled by 1880 due mainly to what?
+30,"Yes, it is a regular occurrence in the FA Cup, with many lower-ranked teams beating higher-ranked teams in earlier rounds.",Almost every club in the League Pyramid has a fondly remembered giant-killing act in its history,0.2559244632720947,2.393599510192871,0.2572817802429199,0.2051282051282051,0.1538461538461538,Does giant killing happen often? 
+31,5,five physical trophies have been presented,0.3850657939910888,1.241132736206055,0.3686099052429199,0.0,0.0,How many physical trophies have been presented? 
+32,1856.,1856,0.4248776435852051,1.3720653057098389,0.9725230932235718,1.0,1.0,When did Heine die?
+33,100 meters (330 ft),100 metres (330 ft) high,0.3161356449127197,1.3526251316070557,0.8933809995651245,0.6666666666666665,0.6666666666666665,How high does the Palacio Salvo stand?
+34,1901,1901,0.3406703472137451,1.2939326763153076,1.0,1.0,1.0,What year did they win the cup? 
+35,Tottenham Hotspur in 1901.,Notts County,4.255840063095093,1.61405348777771,0.0991184934973716,0.0,0.0,Who was the first outside club to win? 
+36,Urban development.,urban development,0.3011207580566406,1.3002569675445557,0.9577412605285645,1.0,1.0,The Rodo Park and the Estadio Gran Parque Central serves as poles of what?
+37,The government of Montevideo owns the Solís Theatre.,the government of Montevideo,0.3021829128265381,1.7758195400238037,0.5925984978675842,0.6153846153846153,0.6153846153846153,Who owns The Solis Theater?
+38,Buenos Aires.,Buenos Aires,1.8285415172576904,1.0638790130615234,0.9760341048240662,1.0,1.0,Where were the Spaniards emanating from?
+39,Montevideo.,Montevideo,0.3694610595703125,1.3623178005218506,0.9802385568618774,1.0,1.0,Where is the Uruguayan Basketball League headquartered?
+40,1998.,1998,0.3407092094421386,1.3593177795410156,0.9467677474021912,1.0,1.0,When did Stein win a Pulitzer?
+41,Parque Rodó.,Parque Rodó,0.5385236740112305,1.2533061504364014,0.9864100813865662,1.0,1.0,Where is the National Museum of Visual Arts located?
+42,Henry (Harry) James Burge claimed to have stolen the FA Cup in 1895.,80 year old career criminal Henry (Harry) James Burge claimed to have committed the theft,0.3423044681549072,1.7699236869812012,0.6881899833679199,0.5714285714285715,0.5714285714285715,How claims to have stolen the FA cup? 
+43,The Social Democratic Party.,Social Democratic Party,0.3761072158813476,1.1537935733795166,0.9523102045059204,0.8571428571428571,0.8571428571428571,What did four members of the Labour Party leave to creat?
+44,"José Enrique Rodó, an important Uruguayan writer.",José Enrique Rodó,0.2720322608947754,1.7772068977355957,0.7652969360351562,0.6,0.6,Who was an important Uruguayan writer that is commemorated by Parque Rodo? 
+45,Wembley Stadium.,"predominantly in London, and mainly at the Kennington Oval and then Crystal Palace.",0.3247082233428955,1.1187283992767334,0.5776833295822144,0.0,0.0,Where do the majority of FA cup finals take place? 
+46,"People consider giant killers as an integral part of the FA Cup tradition and prestige, particularly when lower-ranked teams beat higher-placed opposition.",is considered an integral part of the tradition and prestige of the competition,0.271420955657959,2.502175807952881,0.4301506280899048,0.4864864864864864,0.4864864864864864,What do people think about giant killers? 
+47,21 times.,21,0.306863784790039,1.3325376510620115,0.4996092617511749,0.6666666666666666,0.6666666666666666,What percentage of Kathmandu's economy is trade?
+48,1781-1788.,between 1781 and 1788,0.6650021076202393,1.355853796005249,0.9326534867286682,0.6666666666666666,0.6666666666666666,When was the first building of the Hospital Maciel established?
+49,"The Millennium Stadium in Cardiff, Wales.",between 2001 and 2006 they were hosted at the Millennium Stadium,0.3571453094482422,1.5519471168518066,0.6838746070861816,0.3529411764705882,0.3529411764705882,Where was the FA cup held while this stadium was built? 
+50,£12 million.,£12 million,0.3326592445373535,1.103734016418457,0.9689651131629944,1.0,1.0,How far was the Conservative party in debt?
+51,There is no mention of a person named Liniers in the provided context.,Baltasar Hidalgo de Cisneros,0.3600809574127197,1.6279096603393557,0.1200423836708068,0.0,0.0,Who replaced Liniers?
+52,Bombillas are drinking straws used to drink mate (tea) in Uruguay.,(drinking straws,0.45086669921875,1.9737091064453125,0.4800678789615631,0.3076923076923077,0.3076923076923077,What are bombillas?
+53,731 clubs.,731,0.7145340442657471,1.3466641902923584,0.6218094825744629,0.6666666666666666,0.6666666666666666,How many clubs entered in 2007-08?
+54,The case refers to the theft of the FA Cup trophy in 1895.,made strikes illegal,0.335857629776001,1.93852972984314,0.1862476468086242,0.0,0.0,"From this case, what happened?"
+55,1985,1985,0.2588560581207275,1.3061368465423584,1.0,1.0,1.0,When was 'A Kind of Alaska' performed?
+56,1924,1924,2.2806103229522705,1.0705196857452393,1.000000238418579,1.0,1.0,The Quarter Century Club began in this year.
+57,307,307,0.5132412910461426,1.01233172416687,1.0000001192092896,1.0,1.0,How many seats did the Conservatives win?
+58,8,eight,0.6402988433837891,1.116006851196289,0.9316006898880004,0.0,0.0,How many rivers travel through Kathmandu?
+59,"Replays were traditionally played 3-4 days after the original game, but from 1991-92, they were staged at least 10 days later.",". Replays were traditionally played three or four days after the original game, but from 1991–92 they were staged at least 10 days later on police advice.",0.3423311710357666,2.7992398738861084,0.9326554536819458,0.84,0.84,When are replays played?
+60,A very popular street market.,a very popular street market,0.3180854320526123,1.4621407985687256,0.9889058470726012,1.0,1.0,What takes part on the east side of the main park every Sunday?
+61,The British Cemetery Montevideo is located in the Buceo neighborhood.,Buceo neighborhood,0.5918371677398682,1.619464635848999,0.537443995475769,0.3333333333333333,0.3333333333333333,Where is the British Cemetery Montevideo located?
+62,The historical residence of General Fructuoso Rivera.,the historical residence of General Fructuoso Rivera,0.4231696128845215,1.429527759552002,0.9936248064041138,1.0,1.0,The National History Museum of Montevideo is located where?
+63,"No, in the modern era, non-league teams have never reached the quarter finals.",never reached the quarter finals,0.2952477931976318,1.990199327468872,0.777128279209137,0.5263157894736842,0.5263157894736842,"In the modern era, has any non-league team reached the quarter finals??"
+64,"70,000 seats.","70,000",0.2816762924194336,1.4680609703063965,0.6292316913604736,0.8,0.8,How many volumes are contained in Nepal's National Library?
+65,Parque Batlle.,Parque Batlle,0.8358244895935059,1.4110674858093262,0.98460590839386,1.0,1.0,What major public central park is located south of Avenida Italia? 
+66,The Rio de la Plata region.,Rio de Plata region,0.302119493484497,1.5652451515197754,0.9562671184539796,0.8,0.8,"Tango, milonga and vals criollo are the most popular forms of music in what region?"
+67,The University of the Republic is the country's largest university.,The University of the Republic,0.2979445457458496,1.7748053073883057,0.7720088958740234,0.625,0.625,What is the country's largest university? 
+68,Cordon.,Cordon,0.3301382064819336,1.1501941680908203,0.9558085203170776,1.0,1.0,Where is St. Brendan's school located?
+69,"Yes, before 1918, the Labour Party did not have individual membership.",in recent times when this pattern was not followed were 1999–2000,0.4852008819580078,1.943087100982666,0.1640415340662002,0.0869565217391304,0.0869565217391304,Was there a time this was not the case? 
+70,The FA Cup final has been held at the rebuilt Wembley Stadium since it opened in 2007.,to recoup debts in financing the new stadium.,0.272280216217041,2.2501206398010254,0.3101068139076233,0.24,0.1599999999999999,Why is it held at Webly Stadium? 
+71,Hans Langsdorff.,Admiral Graf Spee,0.6001214981079102,0.8956067562103271,0.3545219600200653,0.0,0.0,Who was the Admiral of the German pocket ship?
+72,A beacon.,a beacon,0.7479994297027588,1.3032450675964355,0.9753930568695068,1.0,1.0,What replaced the observation post in 1802?
+73,1930.,1930,0.640784740447998,1.3571951389312744,0.9694188833236694,1.0,1.0,When did Charles Potter and Clara Potter publish their first writings on Humanism?
+74,The Scottish National Party (SNP) in Scotland and the Conservatives in the 2010 general election.,Scottish National Party,0.4143903255462646,1.9033207893371584,0.8188326954841614,0.3333333333333333,0.3333333333333333,Who did Labour lose power in the election to?
+75,674 clubs.,674,0.5379524230957031,1.3394625186920166,0.5887205600738525,0.6666666666666666,0.6666666666666666,How many clubs entered in 2005-06?
+76,Montevideo.,Montevideo,0.2521839141845703,1.3562917709350586,0.9802385568618774,1.0,1.0,Where is the Uruguayan Basketball League headquartered?
+77,The historic residence of Antonio Montero.,Antonio Montero,0.2703611850738525,1.560685396194458,0.7488850355148315,0.5,0.5,What houses the Museo Romantico?
+78,"The FA Cup trophy and a place in the FA Community Shield match, as well as qualification for European football.",the FA Cup trophy,0.2896637916564941,2.2460405826568604,0.8130713105201721,0.3333333333333333,0.3333333333333333,What do winners receive? 
+79,142,142,0.403343915939331,1.0103349685668943,0.9999999403953552,1.0,1.0,HOw many seats id Labour win in 1922?
+80,Arthur Scargill.,Arthur Scargill,0.5419507026672363,1.1591846942901611,0.986388623714447,1.0,1.0,What was the name of the miner's leader that was blamed for the strike?
+81,"Chasetown, a team from Level 8 of the English football league system.",Chasetown,0.2614650726318359,1.990511178970337,0.7178118228912354,0.1538461538461538,0.1538461538461538,Who is the lowest rank to play in the  third round proper?
+82,9 months,nine months,0.3084683418273926,1.3111371994018557,0.9712071418762208,0.5,0.5,After how long did the government collapse?
+83,15,15,0.4330477714538574,1.2553212642669678,1.0,1.0,1.0,How many cornerstones of this new way of thinking or religion were presented>
+84,"A torta frita is a pan-fried cake consumed in Montevideo and throughout Uruguay, made from wheat flour, yeast, water, and sugar or salt.",a pan-fried cake,0.4444260597229004,2.5005786418914795,0.4568555653095245,0.2857142857142857,0.2857142857142857,What is a torta frita?
+85,John Whitelocke.,John Whitelocke,0.3212659358978271,1.2121000289916992,0.9856759905815125,1.0,1.0,Who was forced to surrender to troops formed by forces of the Banda Oriental? 
+86,"I couldn't find any information about ""Tablados"" in the given context.",popular scenes,0.7621164321899414,2.0162570476531982,0.0748995244503021,0.0,0.0,What does Tablados mean?
+87,The city of Montevideo suffered a siege of eight years between 1843 and 1851.,art,0.5470166206359863,2.2275233268737797,5.124136805534363e-06,0.0,0.0,What kind of background did many of the initial post-punk artists have?
+88,Liverpool (2001) and Chelsea (2007) have since repeated this feat.,Chelsea (2010),0.3001744747161865,2.001655101776123,0.6496323347091675,0.1666666666666666,0.1666666666666666,Who was the latest clubs have won the fa cup as part of a league cup double? 
+89,The General Artigas Central Station is located in the Aguada neighborhood.,Aguada,0.4071972370147705,1.9098231792449951,0.5190245509147644,0.1666666666666666,0.1666666666666666,What neighborhood is the General Artigas Central Station located?
+90,1781,1809,2.2153000831604004,1.1582176685333252,0.4607018828392029,0.0,0.0,When did Finland join the Russian Empire?
+91,Barrio Sur in the southern area of the city.,Barrio Sur,0.33258056640625,1.7176659107208252,0.8786888122558594,0.3636363636363636,0.3636363636363636,Where is the Central Cemetery located?
+92,I couldn't find any information about the Iglesia Punta Carretas in the provided context.,between 1917 and 1927,0.8091177940368652,2.17297887802124,0.0720741301774978,0.0,0.0,Between what years was the Iglesia Punta Carretas built?
+93,1930,"it opened, in 2007.",0.4703850746154785,1.2920737266540527,0.1820100247859954,0.0,0.0,When did this stadium open? 
+94,St. Catherine's.,St.Catherine´s,0.2715878486633301,1.2522354125976562,0.9254430532455444,1.0,1.0,What was St. Brendan's school previously named?
+95,Banking.,Banking,0.3894517421722412,1.2589774131774902,0.9318673610687256,1.0,1.0,What has traditionally been the strongest service export sectors in Uruguay?
+96,Neoclassical style.,Neoclassical style,0.310741662979126,1.2086398601531982,0.9651041030883788,1.0,1.0,What style was the Montevideo Cabildo?
+97,Charles Louis Girault and Jules Chifflot León.,French architects Charles Louis Girault and Jules Chifflot León,0.5781726837158203,1.689435958862305,0.7907092571258545,0.888888888888889,0.888888888888889,Who designed the Palacio Taranco?
+98,"Iglesia Punta Carretas means ""Punta Carretas Church"".",Punta Carretas Church,0.4055230617523193,1.962846279144287,0.7541557550430298,0.6,0.6,What does Iglesia Punta Carretas mean?
+99,£3 million.,£3 million,0.3715784549713135,1.1074881553649902,0.9681732654571532,1.0,1.0,How much in contributions did the Labour party get from January to Marrch 2008?
+100,"3 (the cup itself, a lid, and a base)",The trophy comes in three parts,0.5673797130584717,1.8510868549346924,0.3780533671379089,0.1333333333333333,0.1333333333333333,How many parts does the trophy come in? 
+101,The Viceroyalty of the Río de la Plata.,Uruguay,0.362407922744751,1.5756525993347168,0.4846366643905639,0.0,0.0,Jose Batile y Ordonez was president of where? 
+102,C. W. Alcock.,C. W. Alcock,0.2926194667816162,1.4997425079345703,0.9926667809486388,1.0,1.0,Who was the FA secretary in 1871?
+103,"Yes, if the score is tied after the initial match, clubs replay each other once.",Until the 1990s further replays would be played until one team was victorious.,0.3026463985443115,2.0292322635650635,0.4831210970878601,0.1428571428571428,0.1428571428571428,Do clubs replay each other?
+104,1978.,1978,0.4294784069061279,1.1053500175476074,0.9614052772521972,1.0,1.0,When did the Institute of Medicine begin to offer education in medicine?
+105,"Yes, it happened.",inaugural winners Wanderers achieved this feat by the 1876 final,0.4578559398651123,1.4024832248687744,0.048944853246212,0.0,0.0,Did that ever happen? 
+106,Parque Rodó.,north side,0.4114081859588623,1.1664199829101562,0.0051890527829527,0.0,0.0,What side has an artificial lake with a little castle?
+107,The Taff Vale Case was a 1901 UK court ruling that Trades Unions in the United Kingdom could no longer donate money to fund the election campaigns and wages of Labour MPs.,a dispute between strikers and a railway company,0.3242104053497314,2.6180241107940674,0.3639972805976867,0.1,0.1,What was the Taft Vale Case?
+108,The 20th century.,early 20th century,0.7756204605102539,1.1979150772094729,0.8956294655799866,0.6666666666666666,0.6666666666666666,When did the British invade Tibet?
+109,"The Pall Mall Restaurant in London, four weeks after the 1872 final.",the Pall Mall Restaurant in London,0.2709517478942871,1.9486029148101809,0.7737643122673035,0.6666666666666666,0.6666666666666666,Where was the first trophy presented? 
+110,The Emirates FA Cup.,The Emirates FA Cup,0.2891860008239746,1.352759838104248,0.9896088242530824,1.0,1.0,What is the competition called now? 
+111,"The Bay of Montevideo, which forms a natural harbour.",The port on Montevideo Bay,0.328744888305664,1.5235192775726318,0.8196063041687012,0.4285714285714285,0.2857142857142857,What gives natural protection to ships in Montevideo?
+112,Pocitos.,Pocitos,0.5017862319946289,1.3536880016326904,0.975835144519806,1.0,1.0,What district has many homes built by Bello and reboratti?
+113,"Yes, the Rambla was previously called Rambla Naciones Unidas.",formerly named the UEFA Cup; until 1998,1.6486783027648926,1.9038589000701904,0.1778599619865417,0.125,0.125,Did that used to have a different name?
+114,10 May 2010.,10 May 2010,0.4813089370727539,1.2537639141082764,0.9690914750099182,1.0,1.0,WHen did Brown announce his intention to stand down?
+115,"The Royal Box at Wembley Stadium, or on a podium on the pitch at Cardiff.",", the presentation is made at the Royal Box",0.2333707809448242,1.761274814605713,0.5927693247795105,0.4347826086956521,0.2608695652173913,Where is he cup presentation made? 
+116,An alcalde (or alcaldesa if female).,an alcalde,0.3224120140075683,1.4775078296661377,0.7981773614883423,0.5,0.5,What is the head of each Municipio called?
+117,Uruguay.,Uruguay,0.3972349166870117,1.0128512382507324,0.964796245098114,1.0,1.0,Jose Batile y Ordonez was president of where? 
+118,Manchester United (in 1999-2000),"Manchester United did not enter the 1999–2000 FA Cup,",0.297386884689331,1.7016897201538086,0.6195473074913025,0.5333333333333333,0.5333333333333333,What clubs have missed the competition? 
+119,"Yes, Sir Alex Ferguson later admitted regret regarding Manchester United's withdrawal from the 1999-2000 FA Cup.",Sir Alex Ferguson later admitted his regret regarding their handling of the situation.,0.3614568710327148,2.0034797191619877,0.7393706440925598,0.5161290322580646,0.5161290322580646,Did the club later regret their choice? 
+120,"The FA Cup games are broadcast on various channels, including ITV, BT Sport, and Sky Sports, with the final being shown live on ITV.",", FA Cup matches are shown live by ITV across England and Wales, with UTV broadcasting to Northern Ireland",3.9007527828216553,2.6059491634368896,0.8319091796875,0.4285714285714285,0.2857142857142857,How are the games broadcast now? 
+121,There is no information about Father Jose Manuel Perez Castellano in the provided context.,1815,0.2535011768341064,1.8277521133422847,0.0398414954543113,0.0,0.0,In what year do most  Scholars agree the Italian Unification began?
+122,Carrasco.,Carrasco,0.361372709274292,1.3097336292266846,0.9817534685134888,1.0,1.0,Where is the British Schools of Montevideo located?
+123,Music in Montevideo.,music,0.4137740135192871,1.4674057960510254,0.5404955148696899,0.5,0.5,Ann Arbor has one of the leading programs in what subject?
+124,"In the event of a tie, the match is replayed once.",fixtures ending in a tie are replayed once only,0.4499824047088623,1.859891414642334,0.8321620225906372,0.5,0.5,What happens in the event of a tie?
+125,"57,913.","57,913",4.074584245681763,1.1518335342407229,0.9817956686019896,1.0,1.0,How many inhabitants did Montevideo have in 1860?
+126,The semi-finals have been played exclusively at the rebuilt Wembley Stadium since 2008.,e semi-finals have been played exclusively at the rebuilt Wembley Stadium,0.8248195648193359,1.8151264190673828,0.8904702067375183,0.8461538461538461,0.8461538461538461,Where are the semi finals played?
+127,Joaquín Torres García.,Torres Garcia,0.2888007164001465,1.4535841941833496,0.8658190965652466,0.2857142857142857,0.2857142857142857,Manolita Pina Torres was the widow of who?
+128,Montevideo.,Montevideo,0.3702120780944824,1.3593370914459229,0.9802385568618774,1.0,1.0,Where is the Uruguayan Basketball League headquartered?
+129,12,12,0.3342282772064209,1.2137150764465332,1.0000001192092896,1.0,1.0,How many counties did New York originally have?
+130,"To give Uruguayan children a complete education, on par with the best schools of the United Kingdom.",to give Uruguayan children a complete education,0.3550066947937011,1.903960943222046,0.8894944190979004,0.5833333333333334,0.5833333333333334,What was the British Schools of Montevideo original purpose?
+131,The Ciudad Vieja area.,Ciudad Vieja area,0.3213062286376953,1.4599227905273438,0.9725712537765504,0.8571428571428571,0.8571428571428571,Where is tourism in Montevideo centered in?
+132,Montevideo.,Montevideo,0.41615891456604,1.3555810451507568,0.9802385568618774,1.0,1.0,Where is the Uruguayan Basketball League headquartered?
+133,Roman Catholicism.,Roman Catholicism,0.2871150970458984,1.105097770690918,0.9299674034118652,1.0,1.0,What religion was the general population converted to?
+134,The Christian Brothers of Ireland Stella Maris College is located in the wealthy residential southeastern neighborhood of Carrasco.,Carrasco,0.3628458976745605,1.7019622325897217,0.3576091527938843,0.1052631578947368,0.1052631578947368,Where is the British Schools of Montevideo located?
+135,"No, the loser does not gain anything.",the losing FA Cup finalist was given the Europa League place,0.428063154220581,1.5966222286224363,0.1967208683490753,0.1111111111111111,0.1111111111111111,Does the loser of the cup gain anything?
+136,Jorge Burgues.,Jorge Burgues,0.3901643753051758,1.3543894290924072,0.9880064725875854,1.0,1.0,Who was one significant early italian resident? 
+137,1996,1996,0.2926549911499023,1.0635607242584229,1.0,1.0,1.0,When did New York State ban unmarked cars for traffic cops?
+138,"156,205.","156,205",0.2937676906585693,1.163970947265625,0.9706205129623412,1.0,1.0,What was the party membership at the end of 2009?
+139,1955.,1955,0.3383345603942871,1.3523151874542236,0.9697723984718324,1.0,1.0,When did Tribhuvan die?
+140,2 September 1807.,2 September,0.6932947635650635,1.2488532066345217,0.541589081287384,0.8,0.8,When did the Spanish recapture the city of Montevideo?
+141,Montevideo.,Montevideo,0.2864360809326172,1.3581459522247314,0.9802385568618774,1.0,1.0,Where is the Uruguayan Basketball League headquartered?
+142,1894.,1894,0.9173200130462646,1.35951828956604,0.9581936597824096,1.0,1.0,When was the Armenian Mosaic re-discovered?
+143,Wanderers won the first two FA Cups in 1872 and 1873.,Wanderers were crowned the winners,0.3945512771606445,1.9958372116088867,0.5946147441864014,0.25,0.25,Who won the first and second cups? 
+144,It is a traditional Uruguayan festival.,Parade of the Calls,0.2820329666137695,1.6115188598632812,0.1655080318450927,0.0,0.0,What does Desfile de las Llamadas mean?
+145,"92 professional clubs in the Premier League and Football League (Levels 1 to 4), and several hundred ""non-league"" teams in Steps 1 to 6 of the National League System (Levels 5 to 10).",Bolton Wanderers and Manchester City,0.382580041885376,3.511592149734497,0.4220001697540283,0.0512820512820512,0.0512820512820512,What clubs competed in the match? 
+146,Hospital Vilardebó.,Hospital Vilardebó,0.4792876243591308,1.0285849571228027,0.9839555025100708,1.0,1.0,What is the only psychiatric hospital in Montevideo?
+147,A siege of eight years.,a siege,0.8184733390808105,1.215484380722046,0.7541012763977051,0.5714285714285715,0.5714285714285715,What did Montevideo suffer between 1843 and 1851?
+148,David Shackleton.,David Shackleton,0.3328976631164551,1.105142593383789,0.9811694622039796,1.0,1.0,Who was Keir Hardie's opponent?
+149,No.,The final has never been contested by two teams from outside the top division,0.3765702247619629,1.2446446418762207,0.0930327996611595,0.0,0.0,Has the final been played by a two clubs outside of the top divisions? 
+150,"No, it was held in Millennium Stadium only between 2001 and 2006.","Prior to rebuilding, the final was hosted by the original Wembley Stadium",0.4188301563262939,2.062897205352783,0.4144848883152008,0.1666666666666666,0.1666666666666666,Was it always held in Millennium Stadium? 
+151,The text does not mention the people of London's opinion on the action.,the move seen as both unfair to fans of teams located far from London,3.5596628189086914,1.644376516342163,0.3687297999858856,0.2142857142857142,0.2142857142857142,Do the people of London agree with this action?
+152,St. Brendan’s School.,St.Brendan´s school,0.5119974613189697,1.4317166805267334,0.9728414416313172,1.0,1.0,What is the only school in the country implementing three international Baccalaureate Programmes?
+153,1838.,27 May 1838,0.6486616134643555,1.362194538116455,0.8336828351020813,0.5,0.5,When did Manuel Oribe pass a decree establishing the Greater University of the Republic?
+154,They were striking for higher pay-rises.,higher pay,0.7790002822875977,1.3503084182739258,0.5602697730064392,0.4444444444444445,0.4444444444444445,Why were they striking?
+155,The first six rounds are the Qualifying Competition.,first six rounds,0.2714574337005615,1.3431804180145264,0.7199011445045471,0.5454545454545454,0.5454545454545454,What rounds are the qualifiers?
+156,"Yes, several Level 2 clubs have reached the finals, including Sunderland (1973), West Bromwich Albion (1931), and Southampton (1976).",Level 2 have never reached the final.,1.3388595581054688,2.8006601333618164,0.4508507549762726,0.4615384615384615,0.4615384615384615,Has a level 2 club reached the finals ever?
+157,The provinces of Rio de la Plata.,Rio de la Plata,0.508538007736206,1.6197056770324707,0.8332072496414185,0.7272727272727273,0.7272727272727273,After the Revolution of 1810 there was a subsequent uprising of what provinces? 
+158,"Yes, the FA Cup winners qualify for the UEFA Europa League.",The FA Cup winners qualify for the following season's UEFA Europa League,0.2670061588287353,1.4943490028381348,0.8676352500915527,0.8333333333333333,0.8333333333333333,Do the FA Cup winners qualify for anything?
+159,"New Labour, New Life For Britain","New Labour, New Life For Britain",0.2977690696716308,1.2440197467803955,1.0,1.0,1.0,What was this manifesto called?
+160,Yes.,competition was suspended due to the First World War,0.5488052368164062,1.2379963397979736,0.0749854519963264,0.0,0.0,Was competition suspended due to the first world war? 
+161,Upper and upper-middle-class apartment buildings.,modern apartment buildings,0.3871006965637207,1.5749380588531494,0.7358301877975464,0.4,0.4,What types of apartment buildings were constructed during the boom of the 1970's and 1980's?
+162,"Yes, the cup was stolen in 1895 and was never recovered.","his family kept it in their possession, out of view, until putting it up for auction in 2005",0.3060848712921142,1.900683879852295,0.356137752532959,0.0689655172413793,0.0689655172413793,Was the cup lost during that time? 
+163,The Santa Lucía River.,Santa Lucía River,0.7091503143310547,1.195702075958252,0.97211092710495,0.888888888888889,0.888888888888889,What river forms a natural border between Montevideo and San Jose Department?
+164,The National Party.,National Party,0.8407447338104248,1.110185146331787,0.9491369724273682,0.8,0.8,Who represented Oribe's Blancos?
+165,The eastern part of the Old District in Montevideo.,the eastern part of the Old District,0.5325436592102051,1.5949835777282717,0.6326861381530762,0.8750000000000001,0.8750000000000001,Where is Shannon Irish pub located?
+166,David Gold won the bid for the 1895 replica of the FA Cup.,David Gold,0.3483405113220215,1.9207122325897217,0.5014525651931763,0.2666666666666667,0.2666666666666667,Who won the bid? 
+167,1880.,21 May 1880,0.2757999897003174,1.2003824710845947,0.8366383910179138,0.5,0.5,When did the Hospital Vilardebo open?
+168,The Museo del Gaucho y de la Moneda is located in the Centro.,the Centro,0.3823261260986328,2.0736076831817627,0.4308235049247741,0.2666666666666667,0.2666666666666667,Where is the Museo de Guacho y de la Moneda located?
+169,The question is not clear. Could you please rephrase it?,most rounds were played a few weeks earlier than normal as an experiment,0.2776718139648437,1.8001954555511477,0.0051943836733698,0.0,0.0,Why was that? 
+170,The Cementerio del Norte is the largest cemetery in Montevideo.,Cementerio del Norte,0.2637372016906738,1.72601580619812,0.5393261909484863,0.4615384615384615,0.4615384615384615,What is the largest cemetery?
+171,There is no information about movie theater companies in the given context.,two,0.2711975574493408,1.8246383666992188,-0.0232797898352146,0.0,0.0,How many types are Nepali works of art typically divided into?
+172,The final is played at the rebuilt Wembley Stadium.,The final has been played at the rebuilt Wembley Stadium,0.9438531398773192,1.4388079643249512,0.9808273911476136,0.8421052631578948,0.8421052631578948,Where is the final played now? 
+173,"Unfortunately, the text does not mention the construction or existence of the Montevideo Cabildo.",between 1804 and 1869,0.4168510437011719,2.1082708835601807,0.111957736313343,0.0,0.0,Between what years was the Montevideo Cabildo built?
+174,The Rambla (the coastal avenue) goes along the entire coastline of Montevideo.,The Rambla,0.6728456020355225,1.7616541385650637,0.4811618030071258,0.2857142857142857,0.2857142857142857,What avenue goes along the entire coastline of Montevideo?
+175,"Yes, the media gives significant focus to ""giant killers"" who achieve unlikely victories in the FA Cup.",". It is considered particularly newsworthy when a top Premier League team suffers an upset defeat, or where the giant-killer is a non-league club",0.3333852291107178,2.196380138397217,0.6247406005859375,0.1428571428571428,0.1428571428571428,Does the media showcase giant killers? 
+176,artists.,artists,1.572859764099121,1.2528986930847168,0.959026038646698,1.0,1.0,Who did downloaders want to help by avoiding studios and record companies?
+177,"No, the competition is open to clubs down to Level 10 of the English football league system.",The competition is open to any club down to Level 10 of the English football league system,0.5216352939605713,2.1623237133026123,0.8993844985961914,0.9411764705882352,0.9411764705882352,Is the competition open to anyone? 
+178,"No, Tottenham Hotspur remains the only non-league team to win the FA Cup.",2010–11 and 2012–13,0.283900499343872,2.050799369812012,0.0464396588504314,0.0,0.0,Did that ever happen again? 
+179,The BBC.,the BBC,0.3871195316314697,1.2565968036651611,0.9811015129089355,1.0,1.0,Who used to brodcast the matches on the radio? 
+180,Tourism.,Tourism,0.3244543075561523,1.2617661952972412,0.9584835767745972,1.0,1.0,What accounts for much of Uruguay's economy?
+181,September 1992.,September 1992,0.3236217498779297,1.1572465896606443,0.9750969409942628,1.0,1.0,WHen was Black Wednesday?
+182,"The Millennium Stadium in Cardiff, Wales.","In 2005, both were held at the Millennium Stadium.",0.3807873725891113,1.541090726852417,0.7057638168334961,0.5333333333333333,0.4,Where was the cup held in 2005?
+183,"The stolen FA Cup was never recovered, but it's believed to have been melted down to make counterfeit coins.","Christie's auction house on 19 May 2005 for £420,000 (£478,400 including auction fees and taxes)",0.3022847175598144,1.9049038887023928,0.2082752734422683,0.0526315789473684,0.0526315789473684,Where did it sell? 
+184,"1,325,968.","1,325,968 persons",0.2647490501403808,1.5194904804229736,0.7901734709739685,0.8571428571428571,0.8571428571428571,"According to the census survey carried out between 15 June and 31 July 2004, what was Montevideo's population?"
+185,The Montevideo Metropolitan Cathedral.,Montevideo Metropolitan Cathedral,0.3518316745758056,1.5154433250427246,0.9832919836044312,0.8571428571428571,0.8571428571428571,What is the burial place of Fructuoso Rivera?
+186,2000.,(2000,0.2991600036621094,1.3615520000457764,0.6934834122657776,1.0,1.0,What year was the Telecommunications Tower constructed?
+187,The first 6 rounds are the Qualifying Competition.,The first six rounds are qualifiers,0.3248939514160156,1.4341328144073486,0.8758541941642761,0.7142857142857143,0.7142857142857143,What are the first 6 rounds? 
+188,"Clubs in the National League System (Levels 5 to 10) can also play, provided they have played in the FA Cup, FA Trophy, or FA Vase in the previous season.","Clubs in the next six levels (non-league football) are also eligible provided they have played in either the FA Cup, FA Trophy or FA Vase competitions",0.2945826053619385,2.7365801334381104,0.8374661207199097,0.6666666666666667,0.631578947368421,Who else can play? 
+189,1923,1922–23,0.2824041843414306,1.2901113033294678,0.7827455997467041,0.0,0.0,When did Wembly stadium open? 
+190,Villa Park in Birmingham (55 times),Villa Park in Birmingham (55 times),0.3565175533294678,1.5645339488983154,1.0000001192092896,1.0,1.0,What was the top most used venue?
+191,Ramsay MacDonald was elected as Secretary.,Ramsay MacDonald,0.3308024406433105,1.2891807556152344,0.7567600607872009,0.5,0.5,Who was voted the first leader of the Labour Party?
+192,"The winner of the FA Cup is Arsenal, who won it in 2015.",FA Cup winners enter the Europa League at the group stage.,0.4743452072143554,1.6758322715759275,0.5965157151222229,0.4166666666666666,0.1666666666666666,what about the FA Cup winner?
+193,"No, the FA Cup is only open to English football clubs.",Channel Island club entered the competition when Guernsey F.C. competed for the first time.,2.1729393005371094,1.7578797340393066,0.3380873799324035,0.1538461538461538,0.0769230769230769,Has any other  country been allowed to enter the competition since? 
+194,"Lorry drivers, railway workers, car workers, local government workers, and hospital workers.",lorry drivers,0.2582786083221435,1.7667567729949951,0.6655660271644592,0.2857142857142857,0.2857142857142857,Who were some of the people striking in 1978-1979?
+195,"A ""giant killer"" is a team that beats a higher-ranked team in the FA Cup competition.","unlikely victories in the earlier rounds of the competition, where lower ranked teams beat higher placed opposition",0.6521704196929932,1.861287832260132,0.348708838224411,0.4117647058823529,0.1764705882352941,What is a giant killer? 
+196,The Colorado Party.,Colorado Party,0.3534755706787109,1.3540496826171875,0.9542359113693236,0.8,0.8,Who represented Rivera's Colorados?
+197,1856.,1856,0.2686655521392822,1.2091286182403564,0.9725230932235718,1.0,1.0,When did Heine die?
+198,1888-89 season.,"modern cup was beginning to be established by the 1888–89 season,",0.6242341995239258,1.5088188648223877,0.5587888956069946,0.4,0.4,When was the modern cup established? 
+199,"People were critical of Manchester United's decision to withdraw from the 1999-2000 FA Cup, feeling it weakened the tournament's prestige.",drew considerable criticism as this weakened the tournament's prestige,0.2450292110443115,2.6206722259521484,0.4944982826709747,0.3636363636363636,0.3636363636363636,How did people feel about Manchester's decision? 
+200,US President George W. Bush in supporting the Iraq War.,President George W. Bush,0.253087043762207,1.4837543964385986,0.7062399983406067,0.5714285714285715,0.5714285714285715,Who did Kerry criticize during the 2004 campaign?
+201,Portuguese incursions.,frequent insurrections by the Spaniards,0.3180305957794189,1.109407901763916,0.3630415797233581,0.0,0.0,the subsidiary forts were established to stop what?
+202,"The Dirección Nacional de Transporte (DNT), part of the national Ministry of Transport and Public Works.",Dirección Nacional de Transporte,0.3502640724182129,2.2733073234558105,0.7379739284515381,0.4545454545454545,0.4545454545454545,Who is responsible for the organization and development of Montevideo's transport infrastructure?
+203,763 clubs competed in the 2011-12 FA Cup.,763 clubs,0.2852065563201904,1.8416152000427248,0.6875900030136108,0.3636363636363636,0.3636363636363636,How many clubs competed in 20011-12?
+204,Rotherham United and Scunthorpe United.,Rotherham United eliminated Scunthorpe United.,0.288017988204956,1.7446527481079102,0.8045087456703186,0.8000000000000002,0.8000000000000002,What clubs were playing during the first penalty?
+205,"The text describes various events and developments in the Labour Party, Uruguay's history, and the FA Cup.","the FA Cup Final was played before the Premier League season had finished, to allow Wembley Stadium to be ready for the UEFA Champions League final",0.2511241436004638,2.2195065021514893,0.3033745586872101,0.2272727272727273,0.1363636363636363,What happened during those years? 
+206,1884.,1884,0.7644681930541992,1.356750249862671,0.965338945388794,1.0,1.0,When did Namibia become German Imperial protectorate?
+207,42,42,0.3179783821105957,1.013719081878662,1.0,1.0,1.0,How many states' down-ballot candidates did Kerry help support?
+208,1854-1861.,1854 to 1861,0.316119909286499,1.5034761428833008,0.9576231837272644,0.8,0.8,Between what years were the first natural gas street lights constructed?
+209,"Yes, 8 clubs have won the FA Cup from outside the top division: Notts County (1894), Tottenham Hotspur (1901), Wolverhampton Wanderers (1908), Barnsley (1912), West Bromwich Albion (1931), Sunderland (1973), Southampton (1976), and West Ham United (1980).",there have only been eight winners who weren't in the top flight,0.5897934436798096,4.854341268539429,0.3609018623828888,0.12,0.12,Has the final been won by a club outside of the top divisions? 
+210,The Montevideo Crandon Institute.,The Montevideo Crandon Institute,0.3571205139160156,1.5694019794464111,0.9918108582496644,1.0,1.0,What is the first academic institution in South America where a home economics course was taught?
+211,El Farolito is located in the old part of the city.,the old part of the city,0.4127109050750732,1.8741004467010496,0.4833829402923584,0.7058823529411764,0.7058823529411764,Where is El Farolito located?
+212,30%,30%,2.8762400150299072,1.1581971645355225,1.0,1.0,1.0,What percent of Armenia speaks Russian?
+213,"MacDonald formed a separate party, the National Labour Organisation, after he agreed to form a ""National Government"" with the Conservatives and the Liberals, which caused anger among Labour Party members who felt betrayed by his actions.",he and his supporters were promptly expelled,0.3614635467529297,2.885929107666016,0.307455837726593,0.1395348837209302,0.1395348837209302,What caused MacDonald to form a separate party?
+214,2002.,2002,0.329904556274414,1.3679025173187256,0.9519264101982116,1.0,1.0,When did Sheptycki write about police cooperation?
+215,2004.,2004,0.442227840423584,1.3832690715789795,0.9544477462768556,1.0,1.0,When did India and Pakistan begin serious peace talks?
+216,2011,for the 2010–11 to 2012–13 season,0.904515027999878,1.2882342338562012,0.6038719415664673,0.0,0.0,What year did rebecca host the match? 
+217,A French-style city park.,a French-style city park,0.2434196472167968,1.4530134201049805,0.99134624004364,1.0,1.0,Parque Rodo was originally conceived as what?
+218,"The Labour Party has twenty MEPs in the European Parliament, sitting in the Socialists and Democrats Group.",twenty,0.3299412727355957,1.901092290878296,0.2376492321491241,0.1111111111111111,0.1111111111111111,What was the lowest age a soldier could be conscripted after the end of Emperor Zhao's tenure?
+219,Pablo Atchugarry.,Pablo Atchugarry,0.3337008953094482,1.4609310626983645,0.9884508848190308,1.0,1.0,The square contains a sculpture by what renowned Uruguayan sculptor? 
+220,a municipal library for children.,a municipal library,0.9669058322906494,1.2977192401885986,0.8686795234680176,0.7499999999999999,0.7499999999999999,What does the little castle on the north side of the park house?
+221,An Act of March 1907.,an Act of March 1907,0.2849600315093994,1.5573742389678955,0.9922335147857666,1.0,1.0,Parque Batlle was originally proposed by what?
+222,Teodoro Vilardebó Matuliche.,Teodoro Vilardebó Matuliche,0.4301605224609375,1.547311305999756,0.9754371643066406,1.0,1.0,Who is Hospital Vilardebo named after?
+223,Citizens registered in the constituency elect the mayor of the political municipalities.,the citizens registered in the constituency,0.2931849956512451,1.521953582763672,0.7189430594444275,0.6666666666666666,0.5555555555555556,Who elects the mayor of the political municipalities? 
+224,"Manolita Piña Torres, the widow of Joaquín Torres García.",Manolita Piña Torres,0.4376420974731445,1.9768309593200684,0.8557990789413452,0.5,0.5,Who established The Museo Torres Garcia?
+225,"No, he did not act alone.",He claimed to have carried out the robbery with two other men,0.3597979545593261,1.2886369228363037,0.3669567704200744,0.1111111111111111,0.1111111111111111,Did he act alone? 
+226,1991.,1991,0.2711226940155029,1.108598232269287,0.9609361290931702,1.0,1.0,When did Armenia leave the USSR?
+227,46 kilometres (29 mi),46 kilometres,0.3246920108795166,1.2481403350830078,0.8850592374801636,0.6666666666666666,0.6666666666666666,How far is to the neighboring capitol of Canelones?
+228,The National Government won the 1931 election in an overwhelming victory.,National Government,0.3859167098999023,1.5793509483337402,0.316030353307724,0.3076923076923077,0.3076923076923077,Who won the 1931 election?
+229,"Yes, Welsh clubs that play in English leagues are eligible to enter the FA Cup.","Welsh sides that play in English leagues are eligible,",0.3835945129394531,1.674874782562256,0.7283220291137695,0.6666666666666667,0.6666666666666667,May Welsh clubs enter the competition? 
+230,687 clubs.,687,0.324188232421875,1.3412439823150637,0.6265673637390137,0.6666666666666666,0.6666666666666666,How many clubs entered in 2006-07?
+231,A natural harbour.,a natural harbour,0.9822287559509276,1.1042745113372805,0.9817795753479004,1.0,1.0,What does the Bay of Montevideo form?
+232,The Liberal Democrats.,Liberal Democrats,0.2777636051177978,1.1054339408874512,0.8899669051170349,0.8,0.8,What was the merger of SDP and the Liberals called?
+233,22 times.,. It was played 22 times in the Oval,0.3157439231872558,1.3441805839538574,0.5279600620269775,0.4,0.4,How many times was the FA cup playing in the Oval ?
+234,"The Solís Theatre is Uruguay's oldest theatre, built in 1856.",The Solís Theatre,0.387103796005249,1.9720280170440676,0.6206713318824768,0.5,0.5,What is the most prominent theater in Uruguay?
+235,"The text does not specify the next elections, but it mentions the 2010 general election and the 2007 elections in Scotland.",May 2007,0.2767314910888672,2.1763782501220703,0.3254873752593994,0.0869565217391304,0.0869565217391304,When were the next elections?
+236,Hospital Maciel.,Hospital Maciel,0.5222766399383545,1.199566125869751,0.9872275590896606,1.0,1.0,What is one of the oldest hospitals in Uruguay?
+237,11 June 1833.,11 June 1833,0.2947516441345215,1.5218710899353027,0.984161615371704,1.0,1.0,When did the process of funding the country's public university begin?
+238,1998.,1998,0.3194241523742676,1.1120357513427734,0.9467677474021912,1.0,1.0,When did Stein win a Pulitzer?
+239,32 teams progress to the first round of the Competition Proper.,92 professional teams.,0.4086141586303711,1.804326057434082,0.5603399276733398,0.1428571428571428,0.1428571428571428,How many teams in the first round? 
+240,"If the pitch is not up to par, the match may be replayed on a suitable pitch.",they had to switch their tie to the ground of another eligible entrant with a natural grass pitch.,0.3836948871612549,1.853870868682861,0.4396413564682007,0.2285714285714285,0.2285714285714285,What happens if the pitch is not up to par? 
+241,7 clubs have won the FA Cup as part of a league and cup double.,Seven clubs have won the FA Cup as part of a League and Cup double,0.3286383152008056,1.9934043884277344,0.9902541041374208,0.9333333333333332,0.9333333333333332,How many clubs have won the fa cup as part of a league cup double? 
+242,129,129,0.3078370094299316,1.0169715881347656,1.0,1.0,1.0,How many delegates passed the motion?
+243,"1979, 1983, 1992, 2007, and 2010.",1979,0.3330662250518799,1.907969951629639,0.7383668422698975,0.2857142857142857,0.2857142857142857,When did UNESCO make Boudhanath a World Heritage Site?
+244,"The first FA Cup Final on Radio was in 1926 between Bolton Wanderers and Manchester City, but it was only broadcast in Manchester.",The first FA Cup Final on Radio was in 1926,0.2902498245239258,2.193549633026123,0.8769310712814331,0.6060606060606061,0.6060606060606061,What was the first Fa cup radio broadcast? 
+245,1839.,1839,0.282085657119751,1.2037005424499512,0.9706436395645142,1.0,1.0,When was Grand Bassa founded?
+246,"In front of Plaza Zabala, in the heart of Ciudad Vieja.",the heart of Ciudad Vieja,0.3798034191131592,1.7872200012207031,0.678412914276123,0.625,0.625,Where is the Palacio Taranco located?
+247,The competition is open to any eligible club down to Level 10 of the English football league system.,any eligible club,0.4798519611358642,1.8037986755371092,0.6324827671051025,0.2857142857142857,0.2857142857142857,Who is the competition open too?
+248,1911-1915.,1911 to 1915,0.42620849609375,1.506831407546997,0.9410436153411864,0.8,0.8,Between what years was Jose batlle y Ordonez president of Uruguay? 
+249,"Yes, all clubs in the top four levels (the Premier League and the three divisions of the Football League) are automatically eligible.",. All clubs in the top four levels (the Premier League and the three divisions of the Football League) are automatically eligible,0.4059901237487793,2.014432430267334,0.9428075551986694,0.9767441860465116,0.9767441860465116,Is there anyone automatically eligible? 
+250,1998.,1998,0.4019660949707031,1.1129460334777832,0.9467677474021912,1.0,1.0,When did Stein win a Pulitzer?
+251,1930.,1930,0.279689073562622,1.2089002132415771,0.9694188833236694,1.0,1.0,When did Charles Potter and Clara Potter publish their first writings on Humanism?
+252,258,258,0.3360016345977783,1.016505479812622,1.0,1.0,1.0,How many seats did Labour win in 2010?
+253,"Yes, several clubs have won both the FA Cup and League Cup in the same season, including Arsenal (1993), Liverpool (2001), and Chelsea (2007).",Arsenal became the first side to win both the FA Cup and the League Cup in the same season,22.245516538619995,2.926886320114136,0.7517987489700317,0.5581395348837209,0.5116279069767442,Has any club won both in a same season? 
+254,1866.,1866,0.4458465576171875,1.35425066947937,0.9524548053741456,1.0,1.0,When was the name Oklahoma suggested?
+255,1979,1979,0.3881325721740722,1.058912754058838,0.9999999403953552,1.0,1.0,When did UNESCO make Boudhanath a World Heritage Site?
+256,One vote.,one vote,0.4343688488006592,1.0638971328735352,0.9312372207641602,1.0,1.0,How many votes did Keir Hardie win by?
+257,1863.,1863,0.4817111492156982,1.3520207405090332,0.967383086681366,1.0,1.0,When did Murray report people missing because of Blackbirders?
+258,1 March 2003.,1 March 2003,43.58813095092773,1.3714463710784912,0.9825197458267212,1.0,1.0,When was the General Artigas Central Station abandoned?
+259,"""It's Time for a Change""","""It's Time for a Change""",0.3322839736938476,1.2965564727783203,1.0000001192092896,1.0,1.0,What was Kinnocks party theme?
+260,2,two,0.2735598087310791,1.2441778182983398,0.8183472156524658,0.0,0.0,How many types are Nepali works of art typically divided into?
+261,1849.,18 July 1849,0.3591299057006836,1.3645741939544678,0.8106985092163086,0.5,0.5,When was the University of the Republic founded?
+262,1975.,1975.,0.8521182537078857,1.3636996746063232,1.0000001192092896,1.0,1.0,When did the Montevideo Cabildo become a National Heritage Site?
+263,Raul Sichero.,Raul Sichero,0.2854373455047607,1.4694347381591797,0.9824540615081788,1.0,1.0,Who designed the Edificio Panamericano?
+264,1939.,13 December 1939,0.3064699172973633,1.354128360748291,0.7877036333084106,0.5,0.5,When year did the Battle of the River Plate take place?
+265,"FIFA One Star quality, or Two Star for ties involving one of the 92 professional clubs.","the pitch must be of FIFA One Star quality, or Two Star for ties if they involve one of the 92 professional clubs.",0.3073956966400146,1.811880111694336,0.8238781094551086,0.8205128205128205,0.8205128205128205,What is the required quality of the pitch? 
+266,The Memorial Hall on Farringdon Street.,Memorial Hall,0.3760583400726318,1.3510792255401611,0.7898622751235962,0.5,0.5,WHere was the proposed conference held?
+267,Joaquín Torres García's unusual portraits of historical icons.,Joaquín Torres García,0.2902040481567383,1.762216329574585,0.7142635583877563,0.625,0.625,The Museo Torres Garcia exhibits whose unusual portraits? 
+268,"The Treinta y Tres Orientales (""Thirty-Three Orientals"").",Treinta y Tres Orientales,0.2749035358428955,1.9160499572753904,0.8192366361618042,0.6666666666666666,0.6666666666666666,What was Juan Antonio Lavalleja's band caled? 
+269,3 February 1807.,3 February 1807,0.3195569515228271,1.2416372299194336,0.9792998433113098,1.0,1.0,When did British troops occupy the city of Montevideo?
+270,Juan Pedro Toni.,professor Juan Pedro Toni,0.5637736320495605,1.2029573917388916,0.8052229881286621,0.8571428571428571,0.8571428571428571,Who is the headmaster of the Christian Brothers of Ireland Stella Maris College?
+271,1828.,1828,0.3073937892913818,1.1033201217651367,0.9623295068740844,1.0,1.0,When did the Russo-Persian War end?
+272,"Yes, all clubs entering the FA Cup must have a suitable stadium.",All clubs entering the competition must also have a suitable stadium.,0.3465263843536377,1.839188575744629,0.872893214225769,0.7826086956521738,0.7826086956521738,Do I need a stadium to compete? 
+273,12 games by Fulham in 1975.,"12 games over six rounds, which remains the most games played by a team to reach a final",0.3068554401397705,1.7163124084472656,0.3191344141960144,0.25,0.25,What is the most games played a team to reach the final?
+274,José Gervasio Artigas.,José Gervasio Artigas,0.306758165359497,1.55534029006958,0.9893325567245485,1.0,1.0,Who was the Uruguayan revolutionary that united with others from Buenos Aires?
+275,The Winter of Discontent.,Winter of Discontent,0.4286723136901855,1.4471421241760254,0.9717786312103271,0.8571428571428571,0.8571428571428571,What was this strike called?
+276,1828,1828,0.4124822616577148,1.3024303913116455,0.9999999403953552,1.0,1.0,When did the Russo-Persian War end?
+277,"Yes, 86% of fans oppose Wembley semi-finals according to a 2013 poll by The Guardian.",86% opposition to Wembley semi-finals.,0.41064453125,2.377819776535034,0.775702178478241,0.4545454545454545,0.3636363636363636,Do people oppose of using the new Webly Stadium?
+278,1979,1993,0.8902771472930908,1.2917449474334717,0.5372970104217529,0.0,0.0,When did Nadelmann write about global policing?
+279,September 1996.,September 1996,0.3020253181457519,1.4191949367523191,0.9697780013084412,1.0,1.0,When was ORT Uruguay officially certified as a private university?
+280,43 metres (141 ft),43 metres,0.5248842239379883,1.2556064128875732,0.8494310975074768,0.6666666666666666,0.6666666666666666,The city of Montevideo has an average elevation of what?
+281,Lavalleja.,Lavalleja,0.365164041519165,1.3572428226470947,0.977595329284668,1.0,1.0,Manuel Oribe and Fructuoso Rivera fought under whose command?
+282,They were laundered through betting shops at a local racecourse.,stolen silver was being used to forge coins which were then laundered through betting shops at a local racecourse,0.6027231216430664,1.502375841140747,0.7043840885162354,0.6206896551724138,0.6206896551724138,What did they do with those coins? 
+283,1920-1940.,1920 and 1940,0.4865827560424804,1.5098328590393066,0.9564278721809388,0.8,0.8,Between what years did Bello and Reboratti built most of the homes in the Pocitos district? 
+284,8%,14,0.3363890647888183,1.0627915859222412,0.3981245458126068,0.0,0.0,How many Jewish families are there in Swaziland?
+285,"618,271.","618,271",0.575878381729126,1.4134817123413086,0.9813922047615052,1.0,1.0,"According to the census survey carried out between 15 June and 31 July 2004, what was Montevideo's male population?"
+286,1980,1980,0.3384826183319092,1.0572128295898438,1.0,1.0,1.0,In what year did a military coupe overthrow leadership leading to william tubmans death?
+287,660 clubs.,660 clubs entered the competition,0.4439980983734131,1.3441452980041504,0.8024940490722656,0.5714285714285715,0.5714285714285715,How many clubs entered in 2004-05?
+288,Levels 10 of the English football league system.,Premier League and Football League,0.3294589519500732,1.6511049270629885,0.5837395191192627,0.3076923076923077,0.3076923076923077,What league can compete?
+289,Neoclassical.,Neoclassical,0.6675164699554443,1.41882586479187,0.9569213390350342,1.0,1.0,The royal court of Chowmahalla palace is an example what style of architecture?
+290,The Ortiz Taranco brothers.,Ortiz Taranco brothers,0.3718419075012207,1.3093183040618896,0.9769376516342164,0.8571428571428571,0.8571428571428571,The Palacio Taranco was erected to be the residence for whom?
+291,"53,500 square meters.","53,500 square metres",0.2839322090148926,1.525564432144165,0.9297500252723694,0.75,0.75,How much space is World Trade Center 4 projected to have?
+292,Senator Dámaso Antonio Larrañaga.,Senator Dámaso Antonio Larrañaga,0.2963829040527344,1.7294552326202393,0.9846926927566528,1.0,1.0,Who proposed the law that began the process of funding the country's public university?
+293,17,only 24 finalists have come from outside English football's top tier,0.3054132461547851,1.2166752815246582,0.0794027522206306,0.0,0.0,How many second tier have made the finals? 
+294,Levels 5 to 10 of the National League System.,playing at Level 8 of English football,0.4151344299316406,1.7600526809692385,0.5857391357421875,0.25,0.25,What level where they? 
+295,1923,"Lord Kinnaird. Kinnaird died in 1923,",0.3643667697906494,1.2854068279266355,0.3906318545341491,0.2857142857142857,0.2857142857142857,What year did Lord Kinnard die? 
+296,Preston North End in 1889.,Preston North End (1889),1.1562292575836182,1.5513005256652832,0.97472882270813,0.888888888888889,0.888888888888889,Who was the first clubs have won the fa cup as part of a league cup double? 
+297,The Banda Oriental.,the Switzerland of America,0.2489254474639892,1.159811019897461,0.2432191669940948,0.2857142857142857,0.2857142857142857,Uruguay was once dubbed as what?
+298,"Villa Park in Birmingham, Hillsborough in Sheffield, and Old Trafford in Manchester.",semi-finals were played at high-capacity neutral venues around England,0.2742023468017578,1.94626784324646,0.3781622350215912,0.0,0.0,Where did the semi finals take place before then? 
+299,The Montevideo Crandon Institute is the main Methodist educational institution in Uruguay.,The Montevideo Crandon Institute,0.3899188041687011,1.6603386402130127,0.7776743173599243,0.5,0.5,What is the first academic institution in South America where a home economics course was taught?
+300,Villa Dolores.,Villa Dolores,0.3458900451660156,1.202281475067139,0.982141375541687,1.0,1.0,What sub district of Parque Batlle took its name from the original villa of Don Alejo Rossell Y Rius?
+301,1851.,1851,0.2983474731445312,1.119603157043457,0.9688568711280824,1.0,1.0,When did the Rebellion start?
+302,Immediately after the final has finished.,"as soon as the final has finished, in order to be ready in time for the presentation ceremony.",0.4721970558166504,0.9546904563903807,0.7734189033508301,0.3333333333333333,0.3333333333333333,When does the engraving take place? 
+303,2,There have been two designs of trophy in use,0.4051697254180908,1.2439095973968506,0.1297168284654617,0.0,0.0,How many trophy designs have there bee? 
+304,April 1993.,April 1993,0.3391857147216797,1.161590576171875,0.9787160158157348,1.0,1.0,When was the recession declared over?
+305,Manchester United missed the 1999-2000 FA Cup competition because they were already in the inaugural Club World Championship and didn't want to field a weaker side.,The club claimed that they did not want to devalue the FA Cup by fielding a weaker side.,0.2497174739837646,2.807389974594116,0.5364547967910767,0.5217391304347826,0.3478260869565217,Why did they miss that competition? 
+306,The Liberal Government overturned the Taff Vale judgement.,Liberal Government,0.243229866027832,1.65944504737854,0.3753438591957092,0.4,0.4,Who overturned the Taft Vale judgement?
+307,"Black Wednesday was a financial crisis in the UK on September 16, 1992, when the pound sterling was forced out of the European Exchange Rate Mechanism (ERM), leading to a sharp devaluation of the pound.",economic disaster,0.2750203609466553,3.0120346546173096,0.4022446870803833,0.0,0.0,What was Black Wednesday?
+308,1853.,1853,0.2810900211334228,1.354630708694458,0.9680261015892028,1.0,1.0,When did Washington University secure its charter?
+309,Henry (Harry) James Burge claimed to have committed the theft.,Sheffield United,0.3386456966400146,1.5424952507019043,0.1903048455715179,0.0,0.0,For which team was the first goal scored?
+310,"Yes, Cardiff City, a Welsh team, won the FA Cup in 1927.","Cardiff City (the only non-English team to win the tournament, in 1927)",0.3111236095428467,2.047184705734253,0.7517715692520142,0.48,0.48,Has a Welsh team ever won a competition? 
+311,18 de Julio Avenue.,18 de Julio Avenue,0.706512451171875,1.4621963500976562,0.989377498626709,1.0,1.0,Plaza Independencia constitutes one end of what?
+312,7th.,8th,0.3757920265197754,1.111950159072876,0.7695406675338745,0.0,0.0,Which century produced the seven readings selected by Ibn Mujāhid?
+313,1979,1894,0.3111984729766845,1.3023533821105957,0.54755038022995,0.0,0.0,When was the Armenian Mosaic re-discovered?
+314,Maritime commerce.,maritime commerce,5.525146722793579,1.0761268138885498,0.9869949221611024,1.0,1.0,What were Buenos Aires and Montevideo fighting for dominance over?
+315,1984-85.,1984–85,0.8206191062927246,1.4683661460876465,0.9435477256774902,1.0,1.0,What years were the miners strike?
+316,"No, newly formed clubs may not play in the FA Cup in their first season.","Newly formed clubs, such as F.C. United of Manchester in 2005–06 and also 2006–07, may not therefore play in the FA Cup in their first season.",0.2882852554321289,1.9920594692230225,0.8659818172454834,0.6363636363636364,0.6363636363636364,Can new clubs play too? 
+317,Banco Republica (BROU) is the largest bank in Uruguay.,Banco Republica,0.3284335136413574,1.910874366760254,0.6435763835906982,0.3636363636363636,0.3636363636363636,What is the largest bank in Uruguay? 
+318,26 November 1991.,"penalty shoot-outs being introduced, the first of which came on 26 November 1991",0.2967119216918945,1.4959781169891355,0.4634782075881958,0.3529411764705882,0.3529411764705882,When was the first penalty kick?
+319,1835,1835,0.2470917701721191,1.1545970439910889,1.0,1.0,1.0,When did Spain suppress local police units?
+320,Paintings.,paintings,0.3676040172576904,1.314798355102539,0.9360926151275636,1.0,1.0,What common artform is far more prestigious than mosaic?
+321,"The Tres Cruces Bus Terminal is located on the lower level of the Tres Cruces Shopping Center, on the side of Artigas Boulevard.",the lower level of the Tres Cruces Shopping Center,0.373680830001831,2.384335517883301,0.6748368740081787,0.5625,0.5625,Where is the Tres Cruces Bus Terminal located?
+322,The Río de la Plata.,the Río de la Plata,0.2600855827331543,1.288273811340332,0.9892959594726562,1.0,1.0,Montevideo is situated on the north shore of what?
+323,Lord Kinnaird.,Lord Kinnaird,21.27310609817505,1.448767900466919,0.9890905022621156,1.0,1.0,Who was the long-serving president of the FA cup?
+324,Montevideo.,Montevideo,0.4112024307250976,1.1115939617156982,0.9802385568618774,1.0,1.0,Where is the Uruguayan Basketball League headquartered?
+325,The Emirates FA Cup.,Cup Winners' Cup,0.8559131622314453,1.122901439666748,0.5326495170593262,0.2857142857142857,0.2857142857142857,What is the cup called now?
+326,2009.,2009,0.3071877956390381,1.364858627319336,0.9539592266082764,1.0,1.0,In what year did Sharif become CM?
+327,1872,"the trophy was not presented to the winners, Wanderers, until a reception held four weeks later",0.2685654163360595,1.2910606861114502,0.0444458536803722,0.0,0.0,when was the first trophy presented? 
+328,The Labour Party.,The Labour Party,0.5413756370544434,1.1070024967193604,0.9851245284080504,1.0,1.0,What is the largest opposition party in the Scottish Parliament?
+329,Dr. Rodrigo Arocena.,Dr. Rodrigo Arocena,0.5220048427581787,1.2474286556243896,0.9888983368873596,1.0,1.0,Who is the current rector of The University of the Republic?
+330,Level 8 of English football.,final 64,0.6391134262084961,0.9657692909240724,0.3019732236862182,0.0,0.0,What place did Chasetown come in?
+331,The final is played at the rebuilt Wembley Stadium.,May,0.3719706535339355,1.449227809906006,0.0547244884073734,0.0,0.0,Which month marks the start of a Premier League season?
+332,1879.,1879,0.363990306854248,1.1102705001831057,0.9691979885101318,1.0,1.0,When was the case of Reynolds v. United States?
+333,The Cabildo is the seat of government during the colonial times of the Viceroyalty of the Río de la Plata.,the seat of colonial government,0.3811604976654053,2.184884548187256,0.4815439581871032,0.3846153846153846,0.3076923076923077,What is the Cabildo?
+334,The year is not specified in the given context.,the 2013–14 season,0.3123078346252441,1.6446993350982666,0.326351523399353,0.1538461538461538,0.1538461538461538,What year did this take place? 
+335,2015,2015,0.8440625667572021,1.0554969310760498,1.0,1.0,1.0,What year did Greece fall back into recession?
+336,Rambla.,rambla,0.3752660751342773,1.3086230754852295,0.9785091876983644,1.0,1.0,Avenue or Watercourse is the literal meaning of what Spanish word?
+337,1924.,1924,0.2592363357543945,1.1135473251342771,0.96939617395401,1.0,1.0,The Quarter Century Club began in this year.
+338,Buenos Aires.,Buenos Aires,0.4794514179229736,1.0613272190093994,0.9760341048240662,1.0,1.0,Where were the Spaniards emanating from?
+339,Arcadia is located atop the Plaza Victoria in Montevideo.,atop the Plaza Victoria,0.2911360263824463,1.5333116054534912,0.6055669188499451,0.6153846153846153,0.6153846153846153,Where is Arcadia located?
+340,"No, there is no seeding in the FA Cup.","There is no seeding,",0.5296568870544434,1.6766526699066162,0.6693504452705383,0.6153846153846153,0.6153846153846153,Is there seeding?
+341,A heart attack in May 1994.,a heart attack,0.3567593097686767,1.6001145839691162,0.7615942358970642,0.6666666666666666,0.6666666666666666,What did Smith die of?
+342,A coastal avenue.,"""coastal avenue""",0.281355619430542,1.3600835800170898,0.888976514339447,0.8,0.8,In the Americas rambla is mostly used to refer to what?
+343,The Palacio Taranco was erected in the early 20th century.,early 20th century,0.3221769332885742,1.7345867156982422,0.4037335515022278,0.4615384615384615,0.4615384615384615,When did the British invade Tibet?
+344,1980-81.,didn't celebrate its centenary year until 1980–81,0.3035249710083008,1.4426136016845703,0.5313226580619812,0.3636363636363636,0.3636363636363636,When did the competition celebrate its centennial? 
+345,The original Wembley Stadium.,Empire Stadium,4.743305683135986,1.514892339706421,0.6075466871261597,0.3333333333333333,0.3333333333333333,What was Webly stadium called at that time? 
+346,Maidstone United's Gallagher Stadium on 20 November 2015.,first match in the proper rounds to be played on a 3G surface was a televised first round replay at Maidstone United's Gallagher Stadium on 20 November 2015.,0.3462798595428467,1.8454599380493164,0.5220912098884583,0.4736842105263158,0.4736842105263158,Where was the first #G surface game played? 
+347,1899,1899,0.4825692176818847,1.0318171977996826,1.0,1.0,1.0,When did Washington University hold a national design contest for the new campus?
+348,1836.,1836,0.2755122184753418,1.3650274276733398,0.9685381650924684,1.0,1.0,When was PGW founded?
+349,1878.,1830,0.3881583213806152,1.3580687046051023,0.5438730716705322,0.0,0.0,About what year did Charleston cease to have the wealthiest Jewish community in America?
+350,By sea.,by sea,0.3554422855377197,1.0628550052642822,0.9700976610183716,1.0,1.0,How did the British and French supply the city of Montevideo??
+351,22.,8 replays,0.3750731945037842,1.2547454833984375,0.2796014845371246,0.0,0.0,How many replays took place at the Oval? 
+352,"Yes, the 2013 fixture between Millwall and Wigan led to 6,000 tickets being placed on sale to neutral fans after the game failed to sell out.","the 2013 fixture between Millwall and Wigan led to the unprecedented step of placing 6,000 tickets on sale to neutral fans after the game failed to sell out.",0.3779284954071045,2.896871328353882,0.8772468566894531,0.8928571428571429,0.8571428571428572,Has the game ever fail to sell out? 
+353,Montevideo.,Montevideo,0.3339464664459228,1.3639311790466309,0.9802385568618774,1.0,1.0,Where is the Uruguayan Basketball League headquartered?
+354,Dirección Nacional de Transporte (National Directorate of Transport),Dirección Nacional de Transporte,0.3613960742950439,1.1808536052703855,0.8847963809967041,0.7142857142857143,0.7142857142857143,Who is responsible for the organization and development of Montevideo's transport infrastructure?
+355,"Jorge Burgues, an Italian resident, purchased a plot of land in the name of the English residents.",Mr. Thomas Samuel Hood,0.7430298328399658,1.8661901950836184,0.1301122903823852,0.0,0.0,Who purchased a plot of land in the name of the English residents?
+356,The Christian Brothers of Ireland Stella Maris College is regarded as one of the best high schools in the country.,The Christian Brothers of Ireland Stella Maris College,0.2292053699493408,2.0736172199249268,0.829058825969696,0.5714285714285715,0.5714285714285715,What is regarded as one of the best high schools in the country?
+357,The Empire of Brazil.,Empire of Brazil,0.2421557903289795,1.1536052227020264,0.944836437702179,0.8571428571428571,0.8571428571428571,Manuel Oribe and Fructuoso Rivera fought against what empire?
+358,Father Dámaso Antonio Larrañaga.,Father Dámaso Antonio Larrañaga,0.3102486133575439,1.7240753173828125,0.9888778328895568,1.0,1.0,"Who was the promoter, director and organizer of the first public library in Montevideo?"
+359,1913.,1913,0.2478225231170654,1.1110939979553225,0.9654048681259156,1.0,1.0,When was the Zliten mosaic discovered?
+360,"Yes, the venue is called the Solís Theatre.",Kennington Oval was used as the semi-final venue,1.4868574142456057,1.7172198295593262,0.3156417608261108,0.2222222222222222,0.2222222222222222,Is there a name for the specific venue? 
+361,763,731 teams entered that season,0.2384300231933593,1.2385261058807373,0.2836330831050873,0.0,0.0,How many teams competed that year? 
+362,Our Lady of the Sacred Heart.,Our Lady of the Sacred Heart,0.4722623825073242,1.5095336437225342,0.973405420780182,1.0,1.0,What does Nuestra Senora del Sagrado Corazon mean?
+363,"In front of Constitution Square, in Ciudad Vieja.",front of Constitution Square,0.362076997756958,1.4349329471588137,0.6622846722602844,0.6666666666666666,0.6666666666666666,Where is the Montevideo Cabildo located?
+364,There is no mention of a German pocket battleship in the provided context.,Punta del Este,0.2706384658813476,1.5899310111999512,0.0427429005503654,0.0,0.0,Where did the famous incident involving the German pocket battleship take place in?
+365,10,10,0.3710560798645019,1.1027061939239502,1.0000001192092896,1.0,1.0,How many members of the Swazi House of Assembly are chosen by the king?
+366,The Museo Naval is located on the eastern waterfront in Buceo.,the eastern waterfront in Buceo,0.57063889503479,1.9185433387756348,0.708976686000824,0.625,0.625,Where is the Museo Naval located?
+367,Emirates airline.,Emirates airline is the sponsor from 2015 to 2018,0.2744841575622558,0.97517991065979,0.7102349400520325,0.3636363636363636,0.3636363636363636,Who is the current sponsor? 
+368,Uruguay.,Uruguay,0.8720836639404297,1.0204849243164062,0.964796245098114,1.0,1.0,Jose Batile y Ordonez was president of where? 
+369,The information is not specified in the given context.,2007–08 competition,0.4322719573974609,1.3697965145111084,0.013436920940876,0.0,0.0,What FA cup season did this take place in? 
+370,"The neighborhood of Ciudad Vieja was surrounded by the Santa Lucía River to the west, the Bay of Montevideo to the south, and the Río de la Plata to the east.",a protective wall,0.4731152057647705,3.1775612831115723,0.0924139246344566,0.0555555555555555,0.0555555555555555,What surrounded the neighborhood of Ciudad Vieja?
+371,"1,325,968 (as of 2004)",around 2 million,0.4044768810272217,1.527709722518921,0.1992786526679992,0.0,0.0,What is the population of Montevideo?
+372,The Solís Theatre is the most prominent theater in Uruguay.,The Solís Theatre,1.3062121868133545,1.7719476222991943,0.698672890663147,0.5333333333333333,0.5333333333333333,What is the most prominent theater in Uruguay?
+373,The final has been played at the rebuilt Wembley Stadium since it opened in 2007.,The final is normally held the Saturday after the Premier League season finishes in May.,0.3819184303283691,1.8124301433563232,0.5491900444030762,0.2666666666666666,0.2666666666666666,When does the final take place? 
+374,Tango.,Uruguayan tango,0.3049612045288086,1.2535812854766846,0.7595072984695435,0.6666666666666666,0.6666666666666666,What unique form of dance originated in the neighbourhods of Montevideo?
+375,"Yes, the FA Cup has been sponsored since the 1994-95 season.","Since the start of the 1994–95 season, the FA Cup has been sponsored.",0.3054726123809814,1.6132140159606934,0.9271197319030762,0.8461538461538461,0.4615384615384615,is the Fa cup sponsered? 
+376,"The ANTEL Telecommunication Tower, 158-metre (518 ft) tall.",ANTEL Telecommunication Tower,0.763866662979126,2.0227513313293457,0.8369826674461365,0.5,0.5,What is the tallest skyscraper in the country?
+377,"The text does not mention the initial donation of a private library. It mentions the National Library of Uruguay, which was established in 1833, but does not provide information on the initial donation.",Father José Manuel Pérez Castellano,0.9981095790863036,3.104971408843994,0.2090892344713211,0.0,0.0,Who gave the initial donation of the private library?
+378,Carnival Week.,the national festival of Carnival Week,0.3128190040588379,1.0518999099731443,0.7986606359481812,0.5,0.5,What is the annual Montevideo Carnaval part of?
+379,1911.,". The FA decided to change the design after the 1909 winners, Manchester United, made their own replica,",0.265296459197998,1.347271203994751,0.1715964674949646,0.0,0.0,When was the first design changed? 
+380,"No, the FA Cup is an English domestic cup competition.","other teams from Wales, Ireland and Scotland also took part in the competition,",0.8913652896881104,1.7553491592407229,0.3950676321983337,0.1739130434782608,0.1739130434782608,Have any other countries ever competed? 
+381,The text does not mention the electoral college.,widen the voting franchise,0.4181916713714599,1.5969805717468262,0.1364130973815918,0.1666666666666666,0.1666666666666666,Why was the electoral college introduced?
+382,Ramsay MacDonald was voted the first official leader of the Labour Party.,Ramsay MacDonald,0.3345744609832763,1.5754601955413818,0.5891599655151367,0.2857142857142857,0.2857142857142857,Who was voted the first leader of the Labour Party?
+383,The Labour Representation Committee (LRC),"""New Labour""",0.3635492324829101,1.2961125373840332,0.5072311162948608,0.2857142857142857,0.2857142857142857,What was the other name for the Labout Party?
+384,1870-1930.,1870 and 1930,0.362100601196289,1.5051536560058594,0.9583514928817748,0.8,0.8,Between what years did the main engineering work on the port of Montevideo Bay take place?
+385,A Beta World City.,a Beta World City,0.4102144241333008,1.1544384956359863,0.9839870929718018,1.0,1.0,What is Montevideo classified as?
+386,Tottenham Hotspur.,"Tottenham Hotspur is the only non-league ""giant-killer"" to win the Cup",0.4560451507568359,1.1308271884918213,0.6088545322418213,0.2666666666666667,0.2666666666666667,Who is the only non league giant killer to win a cup?
+387,Estadio Centenario.,Estadio Centenario,0.3504195213317871,1.411942958831787,0.9879047870635986,1.0,1.0,What is the national football stadium in Parque Batlle?
+388,23%,8%,0.3704347610473633,1.0194575786590576,0.7135127782821655,0.0,0.0,How much of Greece's energy consumption came from renewable sources in 2008?
+389,22 January 1724.,22 January 1724,0.3622393608093261,1.2524421215057373,0.989360213279724,1.0,1.0,What date did the Spanish force the Portuguese to abandon the location?
+390,The Montevideo Carnaval.,the annual Montevideo Carnaval,0.4099810123443603,1.2512102127075195,0.923635184764862,0.8571428571428571,0.8571428571428571,What is the major annual festival in Montevideo?
+391,1897.,1897,0.4703795909881592,1.355844020843506,0.967781901359558,1.0,1.0,In what year was Queen Victoria's Diamond Jubilee?
+392,1882.,1882,0.4884285926818847,1.3637001514434814,0.9607445001602172,1.0,1.0,What year did the White Stockings capture their third consecutive pennant?
+393,The Museo de Historia del Arte is located in the Palacio Municipal.,the Palacio Municipal,0.2772819995880127,1.970242261886597,0.6365566253662109,0.4,0.4,Where is the Museo de Historia del Arte located?
+394,1908.,1908,0.2959411144256592,1.0992372035980225,0.9727455377578736,1.0,1.0,What year did Cixi die?
+395,Neil Kinnock.,Neil Kinnock,0.3113656044006347,1.0721442699432373,0.98204106092453,1.0,1.0,Who was Foot replaced by?
+396,20 seats.,20,0.6081783771514893,1.1124975681304932,0.5667675137519836,0.6666666666666666,0.6666666666666666,How many members of the Council received their positions via nomination rather than election?
+397,"Approximately 8,000 students.","about 8,000",0.3918936252593994,1.51009202003479,0.5613278150558472,0.5714285714285715,0.5714285714285715,How many students does the ORT Uruguay university have?
+398,"The FA Cup trophy comes in three parts: the cup itself, a lid, and a base.","- the cup itself, plus a lid and a base",0.2827150821685791,1.819955587387085,0.648680567741394,0.64,0.64,What is the  parts of the trophy? 
+399,Roy Hattersley.,Roy Hattersley,0.2701144218444824,1.1582884788513184,0.9866925477981568,1.0,1.0,Who was Neil Knnocks deputy?
+400,1895.,60 years,0.6013782024383545,1.347872257232666,0.4166894853115082,0.0,0.0,How long go did this crime take place? 
+401,The Premier League and Championship clubs enter in the Third Round Proper.,Premier League and Championship clubs,0.3555030822753906,1.7970154285430908,0.6427879929542542,0.5882352941176471,0.5882352941176471,What league enters in the third round?
+402,Football Association,The State Railways Administration of Uruguay,0.3768935203552246,0.9795322418212892,0.33079594373703,0.0,0.0,What does the AFE stand for?
+403,There is no mention of a person named Sentana in the provided context.,ESPN took over the package Setanta,0.3324563503265381,1.632465362548828,0.0972625762224197,0.1052631578947368,0.1052631578947368,Who took over the package from Sentana?
+404,1829.,1701,3.930823564529419,1.1208062171936035,0.4219321310520172,0.0,0.0,When was Yale founded?
+405,"No, ESPN's rights package transferred to BT Sport from the 2013-14 season.","Following the sale of ESPN's UK and Ireland channels to BT, ESPN's rights package transferred to BT Sport",0.3110249042510986,2.051351308822632,0.7395069003105164,0.5294117647058824,0.4705882352941176,Does ESPN still hold the contract? 
+406,1870,1870,0.2560365200042724,1.0570037364959717,1.0000001192092896,1.0,1.0,When did Charles Taze Russell form a group?
+407,"707,697.","707,697",0.5827972888946533,1.4167084693908691,0.986642837524414,1.0,1.0,"According to the census survey carried out between 15 June and 31 July 2004, what was Montevideo's female population?"
+408,"The Cerro de Montevideo, a hill, overlooks the Bay of Montevideo.",Fortaleza del Cerro,0.2344186305999755,1.856667280197144,0.3489675521850586,0.1428571428571428,0.1428571428571428,What overlooks the bay of Montevideo?
+409,8.,8,0.2846496105194092,1.3068299293518066,0.9289474487304688,1.0,1.0,How many square miles is the island of Iwo Jima?
+410,The Old Town.,the Old Town,2.136467933654785,1.364121675491333,0.9851585626602172,1.0,1.0,The Museo Torres Garcia is located where?
+411,The National Museum of Visual Arts.,the National Museum of Visual Arts,0.3522465229034424,1.5062997341156006,0.9934442043304444,1.0,1.0,What is on the east side of the park?
+412,"Yes, the use of artificial turf (3G pitches) is allowed in the FA Cup, starting from the 2014-15 edition.",The FA permitted artificial turf (3G) pitches in all rounds of the competition from the 2014–15 edition and beyond.,0.4768044948577881,2.2652077674865723,0.8480303287506104,0.7,0.6,Is the use of artificial turf allowed? 
+413,"The population of Montevideo quadrupled by 1880, mainly due to great European immigration.",had quadrupled,0.3940536975860595,2.022982597351074,0.3049335777759552,0.1333333333333333,0.1333333333333333,What happened to the population by the year 1880?
+414,1872.,1872,0.3262748718261719,1.3402645587921145,0.96599942445755,1.0,1.0,How long has the FA Cup been contested?
+415,1919-20.,1919–20.,0.28059983253479,1.4467055797576904,0.9682797193527222,1.0,1.0,what year did competition resume after world war 1?
+416,"Blair sided with Bush in supporting the Iraq War, which caused him to lose much of his political support.",the Iraq War,0.2273435592651367,1.9014272689819336,0.4028258025646209,0.2727272727272727,0.2727272727272727,Why did Blair side with Bush?
+417,Parque Batlle is a neighborhood of great significance in Montevideo.,Ciudad Vieja,0.7142248153686523,1.91523551940918,0.2222063243389129,0.0,0.0,What is a neighborhood of great significance? 
+418,"Yes, the 1926 FA Cup Final was broadcast in Manchester.",this was only broadcast in Manchester,0.3264894485473633,1.5366380214691162,0.6733742952346802,0.5,0.5,Wa the game broadcast in both cities? 
+419,£17 million in debt in 2008.,£17 million,0.281883955001831,1.3865232467651367,0.6966491341590881,0.5,0.5,How far was the party in debt for the same time period?
+420,ORT Uruguay.,ORT Uruguay,0.3635339736938476,1.3548123836517334,0.9858126640319824,1.0,1.0,What is the largest private university in Uruguay?
+421,Mario Palanti.,Mario Palanti,0.3598098754882812,1.2064142227172852,0.9874983429908752,1.0,1.0,Who designed the Palacio Salvo?
+422,Juan Manuel Blanes.,Juan Manuel Blanes,0.9993064403533936,1.4178338050842283,0.9859553575515748,1.0,1.0,Who painted Uruguayan patriotic themes?
+423,Keir Hardie.,Keir Hardie,0.4545292854309082,1.1570897102355957,0.9860639572143556,1.0,1.0,Who was elected Chairman of the Parliamentary Labour Party?
+424,The Labour Party was formed in 1900.,late 19th century,0.3131217956542969,1.387085199356079,0.3857244849205017,0.0,0.0,In what time period did the Glided Age occur?
+425,There have been 5 actual FA Cup trophies.,five actual cups,15.60124897956848,1.6598715782165527,0.5781711935997009,0.3636363636363636,0.3636363636363636,How many FA cups have there been?
+426,"Yes, sponsorship deals can be extended for one year.",one-year extensions may be agreed,0.3425788879394531,1.3339438438415527,0.6138297319412231,0.4,0.2666666666666666,Can they extend their deal? 
+427,World War II.,the Maroñas Racecourse reopened,0.3674750328063965,1.1087114810943604,-0.0166112706065177,0.0,0.0,Equestrianism regained importance in Montevideo after what?
+428,"No, the text does not mention Cinderella matches. It talks about ""giant-killing"" victories by smaller teams in the FA Cup.","where lower ranked teams beat higher placed opposition, known as ""giant killings"", is much anticipated by the public",0.2763750553131103,2.216310739517212,0.3253467082977295,0.2564102564102564,0.2051282051282051,Do people look forward to Cinderella matches? 
+429,5 minutes.,"the engraver has just five minutes to perform a task which would take twenty under normal conditions,",0.3558804988861084,1.0744507312774658,0.4107660055160522,0.1052631578947368,0.1052631578947368,how long does the engraved have from start to finish? 
+430,José Enrique Rodó.,José Enrique Rodó,0.4077935218811035,1.407806634902954,0.9825446605682372,1.0,1.0,Who was an important Uruguayan writer that is commemorated by Parque Rodo? 
+431,1921-1923.,between 1921 and 1923,0.4955289363861084,1.25331711769104,0.9444621801376344,0.6666666666666666,0.6666666666666666,WHen was the COmmunist party refused affiliation?
+432,1868.,1868,0.4100668430328369,1.3607707023620603,0.9646062850952148,1.0,1.0,When was the passage of the 14th Amendment?
+433,92.,92,0.2996456623077392,1.29162335395813,0.9589635729789734,1.0,1.0,How old was Popper when he died?
+434,The FA Cup final is held at the rebuilt Wembley Stadium in London.,In 2003 the FA took the decision to permanently use the new Wembley for semi-finals,0.5401589870452881,1.6230974197387695,0.6400628089904785,0.4137931034482758,0.2758620689655172,Where is the FA cup held today?
+435,Unpopular.,deeply unpopular,0.470510721206665,1.0619165897369385,0.8729366660118103,0.6666666666666666,0.6666666666666666,Was the idea of the Iraq War popular or unpopular in Western countries?
+436,Postmodern style.,Postmodern,0.3179442882537842,1.1154205799102783,0.9128415584564208,0.6666666666666666,0.6666666666666666,What style of building is the World Trade Center Montevideo? 
+437,The House of Lords passed the Osborne judgment.,Trade Disputes Act,0.3439211845397949,1.6175971031188965,0.1559752523899078,0.0,0.0,Who passed the Osborne judgment?
+438,4 years.,Sponsorship deals run for four years,0.5916359424591064,1.343642234802246,0.5310345888137817,0.25,0.25,How long does the sponsor remain? 
+439,Bruno Mauricio de Zabala.,Bruno Mauricio de Zabala,0.2982501983642578,1.2926888465881348,0.9876937866210938,1.0,1.0,Who organized the Spanish expedition?
+440,1 vote.,a single vote,0.3112123012542724,1.1049652099609375,0.7450984716415405,0.4,0.4,How many votes did the vote of confidence lose by in 1979?
+441,"Yes, STV in Scotland refused to show FA Cup games.",STV refusing to show them,0.3139345645904541,1.1907408237457275,0.5305396318435669,0.5333333333333333,0.5333333333333333,Does anyone refuse to show them? 
+442,"Yes, top clubs can miss the competition in exceptional circumstances.",It is very rare for top clubs to miss the competition,0.3097152709960937,1.7534489631652832,0.8930795192718506,0.4761904761904761,0.4761904761904761,Does anyone ever miss a tournament? 
+443,1927,the first national final on BBC Radio was between Arsenal and Cardiff in 1927,0.37172532081604,1.2540678977966309,0.330833375453949,0.1333333333333333,0.1333333333333333,So when was the firs national broadcast? 
+444,90 kilometers.,90 kilometres,0.3173503875732422,0.9401707649230956,0.9336526989936828,0.5,0.5,How far is to the neighboring capitol of San Jose de Mayo?
+445,The Montevideo Cabildo.,The Montevideo Cabildo,0.3112318515777588,1.5174407958984375,0.9920641183853148,1.0,1.0,What was the seat of government during the colonial times of the Viceroyalty of the Rio de la Plata?
+446,24 August 1931.,1931,0.3236138820648193,1.2536287307739258,0.8797003030776978,0.5,0.5,When was San Diego's current charter adopted?
+447,Six to fourteen games.,six to fourteen,0.2385711669921875,1.4114110469818115,0.681292712688446,0.8571428571428571,0.8571428571428571,How many games are needed to win?
+448,"309,331.","309,331 inhabitants",0.2894220352172851,1.2459323406219482,0.6991139650344849,0.8,0.8,What had the population grown to in 1908?
+449,He claimed to have melted it down to make counterfeit half-crown coins.,the cup had been melted down to make counterfeit half-crown coins,0.2854952812194824,1.585373878479004,0.8219414949417114,0.64,0.64,What did Burge do with the cup? 
+450,There is no mention of OMOV in the given context.,"one member, one vote",0.2468962669372558,1.1824121475219729,0.0024694073945283,0.0,0.0,What does OMOV stand for?
+451,World Trade Center 1 was the first building to be inaugurated in 1998.,World Trade Center 1,0.4431629180908203,2.080756425857544,0.6146661043167114,0.4705882352941176,0.4705882352941176,What was the first building to be inaugurated? 
+452,1993,1993,0.4907019138336181,1.056011438369751,1.0000001192092896,1.0,1.0,When did Nadelmann write about global policing?
+453,"Cardiff, Wales.",Cardiff in Wales,0.4259569644927978,1.361534595489502,0.9292850494384766,0.8,0.8,Where is Millennium Stadium located? 
+454,Punta Carretas.,Punta Carretas,0.3128626346588135,1.4660844802856443,0.9830281734466552,1.0,1.0,Parque Rodo belongs to who?
+455,92,36 clubs in the Football League,0.3988533020019531,1.242415428161621,0.2461274266242981,0.0,0.0,How many clubs where in the football league? 
+456,"1,500.","1,500 inpatients",0.244586706161499,1.2601797580718994,0.5252686738967896,0.8,0.8,How many inpatients did the the Hospital Vilardebo have in 1915?
+457,November 1871.,November 1871,0.40267014503479,1.3965046405792236,0.9766126871109008,1.0,1.0,When did the inaugural  FA cup tournament take place?
+458,1878,1878,0.2838222980499267,1.3046789169311523,1.0,1.0,1.0,When did Jefferson's letter enter American jurisprudence?
+459,1925,1925,0.3974227905273437,1.3077232837677002,1.0,1.0,1.0,When was the George Warren Brown School of Social Work founded?
+460,John Smith.,John Smith,0.3521482944488525,1.0620417594909668,0.9697473645210266,1.0,1.0,Who replaced Kinnock?
+461,1868.,1868,0.3375754356384277,1.3632726669311523,0.9646062850952148,1.0,1.0,When was the passage of the 14th Amendment?
+462,"£23,000","£23,000",0.3922119140625,1.3532752990722656,1.0000001192092896,1.0,1.0,How much were they ordered to pay in damages for the strike?
+463,1916,1916,0.3875913619995117,1.3044137954711914,1.0,1.0,1.0,In what year did Rome Ciampino Airport open?
+464,Labour runs a minority government in the Welsh Assembly under Carwyn Jones.,Carwyn Jones,0.539374589920044,1.581934928894043,0.4915825724601745,0.2857142857142857,0.2857142857142857,Who runs the Welsh Assembly?
+465,Geographically separate settlements.,geographically separate settlements,0.2836320400238037,1.411696195602417,0.962887406349182,1.0,1.0,What had many of the city's barrios previously been?
+466,1882.,The tradition of presenting the trophy immediately after the game did not start until the 1882 final,0.3197782039642334,1.3430767059326172,0.3351679742336273,0.1111111111111111,0.1111111111111111,When did people start presenting the trophy after the game? 
+467,"Yes, the name of the winning team is engraved on the silver band around the base of the FA Cup as soon as the final has finished.",The name of the winning team is engraved on the silver band around the base,0.3000001907348633,2.2286581993103027,0.7693886160850525,0.7142857142857143,0.7142857142857143,Is the cup engraved for the winner? 
+468,Towers Square.,The Towers Square,0.2486698627471923,1.310155153274536,0.9692157506942748,0.8,0.8,What was intended to be a platform for the development of business activities?
+469,1886.,1886,0.8047001361846924,1.3477210998535156,0.9660755395889282,1.0,1.0,What year was the IFAB formed?
+470,Carrasco.,Carrasco,0.2628357410430908,1.0593724250793457,0.9817534685134888,1.0,1.0,Where is the British Schools of Montevideo located?
+471,ITV and ESPN.,The 2011 final was also shown live on Sky 3D in addition to ESPN,0.4622335433959961,1.0700385570526123,0.5429814457893372,0.1176470588235294,0.1176470588235294,Who show the 2011 final? 
+472,Energy.,Energy,0.4735026359558105,0.7629404067993164,0.8861300349235535,1.0,1.0,"What is often said to be stored by cells in the structures of molecules of substances such as carbohydrates, lipids and proteins?"
+473,They can't compete because they are not part of the English football league system.,barred from entering by the Scottish Football Association.,0.3445055484771728,1.8974766731262207,0.4414597153663635,0.1739130434782609,0.1739130434782609,Why can't those countries compete? 
+474,"Clubs above Level 9 enter the competition at later stages, with a system of byes.",clubs above Level 9 and 10 enter the competition at later stages,0.375842809677124,2.104878187179565,0.8990863561630249,0.7407407407407408,0.7407407407407408,When do clubs above 9 enter? 
+475,"The Mercado del Puerto (""Port Market"") is the center of traditional Uruguayan food and beverage in Montevideo.",the Mercado del Puerto,0.308957576751709,2.4233736991882324,0.7008743286132812,0.3809523809523809,0.3809523809523809,What is the center of traditional Uruguayan food and beverage in Montevideo?
+476,232,232,0.3770208358764648,1.2524232864379885,1.0,1.0,1.0,How many rooms does The Radisson Montevideo have?
+477,4,four,0.2600321769714355,1.2663869857788086,0.8942000865936279,0.0,0.0,In how many directions does the Buddha of Swayambhu look?
+478,The 1901 Taff Vale Case.,Taff Vale Case,0.7184548377990723,1.6168453693389893,0.8099786043167114,0.7499999999999999,0.7499999999999999,What boosted support in 1901?
+479,The Uruguayan Constitution of 1918.,Uruguayan Constitution of 1918,0.2759807109832763,1.6679229736328125,0.9777325987815856,0.888888888888889,0.888888888888889,Municipalities were abolished by what?
+480,1814.,1814,0.286456823348999,1.3555858135223389,0.9717538356781006,1.0,1.0,What year was this treaty signed?
+481,1888.,1888,0.6802065372467041,1.359832525253296,0.9602977633476256,1.0,1.0,When did NYC buy land for its parks?
+482,"3,241,003.","3,241,003",0.420994758605957,1.516679286956787,0.9840344786643982,1.0,1.0,"According to the census survey carried out between 15 June and 31 July 2004, what was Uruguay's population?"
+483,1994,1994,0.6517348289489746,1.2878835201263428,1.0000001192092896,1.0,1.0,What year did Republicans regain control while Rober Michel was Minority Leader?
+484,1869.,1869,0.3009545803070068,1.3598136901855469,0.96541029214859,1.0,1.0,When was Suez canal completed?
+485,1888.,The Football League was founded in 1888,0.3810935020446777,1.340238332748413,0.4877013564109802,0.25,0.25,When was the football league founded? 
+486,18 December 1908.,18 December 1908,0.3027279376983642,1.5105202198028564,0.9827830791473388,1.0,1.0,The Municipality of Montevideo was first created by a legal act of what?

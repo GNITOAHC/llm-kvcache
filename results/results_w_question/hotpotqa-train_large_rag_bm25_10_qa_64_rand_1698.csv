@@ -1,0 +1,78 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,"Aechmea has more species, with 255 species, while Lysichiton has only 2 species.",Aechmea,0.0013267993927001,3.648936748504639,0.39174485206604,0.1428571428571428,0.1428571428571428,"Which has more species, Lysichiton or Aechmea?"
+1,Horse & Hound.,Horse & Hound,0.0013580322265625,1.2540738582611084,0.9578098058700562,1.0,1.0,Which  equestrian weekly magazine of the United Kingdom is Mark Phillips a columnist in 
+2,"Robert Rossen was born on March 16, 1908, and Lamont Johnson was born on April 20, 1955.",Robert Rossen,0.001218557357788,2.572214365005493,0.5711860656738281,0.2105263157894736,0.2105263157894736,"Who was born first, Robert Rossen or Lamont Johnson?"
+3,Jamie Lee Curtis.,Jamie Lee Curtis,0.0012505054473876,1.3437130451202393,0.9737326502799988,1.0,1.0,"What BAFTA and Golden Globe award winning actress became famous as a ""scream queen"" in the Halloween franchise?"
+4,Elisabeth of Bohemia.,"Frederick V, Elector Palatine",0.0012335777282714,1.385112762451172,0.3626111149787903,0.0,0.0,"Who was the father of the person ""Principles of Philosophy"" was dedicated to?"
+5,Christian Brothers University is located near the Liberty Bowl Memorial Stadium.,Christian Brothers University,0.0012640953063964,1.7335758209228516,0.7229008674621582,0.4285714285714285,0.4285714285714285,Which of the following is located near the Liberty Bowl Memorial Stadium: San Diego State University or Christian Brothers University?
+6,Ubisoft,Ubisoft,0.0012998580932617,1.1174464225769043,1.0000001192092896,1.0,1.0,Desmond Miles is a character in a game developed by what company?
+7,"October 8, 1943.","October 8, 1943",0.0012626647949218,1.5403623580932615,0.986335039138794,1.0,1.0,What is the birthdate of the author  that Tim Jacobus illustrated for?
+8,"No, they are not both Japanese. Tomoko Kawase is Japanese, but Steve Miller is American.",no,0.001197338104248,2.0809009075164795,0.1017511785030365,0.125,0.125,Are Chris Marker and Yvonne Rainer American?
+9,David Hasselhoff.,David Hasselhoff,0.001227855682373,1.325772047042847,0.9852629899978638,1.0,1.0,"Nicknamed ""The Hoff"", which is actor/singer released his seventh studio album in 1993?"
+10,Eric Young,Jeremy Fritz,0.0011177062988281,1.239457368850708,0.437338650226593,0.0,0.0,What is the real name of the creator of The World Elite
+11,Yes.,yes,0.0012125968933105,1.1895787715911863,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+12,"May 23, 1973.","May 23, 1973",0.0012438297271728,1.5310947895050049,0.9880690574645996,1.0,1.0,"When was this American singer-songwriter, record producer, and actor born, who used the American composer Itaal Shur to write some of his songs?"
+13,United States.,United States,0.0012791156768798,1.2305247783660889,0.9286460876464844,1.0,1.0,Where is the owner of Next big sound provides analytics for online music available?
+14,"Bata Shoes has its headquarters in Lausanne, Switzerland.",Bata Shoes,0.0011842250823974,1.7409639358520508,0.6238137483596802,0.4,0.4,"Which organization has it's headquarters in Lausanne, Switzerland and who's employees founded Deportivo Thomas Bata?"
+15,Democrats and Republicans.,conservative Democrats.,0.0012099742889404,1.281580686569214,0.7669758200645447,0.4,0.4,The Congressional Pro-Trade Caucus is a party who identify as what?
+16,25 episodes.,25 episodes,0.0012540817260742,1.330164670944214,0.973052740097046,1.0,1.0,How many episodes does the South Korean television series at which Jung Eui-chul reached the peak of his career have? 
+17,The Nakoda (also known as Stoney) are an indigenous people in Western Canada.,Nakoda,0.0011954307556152,2.019453763961792,0.5704696178436279,0.1428571428571428,0.1428571428571428,What indigenous people in Western Canada named Lake of the Little Fishes?
+18,1986.,1986,0.0012938976287841,1.2672178745269775,0.96302592754364,1.0,1.0,"Alan Douglas Ruck, is an American actor, he played Cameron Frye, Bueller's hypochondriac best friend in John Hughes' ""Ferris Bueller's Day Off"", released in which year?"
+19,Voice.,Voice,0.0012354850769042,1.1724610328674316,0.8962754011154175,1.0,1.0,What film first attracted attention for this actress who also starred in Over the Rainbow?
+20,Herbert Achternbusch was of German descent.,Herbert Achternbusch,0.0012805461883544,1.5595934391021729,0.8298542499542236,0.5,0.5,"Which writer was of German descent, Herbert Achternbusch or Pedro Sienna?"
+21,Warrior Publishing Group.,Warrior Publishing Group,0.0012316703796386,1.2953665256500244,0.97543203830719,1.0,1.0,"Captain Dale Adam Dye Jr., USMC (Ret.) owns Warriors, Inc. and what other company?"
+22,The Phoney War.,eight-month period,0.001169204711914,1.366715669631958,0.1197538301348686,0.0,0.0,Immerhof protected blockhouses that were constructed during a war that lasted how long?
+23,Walt Disney.,Walt Disney,0.001328706741333,1.2489159107208252,0.977504014968872,1.0,1.0,Who produced The Shaggy D.A. and Tarzan?
+24,GrassrootsPA.,GrassrootsPA,0.0012564659118652,1.308819055557251,0.9773868322372437,1.0,1.0,What political news website was set up by a supporter of a politician who served in Pennsylvania's House of Representatives from 1999 to 2005?
+25,Newton Village Sports Complex.,Newton Village Sports Complex,0.0012037754058837,1.3355774879455566,0.9915605187416076,1.0,1.0,Where does Michael Matricciani play his home matches? 
+26,The Portuguese Podengo is a multi-sensory hound.,Portuguese Podengo,0.0012092590332031,1.6997289657592771,0.6548351049423218,0.4,0.4,"Which dog breed, the Portuguese Podengo or the Old Danish Pointer, contains three size categories instead of just one?"
+27,2013.,2013,0.0011825561523437,1.309471845626831,0.9337419867515564,1.0,1.0,When were the band that released the song Charlemagne formed ?
+28,Isabelle Huppert.,Isabelle Huppert,0.0012435913085937,1.3990237712860107,0.9888884425163268,1.0,1.0,Mia Hansen-Løve won the Silver Bear in  Berlin in 2016 for the film starring whom?
+29,Ohio.,Ohio,0.0012245178222656,1.1493334770202637,0.9470069408416748,1.0,1.0,Todd Wilson is an organist in what state at one of the largest home in the US?
+30,The Little Review,The Little Review,0.0012242794036865,1.2459733486175537,1.0,1.0,1.0,"In which journal was the novel, from which the lyrics of Crystal Castle's ""Air War"" are from, first serialised?"
+31,Weimar at the Grossherzogliches (Grand Ducal) Theater.,Grossherzogliches (Grand Ducal) Theater,0.0013108253479003,1.8796186447143557,0.8417556285858154,0.7272727272727273,0.7272727272727273,Where did Auguste von Müller play Dalila in 1877?
+32,Karyn Kusama.,Girlfight,0.0012516975402832,1.512411117553711,0.2382141649723053,0.0,0.0, Carrie Genzel has worked in collaboration with an independent film director known for what 2000 film?
+33,Rose Garden.,"the Rose Garden,",0.0011610984802246,1.3055963516235352,0.9454348087310792,0.8,0.8,"What was the sports arena, at which Portland Thunder played their home games, formerly known as ?"
+34,The English Lake District.,English Lake District,0.0013091564178466,1.3131518363952637,0.973181426525116,0.8571428571428571,0.8571428571428571,"Woodland, Cumbria is west of the third largest lake in what area?"
+35,Yes.,yes,0.0012707710266113,1.1458258628845217,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+36,Lynn Dickey.,Lynn Dickey,0.0012485980987548,1.3518435955047607,0.9836412668228148,1.0,1.0,Clifford is the first name of which quarterback that played for the Green Bay Packers in 1977?
+37,"Athens, Greece.","Athens, Greece",0.0012428760528564,1.3246629238128662,0.9750615954399108,1.0,1.0,Where was the olympic games that Elisângela Oliveira played at after the 2000 Brazil Olympics?
+38,Jackie Joyner-Kersee.,heptathlon as well as long jump,0.0013458728790283,1.4522218704223633,0.1678394675254821,0.0,0.0,Roehrig Motorsports entered into a partnership in 1999 with the track athlete who was famous for what two sports?
+39,CHO,CHO,0.0011501312255859,1.1675646305084229,0.9999998807907104,1.0,1.0,What is the molecular formula of the chemical for which Nylander's test looks?
+40,"Worcester, Massachusetts.","Worcester, Massachusetts, United States",0.0011675357818603,1.2797844409942627,0.9443970918655396,0.6666666666666666,0.6666666666666666,Tom Gilmore is currently the head football coach for a college located where?
+41,Doubles tennis.,doubles,0.0012397766113281,1.2117459774017334,0.7384752035140991,0.6666666666666666,0.6666666666666666,Vania King and Cyril Suk III both specialize in what type of Tennis play?
+42,Interstate 22.,BNSF railway,0.0012323856353759,1.2897984981536863,0.2414844334125518,0.0,0.0,What railway is near an interstate that was designated to close gap in the interstate network allowing more direct connections between cities in the southeast?
+43,Koelreuteria is a genus.,Koelreuteria,0.0011651515960693,1.5459318161010742,0.7816197872161865,0.4,0.4,"Which is a genus, Dill or Koelreuteria? "
+44,Dutch.,Dutch,0.0013346672058105,1.1874947547912598,0.9625337719917296,1.0,1.0,Ooster-Eems means Ems-oriental in what language spoken by around 24 million people as a first language?
+45,1991,1991,0.0012233257293701,1.2099623680114746,1.0,1.0,1.0,What year did the book come out that the film Dev Patel and Jeremy Irons starred in?
+46,Kuchipudi.,Kuchipudi,0.0012218952178955,1.398488998413086,0.9824960231781006,1.0,1.0,What is the name of an Indian classical dance that Bhanu Priya is a dancer of?
+47,reach space.,reach space,0.001319408416748,1.199955940246582,0.9417470097541808,1.0,1.0, The Onizuka Prop Wash Award was named in memory of irst Asian American and the first person of Japanese ancestry to what?
+48,Yes.,yes,0.0011646747589111,1.1578748226165771,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+49,The Air National Guard.,public,0.0012285709381103,1.303849697113037,0.1734947860240936,0.0,0.0,Is the university that Keith Davis played for public or private?
+50,The Transylvanian Hound is smaller than the Bedlington Terrier.,Bedlington Terrier,0.0011653900146484,1.78949236869812,0.6294529438018799,0.3636363636363636,0.3636363636363636,"Which European breed of dog is smaller, Bedlington Terrier or Transylvanian Hound?"
+51,Alonzo Mourning.,Alonzo Mourning,0.0013597011566162,1.4036660194396973,0.98810613155365,1.0,1.0,Who was the top three pick of the 1992 draft that played most of his career for the Miami Heat?
+52,"Bergen, Norway.","Bergen, Norway",0.0011978149414062,1.2512075901031494,0.9800297021865844,1.0,1.0,"Where is the band that came out with the album ""Isa"" currently based?"
+53,Osama.,Osama,0.001267671585083,1.2042086124420166,0.950168251991272,1.0,1.0,What was the title of the 2003 movie in which an Afghan actress gained international recognition for her role as a girl forced to dress as a boy?
+54,World War II.,World War II,0.0013322830200195,1.279160976409912,0.9605373740196228,1.0,1.0,"Battle of Tarawa and Operation Overlord, occurred during which event?"
+55,America's Next Top Model.,The Voice,0.0011944770812988,1.386918544769287,0.2635334730148315,0.0,0.0,This American artist made the Billboard top 25 and was a well known YouTuber and also for her participation in which NBC singing competition? 
+56,"The city above Ocean Grove, New Jersey is Asbury Park, which is part of the New York City Metropolitan Area.",New York City Metropolitan Area,0.0011720657348632,2.2212045192718506,0.4157848060131073,0.4,0.4,"How is the city above Ocean Grove, New Jersey part of what New York Area?"
+57,"Mahesh Bhatt directed the 1991 Indian Hindi language romantic thriller film ""Sadak"".",Mahesh Bhatt,0.0012710094451904,2.089837551116944,0.5419324636459351,0.2857142857142857,0.2857142857142857,Who was the writer of the 2003 Indian erotic thriller film who sequel is Jism 2?
+58,Intelligent design.,intelligent design,0.0012385845184326,1.2258944511413574,0.9034433960914612,1.0,1.0,"Denis O. Lamoureux wrote  ""Darwinism Defeated?"" along with Phillip E. Johnson, a retired UC Berkeley law professor and author who is considered the father of what movement?"
+59,1962.,1962,0.0013339519500732,1.31583833694458,0.9593217968940736,1.0,1.0,The founder of the techno record label Metroplex was born in what year?
+60,Peter Pan.,"Peter Pan, or The Boy Who Wouldn't Grow Up",0.0013782978057861,1.2484288215637207,0.7674239277839661,0.3333333333333333,0.3333333333333333,"The play Peter and Alice features a meeting between Alice Liddell and Peter Llewelyn Davies, best known as the source of the name for the title character in what play?"
+61,Dragonslayer.,Dragonslayer,0.0012664794921875,1.24554705619812,0.9716463088989258,1.0,1.0,"Caitlin Clarke was an American theater and film actress, best known for her role as Valerian in which 1981 American fantasy film, directed by Matthew Robbins? "
+62,"University of Southern Queensland was not mentioned in the context, Pokhara University was established in 1996.",University of Southern Queensland,0.0011978149414062,2.240150690078736,0.6058247089385986,0.4,0.4,"Between University of Southern Queensland and Pokhara University, which institution was established earlier?"
+63,"football coach and sophomore basketball coach. He moved to Oregon City High School in Oregon City, Oregon in 1962, serving as head football coach and leading his team to a 9–1–1 record. The following year, he was hired as head football coach at the newly-formed Sheldon High School in Eugene.
+
+Ted Karras Jr.: 
+Theodore George ""Ted"" Karras Jr. (born December 10, 1964) is an American football coach and former player. He was most recently head football coach at Walsh University, a position he held from December 2012 to November 2016. Previously, Karras served as the first head football coach at Marian University in Indianapolis, Indiana. He held that position from the program's inception in 2007 through the 2012 season in which Marian won the NAIA Football National Championship. Karras played college football as a defensive tackle at Northwestern University from 1983 to 1986 and for one year (1987) in the National Football League (NFL) with the Washington Redskins. From 2003 to 2005, he served as the head football coach at Rose-Hulman Institute of Technology. His father, Ted Karras Sr., played for the Chicago Bears in the 1960s. His uncles also played in the NFL: Alex Karras for the Detroit Lions and Lou Karras for the Washington Redskins.
+
+Steve Helminiak: 
+Steve Helminiak is an American football coach. He is the head football coach at Loras College located in Dubuque, Iowa, a position he has held since midway through the 2013 season. Helminiak served as the head football coach at Southern Oregon University from 2006 to 2010.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Do Sun Tiantian and Tom Gullikson have the same nationality?
+        
+        assistant
+         No, they have different nationalities. Sun Tiantian is Chinese and Tom Gullikson is American.",no,0.0011940002441406,2.3001129627227783,-0.0446370169520378,0.0067796610169491,0.0067796610169491,Are Chris Marker and Yvonne Rainer American?

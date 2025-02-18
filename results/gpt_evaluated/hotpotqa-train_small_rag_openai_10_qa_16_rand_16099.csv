@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,"San Diego State University was founded in 1897, while The Northcap University was founded in 1996.",San Diego State University,0.3678722381591797,4.656161546707153,0.6382696628570557,0.4,0.4,The 2014 NBA Playoffs MVP attended what college? ,0
+1,Shirley Jones.,Shirley Jones,0.6048691272735596,2.194185495376587,0.9786975383758544,1.0,1.0,Who played the mother in the 1970ies American musical sitcom that also starred child actress Suzanne Crough?,1
+2,"Brunswick, Victoria.","Brunswick, Victoria",0.5867466926574707,2.37045693397522,0.988922953605652,1.0,1.0,Which inner-city suburb is the birthplace of an alleged Australian contract killer missing since May 1985?,1
+3,The Cincinnati Reds.,Cincinnati Reds,1.8018271923065183,1.849949598312378,0.9417012929916382,0.8,0.8,Ted Simmons was often overshadowed by the Hall of Fame catcher who played for what team?,1
+4,1945,1945,0.7173006534576416,2.408779621124268,1.0000001192092896,1.0,1.0,"What year was the singer of ""wavelength"" born ?",1
+5,"September 13, 2017.","September 13, 2017",0.3518838882446289,2.554886102676392,0.9756582975387572,1.0,1.0,"""Holiday Special"" is the third episode in the twenty-first season of the American animated television series ""South Park"", the twenty-first season of the American animated sitcom, premiered on Comedy Central on which date?",1
+6,Kenneth J. Alford.,Kenneth J. Alford,0.3134665489196777,2.665933609008789,0.98431795835495,1.0,1.0,"The composer of the operetta ""Chris and the Wonderful Lamp"" shares a nickname with what other composer?",0
+7,"No, Charles Nordhoff was an American novelist and traveler, but Erich Fromm was a German-born psychoanalyst and social philosopher.",no,0.6387667655944824,4.060573101043701,0.106184497475624,0.0952380952380952,0.0952380952380952,Are Chris Marker and Yvonne Rainer American?,0
+8,Le Château de la Belle au Bois Dormant.,Sleeping Beauty Castle,0.553065299987793,2.8090569972991943,0.3212312161922455,0.0,0.0,What castle is based on the late-19th century Neuschwanstein Castle in Germany and is at the center of Disneyland Paris?,1
+9,Montagu House at 22 Portman Square.,Montagu House,0.3168857097625732,2.8104248046875,0.7632346153259277,0.5,0.5,Which house in London was destroyed by the Luftwaffe in 1940?,1
+10,Silchar,Cachar,0.4203872680664062,2.116260290145874,0.3116186559200287,0.0,0.0,The city where Shahid Sachindra Paul Road is in is the headquarters of what district?,0
+11,Kiranjit Ahluwalia,Kiranjit Ahluwalia,0.3640358448028564,2.5713679790496826,1.0,1.0,1.0,Which Indian woman is Provoked  story based on,1
+12,"No, the New England Offering was published from 1847 to 1850, while Smith's Magazine was published from 1905 to 1922.",no,0.3094236850738525,4.3399271965026855,0.1233746856451034,0.0909090909090909,0.0909090909090909,Are Chris Marker and Yvonne Rainer American?,0
+13,Silesia.,"40,000 km2",0.3126130104064941,2.380845785140991,0.2262217104434967,0.0,0.0,"What is the area of this region of Central Europe located mostly in Poland, in which Złotniki Lubańskie was formerly part of the historic Upper Lusatia region at its border?",0
+14,"Yes, 2010.",no,0.2547399997711181,2.28169059753418,0.3078185617923736,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0
+15,United States.,American,0.511643648147583,2.186384439468384,0.5898011326789856,0.0,0.0,Kerry Remsen is the daughter of an actor with what ethnicity?,1

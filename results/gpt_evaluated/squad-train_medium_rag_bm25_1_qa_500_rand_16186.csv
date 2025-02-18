@@ -1,0 +1,501 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,"The enlisted forces of the US Air Force have been seen as a rear echelon support force, primarily not fighting on the front lines, unlike the officers.",primarily a rear echelon support force,0.0009067058563232,2.5820629596710205,0.5889378786087036,0.3636363636363636,0.303030303030303,How have the enlisted forces of the US Air Force been seen?,1
+1,E-1.,E-1 (entry level),0.0009450912475585,0.2946565151214599,0.8359647989273071,0.6666666666666666,0.6666666666666666,What is the lowest pay grade in the USAF?,1
+2,"The Lifan Yuan controlled the ""Inner Court"" of Mongolia and Tibet.",imperial family and Manchu nobility,0.0008020401000976,0.7182321548461914,0.3443151712417602,0.125,0.125,"Who controlled the ""Inner Court""?",0
+3,"The population explosion in the 18th century was due to a long period of peace and stability, and the introduction of new crops from the Americas, such as peanuts, sweet potatoes, and maize.",peace and stability in the 18th century and the import of new crops,0.0008416175842285,1.6827144622802734,0.7044878005981445,0.5217391304347827,0.391304347826087,What were the reasons for the population explosion during the 18th century?,1
+4,Wu Sangui and Dorgon.,Wu and Dorgon,0.0007882118225097,0.451632022857666,0.8483923077583313,0.8571428571428571,0.8571428571428571,Who beat Li Zicheng's army?,1
+5,2007.,2007,0.000892162322998,0.2933464050292969,0.9553945660591124,1.0,1.0,When was 'The Grand Concourse' published?,1
+6,Michael Wynne.,Michael Wynne,0.000823974609375,0.3001484870910644,0.98463773727417,1.0,1.0,What US Secretary of the Air Force resigned following a nuclear weapons problem ?,1
+7,Active defense is the employment of limited offensive action and counterattacks to deny a contested area or position to the enemy.,employment of limited offensive action and counterattacks,0.0008165836334228,1.0156636238098145,0.5623736381530762,0.5,0.5,"What is active defense, according to the functions of the DCA? ",1
+8,They were not. The text does not mention the 8 banners.,color,0.0008394718170166,0.6756620407104492,0.0274750832468271,0.0,0.0,How were the 8 banners recognized?,0
+9,The Uxbridge Blue dress uniform was developed at the former Bachman-Uxbridge Worsted Company.,former Bachman-Uxbridge Worsted Company,0.0008058547973632,0.937248706817627,0.6662857532501221,0.5263157894736842,0.5263157894736842,Where was the Uxbridge Blue dress uniform developed?,1
+10,After World War I.,1971,0.000856876373291,0.3322658538818359,0.3967504501342773,0.0,0.0,In what year was the Taragaon Museum built?,0
+11,The text does not mention what the Chinese got paid for their goods.,silver,0.0008161067962646,0.6749908924102783,0.0847565606236457,0.0,0.0,What did the Chinese get paid for their goods?,0
+12,The front of the battle line.,front of the battle,0.0008609294891357,0.4054863452911377,0.8778273463249207,0.8,0.8,What part of a battle line are the precision strike aircraft of the USAF deployed?,1
+13,World War I and World War II.,Second World War,0.0008265972137451,0.4470744132995605,0.7871930599212646,0.4,0.4,France has become a more ethnically diverse country since the end of which war?,0
+14,1947.,1947,0.0007932186126708,0.2983212471008301,0.9682352542877196,1.0,1.0,"When was the centrality of the ""separation"" concept to the Religion Clauses of the Constitution made explicit?",1
+15,September 1643.,September 1643,0.0008347034454345,0.3303022384643554,0.9809446334838868,1.0,1.0,When did Hong Taiji die?,1
+16,45,eight,0.0008225440979003,0.2195611000061035,0.4289536476135254,0.0,0.0,How many rivers travel through Kathmandu?,0
+17,Regional coffers and funds from the commanders.,provincial coffers,0.0008089542388916,0.4847579002380371,0.528127133846283,0.2222222222222222,0.2222222222222222,Who paid for the Yongying?,0
+18,1643.,1520,0.0008227825164794,0.2943983078002929,0.3711650967597961,0.0,0.0,In what year did the Stockholm Bloodbath take place?,0
+19,October 26.,October 26,0.0007808208465576,0.295964241027832,0.97698712348938,1.0,1.0,"In 2008, what month and day did Western Australia change their clocks?",1
+20,Peiwen Yunfu.,Peiwen Yunfu,0.0007750988006591,0.3714642524719238,0.984608829021454,1.0,1.0,What was the rhyme dictionary called that was published by Kangxi?,1
+21,"The text does not mention the age of Prince Chun. However, it does mention that his son, Puyi, was 2 years old when he was appointed successor.",two,0.0007655620574951,1.469527006149292,0.075032852590084,0.0,0.0,How many types are Nepali works of art typically divided into?,0
+22,Rural areas in Australia were generally more strongly opposed to DST.,rural,0.0007987022399902,0.6010284423828125,0.3741657733917236,0.1666666666666666,0.1666666666666666,Where does a majority of Namibia's people live?,0
+23,25%,one-sixth,0.0008261203765869,0.2567670345306396,0.3797628283500671,0.0,0.0,What proportion of bannerman were Manchu by 1648?,0
+24,Officers.,commissioned officers,0.0007815361022949,0.219292402267456,0.7772731781005859,0.6666666666666666,0.6666666666666666,What are these enlisted positions in the USAF complimented by?,1
+25,1995.,1995,0.0008895397186279,0.2924282550811767,0.9562497138977052,1.0,1.0,When did Sheptycki write about global policing?,1
+26,The Shunzhi Emperor.,Fulin,0.0007991790771484,0.4109256267547607,0.2021882385015487,0.0,0.0,Who became the emperor?,1
+27,"""Daylight Slaving Time""",Daylight Slaving Time,0.0008165836334228,0.4039061069488525,0.9195666909217834,1.0,1.0,What nickname have people in opposition to DST given it?,1
+28,Manchuria.,Manchuria,0.0008211135864257,0.2944819927215576,0.9792227149009703,1.0,1.0,Where did Hans go to to find land?,1
+29,"The Air Force does not have an ""OCA"" mentioned in the text. However, the Air Force has a function called ""Nuclear Deterrence Operations"" which is related to dealing with attacks.",suppression/destruction of enemy air defense,0.0008130073547363,1.7026729583740234,0.3986749649047851,0.0555555555555555,0.0555555555555555,What is one of the important functions of the OCA in dealing with attacks? ,0
+30,Trust-based relationships.,cross-cultural,0.0007860660552978,0.2970232963562011,0.2814605236053467,0.0,0.0,What sort of inter-personal relationships does Building Partnerships encourage? ,0
+31,Winter.,winter,0.0008540153503417,0.2193737030029297,0.9490090608596802,1.0,1.0,Which season is the most dry in Oklahoma?,1
+32,U.S. ground forces.,U.S. ground forces,0.0007796287536621,0.3693385124206543,0.9669700264930724,1.0,1.0,What are the ground-attack aircraft in the USAF usually deployed in support for? ,1
+33,hora tertia.,hora tertia,0.0007801055908203,0.2952053546905517,0.9840041399002076,1.0,1.0,What did the Romans call the third hour before sunrise?,1
+34,80%,80%,0.0007636547088623,0.2564816474914551,1.0,1.0,1.0,What percent of the population in Manchuria was Han?,1
+35,The C-NAF (Cyber National Mission Force) coordinates with the Air Force's Air Operations Center (AOC) and the Joint Force Headquarters (JFHQ) on ACEE (Air and Cyberspace Expeditionary) missions.,JFC,0.0008189678192138,2.0039334297180176,0.3469132781028747,0.0,0.0,Who does the C-NAFF coordinate with on ACEE missions?,0
+36,They provide close air support.,rescue downed or isolated personnel,0.0008041858673095,0.3731248378753662,0.1899450272321701,0.0,0.0,What do some of these special missions in the USAF who deploy with the infantry do?,0
+37,"Computer Network Defense (CND) is defined as operations to protect friendly space capabilities from attack, interference, or unintentional hazards.",computer network defense,0.0008225440979003,1.132009744644165,0.6307138204574585,0.2727272727272727,0.2727272727272727,What is the definition of CND?,1
+38,Large chunks of territory in the Northeast in 1860.,territory and trading rights,0.0007722377777099,0.5987915992736816,0.3394998013973236,0.1538461538461538,0.1538461538461538,What did the treaty give to the Russians?,0
+39,The British Royal Navy and British soldiers fought the Qing in the First Opium War.,British,0.0007989406585693,0.7835118770599365,0.252246618270874,0.125,0.125,What nationality will the new international school in Brasilia be?,0
+40,"There was no designated heir, but the leading contenders were Hong Taiji's oldest son Hooge and his half-brother Dorgon.",without a designated heir,0.000756025314331,1.2389216423034668,0.5646193027496338,0.16,0.16,Who was his heir?,1
+41,QF-4 and QF-16 aircraft.,F-4 Phantom II,0.0008425712585449,0.5594384670257568,0.4699093699455261,0.2,0.2,What kind of aircraft is utilized by the USAF in Full Scale Aerial Targets?,1
+42,Those in favor of DST would argue that it saves energy.,saves energy,0.000833511352539,0.5980463027954102,0.5521129369735718,0.3076923076923077,0.3076923076923077,Would those in favor of DST argue that it causes people to use more electricity or saves energy?,1
+43,Robert Gates.,Robert Gates,0.0008840560913085,0.257023811340332,0.9749785661697388,1.0,1.0,What US Secretary of Defense accepted resignations of top US Air Force officials in June of 2009?,1
+44,$30 million.,$30 million,0.0008585453033447,0.2956788539886474,0.9744817018508912,1.0,1.0,How much extra money from DST did Fortune predict for 7-Eleven on account of DST?,1
+45,Three hours.,three,0.0008120536804199,0.2539765834808349,0.4301813244819641,0.6666666666666666,0.6666666666666666,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?",0
+46,Weather reconnaissance.,weather reconnaissance aircraft,0.000847578048706,0.2567970752716064,0.8161193132400513,0.8,0.8,What did the USAF use the WC-130H aircraft for before they converted them for transport missions? ,1
+47,Humanitarian Assistance Operations.,Humanitarian Assistance Operations,0.0007784366607666,0.3346168994903564,0.9862823486328124,1.0,1.0,What are programs that are designed to help with natural or manmade disaters? ,1
+48,Nurhaci.,Nurhaci,0.0008466243743896,0.2921197414398193,0.9823832511901855,1.0,1.0,Who created the Eight Banners?,1
+49,The 1990s.,1990s,0.0008203983306884,0.3677518367767334,0.9253845810890198,0.6666666666666666,0.6666666666666666,When did NYC begin splitting up the large Bronx high schools?,1
+50,Explosive Ordnance Disposal (EOD) is one of the most dangerous jobs for USAF personnel.,Tactical Air Control Party,0.0007839202880859,1.019825458526611,0.2507816851139068,0.0,0.0,What is one of the most dangerous jobs for USAF personnel?,0
+51,The mast.,mast,0.0007588863372802,0.2425463199615478,0.8115361928939819,0.6666666666666666,0.6666666666666666,what was broken/damaged on the boat?,1
+52,"Over 3,400 books.","3,400 books",0.000784158706665,0.4080104827880859,0.8887165784835815,0.8571428571428571,0.8571428571428571,How many books were in the Siku Quanshu?,0
+53,By the end of the 17th century.,end of the 17th century,0.0007996559143066,0.5247721672058105,0.874983012676239,0.8333333333333333,0.8333333333333333,When did the Chinese economy finally recover after the wars with the Mings?,1
+54,"Dorgon declared the ""haircutting order"" in July 1645.","the ""haircutting order"")",0.0008153915405273,0.788200855255127,0.623791515827179,0.5454545454545454,0.5454545454545454,What did Dorgon declare in July of 1645?,1
+55,North and south of the tropics.,North and south of the tropics,0.0008597373962402,0.4484398365020752,0.9794982671737672,1.0,1.0,In what part of the world is daytime shorter in winter and longer in summer?,1
+56,1976.,1976,0.000791311264038,0.2933213710784912,0.9464104771614076,1.0,1.0,"When was the suffix ""in St. Louis"" added to Washington University?",1
+57,1850-1864.,(1850–64),0.0008149147033691,0.4129948616027832,0.7671228647232056,0.5,0.5,When was the Taiping rebellion?,1
+58,Prince.,perform rituals,0.0007812976837158,0.2156844139099121,0.0319375954568386,0.0,0.0,What was Zhu's job?,0
+59,"The provincial military commander (提督, tidu) is in charge of the Command and Control operations.",commander in planning,0.0008106231689453,0.9394471645355223,0.5070756673812866,0.2352941176470588,0.2352941176470588,Who is in charge of the Command and Control operations? ,0
+60,There is no mention of Imperial China in the given context.,"2,000 years",0.0008242130279541,0.5986106395721436,0.0175438933074474,0.0,0.0,How long did Imperial China last for?,0
+61,2001.,2001,0.000798225402832,0.2756075859069824,0.9585505723953248,1.0,1.0,When was vaccination used to prevent the spread of the foot-and-mouth virus?,1
+62,Han Chinese and Mongols.,Manchu and Mongol,0.0008764266967773,0.3743128776550293,0.7959182262420654,0.5714285714285715,0.5714285714285715,Which two ethnicities made up the majority of the Banner Armies?,0
+63,1723.,1723,0.0007617473602294,0.2925145626068115,0.9604822397232056,1.0,1.0,When did Yongzheng ban christianity?,1
+64,Liaodong.,Liaodong,0.0008175373077392,0.2948248386383056,0.9869499802589417,1.0,1.0,Where did a Han revolt occur?,1
+65,Cows.,cows,0.0008172988891601,0.2542657852172851,0.9690115451812744,1.0,1.0,What animal on dairy farms is affected by timing?,1
+66,Volcanic islands.,volcanic,0.0008068084716796,0.335749864578247,0.7993143200874329,0.6666666666666666,0.6666666666666666,Obsidian is what type of glass?,0
+67,"The Qing dynasty was led by the Aisin Gioro clan, specifically the emperors of the Manchu people.",Yuan Shikai,0.0007839202880859,1.0923612117767334,0.288036972284317,0.0,0.0,Who led the Qing?,0
+68,There is no mention of the Han Banners growing to eight in the given context.,1642,0.0008223056793212,0.7859780788421631,0.1252608597278595,0.0,0.0,When did the Han Banners grow to eight?,0
+69,"Oboi, a senior cabinet minister.",Dzungars,0.0008118152618408,0.4884076118469238,0.127035841345787,0.0,0.0,Who did Kangxi fight?,0
+70,Shun dynasty.,Shun,0.0008251667022705,0.2940049171447754,0.505279004573822,0.6666666666666666,0.6666666666666666,What dynasty did Zicheng form?,1
+71,Nuclear deterrence.,replace its aging fleet,0.0007967948913574,0.2924737930297851,0.1433084309101104,0.0,0.0,What is one of the concerns of the Air Force? ,0
+72,Over one year.,excess of one year,0.0008234977722167,0.2971041202545166,0.5119088888168335,0.5714285714285715,0.5714285714285715,How long does the flight training for the AETC's Nineteenth Air Force last? ,1
+73,Local time.,local time,0.000809907913208,0.2547762393951416,0.94398295879364,1.0,1.0,What does Microsoft Windows use internally for its real-time clock?,1
+74,Selected Han Chinese who passed the highest level of martial exams.,Han Chinese,0.0007975101470947,0.593433141708374,0.6495420336723328,0.3076923076923077,0.3076923076923077,What ethnicity was the majority in urban Manchuria?,0
+75,Air and Space Expeditionary Task Force (AETF).,Air and Space Expeditionary Task Force,0.0008013248443603,0.560131311416626,0.8511906862258911,0.923076923076923,0.923076923076923,What is the top level structure of these Chopped forces in the USAF? ,1
+76,Han Chinese.,Han Chinese,0.0008378028869628,0.2560479640960693,0.978737473487854,1.0,1.0,What ethnicity was the majority in urban Manchuria?,1
+77,The 18th century.,18th century,0.0008342266082763,0.3700487613677978,0.957527995109558,0.8,0.8,What century did Qing China stretch to its largest?,1
+78,getting up earlier.,get up earlier,0.0008912086486816,0.2944111824035644,0.900324285030365,1.0,1.0,Most people agree that a standardized schedule by DST is more practical than trying to do what in the morning on our own?,-1
+79,One hour.,one hour,0.0007965564727783,0.2587881088256836,0.930564284324646,1.0,1.0,For how much more time was the molten steel supposed to cool when the computer mix-up happened in the German steel facility?,1
+80,8,eight,0.0007808208465576,0.2170000076293945,0.9316006898880004,0.0,0.0,How many rivers travel through Kathmandu?,1
+81,Upgrades.,upgrades,0.0008468627929687,0.257568359375,0.8881615400314331,1.0,1.0,What did many existing computer systems that relied on time zones need because of the DST rule changes?,1
+82,1,one,0.0007894039154052,0.2193579673767089,0.7313902378082275,0.0,0.0,How many restaurants in the western style were present in Kathmandu circa 1955?,1
+83,"Command and Control is one of the core functions of the U.S. Air Force, referring to the ability to direct and coordinate military operations.",exercise of authority and direction by a properly designated commander over assigned and attached forces,0.0007791519165039,1.208061933517456,0.4788495898246765,0.3,0.15,What is the definition of Command and Control in the Air Force operations? ,0
+84,The text does not mention who the Secretary of the Air Force reports to.,Secretary of Defense,0.0007834434509277,0.7113587856292725,0.4187752306461334,0.2352941176470588,0.2352941176470588,What position was held by James Forrestal?,0
+85,One of the ways the Air Force uses Planning and Directing is through Command and Control.,development of appropriate intelligence architecture,0.0008740425109863,0.8273184299468994,0.2280451655387878,0.0952380952380952,0.0952380952380952,What is one of the ways that the Air Force uses Planning and Directing in its operations? ,0
+86,April 1644.,June 6,0.0007405281066894,0.3289296627044678,0.3515770733356476,0.0,0.0,When did Beijing fall?,0
+87,"Cargo and transport aircraft, such as the C-130, C-17, and C-5 Galaxy.",Cargo and transport,0.0007989406585693,0.9777133464813232,0.4963396787643432,0.3333333333333333,0.3333333333333333,What type of aircraft is used to deliver troops and weapons to military operations? ,1
+88,Equatorial Brazil.,equatorial Brazil,0.0007698535919189,0.2948024272918701,0.966455101966858,1.0,1.0,What part of Brazil does not observe DST?,1
+89,"Saint Helena, Ascension and Tristan da Cunha.",the British overseas territory of Saint Helena,0.0008087158203125,0.5976297855377197,0.5760644674301147,0.2857142857142857,0.2857142857142857,what territory is Tristan da Cunha part of?,1
+90,The text does not provide information about the geographical size of Qing China.,13 million km2,0.0008227825164794,0.67409348487854,0.0936759039759635,0.0,0.0,How many kilometers was Qing China at its height?,0
+91,Policy changes.,policy,0.0007972717285156,0.257920503616333,0.7241405248641968,0.6666666666666666,0.6666666666666666,What do jurisdictions sometimes change that mixes up DST dates and times?,1
+92,1642.,Qianlong's reign,0.0007853507995605,0.2965800762176513,0.228619635105133,0.0,0.0,When did Manchu ethnicity become important again in the Eight Banners?,0
+93,"330,000.","330,000",0.0008208751678466,0.3326504230499267,0.967738687992096,1.0,1.0,How many USAF personnel did the reduction end in during 2008?,1
+94,Budget constraints.,budget constraints,0.0007777214050292,0.2574267387390136,0.9360912442207336,1.0,1.0,Why did the USAF plan to take a reduction-in-force?,1
+95,Winter.,winter,0.0009157657623291,0.2198126316070556,0.9490090608596802,1.0,1.0,Which season is the most dry in Oklahoma?,1
+96,The Energy Policy Act of 2005.,the Energy Policy Act of 2005,0.0008187294006347,0.4827938079833984,0.9906626343727112,1.0,1.0,What act in the U.S. brought about the 2007 change in DST policy?,1
+97,"The text does not specify when Tibet became part of Qing China, but it mentions that the Imperial Household Department played a role in Qing relations with Tibet after 1661.",mid-18th century,0.0008227825164794,1.4392197132110596,0.2208041250705719,0.0,0.0,When did Tibet become part of Qing China?,0
+98,"They called it ""China"" (Zhōngguó) in Chinese and ""Dulimbai Gurun"" in Manchu.",China,0.0008137226104736,1.208097219467163,0.4497645199298858,0.1428571428571428,0.1428571428571428,Who was providing supplies to the Vietnamese communists fighting against France?,0
+99,consulting a table of rule sets.,specifying the name of a location,0.0008070468902587,0.4111876487731933,0.0193985253572464,0.3333333333333333,0.1666666666666666,"Similar to systems using zoneinfo, Microsoft Windows calculates DST by doing what?",0
+100,1932.,1932,0.0007462501525878,0.294701337814331,0.9725922346115112,1.0,1.0,From when was it taught that the little flock would not be the only people to survive Armageddon?,1
+101,Autumn.,autumn,0.0008392333984375,0.2196731567382812,0.959092378616333,1.0,1.0,What season in Richmond is most likely to see periods of dryness?,1
+102,There is no mention of a specific Russian president in the text.,Dmitri Medvedev,0.0008111000061035,0.6389262676239014,0.1899350434541702,0.0,0.0,Which Russian president argued that the country should stay in DST year-round because of the stresses of time shifts?,0
+103,Nurhaci.,Nurhaci,0.0008020401000976,0.275550365447998,0.9823832511901855,1.0,1.0,Who created the Eight Banners?,1
+104,Time zone boundaries.,time zone differences,0.0008454322814941,0.295992374420166,0.7638305425643921,0.6666666666666666,0.6666666666666666,"By using UTC, applications get out of adjusting to changes around clock shifts and what other factor?",0
+105,Personnel Recovery.,Personnel Recovery,0.0008211135864257,0.2548305988311767,0.9719811081886292,1.0,1.0,What does the abbreviation PR stand for in terms of the US military?,1
+106,Taiwan.,Taiwan,0.0008072853088378,0.2178177833557129,0.9494426250457764,1.0,1.0,Where did the US Air Force accidentally ship a component of Nuclear Weapons? ,1
+107,There is no mention of the Qing losing a city in 1853 in the given context.,Nanjing,0.000762939453125,0.8648569583892822,0.2322252988815307,0.0,0.0,What city did the Qing lose in 1853?,0
+108,1959.,1959,0.0008132457733154,0.2955889701843261,0.96828693151474,1.0,1.0,When did the USAF stop appointing warrant officers?,1
+109,Robert Garland.,Robert Garland,0.0008215904235839,0.2568128108978271,0.980614423751831,1.0,1.0,What industrialist from Pittsburgh campaigned strongly in favor of DST?,1
+110,"The last Qing emperor was Puyi, but the text does not mention him. However, the text does mention the Shunzhi Emperor, who was the first Qing emperor.",Puyi,0.0007436275482177,1.5570433139801023,0.4811437726020813,0.0714285714285714,0.0714285714285714,Who was the last Qing emperor?,1
+111,"""Tartarized Chinese"" or ""Tartarified Chinese"".","""Tartarized Chinese"" or ""Tartarified Chinese""",0.0008242130279541,0.7141273021697998,0.9676973223686218,1.0,1.0,What did the Europeans call Han Bannermen?,1
+112,"None, it adjusted its DST schedule around a weekend midnight.",Easter,0.0007886886596679,0.5999875068664551,0.1665974706411361,0.0,0.0,What holiday was the inducement to revise the Julian calendar?,0
+113,The British East India Company and the Dutch East India Company.,British East India Company and the Dutch East India Company,0.0008025169372558,0.5966882705688477,0.9789525270462036,0.9523809523809524,0.9523809523809524,Which two European companies traded in Canton?,1
+114,1 year of training with a preliminary school and a main school consisting of over 10 separate divisions.,one year of training with a preliminary school,0.000842809677124,0.9413950443267822,0.7971009612083435,0.5384615384615385,0.5384615384615385,How long is the training for Explosive Ordnance Disposal in the USAF?,1
+115,U.S. Army Air Forces.,U.S. Army Air Forces,0.0007667541503906,0.4100353717803955,0.9468076825141908,1.0,1.0,What does the USAAF stand for? ,1
+116,The Qing thought Han Chinese Green Standard Army soldiers were superior at battling other Han people.,other Han people,0.0007874965667724,0.7868845462799072,0.3933112621307373,0.3157894736842105,0.3157894736842105,Who did the Qing think were the better soldiers to battle Han Chinese?,1
+117,Yihetuan.,Righteous and Harmonious Fists,0.0007836818695068,0.3320655822753906,0.1179822012782096,0.0,0.0,What was another name for the Boxers?,1
+118,Outdoor sports enthusiasts and businesses.,sporting goods,0.000847578048706,0.3678829669952392,0.5963709950447083,0.2857142857142857,0.2857142857142857,What category of goods that are used in outdoor activities benefit from the extra hour of daylight from DST?,0
+119,The Treaty of Nanjing.,"Treaty of Nanjing,",0.0007688999176025,0.3735222816467285,0.9760905504226683,0.8571428571428571,0.8571428571428571,What treaty marked the end of the First Opium War?,1
+120,summer.,summer,0.0008811950683593,0.2186026573181152,0.9578108191490172,1.0,1.0,What season is red identified with in China?,1
+121,1938.,1938,0.000758409500122,0.2961072921752929,0.9626467227935792,1.0,1.0,When was 'The War of the Worlds' radio broadcast?,1
+122,NTFS.,NTFS,0.0008614063262939,0.2551746368408203,0.9570924043655396,1.0,1.0,What file system do recent Windows versions use?,1
+123,Precision strikes.,precision strikes,0.0007927417755126,0.2552800178527832,0.9664064645767212,1.0,1.0,What does the closeness to friendly troops require of these US Air Force aircraft?,1
+124,2006.,2006,0.0008876323699951,0.2960879802703857,0.9468034505844116,1.0,1.0,When did the Kathmandu valley monuments receive WHS status?,1
+125,All years.,all years,0.0007939338684082,0.2581968307495117,0.9328994154930116,1.0,1.0,What years will a new TZ value apply to?,1
+126,Promotion to major through major general is through a formal selection board process.,Promotion to major through major general,0.0008130073547363,0.6739463806152344,0.8014731407165527,0.631578947368421,0.631578947368421,What promotion in the USAF is governed by a formal selection process?,1
+127,There is no mention of a country near China being controlled by Europeans in the given context.,India,0.0008211135864257,0.8271708488464355,0.1643098592758178,0.0,0.0,Where are the Deccan Traps?,0
+128,Winter.,winter,0.0008468627929687,0.2198131084442138,0.9490090608596802,1.0,1.0,Which season is the most dry in Oklahoma?,1
+129,Maritime trade.,maritime trade,0.0007591247558593,0.2561063766479492,0.9726130962371826,1.0,1.0,What were the economies of the European empires built on?,1
+130,Territory and trading rights.,Mongolia,0.0008089542388916,0.3311729431152344,0.2745930552482605,0.0,0.0,What did the Qing get from the Treaty of Kyakhta?,0
+131,Empress Dowager Cixi.,Kang Youwei,0.0007979869842529,0.4460997581481933,0.3206728100776672,0.0,0.0,Name an advisor to Guangxu?,0
+132,24 years old.,twenty-four,0.0008134841918945,0.3312692642211914,0.4753828644752502,0.0,0.0,How old was Shunzhi at his death?,1
+133,Railroads.,rail,0.0007915496826171,0.2543585300445556,0.5771054029464722,0.0,0.0,What kind of transportation network helped encourage keeping more exact schedules?,1
+134,Commissioned Officer Training (COT).,Commissioned Officer Training,0.000812292098999,0.4464161396026611,0.8783841133117676,0.8571428571428571,0.8571428571428571,What does the Air Force provide for officers of direct to non-line positions?,1
+135,1947.,1947,0.0007514953613281,0.2946197986602783,0.9682352542877196,1.0,1.0,"When was the centrality of the ""separation"" concept to the Religion Clauses of the Constitution made explicit?",1
+136,The Chief of Staff of the Air Force.,Chief of Staff of the Air Force,0.0007991790771484,0.4859983921051025,0.9801257848739624,0.9333333333333332,0.9333333333333332,Who serves as a member of the Joint Chiefs of Staff?,1
+137,Before dawn.,before dawn,0.0008401870727539,0.2563071250915527,0.971726417541504,1.0,1.0,When does  Dirty Mas take place on the Monday before Ash Wednesday?,1
+138,"October 30, 1644.",October 30,0.000770092010498,0.4493465423583984,0.5546342730522156,0.8,0.8,When did the Shunzhi emperor become the Son of Heaven?,1
+139,"Han Chinese, Manchu, and Mongol.",Manchu noblemen and Han officials,0.0008111000061035,0.5218923091888428,0.7080340385437012,0.6,0.4000000000000001,Which ethnicities made up the Qing government?,0
+140,There is no mention of China exporting anything in the given context.,"tea, silk and manufactures",0.000760793685913,0.6382937431335449,0.2287280708551406,0.0,0.0,What did China export?,0
+141,"Space superiority encompasses freedom of action in space for friendly forces and, when directed, denies the same freedom to the adversary.","localized in time and space, or it may be broad and enduring",0.0007705688476562,1.0519092082977295,0.2045483440160751,0.1818181818181818,0.1818181818181818,What does Space Superiority encompass? ,0
+142,"Nurhaci, the chieftain of the Aisin Gioro tribe.",Jurchen,0.000800609588623,0.8271312713623047,0.2054277211427688,0.0,0.0,Who founded the Qing dynasty?,0
+143,There is no mention of the time change being scheduled on a specific day of the week in the given context.,weekend,0.0008506774902343,0.9771020412445068,0.3478419780731201,0.0,0.0,During what part of the week is the time change most often scheduled?,0
+144,Judge Advocate General (JAG) is a legal officer specialty.,judge advocate general,0.0007474422454833,0.6366326808929443,0.7108287811279297,0.5,0.5,What kind of AFSC is a JAG?,1
+145,There is no mention of the Europeans in the given context.,Hundred Days' Reform of 1898,0.000807762145996,0.5995471477508545,0.0970801040530204,0.125,0.125,What did the emperor do in response to so many defeats by the Europeans?,0
+146,The F-16 Fighting Falcon.,F-16,0.0008234977722167,0.4098997116088867,0.6248334646224976,0.5714285714285715,0.5714285714285715,What aircraft is used by the US Air Demonstration group The Thunderbirds?,1
+147,Ora legale.,ora legale,0.0008630752563476,0.3318355083465576,0.9874781370162964,1.0,1.0,"What term do Italians use for DST that literally translates as ""legal time""?",1
+148,The B-21.,B-21,0.0008330345153808,0.3339002132415771,0.9035485982894896,0.8,0.8,What aircraft is scheduled to replace the B-52 in the USAF?,1
+149,"""Warrior""","Mongolian word that means ""warrior""",0.0007715225219726,0.2949259281158447,0.668510913848877,0.3333333333333333,0.3333333333333333,What Mongolian word did Qing dynasty get it's name from?,1
+150,1918.,1918,0.000840425491333,0.2947678565979004,0.9612902998924256,1.0,1.0,In what year did Argentina's University Revolution occur?,1
+151,Parisians.,Parisians,0.0008084774017333,0.2565929889678955,0.9812760949134828,1.0,1.0,Which group of people did Franklin say would save candles by waking up earlier?,1
+152,The text does not mention the population of the island.,267,0.0007524490356445,0.5449190139770508,0.1088663786649704,0.0,0.0,What is the population of the island?,0
+153,53,53,0.0008561611175537,0.2177169322967529,1.0000001192092896,1.0,1.0,How many literary persecutions were there under Qianlongs reign?,1
+154,Jianzhou.,Jianzhou,0.0007698535919189,0.2566590309143066,0.9767653942108154,1.0,1.0,Where did Nurhachi move his court from?,1
+155,The Qing dynasty's maritime naval weakness.,naval weakness,0.0007894039154052,0.448028564453125,0.7091469764709473,0.4444444444444445,0.4444444444444445,What was the main problem the Qing had in preventing invasion from Europe?,1
+156,Juye Incident.,Juye Incident,0.0007910728454589,0.291301965713501,0.9842031002044678,1.0,1.0,What was the murders of the missionaries called?,1
+157,The Air Force coordinates with the Department of Defense (DoD) and the Department of Energy (DOE) for nuclear security.,Departments of Defense or Energy,0.0008308887481689,1.1344704627990725,0.6280273795127869,0.3333333333333333,0.3333333333333333,What other US departments does the Air Force coordinate with for nuclear security? ,1
+158,Qi Jiguang.,Qi Jiguang,0.0007848739624023,0.3340909481048584,0.9822546243667604,1.0,1.0,Who inspired Zeng Guofan in creating his army?,1
+159,Idaho.,Idaho,0.0008113384246826,0.2185103893280029,0.9642766714096068,1.0,1.0,In what state is Argonne National Laboratory's Experimental Breeder Reactor I located?,1
+160,The Chinese southern fleet.,Beiyang Fleet,0.0007662773132324,0.332406997680664,0.6633412837982178,0.3333333333333333,0.3333333333333333,Which fleet did the Japanese destroy?,0
+161,The Convention of Beijing.,Convention of Beijing,0.0007860660552978,0.3345856666564941,0.982554852962494,0.8571428571428571,0.8571428571428571,What did Prince Gong sign?,1
+162,Bombers.,bomber,0.000859260559082,0.2556767463684082,0.770155131816864,1.0,1.0,What type of USAF aircraft is designed for long range airstrike attacks? ,1
+163,Daylight Saving for South East Queensland (DS4SEQ),Daylight Saving for South East Queensland,0.000807762145996,0.5982937812805176,0.9226720333099364,0.923076923076923,0.923076923076923,What was the name of Queensland's political party set up solely to support their particular DST arrangement?,1
+164,"36,304 volumes.","36,304 volumes",0.0008065700531005,0.3722970485687256,0.967875599861145,1.0,1.0,How many volumes were in the Siku Quanshu?,1
+165,One hour.,one hour,0.000856876373291,0.2549636363983154,0.930564284324646,1.0,1.0,For how much more time was the molten steel supposed to cool when the computer mix-up happened in the German steel facility?,1
+166,Critical C2 networks/communications links and nuclear C2 networks.,C2 networks/communications links and nuclear C2 networks,0.0007925033569335,0.6319890022277832,0.9549353718757628,0.9411764705882352,0.9411764705882352,What important networks is it the function of Cyberspace support to protect?,1
+167,"His son, Shang Zhixin.",his son,0.0008211135864257,0.4445743560791015,0.5060544013977051,0.6666666666666666,0.6666666666666666,Who did Kexi thing should take over for him?,1
+168,Wu Sangui's forces were crushed by the Green Standard Army.,crushed by the Green Standard Army,0.0008144378662109,0.6354024410247803,0.6558271646499634,0.7058823529411764,0.7058823529411764,What happened to Wu's army?,1
+169,In 1860.,1860,0.000802993774414,0.3302106857299804,0.8769756555557251,0.6666666666666666,0.6666666666666666,When was the Second Opium War?,1
+170,Iran.,Iran,0.0008273124694824,0.2184405326843261,0.92861407995224,1.0,1.0,"Along with Guatemala, what country's government did Eisenhower order overthrown?",1
+171,a rescue boot disk.,a rescue boot disk,0.0008270740509033,0.333859920501709,0.9428591728210448,1.0,1.0,"Not using UTC, Windows can't multi boot with different versions of itself like you'd need to do to use what kind of disk?",1
+172,The 2005 Israeli Daylight Saving Law.,The 2005 Israeli Daylight Saving Law,0.0008444786071777,0.5229463577270508,0.9822447299957277,1.0,1.0,What law regulated the rules for time shifts in Israel according to the Jewish calendar?,1
+173,1895.,1683,0.0007426738739013,0.2967350482940674,0.3759113550186157,0.0,0.0,When did Taiwan fall?,0
+174,"Building Partnerships aims to develop, guide, and sustain trust-based relationships for mutual benefit and security through collaboration with foreign partners, domestic partners, and other relevant actors.","develop, guide, and sustain relationships for mutual benefit and security",0.0008254051208496,1.39621901512146,0.7109292149543762,0.5405405405405406,0.5405405405405406,What are the goals of the Building Partnership interactions?,1
+175,solar time,solar time,0.00081467628479,0.2192604541778564,1.0,1.0,1.0,"What does the Italian term for their winter time, ora solare, translate to in English?",1
+176,Wu Sangui did not destroy the Qing armies. He actually allied with them.,1673-1674,0.0007617473602294,0.7480020523071289,-0.0115338787436485,0.0,0.0,When did Wu destroy the Qing armies?,0
+177,The text does not mention the US Navy's responsibilities. It discusses the Air Force's core functions and mission sets.,sea-based operations from aircraft carriers and amphibious aircraft,0.0008513927459716,1.013777494430542,0.4124806225299835,0.0666666666666666,0.0666666666666666,What does the US Navy's responsibilities include?,0
+178,"Issued an imperial edict calling for reform proposals and initiated the ""New Policies"" or ""Late Qing Reform"".",issued an imperial edict,0.0008010864257812,1.0163419246673584,0.6132310628890991,0.3809523809523809,0.3809523809523809,What did Cixi do in 1901?,1
+179,There is no mention of the Qing dynasty in the given context.,1894,0.0008025169372558,0.637082576751709,0.1432097852230072,0.0,0.0,When was the Armenian Mosaic re-discovered?,0
+180,The direction to shift clocks during daylight saving time.,which direction to shift clocks,0.0008275508880615,0.5216879844665527,0.8151355981826782,0.5714285714285714,0.5714285714285714,"What does ""spring forward, fall back"" help people remember?",1
+181,Yuan Shikai.,General Yuan Shikai,0.0007593631744384,0.3331756591796875,0.8840363621711731,0.8,0.8,Who became the President of the Republic of China?,1
+182,China proper.,China proper,0.0008144378662109,0.2555940151214599,0.9709808230400084,1.0,1.0,What is another name for the main 18 provinces?,1
+183,War.,war,0.0008268356323242,0.2203538417816162,0.8756686449050903,1.0,1.0,Soldiers and boys helped by Porter Military Academy were affected by what?,1
+184,Air Force Officer Training School (OTS),Air Force Officer Training School,0.0008308887481689,0.4413838386535644,0.8551455736160278,0.9090909090909092,0.9090909090909092,What is another program that allows officers to become commissioned in the USAF?,1
+185,"3 departments: Department of the Army, Department of the Navy, and Department of the Air Force.",three,0.0007853507995605,0.9360175132751464,0.2403277456760406,0.0,0.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?",0
+186,1816.,1816,0.000852346420288,0.2930879592895508,0.9636778831481934,1.0,1.0,"When was the ""american colonization society founded""?",1
+187,1641.,1637,0.0007791519165039,0.2926409244537353,0.5661278963088989,0.0,0.0,When were the first couple Han Banners founded?,0
+188,Complexity.,complexity,0.0007917881011962,0.2175624370574951,0.93230402469635,1.0,1.0,"Works of classical repertoire exhibit what in their use of orchestration and harmony, and form?",1
+189,1506.,1506,0.0007796287536621,0.2947220802307129,0.9656709432601928,1.0,1.0,When was St. Francis Xavier born?,1
+190,Kangxi's reign.,High Qing,0.0008065700531005,0.3288381099700928,0.412732720375061,0.0,0.0,What era did Kanxi's rule kick off?,0
+191,The Anglo-Chinese Convention of 1906.,1906 Anglo-Chinese Convention,0.0008125305175781,0.5195291042327881,0.9827762246131896,0.8,0.6,What was the name of the agreement between Britain and the Chinese that kept the British out of Tibet?,1
+192,"Three: civil, military, and censorate.",nine,0.0007951259613037,0.5218596458435059,0.156895250082016,0.0,0.0,How many stories made up the Dharahara tower?,0
+193,There is no mention of missionaries being killed in the given context.,Shandong Province,0.000819444656372,0.6352925300598145,0.0848537236452102,0.0,0.0,Where were the missionaries killed?,0
+194,Residential lighting and incandescent lighting.,lighting and heating,0.000833511352539,0.4469678401947021,0.6487632989883423,0.5,0.5,What two sources of energy use do DST proponents say are reduced by the time change?,0
+195,electricity.,energy,0.0007984638214111,0.220719575881958,0.6666168570518494,0.0,0.0,The first law of thermodynamics asserts that what is always conserved and that heat flow is a form of energy transfer?,0
+196,The Senate.,Senate,0.0008254051208496,0.2539684772491455,0.909447431564331,0.6666666666666666,0.6666666666666666,What group determined the truth of a prodigy?,1
+197,2 years.,virtually guaranteed after two years,0.0008747577667236,0.2932543754577636,0.5817849040031433,0.2857142857142857,0.2857142857142857,How long does it usually take to be promoted from second to first lieutenant in the USAF? ,1
+198,The United States Air Force (USAF) is in charge of Cyberspace Superiority.,Air Force,0.0008094310760498,0.8617861270904541,0.6138685345649719,0.2857142857142857,0.2857142857142857,What branch of the military is in charge of Cyberspace defense? ,1
+199,Li Zicheng's army fought Wu Sangui and the Manchus.,Wu Sangui,0.0007917881011962,0.7470242977142334,0.5872199535369873,0.3333333333333333,0.3333333333333333,Who was the most important Ming general?,0
+200,"The Missile Badge (or ""pocket rocket"") is one of the authorized badges in the USAF.",Shields of USAF Fire Protection,0.0007696151733398,0.9407691955566406,0.4799200296401977,0.2,0.2,What is one of the types of Authorized Badges in the USAF? ,0
+201,"The US Air Force has traditions such as ""Friday Name Tags"", ""Mustache Month"", ""challenge coins"", and the ""roof stomp"".","""Friday Name Tags"" in flying units",0.0007655620574951,1.2286169528961182,0.6812632083892822,0.2399999999999999,0.2399999999999999,What traditions does the US Air Force have? ,0
+202,1963.,1963,0.0007638931274414,0.2776083946228027,0.9626424908638,1.0,1.0,In what year did the Robbins report say that universities should have four objectives to remain balanced?,1
+203,The United States.,United States,0.0007810592651367,0.2946259975433349,0.8440276384353638,0.8,0.8,What country is more religious than other developed nations?,1
+204,"""Chopped"" units are referred to as ""forces"" in the USAF.",forces,0.0007541179656982,0.7856528759002686,0.3166579604148865,0.1818181818181818,0.1818181818181818,"What are ""Chopped"" units called in the USAF?",1
+205,Agrarian societies.,agrarian,0.0008101463317871,0.2942454814910888,0.8777421712875366,0.6666666666666666,0.6666666666666666,"What reform, initiated by Nasser, caused the Egyptian economy to grow?",0
+206,1623.,1623,0.0008001327514648,0.2933146953582763,0.964799165725708,1.0,1.0,When did a Han revolt occur?,1
+207,Daylight saving time.,daylight saving time,0.0008192062377929,0.3343474864959717,0.9239258766174316,1.0,1.0,Which form of the phrase is more common in print publications?,1
+208,"703,583 hectares.","500,000 hectares",0.0007956027984619,0.3693270683288574,0.7409226894378662,0.3333333333333333,0.3333333333333333,How much land did the Han cultivate?,0
+209,"The US employs the global reach capability of airlift to deliver forces to crisis locations, demonstrating resolve and compassion in humanitarian crises.",delivering forces to crisis locations,0.0007946491241455,1.0918965339660645,0.5928843021392822,0.3703703703703703,0.3703703703703703,How does the US employ the global reach capability of airlift? ,1
+210,There is no mention of an island in the given context.,the opening of the Suez Canal,0.0008115768432617,0.5979876518249512,0.1716017723083496,0.2352941176470588,0.2352941176470588,what is one reason that caused the island to become less used?,0
+211,1916.,1916,0.0007758140563964,0.2931208610534668,0.9689031839370728,1.0,1.0,In what year did Rome Ciampino Airport open?,1
+212,"Viceroy or governor-general (總督, zongdu)",governor,0.0008001327514648,0.6751914024353027,0.5406633615493774,0.3333333333333333,0.3333333333333333,What was the name of the highest ranking official in a province?,0
+213,1895.,1895,0.000772476196289,0.2943873405456543,0.971369445323944,1.0,1.0,When did New York City annex part of Eastchester?,1
+214,"Studies have shown mixed results, but some have suggested that DST may increase motor fuel consumption.",increases,0.0008506774902343,0.8241052627563477,0.2215945571660995,0.1176470588235294,0.1176470588235294,Does intimacy between same-sex siblings increase or decrease during adolescence?,0
+215,Xinjiang.,Xinjiang,0.0008337497711181,0.2542769908905029,0.9741626977920532,1.0,1.0,What is another name for Chinese Turkestan?,1
+216,"The B-52H, B-1B, C-130, C-17, C-5, and CV-22 will be available for use by the US Air Force in 2017.",KC-46A Pegasus,0.0008046627044677,1.7394957542419434,0.3298187553882599,0.0,0.0,What aircraft will be available for use by the US Air Force in 2017?,0
+217,The Beiyang Army.,the New Army,0.0007534027099609,0.3728735446929931,0.5590512752532959,0.6666666666666666,0.6666666666666666,What was the new modern army called?,0
+218,Manchu and Han Chinese.,Manchu and a Han Chinese,0.0008125305175781,0.3710544109344482,0.9650579690933228,0.888888888888889,0.888888888888889,Which two ethnicities made up each position in government?,1
+219,"Air, space, cyberspace, nuclear, and agile combat support operations.",agile combat support operations,0.0008413791656494,0.7500748634338379,0.6989750266075134,0.6153846153846153,0.6153846153846153,What is one of the C2 related functions that the Command and Control mission of the Air Force uses? ,1
+220,The operational environment that Space Control depends on is the space environment.,space situational awareness,0.0007991790771484,0.6310045719146729,0.5343761444091797,0.1333333333333333,0.1333333333333333,What is the operational environment that Space Control depends on? ,0
+221,Hooge and Dorgon.,Hong Taiji's oldest son Hooge and Hong Taiji' half brother Dorgon,0.0008285045623779,0.4107406139373779,0.5444525480270386,0.4,0.4,Who were the likely heirs?,1
+222,Fujian.,Fujian,0.0008363723754882,0.2573461532592773,0.9785184860229492,1.0,1.0,Where did the fight between Ming loyalists and Manchus occur?,1
+223,Early 20th century.,early 20th century,0.0007867813110351,0.3563799858093261,0.9656801819801332,1.0,1.0,When did the British invade Tibet?,1
+224,Heavy fuel oil.,heavy fuel oil,0.0008180141448974,0.2770905494689941,0.9208344221115112,1.0,1.0,What was spilled when the freighter ran aground?,1
+225,"The Great Divergence refers to the economic gap between China and the Western world, where the West overtook China's economic growth.",Western world overtook China economically,0.0007729530334472,1.1672403812408447,0.6240733861923218,0.3703703703703703,0.3703703703703703,What was the Great Divergence?,1
+226,"""Spring forward, fall back""","spring forward, fall back",0.000788927078247,0.4083213806152344,0.9279362559318542,1.0,1.0,What phrase is often used in North America when speaking about DST?,1
+227,1918.,1918,0.0007753372192382,0.2942214012145996,0.9612902998924256,1.0,1.0,In what year did Argentina's University Revolution occur?,1
+228,To deny the opponent an advantage in the EMS and ensure friendly access to the EM spectrum.,deny the opponent an advantage in the EMS,0.0008087158203125,0.8281662464141846,0.6700218915939331,0.6399999999999999,0.6399999999999999,What is the purpose of electronic warfare?,1
+229,Time zone.,time zone,0.000807762145996,0.2555863857269287,0.9288813471794128,1.0,1.0,"When using a sundial, we must adjust the reading to reflect natural discrepancies and the effect of what other influence?",1
+230,Decreased economic efficiency.,decreased economic efficiency,0.0008497238159179,0.3338167667388916,0.9639726877212524,1.0,1.0,What have some people argued correlates with time shifts from daylight savings?,1
+231,Taiwan.,north of the Great Wall,0.0007762908935546,0.2174994945526123,0.3136671781539917,0.0,0.0,Where did the Ming armies retreat to?,0
+232,Electronic Warfare/Jamming.,Electronic Warfare/Jamming,0.0007648468017578,0.3699479103088379,0.9526983499526978,1.0,1.0,What is the EC-130H used for by the US Air Force? ,1
+233,2,two,0.0008203983306884,0.21848726272583,0.8183472156524658,0.0,0.0,How many types are Nepali works of art typically divided into?,1
+234,3.5%,3.5%,0.0008149147033691,0.3335459232330322,1.0,1.0,1.0,What percentage of all electricity usage in the U.S. and Canada is from residential lighting?,1
+235,"Wing, group, or squadron websites.","wing, group, or squadron websites",0.000809907913208,0.4220550060272217,0.98986154794693,1.0,1.0,"Where can individual each USAF wing, group or squadrons individual motto be found?",1
+236,There is no mention of Hudson or DST in the given context.,William Willett,0.0008282661437988,0.6363728046417236,0.2278390228748321,0.0,0.0,"Some people believe it wasn't Hudson who created DST, but an Englishman by what name?",0
+237,12 core functions.,twelve,0.0008425712585449,0.3301024436950683,0.3904165029525757,0.0,0.0,How many core functions did the Air Force reduce its duties down to recently? ,1
+238,"Canton, Amoy, Fuchow, Ningpo, and Shanghai.","Canton, Amoy, Fuchow, Ningpo and Shanghai",0.0008275508880615,0.7138769626617432,0.9888060688972472,1.0,1.0,What 5 ports did the treaty force open?,1
+239,"Major General Charles J. Dunlap, Jr.","Major General Charles J. Dunlap, Jr.",0.0008244514465332,0.5208735466003418,1.0000001192092896,1.0,1.0,What author wrote about the US Air Force egalitarian culture?,1
+240,Magnify.,magnify,0.0008699893951416,0.2543518543243408,0.9690241813659668,1.0,1.0,Does daylight savings sometimes minimize or magnify the drawbacks of standard time?,1
+241,"Jade, ginseng, salt, furs.","jade, ginseng, salt, furs",0.0007631778717041,0.5624287128448486,0.9932889938354492,1.0,1.0,What did China trade with Tibet and Mongolia?,1
+242,1784.,1784,0.000819444656372,0.2931194305419922,0.9559641480445862,1.0,1.0,When did Britain pass Pitt's India Act?,1
+243,The Jiangnan region.,Jiangnan region,0.0008203983306884,0.3319909572601318,0.9647237062454224,0.8,0.8,Where were textile factories located?,1
+244,The Qing court.,Lifan Yuan,0.0008425712585449,0.2896592617034912,0.3799326121807098,0.0,0.0,What was the main government entity that ran the territories like Tibet?,0
+245,300 million.,300 million,0.000807762145996,0.2945141792297363,0.9780323505401612,1.0,1.0,What was China's population at the end of the 18th century?,1
+246,2,two,0.0007901191711425,0.2178177833557129,0.8183472156524658,0.0,0.0,How many types are Nepali works of art typically divided into?,1
+247,The British government.,the British government,0.000795841217041,0.277294397354126,0.9721879363059998,1.0,1.0,"Who continued to advise governors-general of granting of assent, even after their colonies had responsible government?",1
+248,Imperial commissioners and garrisons were sent to oversee the affairs of Tibet and Mongolia.,Lifan Yuan,0.0008068084716796,0.7890334129333496,0.1663463711738586,0.0,0.0,What was the main government entity that ran the territories like Tibet?,0
+249,The first occurrence of anti-Manchu feeling mentioned in the text is when Yongzheng decapitated an anti-Manchu writer his father had pardoned.,The Taiping Rebellion,0.0007834434509277,1.3188040256500244,0.3023580014705658,0.0769230769230769,0.0769230769230769,What marked the first occurence of anti-Manchu feeling?,0
+250,"Li Zicheng was a rebel leader who led a coalition of 200,000 forces against the Ming garrison at Shanhai Pass.",former minor Ming official,0.0007712841033935,1.205375909805298,0.2741082310676574,0.08,0.08,Who was Li Zicheng?,0
+251,98 square kilometres.,98,0.0008208751678466,0.3307442665100097,0.388243019580841,0.5,0.5,How many miles of shelving are in BYU's Harold B. Lee Library?,0
+252,"Zhao Liangdong, Wang Jinbao, and Sun Sike.","Shang Kexi, Geng Zhongming, and Kong Youde",0.0008227825164794,0.6690776348114014,0.5625299215316772,0.1428571428571428,0.1428571428571428,Who were the three Liandong Han bannermen who were instrumental in the taking of southern China?,0
+253,Manchu and selected Han Chinese.,Manchus,0.0007960796356201,0.4082417488098144,0.7343682050704956,0.3333333333333333,0.3333333333333333,What ethnicity made up the Upper Three Banners?,0
+254,1895.,1895,0.0007574558258056,0.293299913406372,0.971369445323944,1.0,1.0,When did New York City annex part of Eastchester?,1
+255,Ramadan.,Ramadan,0.0008554458618164,0.2205407619476318,0.9649866223335266,1.0,1.0,Which month is designated for fasting in the Quran?,1
+256,Yuan Shikai.,Yuan,0.0007829666137695,0.3300783634185791,0.7968350648880005,0.6666666666666666,0.6666666666666666,Who became the President?,1
+257,Nuclear surety.,Nuclear surety,0.0008168220520019,0.2920527458190918,0.9782701730728148,1.0,1.0,What ensures the safety of nuclear operations? ,1
+258,Indochina and a protectorate in Vietnam.,Indochina,0.000777244567871,0.5209262371063232,0.8394863605499268,0.2857142857142857,0.2857142857142857,Which territory did France control?,1
+259,The Western powers supported the Qing government during the Taiping and Nian Rebellions.,Qing government,0.0007929801940917,0.8281764984130859,0.6726818084716797,0.2666666666666667,0.2666666666666667,Who did the Europeans support during the Rebellions?,1
+260,Flight hours for crew training.,flight hours for crew training,0.0007979869842529,0.368218183517456,0.9310857057571412,1.0,1.0,What has there been a sharp reduction in during the years following 2005 in the USAF?,1
+261,Robert Gates was the Secretary of Defense.,Secretary of Defense,0.0008141994476318,0.4468486309051513,0.7453905940055847,0.6,0.6,What position was held by James Forrestal?,0
+262,The evening dinner.,the evening dinner,0.0007753372192382,0.2936122417449951,0.9834375977516174,1.0,1.0,What would DST delay if observed during the Muslim holy month?,1
+263,The Banner Armies.,Yongying corps,0.000798225402832,0.3335936069488525,0.4365085959434509,0.0,0.0,What entity became the main Qing troops?,0
+264,New York.,New York,0.000833511352539,0.255983829498291,0.964856505393982,1.0,1.0,Where was the band Talking Heads based out of?,1
+265,shutters,heating,0.0007998943328857,0.2184197902679443,0.2163311839103698,0.0,0.0,Pasteurisation and autoclavation are examples of what kind of technique?,0
+266,When DST rules change.,when DST rules change,0.0008275508880615,0.3312821388244629,0.9588033556938172,1.0,1.0,When does the table of rule sets the Windows operating system uses have to be updated?,1
+267,Agrarian societies.,Industrialized,0.0008020401000976,0.2965087890625,0.4363032579421997,0.0,0.0,What kind of societies usually follow a regular daily schedule year-round?,0
+268,At least two times.,two,0.0008387565612792,0.3299636840820312,0.410308837890625,0.4,0.4,How many types are Nepali works of art typically divided into?,0
+269,"In the Ming dynasty, adult men wore their hair in the form of a top-knot.",top-knot,0.0008375644683837,0.8603432178497314,0.451052188873291,0.2222222222222222,0.2222222222222222,How did the Ming's typically wear their hair>,1
+270,Fit to Fight program.,Fit to Fight program,0.0008513927459716,0.334054946899414,0.9640549421310424,1.0,1.0,What is the more strict program that the USAF adopted in 2010 called?,1
+271,Texas.,Texas,0.0007758140563964,0.21641206741333,0.9420472383499146,1.0,1.0,What state were Johnson and Rayburn from?,1
+272,Higher.,higher,0.0008182525634765,0.2187092304229736,0.9109867811203004,1.0,1.0,Are prices at these outlets generally higher or lower than street prices?,1
+273,Chinese generals and officials such as Zuo Zongtang.,Zuo Zongtang,0.0007557868957519,0.6329441070556641,0.6363903284072876,0.4,0.4,Who put down the rebellions?,1
+274,The early 2000s.,early 2000s,0.000786542892456,0.4078738689422607,0.9382020831108092,0.8,0.8,When did the USAF have several missteps of aircraft procurement projects? ,1
+275,Eradicating the Taiping rebels.,eradicate the Taiping rebels,0.0007867813110351,0.445298433303833,0.9297471642494202,1.0,1.0,What was the original plan for the Xiang Army?,1
+276,The text does not mention the emperor's location.,Rehe,0.0007927417755126,0.5214519500732422,0.0496946014463901,0.0,0.0,Where did the emperor go?,0
+277,75 points.,75 points,0.0008318424224853,0.292858362197876,0.9731156826019288,1.0,1.0,What is a passing score on the US Air Force Fitness Test? ,1
+278,Benjamin Franklin.,Franklin,0.0008618831634521,0.2577240467071533,0.790332555770874,0.6666666666666666,0.6666666666666666,On what Richmond street did General Lee live for a while?,1
+279,Morning.,morning,0.0008432865142822,0.2196853160858154,0.944239377975464,1.0,1.0,When do the CCA1  and LHY function?,1
+280,one.,one,0.0008547306060791,0.2163772583007812,0.8763471841812134,1.0,1.0,How many restaurants in the western style were present in Kathmandu circa 1955?,1
+281,Changing clocks.,change their clocks,0.0008816719055175,0.2573075294494629,0.893074631690979,0.8,0.8,What do people often have trouble remembering to do for DST?,1
+282,Roman water clocks.,water clocks,0.0008583068847656,0.2918598651885986,0.8004031777381897,0.8,0.8,What kind of clocks did the Romans use?,1
+283,The second Saturday.,Saturday,0.0007674694061279,0.2928524017333984,0.8095146417617798,0.5,0.5,On what nights does CBC generally reserve broadcasting for hockey?,0
+284,Governor-Generalships and Governorships.,viceroys,0.0007483959197998,0.4105870723724365,0.4091753661632538,0.0,0.0,What was the three Han Bannermen position called?,0
+285,The USAF attempted to make adjustments by primarily cutting the Air National Guard and Air Force Reserve aircraft fleets and their associated manpower.,cutting the Air National Guard and Air Force Reserve aircraft fleets,0.0008420944213867,1.0890543460845947,0.7122484445571899,0.6470588235294118,0.6470588235294118,How did the USAF try to make these adjustments to help with strength and readiness of its fleet? ,1
+286,UTC (Coordinated Universal Time),local time,0.0007770061492919,0.4072487354278564,0.6524171829223633,0.3333333333333333,0.3333333333333333,What does Microsoft Windows use internally for its real-time clock?,0
+287,zomertijd.,zomertijd,0.0007860660552978,0.3299775123596191,0.9822759628295898,1.0,1.0,What word do speakers of Dutch use for DST?,1
+288,Corporate information technologists.,corporate information technologists,0.0008130073547363,0.3342170715332031,0.9615673422813416,1.0,1.0,Which professionals bore the brunt of the effort to upgrade systems affected by time changes?,1
+289,1856-1860.,(1856–60),0.00079345703125,0.4058623313903808,0.8762236833572388,0.5,0.5,When was the Arrow War?,1
+290,1961.,1961,0.000795841217041,0.2754669189453125,0.9716432094573976,1.0,1.0,When did Kubitschek leave office?,1
+291,"None, the text does not mention 2005.",Kazakhstan,0.0008494853973388,0.5592374801635742,0.0986488163471221,0.0,0.0,Where is the largest Slavic minority located?,0
+292,1858.,1858,0.0008323192596435,0.2909636497497558,0.9702116847038268,1.0,1.0,When was the Cochinchina Campaign?,1
+293,Friendly airspace.,friendly,0.0007936954498291,0.2552776336669922,0.4459203779697418,0.6666666666666666,0.6666666666666666,What sort of airspace is the DCA designed to protect?,1
+294,1 time.,twice,0.0008735656738281,0.2926464080810547,0.6797652840614319,0.0,0.0,How many times did Nagumo change orders for arming his aircraft?,0
+295,Urban workers are more likely to support DST.,urban workers,0.0007674694061279,0.482651948928833,0.530866265296936,0.4,0.4,Which group is more likely to support DST: urban workers or rural farmers?,1
+296,"""Aim high"" followed by ""Fly-Fight-Win"".","""Aim high"" followed with the response, ""Fly-Fight-Win""",0.0008103847503662,0.654512882232666,0.9204562902450562,0.75,0.75,What is the most recent US Air Force recruitment slogan in October 2010?,1
+297,Title 10 of the United States Code.,Title 10,0.0008506774902343,0.485231876373291,0.6478173732757568,0.4444444444444445,0.4444444444444445,What section in the US Code for the Secretary of the Air Force allows for the appointment of warrant officers?,1
+298,Resolve and compassion.,resolve and compassion,0.0008082389831542,0.2943480014801025,0.957152783870697,1.0,1.0,What does this US presence represent during a humanitarian crisis? ,1
+299,The Qing emperors.,women,0.0007760524749755,0.3677024841308594,0.1424075961112976,0.0,0.0,What group that had been to this point neglected was included in this thought?,0
+300,2008.,2008,0.0007789134979248,0.2750880718231201,0.9594326615333556,1.0,1.0,When was 'The World In Grey' published?,1
+301,"The Qing dynasty was the last imperial dynasty in China, but it was eventually overthrown by the Republic of China in 1912.",Republic of China,0.0007650852203369,1.1658294200897217,0.4299153089523315,0.24,0.24,What government took over from the Manchu dynasty?,1
+302,France.,Ireland,0.00079345703125,0.2178318500518798,0.6129692792892456,0.0,0.0,Where do thousands of early tombs still exist?,0
+303,An anti-Manchu writer his father had pardoned.,anti-Manchu writer,0.0008671283721923,0.5575120449066162,0.7770135998725891,0.5454545454545454,0.5454545454545454,Who did Yongzheng behead?,1
+304,1854.,1854,0.0008025169372558,0.2940025329589844,0.973757028579712,1.0,1.0,When did the British try to redo the Treaty of Nanjing?,1
+305,Han and non-Han peoples.,"the good ""commoner"" people, the other ""mean"" people",0.0008037090301513,0.4080734252929687,0.3171752691268921,0.1538461538461538,0.1538461538461538,What 2 groups were normal Chinese broken into?,0
+306,ordinary system maintenance.,system maintenance,0.0008051395416259,0.293917179107666,0.9047982096672058,0.8,0.8,"IANA, or zoneinfo, updates are installed as a part of what ordinary function when changes to DST policy are made?",1
+307,5,five,0.0007967948913574,0.2193279266357422,0.9229784607887268,0.0,0.0,How many sectors make up the Kathmandu metropolitan area?,1
+308,Six Chapters of a Floating Life.,Six Chapters of a Floating Life,0.0008249282836914,0.383594274520874,0.9842177629470824,1.0,1.0,What was the name of Shen Fu's memoir?,1
+309,Western military technology.,western military technology,0.0008254051208496,0.2938809394836426,0.9540253281593324,1.0,1.0,What would the Chinese use to continue Confucian values?,1
+310,16 years.,16 year mark,0.0007719993591308,0.2944283485412597,0.7442224025726318,0.8,0.8,The promotion process repeats when for officers promoted early in the USAF?,1
+311,The Qianlong Emperor.,Qianlong,0.0008101463317871,0.3670651912689209,0.7900508046150208,0.5,0.5,Which emperor allowed Han migration to Dzungaria?,1
+312,A Chinese official.,Xiang Army,0.0007462501525878,0.295966625213623,0.4281080961227417,0.0,0.0,What was Zeng Guofan?,0
+313,Hong Xiuquan.,Hong,0.0007572174072265,0.331369400024414,0.7562662363052368,0.6666666666666666,0.6666666666666666,Who was king of Taiping Heavenly Kingdom?,1
+314,Solar time.,permanent daylight saving time,0.0008254051208496,0.2541918754577636,0.5078504085540771,0.3333333333333333,0.3333333333333333,What phrase describes keeping adjusted summer hours year-round?,0
+315,The British and French were concerned about the imbalance of trade and the drain of silver due to China's demand for opium.,imbalance of trade and the drain of silver,0.0007429122924804,1.0900325775146484,0.5837886333465576,0.5161290322580645,0.5161290322580645,What were the British and French concerned about?,1
+316,There is no information about a specific aircraft introduced in the 1960s in the given context.,B-52H,0.0007567405700683,0.900883674621582,0.1240304410457611,0.0,0.0,What aircraft in the USAF was introduced in the 1960s?,0
+317,"Between 20 and 30 million people died during the Taiping Rebellion, and the exact number of deaths during the Dungan Revolt is not specified, but it was a significant number.",20 million people,0.0008192062377929,1.5863306522369385,0.3673900067806244,0.1818181818181818,0.1818181818181818,How many people died during the Taiping Rebellion and the Dungan Revolt?,0
+318,Empress Dowager Cixi.,Cixi,0.0007791519165039,0.4449107646942138,0.5581076741218567,0.5,0.5,What was the name of Xianfeng's concubine?,1
+319,The Secretary of Defense.,Secretary of the Air Force,0.0008695125579833,0.3305556774139404,0.7493635416030884,0.6666666666666665,0.4444444444444445,Who is the Department of the Air Force managed by?,0
+320,Enlisted promotions in the USAF are not explicitly mentioned in the given context.,"based on a combination of test scores, years of experience, and selection board approval",0.0008165836334228,0.7457423210144043,0.1881554722785949,0.0,0.0,How are Enlisted promotions in the USAF decided? ,0
+321,Methodology.,methodology,0.0008463859558105,0.2579970359802246,0.9252804517745972,1.0,1.0,What factor determines the numbers people reach for estimates when studying DST?,1
+322,New World crops.,potato and peanut,0.0008034706115722,0.2696890830993652,0.3871149122714996,0.0,0.0,What crops helped the Chinese?,0
+323,"The Taiping and Nian Rebellions, which led to the destruction of vast areas of farmland and loss of millions of lives.",prosperity and internal stability,0.0007383823394775,1.2020001411437988,0.2823134660720825,0.08,0.08,What led to overpopulation in China?,0
+324,Skin cancer.,skin cancer,0.0007781982421875,0.257486343383789,0.908152401447296,1.0,1.0,What cancer can be caused by too much time in the sun?,1
+325,The Washington Post.,The Washington Post,0.0008060932159423,0.2931110858917236,0.9752606749534608,1.0,1.0,What newspaper reported on Schwartz's dismantlement of the US Air Force's class system?,1
+326,Postal workers.,postal workers,0.000807762145996,0.2549822330474853,0.9784470796585084,1.0,1.0,"Joining farmers, what other kind of workers opposed SDST?",1
+327,1895.,1895,0.0008060932159423,0.2931411266326904,0.971369445323944,1.0,1.0,When did New York City annex part of Eastchester?,1
+328,"The Qing army was made up of Han Chinese, Manchu, and Mongol ethnic groups.",Han and non-Han peoples,0.0008251667022705,0.8638460636138916,0.4309844672679901,0.2105263157894736,0.2105263157894736,What ethnice groups did the Qing thin made up China?,0
+329,Autumn.,summer,0.0008492469787597,0.218576431274414,0.6417478322982788,0.0,0.0,What season is red identified with in China?,0
+330,Church bells.,ringing church bells,0.0007936954498291,0.2572512626647949,0.8595026731491089,0.8,0.8,"In addition to cannon fire, what did Franklin suggest to act as Parisians' alarm clock?",1
+331,Staff sergeants and technical sergeants (pay grades E-5 and E-6).,staff sergeants and technical sergeants,0.0008654594421386,0.8237223625183105,0.8095285296440125,0.5882352941176471,0.5882352941176471,What does junior NCO refer to in the USAF pay grade system?,1
+332,"Extensive coursework in leadership, confidence, fitness, and deployed-environment operations.",deployed-environment operations,0.0008068084716796,0.7466156482696533,0.5070354342460632,0.4615384615384615,0.4615384615384615,What is an example of the coursework now offered in the COT in the USAF? ,1
+333,"None, the text mentions that the emperors commissioned monumental scrolls and encouraged the production of ceramics, but it does not mention them being skilled in any art.",poetry and often skilled in painting,0.0008153915405273,1.3497037887573242,0.432760626077652,0.1818181818181818,0.1818181818181818,What arts were the Qing emperors good at?,0
+334,He didn't specify how often.,weekly,0.0008199214935302,0.4067175388336181,0.412933349609375,0.0,0.0,How often does Friday Cheers take place on Brown's Island?,0
+335,A CCDR (Regional Combatant Commander) and multiple Joint Force Commanders (JFC) in the COCOM's Area of Responsibility (AOR).,planning and execution of aerospace forces,0.000800609588623,1.3114659786224363,0.247991681098938,0.2399999999999999,0.16,What does the C-NAF provide support to?,0
+336,Ballistic missile defense and air breathing threat defense.,ballistic,0.0008153915405273,0.5235850811004639,0.515102207660675,0.2222222222222222,0.2222222222222222,"What kind of missile defense does active defense protect against, according to the DCA?",1
+337,"The PR mission involves military, diplomatic, and civil efforts.",crisis response and regional stability,0.0007655620574951,0.5975584983825684,0.1968782097101211,0.1428571428571428,0.1428571428571428,What are the types of international duties of the PR mission? ,0
+338,The Gregorian calendar.,the Gregorian calendar,0.0008788108825683,0.330806016921997,0.960455358028412,1.0,1.0,"Although the schedule in Israel became predictable after 2005, there were still problems in Windows until Israel adjusted DST to what calendar in 2013?",1
+339,Robert Pearce.,Robert Pearce,0.0008125305175781,0.2580611705780029,0.975349187850952,1.0,1.0,Who was the member of Parliament who brought a bill about Daylight Saving Time to the House of Commons in 1908?,1
+340,"The US Air Force is prepared to assure allies through extended deterrence, demonstrating its capabilities and resolve to deter potential threats.",carry out the nuclear strike operations mission,0.0008254051208496,1.0547807216644287,0.2859931886196136,0.0714285714285714,0.0714285714285714,What is the US Air Force prepared to do to support its allies? ,0
+341,1.5 miles (2.4 km),1.5-mile,0.0007603168487548,0.5615246295928955,0.8184167146682739,0.6666666666666666,0.6666666666666666,How long is the run that the USAF airmen are tested on for the fitness program? ,1
+342,General Mike Hostage.,General Mike Hostage,0.0007905960083007,0.3293757438659668,0.984667420387268,1.0,1.0,Who was the Commander of Air Combat Command in 2013?,1
+343,"The emperor who died the following year at Rehe was called the Tongzhi Emperor, not the Shunzi Emperor.","""Son of Heaven""",0.0007703304290771,1.0886807441711426,0.1044283136725425,0.0,0.0,What was the Shunzi Emperor called?,0
+344,The U.S. Army.,U.S. Army,0.0008633136749267,0.3669435977935791,0.901273787021637,0.8571428571428571,0.8571428571428571,"What organization did the US Air Force adopt ""Challenge Coins"" from?",1
+345,Edinburgh of the Seven Seas.,Edinburgh of the Seven Seas,0.00079345703125,0.3707842826843261,0.9847387075424194,1.0,1.0,What was the name of the settlement that was assessed after the evactuation?,1
+346,HMS Atlantic Isle.,HMS Atlantic Isle,0.0008013248443603,0.2947824001312256,0.9817039966583252,1.0,1.0,What was the islands codename during World War II?,1
+347,1918.,1966,0.000779390335083,0.2968637943267822,0.4636280536651611,0.0,0.0,When did a guerrilla group fight for Namibia's independence? ,0
+348,Saint Helena and Ascension Island.,Ascension Island,0.0008089542388916,0.4059648513793945,0.824024498462677,0.5714285714285715,0.5714285714285715,what other island is included in the territory?,0
+349,The Three Feudatories.,Liaodong,0.0008039474487304,0.3694863319396972,0.2199610918760299,0.0,0.0,Where did a Han revolt occur?,0
+350,E-7 through E-9.,pay grades E-7 through E-9,0.0007996559143066,0.4429068565368652,0.7228979468345642,0.8333333333333333,0.8333333333333333,What pay grades are included in the USAF for Senior NCOs?,1
+351,Mongols and Han Chinese.,Mongols,0.0008096694946289,0.3669068813323974,0.7662729024887085,0.4,0.4,What group did the Manchus take over to add strength to their numbers?,0
+352,There were six boards in the Qing government.,six,0.0008406639099121,0.4816653728485107,0.2739097774028778,0.2222222222222222,0.2222222222222222,How many periods of geology are within the Paleozoic era?,0
+353,Temporal authorities changing DST rules.,Changes to DST rules,0.0008044242858886,0.4117951393127441,0.8036215305328369,0.6666666666666665,0.6666666666666665,What can cause issues with installed computer systems?,1
+354,"He used the term ""British Summer Time"".",daylight saving,0.0008049011230468,0.4852900505065918,0.4267133474349975,0.0,0.0,Which term did Willett use in his 1907 proposal to refer to DST?,0
+355,There is no information about Shunzhi's death in the given context.,1661,0.0008258819580078,0.743262529373169,0.0358390100300312,0.0,0.0,When did Shunzhi's death?,0
+356,Aeromedical evacuation forces.,Aeromedical evacuation forces,0.0008144378662109,0.3344237804412842,0.9801743626594543,1.0,1.0,Who operates and is able to conduct airland missions? ,1
+357,E-9.,E-9 (senior enlisted),0.0007939338684082,0.2913186550140381,0.7021108865737915,0.6666666666666666,0.6666666666666666,What is the highest pay grade in the USAF?,1
+358,There are 7 uniformed services in the United States.,seven,0.00081467628479,0.5985221862792969,0.3737015128135681,0.0,0.0,How many Monument Zones are present in the Kathmandu valley?,0
+359,The Eight Banners.,Lower Five Banners,0.0008494853973388,0.3328752517700195,0.7154626846313477,0.3333333333333333,0.3333333333333333,What were the rest of the banners called?,0
+360,"Chile does not change their clocks for DST, as they have adopted permanent daylight saving time.",24:00,0.0007767677307128,0.8167271614074707,0.1289151012897491,0.0,0.0,At what local time does Chile change their clocks for DST?,0
+361,Strange Stories from a Chinese Studio.,Strange Stories,0.0008101463317871,0.3828201293945312,0.586949348449707,0.5,0.5,What was the name of Pu Songling's collection of short stories?,1
+362,Russia was first.,Russia,0.0007429122924804,0.2960333824157715,0.542062520980835,0.5,0.5,Policy in regard to what country was discussed at Eisenhower's first cabinet meeting?,1
+363,Climate.,climate,0.0008542537689208,0.2186286449432373,0.8724268674850464,1.0,1.0,What is uncertain about the Cretaceous?,1
+364,1673.,1673,0.0007414817810058,0.2921359539031982,0.972705900669098,1.0,1.0,When did Kexi retire?,1
+365,"The US Air Force differs from other branches in its core functions, which include Assure/Dissuade/Deter, Nuclear Strike, and others, tailored to its unique capabilities and contributions to national security.",an organization in which mostly its officers fought,0.000772476196289,1.7005860805511477,0.3321163654327392,0.1538461538461538,0.1538461538461538,How does the US Air Force differ from other branches of the military?,0
+366,Vitamin D.,vitamin D,0.0008313655853271,0.2561244964599609,0.9664433002471924,1.0,1.0,"Other than in osteomalacia, what is there no evidence of a relationship between pain and?",1
+367,Reverend Edwin Heron Dodgson.,Reverend Edwin Heron Dodgson,0.0007867813110351,0.4829020500183105,0.9867880940437316,1.0,1.0,who is Lewis Carroll's youngest brother?,1
+368,The text does not mention the number of casualties the US Air Force suffered during WWII.,"68,000",0.0008101463317871,0.7872707843780518,0.1431505382061004,0.0,0.0,How many causalities did the US Air Force suffer during WWII? ,0
+369,"Tristão da Cunha, a Portuguese explorer.",Portuguese explorer Tristão da Cunha,0.0007553100585937,0.597437858581543,0.9710904359817504,0.923076923076923,0.6153846153846153,who was the main island named after?,1
+370,There is no mention of him stepping down in the given context.,"February 12, 1912",0.0007886886596679,0.6349570751190186,0.0352335423231124,0.0,0.0,When did he step down?,0
+371,The Tongzhi Emperor.,Tongzhi,0.000739574432373,0.3689608573913574,0.8167076706886292,0.5,0.5,Who was Cixi's son?,1
+372,The U.S. War Department created the first antecedent of the U.S. Air Force in 1907.,U.S. War Department,0.0008563995361328,1.0502142906188965,0.453716903924942,0.3809523809523809,0.3809523809523809,Who created the first version of the US Air Force in 1907?,1
+373,The KC-135 is an aerial refueling aircraft based on a civilian jet.,aerial refueling aircraft,0.0007529258728027,0.7471146583557129,0.6319408416748047,0.375,0.375,What kind of aircraft is the USAF's KC-135?,1
+374,"The Manchus did not send troops to battle Koxinga's troops. Koxinga was a Ming loyalist who fought against the Manchus in southern China, but the text does not mention the Manchus sending troops to battle him.",Han Bannermen,0.0007579326629638,2.143296241760254,0.1806601583957672,0.0,0.0,Which ethnicity dominated the army in the reigns of Shunzhi and Kangxi?,0
+375,To and between medical treatment facilities.,to and between medical treatment facilities,0.000770092010498,0.4088308811187744,0.9776284694671632,1.0,1.0,Where does the Aeromedical Evacuation team transport casualties? ,1
+376,The Cape Colony in South Africa.,South Africa,0.0007858276367187,0.404937744140625,0.6887619495391846,0.5,0.5,Which nation does Swazi defer to when it comes to monetary policy?,1
+377,To stabilize the regime and speed up the conquest of the rest of the country by keeping the Ming capital and bureaucracy intact.,stabilize the regime and sped up the conquest of the rest of the country,0.0008401870727539,1.0508625507354736,0.5943089127540588,0.7027027027027025,0.7027027027027025,Why did Dorgon keep Beijing as his capital?,1
+378,Large-scale operations and normal operations.,large-scale operations,0.0007679462432861,0.4078149795532226,0.8609269857406616,0.6666666666666666,0.6666666666666666,When is air-to-air refueling primarily used by the US Air Force?,0
+379,Tens of thousands of hectares.,tens of thousands of hectares,0.0008242130279541,0.4070456027984619,0.9929648637771606,1.0,1.0,How much land did the Han farm in Inner Mongolia?,1
+380,Tristão da Cunha.,Tristão da Cunha,0.0007479190826416,0.4442052841186523,0.9906126260757446,1.0,1.0,what was the name of the explorer that sighted them?,1
+381,Chief Master Sergeant.,Chief Master Sergeant,0.0007815361022949,0.2940363883972168,0.9857372641563416,1.0,1.0,What is the newest top enlisted grade in the USAF?,1
+382,Hawaii.,Hawaii,0.0008935928344726,0.2192022800445556,0.9495166540145874,1.0,1.0,Which state receives an average of 460 inches of rainfall per year?,1
+383,1919,1919,0.000772476196289,0.2571361064910888,1.0000001192092896,1.0,1.0,For a time during which year did Popper consider himself a communist?,1
+384,1918,2011,0.0008838176727294,0.2565474510192871,0.3774891793727875,0.0,0.0,What year did Olympic Air receive an award as Top Domestic Airline?,0
+385,Daily routines and sleep schedules.,sleep patterns,0.0008096694946289,0.3727684020996094,0.6700443625450134,0.2857142857142857,0.2857142857142857,What important part of daily life might be disturbed because of DST changing what time you go to bed?,1
+386,2006.,1987,0.0008924007415771,0.2947878837585449,0.6043972373008728,0.0,0.0,When was 'Bonfire of the Vanities' published?,0
+387,1984.,1984,0.0008289813995361,0.293630838394165,0.9573519229888916,1.0,1.0,What year were professional players allowed to play in the  Summer Olympics? ,1
+388,They revolted against the Kangxi Emperor.,all three fiefdoms to be reverted to the crown.,0.0008177757263183,0.4809567928314209,0.1811792552471161,0.1333333333333333,0.1333333333333333,"What happened when Kexi, and the two other generals all retired?",0
+389,Inconclusive.,inconclusive,0.0008339881896972,0.292468786239624,0.9409422874450684,1.0,1.0,Who won the Battle of Lake George?,1
+390,The text does not mention the Qing regaining power over southern China.,1681,0.000826358795166,0.6704638004302979,-0.0491558946669101,0.0,0.0,When did the Qing regain power over southern China?,0
+391,William Willett.,George Hudson,0.0008013248443603,0.294234037399292,0.5067726373672485,0.0,0.0,Who first suggested daylight saving?,0
+392,"Internally, computers usually store time as UTC.",internally,0.0007903575897216,0.5214481353759766,0.1735196858644485,0.25,0.25,Where do computers usually use UTC?,1
+393,Hong Taiji.,Hong Taiji,0.0007660388946533,0.2772698402404785,0.9833481311798096,1.0,1.0,Who included newly conquered Ming officials in his government?,1
+394,Basic self aid buddy care and directing search and recovery.,directing search and recovery,0.0008575916290283,0.5575535297393799,0.4193124175071716,0.5714285714285715,0.5714285714285715,What other training do the US Air force Personnel get during BMT? ,0
+395,Tensions rose between China and Japan after the Gapsin Coup.,Tensions,0.0008101463317871,0.706392765045166,0.4774699807167053,0.1818181818181818,0.1818181818181818,What resulted between the Chinese and Japanese after the Coup?,1
+396,"None, the text mentions the emperor's control of the military in Mongolia, but does not mention him holding a title in Mongolia.",khan,0.0008227825164794,1.1324305534362793,0.3936100304126739,0.0,0.0,What title did the emperor hold in Mongolia?,0
+397,"Multiple DST rules, as not all locations observe DST or observe it the same way.",multiple DST rules,0.000800609588623,0.7896566390991211,0.8472894430160522,0.3333333333333333,0.3333333333333333,What added complexity do people working across time zones have to keep track of?,1
+398,Farming.,farming,0.0008814334869384,0.2568459510803222,0.9297653436660768,1.0,1.0,What makes bacteria resistant to antibiotic treatment?,0
+399,"Medicine, law, religion, biological sciences, and healthcare administration.","medicine, law, religion, biological sciences, or healthcare administration",0.0007634162902832,0.6367349624633789,0.97807639837265,0.875,0.875,What fields of study in the COT are included in this area of the USAF? ,1
+400,23 hours.,23,0.0008182525634765,0.2968161106109619,0.5215786695480347,0.6666666666666666,0.6666666666666666,What percent own 2 or more cars?,0
+401,The equatorial region.,near the equator,0.000828742980957,0.3332517147064209,0.70720374584198,0.3333333333333333,0.3333333333333333,What region of the earth sees little change in daylight from season to season?,1
+402,There is no mention of missionaries being killed in the given context.,"November 1, 1897,",0.0007390975952148,0.635535478591919,0.0876446813344955,0.0,0.0,When were two missionaries killed?,0
+403,The text does not provide information on the size of the French-British army.,"25,000",0.0007932186126708,0.7851266860961914,0.0114300437271595,0.0,0.0,How many people can fit in Dasarath Rangasala Stadium?,0
+404,The Iraq War.,Iraq War,0.0007894039154052,0.296093225479126,0.859978437423706,0.8,0.8,During what war the the USAF establish a new career field for piloting UAVs and drones?,1
+405,It adds an hour of daylight after the normal workday.,after,0.0008535385131835,0.600379228591919,0.0532618947327137,0.1818181818181818,0.1818181818181818,Is it better to harvest grain before or after the morning dew evaporates?,0
+406,1716.,1716,0.0007827281951904,0.293060302734375,0.972421407699585,1.0,1.0,When was the Kangxi Dictionary published?,1
+407,Zhu Zhiliang.,Zhu Zhiliang,0.0007948875427246,0.3327915668487549,0.9828147888183594,1.0,1.0,Who did Yongzheng call Marquis?,1
+408,Incandescent lighting.,incandescent,0.0008125305175781,0.333416223526001,0.8838750123977661,0.6666666666666666,0.6666666666666666,"When DST was first proposed, what type of lighting was consuming the most electricity?",1
+409,One hour.,one hour,0.0008444786071777,0.2556021213531494,0.930564284324646,1.0,1.0,For how much more time was the molten steel supposed to cool when the computer mix-up happened in the German steel facility?,1
+410,Building trust-based relationships for mutual benefit.,building trust-based relationships for mutual benefit,0.0007569789886474,0.4496388435363769,0.982312262058258,1.0,1.0,What is the major goal of Building Partnerships in these deeds and actions?,1
+411,"Airlift supports strategic, operational, or tactical objectives.","strategic, operational, or tactical",0.000788927078247,0.5976269245147705,0.5741188526153564,0.7272727272727273,0.7272727272727273,What objectives does Airlift support? ,1
+412,The Gapsin Coup.,Gapsin Coup,0.0007896423339843,0.4062790870666504,0.923811137676239,0.8,0.8,What coup happened in 1884?,1
+413,"Humanitarian Assistance Operations entail conditions such as human pain, disease, hunger, or privation.","human pain, disease, hunger, or privation that might present a serious threat to life",0.0008242130279541,0.8617746829986572,0.5949034690856934,0.4444444444444445,0.4444444444444445,What kinds of endemic conditions do the Human Assistance Operations entail? ,1
+414,None mentioned in the text.,Shang Kexi and Geng Jingzhong,0.0007531642913818,0.3722195625305176,0.1687402129173278,0.0,0.0,Name the other two important Ming generals?,0
+415,1908,1908,0.0007610321044921,0.251835823059082,1.0,1.0,1.0,What year did Cixi die?,1
+416,Basic Military Training (BMT) for enlisted personnel.,Basic Military Training,0.0007932186126708,0.5602068901062012,0.7806925773620605,0.6,0.6,What did the USAF strive to improve since 2005?,1
+417,"Li Zicheng's rebel forces were defeated, but it was actually the Manchus, led by Wu Sangui and Dorgon, who captured Beijing on June 6, 1644.",Li Zicheng,0.0007932186126708,1.7017390727996826,0.3279047012329101,0.1428571428571428,0.1428571428571428,Who raided Beijing in 1644?,0
+418,25 hours.,25,0.0007972717285156,0.2941467761993408,0.4906418919563293,0.6666666666666666,0.6666666666666666,How many members of the United Kingdom Parliament were in the British-Irish Parliamentary Assembly originally?,0
+419,The Inner Court was located in the northern part of the Forbidden City.,Forbidden City,0.0007917881011962,0.6737427711486816,0.561953067779541,0.2666666666666667,0.2666666666666667,Where was the Inner Court?,1
+420,July and August 2012.,July and August,0.0007944107055664,0.4064733982086181,0.8295941352844238,0.8571428571428571,0.8571428571428571,When does the middle of summer occur on Cyprus?,0
+421,Sun Yat-sen,"Sun Yat-sen,",0.0007441043853759,0.3304059505462646,0.980932116508484,1.0,1.0,Who led the Republic of China?,1
+422,Dorgon.,Dorgon,0.0007593631744384,0.2954459190368652,0.9769411087036132,1.0,1.0,Who was a threat to Shunzhi's throne?,1
+423,"Building Partnerships is one of the core functions of the U.S. Air Force, relating to international cooperation and collaboration with other countries.",airmen interacting with international airmen and other relevant actors,0.000812292098999,1.1608450412750244,0.4272053241729736,0.25,0.1875,What does Building Partnerships relate to in the Air Force? ,1
+424,After their usual workday.,after,0.0008971691131591,0.3703944683074951,0.34590545296669,0.4,0.4,Is it better to harvest grain before or after the morning dew evaporates?,0
+425,Farmers.,agricultural,0.0007882118225097,0.2182188034057617,0.7729822397232056,0.0,0.0,What is Greece a significant producer of within the EU?,0
+426,"Language, region, and culture.","relevant language, region, and culture",0.0008416175842285,0.40376877784729,0.8465127944946289,0.888888888888889,0.888888888888889,What are Airmen expected to be competent in for these Building Partnerships missions?,1
+427,A properly designated commander.,Regional Combatant Commander,0.0007863044738769,0.3338048458099365,0.6744382381439209,0.2857142857142857,0.2857142857142857,Who is in charge of these Change in Operational Control missions? ,0
+428,Older timestamps.,older timestamps,0.0007877349853515,0.2581360340118408,0.9558817148208618,1.0,1.0,What's might a new TZ value mishandle when it changes with new DST rules?,1
+429,Many.,many,0.0008254051208496,0.2177543640136718,0.8788395524024963,1.0,1.0,Has the world seen many or few changes in the observation of DST?,1
+430,USTRANSCOM.,USTRANSCOM,0.0007634162902832,0.3715360164642334,0.9817304015159608,1.0,1.0,Who does the AMC forces usually retain their componency to?,1
+431,Information integrity and availability.,sustain assigned networks and missions,0.0008430480957031,0.3305258750915527,0.2335415184497833,0.2222222222222222,0.2222222222222222,What is ability is critical in Cyberspace Supports mission?,0
+432,17 years.,seventeen years,0.0008106231689453,0.2928426265716553,0.8038383722305298,0.5,0.5,How long did it take for the Manchus to take the rest of China?,1
+433,"The text does not specify the exact date of the battle, but it mentions that it resulted in the surrender of many Ming dynasty troops and the death of Yuan Chonghuan in 1643.","May 27, 1644",0.0007834434509277,1.6574628353118896,0.5428981781005859,0.0,0.0,When did the battle take place?,0
+434,Labor of field hands.,weekday schedules,0.000802993774414,0.3319284915924072,0.1502687931060791,0.0,0.0,What do we avoid disrupting by doing the time shift during days most people don't work?,0
+435,Standard Time.,Standard Time,0.0008368492126464,0.2559947967529297,0.9574930667877196,1.0,1.0,What is the schedule of time called when it is not daylight savings time?,1
+436,2007.,2007,0.0007691383361816,0.2907779216766357,0.9553945660591124,1.0,1.0,When was 'The Grand Concourse' published?,1
+437,Central European Midsummer Time.,Central European Midsummer Time,0.0008459091186523,0.3723294734954834,0.9802018404006958,1.0,1.0,What's a third name for double daylight saving time or Double Summer Time used in Europe?,1
+438,Territory in the Northeast.,silver,0.0007646083831787,0.3306915760040283,0.0766032338142395,0.0,0.0,What did the Chinese get paid for their goods?,0
+439,Daylight.,daylight,0.0008032321929931,0.2560043334960937,0.9565258622169496,1.0,1.0,When did the sacrifices to the deities of the heavens occur? ,1
+440,Cao Xueqin.,Cao Xueqin,0.0008022785186767,0.3664157390594482,0.9805581569671632,1.0,1.0,Who wrote the novel Dream of the Red Chamber?,1
+441,"The ""roof stomp"" tradition in the US Air Force signifies welcoming a new commander or commemorating another event, such as a retirement.","welcome a new commander or to commemorate another event, such as a retirement",0.0008256435394287,1.1791398525238037,0.4874721169471741,0.6857142857142856,0.6857142857142856,What does the roof stomp tradition signify in the US Air Force?,1
+442,"The Japanese won Taiwan through the Treaty of Shimonoseki, which was signed after the First Sino-Japanese War of 1895.",First Sino-Japanese,0.0007598400115966,1.2439980506896973,0.5028294324874878,0.2608695652173913,0.2608695652173913,How did the Japanese win Taiwan?,1
+443,The Defense Officer Personnel Management Act of 1980.,Defense Officer Personnel Management Act of 1980,0.000800609588623,0.557875394821167,0.9860090017318726,0.9333333333333332,0.9333333333333332,What are Air Force Officer promotions overseen by?,1
+444,"The Air Force promotes security to its allies by assuring them through credible deterrent capabilities, visible demonstrations, and exercises.",Dissuading others from acquiring or proliferating WMD,0.0008189678192138,1.0146255493164062,0.3564080595970154,0.0,0.0,How does the Air Force promote security to its allies? ,0
+445,Peter Wellington.,Peter Wellington,0.0007944107055664,0.2573490142822265,0.981297254562378,1.0,1.0,What member of Queensland Parliament was responsible for finally bringing the DST for South East Queensland referendum to a vote?,1
+446,The USAF changed its RPA (Remotely Piloted Aircraft) training syllabus in 2014 due to large aircraft losses in training and a GAO report critical of the handling of drone programs.,large aircraft losses in training,0.0007667541503906,1.7331852912902832,0.4683152735233307,0.2857142857142857,0.2857142857142857,Why did the USAF change its training methods on UAVs in 2014?,1
+447,Manchu.,Mongolian,0.0007843971252441,0.2539751529693603,0.5141992568969727,0.0,0.0,What language did the dynasties name come from originall?,0
+448,Circadian rhythm.,circadian rhythm,0.0007705688476562,0.2958440780639648,0.9417219758033752,1.0,1.0,What natural rhythm is disrupted by seasonal changes?,1
+449,The Wu Sangui.,Russian,0.0008351802825927,0.3276295661926269,0.1509696841239929,0.0,0.0,Who did the Chinese lose territory to in exchange for help?,0
+450,Three.,three,0.0007758140563964,0.2173428535461425,0.9212040305137634,1.0,1.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?",1
+451,An entomologist.,entomologist,0.0008556842803955,0.3300292491912842,0.942200005054474,0.6666666666666666,0.6666666666666666,What particular kind of scientist was George Hudson?,1
+452,One of the functions of NDO (Nuclear Deterrence Operations) support is to assure allies.,effective nuclear weapons security,0.0007517337799072,0.9414424896240234,0.4994440972805023,0.1111111111111111,0.1111111111111111,What is one of the five functions of NDO support? ,0
+453,The beginning and ending dates of DST.,Beginning and ending dates,0.0008206367492675,0.4496996402740478,0.5889230966567993,0.7272727272727273,0.7272727272727273,"In the southern hemisphere, what aspect of DST is about the reverse of that of the northern hemisphere?",1
+454,William F. Shughart II.,William F. Shughart II,0.00081467628479,0.4469842910766601,0.9899415969848632,1.0,1.0,Who is the economist who said there was about $1.7 billion in lost opportunity costs because of the 2007 changes?,1
+455,"The deployment of Aeromedical Evacuation is coordinated by the military, specifically through organic and/or contracted mobility airframes, with aircrew trained explicitly for this mission.",Health Service Support,0.0008432865142822,1.391340732574463,0.2087861597537994,0.0,0.0,Who coordinates the deployment of thee Aeromedical Evacuation? ,0
+456,The United States Air Force (USAF) is the aerial warfare service branch of the United States Armed Forces.,the aerial warfare service branch of the United States Armed Forces,0.0008149147033691,0.97471022605896,0.7612652778625488,0.7586206896551725,0.7586206896551725,What is the USAF?,1
+457,He killed Yuan Chonghuan.,suicide,0.0007572174072265,0.4439916610717773,0.197311446070671,0.0,0.0,How did Mark Anthony's love die?,0
+458,The Self-Strengthening Movement.,Self-Strengthening Movement,0.0009863376617431,0.4421210289001465,0.953090488910675,0.8571428571428571,0.8571428571428571,What was the Qing governments attempt to create a modern socity called?,1
+459,New Zealand.,New Zealand,0.0008423328399658,0.2558543682098388,0.9615551233291626,1.0,1.0,What country has a strong hunting culture?,1
+460,"The entity established in Guizhou province was a fiefdom, given to Geng Jingzhong.",Taiping Heavenly Kingdom,0.0007600784301757,0.9753532409667968,0.2040500938892364,0.0,0.0,What entity was established in Guizhou province?,0
+461,22.,22,0.0008471012115478,0.2541427612304687,0.9370455741882324,1.0,1.0,How many airlines use Tribhuvan International for international flights?,1
+462,Mass civil disorder and internal divisions within the government.,Taiping Rebellion,0.0007746219635009,0.5198819637298584,0.2740660011768341,0.0,0.0,What caused the Qing armies to lose many battles?,0
+463,3%,3%,0.0008783340454101,0.2559959888458252,1.0000001192092896,1.0,1.0,How many Namibian's speak English?,1
+464,F-16 aircraft.,early model F-16 aircraft converted to QF-16 configuration,0.0007610321044921,0.329979658126831,0.7190535664558411,0.4615384615384615,0.4615384615384615,What are the QF-4 aircraft being replaced by the US Air Force? ,0
+465,"""China"" can mean ""Middle Kingdom"" or a multi-ethnic state, depending on the context.",Middle Kingdom,0.0007939338684082,0.9348480701446532,0.3730840682983398,0.25,0.25,What does China mean?,1
+466,Southern China.,southern China,0.0007967948913574,0.259063720703125,0.974069893360138,1.0,1.0,"What part of China did Kexi, Zhongming, and Youde rule?",1
+467,"""Do Something Amazing""","""No One Comes Close""",0.0007851123809814,0.3075463771820068,0.2559409439563751,0.0,0.0,What was a recent US Air Force recruiting slogan? ,0
+468,In the Dzungar–Qing War.,Dzungar–Qing War,0.0007658004760742,0.5183393955230713,0.9353838562965392,0.7499999999999999,0.7499999999999999,When was Galdan killed?,0
+469,FAT.,FAT,0.0007960796356201,0.2164034843444824,0.8877143859863281,1.0,1.0,What file system do most removable devices use?,1
+470,Late.,late,0.0008399486541748,0.2169423103332519,0.8411937952041626,1.0,1.0,"In year-round DST, would sunrise happen early or late compared to most places?",1
+471,Yuan Chonghuan.,Wu Sangui,0.0007588863372802,0.3498167991638183,0.4244982898235321,0.0,0.0,Who was the most important Ming general?,0
+472,Offensive Counterair.,Offensive Counterair,0.0007946491241455,0.2928824424743652,0.9750409126281738,1.0,1.0,What does the abbreviation OCA stand for? ,1
+473,40 minutes.,40 minutes,0.0008096694946289,0.2953031063079834,0.9494083523750304,1.0,1.0,"How much less, on average, do workers in the U.S. sleep on Mondays after switching to DST, according to the 2009 study?",1
+474,Europe.,Europe,0.0007905960083007,0.2149074077606201,0.9180409908294678,1.0,1.0,"Where did the ""Roaring Twenties""  spread to after the war?",1
+475,Edward L. Dreyer.,Edward L. Dreyer,0.0007963180541992,0.4019069671630859,0.9884040355682372,1.0,1.0,Which historian blamed naval weakness for European imperialism in China?,1
+476,Japan.,Japan,0.0007984638214111,0.2176284790039062,0.9373642802238464,1.0,1.0,Who beat the Chinese in the First Sino-Japanese War?,1
+477,The Second Opium War.,Second Opium War,0.0007710456848144,0.3680896759033203,0.9767282009124756,0.8571428571428571,0.8571428571428571,What was the war called fought between the British and French against the Qing?,1
+478,There is no mention of the Qing surrendering to the British in the given context.,1842,0.0008013248443603,0.7885904312133789,0.2644427120685577,0.0,0.0,When did the Qing surrender to the British?,0
+479,National and military decision makers.,national and military decision makers,0.0007727146148681,0.370065689086914,0.969451069831848,1.0,1.0,Who benefits from the process analysis and dissemination of this information? ,1
+480,Sleep patterns.,sunrise,0.0008001327514648,0.2587120532989502,0.3594840168952942,0.0,0.0,The lack of fluctuation in time for what daily event means regions of the world near the equator don't usually keep DST?,0
+481,Qianlong Emperor.,Qianlong,0.0008172988891601,0.3328127861022949,0.8277026414871216,0.6666666666666666,0.6666666666666666,Which emperor allowed Han migration to Dzungaria?,1
+482,Winston Churchill.,Winston Churchill,0.0008747577667236,0.2556142807006836,0.971856951713562,1.0,1.0,Who told Parliament that after long periods of attacks people would leave the cities for the country? ,1
+483,The Ming capital.,Ming,0.0007956027984619,0.2966177463531494,0.7387354373931885,0.5,0.5,Whose capital was Beijing before the Manchu's?,1
+484,1867.,1867,0.000817060470581,0.2915189266204834,0.974934995174408,1.0,1.0,When did the US buy Alaska?,1
+485,Air pollution.,air pollution,0.0008985996246337,0.2586119174957275,0.9016503095626832,1.0,1.0,What kind of pollution is caused by emissions from cars while they're sitting in traffic?,1
+486,President Harry S Truman.,President Harry S Truman,0.0008072853088378,0.3285748958587646,0.9773499965667723,1.0,1.0,Who signed the National Security Act of 1947? ,1
+487,The clock time.,The name of local time,0.0008203983306884,0.2930281162261963,0.5580646395683289,0.5,0.5,What usually changes when a place observes DST?,1
+488,Volcanic islands.,archipelago,0.0007948875427246,0.3355202674865722,0.6391831040382385,0.0,0.0,what type of island group are the islands?,0
+489,Edinburgh of the Seven Seas.,Edinburgh of the Seven Seas,0.0008165836334228,0.3676271438598633,0.9847387075424194,1.0,1.0,What was the name of the settlement that was assessed after the evactuation?,1
+490,E-4.,Corporal,0.0008370876312255,0.2930116653442383,0.1034240275621414,0.0,0.0,What rank is NCO status achieved in the US Army?,1
+491,Congress.,Congress,0.0008137226104736,0.2190923690795898,0.9430285096168518,1.0,1.0,What group accidentally published the non CIA budget in 1994?,1
+492,Emperor Yi.,Emperor Yi,0.0008227825164794,0.2546751499176025,0.9844468832015992,1.0,1.0,What was Dorgon known as after death?,1
+493,A single system-wide time zone setting.,a single system-wide setting,0.0008659362792968,0.4442858695983886,0.6674129366874695,0.8333333333333333,0.8333333333333333,"As opposed to providing support for users to have unique time zone settings, Windows will only allow for what?",1
+494,The Secretary of Defense (SECDEF) directs the Secretary of the Air Force (SECAF) during operational missions.,Secretary of Defense,0.0008316040039062,1.0106897354125977,0.6532616019248962,0.3157894736842105,0.3157894736842105,What position was held by James Forrestal?,0
+495,Jiading.,Jiading,0.000770092010498,0.2551002502441406,0.9726454615592957,1.0,1.0,What city was massacred for not wearing the proper haircut?,1
+496,Negative DST.,negative DST,0.0008010864257812,0.2551865577697754,0.9838454723358154,1.0,1.0,Places like northeast India that shift time zones to the east could be considered to be observing what kind of DST?,1
+497,Confusion.,confusion,0.0008056163787841,0.2548034191131592,0.811386227607727,1.0,1.0,What can attempting to label members of the LGBT community cause?,1
+498,The Manchu dynasty was also known as the Great Qing.,Qing,0.0007672309875488,0.5957763195037842,0.6305177211761475,0.1818181818181818,0.1818181818181818,What is another name for the Manchu dynasty?,1
+499,Vehicle lights.,carbon monoxide detectors,0.0008556842803955,0.2569003105163574,0.2560693025588989,0.0,0.0,"In addition to smoke detectors, what do fire safety officials suggest people replace batteries in when they set their clocks twice a year?",0

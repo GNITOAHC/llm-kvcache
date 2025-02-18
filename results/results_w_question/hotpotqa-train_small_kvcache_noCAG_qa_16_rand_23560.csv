@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0, 1911,1911,0.0551071166992187,8.631958484649658,1.0,1.0,1.0,"In what year was the wife of the of the, March 14, 1903 born, Barrow Gang member born?"
+1, New South Wales,New South Wales,0.2143993377685547,8.618483304977417,1.0,1.0,1.0,Which state held a by-election in 1979 for the Australian House of Representatives?
+2, Media Ventures,Media Ventures,0.0562365055084228,8.491840839385986,1.0000001192092896,1.0,1.0,What company produced the film score for the 1988 American road comedy-drama film directed by Barry Levinson?
+3," Albert Hammond is a Gibraltarian singer, songwriter, and record producer.",Gibraltarian,0.0629153251647949,10.294208526611328,0.3976966142654419,0.1818181818181818,0.1818181818181818,"What is the nationality of the man who wrote ""When I Need You""?"
+4," Russell Peters was introduced to the stage by Melle Mel, the lead rapper of Grandmaster Flash and the Furious Five.",Grandmaster Flash and the Furious Five,0.0543301105499267,11.29715061187744,0.5755392909049988,0.4615384615384615,0.4615384615384615,"Red, White and Brown was by the comedian who was introduced to the stage by the lead rapper for which group?"
+5, 1978,1978,0.2103397846221923,8.592074871063232,1.0,1.0,1.0,When was the interior of the location of the 1997 MTV Video Music Awards declared a city landmark?
+6, Leslie Moonves,Leslie Moonves,0.0469031333923339,8.60875654220581,1.0000001192092896,1.0,1.0,Who is the current CEO of the corporation that Michael H. Jordan headed from 1995-1998?
+7, The Shenandoah National Park.,the Blue Ridge Mountains,0.0527219772338867,9.11507248878479,0.3534914255142212,0.25,0.25,Which mountain range contains the highest rise of the Hazel River?
+8, New Jersey.,New Jersey,0.0501871109008789,8.622417211532593,0.9690638780593872,1.0,1.0,What city are both myths located in?
+9, Yes.,no,0.0614871978759765,8.50209355354309,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?
+10, David Grisman.,Acoustic Disc,0.0559327602386474,8.740191221237183,0.0117897875607013,0.0,0.0,Mike Marshall is a bluegrass mandolinist who has collaborated with Darol Anger and a musician that started what record label?
+11, Lily Rabe,Lily Rabe,0.2159168720245361,8.622216939926147,1.000000238418579,1.0,1.0,"What actress born June 29, 1982 played in the movie The Veil?"
+12," ""Every Breath You Take""","""Just Be Good to Me""",0.0505414009094238,9.010714054107666,0.2708219885826111,0.0,0.0,What cover by Karmah samples The Police's chart-topping 1983 single?
+13, The Dark Knight.,The Dark Knight,0.0522379875183105,8.728053569793701,0.971114456653595,1.0,1.0,What film was William Fichtner in that also had Heath Ledger in it?
+14," ""Bob's Burgers""",Bob's Burgers,0.0554003715515136,9.003418207168579,0.9606160521507264,1.0,1.0,What American adult animated sitcom has Jenny Sarah Slate appeared in?
+15," Julie Wagner was born on October 22, 1965, and Julia Roberts was born on October 28, 1967.",Julie Anne Wagner,0.0505614280700683,11.683282375335692,0.6088622808456421,0.2,0.2,"Who was born first, Julie Wagner or Julia Roberts?"

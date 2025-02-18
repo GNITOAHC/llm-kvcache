@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,"""Nothing's Gonna Stop Us Now""",Nothing's Gonna Stop Us Now,0.0012497901916503,2.782900094985962,0.7793365716934204,1.0,1.0,"What song on the album No Protection was a No. 1 in the ""Billboard"" Hot 100 in April 1987?",1
+1,Screwed Up Click (S.U.C.),Dead End Alliance,0.0014479160308837,1.529677391052246,0.1372649073600769,0.0,0.0,"Fat Pat and DJ Screw were musical artists from Houston, Texas, and were both in a three-letter acronym band--what was the band's full name?",0
+2,"Monty Python, BBC in 1969.",BBC in 1969,0.0012023448944091,1.5939936637878418,0.7847970724105835,0.7499999999999999,0.7499999999999999,Terry Jones was a member of this comedy group whos sketch comedy show first aired on what channel in this year?,1
+3,Chester Brewer.,Chester Brewer,0.0012550354003906,1.265312433242798,0.9819244742393494,1.0,1.0,Which head coach of the Missouri Tigers football team amassed a 5-3 record during his 1911-1913 tenure?,1
+4,"Guzmania is found at higher elevations, up to 3500 m in the Andean rainforests.",Guzmania,0.0011782646179199,2.22544264793396,0.5689600706100464,0.1333333333333333,0.1333333333333333,"Which species is found at higher elevations, Arundina or Guzmania?",1
+5,Caesars Entertainment Corporation.,Caesars Entertainment Corporation,0.00138521194458,1.409944772720337,0.9850574135780334,1.0,1.0,Who owns and operates the casino at which the 2010 World Series of Poker was held?,1
+6,Forward.,forward,0.0013446807861328,1.211557388305664,0.9309850931167604,1.0,1.0,"John Hansen was a Danish footballer who played which position nearest to the opposing team's goal, and are therefore most responsible for scoring goals?",1
+7,The Arrival.,"""101 Dalmatians""",0.001185655593872,1.2380640506744385,0.1924279183149337,0.0,0.0,Joely Kim Richardson appeared in what movie based on Dodie Smith's 1956 novel?,0
+8,Murder,The Myth,0.0012271404266357,1.1380703449249268,0.2925423085689544,0.0,0.0,Which 2005 Hong Kong martial arts film starring Mallika Sherawat was remade as a TV series of the same name?,0
+9,German.,German,0.001239538192749,1.2061524391174316,0.9494163393974304,1.0,1.0,Der Schwanendreher was a concerto by the composer of what nationality?,1
+10,Reef is the band from Glastonbury.,Reef,0.0012042522430419,1.6143126487731934,0.6252187490463257,0.2857142857142857,0.2857142857142857,"Which band is from Glastonbury, Reef or Simple Plan?",1
+11,"George Abbott was born on June 25, 1887, and Gregory Hoblit was born on November 27, 1944.",George Francis Abbott,0.0013022422790527,2.464391231536865,0.5218138694763184,0.2,0.2,"As of now, has George Abbott or Matt Stone's career spanned more decades?",0
+12,Tim Hortons.,Tim Hortons,0.0012040138244628,1.2742705345153809,0.9860640168190002,1.0,1.0,Timbits are a bite-sized fried doughnut sold at which Canadian-owned international bakery chain?,1
+13,Collier's (founded in 1888) is older than V (founded in 1999).,Collier's,0.0012030601501464,2.1684064865112305,0.5640974044799805,0.2857142857142857,0.2857142857142857,"Which magazine was founded first, Collier's or Indianapolis Monthly?",0
+14,November 1976,November,0.0013513565063476,1.31746244430542,0.716813862323761,0.6666666666666666,0.6666666666666666,Agbadza is an Ewe music and dance performed during a festival celebrated in what month?,0
+15,Yes.,no,0.0011820793151855,1.185915470123291,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0

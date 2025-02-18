@@ -1,0 +1,67 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,1961,1961,0.3519296646118164,4.051160097122192,0.9999998807907104,1.0,1.0,Racing with the Moon starred an American actress born in what year?,1
+1,Taubman Centers.,Taubman Centers,0.2954115867614746,2.3248119354248047,0.9893574714660645,1.0,1.0,"What company is the owner of regional malls in the United States, headquartered in Bloomfield Hills, Michigan and developed Westfarms?",1
+2,The University of Oklahoma.,University of Oklahoma,1.065230131149292,2.745346069335937,0.9738551378250122,0.8571428571428571,0.8571428571428571,Where was the coach of the 1996 Dallas Cowboys team a college coach?,1
+3,Philippe Reines,Philippe Reines,0.3131868839263916,2.323324918746948,1.0,1.0,1.0,Which Senior Advisor to Hillary Clinton was a co-founder of Beacon Global Strategies?,1
+4,Amorpha,Amorpha,0.2644600868225097,2.102778434753418,1.0,1.0,1.0,"What is is a genus of plants in the pea family, Fabaceae, Tansy or Amorpha ?",1
+5,Ireland,United States,0.3075325489044189,2.103258848190308,0.5419304370880127,0.0,0.0,Where is the owner of Next big sound provides analytics for online music available?,0
+6,The Cove.,The Cove,0.222419261932373,2.3391711711883545,0.9736154079437256,1.0,1.0,Which of the documentaries The Birth of Saké and The Cove call for political action?,1
+7,Fallen,Fallen,0.3519866466522217,2.2985806465148926,1.0,1.0,1.0,"Which album, recorded between August and December 2002 in several locations, including Conway Recording Studios in Hollywood, California, features a track with uncredited guest vocals from Paul McCoy?",1
+8,"The album Quixotic, by Martina Topley-Bird, was released in 2003 and features a highly experimental musical style that spans several genres, including trip-hop, electronic, and rock.",the early 1990s,0.4505279064178467,5.167828798294067,0.1759631335735321,0.064516129032258,0.064516129032258,When did the highly experimental musical style on the album Quixotic originate?,0
+9,The Robie House.,Frederick C. Robie House,0.3407557010650635,2.5236656665802,0.7055401802062988,0.5714285714285715,0.5714285714285715,"The Wright 3 is a 2006 children's mystery novel written by Blue Balliett, it chronicles how Calder, Petra, and Tommy strive to save which U.S. National Historic Landmark on the campus of the University of Chicago in the South Side neighborhood of Hyde Park in Chicago, Illinois, at 5757 S. Woodlawn Avenue?",1
+10,They were both composers.,composer,0.3368802070617676,2.305410146713257,0.6006649732589722,0.4,0.4,What were Vincent McEveety and Peer Raben known for?,0
+11,Basketball.,basketball,0.344158411026001,2.479705810546875,0.9341326951980592,1.0,1.0,"Dime Magazine and Time, are which specific type of periodical?",0
+12,Anne Sofie von Otter.,Anne Sofie von Otter,0.2669854164123535,2.706498146057129,0.9850918054580688,1.0,1.0,"I Let The Music Speak, is a compilation album by which Swedish mezzo-soprano?",1
+13,Film.,film,0.3873524665832519,2.4587905406951904,0.8702664375305176,1.0,1.0,"Food, Inc. and Triumph of the Will, are which form of entertainment?",1
+14,Iraq.,Iraq,0.3115794658660888,2.1959445476531982,0.9209299087524414,1.0,1.0,Aban Elias was kidnapped near his home in the capital of what country?,1
+15,Black Knight Sports & Entertainment.,Black Knight Sports & Entertainment,0.4536349773406982,2.632880926132202,0.9719215035438538,1.0,1.0,"What is the name of the consortium that owns the professional ice hockey team, The Vegas Golden Knights, and is led by the lead investor William P. Foley?",1
+16,"professor of health policy at Loma Linda University, and is on the board of trustees at San Antonio Community Hospital. Barilla is noted for her expertise in leading community-based health strategies and implementing innovative models of care.
+---------------------
+Portland Exposition Building: 
+The Portland Exposition Building, also known as The Expo, is a sports and exhibition venue (convention center) building complex in Portland, Maine. The complex includes five inter-connected buildings with 330,000 square feet of exhibition space and 10 meeting rooms. The Center is adjacent to the Hadlock Field and the Portland Ice Arena. Phish, Ani Difranco, Natalie Merchant, The Monkees, and Rusted Root have played at the venue. It has also hosted trade shows and celebrations. It has been used for the Maine Red Claws basketball team, Portland High School Bulldogs basketball games, and indoor track events. In 2007, the Expo became the home of Maine Roller Derby.
+
+Naval Medical Research Unit Three: 
+Naval Medical Research Unit Three (NAMRU-3) is a biomedical research laboratory of the US Navy located in Cairo, Arab Republic of Egypt. NAMRU-3 is the oldest US overseas military medical research facility that has remained in the same location, and one of the largest medical research laboratories in the North Africa-Middle East region. The laboratory has been in continuous operation despite periods of political tension and a seven-year lapse in U.S.-Egyptian relations (1967–1973) since 1942.
+
+Hill's Tavern: 
+Hill's Tavern is a historic building in Scenery Hill, Pennsylvania. It was heavily damaged by a fire that started shortly before midnight on August 17, 2015. For a period in the early 1900s, the inn was known as Central Hotel. Now called the Century Inn, it had been the oldest tavern in continuous use on the National Road, until the fire brought an end to its 221 years of continuous operation. The overnight facilities accommodated 23 overnight guests and the dining room could seat up to 140 guests. The outdoor gazebo offered additional seating during the warmer months.
+
+Charles University: 
+Charles University, known also as Charles University in Prague (Czech: ""Univerzita Karlova"" ; Latin: ""Universitas Carolina"" ; German: ""Karls-Universität"" ) or historically as the ""University of Prague"" (Latin: ""Universitas Pragensis"" ), is the oldest and largest university in the Czech Republic. Founded in 1348, it was the first university in Central Europe. It is one of the oldest universities in Europe in continuous operation and ranks in the upper 1.5 percent of the world’s best universities.
+
+San Francisco Motorcycle Club: 
+The San Francisco Motorcycle Club (SFMC) was founded in San Francisco, California in 1904. It has been in continuous operation since its inception. This makes it the second oldest motorcycle club in the United States, preceded only by the Yonkers MC of Yonkers, New York, founded in 1903.
+
+Fitzpatrick Stadium: 
+Fitzpatrick Stadium is a 6,300 seat multi-purpose outdoor stadium in Portland, Maine, USA. It is located between Interstate 295, Hadlock Field baseball stadium, and the Portland Exposition Building, the second oldest arena in continuous operation in the United States. It is located across the street from Deering Oaks, a public park listed on the National Register of Historic Places. Formerly known as Portland Stadium, it was renamed in 1989 to honor James J. Fitzpatrick, one of the most respected figures in Maine athletic history.
+
+Royal School for the Blind, Liverpool: 
+The Royal School for the Blind in Liverpool, England, is the oldest specialist school of its kind in the UK, having been founded in 1791. Only the Paris school is older, but the Royal School for the Blind is the oldest school in the world in continuous operation, and the first in the world founded by a blind person, Edward Rushton, who was also an anti-slavery campaigner. It was also the first school in the world to offer education and training to blind adults as well as children.
+
+First Church of Hanover: 
+The First Church of Hanover, also known as the First ""Presbyterian"" Church of Hanover, is located on Mount Pleasant Avenue in East Hanover, Morris County, New Jersey, United States. Established in 1718 in what was then the British Province of New Jersey, it is a member of the Presbyterian Church (USA) and is one of the oldest churches in continuous operation in the United States. The congregation's current building, constructed in 1835, is listed on the National Register of Historic Places.
+
+Mineola Airport: 
+Mineola–Wisener Field Airport (FAA LID: 3F9), a privately-owned public use airport also known as the Mineola Airport and Wisener Field, was established in 1917. It has been under continuous operation by the same family since 1926.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        Where is the headquarters of the bank which has Liam Coleman as it's CEO? 
+        
+        assistant
+         The Co-operative Bank, with Liam Coleman as its CEO, is headquartered in Balloon Street, Manchester.","Balloon Street, Manchester.",0.8265552520751953,3.530347347259521,0.1230819821357727,0.0072992700729927,0.0072992700729927,Where is the headquarters of the bank which has Liam Coleman as it's CEO ? ,1
+17,A Broadway production of the 1913 Victor Herbert operetta.,“play within a play”,0.4534685611724853,2.834810972213745,0.2107571959495544,0.1538461538461538,0.1538461538461538,"In the screenplay Sweethearts, Victor Herbert's play was was used. What type of performance was this?",0
+18,Christian Bale.,Christian Charles Philip Bale,0.2890410423278808,2.511580228805542,0.8082094788551331,0.6666666666666666,0.6666666666666666,What English actor starred in the musical film Newsies but is known for doing blockbusters and lesser known independent projects?,1
+19,The Portland Exposition Building.,The Expo,0.3967635631561279,2.5833849906921387,0.5103980302810669,0.3333333333333333,0.3333333333333333,What is the second oldest arena in continuous operation in the US also known as?,1
+20,Universal Genève.,Universal Genève,0.3927226066589355,2.4641125202178955,0.9709007740020752,1.0,1.0,"What company that was originally founded in 1894 under the name Universal Watch, currently oversees Stelux International, Ltd of Hong Kong?",1
+21,Bobby Wagner played college football at Utah State.,Utah State,0.3256957530975342,2.8375630378723145,0.565366804599762,0.4,0.4,Where did the linebacker who upset Terry Beeson's tackle record play college football?,1
+22,1999.,1999,0.5264987945556641,2.836618423461914,0.9476619362831116,1.0,1.0,"When was the publishing company founded that produces tabletop role-playing game designed by Robin Laws and published by Pelgrane Press , that is co owned by Simon J Rogers and Cathriona Tobin ?",1
+23,Chiang Kai-shek.,Chiang Kai-shek,0.2783102989196777,2.646063327789306,0.9879068732261658,1.0,1.0,The prominent businessman and politician in the early-20th-century Republic of China T. V. Soong had which brother-in-law who was born in 1887 and served as the leader of the Republic of China?,1
+24,28 artists participated in the music video.,28,0.2973885536193847,2.8660635948181152,0.3661590218544006,0.25,0.25,How many stage musicals were written by the songwriting partnership who wrote Dearest Enemy?,0
+25,Mustafa Kemal Atatürk.,Mustafa Kemal Atatürk,0.3518962860107422,2.1590895652771,0.9845974445343018,1.0,1.0,"Who was the Turkish army officer born on May 19, 1881 that stayed at the Tokatlıyan Hotels?",1
+26,Spring Breakers.,Spring Breakers,0.3022968769073486,2.6966378688812256,0.9719144701957704,1.0,1.0,"Selena Marie Gomez is an American singer and actress, she starred in which 2012, American crime film written and directed by Harmony Korine?",1
+27,1986,1986,0.2594306468963623,2.459265947341919,1.0000001192092896,1.0,1.0,"Alan Douglas Ruck, is an American actor, he played Cameron Frye, Bueller's hypochondriac best friend in John Hughes' ""Ferris Bueller's Day Off"", released in which year?",1
+28,Yamoussoukro,Yamoussoukro,0.6742160320281982,2.368520021438598,1.000000238418579,1.0,1.0,What is the capital city of the country where Toumoukoro is located ?,1
+29,"February 26, 1926.","February 26, 1926",0.3612182140350342,2.7769908905029297,0.9906119108200072,1.0,1.0,What is the birthday of Greg Gagne's father?,1
+30,The traditional luau was eaten on the floor over lauhala (leaves of the hala tree were weaved together) mats.,on the floor,0.2454781532287597,3.5573065280914307,0.1957558989524841,0.2727272727272727,0.2727272727272727, A Hawaiian party named after the taro leaf was tradiotionally eaten where? ,1
+31,Viburnum,Viburnum,0.2316350936889648,2.3999481201171875,1.0,1.0,1.0,"Which genus belongs to a species of more than 175 different species, Viburnum or Acinos?",1

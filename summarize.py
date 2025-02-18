@@ -67,7 +67,7 @@ def summarize(path: str):
     }
         
 if __name__ == "__main__":
-    dir_path = "results/new_results/"
+    dir_path = "results/gpt_evaluated/"
         
     path_list = [ path for path in os.listdir(dir_path) if path.endswith(".csv") ]
     path_list = [dir_path + path for path in path_list]

@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,None of the above.,Incesticide,0.4450991153717041,1.6458196640014648,0.119933858513832,0.0,0.0,"Which Nirvana album featured The Vaselines, Dave Grohl, and Chad Channing?",0
+1,Middlesbrough.,Middlesbrough,0.3996145725250244,0.3754494190216064,0.9666174054145812,1.0,1.0,Frank Spraggon played for which team Formed in 1876 ?,1
+2,The Arch of Augustus.,Arch of Octavian,0.2765107154846191,0.4616031646728515,0.8038216829299927,0.5714285714285715,0.5714285714285715,What building was associated with a Roman politician and general who played a critical role in the transformation of the Roman Republic from an oligarchy into the autocratic Roman Empire?,1
+3,Kwabre district.,Mamponteng,0.5583181381225586,0.3569543361663818,0.1800164729356765,0.0,0.0,What is the capital of the district that Kwabre West is located in?,0
+4,Thomas.,Thomas,0.7003769874572754,0.2817471027374267,0.9662222266197203,1.0,1.0,"What is the middle name of the head coach of the team that played their home games at Memorial Stadium in Lawrence, Kansas in 2003?",1
+5,"""diva of Asia""",diva of Asia,0.3931813240051269,0.4633300304412842,0.9435343742370604,1.0,1.0,"Anna Magdalena, is a 1998 Hong Kong romantic fantasy comedy film, which stars Kelly Chen Ho, a Hong Kong Cantopop singer and actress, and has been referred to as a what?",1
+6,Britney Spears.,Britney Spears,0.4857211112976074,0.3375148773193359,0.9658371806144714,1.0,1.0,"The Outsyders were a production team that were first featured on a song by what female artist on her sixth studio album released on November 28, 2008, by Jive Records?",1
+7,"15,004","15,004-seat multi-purpose arena",0.3520932197570801,0.385901927947998,0.4048646986484527,0.5,0.5,Wichita Force plays at Intrust Bank Arena that seat how many people>?,1
+8,Trieste.,Trieste,0.3321170806884765,0.3266160488128662,0.9796170592308044,1.0,1.0,In which northeaster Italian city was famed sprinter Derna Polazzo born?,1
+9,2002.,2002,0.3411896228790283,0.3909320831298828,0.9519264101982116,1.0,1.0,In what year did the last fluent speaker of the language spoken by the Okehocking Tribe die?,1
+10,Blue Hawaii.,Blue Hawaii,0.3439531326293945,0.3498785495758056,0.980632185935974,1.0,1.0,"Which cocktail can be mixed with more than one alcoholic beverage, Blue Hawaii or Bloodhound?",1
+11,Over a hundred.,over a hundred,1.2106504440307615,0.388596773147583,0.9639005661010742,1.0,1.0,72 Miles as co-produced by an actor who has appeared in how many Hindi films?,1
+12,Canada.,Canada,1.857542991638184,0.3139095306396484,0.9222739934921264,1.0,1.0,"Afrophilya, is an international music festival founded in Montreal, Quebec, in which country, notable artists who have performed at the festival include South African Lorraine Klaasen daughter of Nelson Mandela's favourite singer Thandi Klaasen?",1
+13,Both bands have a multi-instrumentalist as a key member.,music,0.3183958530426025,0.6031594276428223,0.4261874556541443,0.0,0.0,What activity do both The Owl Service and Sigur Rós have in common?,0
+14,Yes.,yes,0.4061706066131592,0.1681075096130371,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+15,"No, Guideposts is a faith-based magazine, while QST is a magazine for amateur radio enthusiasts.",no,0.3058602809906006,1.0090079307556152,0.1254530549049377,0.1176470588235294,0.1176470588235294,Are Chris Marker and Yvonne Rainer American?,0

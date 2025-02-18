@@ -1,0 +1,511 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,27 million.,27 million,0.0008611679077148,3.3473477363586426,0.9667468667030334,1.0,1.0,How many Germans are members of sports clubs?
+1,Lynx is a text-based web browser.,text based web browser,0.0008785724639892,0.4935774803161621,0.6711759567260742,0.7272727272727273,0.7272727272727273,What kind of software is Lynx?
+2,Pope Gregory VII's chancery.,"chancery of Pope Gregory VII,",0.0006680488586425,0.4516234397888183,0.9309698343276978,0.8000000000000002,0.6,"Who coined the phrase ""king of the Germans"""
+3,The city management and urban policy program was ranked first in the nation.,city management and urban policy,0.0006434917449951,0.6859815120697021,0.6329970955848694,0.5555555555555556,0.5555555555555556,What program at the University of Kansas was rated highest among its peers?
+4,Chest pain or discomfort.,Chest pain,0.0006563663482666,0.3343112468719482,0.9300103187561036,0.6666666666666666,0.6666666666666666,What is the most common symptom of MI?
+5,30,30,0.0006184577941894,0.2175884246826172,1.0000001192092896,1.0,1.0,How many ajzā cover the entire Quran?
+6,Auswanderer.,Auswanderer,0.0006563663482666,0.3357307910919189,0.9820905923843384,1.0,1.0,What are people called who have left Germany but still speak German?
+7,Yes.,United States never developed bilingualism as Canada did.,0.0006053447723388,0.2151157855987548,-0.0295449458062648,0.0,0.0,Is Canada bilingual?
+8,"Yes, political instability and the Contra War.",the economic collapse of the country many more Nicaraguans migrated to the United States amongst other countries.,0.0005745887756347,0.5294778347015381,0.3063883185386657,0.0833333333333333,0.0833333333333333,Was there a specific reason many Nicaraguans fled to the U.S.?
+9,"The English-speaking settlers' sheer numbers led to their language, culture, and law becoming dominant, displacing Spanish in the public sphere.",the convention's English-speaking participants felt that the state's remaining minority of Spanish-speakers should simply learn English,0.0006549358367919,1.1937596797943115,0.6079506874084473,0.2439024390243902,0.1951219512195122,Why didn't California officially become  bilingual?
+10,2.4%,2.4,0.0007519721984863,0.3367180824279785,0.6556990146636963,1.0,1.0,"In March 2007, what percentage of Southampton residents claimed job seeker's allowance?"
+11,There is no mention of the V-12 program in the given context.,World War II,0.0006797313690185,0.7259995937347412,0.14848393201828,0.0,0.0,The dead of what war were the first to be commemorated by the Virginia War Memorial?
+12,1821.,"A large influx of Americans soon followed, originally with the approval of Mexico's president. In 1836",0.0006718635559082,0.2945237159729004,0.3764924108982086,0.0,0.0,When did the Americans come to Texas?
+13,1888.,1888,0.0006988048553466,0.2969274520874023,0.9602977633476256,1.0,1.0,When did NYC buy land for its parks?
+14,The Marine Accident Investigation Branch.,Marine Accident Investigation Branch,0.0006113052368164,0.3726754188537597,0.9677741527557372,0.888888888888889,0.888888888888889,What branch of the Department for Transport has its headquarters in Southampton?
+15,The Thirty Years' War was primarily fought in what is now Germany.,Germany,0.000615119934082,0.6868607997894287,0.3612554371356964,0.1538461538461538,0.1538461538461538,What country started programs that led to the welfare state?
+16,Hampshire.,Hampshire,0.0005533695220947,0.2177386283874511,0.9606670141220092,1.0,1.0,What ceremonial county does Southampton still belong to?
+17,1923.,1923,0.0005731582641601,0.2960274219512939,0.9702735543251038,1.0,1.0,When did the first Yankee Stadium open?
+18,"Student programs, such as Student Union Activities.",Student Union Activities,0.0005934238433837,0.4929683208465576,0.867924153804779,0.6,0.6,What is the name of a potential recipient of funds from enterprises like the bookstore and dining centers at KU?
+19,Dr. Alan Whitehead (Labour),Dr. Alan Whitehead,0.0005953311920166,0.4527051448822021,0.8765349984169006,0.8571428571428571,0.8571428571428571,Who is Southampton Test's member of parliament?
+20,Most MIs occur due to coronary artery disease.,coronary artery disease,0.00063157081604,0.5302844047546387,0.5302587151527405,0.5454545454545454,0.5454545454545454,How do most MIs come about?
+21,2007.,2007,0.0006260871887207,0.2965342998504638,0.9553945660591124,1.0,1.0,When was 'The Grand Concourse' published?
+22,5,5,0.0006558895111083,0.2173683643341064,1.0,1.0,1.0,"In how many season from 2003 to 2009 did the ""Big Four"" take all four top places in the UEFA Champions League?"
+23,The Julian calendar.,Julian calendar,0.000589370727539,0.2954907417297363,0.9220754504203796,0.8,0.8,What was the first reform concerning the calendar?
+24,They generally made a compromise so both churches could celebrate on the same day.,compromise,0.0006072521209716,0.7249033451080322,0.2757730782032013,0.1333333333333333,0.1333333333333333,What did churches do to settle the date if there was a difference? 
+25,"No, the Hanseatic League was not exclusively German.",The Hanseatic League was not exclusively German,0.0005311965942382,0.6083056926727295,0.9585843086242676,0.9333333333333332,0.9333333333333332,Was the Hanseatic league exclusively German?
+26,"Yes, KU's sports teams have a strong following.",fully booked every night,0.0006787776947021,0.61039137840271,0.09210966527462,0.0,0.0,Do the plays sport high attendance rates?
+27,HRH The Duchess of Cornwall.,HRH The Duchess of Cornwall,0.0006422996520996,0.414588451385498,0.991064429283142,1.0,1.0,Who christened the Cunard ship Queen Victoria in December 2007?
+28,30.3%,30.3,0.0006453990936279,0.3359227180480957,0.7069361209869385,1.0,1.0,What percentage of Germans are Evangelical Protestants?
+29,The Rhine.,12 BC,0.0005640983581542,0.2973318099975586,0.2451634556055069,0.0,0.0,In what did Emperor Augustus order the conquest of the Germans? 
+30,"Oppidan Scholarships are awarded for consistently performing with distinction in School and external examinations, specifically for either three distinctions in a row or four throughout their career.",consistently performing with distinction in School and external examinations,0.0005958080291748,1.3535418510437012,0.4898023009300232,0.5,0.5,Under what circumstances are Oppidan Scholarships awarded?
+31,The Election Chamber.,"Parlour, Election Hall, and Election Chamber",0.000748872756958,0.2984011173248291,0.74503093957901,0.4444444444444444,0.4444444444444444,"Where are 18th century ""leaving portraits"" kept at Eton?"
+32,Royal Caribbean.,Royal Caribbean,0.000636339187622,0.2581217288970947,0.9739327430725098,1.0,1.0,"Besides Carnival, what other major cruise line parks its record-breaking cruise ships in Southampton Water? "
+33,Tobacco.,tobacco,0.0006022453308105,0.2206089496612548,0.9471733570098876,1.0,1.0,What was contained in warehouses that were notably burned by Confederates when evacuating Richmond?
+34,2014.,2014,0.0005970001220703,0.2979218959808349,0.9431241750717164,1.0,1.0,When did the number of boarding bridges at Brasilia's airport nearly double?
+35,King Henry VI founded the school in 1440.,the school was founded by King Henry VI,0.0005617141723632,0.5714271068572998,0.8514962196350098,0.75,0.375,"Where do ""King's Scholars"" get their name?"
+36,The Battle of Königgrätz.,(Battle of Königgrätz,0.0007436275482177,0.4927732944488525,0.934846043586731,0.9090909090909092,0.9090909090909092,in What conflict of the German war did the Prussians successfully create the North German Confederation?
+37,"""Pop-Tanning""","""Pop-Tanning""",0.0006523132324218,0.3379206657409668,1.0,1.0,1.0,What was the most severe form of physical punishment at Eton referred to as?
+38,The Church of Alexandria placed the vernal equinox on 21 March.,21 March,0.0006394386291503,0.7283575534820557,0.347963809967041,0.3076923076923077,0.3076923076923077,Where did the Church of Alexandria place the vernal equinox?
+39,1863,1891,0.0005621910095214,0.2598452568054199,0.5334677696228027,0.0,0.0,In what year did an incident help introduce added time?
+40,The Southern Railway Company.,Southern Railway Company,0.0006177425384521,0.3370776176452636,0.975673258304596,0.8571428571428571,0.8571428571428571,What company commissioned the program that created the Western Docks?
+41,Roxbury Latin School.,Roxbury Latin School,0.0005824565887451,0.3264093399047851,0.9813416600227356,1.0,1.0,"Which male private school in Boston, USA has Eton formed a relationship with?"
+42,Emporia.,Emporia,0.0006806850433349,0.2576651573181152,0.9787183403968812,1.0,1.0,What competing city was next in line if Lawrence would have been unable to meet the requirements necessary to get KU built in its city?
+43,"No, New Mexico has no official language, but Spanish and English are both widely used.",the state has no official language.,0.0005614757537841,0.8446755409240723,0.5045447945594788,0.3809523809523809,0.3809523809523809,Does New Mexico have an official language?
+44,The 59 Club for motorcyclists was established at Eton.,Rare Books and Manuscripts,0.0006825923919677,0.6910958290100098,-0.0225203856825828,0.0,0.0,What is the interest of the Savile club at Eton?
+45,1 spot.,one,0.0007450580596923,0.2989950180053711,0.4638720154762268,0.0,0.0,How many restaurants in the western style were present in Kathmandu circa 1955?
+46,David Beaty is the head coach of the KU football team.,Sheahon Zenger,0.0005857944488525,0.6916964054107666,0.0621206238865852,0.0,0.0,Who is in charge of all sports teams at KU?
+47,To protect the trousers from being cut to shreds by the caning.,the caning would cut the cloth to shreds,0.0006911754608154,0.7289516925811768,0.5916013121604919,0.6,0.4,Why was a subject ordered to appear to Pop-Tanning in old trousers?
+48,"£3,800.","£1,700",0.0006361007690429,0.3388633728027344,0.832465410232544,0.0,0.0,How far below the national average is the average annual salary in Southampton?
+49,Aussiedler.,Aussiedler,0.0006048679351806,0.3000822067260742,0.9802640080451964,1.0,1.0,"Who are people of German ancestry but have lived in other parts of Europe, then returned to Germany?"
+50,Bill Self.,Bill Self,0.0005896091461181,0.2570586204528808,0.9688641428947448,1.0,1.0,Who is the head of men's basketball at KU?
+51,"Unfortunately, the text does not provide a specific number of Spanish-speaking students in the United States.",six million Spanish language students.,0.000638723373413,0.8837482929229736,0.7270964980125427,0.1818181818181818,0.1818181818181818,How many Spanish speaking students are there in the United States?
+52,Tim Johnson.,Tim Johnson,0.000577688217163,0.260258674621582,0.9791494011878968,1.0,1.0,Who is the current Precentor?
+53,1648.,1648,0.0005943775177001,0.2985312938690185,0.9706646203994752,1.0,1.0,In what year was the Academie royale de peinture et de sculpture founded?
+54,Drift of the Julian year from the mean tropical year.,length of the year,0.0006232261657714,0.6106414794921875,0.5222588777542114,0.4285714285714285,0.4285714285714285,What did Lilius first propose to correct in the calendar?
+55,16,16,0.0006830692291259,0.2217054367065429,1.0,1.0,1.0,How many policing districts was Paris divided into?
+56,AACSB.,AACSB,0.0006313323974609,0.2588918209075928,0.9822710752487184,1.0,1.0,By what acronym is the Association to Advance Collegiate Schools of Business known?
+57,London.,London,0.0006427764892578,0.2208671569824218,0.9624133110046388,1.0,1.0,In what city did the US and Russia conduct nuclear talks in 1955?
+58,The Battle of the Teutoburg Forest.,Battle of the Teutoburg Forest,0.0005977153778076,0.5339815616607666,0.9778212904930116,0.9090909090909092,0.9090909090909092,The Romans suffered a horrible defeat in there conquest of the Germans in what battle? 
+59,HMS Grace Dieu.,HMS Grace Dieu,0.0006124973297119,0.3377554416656494,0.9884202480316162,1.0,1.0,What's the name of the famed warship built in Southampton for Henry V?
+60,The Teutonic Knights.,Catholic German Teutonic Knights,0.0005965232849121,0.3763816356658935,0.8366623520851135,0.5714285714285715,0.5714285714285715,What was the name of the group that waged war in the Baltic?
+61,10 minutes 48 seconds per year.,subtract one day,0.000577688217163,0.4926323890686035,0.3091513514518738,0.0,0.0,How many days do you subtract to convert days from a calendar?
+62,The Red Lion.,Red Lion,0.0005736351013183,0.2990045547485351,0.9218076467514038,0.8,0.8,What is the public house where the men from Southampton Plot were tried called now?
+63,The University of Kansas has at least 2 campuses: Lawrence Campus and Edwards Campus.,five,0.0005404949188232,0.8075094223022461,-0.0109266489744186,0.0,0.0,How many sectors make up the Kathmandu metropolitan area?
+64,20 September 1582.,20 September 1582,0.0006568431854248,0.4167540073394775,0.9859449863433838,1.0,1.0,When were the rights to print the calendar withdrawn?
+65,Southampton Central.,Southampton Central,0.0006506443023681,0.259209394454956,0.9739577770233154,1.0,1.0,What's the name of the main train station in Southampton?
+66,M27.,the M27,0.0005660057067871,0.2585048675537109,0.9281949996948242,0.6666666666666666,0.6666666666666666,What motorway crosses the River Test to the North?
+67,1417.,1417,0.0005865097045898,0.2976934909820556,0.9762625694274902,1.0,1.0,In what year was the God's House Tower built?
+68,Winchester.,Winchester,0.0005586147308349,0.21954345703125,0.9710217714309692,1.0,1.0,"Prior to the 11th century, what was Anglo-Saxon England's capital?"
+69,£28 million.,£28 million,0.0005698204040527,0.2965531349182129,0.9704371690750122,1.0,1.0,What's the impressive budget of the SeaCity Museum?
+70,Almost half.,half,0.000577688217163,0.2605724334716797,0.861004114151001,0.6666666666666666,0.6666666666666666,How much of the population depends on agriculture?
+71,Sea City.,Sea City,0.0005495548248291,0.2579357624053955,0.9748167991638184,1.0,1.0,What Southampton festival culminates in the Boat Show?
+72,2.5%,2.5,0.0006167888641357,0.3390123844146728,0.7069843411445618,1.0,1.0,What percent of the Seleucid empire were comprised of native elites?
+73,2008,2005,0.0005781650543212,0.2593424320220947,0.7481169700622559,0.0,0.0,When was this type of hunting introduced?
+74,The Duke of Wellington.,Duke of Wellington,0.0005764961242675,0.3400287628173828,0.9686573147773744,0.8571428571428571,0.8571428571428571,"Who was incorrctly quoted in saying ""The Battle of Waterloo was won on the playing-fields of Eton""?"
+75,Kids Can't Fly.,Kids Can't Fly,0.000582218170166,0.3383393287658691,0.9852892160415648,1.0,1.0,What band that broke up in 2014 was formed in Southampton?
+76,"236,900.","236,900",0.0006213188171386,0.3388850688934326,0.9689364433288574,1.0,1.0,"In 2011, what was the estimated population of Southampton inside city limits?"
+77,The 10th century.,10th century,0.0005726814270019,0.3770689964294433,0.96128249168396,0.8,0.8,When was the earliest writing in Old East Slavonic?
+78,"Yes, the Texans fought a war of independence from Mexico in 1836.","Texans, fought a war of independence from the central government of Mexico",0.0005586147308349,0.7660675048828125,0.8451042771339417,0.75,0.6666666666666666,Was there a war between the Mexicans and the Texans?
+79,An embankment.,embankment,0.0006091594696044,0.3385210037231445,0.9396384358406068,0.6666666666666666,0.6666666666666666,"What feature survives in the Hill Lane area as evidence of the Didcot, Newbury and Southampton Railway's work?"
+80,Germany.,Germany,0.0006020069122314,0.2221298217773437,0.9486981630325316,1.0,1.0,What country started programs that led to the welfare state?
+81,Georgian architecture.,Georgian,0.0006227493286132,0.2595760822296142,0.8062908053398132,0.6666666666666666,0.6666666666666666,What style does most of the city's architecture belong to?
+82,840.,840,0.0006277561187744,0.2603535652160644,0.9413706064224244,1.0,1.0,When did the reign of Louis the Pious end?
+83,East Francia and the Holy Roman Empire.,East Francia,0.0006237030029296,0.4946727752685547,0.6521831154823303,0.4444444444444445,0.4444444444444445,"Whose influence was Rastislav eager to reduce, when he invited  Michael III to send missionaries? "
+84,The Revolutions of 1848.,Nationalism,0.0005643367767333,0.4559183120727539,0.4779201149940491,0.0,0.0,What movement came out of the French Revolution?
+85,35th.,35th,0.0005502700805664,0.2998275756835937,0.9748780131340028,1.0,1.0,Where is Israel's economy ranked?
+86,"Conduit Head, near Hill Lane, Shirley.",Conduit Head,0.0005648136138916,0.5364468097686768,0.6505284309387207,0.5,0.5,Where was the water brought from by the friars' supply system?
+87,There is no information about the National Debate Championships in the given context.,12,0.0007963180541992,0.6924855709075928,0.0805045142769813,0.0,0.0,How many counties did New York originally have?
+88,POWs (Prisoners of War).,POWs,0.0007884502410888,0.495814561843872,0.653912365436554,0.4,0.4,What group of people in addition to wounded soldiers from the Great War often were brought to Southampton for treatment?
+89,"The three schools that constitute the University of Kansas Medical Center are: 
+1. School of Medicine
+2. School of Nursing
+3. School of Health Professions.","the School of Medicine, School of Nursing, and School of Health Professions",0.0007328987121582,1.4725892543792725,0.619713306427002,0.5945945945945945,0.5945945945945945,What are the three constituents of the medical center at KU?
+90,"ein diutscher means ""a German"".",a German,0.0007495880126953,0.4940648078918457,0.609780490398407,0.5714285714285715,0.5714285714285715,What does ein diutscher mean?
+91,"""Home on the Range""","""Kansas Song""",0.0006980895996093,0.3776044845581054,0.2463511526584625,0.0,0.0,What is the name of a song that references the state that KU serves?
+92,"The term ""ein deutscher"" (a German) was used for the people of Germany from the 12th century.",Max Skladanowsky,0.0006194114685058,1.157815933227539,0.1150160729885101,0.0,0.0,Who was the original German cinematic?
+93,East Prussia.,East Prussia,0.0006124973297119,0.2992725372314453,0.9784734845161438,1.0,1.0,Where was Johann Tillmann from?
+94,A tabular method.,tabular method,0.0006725788116455,0.3390741348266601,0.8787346482276917,0.8,0.8,What method was used instead of computations of the sun and moon?
+95,96th.,96th,0.000638723373413,0.2984733581542969,0.9717196822166444,1.0,1.0,What's Southampton's ranking on the list of most deprived Local Authorities in England?
+96,"Prince Richard, Duke of Gloucester.",Prince Richard,0.0006124973297119,0.4546341896057129,0.7898318767547607,0.5714285714285715,0.5714285714285715,Which Duke of Gloucester attended Eton?
+97,The 12th century.,12th,0.000711441040039,0.3770132064819336,0.4788839817047119,0.5,0.5,In what century did Christian thought begin to be influenced by the scholasticism of Aristotle?
+98,Luxury cruise ships.,cruise ships,0.0006158351898193,0.300795316696167,0.9047895669937134,0.8,0.8,What kind of passenger ships make up a lot of the traffic in the port of Southampton?
+99,"St. Augustine, Florida.","St. Augustine, Florida",0.0006699562072753,0.3771908283233642,0.9705454111099244,1.0,1.0,Where is the oldest settlement in America?
+100,West Quay region.,West Quay,0.0005857944488525,0.3376712799072265,0.9118635058403016,0.8,0.8,In what region of Southampton is the geothermal power station for the aquifer?
+101,Easter.,Easter,0.0006706714630126,0.2193911075592041,0.9623860716819764,1.0,1.0,What holiday was the inducement to revise the Julian calendar?
+102,There is no mention of an invasion of Southampton in the given context.,Charles Grimaldi,0.0006177425384521,0.6911461353302002,0.0673226043581962,0.0,0.0,Who led the invasion of Southampton in the 14th century by the French and others?
+103,Allied forces.,Allied forces,0.0006434917449951,0.2599954605102539,0.9697635173797609,1.0,1.0,Which forces did Southampton supply after D-Day that made it a target for many Luftwaffe air raids?
+104,The THES - QS World University Rankings.,THES - QS World University Rankings,0.0005834102630615,0.491861343383789,0.9797978401184082,0.9090909090909092,0.9090909090909092,What organization ranked the University of Southampton in the top 80 universities worldwide in 2010?
+105,"Up to 30,000 people.","up to 30,000",0.0006084442138671,0.4569628238677978,0.7288355231285095,0.888888888888889,0.888888888888889,How many people does M'era Luna Festival attract?
+106,600.,600,0.000666856765747,0.2576799392700195,0.9340522289276124,1.0,1.0,What was the average murder rate during the 90's?
+107,"The Community Tool Box offers over 7,000 pages of content.","more than 7,000 pages",0.0006170272827148,0.6495165824890137,0.6628932356834412,0.3749999999999999,0.3749999999999999,How much content does the Community Tool Box offer?
+108,Charles Moore.,Charles Moore,0.0006370544433593,0.2574934959411621,0.9767385125160216,1.0,1.0,Which former Editor of the Daily Telegraph attended Eton?
+109,Craig David.,Craig David,0.0005924701690673,0.2605314254760742,0.9792065620422364,1.0,1.0,What popular RnB singer hails from Southampton?
+110,1965.,1965,0.0006141662597656,0.3003358840942383,0.9553147554397584,1.0,1.0,What year saw the publication of Eisenhower's memoirs?
+111,Millions of Puerto Rican Americans living in the U.S. mainland are fluent in both English and Spanish.,"Roughly half of all American Spanish-speakers also speak English ""very well,"" based on their self-assessment in the U.S. Census.",0.0005757808685302,0.9263885021209716,0.6956930160522461,0.3999999999999999,0.3,How many Hispanics speak English too?
+112,Print and online.,print and online,0.0006492137908935,0.2997496128082275,0.916192352771759,1.0,1.0,In what two forms of media is the Daily Kansan available?
+113,"Yes, New Mexico's Spanish includes elements from Nahuatl, Pueblo languages, and English.","New Mexican Spanish also contains loan words from the Pueblo languages of the upper Rio Grande Valley, Mexican-Spanish words (mexicanismos)",0.0005595684051513,0.920952320098877,0.6782170534133911,0.2941176470588235,0.2941176470588235,Does New Mexico's language also include other dialect?
+114,'Sign for information'.,sign for information,0.0005438327789306,0.3375568389892578,0.9358291625976562,1.0,1.0,"What punishment term is ""info"" short for?"
+115,"Yes, 8 states were ruled by the Spanish: Florida, Texas, Colorado, New Mexico, Arizona, Nevada, Utah, and California.","western regions of the Louisiana Territory were under Spanish rule between 1763 to 1800,",0.0005948543548583,1.2769482135772705,0.4738549590110779,0.25,0.125,Were there states ruled by the Spanish?
+116,Over 150 years.,for centuries,0.0006642341613769,0.3380215167999267,0.6233609914779663,0.0,0.0,How long did many of the Germans live in the eastern Europe countries before being expelled? 
+117,1964.,1964,0.0005867481231689,0.2984123229980469,0.9599661827087402,1.0,1.0,"When was the 'one man, one vote' decision?"
+118,There is no mention of Eton in the given context. The largest theatre in Southampton is the Mayflower Theatre.,Farrer,0.000579833984375,1.0414302349090576,0.0770879760384559,0.0,0.0,What is the name of Eton's largest theatre?
+119,"The title of rex teutonicum ""King of the Germans"" was first used in the late 11th century.",late 11th century,0.0006494522094726,1.121497392654419,0.4457282423973083,0.3,0.3,When was the Title King of the Germans first used?
+120,"Over 40,000.","over 40,000",0.000706672668457,0.3750686645507812,0.9765278697013856,1.0,1.0,What's the combined student population of the two major universities in Southampton?
+121,Solar calendar.,solar,0.0006096363067626,0.2580878734588623,0.7439557313919067,0.6666666666666666,0.6666666666666666,What type of power systems use glass?
+122,"17,000.","17,000",0.0005979537963867,0.3375196456909179,0.9722518920898438,1.0,1.0,How many African Americans lived in Charleston in 1860?
+123,"The goals of the ISSP are to ""raise pupil achievement, improve pupil self-esteem, raise pupil aspirations and improve professional practice across the schools"".","raise pupil achievement, improve pupil self-esteem, raise pupil aspirations and improve professional practice across the schools",0.0005779266357421,1.2571771144866943,0.7655045986175537,0.8292682926829268,0.8292682926829268,What are the goals of the Independent and State School Partnership?
+124,Bypass surgery (CABG) is recommended for people with blockages of multiple coronary arteries and diabetes.,blockages of multiple coronary arteries and diabetes,0.000579833984375,0.9996228218078612,0.5832059979438782,0.6363636363636364,0.6363636363636364,When is bypass surgery recommended?
+125,Spanish is the most widely taught non-English language in American secondary schools and higher education.,Spanish is the most widely taught language in American colleges and universities with 53 percent of the total number of people enrolled,0.0006108283996582,0.8442895412445068,0.7762532830238342,0.5263157894736842,0.5263157894736842,"How popular are Spanish language classes in the U.S,?"
+126,29 June 1199.,29 June 1199,0.0007026195526123,0.4180090427398681,0.9910411238670348,1.0,1.0,What date was the charter regarding Southampton's tax farm signed at Orival?
+127,There is no mention of 1945 in the provided context.,applicant's father being British by birth,0.0006477832794189,0.6509416103363037,0.1142590567469596,0.0,0.0,What stipulation did the school base entrance on in 1945?
+128,1.5 miles.,one mile and a half,0.0006029605865478,0.3778584003448486,0.7429904937744141,0.25,0.25,How long was Southampton's High Street as described by Choules?
+129,I couldn't find any information about the old name of Heart Hampshire.,Ocean FM,0.0005598068237304,0.691840648651123,0.1073248386383056,0.0,0.0,What was the old name of Heart Hampshire?
+130,Rome.,Rome,0.0006003379821777,0.2209053039550781,0.9608421325683594,1.0,1.0,Of what were Roman camps diminutive versions?
+131,1939.,1939,0.0006439685821533,0.300668716430664,0.9678189158439636,1.0,1.0,When did World War II start?
+132,Pound Tree Road.,Pound Tree Road,0.0006351470947265,0.2763266563415527,0.979988694190979,1.0,1.0,What road does First use stops around to leave a terminal available for other buses?
+133,ABET.,ABET,0.0006179809570312,0.2593495845794678,0.9665970802307128,1.0,1.0,What is the acronym for an organization that serves as an accreditation body for engineering schools?
+134,ESOL programmes and Access courses.,Access courses,0.0005958080291748,0.4159557819366455,0.7548999786376953,0.5714285714285715,0.5714285714285715,What courses does Southampton City College offer to adult students?
+135,Christianity.,Christianity,0.0005502700805664,0.2210779190063476,0.912482976913452,1.0,1.0,In contrast to what religion was Judaism acceptable in Rome?
+136,The 1992 Local Government Act.,1992 Local Government Act,0.0005521774291992,0.4545595645904541,0.96928870677948,0.888888888888889,0.888888888888889,"What act was responsible for the reorganization of local government on April 1, 1997?"
+137,Etonians who had died in the Boer War.,Etonians who had died in the Boer War,0.0005543231964111,0.611778736114502,0.961435854434967,1.0,1.0,To whom were School Hall and School Library erected in memoriam of?
+138,Hantscire.,Hantscire,0.0005741119384765,0.3391642570495605,0.9824450612068176,1.0,1.0,"Even before it was official, Hampshire was often called Hampshire or what ancient variation of the name?"
+139,Pope Gregory XIII awarded the rights to publish the calendar to Antonio Lilio.,the pope,0.0005695819854736,0.7293708324432373,0.3785697221755981,0.2666666666666667,0.1333333333333333,"Other than Napoleon, who else found the Concordat to be of use?"
+140,Producing an outstanding piece of work.,If any boy produces an outstanding piece of work,0.00071382522583,0.4558043479919433,0.6593507528305054,0.8,0.8,"What action results in something being ""Sent Up For Good?"""
+141,Lawrence Oates.,Lawrence Oates,0.0005810260772705,0.2980377674102783,0.983549177646637,1.0,1.0,Which Antarctic explorer attended Eton?
+142,There is no mention of the Southampton Docks company being created in the given context.,1835,0.0005905628204345,0.8063557147979736,0.108422577381134,0.0,0.0,When did Spain suppress local police units?
+143,The M271 motorway.,M271,0.0005857944488525,0.3771858215332031,0.6640620231628418,0.5,0.5,What spur of the M27 connects it to Southampton's city centre and Western Docks?
+144,There is no mention of Venezuelans in the provided context.,"Many Venezuelans settled in the United States with hopes of receiving a better education, only to remain in there following graduation.",0.0005805492401123,0.6099169254302979,0.5071054100990295,0.3225806451612903,0.1935483870967741,Why did Venezuelans come to America?
+145,1926.,1 January 1926,0.0006415843963623,0.297903299331665,0.8191630840301514,0.5,0.5,When did Turkey start using the Gregorian calendar for all purposes?
+146,They were assimilated into German culture through intermarriage and settlement.,were assimilated into German culture,0.000579833984375,0.6890048980712891,0.8544761538505554,0.6666666666666666,0.6666666666666666,What happened to the Slavic people of the Baltic?
+147,There is no mention of a war in the given context.,World War II,0.0007038116455078,0.6118638515472412,0.3728525936603546,0.1428571428571428,0.1428571428571428,The dead of what war were the first to be commemorated by the Virginia War Memorial?
+148,The University of Southampton.,University of Southampton,0.0007266998291015,0.3393638134002685,0.9620710611343384,0.8571428571428571,0.8571428571428571,What is the new name of University College at Highfield?
+149,The latter half of the 20th century.,20th,0.0006625652313232,0.5350949764251709,0.4127170145511627,0.25,0.25,During which century did Matisse work?
+150,2006,2006,0.0006089210510253,0.2596068382263183,1.0000001192092896,1.0,1.0,When did the Kathmandu valley monuments receive WHS status?
+151,"Yes, his studies on English language adoption and bilingualism rates are still relevant to understanding the assimilation of Hispanic Americans today.","his study based itself upon a large 1976 sample from the Bureau of the Census (which has not been repeated),",0.0005323886871337,1.0832843780517578,0.4104309678077698,0.1951219512195122,0.1951219512195122,Is Calvin Veltman' relevant to today's Hispanic Americans?
+152,"Miami, New York City, Los Angeles, and Washington, D.C.","Some of the urban areas with a high Venezuelan community include Miami, New York City, Los Angeles, and Washington, D.C.",0.000579833984375,0.7298390865325928,0.6051703691482544,0.6451612903225806,0.6451612903225806,Where are the most populated city's Venezuelan live in?
+153,Three times.,three,0.0006382465362548,0.2570898532867431,0.616310179233551,0.6666666666666666,0.6666666666666666,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+154,Men's Fitness magazine.,Men's Fitness,0.0005762577056884,0.339141845703125,0.7588411569595337,0.8571428571428571,0.8571428571428571,"What magazine awarded Southampton ""fittest city in the UK"" in 2006?"
+155,Oppidans.,Oppidans,0.00065279006958,0.3001646995544433,0.979690432548523,1.0,1.0,"What is the term given to students who lived in town, but not on the campus of Eton?"
+156,40 acres.,forty acres,0.000575304031372,0.2999322414398193,0.9074365496635436,0.5,0.5,What was the minimum size of the land that Lawrence could provide for the university?
+157,"Yes, until the 1940s.",The area of the former Gadsden Purchase contained a majority of Spanish-speakers until the 1940s,0.0006260871887207,0.4926068782806396,0.3047729134559631,0.3,0.3,Has New Mexico had a majority of Spanish speaking natives.
+158,Two.,two,0.0006604194641113,0.2212598323822021,0.8910362720489502,1.0,1.0,How many types are Nepali works of art typically divided into?
+159,Banister Court Stadium.,Banister Court Stadium,0.0006217956542968,0.3379700183868408,0.9841949343681335,1.0,1.0,"During the pre-war period, where was speedway racing held?"
+160,"I couldn't find any information about a music festival called ""Junk"".",dance,0.0006322860717773,0.727684736251831,0.1847527474164962,0.0,0.0,"What does ""siva"" mean in Samoan?"
+161,"1 day every 3,300 years.",10 minutes 48 seconds,0.0005464553833007,0.5314803123474121,0.2138719856739044,0.0,0.0,What is the difference in time between the calendars?
+162,The consular year started with the inauguration of the two consuls.,consuls first entered office,0.0005478858947753,0.6897799968719482,0.7113980054855347,0.1333333333333333,0.1333333333333333,What event started the consular year?
+163,30%,30%,0.0005853176116943,0.2601287364959717,1.0,1.0,1.0,What percent of Armenia speaks Russian?
+164,Coldplay.,Pink Floyd,0.0006971359252929,0.2613131999969482,0.4321781098842621,0.0,0.0,What legendary band with a color in its name has played at the Guildhall?
+165,Adult contemporary music.,adult contemporary,0.0005915164947509,0.2995474338531494,0.7897395491600037,0.8,0.8,What kind of music does Wave 105 play?
+166,There is no mention of Central Americans fleeing to the U.S. in the provided context.,civil wars engulfed several Central American countries in the 1980s,0.0005431175231933,0.8456854820251465,0.4164242744445801,0.3076923076923077,0.3076923076923077,Why did Central Americans flee to the U.S.?
+167,The true motions of the sun and moon.,motions of the sun and moon,0.0007424354553222,0.4965410232543945,0.9021272659301758,0.8571428571428571,0.8571428571428571,What did mathematicians of the time want to use to set the date of Easter?
+168,4.9%,4.9,0.0006434917449951,0.339257001876831,0.6759970188140869,1.0,1.0,By what percentage did the population of Southampton increase from 1996 to 2004?
+169,The 1970s and 1980s.,Throughout the 1980s with the United States supported Contra War (or Contra-revolutionary war) which continued up until 1988,0.0005536079406738,0.5725624561309814,0.3804697394371032,0.1739130434782608,0.1739130434782608,When did the Nicaraguans arrive?
+170,"Charles E. Spahr, former CEO of Standard Oil of Ohio.",Charles E. Spahr,0.0007336139678955,0.6914200782775879,0.7336655259132385,0.4615384615384615,0.4615384615384615,What oil company leader is an alumnus of the University of Kansas?
+171,Hampshire County Council.,Hampshire County Council,0.0006253719329833,0.3004283905029297,0.9761727452278136,1.0,1.0,What organization announced plans for rail expansion in Southampton in July of 2009?
+172,4 days.,-4,0.0006244182586669,0.2988502979278564,0.3322395086288452,0.6666666666666666,0.6666666666666666,"If you need a date of four days less, what do you subtract from the Julian calendar?"
+173,The second reform of the calendar was the Gregorian calendar reform.,lunar cycle,0.000579833984375,0.6488473415374756,0.3263670802116394,0.0,0.0,What was the second reform of the calendar?
+174,Myocardial Infarction.,Myocardial infarction,0.0005743503570556,0.415546178817749,0.9471462965011596,1.0,1.0,What does MI stand for?
+175,Eton is the sixth most expensive HMC boarding school in the UK.,sixth most expensive,0.0005910396575927,0.7292699813842773,0.4540748596191406,0.4,0.4,How does Eton College rate expense-wise with the other HMC boarding schools in the UK?
+176,Roger Lupton.,Roger Lupton,0.0006730556488037,0.3386080265045166,0.9813072681427002,1.0,1.0,Whose name is on the gate-house fronting School Yard?
+177,The Napoleonic Wars.,The Napoleonic Wars,0.0006136894226074,0.376941442489624,0.9745693206787108,1.0,1.0,What was the cause of the final dissolution of the Holy Roman Empire?
+178,1 day.,1 day,0.0005979537963867,0.297590970993042,0.9218755960464478,1.0,1.0,"What is the error rate of the vernal equinox per every 7,700 years?"
+179,Meridian.,Meridian,0.0005359649658203,0.2594540119171142,0.966504693031311,1.0,1.0,What's the name of the local ITV division?
+180,Hampshire.,Hampshire,0.0006213188171386,0.2212655544281005,0.9606670141220092,1.0,1.0,What ceremonial county does Southampton still belong to?
+181,The Swiss.,The Swiss,0.0006012916564941,0.2595343589782715,0.9831530451774596,1.0,1.0,Who refused to fight alongside the Helvetic Republic when it was invaded by the Russians and Austrians?
+182,"Whiteley, around 9 miles from the city.",Whiteley,0.0005507469177246,0.5723905563354492,0.7153676748275757,0.25,0.25,Where is the Meridian headquarters located?
+183,East Germanic language.,East Germanic,0.0006313323974609,0.3370790481567383,0.8966047763824463,0.8,0.8,What language did the Huns adopt?
+184,"Yes, most Cubans in the US are fluent in Spanish.",most are fluent in Spanish,0.0005433559417724,0.6484148502349854,0.696174681186676,0.6666666666666666,0.6666666666666666,Do Cubans speak Spanish in America?
+185,January 1.,1 January,0.0005795955657958,0.2974557876586914,0.9506298303604126,1.0,0.5,In the Julian calendar when is the start of the new year?
+186,"The University of Kansas School of Architecture, Design, and Planning.","The University of Kansas School of Architecture, Design, and Planning",0.0005383491516113,0.6501715183258057,0.9849724769592284,1.0,1.0,What KU school is abbreviated as SADP?
+187,To visually represent the varying lengths of months in a calendar.,language-independent,0.0006806850433349,0.6106553077697754,0.1024363785982132,0.0,0.0,Why would a knuckle -space count be used to determine months?
+188,There is no information in the given context about the number of German Americans.,50 million,0.0006783008575439,0.7293660640716553,0.2365784794092178,0.0,0.0,How many gas mask were issued before the war?
+189,1800.,1800,0.0007259845733642,0.2986059188842773,0.9630804061889648,1.0,1.0,When was Glasgow's police force established?
+190,1%,one,0.0007457733154296,0.2609262466430664,0.3724736273288727,0.0,0.0,How many restaurants in the western style were present in Kathmandu circa 1955?
+191,"East of Regensburg, in Bavaria.",Bavaria,0.0006244182586669,0.4939322471618652,0.7658597230911255,0.3333333333333333,0.3333333333333333,Where is the Walhalla temple located?
+192,New Style (N.S.) dates indicate that the start of the Julian year has been adjusted to start on 1 January.,Gregorian,0.0005393028259277,1.1195526123046875,0.4211069345474243,0.0,0.0,What are New Style dates?
+193,South West Trains.,South West Trains,0.0006489753723144,0.3375031948089599,0.982429563999176,1.0,1.0,What company operates Southampton's local train service?
+194,The date of Easter.,date of Easter,0.0006003379821777,0.3360898494720459,0.9515215158462524,0.8571428571428571,0.8571428571428571,What was calculated using the lunar calendar?
+195,Sunday.,Sunday,0.0005648136138916,0.2207083702087402,0.9630643725395204,1.0,1.0,On what day are repeats of The Essentials shown?
+196,King John's charter in 1199.,Charles I,0.0005948543548583,0.4945676326751709,0.2286420315504074,0.0,0.0,Which ruler removed parliament in 1629?
+197,Town Quay.,Town Quay,0.0006027221679687,0.2985503673553467,0.9791644811630248,1.0,1.0,What is the name of the quay where all three ferries have their terminals?
+198,"Yes, the Spanish have a significant legacy in the United States from their forefathers, with many cities and regions having a strong Hispanic influence.","after the French and Indian War, further extending the Spanish influence throughout modern-day United States of America.",0.000561237335205,1.2752163410186768,0.619124174118042,0.3333333333333333,0.1904761904761905,Do the Spanish have a legacy in America from their forefathers?
+199,Pope Gregory XIII.,Pope Gregory XIII,0.0005652904510498,0.2983264923095703,0.9800379276275636,1.0,1.0,Who revised the Julian calendar?
+200,Precentor.,"""Precentor""",0.0005509853363037,0.2984716892242431,0.9338504672050476,1.0,1.0,What term is given to the Head of Music?
+201,There is no information about the opening year of Southampton Container Terminals in the given context.,1968,0.000575304031372,0.8462944030761719,0.1868883371353149,0.0,0.0,When was the Terry v. Ohio case?
+202,The Marsden Fund.,Marsden Fund,0.0006184577941894,0.3379828929901123,0.9418260455131532,0.8,0.8,Which Fund is dedicated for travel to non-English speaking countries?
+203,The Common Agricultural Policy (CAP).,Common Agricultural Policy,0.0005683898925781,0.4159748554229736,0.8678535223007202,0.7499999999999999,0.7499999999999999,Under what policy was Eton able to receive funds without farming?
+204,"None, the text does not mention Phillip.",Spain and Portugal,0.0006115436553955,0.4995760917663574,0.1823436170816421,0.0,0.0,"Besides part of Italy, over what areas did Phillip rule?"
+205,Two fists.,one's two fists,0.0007228851318359,0.2607100009918213,0.8928310871124268,0.6666666666666666,0.6666666666666666,What are held together for a knuckle-space month count?
+206,1 May.,1 May,0.000701904296875,0.3003597259521484,0.9631880521774292,1.0,1.0,When was Operation Dracula launched?
+207,Geordie Greig.,Geordie Greig,0.000633955001831,0.3751330375671386,0.9690356850624084,1.0,1.0,Who is a former Eton alumn and current Editor of The Mail on Sunday?
+208,Depth.,depth,0.00065279006958,0.2200932502746582,0.95309180021286,1.0,1.0,"In addition to its shape, what property of the English Channel affects water flow in Southampton Water?"
+209,Five times.,five,0.0005698204040527,0.2575743198394775,0.6817899346351624,0.6666666666666666,0.6666666666666666,How many sectors make up the Kathmandu metropolitan area?
+210,Earl of Ulster.,Ulster,0.0005362033843994,0.3379278182983398,0.6954813599586487,0.5,0.5,"Where is Prince Richard's son, Alexander Windsor, Earl of?"
+211,The Princeton Review.,Princeton Review,0.0005643367767333,0.2990741729736328,0.9508841037750244,0.8,0.8,Who considered the business school of the University of Kansas among the best Midwestern business institutions?
+212,Saint Crispin's Day.,Saint Crispin's Day,0.0005979537963867,0.420738935470581,0.9905524849891664,1.0,1.0,"What other date is 25 October known for, that keeps the Battle of Agincourt on 25 October,1415?"
+213,University Daily Kansan.,University Daily Kansan,0.0007109642028808,0.3795897960662842,0.9819124937057496,1.0,1.0,What is the name of the newspaper printed every day by the University of Kansas?
+214,English.,Polish,0.0006971359252929,0.220369815826416,0.4533748626708984,0.0,0.0,What nationality was de Courtenay?
+215,"Eton was criticized for bullying, failing to produce capability procedures, and the Head Master not reviewing the case independently.",failing to produce its capability procedures,0.0006153583526611,1.042916774749756,0.3763301074504852,0.3999999999999999,0.3999999999999999,For what was Eton criticized in its handling of the Forsyth case?
+216,Hawtrey House and Durnford House.,"Hawtrey House, Durnford House",0.0006051063537597,0.5349597930908203,0.9584442377090454,0.888888888888889,0.888888888888889,Which two houses were built as student population increased 1845?
+217,The Guildhall.,the Guildhall,0.0006425380706787,0.2966065406799316,0.976093053817749,1.0,1.0,"In addition to the Mayflower Theatre, what's Southampton's other big venue for live music?"
+218,"The 1980s, primarily due to the Salvadoran Civil War.",The largest immigration wave occurred as a result of the Salvadoran Civil War in the 1980s,0.0005438327789306,0.7278430461883545,0.748859167098999,0.4800000000000001,0.3999999999999999,When did Salvadorans come to America?
+219,Decision science applications supporting NASA Project Apollo Command Capsule Recovery Operations.,decision science,0.0006098747253417,0.6517462730407715,0.5102702379226685,0.3076923076923077,0.3076923076923077,What kind of applications did the interdisciplinary program help shape?
+220,11,11,0.00067138671875,0.2200775146484375,1.0,1.0,1.0,How many cultures and languages do the indigenous peoples of Alaska have?
+221,Interdisciplinary management science graduate studies in operations research.,interdisciplinary management science graduate studies in operations research,0.0005724430084228,0.5351920127868652,0.996329426765442,1.0,1.0,What was launched in 1965 by the business school at KU?
+222,The Gaumont.,the Gaumont,0.0006139278411865,0.2964427471160888,0.984516441822052,1.0,1.0,What was the former name of the Mayflower Theatre?
+223,"Yes, New Mexico Spanish contains loan words from English.","borrowings from English. Grammatical changes include the loss of the second person verb form, changes in verb endings",0.0006794929504394,0.5702838897705078,0.3188923299312591,0.1481481481481481,0.1481481481481481,Does New Mexico also use language from the  American language when spoken in Spanish?
+224,"The three schools at KU's Medical Center offer the following programs of study: 
+1. School of Medicine
+2. School of Nursing
+3. School of Health Professions",its own programs of graduate study,0.0006494522094726,1.5511279106140137,0.4019597768783569,0.1818181818181818,0.1818181818181818,What does each of the component schools of KU's Medical Center offer?
+225,I couldn't find any information about female schools close to Eton in the provided context.,"St George's, Ascot, St Mary's School Ascot, Windsor Girls' School and Heathfield St Mary's School",0.0006511211395263,0.8468070030212402,0.4169564843177795,0.0588235294117647,0.0588235294117647,What are somefemale schools close to Eton?
+226,Naval innovations.,naval innovations,0.0006783008575439,0.2598545551300049,0.9815062880516052,1.0,1.0,What helped the Germans dominate trade?
+227,"Around 20% of students, or approximately 263, receive financial aid at Eton.",20%,0.0006496906280517,0.8855853080749512,0.2377580404281616,0.1538461538461538,0.1538461538461538,How much of DEI's energy output is from natural gas?
+228,Hot adult contemporary music.,Hot adult contemporary,0.0005881786346435,0.3391034603118896,0.826103687286377,0.8571428571428571,0.8571428571428571,What genre of music is played on The Breeze?
+229,Henry VIII.,Henry VIII,0.0006659030914306,0.2599058151245117,0.9773843288421632,1.0,1.0,Under whose reign did the Church of England part from Rome?
+230,The emergence of German culture in the context of the passage is associated with Prussian history.,High Middle Ages,0.0006945133209228,0.8261833190917969,0.2428968697786331,0.0,0.0,What period in history do we see the emergence of German culture?
+231,September.,September,0.000732421875,0.2206344604492187,0.9489479660987854,1.0,1.0,When is Tucson's city council primary?
+232,The Austrian Habsburg monarchy and Liechtenstein.,effectively excluding the multi-ethnic Austrian Habsburg monarchy,0.0006284713745117,0.5708084106445312,0.7792577743530273,0.5714285714285715,0.5714285714285715,What regions was excluded from the German Empire?
+233,"Yes, Florida has a significant Hispanic population, particularly in southern and central Florida, due to Cuban and other Hispanic immigration.","increasing the Spanish-speaking populations and in some areas being the majority of the Hispanophone population, especially in Central Florida. In Hawaii",0.0006172657012939,1.080446481704712,0.4974229335784912,0.238095238095238,0.1904761904761905,Does Florida have a high Hispanic population?
+234,Approximately 100 million.,100 million,0.0006279945373535,0.3398494720458984,0.8313291668891907,0.8,0.8,At least how many tesserae are used in the the Monreale mosaics?
+235,16.2%,16.2,0.0005948543548583,0.3394391536712646,0.6915366053581238,1.0,1.0,What percentage of available jobs in Southampton are in wholesale and retail industries?
+236,16 wards.,16,0.0005445480346679,0.2975101470947265,0.4839526414871216,0.6666666666666666,0.6666666666666666,How many policing districts was Paris divided into?
+237,"No, the United States has no official language.","United States has no de jure official language, English is the dominant language",0.0005512237548828,0.5320174694061279,0.7073396444320679,0.6666666666666667,0.5714285714285714,Is there an official language of the United States?
+238,Moorgreen Hospital.,Moorgreen Hospital,0.000558853149414,0.3371095657348633,0.9892792105674744,1.0,1.0,What hospital is the Countess Mountbatten House a part of?
+239,There is no mention of KU's specialized professional schools in the given context. The text is about Eton school.,additional fees,0.0005507469177246,1.066319465637207,0.0310543682426214,0.0,0.0,What is charged at KU's specialized professional schools?
+240,"Kansas City, Kansas.",Kansas City,0.0007426738739013,0.3383772373199463,0.9406465888023376,0.8,0.8,In what city can KU's hospital be found?
+241,The Head Master of Eton College.,the Head Master,0.0006289482116699,0.4539785385131836,0.56928551197052,0.6666666666666666,0.6666666666666666,Who was criticized for not handling the Forsyth case independently?
+242,"Yes, the U.S. federal government tried to force Puerto Ricans to adopt English as the primary language.",U.S. federal government strenuously tried to force Puerto Ricans to adopt English,0.0006406307220458,1.003407001495361,0.8778135180473328,0.7741935483870968,0.7741935483870968,Did America try to make Puerto Rico an English speaking territory?
+243,'Arrival of the Three Queens'.,Arrival of the Three Queens,0.0006775856018066,0.4555673599243164,0.9554338455200196,1.0,1.0,What does Southampton call the event when three ships named after queens all visit the city?
+244,"Yes, Texas was part of Mexico as the state of Coahuila y Tejas from 1821 until 1836.","In 1821, after Mexico's War of Independence from Spain, Texas was part of the United Mexican States as the state of Coahuila y Tejas",0.0006337165832519,1.1579608917236328,0.8440637588500977,0.6666666666666666,0.5238095238095238,Was Texas a part of Mexico?
+245,Ostsiedlung.,Ostsiedlung,0.0006673336029052,0.3387401103973388,0.9760695695877076,1.0,1.0,The Expansion of Germany  by the Catholic Church into the areas of the Slavs and balts is know as what?
+246,St Mary's Stadium.,St Mary's Stadium,0.0007109642028808,0.3395941257476806,0.990504026412964,1.0,1.0,What stadium has been home to The Saints since 2001?
+247,"No, there is no mention of a court ruling in the text.",the convention ultimately voted 46-39 to revise the earlier clause so that all official proceedings would henceforth be published only in English.,0.0006384849548339,0.690671443939209,0.3432904779911041,0.1142857142857142,0.0571428571428571,Was there a court ruling?
+248,1898.,1898,0.0006661415100097,0.2962508201599121,0.9670541286468506,1.0,1.0,When were Borough Presidents created?
+249,"Print, online, and broadcast.","print, online and broadcast",0.0005960464477539,0.4172120094299316,0.8921323418617249,1.0,1.0,What three types of media are students taught to work with at KU's School of Journalism?
+250,Wellington College.,Wellington College,0.0006122589111328,0.2592287063598633,0.9816216230392456,1.0,1.0,Which independent school had more hosted outreach events than Eton?
+251,The Wednesday before the first weekend of June.,the Wednesday before the first weekend of June,0.0005502700805664,0.4945061206817627,0.9760484099388124,1.0,1.0,When is the Fourth of June celebrated?
+252,There is no information provided about the number of education professionals working at KU in the fall of 2012.,"2,663",0.0006294250488281,1.00278639793396,-0.0825295001268386,0.0,0.0,How many education professionals were working at KU in the fall of 2012?
+253,"Jean Scott, the head of the Independent Schools Council.",Jean Scott,0.0007445812225341,0.5726492404937744,0.6442641615867615,0.3636363636363636,0.3636363636363636,"Who defended fifty schools accused of price-sharing, stating they were unaware the laws had changed?"
+254,Lilius's.,Aloysius Lilius,0.0006647109985351,0.337357759475708,0.6366018652915955,0.5,0.5,Whose modified proposal was adopted?
+255,Eight.,eight,0.0006184577941894,0.2209329605102539,0.9341223239898682,1.0,1.0,How many rivers travel through Kathmandu?
+256,March.,March,0.0005950927734375,0.2209582328796386,0.9379435777664183,1.0,1.0,What is the most likely month for the James to flood Richmond?
+257,131 colleges and universities.,131,0.0006263256072998,0.3756744861602783,0.5961533784866333,0.4,0.4,How many institutions participated in the V-12 program?
+258,Aspirin.,Aspirin,0.0006237030029296,0.2968168258666992,0.9523016214370728,1.0,1.0,What can be used for immediate treatment for MI?
+259,"Germany's history is marked by World War II, but a newer generation sees it as a distant memory.","The state outside the Gadsden Purchase of 1853 was part of the New Mexico Territory until 1863, when the western half was made into the Arizona Territory.",0.0005464553833007,0.9417004585266112,0.109653502702713,0.0,0.0,What is the states history?
+260,Eton encourages people to find what they love and nurture their talent.,They champion the talent of the individual,0.0006542205810546,0.6491789817810059,0.3790398836135864,0.2105263157894737,0.2105263157894737,"According to actor Tom Hiddleston, that is special about Eton?"
+261,Buses.,Buses,0.0006763935089111,0.2364430427551269,0.9431967735290528,1.0,1.0,What type of vehicle transport system is owned by the Delhi Transport Corporation?
+262,Civil and environmental engineering.,civil and environmental engineering,0.0005881786346435,0.3376283645629883,0.964552104473114,1.0,1.0,With what two other programs was KU's architectural engineering curriculum joined in 2001?
+263,Austro-German tradition.,Austro-German,0.0005621910095214,0.3766014575958252,0.8340274095535278,0.8,0.8,In what tradition of music did Brahms Wagner and Hadyn achieve fame?
+264,The 12th century.,12th,0.0005807876586914,0.3762214183807373,0.4788839817047119,0.5,0.5,In what century did Christian thought begin to be influenced by the scholasticism of Aristotle?
+265,"""The Saints""",The Saints,0.0006585121154785,0.2994723320007324,0.9045627117156982,1.0,1.0,What's the nickname of the Southampton Football Club?
+266,Wichita and Salina.,Wichita and Salina,0.0006153583526611,0.3383462429046631,0.9883187413215636,1.0,1.0,In what two cities are there satellite locations for KU's medical school?
+267,Austria.,Austria,0.0006320476531982,0.2204391956329345,0.9604600667953492,1.0,1.0,"Along with Germany and Switzerland, what country contained an autobahn during the Second World War?"
+268,"Johann Gottfried Herder, a German philosopher who developed the concept of a German nation.",German philosopher,0.0006065368652343,0.8479475975036621,0.6110405921936035,0.25,0.25,Who was Johann Herder?
+269,There is no information about a war in the 1640s in England in the given context.,English Civil War,0.0007522106170654,0.9032630920410156,0.4366568028926849,0.1052631578947368,0.1052631578947368,After which event was it decided that parliament should meet on a regular basis?
+270,M27.,M3,0.0007209777832031,0.2590196132659912,0.5064429044723511,0.0,0.0,Which motorway connects Southampton to London?
+271,a space,a space,0.0006632804870605,0.2221388816833496,1.0,1.0,1.0,What's the all-lowercase named arts organization in charge of the art gallery in Southampton's Bargate?
+272,Archaeology museum.,Museum of Archaeology,0.0005650520324707,0.2974951267242431,0.9531053900718688,0.8,0.4,What museum was located in God's House Tower until 2011?
+273,The 12th century.,12th century,0.000535249710083,0.377333402633667,0.9569544792175292,0.8,0.8,When was Saint Denis Basilica rebuilt?
+274,North.,North,0.0007016658782958,0.2209680080413818,0.9630559086799622,1.0,1.0,On what side of the river is Begum Bazaar?
+275,The main mechanism for MI is the complete blockage of a coronary artery caused by a rupture of an atherosclerotic plaque.,complete blockage of a coronary artery,0.0005457401275634,1.1977930068969729,0.595808744430542,0.4444444444444445,0.4444444444444445,What is the main mechanism for MI?
+276,1966.,1966,0.0006873607635498,0.2990016937255859,0.9566715955734252,1.0,1.0,When did a guerrilla group fight for Namibia's independence? 
+277,The Four-Year Tuition Compact.,Four-Year Tuition Compact,0.0006194114685058,0.4160757064819336,0.9324390292167664,0.888888888888889,0.888888888888889,What was the edict approved by the Board of Regents that provided for the fixed tuition program?
+278,Redbridge.,Redbridge,0.0006153583526611,0.2601161003112793,0.977681279182434,1.0,1.0,What is the furthest town the Royalists reached during their advance into Southampton in 1644?
+279,The Hanseatic League.,City of Southampton Sunday Football League,0.0005569458007812,0.3775990009307861,0.2872133553028106,0.2222222222222222,0.2222222222222222,"What's the name of the local league with ""City"" in its name?"
+280,The KU School of Business offers two kinds of courses of study: undergraduate and graduate programs in business and accounting.,business and accounting,0.0007517337799072,1.0436596870422363,0.5642308592796326,0.2608695652173913,0.2608695652173913,What are two kinds of courses of study available at KU's business school?
+281,Non-curriculum course.,non-curriculum,0.0006716251373291,0.3355712890625,0.8581717014312744,0.8,0.8,Is Chinese a required or non-curriculum course?
+282,Crime statistics between Hampshire and Dorset are debated due to differences in recording methodologies.,comparative crime statisitics,0.0006868839263916,0.7658324241638184,0.5997956991195679,0.1176470588235294,0.1176470588235294,Which statistics are debated because of the different ways various police forces record crime?
+283,Petrus Pitatus of Verona.,Petrus Pitatus,0.0006258487701416,0.4548068046569824,0.8362963199615479,0.6666666666666666,0.6666666666666666,Whose solution to the discrepancies of the tables would have been agreeable to astronomers?
+284,The Itchen river converges with the Test.,Itchen,0.0005495548248291,0.5326192378997803,0.5067272782325745,0.25,0.25,Which river splits the city of Southampton into an east section and a west section?
+285,Stadtrecht.,Stadtrecht,0.0006165504455566,0.2580318450927734,0.9812514781951904,1.0,1.0,What is the German work for German town law?
+286,The adoption of Christianity by the Germans from the Romans.,Germanic and Roman peoples intermarried,0.0005688667297363,0.5722918510437012,0.560918927192688,0.2666666666666666,0.2666666666666666,Through what act would Roman and German customs become intertwine? 
+287,"Puerto Rico maintained its Spanish language due to its small, densely populated island and the lack of a massive influx of English speakers.","Puerto Rico was able to maintain its Spanish language, culture, and identity because the relatively small, densely populated island",0.0006344318389892,1.1209592819213867,0.8779137134552002,0.6190476190476191,0.4761904761904761,How did Puerto Rico stay a Spanish speaking territory?
+288,"They may rely on Spanish-language media, such as Spanish-language newspapers, TV, and radio, or online news sources.","There are 500 Spanish newspapers, 152 magazines, and 205 publishers in the United States; magazine and local television",0.0007300376892089,1.083354949951172,0.5581452250480652,0.1621621621621621,0.1621621621621621,"If someone is not bilingual and only speaks Spanish, how do they learn about current events?"
+289,The Southampton Sports Centre.,Southampton Sports Centre,0.0007665157318115,0.337747573852539,0.9668275117874146,0.8571428571428571,0.8571428571428571,What facility is the center of Southampton's public sports and outdoor activities?
+290,The Community Tool Box.,The Community Tool Box,0.0006148815155029,0.2977681159973144,0.9684413075447084,1.0,1.0,What is the name of a publicly-available resource of KU related to community health?
+291,Anthony Chenevix-Trench.,Anthony Chenevix-Trench,0.0005853176116943,0.4550964832305908,0.982191264629364,1.0,1.0,Who administered caning privately in his office?
+292,Langstone.,Langstone,0.0006008148193359,0.261162519454956,0.9741658568382264,1.0,1.0,"In the 1100s, the port of Southampton included everything between Lymington and what area?"
+293,"San Juan, capital of Puerto Rico.","The oldest city in all of the U.S. territory, as of 1898, is San Juan, capital of Puerto Rico",0.0005574226379394,0.4561219215393066,0.6274275779724121,0.4615384615384615,0.4615384615384615,What is the oldest city of the United States territory?
+294,Heartburn.,heartburn,0.0006327629089355,0.2595560550689697,0.9369086027145386,1.0,1.0,What can the discomfort of MI feel like?
+295,Bournemouth Symphony Orchestra.,Bournemouth Symphony Orchestra,0.0005743503570556,0.339536190032959,0.9827495813369752,1.0,1.0,"What orchestra with a name that starts with ""B"" has played at the Guildhall?"
+296,The old aristocratic regimes and ethnic groups of Central and Eastern Europe.,aristocratic regimes,0.0005688667297363,0.6909627914428711,0.6802762150764465,0.2857142857142857,0.2857142857142857,Who was threatened by Nationalism?
+297,The M27 motorway.,M27,0.0006799697875976,0.376957893371582,0.6900037527084351,0.5,0.5,Which motorway located north of Southampton links up England's south coast?
+298,Germans are trying to focus on their Prussian history.,Prussian history,0.0006723403930664,0.5506269931793213,0.7606174945831299,0.3636363636363636,0.3636363636363636,What are Germans trying to focus on?
+299,The London Academy of Excellence.,London Academy of Excellence,0.0006794929504394,0.3787453174591064,0.9784098863601683,0.888888888888889,0.888888888888889,Which college in Newham does Eton College co-sponsor?
+300,Their history of expelling and oppressing Jews.,Nazi past,0.0006954669952392,0.5323667526245117,0.4800001382827759,0.0,0.0,What are Germans trying to forget?
+301,Tudor House Museum.,Tudor House Museum,0.0006742477416992,0.3366270065307617,0.9804937839508056,1.0,1.0,"What museum reopened on July 30th, 2011 after a huge renovation?"
+302,Johann Tillmann and Otto von Bismarck.,The Nazis,0.0006434917449951,0.5728967189788818,0.4264774024486542,0.0,0.0,Who wanted to unite all of the Germans all over the area?
+303,Pope Gregory VII's chancery.,Pope Gregory VII,0.000556468963623,0.4547450542449951,0.8159911632537842,0.7499999999999999,0.7499999999999999,Who first used rex teutonicum?
+304,The Four-Year Tuition Compact.,fixed tuition rate,0.0005767345428466,0.4158473014831543,0.568061113357544,0.25,0.25,What was first instituted for first year students in the 2007-2008 school year?
+305,"The Sunday after the 14th day of the moon that falls on or after the vernal equinox, which was on 21 March.",15th day,0.0005984306335449,1.2780699729919434,0.536386251449585,0.0833333333333333,0.0833333333333333,When was Easter Sunday celebrated after the equinox?
+306,The University of Hohenheim.,University of Hohenheim,0.0006918907165527,0.3943679332733154,0.9724604487419128,0.8571428571428571,0.8571428571428571,Where does Eugen Buss work?
+307,"The Didcot, Newbury and Southampton Railway.","Didcot, Newbury and Southampton Railway",0.0007202625274658,0.5345730781555176,0.9817250967025756,0.9090909090909092,0.9090909090909092,What competing railway company tried to open a rail route in the 1880s?
+308,The birthday of King George III.,the birthday of King George III,0.0007107257843017,0.4167203903198242,0.985125720500946,1.0,1.0,"What does the ""Fourth of June"" celebrate?"
+309,"James Green, the former dean of the University of Kansas School of Law.",James Green,0.0005593299865722,0.7287037372589111,0.6943405270576477,0.2666666666666667,0.2666666666666667,For whom is Green Hall named?
+310,The Julian calendar.,Julian,0.0005769729614257,0.2973346710205078,0.5512369275093079,0.5,0.5,Who rejected the Christian religion?
+311,Hypertext browsing and navigation.,hypertext browsing and navigation,0.0005438327789306,0.3779680728912353,0.9714650511741638,1.0,1.0,What was made possible by Lynx?
+312,KU,KU,0.0006530284881591,0.2208328247070312,1.0,1.0,1.0,What is the abbreviation by which the University of Kansas is known?
+313,Solent Sky.,Solent Sky,0.0006201267242431,0.2973711490631103,0.981825590133667,1.0,1.0,What's the name of the aviation museum in Southampton?
+314,The Work Group for Community Health and Development.,the Work Group for Community Health and Development,0.0005455017089843,0.4539163112640381,0.9931275844573976,1.0,1.0,What body is responsible for managing the Community Tool Box?
+315,Portswood.,Portswood,0.0005791187286376,0.2590382099151611,0.9769724607467652,1.0,1.0,What area of Southampton did Mitchell hail from?
+316,Karl von Clausewitz.,Karl von Clausewitz,0.0005500316619873,0.3758985996246338,0.9794161319732666,1.0,1.0,What famous German military strategist has a name with Slavic origin?
+317,Charlemagne (Karl der Große),king Charlemagne,0.0005745887756347,0.5331337451934814,0.8019276857376099,0.2857142857142857,0.2857142857142857,Who united the 5 tribes?
+318,3,three,0.0006227493286132,0.2203052043914795,0.8656187057495117,0.0,0.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+319,"Yes, New Mexico is known for its Spanish language and culture.",New Mexico is commonly thought to have Spanish as an official language alongside English because of its wide usage and legal promotion of Spanish in the state,0.0005526542663574,0.6485421657562256,0.7554256916046143,0.368421052631579,0.3157894736842105,Is New Mexico known for the Spanish language?
+320,3,three,0.0005526542663574,0.2190184593200683,0.8656187057495117,0.0,0.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+321,There is no mention of a society dedicated to philosophy in the given context.,Wine and Wotton’s,0.0005278587341308,0.7303729057312012,0.104003332555294,0.0,0.0,Which Eton society is dedicated to philosophy?
+322,The University of Kansas.,William Allen White School of Journalism,0.0006072521209716,0.3383769989013672,0.4078835248947143,0.2,0.2,What institution houses the Daily Kansan?
+323,1959,1959,0.000579833984375,0.2602581977844238,1.000000238418579,1.0,1.0,When did the USAF stop appointing warrant officers?
+324,Will Champion.,Will Champion,0.0005445480346679,0.2593872547149658,0.9088850617408752,1.0,1.0,What's the name of the Coldplay drummer from Southampton?
+325,1840.,1840,0.0005617141723632,0.3010928630828857,0.9667807817459106,1.0,1.0,What year did Georgian architecture begin to be abandoned?
+326,God's House Tower.,God's House Tower,0.0007688999176025,0.3371038436889648,0.98355633020401,1.0,1.0,What's the name of the museum located in one of Southampton's tower walls?
+327,"No, it's a relatively recent development, starting with the Bill Clinton administration.",following the precedent set by the Bill Clinton administration. Official Spanish translations are available at WhiteHouse.gov.,0.0006618499755859,0.76822829246521,0.2070094347000122,0.2666666666666666,0.2666666666666666,Was this always the case in American political addresses?
+328,1862.,1862,0.0007059574127197,0.2971365451812744,0.9551724195480348,1.0,1.0,In what year did John Charles Thring come up with rules that were influential?
+329,Wilhelm Conrad Röntgen.,Wilhelm Conrad Röntgen,0.0006487369537353,0.4154868125915527,0.9779690504074096,1.0,1.0,Who won the first Nobel Prize in Physics?
+330,Southampton has an oceanic climate (Köppen Cfb).,oceanic,0.0006403923034667,0.6903693675994873,0.3911665678024292,0.2222222222222222,0.2222222222222222,What kind of climate does Southampton have?
+331,The Soul Cellar.,the Dolphin,0.000734806060791,0.3391520977020263,0.1880605220794677,0.4,0.4,What small music venue in Southampton is named after an aquatic mammal?
+332,1582.,"Friday, 15 October 1582",0.0005996227264404,0.2989926338195801,0.5997097492218018,0.4,0.4,What was the date of adoption for the calendar?
+333,There is no mention of Nicaraguans in the provided context.,political instability during the end of the 1970s and the 1980s,0.0005521774291992,0.6494593620300293,0.0392212942242622,0.1904761904761905,0.1904761904761905,Why did the Nicaraguans come to America?
+334,The main campus.,main campus,0.0006220340728759,0.2984387874603271,0.9608952403068542,0.8,0.8,On what campus is the University of Kansas School of Engineering located?
+335,Eastleigh.,Eastleigh,0.0005695819854736,0.2603058815002441,0.9816372394561768,1.0,1.0,In what Somali enclave in Kenya have Somalis invested over $1.5 billion?
+336,Canute's Palace.,Canute's Palace,0.0005958080291748,0.3383131027221679,0.9898456335067748,1.0,1.0,"In addition to King John's House, what's the name of another rich merchant's dwelling that still partly remains?"
+337,West End.,West End,0.0006427764892578,0.2594828605651855,0.9795365929603576,1.0,1.0,What part of the city is the Rose Bowl in?
+338,"""unfounded and irrelevant.""",unfounded and irrelevant,0.0006017684936523,0.4148941040039062,0.7481503486633301,1.0,1.0,The School dismissed claims that Prince Harry was cheating by saying the claims were what?
+339,Hawthorns Urban Wildlife Centre.,Hawthorns Urban Wildlife Centre,0.00054931640625,0.3766114711761474,0.992496371269226,1.0,1.0,What wildlife center is located in Southampton Common?
+340,"Girls from surrounding schools, such as St George's, Ascot, St Mary's School Ascot, Windsor Girls' School and Heathfield St Mary's School.",girls from surrounding schools,0.0005545616149902,1.4343533515930176,0.6564391255378723,0.2857142857142857,0.2857142857142857,Who are cast in Eton's female roles in their productions?
+341,Crimson and Blue.,crimson and royal blue,0.0007264614105224,0.2999677658081054,0.8878383636474609,0.8571428571428571,0.8571428571428571,What colors are worn by KU's athletic teams?
+342,Four out of five.,Four,0.0006747245788574,0.3378114700317383,0.7236721515655518,0.4,0.4,How many days after the attack on Pearl Harbor did Germany wait to declare war on the United States?
+343,Trieste.,Trieste,0.0006284713745117,0.2602612972259521,0.9796170592308044,1.0,1.0,What territory did Yugoslavia leadership want to incorporate?
+344,1.0%,1.0,0.0005908012390136,0.3392269611358642,0.7010407447814941,1.0,1.0,"What percentage of the population of Southampton is Black, according to the 2001 Census?"
+345,The University of Kansas does not have specific information about a department that serves students learning about government.,the Robert J. Dole Institute of Politics,0.0005948543548583,0.8853724002838135,0.232135072350502,0.16,0.16,What part of KU serves students learning about government?
+346,Town Quay.,Town Quay,0.0006530284881591,0.2986838817596435,0.9791644811630248,1.0,1.0,What is the name of the quay where all three ferries have their terminals?
+347,The academic computing department.,academic computing,0.0006165504455566,0.338559627532959,0.8046208620071411,0.6666666666666666,0.6666666666666666,What division of the University of Kansas contributed to the development of the internet?
+348,German town law (Stadtrecht).,Stadtrecht,0.0005793571472167,0.4538142681121826,0.7053396701812744,0.4,0.4,What is the German work for German town law?
+349,The Roman Catholic Church.,Roman Catholic Church,0.0005617141723632,0.3386664390563965,0.9268498420715332,0.8571428571428571,0.8571428571428571,Who was the Church of Cyprus hoping to end encroachments of?
+350,Monaco.,Monaco,0.0005760192871093,0.2203044891357422,0.9673390984535216,1.0,1.0,What principality did Grimaldi set up with the profits from plundering Southampton?
+351,"The student receives a card to be signed by House Master, tutor, and division master.","House Master, tutor and division master",0.0006120204925537,0.8456480503082275,0.6270945072174072,0.5714285714285715,0.5714285714285715,"When a student has work Sent Up For Good, who signs the card that they receive?"
+352,April 1999.,April 1999,0.0006005764007568,0.3369953632354736,0.9689432382583618,1.0,1.0,When did the Thames Valley Athletics Centre open?
+353,Celts.,Celts,0.0006842613220214,0.2593770027160644,0.9814999103546144,1.0,1.0,Who did the Germans come in contact with to the south?
+354,The Roman Empire.,Roman Empire,0.0006134510040283,0.2994923591613769,0.9372591376304626,0.8,0.8,Who foreign group conquered Britain around AD 43?
+355,"17,800.","17,800",0.0006844997406005,0.3395776748657226,0.9838454127311708,1.0,1.0,How many people between the ages of 30 and 34 live in Southampton?
+356,9,nine,0.0006475448608398,0.2206349372863769,0.9229578971862792,0.0,0.0,How many stories made up the Dharahara tower?
+357,"No, the text does not mention Calvin Veltman.",data from the 1990 Census tend to confirm the great Anglicization of the US Hispanic American origin population.,0.0005872249603271,0.612734317779541,0.1446222513914108,0.0769230769230769,0.0769230769230769,Are there other similar findings similar to Calvin Veltman' for the modern age?
+358,Health and education.,health and education,0.0005862712860107,0.2996203899383545,0.9438755512237548,1.0,1.0,What sector provides about a quarter of Southampton's available jobs?
+359,"The total number of students at the University of Kansas is not explicitly stated in the given context. However, we can infer that the total number of students is the sum of students at the main campus, the Medical Center, and the Edwards Campus. 
+
+The main campus had 3,349 students as of the Fall 2013 semester, but there is no information about the number of students in 2014. The Medical Center had 3,349 students as of the Fall 2013 semester, but again, there is no information about the number of students in 2014. The Edwards Campus had 2,100 students. 
+
+Therefore, we can only provide the number of students at the Edwards Campus, which is 2,100.","26,968",0.0005974769592285,6.057361364364624,0.2097818106412887,0.0,0.0,How many students attended the University of Kansas combined in fall of 2014?
+360,"£1,945 per pupil per year.","£1,945 per pupil per year",0.000739574432373,0.4949045181274414,0.9907631874084472,1.0,1.0,How much did estimated tax breaks save per student in 1992?
+361,Normandy.,Normandy,0.00063157081604,0.2609765529632568,0.9656023979187012,1.0,1.0,John focused on trying to retake what?
+362,Verbal bullying.,verbal,0.0006306171417236,0.2976551055908203,0.549852728843689,0.6666666666666666,0.6666666666666666,"In addition to physical attacks, what other kind of assault do Southampton's students commit against staff more than anywhere else in the country?"
+363,The Procession of Boats.,Procession of Boats,0.000582218170166,0.4159512519836426,0.983511745929718,0.8571428571428571,0.8571428571428571,Which event is held on the Fourth of June?
+364,1924.,1924,0.0006425380706787,0.2996604442596435,0.96939617395401,1.0,1.0,The Quarter Century Club began in this year.
+365,1952.,1952,0.0006871223449707,0.2995076179504394,0.9718616008758544,1.0,1.0,When did Armenia begin winning Olympic medals?
+366,"A card to be signed by House Master, tutor, and division master.",a card,0.0006415843963623,0.7295897006988525,0.5524721741676331,0.2857142857142857,0.2857142857142857,What does a student receive when work is Sent Up For Good?
+367,The last one to arrive.,The last boy to arrive,0.0007038116455078,0.3760490417480469,0.6560995578765869,0.8000000000000002,0.8000000000000002,Which first year student was given the task yelled for by the Librarian?
+368,The northern tip.,northern,0.0005936622619628,0.2980055809020996,0.681547999382019,0.5,0.5,What geographical part of Kathmandu did Yambu once occupy?
+369,The Crimean War.,the Crimean war,0.000584602355957,0.3397901058197021,0.9786608219146729,1.0,1.0,"In addition to wars with the French and the Boer War, in which notable war in the 18th century did Southampton play a role?"
+370,24,24,0.0006349086761474,0.2212483882904052,1.0,1.0,1.0,How many seas are allocated to the Turkish community?
+371,1970s.,1970s,0.000594139099121,0.336601972579956,0.9534088373184204,1.0,1.0,In what decade were production costs greatly reduced for LEDs to enable successful commercial uses?
+372,"Mount Oread, the site of the University of Kansas main campus.",Mount Oread,0.0005948543548583,0.6902804374694824,0.669147253036499,0.3076923076923077,0.3076923076923077,On what geographic feature was KU built?
+373,Cunard Line.,Cunard Line,0.0006237030029296,0.3381102085113525,0.984271228313446,1.0,1.0,What brand of cruise ships has a special importance to Southampton?
+374,Prussia and its allies won the Franco-Prussian War.,Prussia and its new allies in Southern Germany,0.0006077289581298,0.6493144035339355,0.7321385145187378,0.4705882352941176,0.4705882352941176,Who won the Franco-Prussian War?
+375,Roman Catholicism.,Roman Catholicism,0.0006415843963623,0.299358606338501,0.9299674034118652,1.0,1.0,What religion was the general population converted to?
+376,The eastern border.,eastern border,0.0006396770477294,0.2986998558044433,0.9474759101867676,0.8,0.8,On what border of the Byzantine Empire were the last holdouts for celebrating according the  Alexandrian Easter?
+377,"236,900.",1.5 million,0.0005416870117187,0.3385107517242431,0.3494025468826294,0.0,0.0,How many ethnic Armenians are believed to have died in the Armenian Genocide?
+378,Godolphin House and Jourdelay's.,"Godolphin House, Jourdelay's",0.0005919933319091,0.5343790054321289,0.9597719311714172,0.888888888888889,0.888888888888889,Which two Oppidan Houses are the oldest?
+379,The use of its facilities.,use of its facilities,0.0005514621734619,0.3783318996429443,0.9661070108413696,0.888888888888889,0.888888888888889,What service does Eton provide to the local community free of charge?
+380,Public affairs programs.,public affairs,0.0006446838378906,0.2995550632476806,0.812629222869873,0.8,0.8,What kinds of programming appear on KUJH-LP?
+381,The boy's housemaster.,the boy's housemaster,0.0005459785461425,0.3761532306671142,0.9835156202316284,1.0,1.0,Who must sign a Rip?
+382,"The Victorian period, around 1888.",Victorian period,0.0005660057067871,0.4937391281127929,0.826752781867981,0.5714285714285715,0.5714285714285715,What era in history saw local government begin setting up County Councils in the area?
+383,1740.,1740,0.0006093978881835,0.298922061920166,0.9703365564346312,1.0,1.0,When did Prussia stop torture?
+384,The London Academy of Excellence is free of charge.,free of charge,0.0005829334259033,0.5335795879364014,0.4548313617706299,0.5,0.5,How much does it cost to attend Eton Dorney throughout the year?
+385,The aftermath of the French Revolution.,in the aftermath of the French Revolution,0.0006179809570312,0.417109727859497,0.9471190571784972,0.923076923076923,0.923076923076923,When did the popularity of a German identity arise?
+386,Eton.,Eton,0.0005562305450439,0.2590539455413818,0.9792176485061646,1.0,1.0,Where did adventurer Bear Grylls attend school?
+387,A House Master is a teacher who signs a student's card after they have been sent up for good work.,the teacher who lives in the house and manages the pupils in it,0.0005204677581787,1.003039836883545,0.5940808653831482,0.1764705882352941,0.1176470588235294,What is a House Master?
+388,"The Old Style (OS) date refers to the Julian calendar, formerly used in many countries, as opposed to the Gregorian calendar (NS).",Julian calendar,0.0006558895111083,1.276325225830078,0.4417620599269867,0.1666666666666666,0.1666666666666666,What was the first reform concerning the calendar?
+389,"Calvin Veltman found high bilingualism rates and subsequent adoption of English as the preferred language of Hispanics, particularly by the young and native-born.","high bilingualism rates and subsequent adoption of English as the preferred language of Hispanics, particularly by the young and the native-born.",0.0006678104400634,1.2398929595947266,0.8246352672576904,0.9130434782608696,0.9130434782608696,What was Calvin Veltman' findings?
+390,I don't have the information to answer that question. The text provided is about the University of Kansas.,96.1,0.0007057189941406,0.9624948501586914,0.1344904005527496,0.0,0.0,"For every 100 females, how many males were there?"
+391,The School of the Arts and the School of Public Affairs & Administration.,the School of the Arts and the School of Public Affairs & Administration,0.0007119178771972,0.6891930103302002,0.978852152824402,1.0,1.0,What are two parts of the University of Kansas house in the College of Liberal Arts and Sciences?
+392,Dames.,"""dames""",0.0007193088531494,0.2603611946105957,0.8996120691299438,1.0,1.0,Oppidan residences were generally cared after by women known as what?
+393,"202 crimes per 1,000 people.",202,0.0006463527679443,0.5314946174621582,0.4418469369411468,0.2857142857142857,0.2857142857142857,"How many crimes overall are reported for each 1,000 people in Southampton?"
+394,East.,north-west,0.0005674362182617,0.220790147781372,0.7457579374313354,0.0,0.0,From what direction did Sanskrit travel to come to India?
+395,21 March.,325,0.0006890296936035,0.2985258102416992,0.1176413223147392,0.0,0.0,How many municipalities exist in Greece? 
+396,1873.,1873,0.0006270408630371,0.2983372211456299,0.9635894894599916,1.0,1.0,When were the first Mounties created?
+397,The 1940s.,1940s,0.0005860328674316,0.3762116432189941,0.9453063011169434,0.6666666666666666,0.6666666666666666,When was the slope-line approach system introduced?
+398,"Yes, Spanish is the most widely taught non-English language in American secondary schools and colleges.",More than 1.4 million university students were enrolled in language courses,0.0005538463592529,0.8845412731170654,0.4827312231063843,0.1428571428571428,0.0714285714285714,Are students taught Spanish in american schools?
+399,"No, English was not successful in Puerto Rico.","It was completely unsuccessful,",0.00054931640625,0.5340428352355957,0.2715267539024353,0.1666666666666666,0.1666666666666666,Was English in Puerto Rico successful?
+400,The Community Tool Box.,KUpedia,0.0006024837493896,0.2979025840759277,0.1406705230474472,0.0,0.0,What is the name of an online resource that was created into provide a resource about KU?
+401,The School of Engineering.,the School of Architecture and Urban Design,0.0005912780761718,0.3378350734710693,0.5329785943031311,0.5454545454545454,0.5454545454545454,What was the name of the school that served as the SADP's precursor?
+402,Verbal bullying.,verbal,0.0006389617919921,0.2988712787628174,0.549852728843689,0.6666666666666666,0.6666666666666666,"In addition to physical attacks, what other kind of assault do Southampton's students commit against staff more than anywhere else in the country?"
+403,"The Community Tool Box is a free, online resource.",online,0.0005815029144287,0.5323705673217773,0.2146551758050918,0.1999999999999999,0.1999999999999999,Where can the Community Tool Box be found?
+404,The Julian calendar had an error of 1 day in 128 years.,slightly too long,0.0005667209625244,0.7274599075317383,0.1560341715812683,0.0,0.0,What was wrong in the Julian calendar?
+405,60%,60,0.0007352828979492,0.2614519596099853,0.6715091466903687,1.0,1.0,Approximately how many extant bird species are flightless?
+406,21 March.,22 March,0.000737190246582,0.3006126880645752,0.9119174480438232,0.5,0.5,"In order to account for the full moon coming after the equinox, when was the equinox set?"
+407,Non-metropolitan district.,non-metropolitan district,0.0006439685821533,0.3786818981170654,0.9786039590835572,1.0,1.0,What designation was Southampton given in 1974?
+408,Southern Road.,Southern Road,0.0006630420684814,0.2609262466430664,0.9743040800094604,1.0,1.0,On what street in Southampton is the police headquarters for the city?
+409,The Breeze.,The Breeze,0.0007057189941406,0.299861192703247,0.9727791547775269,1.0,1.0,What's the new name of the station formerly known as The Saint?
+410,"George Lascelles, 7th Earl of Harewood.",George Lascelles,0.0005934238433837,0.6899735927581787,0.7380915880203247,0.5,0.5,Which 7th Earl of Harewood attended Eton?
+411,"At least 30,000 daily readers.","at least 30,000",0.0006101131439208,0.4950995445251465,0.5771352648735046,0.8,0.8,How big is the Daily Kansan's audience?
+412,Adolf Hitler.,Adolf Hitler,0.0006282329559326,0.2596380710601806,0.955690622329712,1.0,1.0,Who was the most notable Nationalist Demagogue the people turned to? 
+413,exceedingly clean.,clean,0.0006225109100341,0.2599904537200928,0.693160891532898,0.6666666666666666,0.6666666666666666,Choules complimented the streets of Southampton for being kept in what condition?
+414,Lunar cycle calculations for determining the date of Easter.,system of weeks,0.0005586147308349,0.532447099685669,0.2772043943405151,0.1666666666666666,0.1666666666666666,What other system of calculations are inherent in the Gregorian calendar?
+415,£200.,£200,0.0005989074707031,0.2618200778961181,0.9648289680480956,1.0,1.0,What was the annual fee paid by the burgesses of Southampton for the rights of custom and toll laid out in the charter of 1199?
+416,Approximately 100 million.,100 million,0.000619888305664,0.338482141494751,0.8313291668891907,0.8,0.8,At least how many tesserae are used in the the Monreale mosaics?
+417,No information is provided in the given context about what N.S. stands for.,New Style,0.000594139099121,0.7688906192779541,0.1169910430908203,0.0,0.0,What is N.S. stand for?
+418,Secretly recording a conversation with Prince Harry.,Forsyth's decision to record a conversation with Harry,0.0006546974182128,0.493865966796875,0.5719729661941528,0.6250000000000001,0.6250000000000001,What was potentially considered abuse of teacher-student confidentiality?
+419,There is no information about the 2016 ranking of the engineering school at KU.,90th,0.0007340908050537,0.8467087745666504,0.021036759018898,0.0,0.0,In what place did the engineering school at KU appear in 2016?
+420,Elegant.,elegant,0.0007014274597167,0.2211551666259765,0.8874685764312744,1.0,1.0,What adjective did Choules use to describe the shops of Southampton's High Street?
+421,"Amos Adams Lawrence donated $10,000, which was the majority of the money needed to secure the site.",Amos Adams Lawrence,0.0005831718444824,1.0424580574035645,0.5565155744552612,0.2857142857142857,0.2857142857142857,Who provided the majority of the money needed to secure the site of the University of Kansas?
+422,The Rose Bowl in West End.,the Rose Bowl,0.0006184577941894,0.4160017967224121,0.8815140724182129,0.6666666666666666,0.6666666666666666,At what venue does the Hampshire County Cricket Club play?
+423,"Overland Park, Kansas.",Overland Park,0.00063157081604,0.377474308013916,0.8808357119560242,0.8,0.8,In what city is the Edwards Campus located?
+424,"Yes, Venezuela has immigrants from Europe.","Between the 18th and early 19th centuries, there were many European immigrants who went to Venezuela",0.0006022453308105,0.4538056850433349,0.6756717562675476,0.1818181818181818,0.0909090909090909,Does Venezuela have immigrates from other countries?
+425,Julian calendar.,Julian calendar,0.0005609989166259,0.2596404552459717,0.9421199560165404,1.0,1.0,What was the first reform concerning the calendar?
+426,Three years out of four.,three,0.0006029605865478,0.3759224414825439,0.4832170605659485,0.3333333333333333,0.3333333333333333,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+427,RMS Queen Elizabeth 2.,RMS Queen Elizabeth 2,0.0005717277526855,0.377742052078247,0.9727027416229248,1.0,1.0,"What was the name of the liner that left Southampton on its final journey on November 11, 2008?"
+428,1290.,1290,0.0005514621734619,0.2983157634735107,0.949512243270874,1.0,1.0,What year were the expulsions from England?
+429,Between 12 and 16.5 million.,"12 and 16,5 million ethnic Germans and German citizens",0.0005710124969482,0.5339312553405762,0.413449227809906,0.625,0.625,Approximately how many Germans were expelled from their home after world war II?
+430,1648.,1648,0.0005881786346435,0.2990269660949707,0.9706646203994752,1.0,1.0,In what year was the Academie royale de peinture et de sculpture founded?
+431,The WestQuay shopping centre.,Southampton District Energy Scheme,0.0006723403930664,0.4163687229156494,0.2996901869773865,0.0,0.0,Which section of the city receives hot water from geothermal power through the West Quay plant?
+432,The Crusades.,Crusades,0.0005888938903808,0.2993690967559814,0.9514925479888916,0.6666666666666666,0.6666666666666666,What cause the tolerance and mixing  into German Society to end for the Jews?
+433,1 day in 128 years.,1 day in 128 years,0.0005526542663574,0.4541723728179931,0.9802092909812928,1.0,1.0,What was the error rate in the Julian calendar?
+434,"The Mayflower Theatre, with a capacity of 2,300.",Mayflower Theatre,0.0005879402160644,0.6878294944763184,0.8040758371353149,0.3636363636363636,0.3636363636363636,What's the biggest theatre in Southampton?
+435,59%,59,0.0006134510040283,0.258941650390625,0.6618633270263672,1.0,1.0,According to the National Register of Historic Places how many historical sites are there in New Haven? 
+436,1996.,1996,0.0006213188171386,0.2991101741790771,0.9552468657493592,1.0,1.0,When did New York State ban unmarked cars for traffic cops?
+437,Evie Hone.,Evie Hone,0.0005621910095214,0.3392384052276611,0.9772741794586182,1.0,1.0,Who was hired to replace windows in the Chapel from 1949-1952?
+438,Yearly since 1951.,yearly,0.000608205795288,0.4172279834747314,0.781539261341095,0.5,0.5,How often is the Berlin International Film Festival held?
+439,The Napoleonic Wars.,Napoleonic Wars,0.0006182193756103,0.3774425983428955,0.9524319171905518,0.8,0.8,After which war did Britain establish its West Africa Squadron?
+440,"Yes, English is the de facto official language, but not de jure.",", the continual influx of Spanish-speaking immigrants increased the import of Spanish in Texas.",0.0005903244018554,0.766059160232544,0.1763031482696533,0.0769230769230769,0.0769230769230769,Are there exceptions to Texas official language?
+441,2010.,2010,0.0005774497985839,0.2986350059509277,0.9565384387969972,1.0,1.0,When was Liberia was granted observer status with the world trade organization>
+442,Members of the teaching staff.,Members of the teaching staff,0.0005028247833251,0.3749873638153076,0.9882384538650512,1.0,1.0,What are Beaks?
+443,1976.,1976,0.0005552768707275,0.2983179092407226,0.9464104771614076,1.0,1.0,"When was the suffix ""in St. Louis"" added to Washington University?"
+444,Calvin Veltman's study is about English language adoption by Hispanophone immigrants.,the most complete study of English language adoption by Hispanophone immigrants,0.0005183219909667,0.7307751178741455,0.7094472646713257,0.6086956521739131,0.6086956521739131,What is Calvin Veltman' study about?
+445,"""The Bill""","the ""Bill""",0.0006155967712402,0.3005571365356445,0.9599206447601318,1.0,1.0,"When a boy is summoned to the Head Master, what is the experience called?"
+446,Hampshire County Council.,Hampshire County Council,0.0007271766662597,0.2981691360473633,0.9761727452278136,1.0,1.0,What organization announced plans for rail expansion in Southampton in July of 2009?
+447,"£22,267.","£22,267",0.0005810260772705,0.3395514488220215,0.9782264232635498,1.0,1.0,What was Southampton's average annual salary in January of 2007?
+448,Before 15 October 1582.,prior to 15 October 1582,0.0006258487701416,0.4562907218933105,0.9466408491134644,0.6666666666666665,0.6666666666666665,When are events usually shown as they appeared on the Julian calendar?
+449,The Julian calendar.,Julian,0.0006072521209716,0.2980794906616211,0.5512369275093079,0.5,0.5,Who rejected the Christian religion?
+450,Every 400 years.,every 400 years,0.0006020069122314,0.3380072116851806,0.9837743639945984,1.0,1.0,When does the Gregorian calendar omit 3 leap days?
+451,Restdeutsche.,Restdeutsche,0.0006017684936523,0.3008062839508056,0.9716256856918336,1.0,1.0,"What are people who have ancestral roots in Germany, but now live outside of Germany called?"
+452,Electrical engineering.,electrical,0.0005877017974853,0.2606875896453857,0.7357303500175476,0.6666666666666666,0.6666666666666666,What sort of changes in material would a current reflect?
+453,Classical Greek.,Classical Greek,0.0005741119384765,0.2576222419738769,0.9724469184875488,1.0,1.0,Which subject was only studied by boys with sufficient ability?
+454,I don't have the information to answer that question.,354,0.0005357265472412,0.5717482566833496,0.1755017787218094,0.0,0.0,How many Local Authorities are there in England?
+455,There is no information in the text that a KU department was rated second in its field.,special education,0.0006077289581298,0.8867967128753662,0.0668889433145523,0.0,0.0,What KU department was rated second in its field?
+456,"Godolphin House and Jourdelay's, both built around 1720.","Godolphin House, Jourdelay's",0.0006265640258789,0.8082947731018066,0.7576503157615662,0.6153846153846153,0.6153846153846153,Which two Oppidan Houses are the oldest?
+457,They noticed discrepancies in the time of the vernal equinox and the length of the mean tropical year.,discrepancies,0.0006327629089355,0.9630372524261476,0.4182828366756439,0.1052631578947368,0.1052631578947368,Are males and females expected to express their sexuality in the same ways or are there discrepancies between genders and cultures?
+458,King John.,King John,0.0006206035614013,0.2609601020812988,0.9794596433639526,1.0,1.0,Southampton's history of administrative independence dates back to the reign of which king?
+459,1066.,1066,0.0006170272827148,0.300361156463623,0.9771789312362672,1.0,1.0,After what time did the Abbot of Monte Cassino send for Byzantine mosaicists?
+460,0.002%,0.002%,0.0006875991821289,0.338618516921997,1.0,1.0,1.0,What was the percentsge of correction from the Julian calendar to the new Gregorian calendar?
+461,Augustus.,Augustus,0.0006217956542968,0.2596962451934814,0.9775546193122864,1.0,1.0,To what ruler did foreign allies offer a divine cult? 
+462,World War II.,World War II,0.0005521774291992,0.2991406917572021,0.9605373740196228,1.0,1.0,The dead of what war were the first to be commemorated by the Virginia War Memorial?
+463,Ethnic Germans.,ethnic Germans,0.0005943775177001,0.2608251571655273,0.9675776958465576,1.0,1.0,Who welcomed the idea in area such as Sudetenland and Poland?
+464,KUJH-LP.,KUJH-LP,0.0005724430084228,0.4172620773315429,0.9811659455299376,1.0,1.0,What is the name of an independent radio broadcast run out of KU?
+465,"""Crimson and the Blue"" and ""Red and Blue""","""Crimson and the Blue"", ""Red and Blue""",0.0005598068237304,0.6911110877990723,0.9878054857254028,0.9333333333333332,0.9333333333333332,What are two songs that reference the school's team colors in their titles?
+466,Southampton Zoo.,Southampton Zoo,0.0006835460662841,0.2592775821685791,0.9654810428619384,1.0,1.0,What related attraction was at the same site before the Urban Wildlife Centre?
+467,The College Archives.,College Archives,0.0006165504455566,0.2983763217926025,0.9563797116279602,0.8,0.8,Where is work that has been Sent Up For Good stored?
+468,Wilhelm Conrad Röntgen.,Wilhelm Conrad Röntgen,0.0005431175231933,0.4166560173034668,0.9779690504074096,1.0,1.0,Who won the first Nobel Prize in Physics?
+469,1846.,"In 1846, the Republic dissolved when Texas entered the United States of America as a state.",0.0005378723144531,0.2969627380371094,0.4086721539497375,0.1176470588235294,0.1176470588235294,When did Texas become a state?
+470,Ventura.,Ventura,0.0005872249603271,0.2207448482513427,0.9718923568725586,1.0,1.0,"Which of the seven P&O cruise liners has a name that begins with ""V""?"
+471,Other colleges and universities nationally.,national universities,0.0006060600280761,0.3750796318054199,0.7170202732086182,0.5714285714285715,0.2857142857142857,Against what other kinds of institutions was KU's engineering school compared?
+472,There is no mention of the SADP in the given context.,2009,0.0005943775177001,0.6885867118835449,0.0486003160476684,0.0,0.0,In what year did Sharif become CM?
+473,Walter Taylor.,Walter Taylor,0.0005774497985839,0.2601356506347656,0.9766439199447632,1.0,1.0,What was the name of the man who overhauled block-making to mechanize the process?
+474,Southampton Hockey Club.,Southampton Hockey Club,0.0005793571472167,0.2982387542724609,0.9800198078155518,1.0,1.0,What's Southampton's hockey club named?
+475,The Art Vaults project.,Art Vaults,0.0005624294281005,0.335777997970581,0.9271302819252014,0.6666666666666666,0.6666666666666666,"What project, also run by a space, showcases art in Southampton's medieval buildings?"
+476,Eduard Lasker was a Jewish German nationalist figure who promoted German unification in the mid-19th century.,a prominent German nationalist figure who promoted the unification of Germany in the mid-19th century,0.000528335571289,1.080371618270874,0.7613116502761841,0.7272727272727272,0.7272727272727272,Who was Eduard Lasker?
+477,£30 million.,£30 million,0.0007216930389404,0.3002524375915527,0.969928503036499,1.0,1.0,How much money did Everton FC borrow from Bear Stearns and Prudential in 2002?
+478,2014.,2014,0.0006086826324462,0.3003723621368408,0.9431241750717164,1.0,1.0,When did the number of boarding bridges at Brasilia's airport nearly double?
+479,About 50 boys.,fifty,0.0006041526794433,0.3385052680969238,0.4611245393753052,0.0,0.0,Approximately how many monasteries in the Kathmandu area are run by Tibetan Buddhists?
+480,The text does not provide a specific number of students attending the business school at KU.,1500,0.0005650520324707,0.847236156463623,0.1757220327854156,0.0,0.0,How many hours of television does the average teenager watch per year?
+481,"None, according to the text.",The State of the Union Addresses and other presidential speeches are translated to Spanish,0.0006017684936523,0.4164600372314453,0.2039356082677841,0.2105263157894736,0.1052631578947368,What political speaches are delivered in English and Spanish?
+482,The Southampton Plot.,Southampton Plot,0.000643253326416,0.299354076385498,0.9594049453735352,0.8,0.8,"What group did the men accused of high treason, including Henry Scrope and Sir Thomas Grey, lead?"
+483,1563.,1563,0.0005829334259033,0.2971432209014892,0.9740923643112184,1.0,1.0,When did John Calvin die?
+484,After Mexico's War of Independence from Spain in 1821.,After the Mexican War of Independence from Spain,0.0005464553833007,0.6485629081726074,0.9067844152450562,0.6666666666666665,0.6666666666666665,When did other states become part of Mexico?
+485,3.,three,0.0005936622619628,0.2571823596954345,0.8266891837120056,0.0,0.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+486,Mansbridge.,Mansbridge,0.0005457401275634,0.2601690292358398,0.9813340306282043,1.0,1.0,Where was the first bridge built across the River Itchen?
+487,The Eastern Docks.,Eastern Docks,0.000711441040039,0.3382496833801269,0.9430781006813048,0.8,0.8,"What location that was once filled with passengers, dry docks, and trains is now a holding area for new cars?"
+488,They were expelled to allied-occupied Germany.,allied-occupied Germany,0.0006759166717529,0.4963982105255127,0.7057735323905945,0.6,0.6,Where were Germans that were inhabiting other lands expelled to?
+489,"German is related to English and Dutch, and shares similarities with North Germanic and Scandinavian languages.",English and Dutch,0.0006923675537109,0.8866856098175049,0.539167046546936,0.3157894736842105,0.3157894736842105,What languages is German related to?
+490,The west of the city.,west,0.0006380081176757,0.3779933452606201,0.7537055611610413,0.3333333333333333,0.3333333333333333,In what direction out of Kathmandu does the Prithvi Highway travel?
+491,1 March 1917.,1 March 1917,0.0005924701690673,0.4152674674987793,0.978546142578125,1.0,1.0,When did Turkey begin to use the Gregorian calendar for fiscal means?
+492,DesignIntelligence,Jayplay magazine,0.0005252361297607,0.2592461109161377,0.0422429591417312,0.0,0.0,What is the name of a magazine published at KU?
+493,The Julian calendar and the Gregorian calendar.,two consecutive years,0.0005803108215332,0.4950628280639648,0.2616540789604187,0.0,0.0,What does duel dating use to show the date?
+494,Carnival Corporation & plc.,Carnival Corporation & plc,0.0005860328674316,0.3374574184417724,0.9807901382446288,1.0,1.0,What cruise line has its headquarters in Southampton?
+495,"St. Augustine, Florida was founded by the Spaniards in 1565 through Juan Ponce de León.","the Spaniards, by way of Juan Ponce de León, founded St. Augustine, Florida",0.0005228519439697,1.0397768020629885,0.9311038255691528,0.7999999999999999,0.4666666666666667,How was St. Augustine founded?
+496,2007.,2007,0.0006155967712402,0.2999956607818603,0.9553945660591124,1.0,1.0,When was 'The Grand Concourse' published?
+497,"120,305.","120,305",0.0005557537078857,0.3389303684234619,0.9824740290641784,1.0,1.0,How many jobs were there in Southampton in March of 2007?
+498,Trojans RFC.,Trojans RFC,0.0005340576171875,0.3375356197357178,0.9719470739364624,1.0,1.0,What's the oldest rugby team in Southampton?
+499,"When the damage to the heart limits the output of the left ventricle, causing left ventricular failure and pulmonary edema.",heart limits the output of the left ventricle,0.0005519390106201,1.1587820053100586,0.7203131914138794,0.5714285714285715,0.5714285714285715,When might an individual experience shortness of breath?

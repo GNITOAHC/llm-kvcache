@@ -1,0 +1,81 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,Cannes Film Festival.,Cannes Film Festival,0.0010254383087158,2.1548116207122803,0.9758018851280212,1.0,1.0,Which 2005 film festival screened out of competition the film that depicted the unofficial ceasefires along the Western Front of World War I around Christmas 1914?,1
+1,There is no information about a neighboring location near CityCentre being constructed in the early 1960s.,Memorial City Mall,0.0008742809295654,0.9690253734588624,0.2379602640867233,0.0,0.0,What is one of Houston's most popular malls and was to be superseded by Town & Country Mall?,0
+2,Szombathelyi Haladás,Szombathelyi Haladás,0.0007519721984863,0.4525725841522217,1.0,1.0,1.0,"Ahmad Khormali, who plays goalkeeper, wears pyjama-like tracksuit bottoms to honor another goalkeeper who plays for what team?",1
+3,Cole Aldrich.,Jamal Crawford,0.0007462501525878,0.2971029281616211,0.4582457244396209,0.0,0.0,"Who is the American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA), that previously was traded by the Chicago Bulls to the New York Knicks?",0
+4,Yes.,yes,0.0006263256072998,0.2181594371795654,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+5,There is no information about Jaroslav Seifert's place of origin.,Timothy Francis Leary,0.0006663799285888,0.7318382263183594,0.0489607229828834,0.0,0.0,"Who has more scope of profession,  Arnold Bennett or Timothy Leary?",0
+6,Dan Bilzerian.,Brandon,0.0006728172302246,0.3373060226440429,0.3887110352516174,0.0,0.0,Extraction is a 2015 American action-thriller film starring an american professional poker player whose middle name is what?,0
+7,Steve Anderson.,Walt Disney,0.0007779598236083,0.2577464580535888,0.2571249008178711,0.0,0.0,Who produced The Shaggy D.A. and Tarzan?,0
+8,"The CBS drama ""Wisdom of the Crowd"" in which Blake Lee plays Josh Novak premiered in 2017.","October 1, 2017",0.0006313323974609,1.0862879753112793,0.1546137183904647,0.1,0.1,When did the series premier in which Blake Lee plays Josh Novak?,0
+9,The Bling Ring.,The Bling Ring,0.000626802444458,0.3383791446685791,0.9865915775299072,1.0,1.0,Claire Julien had a leading role in which 2013 satirical crime film?,1
+10,Sympathy for Mr. Vengeance.,Sympathy for Mr. Vengeance,0.0006186962127685,0.4931278228759765,0.9880066514015198,1.0,1.0,Master of Study starred the actress who had a role as a political activist in what 2002 film?,1
+11,Macbeth.,"""Macbeth""",0.0006525516510009,0.2591645717620849,0.9154202938079834,1.0,1.0,"What Shakespearean play has a pair of brothers where one inherits the throne, and the other flees to Ireland after their father's murder?",1
+12,World War I.,World War II,0.0006566047668457,0.300412654876709,0.7649798393249512,0.6666666666666666,0.6666666666666666,"Battle of Tarawa and Operation Overlord, occurred during which event?",0
+13,Vijay Iyer.,Vijay Iyer,0.0006074905395507,0.3170788288116455,0.984186053276062,1.0,1.0,Which MacArthur Fellow released an album on the Red Giant record label?,1
+14,Jeff Wincott is older.,Jeffrey Wincott,0.0005865097045898,0.4159629344940185,0.6995419263839722,0.3333333333333333,0.3333333333333333,"Which brother is older, Jeff Wincott or Michael Wincott?",1
+15,I couldn't find any information about an Albanian citizen who sings in both Italian and Spanish.,Albano Carrisi,0.0006051063537597,0.8886463642120361,0.2658963799476623,0.0,0.0,What Albanian citizen sings in both Italian and Spanish?,0
+16,SpongeBob SquarePants.,Stephen Hillenburg,0.0007159709930419,0.3765571117401123,0.170234739780426,0.0,0.0,"This CarniK Con meme development, involving duct tape, was based on an animated Nickelodeon series created by what marine biologist?",0
+17,British (Howard Skempton),English,0.0006110668182373,0.3961331844329834,0.3371309638023376,0.0,0.0,What language is spoken at both Lipscomb University and University of Debrecen?,0
+18,Fox Sports 1.,Fox Sports 1,0.0006396770477294,0.3386638164520263,0.9868631958961488,1.0,1.0,"MLB Whiparound with Kenneth H. ""Ken"" Rosenthal airs on what network?",1
+19,Uhrichsville.,Uhrichsville,0.0006470680236816,0.299527645111084,0.9861499667167664,1.0,1.0,U.S. Route 136 in Nebraska is a spur route of the US Route that has an eastern terminus in what Ohio city?,1
+20,Stansted Airport terminal building.,London Stansted Airport,0.0007011890411376,0.3782761096954345,0.819890558719635,0.5714285714285715,0.5714285714285715,"While the British structural engineer Jane Wernick worked with Arup, she was involved in this project that is located at Stansted Mountfitchet?",1
+21,"The Indian Tamil film ""Veettuku Veedu"" (1970) was released first.",South Korean comedy horror film.,0.0006353855133056,0.929091215133667,0.3411083817481994,0.1333333333333333,0.1333333333333333,"Which film was released first, the South Korean film or the Indian Tamil film?",0
+22,Tennis.,tennis,0.0006675720214843,0.19645357131958,0.9499958753585817,1.0,1.0,Which sport do both John Austin and Todd Woodbridge play?,1
+23,Cantinflas and David Niven.,Cantinflas and David Niven,0.0006000995635986,0.4948937892913818,0.9820008277893066,1.0,1.0,James Poe worked on the 1956 movie that starred which actors?,1
+24,"West Chester, Pennsylvania.","18,461",0.0006794929504394,0.3368256092071533,0.0730280876159668,0.0,0.0,What is the population of the city that WC East is located in?,0
+25,Michael Keaton.,Andy García,0.0006628036499023,0.2994248867034912,0.2995768189430237,0.0,0.0,Joseph Michael Cross starred in an American action thriller film which earned who an ALMA Award?,0
+26,"The film is ""Sleepy Hollow"".",Tim Burton,0.0006303787231445,0.4576230049133301,0.2791803181171417,0.0,0.0,"Who directed the 1989 film on which ""Batman: The Ride"" is thematically based?",0
+27,Yes.,yes,0.0007307529449462,0.2195119857788086,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+28,The Life of Birds (1998) was released before Genghis Blues (1999).,The Life of Birds,0.0006411075592041,0.8891100883483887,0.5542637705802917,0.5333333333333333,0.5333333333333333,"Which documentary was released first, The Life of Birds or Genghis Blues?",1
+29,I don't have information about the birth year of the coach of the 2007-08 Feyenoord season.,1952,0.0007300376892089,1.0866241455078125,0.259007453918457,0.0,0.0,Andrew Brackman is represented by a sports agent born in which year ?,0
+30,"in 1981, Garrin eventually emerged as one of the important collaborators of video art superstar Nam June Paik, working closely from 1982 to 1996.
+
+John Merrick (insurance): 
+John Merrick (1859–1919) was an African-American entrepreneur whose life represents a rags-to-riches story. Born into slavery in Clinton, North Carolina, Merrick relied on his social savvy, entrepreneurial spirit, and inner drive to achieve great personal wealth by founding various companies in the Raleigh, North Carolina and Durham, North Carolina areas, most notably the North Carolina Mutual Life Insurance Company. Portions of his wealth were channeled back into the black community through philanthropy. John Merrick was a great man- his business acumen and social consciousness made him one of the most influential members of the African-American community in his lifetime.
+
+Padman: 
+Padman is an upcoming 2018 Indian Hindi comedy-drama film featuring Akshay Kumar, Sonam Kapoor and Radhika Apte in lead roles. Amitabh Bachchan will appear in a special role. The film is inspired from the life of Arunachalam Muruganantham.
+
+Gold (2018 film): 
+Gold is an upcoming 2018 Indian sports film, directed by Reema Kagti and produced by Ritesh Sidhwani and Farhan Akhtar under the banner Excel Entertainment. It is a biopic based on the life of hockey player Balbir Singh, who was on the team that won the first Olympic medal for India as a free nation in 1948.
+        ------------------------------------------------
+        Answer the question with a super short answer.
+        Question:
+        What is the invention of the social entrepreneur whose life is the subject of an upcoming 2018 Indian film called 'Padman'?
+        
+        assistant
+         Sanitary napkin.",low-cost sanitary pad making machine,0.0007402896881103,0.3351552486419678,0.0097763463854789,0.0074074074074074,0.0074074074074074,What is the invention of the social entrepreneur whose life is the subject of an upcoming 2018 Indian film called 'Padman' ?,1
+31,American Pimp (1999) was created before Where Have All the Flowers Gone? (2008).,American Pimp,0.0006906986236572,0.933783769607544,0.6410660743713379,0.2666666666666667,0.2666666666666667,"Which documentary came out first, American Pimp or Go Further?",0
+32,Flight of the Navigator.,Flight of the Navigator,0.0006635189056396,0.3413748741149902,0.9781550765037536,1.0,1.0,Joey Cramer is a former Canadian child actor who is known for his role in what 1986 American science fiction film that was directed by Randal Kleiser?,1
+33,"""Nocturnal Animals""",Tony and Susan,0.0006840229034423,0.3777699470520019,0.0454827845096588,0.0,0.0,having previously served as the creative director at Gucci and Yves Saint Laurent this American fashion designer directed a film based on what novel?,0
+34,John Toland.,John Willard Toland,0.000730276107788,0.2789340019226074,0.7817814946174622,0.8,0.8,Which of the following writers is best known for his biography of Adolf Hitler: John Toland or David James Duncan? ,1
+35,I don't have information about an actress named Ambili in the film Yamanam.,Archana,0.0007190704345703,0.85317063331604,0.1208012253046035,0.0,0.0,Who is an Indian film actress that starred in Parattai Engira Azhagu Sundaram?,0
+36,Cliffhanger.,Renny Harlin,0.0007405281066894,0.2988452911376953,0.108825959265232,0.0,0.0,Who directed the 2006 film featuring visual effects from Giantsteps?,0
+37,"Pema Lhaki, a Tibetan tailor and wife of Peter Aufschnaiter.",Pema Lhaki,0.0007069110870361,0.8880071640014648,0.6982614994049072,0.3333333333333333,0.3333333333333333,What role did Lhakpa Tsamchoe play in the 1997 American biographical war drama film based on a 1952 book written by Heinrich Harrer?,1
+38,Tuller School.,Tuller School,0.0006120204925537,0.3388316631317138,0.9858537912368774,1.0,1.0,What was the name of the school run by the Teachers of the Children of God order in Southhampton?,1
+39,University of Hawaii.,Western Association of Schools and Colleges,0.0006141662597656,0.3004751205444336,0.4537854790687561,0.2222222222222222,0.2222222222222222,Carpo was discovered by a team of astronomers at the school accredited by which body?,0
+40,The Go-Betweens had more bandmates.,The Go-Betweens,0.0005891323089599,0.5746557712554932,0.7188461422920227,0.6666666666666666,0.6666666666666666,"Who has had more bandmates, Jersey Budd or The Go-Betweens?",1
+41,Jim Carrey.,Jim Carrey,0.0006182193756103,0.2998991012573242,0.9696862101554872,1.0,1.0,"I Love You Phillip Morris is a 2009 black comedy drama film based on the 1980s and '90s real-life story of con artist, impostor, and multiple prison escapee Steven Jay Russell, an American con artist known for escaping from prison multiple times, as played by which actr?",1
+42,Quentin Elias has had a solo singing career.,Toshimitsu Deyama,0.0006320476531982,0.4961214065551758,0.0303785465657711,0.0,0.0,Was Seo Min-woo or Toshi born first?,0
+43,The School Boys.,The School Boys,0.0006840229034423,0.2995386123657226,0.9777308702468872,1.0,1.0,Funmi Falana is the mother of the rapper and stage actor who began his career with what group?,1
+44,Saraghrar.,Saraghrar,0.0006155967712402,0.3389573097229004,0.9763875007629396,1.0,1.0,"What is the fourth highest independent peak in the Hindu Kush, Saraghrar or Chomo Lonzo?",1
+45,Jena Malone.,Jena Malone,0.0005898475646972,0.3000741004943847,0.9770190119743348,1.0,1.0,The film Cold Mountain stars what actress who was born in 1984?,1
+46,Mark Burnett.,Charlie Parsons,0.000669240951538,0.2616450786590576,0.5085614919662476,0.0,0.0," Robert ""Bob"" Crowley is a former teacher and reality TV personality, known for winning the seventeenth season of the American TV series ""Survivor”, the American version of the international ""Survivor"" reality competition television franchise created by who?",0
+47,The Residences Providence is taller.,Marine Midland Building,0.0006113052368164,0.3955321311950683,0.2698289453983307,0.0,0.0,"Which building is taller, Marine Midland Building or W New York Downtown Hotel and Residences?",0
+48,Ruth Plumly Thompson.,John R. Neill,0.0005781650543212,0.3169605731964111,0.2068236768245697,0.0,0.0,A Wish Way is a device that appears in a book illustrated by who?,0
+49,Los Angeles.,Los Angeles,0.0005915164947509,0.2614698410034179,0.9625944495201112,1.0,1.0, The 12th Annual Honda Civic Tour was a concert tour headlined by an American pop rock band that originated in what city?,1
+50,The New Kingdom.,New Kingdom of Egypt,0.0006983280181884,0.302497386932373,0.709037721157074,0.5714285714285715,0.5714285714285715,"The Second Intermediate Period marks a period when Ancient Egypt fell into disarray for a second time, between the end of the Middle Kingdom and the start of which period in ancient Egyptian history between the 16th century BC and the 11th century BC, covering the Eighteenth, Nineteenth, and Twentieth Dynasties of Egypt?",1
+51,2016.,2016,0.0005550384521484,0.2994337081909179,0.9577949643135072,1.0,1.0,In what year was the choreographer with whom Laz Brotherston has collaborated knighted?,1
+52,They are both albums by G-Eazy.,rapper,0.000572919845581,0.4969749450683594,0.3804821074008941,0.0,0.0,What kind of artist does 911 / Mr. Lonely and Flower Boy have in common?,0
+53,"December 2, 1409.","December 2, 1409",0.0005793571472167,0.440833568572998,0.9870858788490297,1.0,1.0,"When was the university, for which Friedrich Leibniz was registrar and professor of moral philosophy, founded?",1
+54,29.5 miles.,29.5 mi south,0.0006728172302246,0.3788862228393554,0.6571487784385681,0.5714285714285715,0.5714285714285715,The airport adjacent to the Cedars immigration detention facility is located how far away from Central London?,0
+55,Satchel Paige.,Satchel Paige,0.0006482601165771,0.3392176628112793,0.9862974882125854,1.0,1.0,Which American Negro league baseball player called Chino Smith one of the two most dangerous hitters in Negro league history?,1
+56,Cape Elizabeth.,Cumberland,0.0005712509155273,0.2591109275817871,0.3508929014205932,0.0,0.0,Richard Hewes was a politician from a town in what Maine county?,0
+57,1974,1888,0.0006935596466064,0.2591195106506347,0.3988386690616607,0.0,0.0,William Greenleaf Eliot is the grandfather of an essayist who was born in which year ?,0
+58,Amarillo.,"199,582",0.0006275177001953,0.2614376544952392,0.0511199682950973,0.0,0.0,What was the population in 2016 of the city where Quentin Wilson resides?,0
+59,The Fascist Order of the Roman Eagle.,The National Fascist Party,0.0006072521209716,0.4936914443969726,0.5539705157279968,0.3636363636363636,0.3636363636363636,"Which organisation, founded by Benito Mussolini, influenced the later creation of the Yugoslav Radical Union?",0
+60,268.,268,0.0006124973297119,0.2618210315704345,0.952703297138214,1.0,1.0,The Cactus Range is a small mountain range 23 miles east of an unincorporated community with a population of what at the 2010 census?,1
+61,Armenian.,Armenian,0.0006046295166015,0.2221608161926269,0.9639847278594972,1.0,1.0,Both Arthur T. Gregorian and Robert Nalbandyan belongs to which national?,1
+62,October 2011.,In November 2011,0.0005638599395751,0.3386828899383545,0.8556987047195435,0.4,0.4,When did the host of the Krypton Factor move back to Belfast?,0
+63,The fourth.,fourth,0.0008141994476318,0.2637641429901123,0.814795970916748,0.6666666666666666,0.6666666666666666,"Kim Ok-bin (born December 29, 1986) is a South Korean actress, Kim made her debut in an online beauty contest in 2004, and began her acting career with a role in 2005 film ""Voice"", Voice is a 2005 South Korean horror film, and which number installment of the ""Whispering Corridors"" film series?",1

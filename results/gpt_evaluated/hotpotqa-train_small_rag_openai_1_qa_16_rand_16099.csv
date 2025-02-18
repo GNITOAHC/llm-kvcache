@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0,"San Diego State University was founded in 1897, while The Northcap University was founded in 1996.",San Diego State University,0.2922391891479492,2.315816879272461,0.6382696628570557,0.4,0.4,The 2014 NBA Playoffs MVP attended what college? ,0
+1,Shirley Jones.,Shirley Jones,0.4078586101531982,0.3494632244110107,0.9786975383758544,1.0,1.0,Who played the mother in the 1970ies American musical sitcom that also starred child actress Suzanne Crough?,1
+2,"Brunswick, Victoria.","Brunswick, Victoria",0.3209671974182129,0.3167030811309814,0.988922953605652,1.0,1.0,Which inner-city suburb is the birthplace of an alleged Australian contract killer missing since May 1985?,1
+3,The Cincinnati Reds.,Cincinnati Reds,0.4094767570495605,0.3824121952056885,0.9417012929916382,0.8,0.8,Ted Simmons was often overshadowed by the Hall of Fame catcher who played for what team?,1
+4,1934,1945,0.3734955787658691,0.2948446273803711,0.5712589025497437,0.0,0.0,"What year was the singer of ""wavelength"" born ?",0
+5,"September 27, 2017.","September 13, 2017",0.3309543132781982,0.5314459800720215,0.9511610865592957,0.6666666666666666,0.6666666666666666,"""Holiday Special"" is the third episode in the twenty-first season of the American animated television series ""South Park"", the twenty-first season of the American animated sitcom, premiered on Comedy Central on which date?",0
+6,Kenneth J. Alford.,Kenneth J. Alford,0.262073278427124,0.4516868591308594,0.98431795835495,1.0,1.0,"The composer of the operetta ""Chris and the Wonderful Lamp"" shares a nickname with what other composer?",0
+7,"No, Charles Nordhoff was born in England, but Erich Fromm was born in Germany.",no,0.3544223308563232,0.9503622055053712,0.1383596956729889,0.1333333333333333,0.1333333333333333,Are Chris Marker and Yvonne Rainer American?,0
+8,Le Château de la Belle au Bois Dormant.,Sleeping Beauty Castle,0.3868639469146728,0.7014608383178711,0.3212312161922455,0.0,0.0,What castle is based on the late-19th century Neuschwanstein Castle in Germany and is at the center of Disneyland Paris?,1
+9,Montagu House at 22 Portman Square.,Montagu House,0.3488848209381103,0.53983473777771,0.7632346153259277,0.5,0.5,Which house in London was destroyed by the Luftwaffe in 1940?,1
+10,Cachar district.,Cachar,0.3350765705108642,0.4169638156890869,0.7359815835952759,0.6666666666666666,0.6666666666666666,The city where Shahid Sachindra Paul Road is in is the headquarters of what district?,1
+11,Kiranjit Ahluwalia,Kiranjit Ahluwalia,0.3154706954956054,0.4909255504608154,1.0,1.0,1.0,Which Indian woman is Provoked  story based on,1
+12,Yes.,no,0.4013946056365967,0.3121025562286377,0.5598188042640686,0.0,0.0,Are Chris Marker and Yvonne Rainer American?,0
+13,Silesia.,"40,000 km2",0.4219827651977539,0.3860256671905517,0.2262217104434967,0.0,0.0,"What is the area of this region of Central Europe located mostly in Poland, in which Złotniki Lubańskie was formerly part of the historic Upper Lusatia region at its border?",0
+14,"No, they have not performed in the same year.",no,0.246978759765625,0.5632710456848145,0.2321896851062774,0.1999999999999999,0.1999999999999999,Are Chris Marker and Yvonne Rainer American?,0
+15,United States.,American,0.2358214855194091,0.2944684028625488,0.5898011326789856,0.0,0.0,Kerry Remsen is the daughter of an actor with what ethnicity?,1

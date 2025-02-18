@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0, 1880,"April 22, 1904",0.0500998497009277,7.840927124023437,0.5521467924118042,0.0,0.0,"When was the American theoretical physicist and professor of physics at the University of California, Berkeley born who encounters with Einstein Wrote Back?"
+1, Yes.,yes,0.0480191707611084,7.712228775024414,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?
+2, Luzhou,Luzhou,0.0505685806274414,7.714684247970581,1.0,1.0,1.0,Which of the following cities is situated at the confluence of the Tuo River and the Yangtze River: Luzhou or Xianning?
+3, The CrossCabriolet.,CrossCabriolet,0.0493760108947753,8.202738761901855,0.9130671620368958,0.6666666666666666,0.6666666666666666,Which convertible variant from 2011-2014 was after by the 2002-2003 crossover style vaguely similar the Nissan Actic?
+4, Film industry.,filmmaker,0.0573008060455322,7.832279443740845,0.6184248924255371,0.0,0.0,"Michelangelo Antonioni and Tinto Brass, are Italian of which occupation?"
+5," Tuftonboro, New Hampshire.","2,387",0.0520150661468505,8.44309401512146,0.00566316395998,0.0,0.0,YMCA Camp Belknap is an all-boys summer resident camp in a town with a population of what at the 2010 census?
+6," Houston, Texas.","Houston, Texas",0.0712428092956543,7.941654920578003,0.9787132740020752,1.0,1.0,what city and state are both Lakewood church and Joel Osteen located in?
+7, Buenos Aires.,Buenos Aires,0.0958542823791503,7.838841915130615,0.9760341048240662,1.0,1.0,"The AMIA bombing was an attack on the Asociación Mutual Israelita Argentina, a Jewish Community Center located in what city?"
+8, Bletilla has more species.,Bletilla,0.0612225532531738,8.297646284103394,0.7279349565505981,0.4,0.4,Does Fitzroya or Bletilla have more species?
+9, Film director.,film director,0.0514578819274902,7.807538986206055,0.9636179208755492,1.0,1.0,What is the occupation of Wang Quan'an and Donald Sawyer?
+10, Statehood.,Statehood,0.0491163730621337,7.831267595291138,0.948588728904724,1.0,1.0,"What was rushed, for the state that Pat McCarran was from, in order to ensure three electoral votes for Abraham Lincoln's reelection?"
+11, The Fifth Element,The Fifth Element,0.0515761375427246,7.821436882019043,1.0000001192092896,1.0,1.0,"What film, co-written by Luc Besson, was dubbed in Italian by Tonino Accolla?"
+12, Undertow.,Undertow,0.0487284660339355,7.827160835266113,0.9811328649520874,1.0,1.0,"The actor that won the BAFTA for Best Actor in a Leading Role for his performance in ""Billy Elliot"" also starred with Devon Alan and Dermot Mulroney in what 2004 film? "
+13," Shane Meadows directed the 2006 film ""This Is England"" in which Rosamund Hanson played the role of Michelle.",Shane Meadows,0.0524070262908935,10.489579200744627,0.4716608822345733,0.1999999999999999,0.1999999999999999,"Who is best known for cult films, Aleksandr Ivanovsky or Shane Meadows?"
+14, 1992,1992,0.05007004737854,7.8186116218566895,1.0,1.0,1.0,The most recent person to win the Crystal Palace F.C. Player of the Year for the second time is a footballer who was born in what year?
+15, 1897-1963,1897 until 1963,0.048264741897583,8.198347568511963,0.92132830619812,0.8,0.8,Saying Grace by Normal Rockwell was painted for the cover of a magainze that was published weekly during what time period?

@@ -1,0 +1,33 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0, Spam,Hormel Foods Corporation,0.3339660167694092,26.91115713119507,0.2058035135269165,0.0,0.0,Prem is similar to the luncheon loaf made by what company?
+1, Nick Drake,Tír na nÓg,0.3696925640106201,27.095417976379395,0.263375848531723,0.0,0.0,"What band recorded a cover song on their album Live at Sirius from the artist whose debut album was ""Five Leaves Left""? "
+2, Sarah MacLean,Sarah MacLean,0.3478395938873291,27.333041429519653,0.9999999403953552,1.0,1.0,Who wrote the 2014 RITA Award winning novel No Good Duke Goes Unpunished?
+3, Ted Shackelford,"Theodore Tillman ""Ted"" Shackelford III",0.3729727268218994,27.566371202468872,0.7938234806060791,0.5714285714285715,0.5714285714285715,"What actor appeared in the CBS television series ""Knots Landing"" and the movie ""Sweet Revenge""?"
+4, Tenko,Son of the Pink Panther,0.3670186996459961,27.11913013458252,0.2163455486297607,0.0,0.0,What 1993 movie featured the actor of Imperial Japanese Army Major Yamauchi?
+5, Cleveland,Akron,0.3883488178253174,26.75794792175293,0.733784019947052,0.0,0.0,Which city in Ohio hosted the soccer competition for Gay Games 9?
+6, No.,no,0.3556094169616699,27.05993366241455,0.8128341436386108,1.0,1.0,Are Chris Marker and Yvonne Rainer American?
+7, No. Lorraine Hansberry was American and Tristan Tzara was Romanian and French.,no,0.3799142837524414,30.8561909198761,0.1446981132030487,0.1538461538461538,0.1538461538461538,Are Chris Marker and Yvonne Rainer American?
+8, Tim Murphy,Tim Murphy,0.3823285102844238,27.092183113098145,1.0000001192092896,1.0,1.0,"Who has represented the congressional district for Wilkins Township, Allegheny County, Pennsylvania since 2003"
+9, Melody Time (1948) is older than Old Yeller (1957).,Melody Time,0.3745002746582031,30.64435338973999,0.5789077877998352,0.3636363636363636,0.3636363636363636,"Which movie is older, Melody Time or Old Yeller?"
+10, 1953,1952,0.3576810359954834,27.320479154586792,0.7782381772994995,0.0,0.0,Andrew Brackman is represented by a sports agent born in which year ?
+11, Ashley Roberts,Ruthie Henshall,0.3918702602386474,27.114572048187256,0.4241477847099304,0.0,0.0,Who joined The Ice Panel and is an English actress?
+12, The UEFA Cup.,UEFA cup,0.3635470867156982,27.510668992996216,0.916165828704834,0.8,0.8,"Inter Milan, coached by legendary manager Giovanni Trappatoni, missed out on the scudetto title in 1991, but what trophy did they win?"
+13, The Cincinnati Bengals.,Cincinnati Bengals,0.3970949649810791,27.48885941505432,0.937159538269043,0.8,0.8,Team Pacman was a professional wrestling tag team that included a cornerback and return specialist for what team?
+14, 1963,1963,0.3831582069396972,27.214995622634888,1.0,1.0,1.0,Kenlake State Resort Park is part of a United States National Recreation Area that was designated a national recreation area by President John F. Kennedy in what year?
+15, Kelly Macdonald,Kelly Preston,0.3771562576293945,27.57036519050598,0.7343830466270447,0.5,0.5,Five Candles was used in a Michael Keaton film who stars who as the female lead ?
+16, James LaBrie,James LaBrie,0.3659718036651611,27.575737953186035,1.0,1.0,1.0,What is the name of Canadian vocalist and songwriter who is in both Explorers Club and Dream Theater?
+17, Anwar Sadat,Anwar Sadat,0.3687715530395508,27.572081565856934,1.0,1.0,1.0,"What is the name of this President of Egypt, who was assassinated and for who Tahseen Bashir served as a confident and spokesman?"
+18, Alastair Cook,Alastair Cook,0.3760931491851806,27.481581926345825,1.0,1.0,1.0,"Who led the England cricket team during the 2009-10 tour to Bangladesh, where regular England captain Andrew Strauss controversially missed the tour and Bangladesh was captained by the current Twenty20 International captain as of April 2017 who is well known for his aggressive batting, controlled bowling and athletic fielding?"
+19, Truman Capote,Truman Capote,0.381990909576416,27.34729790687561,1.0,1.0,1.0,Fever Pitch was the final film for the director who shot the film based on the non-fiction novel by whom?
+20, 1923,1931,0.3695509433746338,27.38392853736877,0.7477218508720398,0.0,0.0,"Sanghamitra Bandyopadhyay a professor at theIndian Statistical Institute, a public university established in what year?"
+21, Grace Moore,Grace Moore,0.3872799873352051,27.104132652282715,1.0000001192092896,1.0,1.0,"Give Us This Night (1936) was attempting to build on the popularity of what American soprano nicknamed the ""Tennessee Nightingale?"""
+22, Jinchang,Jinchang,0.3757731914520263,27.29153299331665,1.0000001192092896,1.0,1.0,Zhuanghe and Jinchang are both cities in the People's Republic of China. Which city is situated in the centre of Gansu province?
+23, Ken Loach.,Mark L. Lester,0.3819892406463623,27.480652809143063,0.3019913733005523,0.0,0.0,"Who was a successful film director, Rex Wilson or Mark L. Lester?"
+24," June 21, 1985","June 21, 1985",0.3610517978668213,28.181824684143063,1.0,1.0,1.0,"""Young Girls"" is a song by American singer-songwriter Bruno Mars, it's reminiscent of the individual known professionally, Lana Del Rey's work, the American singer, songwriter, and model, Elizabeth Woolridge Grant, was born on which date?"
+25, Hawkesbury River,Sydney,0.3800191879272461,27.57450771331787,0.4920031428337097,0.0,0.0,Which city is located south of the council formed during amalgamation of Gosford and Wyong  and 60km from Mooney Mooney Creek?
+26, Robert Ray,Robert William Ray,0.3886139392852783,27.15813159942627,0.94781756401062,0.8,0.8,"Who was the lawyer who investigated multiple scandals, including one sometimes called Travelgate?"
+27, British Airways High Life Magazine.,British Airways High Life Magazine,0.3670516014099121,27.918226957321167,0.9696310758590698,1.0,1.0,"In 2017, which magazine featured both ""The Adventurer"" and a former International Space Station (ISS) crew member?"
+28, 1998,"February 11, 1998",0.3823528289794922,27.191479682922363,0.771252453327179,0.5,0.5,When was the recording artist behind American Teen born?
+29, John Bilezikjian.,John Bilezikjian,0.3878571987152099,28.028985738754272,0.9802225232124328,1.0,1.0,Who was born first Steve Bedrosian or John Bilezikjian ?
+30," ""Cat People"" (1942)",Jacques Tourneur,0.3621313571929931,28.4755380153656,0.0651205778121948,0.0,0.0,"Who directed the film of which ""Cat Girl"" was an unofficial remake?"
+31, No.,"an American lawyer, politician and statesman",0.3873918056488037,27.18824958801269,0.0808624625205993,0.0,0.0,Were Roy Grow and Frank B. Kellogg both professors?

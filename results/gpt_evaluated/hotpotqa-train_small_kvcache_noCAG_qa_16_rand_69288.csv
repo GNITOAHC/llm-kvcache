@@ -1,0 +1,17 @@
+idx,generated_response,ground_truth,load_knowledge_time,generate_time,bert_score,rouge1_score,rougeL_score,question,gptscore
+0, Yes.,yes,0.0541601181030273,9.328083515167236,0.836855947971344,1.0,1.0,Can Fraxinus and Onoclea both be found in North America?,1
+1, Kamala Harris,Kamala Devi Harris,0.2096133232116699,9.435375213623049,0.9154678583145142,0.8,0.8,Who previously served as the 32nd Attorney General of California who's successor was elected as District Attorney of San Francisco in November 2011?,1
+2," Luigi Cherubini was born first, in 1760.",Luigi Cherubini,0.0546870231628418,10.726991653442385,0.728161096572876,0.4444444444444445,0.4444444444444445,"Which composer died first, Modest Mussorgsky or Luigi Cherubini?",0
+3, Weekly,weekly,0.0904524326324462,9.13674283027649,1.0,1.0,1.0,"How often is this magazine covering American daytime soap operas published that hailed Nikolas Cassadine as ""Best New Male Character"" in 1996?",1
+4, Ralph Thomas,Ralph Philip Thomas MC,0.0863118171691894,9.30337381362915,0.7740671634674072,0.6666666666666666,0.6666666666666666,"Who is best known for directing the ""Doctor"" series of films, Ralph Thomas or Rian Johnson?",1
+5, 1928,19 March 1928,0.0770325660705566,9.419634819030762,0.8679798245429993,0.5,0.5,When was the Swiss Catholic priest which was among those that established the Concilium journal born? ,0
+6, Nickelodeon Latin America and Macias Group International.,Nickelodeon Latin America and Macias Group International,0.1022875308990478,10.437767028808594,0.9881163835525512,1.0,1.0,Which companies produced the sitcom in which Pedro Romo is known for his role as Don Filemon?,1
+7, Film.,film,0.2255518436431884,9.2703058719635,0.8702664375305176,1.0,1.0,"Food, Inc. and Triumph of the Will, are which form of entertainment?",1
+8, Alessandro Scarlatti,Pietro Alessandro Gaspare Scarlatti,0.053102970123291,9.66344690322876,0.8493344187736511,0.6666666666666666,0.6666666666666666,"Between Franz Schreker and Alessandro Scarlatti, who was born earlier?",1
+9, The Rocker.,The Rocker,0.0567529201507568,9.538071155548096,0.9725683331489564,1.0,1.0,Which of Maya Forbes written movie was directed by  Peter Cattaneo?,1
+10, Prince Royce,Prince Royce,0.088573932647705,9.401181936264038,1.0000001192092896,1.0,1.0,"Who was featured in Ramón Luis Ayala Rodríguez's single ""Ven Conmigo""?",1
+11, The W12 engine came first.,W12 engine,0.2289726734161377,9.961796522140505,0.800096869468689,0.5714285714285715,0.5714285714285715,"Which came first, the W12 engine or the VR6 engine?",1
+12, 4,four,0.0908257961273193,9.316025257110596,0.8942000865936279,0.0,0.0,"This 2011 comedy film stars an American actress who won how many Golden Globes for her roll in ""Sex and the City""?",1
+13, Red,Red,0.1213824748992919,9.187593936920166,1.0000001192092896,1.0,1.0,What was the album that produced the single which broke the record for the most weeks spent at number one by a female country artist ?,1
+14, 1940 Norwegian Football Cup,Norwegian Football Cup,0.0543491840362548,9.828773498535156,0.8114347457885742,0.8571428571428571,0.8571428571428571,What WWII era Norwegian football tournament had to be suspended due to the actions of Vidkun Quisling?,1
+15, 1925,1925,0.0526492595672607,9.397432565689089,1.0,1.0,1.0,The Harlem Globetrotters have a signature song of the whistled version of the tune composed in what year?,1

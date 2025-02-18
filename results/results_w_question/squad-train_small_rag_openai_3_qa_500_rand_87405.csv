@@ -1,0 +1,324 @@
+idx,generated_response,ground_truth,ir_time,generate_time,bert_score,rouge1_score,rougeL_score,question
+0,"The relational model improved over time through the development of SQL, which provided a standardized language for data access and manipulation, and the introduction of object-relational databases, which allowed for the treatment of data as objects and their attributes, reducing the ""object-relational impedance mismatch"".",without constant rewriting of links and pointers,0.3278124332427978,4.743882894515991,0.1070880442857742,0.0754716981132075,0.0754716981132075,How was the relational model able to improve over time?
+1,The 1840s.,1840s,0.3357822895050049,0.77518630027771,0.9471951723098756,0.6666666666666666,0.6666666666666666,What decade does the sulfite process date to?
+2,The database's related application intact.,database related application,0.3503186702728271,0.7208244800567627,0.7257394194602966,0.6666666666666666,0.6666666666666666,"In order to merge, what must the database maintain?"
+3,Voiceless and breathy-voiced.,allophonic or phonemic,0.7086915969848633,0.6296820640563965,0.3874571621417999,0.0,0.0,What two forms can aspiration be in?
+4,Less than 6% moisture.,6,0.6047453880310059,0.9600536823272704,0.1457238346338272,0.4,0.4,"Starting in the center of Kathmandu, how many kilometers must one travel to reach Tribhuvan International Airport?"
+5,The Database Task Group within CODASYL.,Database Task Group,0.3183326721191406,1.0436961650848389,0.6922407150268555,0.6666666666666666,0.6666666666666666,What group discovered COBOL?
+6,Degrees of aspiration.,degrees of aspiration,0.3329465389251709,0.8286762237548828,0.9481090307235718,1.0,1.0,There are no IPA symbols for what?
+7,By voicing and aspiration.,voicing,0.8478560447692871,0.9187042713165284,0.5513476729393005,0.4,0.4,How are stops distinguished?
+8,QUEL.,QUEL,0.776092529296875,0.782691240310669,0.903600573539734,1.0,1.0,What computer language was used in INGRES to access data?
+9,A sponge.,felt,0.5038566589355469,0.4349615573883056,0.2623274326324463,0.0,0.0,"Besides a blotter sheet, what can be used to collect water?"
+10,"None, as book publishers tend to use acid-free paper.",acid-free,0.2929306030273437,1.0212175846099854,0.4409483075141907,0.3333333333333333,0.3333333333333333,What level of acid is usually found in the paper used by book publishers?
+11,Object-relational impedance mismatch.,object-relational impedance mismatch,0.4292147159576416,0.7833294868469238,0.9925756454467772,1.0,1.0,What term is used for the difficulty in database table and programmed object translation?
+12,"dBASE was unique because it did a lot of the ""dirty work"" of data manipulation, allowing users to focus on their tasks rather than managing file operations.",data manipulation is done by dBASE,0.5875327587127686,2.012535572052002,0.6426423788070679,0.1818181818181818,0.1212121212121212,Why was dBASE unique?
+13,E.F. Codd.,Codd,0.3068969249725342,0.7833027839660645,0.7830864191055298,0.5,0.5,Who used tuple calculus to show the functionality of databases?
+14,A special kind of felt.,felt,0.283566951751709,0.7690281867980957,0.7356632947921753,0.3333333333333333,0.3333333333333333,"Besides a blotter sheet, what can be used to collect water?"
+15,Laidlines.,Laidlines,0.3856234550476074,0.8332116603851318,0.9563372135162354,1.0,1.0,"Which is lines are commonly higher in density, laidlines or chainlines?"
+16,Consonant clusters.,consonant clusters,4.08946967124939,0.6385047435760498,0.980768859386444,1.0,1.0,What other type of endings do Catalan words have?
+17,sizing.,sizing,0.319110631942749,0.7431628704071045,0.9221678972244264,1.0,1.0,Early papermakers added alum to help in what process?
+18,china clay.,china clay,0.585693359375,0.4415011405944824,0.9766733050346376,1.0,1.0,"Besides calcium, coated paper has a thin layer of what?"
+19,The paper is cut into sheets for other printing processes or other purposes.,cut into sheets,0.2749035358428955,1.2613537311553955,0.6587461233139038,0.375,0.375,"If the paper is not to be used in the web printing process, what is done?"
+20,Breathed-voiced.,breathy-voiced,0.3280763626098633,0.512157678604126,0.8411439061164856,0.5,0.5,What is another term for voice-aspirated?
+21,Paperfoam is biodegradable and can be recycled with ordinary paper.,recycled,0.4452090263366699,1.1408662796020508,0.5233820676803589,0.1818181818181818,0.1818181818181818,What are some bitumen emulsions blended with to make a low-cost product?
+22,2,2,0.3508996963500976,0.5300981998443604,1.0,1.0,1.0,How many temples were built in Tell Qaramel?
+23,Less than 10%.,10%,0.3631002902984619,0.7305381298065186,0.8087474703788757,0.5,0.5,What was EU average amount of energy from renewable sources in 2008?
+24,Programmers can use the DBMS through an application programming interface (API) or a wire protocol.,wire protocol,0.4471786022186279,1.5089781284332275,0.3042321801185608,0.2352941176470588,0.2352941176470588,What is a way for programmers to use the DBMS?
+25,There can be any number of different external views of data.,any number,0.4392266273498535,1.1703095436096191,0.0969544053077697,0.3076923076923077,0.3076923076923077,How many different external views of data are there?
+26,Tuple calculus.,tuple calculus,0.3691585063934326,0.7875595092773438,0.9618598818778992,1.0,1.0,What type of math was used to create a system to find data sets?
+27,Maceration.,maceration,0.4675922393798828,0.7898268699645996,0.9490299224853516,1.0,1.0,What process changes the properties of the fibres used in papermaking?
+28,"System R worked on multi-table systems, allowing data to be split so that all of the data for a record did not have to be stored in a single large ""chunk"".",multi-table systems,0.4512383937835693,2.1580007076263428,0.3693158030509949,0.1714285714285714,0.1714285714285714,What did System R work on to change the way data was stored?
+29,Allophonic.,left unmarked,0.4141292572021484,0.6464865207672119,0.1995306611061096,0.0,0.0,"Most often, unaspirated consonants are what?"
+30,Groundwood process.,groundwood pulp,0.4276199340820312,0.6918244361877441,0.705224871635437,0.5,0.5,"Besides the thermomechanical process, what is a process used in pulping?"
+31,Sound approximation techniques.,sound approximation techniques,0.5580346584320068,0.6984272003173828,0.9900144338607788,1.0,1.0,What do query languages support in abstract interpretation frameworks?
+32,5%,5%,0.342252254486084,0.6512095928192139,1.0,1.0,1.0,What percent of the $13.7 billion did the CIA receive?
+33,The conceptual view abstracts away details of how the data are stored or managed (internal level).,abstracts away details,1.2099084854125977,1.4801411628723145,0.3964346051216125,0.3157894736842105,0.3157894736842105,How does the conceptual view handle how data is managed?
+34,Vowels and nasals.,vowels and nasals,1.4439687728881836,0.7677962779998779,0.9630799293518066,1.0,1.0,"What are, according to the text, murmured for their duration?"
+35,System R,Information Management System (IMS),0.3042268753051758,0.7493405342102051,0.2113719582557678,0.3333333333333333,0.3333333333333333,What was the DBMS created by IBM called?
+36,There is no information in the given context about something running perpendicular to laidlines.,chainlines,0.2874436378479004,1.0678231716156006,0.3579559624195099,0.0,0.0,What runs perpendicular to the laidlines?
+37,A database management system (DBMS).,DBMSs,0.6439039707183838,0.7529957294464111,0.8474454283714294,0.0,0.0,What do most database applications contain?
+38,unaspirated,unaspirated,0.3558423519134521,0.4056956768035888,1.0,1.0,1.0,What is the opposite of aspirated?
+39,A ream of 500 sheets.,a ream,0.4600915908813476,0.8651225566864014,0.6164036989212036,0.5714285714285715,0.5714285714285715,"In the US, the weight of what is used to classify paper for sale?"
+40,16 billion.,16 billion,0.3606991767883301,0.6925907135009766,0.9836615324020386,1.0,1.0,How much money has the US invested in Liberia since 2006?
+41,Mycenaean Greek.,Mycenaean Greek,0.2659754753112793,0.9148223400115968,0.9821157455444336,1.0,1.0,Earlier Greek was represented by what?
+42,Cai Lun.,Cai Lun,0.5456075668334961,0.6012458801269531,0.986076295375824,1.0,1.0,Who is credited with the papermaking process?
+43,Lignin.,lignin,0.6072194576263428,0.4768126010894775,0.971802055835724,1.0,1.0,What polymer is used to strengthen cell walls?
+44,"""The Programmer as Navigator""",The Programmer as Navigator,0.2897214889526367,0.9218354225158693,0.946219563484192,1.0,1.0,What was the name of Bachman's Turing Award presentation in 1973?
+45,"Customary units (length and width) in North America, and surface area in other countries (e.g. ISO 216 system).",length and width,0.3487739562988281,1.5122270584106443,0.5008829236030579,0.2727272727272727,0.2727272727272727,Standard paper sizes are usually described with what terms?
+46,Tables.,bits,0.7186062335968018,0.743300199508667,0.3386030495166778,0.0,0.0,What are huge quantities of information stored as?
+47,Wood.,debarked logs,0.3062024116516113,0.6145832538604736,0.2307442873716354,0.0,0.0,What is the main ingredient in the groundwood process?
+48,Wahgi.,Wahgi,0.582735538482666,0.4119741916656494,0.9772335290908812,1.0,1.0,Where are consonants aspirated in just the final position?
+49,⟨p t k⟩,⟨p t k⟩,0.3575539588928222,0.713923454284668,1.0,1.0,1.0,"If the lenis are ⟨b d ɡ⟩, what are the fortis counterparts?"
+50,MySQL.,an email system,0.3322124481201172,0.7410910129547119,0.4183001518249511,0.0,0.0,Name an example of a general-purpose DBMS.
+51,A good understanding of the application domain.,the application domain,0.3215692043304443,1.0136311054229736,0.8609786033630371,0.6,0.6,What must one understand in order to create a successful data model?
+52,Air and/or heat.,air,0.2897171974182129,0.8783924579620361,0.6531648635864258,0.4,0.4,Having leaves allows plants to absorb nutrients through which medium?
+53,The wire mesh pattern.,density,0.6806929111480713,0.875760555267334,0.1409167647361755,0.0,0.0,What property of wood varies according to species?
+54,The Library of Congress.,Library of Congress,3.628652334213257,0.5280132293701172,0.9505399465560912,0.8571428571428571,0.8571428571428571,What body of the federal government credits New Haven resident Louis Lassen with inventing the hamburger and steak sandwich?
+55,"No, the CAFS accelerator was generally unsuccessful in the long term.",efforts were generally unsuccessful,0.2697997093200683,0.9042356014251708,0.3407778143882751,0.2666666666666666,0.2666666666666666,Did the CAFS accelerator work as planned?
+56,with a superscript hook-aitch ⟨◌ʱ⟩,placing the aspiration modifier letter before the consonant symbol,0.4592523574829101,0.8065545558929443,0.3327305614948272,0.0,0.0,A preaspirated consonant is marked how?
+57,Place of articulation.,place of articulation,0.3251469135284424,0.4780092239379883,0.9734596610069276,1.0,1.0,Aspiration alters with what?
+58,CAP theorem.,the CAP theorem,0.4348042011260986,0.660118818283081,0.9810227155685424,0.8,0.8,"What explains the difficulty in a system containing availability, consistency, and partition tolerance guarantees?"
+59,Pressing the sheet removes the water by force.,Pressing,0.2508165836334228,0.9409549236297609,0.3680378794670105,0.2222222222222222,0.2222222222222222,How is the water removed by force from a sheet of paper?
+60,1973.,1973,0.8128397464752197,0.6015198230743408,0.9672453999519348,1.0,1.0,John Rhodes served as minority leader beginning in what year?
+61,Navajo.,Navajo,0.4542663097381592,0.6336891651153564,0.9691097736358644,1.0,1.0,"Aspiration of stops is seen as voiceless velar airflow in some languages, such as what?"
+62,a compound word.,compound words,0.2473156452178955,0.6686830520629883,0.9036589860916138,0.8,0.8,"If the letter s is a different place in the word, it is typical unaspirated unless the word is what?"
+63,Pinyin.,pinyin,0.313103437423706,0.7977817058563232,0.9336914420127868,1.0,1.0,Tenuis stops have letters that are representative of English voiced consonant in what?
+64,"Physical database design decisions, including performance, scalability, recovery, security, and data independence.","performance, scalability, recovery, security",0.676954984664917,1.438098669052124,0.6764043569564819,0.5,0.5,What decisions must be made in the last stage of database design?
+65,"Yes, transactions have well-defined boundaries.",Each transaction has well defined boundaries,0.3753786087036133,0.8599379062652588,0.828485369682312,0.6666666666666666,0.6666666666666666,Are transactions limited?
+66,Calendering.,calendering,0.2866995334625244,0.6883907318115234,0.9591610431671144,1.0,1.0,What process is done to polish the surface of the paper?
+67,Static analysis can be applied to query languages using the Abstract interpretation framework to support sound approximation techniques.,software verification,0.3499555587768554,1.310326337814331,0.2976024746894836,0.0,0.0,How can static analysis be useful with query languages?
+68,Consonant clusters.,consonant clusters,0.5691909790039062,0.8749980926513672,0.980768859386444,1.0,1.0,What other type of endings do Catalan words have?
+69,"The pulp papermaking process was developed in China during the early 2nd century AD, possibly as early as 105 AD.",2nd century AD,0.2697677612304687,1.7764990329742432,0.4066624939441681,0.2608695652173913,0.2608695652173913,During which century were important Buddhist notions translated to Chinese?
+70,Object-relational mappings (ORMs).,object-relational mappings (ORMs),2.8279452323913574,0.9968461990356444,0.9893014430999756,1.0,1.0,What is the library programmers use to solve object-relational impedance mismatch?
+71,"The database's conceptual and external architectural levels, and possibly some aspects of the internal level.",conceptual and external architectural levels,0.3328447341918945,1.2657842636108398,0.6996749639511108,0.4761904761904761,0.4761904761904761,What are the important parts of the database related application that should be moved?
+72,Medieval and Modern Greek.,Medieval and Modern Greek,0.5021097660064697,0.7083785533905029,0.9714529514312744,1.0,1.0,The lenited Attic Greek yielded /θ ð/ in what periods?
+73,System R.,System R,0.4008691310882568,0.7890763282775879,0.9615912437438964,1.0,1.0,What is the system IBM created using Codd's research?
+74,aspiration.,aspiration,0.2652485370635986,0.7438304424285889,0.9633735418319702,1.0,1.0,Mandarin has stops and affricates that are distinguished by what?
+75,"In a relational system, information is stored in a set of tables, each containing fixed-length records with optional elements, allowing for efficient storage and retrieval of data.",normalized into a user table,0.3501133918762207,2.016472578048706,0.296232521533966,0.1212121212121212,0.1212121212121212,How is information stored in a relational system?
+76,INGRES.,INGRES,1.1644539833068848,0.558905839920044,0.9769843816757202,1.0,1.0,What was the name of the project to create a geographical database?
+77,Eugene Wong and Michael Stonebraker.,Eugene Wong and Michael Stonebraker,0.3297483921051025,0.9968545436859132,0.9850866794586182,1.0,1.0,Who used Codd's paper at Berkeley to improve a geographical database?
+78,The 13th century.,13th,0.4176399707794189,0.917855978012085,0.568101704120636,0.5,0.5,In what century did Europeans become aware of gunpowder?
+79,Paperfoam.,paperfoam,0.2869570255279541,0.6948673725128174,0.9803333282470704,1.0,1.0,What product used in the sale ofpaper is newly used by manufacturers in an effort to be more environmentally friendly?
+80,"Oracle, DB2, and Adabas.","Adabas, Oracle and DB2",0.5489745140075684,1.0862112045288086,0.8669909834861755,1.0,0.5,Name three DBMSs that have been used since the 1970s.
+81,The aspiration modifier letter.,aspiration modifier,0.4131948947906494,0.4780256748199463,0.8226926922798157,0.6666666666666666,0.6666666666666666,What may be doubled to indicate a long aspiration?
+82,A type of phonation or vibration of the vocal folds.,a type of phonation or vibration of the vocal folds,0.3293488025665283,0.7345185279846191,0.9829885959625244,1.0,1.0,What is breathy voice?
+83,Thousands of human years of development effort.,thousands of human years,0.3428297042846679,1.007946491241455,0.7164908647537231,0.7272727272727273,0.7272727272727273,How long can it take to create a DBMS?
+84,Unused items are simply not placed in the database.,not be placed in the database,0.5404925346374512,1.0884337425231934,0.4883557856082916,0.6666666666666667,0.6666666666666667,What happens to blank data fields in a navigational system?
+85,"A subset of a database that can be accessed by using a password is called a ""subschema"".",subschemas,0.3426954746246338,1.2150070667266846,0.4450606107711792,0.1111111111111111,0.1111111111111111,What is a subset of a database called that can be accessed by using a password?
+86,Light and oxygen.,light and oxygen,0.3268783092498779,0.692086935043335,0.9246759414672852,1.0,1.0,What does lignin react to to produce the yellowing you see in newspapers?
+87,Laidlines.,Laidlines,0.3584072589874267,0.8299336433410645,0.9563372135162354,1.0,1.0,"Which is lines are commonly higher in density, laidlines or chainlines?"
+88,Relational systems.,relational systems,0.4494450092315674,0.833341121673584,0.9545637965202332,1.0,1.0,What type of system in still prominent to this day?
+89,There is no mention of Baghdad in the text.,bagdatikos,0.3336424827575683,0.6676375865936279,0.0153188612312078,0.0,0.0,What name did the process take on in Baghdad?
+90,"No, each database backup is typically stored in a separate file.",dedicated backup files,0.3671212196350097,0.9531559944152832,0.5837709903717041,0.2857142857142857,0.2857142857142857,Is each database backup kept in the same file?
+91,Relinking.,re-linking,0.4924414157867431,0.5608508586883545,0.8259122371673584,0.0,0.0,What technique is used to collect into one place?
+92,breathy-voiced or murmured.,breathy,0.4772748947143554,0.872016191482544,0.5892258882522583,0.4,0.4,The symbol followed by bʰ would likely mean the consonant has what type of release?
+93,By searching for a unique key.,by content,0.5187857151031494,0.961214542388916,0.2290706783533096,0.25,0.25,"Instead of using links, how was information found in a relational model?"
+94,One-to-many relationship.,one-to-many,0.4595656394958496,0.87259840965271,0.817967414855957,0.8571428571428571,0.8571428571428571,What is the relationship called in a hierarchical model?
+95,"Rag paper was more stable because it didn't contain alum, which would eventually degrade the cellulose fibers and cause the paper to disintegrate.",more stable,0.3564727306365967,1.698620319366455,0.3130916059017181,0.1538461538461538,0.1538461538461538,How was rag paper superior to the early types of paper made using alum?
+96,"Through a database management system (DBMS) using a query language, such as SQL.","by a ""database management system"" (DBMS)",0.4168787002563476,1.4205942153930664,0.825580358505249,0.5263157894736842,0.5263157894736842,How is data accessed?
+97,Silk.,silk,0.4813871383666992,0.6067194938659668,0.9584869146347046,1.0,1.0,What textile were some of the early Han maps made from?
+98,Object-oriented programming.,object-oriented,0.3393480777740478,0.8313467502593994,0.9017022252082824,0.8,0.8,"In the 1990s, what type of programming changed the handling of databases?"
+99,"Wood, rags, or grasses.",wood,0.5513691902160645,1.0475859642028809,0.5458260774612427,0.4,0.4,What does काष्ठ mean in English?
+100,IMS is classified as a hierarchical database.,hierarchical database,0.3035571575164795,1.006664514541626,0.5973079204559326,0.4444444444444445,0.4444444444444445,What is the classification of IMS?
+101,Reels.,reels,0.8057045936584473,0.5622503757476807,0.9764447212219238,1.0,1.0,What contraption is used to carry the paper to the web printing presses?
+102,"The conceptual view provides a common view of the database, independent of different external view structures, and abstracts away details of how the data are stored or managed (internal level).",a level of indirection between internal and external,0.2414395809173584,1.955554723739624,0.2831962704658508,0.3157894736842105,0.1578947368421052,What does the conceptual view offer?
+103,The pith of the Cyperus papyrus plant.,the pith,0.3712852001190185,1.0198516845703125,0.3979292809963226,0.4444444444444445,0.4444444444444445,What part of the Cyperus plant was used in making papyrus?
+104,Appropriate rollers.,rollers,0.2738676071166992,0.6004664897918701,0.8782526850700378,0.6666666666666666,0.6666666666666666,What is used to apply watermarks and other patterns?
+105,Storage properties and configuration settings.,storage properties and configuration setting,0.2964305877685547,0.6813762187957764,0.9120930433273317,1.0,1.0,What do database administrators closely monitor?
+106,Classical Attic.,Classical Attic,0.3166885375976562,0.8304417133331299,0.9651171565055848,1.0,1.0,What Greek dialect had three-way stop distinction like Eastern Armenian?
+107,Slack or breathy voice.,slack or breathy,0.2273476123809814,0.5148272514343262,0.8413609266281128,0.8571428571428571,0.8571428571428571,What kind of voice are muddy consonants pronounced with?
+108,"Database administrators interact with the DBMS through dedicated interfaces to build and maintain the database, requiring some knowledge and understanding of how DBMSs operate and their external interfaces and tuning parameters.",through dedicated interfaces,0.3169453144073486,2.2020623683929443,0.4366520345211029,0.1764705882352941,0.1764705882352941,How do administrators work with the DBMS?
+109,"The database engine, also known as the ""storage engine"", is responsible for putting data into permanent storage.",database engine,0.3323729038238525,1.2518188953399658,0.6577142477035522,0.2105263157894736,0.2105263157894736,What is responsible for putting information into permanent storage?
+110,"Information is accessed in a relational model by searching for a unique key, which links related data back into a single collection.","a ""key""",0.4379823207855224,1.679572820663452,0.38532555103302,0.1666666666666666,0.1666666666666666,How is information accessed in a relational model?
+111,Through an application programming interface (API) or a wire protocol.,application software,0.4980988502502441,1.2113769054412842,0.3919022381305694,0.1666666666666666,0.1666666666666666,How are many databases accessed?
+112,Four.,four,0.3193569183349609,0.7392728328704834,0.943260371685028,1.0,1.0,In how many directions does the Buddha of Swayambhu look?
+113,English and Korean.,Indian and East Asian,0.3512115478515625,0.8348712921142578,0.4194554984569549,0.2857142857142857,0.2857142857142857,What are two language types where the difference is contrastive?
+114,"The cost to create a DBMS is distributed among a large number of users, making it a cost-effective approach.",spread over a large number of users,0.4411129951477051,1.6452820301055908,0.5025708079338074,0.3703703703703703,0.3703703703703703,How is the cost to create a DBMS distributed?
+115,Database access control limits who can access what information in the database.,who (a person or a certain computer program) is allowed to access what information,0.4000341892242431,0.9437062740325928,0.608680248260498,0.3076923076923076,0.3076923076923076,What does database access limit?
+116,"The purpose of the IBM DBMS (Database Management System) was to interact with the user, other applications, and the database itself to capture and analyze data.",the Apollo program,0.4084019660949707,2.0217740535736084,0.1857512444257736,0.0689655172413793,0.0689655172413793,What was the purpose of the IBM DBMS?
+117,The stop is held longer and then has an aspirated release.,the stop is held longer and then has an aspirated release.,0.5277130603790283,0.7765545845031738,1.0,1.0,1.0,What happens when an aspirated consonant is doubled or geminated?
+118,Wove paper.,wove paper,0.2983462810516357,0.6900665760040283,0.963661015033722,1.0,1.0,What type of paper is produced on a machine like the Fourdrinier?
+119,Calcium carbonate.,chalk,0.502699613571167,0.4365551471710205,0.4653764963150024,0.0,0.0,What besides china clay is used as a filler?
+120,Edgar F. Codd.,Edgar F. Codd,0.3149807453155517,0.9135441780090332,0.989431858062744,1.0,1.0,Who created the relational model of DBMS?
+121,Card.,card,0.4592480659484863,0.5262393951416016,0.9117406606674194,1.0,1.0,If paper is over 160g what is it considered as?
+122,"Using a set-oriented language, such as SQL, which allows for a simple system for finding and returning sets of data in a single operation.",Hardware database accelerators,0.4008147716522217,1.8402633666992188,0.4007496237754822,0.0,0.0,How can large quantities of data be accessed?
+123,Two: fault tolerance and data integrity.,two,0.3856575489044189,0.8599927425384521,0.0684855282306671,0.2857142857142857,0.2857142857142857,How many types are Nepali works of art typically divided into?
+124,"Wu Chinese, Eastern Armenian, and Classical Attic dialect of Ancient Greek.",Wu Chinese,0.3379607200622558,1.109135389328003,0.4452232718467712,0.3076923076923077,0.3076923076923077,What has a three-way distinction in regards to stops and affricates?
+125,thousandths of a mm.,mm,0.3500018119812011,0.6834509372711182,0.4647738933563232,0.4,0.4,Someone measuring the thickness of paper in the UK is likely to use what unit?
+126,Zein (corn protein).,corn protein,0.6882126331329346,0.5464575290679932,0.7864973545074463,0.8,0.8,Popcorn bags produced modernly are likely to use what type of coating?
+127,Card stock.,card,0.3101611137390136,0.568939208984375,0.6373181939125061,0.6666666666666666,0.6666666666666666,If paper is over 160g what is it considered as?
+128,To correct errors or restore a corrupted database.,database is found corrupted,0.361682653427124,0.906891107559204,0.6337028741836548,0.3333333333333333,0.1666666666666666,Name a reason to take a database backward in time?
+129,Kx'a languages.,Kx'a languages,0.3063631057739258,0.6454052925109863,0.966196060180664,1.0,1.0,True aspirated consonants have been found in Kelabit Taa and what else?
+130,papyrus,Papyrus,0.4029829502105713,0.522104024887085,1.0,1.0,1.0,What Latin word is paper derived from?
+131,"External views of data allow users to see database information in a more business-related way, rather than from a technical, processing viewpoint.",see database information in a more business-related way,0.4282622337341308,1.7625436782836914,0.6308552622795105,0.5625,0.5625,What is the benefit of external views of data?
+132,phonemes,phonemes,0.4352109432220459,0.7469627857208252,1.0,1.0,1.0,What are the units called that traditional phonology studies?
+133,The DBMS (Database Management System) assists a user in seeing a table.,DBMS,0.4181756973266601,1.0641894340515137,0.6827207803726196,0.1538461538461538,0.1538461538461538,What system assists a user in seeing a table?
+134,Tabular model.,tabular,0.2856996059417724,0.8279330730438232,0.8150460720062256,0.6666666666666666,0.6666666666666666,What is a third type of model that can be combined with heirarchical and navigation models?
+135,4,up to four,1.11120343208313,0.5275857448577881,0.6909276843070984,0.0,0.0,How many apps did the WIndows 8.1 update allow to be snapped onto a signular display?
+136,Lignin.,lignin,0.2939331531524658,0.6933166980743408,0.971802055835724,1.0,1.0,What polymer is used to strengthen cell walls?
+137,Paper.,paper,0.3253095149993896,0.6143167018890381,0.933435559272766,1.0,1.0,What widely-used product is almost always made of wood fibers?
+138,Dravidian languages.,native Dravidian words,0.2718205451965332,0.6549129486083984,0.8140440583229065,0.4,0.4,"What has no distinction between the categories  of voiced, voiceless, aspirated and unaspirated?"
+139,aspirated voiced consonants.,True aspirated voiced consonants,0.348585844039917,0.7352612018585205,0.9206889271736144,0.8571428571428571,0.8571428571428571,Indian languages commonly have murmured consonants instead of what?
+140,Voiceless consonants.,voiceless consonants,0.3836138248443603,0.8741259574890137,0.9598091244697572,1.0,1.0,Written IPA consonants use symbols for what?
+141,The 1980s.,1980s,0.2741968631744385,0.91943359375,0.927301585674286,0.6666666666666666,0.6666666666666666,When did the liberalization of the telephone communications in Greece happen?
+142,250 kg/m3.,tissue paper,0.3277685642242431,0.7713308334350586,0.1201330721378326,0.0,0.0,What is the lightest density of paper produced?
+143,A conceptual data model.,definitions of the terminology used for entities,0.2560324668884277,0.871497631072998,0.4041052460670471,0.0,0.0,Asking questions about an organization's needs will help to create what?
+144,An extended length of the frication.,an extended length of the frication,0.3543224334716797,0.5958921909332275,0.9692779779434204,1.0,1.0,"In Navajo, the aspiration of affricates can be seen as what?"
+145,Printing and writing.,writing,0.2703752517700195,0.4752790927886963,0.711929440498352,0.5,0.5,What is a common use for paper?
+146,/t/,/t/,0.3277738094329834,0.6337976455688477,1.0000001192092896,1.0,1.0,The Western Armenian voiced /d/ compares to the Eastern Armenian voiceless what?
+147,lenited (weakened) to become a glottal stop or fricative.,rare,0.2556498050689697,1.0024049282073977,0.0692730769515037,0.0,0.0,How common was divorce for samurai?
+148,"A database system is frequently used to track and store information about users, their data, and relationships between them.",to track information about users,0.3480942249298095,1.5926496982574463,0.6802868843078613,0.4166666666666667,0.4166666666666667,How is a database system frequently used?
+149,Today's database systems are typically run on general-purpose hardware using general-purpose computer data storage.,general-purpose hardware,0.337843656539917,1.4269063472747805,0.6286160349845886,0.3,0.3,How are today's database systems run?
+150,China clay.,china clay,0.4017133712768554,0.6505777835845947,0.9766733050346376,1.0,1.0,"Besides calcium, coated paper has a thin layer of what?"
+151,"Some languages, notably most Indian and East Asian languages.",phonetics,0.3756475448608398,0.7055244445800781,0.4271144270896911,0.0,0.0,What branch of linguistics is phonology distinguished from?
+152,Lenited.,lenited,0.5939867496490479,0.4044921398162842,0.9640397429466248,1.0,1.0,What is another term for a consonant being weakened?
+153,[ʰp],⟨ʰp⟩,0.2920117378234863,0.6896004676818848,0.7700937986373901,1.0,1.0,What represents a preaspirated bilabial stop?
+154,To maintain the database related application intact after migrating to a different DBMS.,primarily economical,0.4969675540924072,1.3033826351165771,0.1802213191986084,0.0,0.0,Why would someone attempt to unite two different databases?
+155,Netezza.,Netezza and Oracle (Exadata),0.3127443790435791,0.5990204811096191,0.5717064142227173,0.4,0.4,Name a company that is still working on the CAFS accellerator?
+156,Structured Query Language (SQL) is used in enterprise database software.,ACID-compliant transaction processing,0.2416820526123047,1.2561676502227783,0.3410060703754425,0.0,0.0,What type of processing is used in enterprise database software?
+157,Reflect the structure of the information to be held in the database.,reflects the structure of the information to be held,0.4292373657226562,1.2150647640228271,0.7170695066452026,0.8571428571428571,0.8571428571428571,What should a conceptual data model do?
+158,Numerically.,numerically,0.4452612400054931,0.7870502471923828,0.9161982536315918,1.0,1.0,How are voice-onset time details usually presented?
+159,Mechanical pulping.,Mechanical,0.379063606262207,0.6938371658325195,0.5364034175872803,0.6666666666666666,0.6666666666666666,What kind of fuses were needed?
+160,Up to 40% of total waste produced in the United States each year.,40%,0.5238876342773438,1.1767151355743408,0.4328643083572387,0.1428571428571428,0.1428571428571428,How much of total employment did agriculture account for at the end of the 1990s?
+161,Aspirated.,aspirated,0.3956105709075928,0.6524457931518555,0.9514827728271484,1.0,1.0,"If there is a cluster such as st and it belongs to different morphemes, the stop is what?"
+162,Aspirated stops.,aspirated stops,0.265944242477417,0.8809061050415039,0.975464165210724,1.0,1.0,What kind of stops in pinyin are written with letters that representative of voiceless consonants?
+163,Charles Fenerty.,Charles Fenerty,0.3580527305603027,0.6912899017333984,0.9814223051071168,1.0,1.0,Which Canadian inventor helped F.G. Keller to develop their own process?
+164,Gloss paper.,Gloss,0.2752022743225097,0.4418907165527344,0.7979799509048462,0.6666666666666666,0.6666666666666666,What papers give the best optical density?
+165,The superscript hook-aitch ⟨◌ʱ⟩ is used to represent the breathy-voiced release of obstruents.,breathy-voiced release of obstruents.,0.2272248268127441,1.6469182968139648,0.6920794248580933,0.5263157894736842,0.5263157894736842,What uses the ⟨◌ʱ⟩?
+166,SQL.,SQL,0.5123953819274902,0.7436027526855469,0.878853440284729,1.0,1.0,"When customers first tested IBM's system, what computer language had been added? "
+167,The Stockholm Convention on Persistent Organic Pollutants.,the Stockholm Convention on Persistent Organic Pollutants,0.3406944274902344,0.9370782375335692,0.9960965514183044,1.0,1.0,What agency internationally regulates dioxins?
+168,"XML database, a type of structured document-oriented database.",structured document-oriented database,0.3368990421295166,0.8713665008544922,0.7734742164611816,0.6153846153846153,0.6153846153846153,What kind of database is XML?
+169,Managing personal databases.,managing personal databases,0.3737862110137939,0.7004468441009521,0.956125795841217,1.0,1.0,What is possible when a DBMS interrogate and update a database?
+170,"There are three main chemical pulping processes: the sulfite process, the kraft process, and the soda pulping process.",three,0.2632155418395996,1.5751218795776367,0.1187453120946884,0.1052631578947368,0.1052631578947368,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+171,100% recycled materials or blended with virgin pulp.,virgin,0.388838529586792,0.9742815494537354,0.2552465200424194,0.2222222222222222,0.2222222222222222,"What is the meaning of the term ""parthenos?"""
+172,Unauthorized users from viewing or updating the database.,unauthorized users from viewing or updating the database,0.5575742721557617,1.0361919403076172,0.976807177066803,1.0,1.0,What does data security avoid?
+173,unaspirated.,unaspirated,0.4449098110198974,0.6665403842926025,0.9698464274406432,1.0,1.0,What is the opposite of aspirated?
+174,Zein (corn protein).,corn protein,0.362278938293457,0.5499889850616455,0.7864973545074463,0.8,0.8,Popcorn bags produced modernly are likely to use what type of coating?
+175,pronounced with breathy voice.,unaspirated,0.5370500087738037,0.913395881652832,0.2441034466028213,0.0,0.0,What is the opposite of aspirated?
+176,"dBASE was easy for users to understand and use, with the data manipulation done by the software, allowing users to focus on their tasks.",managing space allocation,0.4477815628051758,1.5310635566711426,0.1156846731901168,0.0,0.0,What is a benefit of using dBASE?
+177,/d/,/d/,0.3721346855163574,0.7890722751617432,1.0,1.0,1.0,Western Armenian /tʰ/ compares to eastern Armenian /tʰ/ and what?
+178,"XML is used in enterprise database management as a machine-to-machine data interoperability standard, allowing querying based on XML document attributes.",machine-to-machine data,0.2458293437957763,1.7232818603515625,0.3563781976699829,0.3076923076923077,0.3076923076923077,How is XML used in enterprise database management?
+179,Abstract interpretation framework.,eventual consistency,0.4480965137481689,0.3361303806304931,0.2893181443214416,0.0,0.0,What is used to offer a balance in guarantees?
+180,Icelandic and Faroese.,Icelandic and Faroese,0.3461923599243164,0.9218242168426514,0.9737474322319032,1.0,1.0,What two languages mentioned have have preaspirated [ʰp ʰt ʰk]?
+181,"Sheets are usually cut ""long-grain"", with the grain parallel to the longer dimension of the sheet.",long-grain,1.2476575374603271,1.553802251815796,0.3713622391223907,0.2105263157894736,0.2105263157894736,In what manner are sheets normally cut?
+182,They are marked with a diacritic ˭.,with the modifier letter,0.3210806846618652,0.9213430881500244,0.3782499134540558,0.2,0.2,How are unaspirated or tenuis consonants sometimes marked for unaspiration?
+183,ISO 216,ISO 216,0.5208916664123535,0.7832722663879395,1.0,1.0,1.0,Most countries besides the US use what ISO System?
+184,Wood-free papers.,wood-free,0.4457247257232666,0.6892111301422119,0.6489263772964478,0.8,0.8,What type of paper is paper made from chemical pulps known as?
+185,⟨p⟩,p,0.3228490352630615,0.6136486530303955,0.2829965353012085,1.0,1.0,What modifier indicates a voiceless bilabial stop?
+186,Cyperus papyrus.,Cyperus,2.250784158706665,0.7712197303771973,0.6290452480316162,0.6666666666666666,0.6666666666666666,What plant was used in Egypt to make papyrus?
+187,C. Wayne Ratliff.,C. Wayne Ratliff,0.3863170146942138,0.7161617279052734,0.9912196397781372,1.0,1.0,Who created dBASE?
+188,A three-way distinction in stops and affricates: /p pʰ b/.,/p pʰ b/,0.3422691822052002,1.420539140701294,0.7113872766494751,0.4285714285714285,0.4285714285714285,What is the actual distinction for Wu Chinese?
+189,Double stops and single stops.,double stops and single stops,5.288982391357422,0.7039029598236084,0.9410091638565063,1.0,1.0,What do preaspirated stops contrast with in Icelandic?
+190,An integrated set of computer software that allows users to interact with one or more databases and provides access to all of the data contained in the database.,an integrated set of computer software,0.4621837139129638,1.5702340602874756,0.6938985586166382,0.3529411764705882,0.3529411764705882,A DBMS consists of what?
+191,1974/5,1974/5,0.376025915145874,0.8673553466796875,1.0,1.0,1.0,When was IBM's system released?
+192,DBMSs are classified according to the database model they support.,according to the database model that they support,0.4938299655914306,1.20855975151062,0.6634154319763184,0.7777777777777777,0.7777777777777777,How are DBMSs classified?
+193,The kraft process is the most commonly practiced strategy in the pulp and paper industry.,The kraft process,0.4719820022583008,1.2163889408111572,0.7085491418838501,0.3333333333333333,0.3333333333333333,What process is most commonly used?
+194,"Entities, attributes, and relationships.","record types, specific records, data structures",0.4171502590179443,0.7173402309417725,0.4322147965431213,0.0,0.0,What are examples of database objects?
+195,"A DBMS can store large quantities of data, but the exact amount depends on the specific DBMS and hardware configuration.",large quantities,0.3997766971588135,1.686699628829956,0.3393566906452179,0.1818181818181818,0.1818181818181818,How much data can a DBMS store?
+196,"dBASE was successful because it was lightweight, easy to use, and handled data manipulation automatically, freeing users to focus on their tasks rather than the technical details.",lightweight and easy for any computer user to understand out of the box,0.4699976444244385,2.0294623374938965,0.3095970749855041,0.3,0.25,Why was dBASE successful?
+197,three,three,0.2808616161346435,0.7023787498474121,1.0,1.0,1.0,"Before Hindus are cremated, how many times are their bodies placed in the Bagmati?"
+198,"Alum, a variety of aluminium sulfate salts.",Alum,0.4534800052642822,0.9414243698120116,0.74803626537323,0.25,0.25,What acidic salts were commonly found in the early types of paper produced?
+199,One-to-many relationship.,many-to-many,0.3218309879302978,0.8701703548431396,0.7500970363616943,0.5714285714285715,0.5714285714285715,What is the relationship called in a navigational model?
+200,"Chemical pulping process, specifically the use of elemental chlorine, is most heavily linked to pollution, particularly the release of chlorinated organic compounds and dioxins.",bleaching,0.3193690776824951,1.8269410133361816,0.2544793486595154,0.0,0.0,What process of papermaking is most heavily linked to the pollution?
+201,Weak paper.,weak,0.288865327835083,0.7868537902832031,0.6688820123672485,0.6666666666666666,0.6666666666666666,What type of alpha emitter is uranium?
+202,Greek.,Greek,0.3032920360565185,0.5230941772460938,0.967306911945343,1.0,1.0,What myths did the Romans adapt to their needs?
+203,"Authorized personnel, typically database administrators, set database access controls.",special authorized (by the database owner) personnel,0.3226809501647949,1.1736996173858645,0.7740210294723511,0.375,0.25,Who sets database access?
+204,"IBM DB2, Oracle, MySQL, and Microsoft SQL Server are the top DBMS.",SQL language,0.2547001838684082,1.419750690460205,0.4377237260341644,0.1428571428571428,0.1428571428571428,What is the most popular DBMS?
+205,Weight.,weight,0.3338727951049804,0.5252368450164795,0.8433958292007446,1.0,1.0,"According to T3, what was the main differentiator between the ""fat"" PS3 and the Super Slim?"
+206,Voiceless and voiced fricatives /θ ð/.,voiceless and voiced fricatives,0.4699954986572265,0.9111728668212892,0.7312418818473816,1.0,1.0,Attic Greek lenited to what?
+207,Data independence.,data independence,0.4814374446868896,0.6577532291412354,0.9482364654541016,1.0,1.0,What is an important goal in in this final stage?
+208,Database transactions.,RAID,0.3186676502227783,0.5671672821044922,0.3852675557136535,0.0,0.0,What is used to recover data if disks suffer a failure?
+209,Allophones.,allophones,0.261362075805664,0.6121764183044434,0.9871574640274048,1.0,1.0,The phonetical similarity of what thing causes disagreements between linguists?
+210,800 kg/m3 (50 lb/cu ft).,800 kg/m3,0.3302953243255615,1.0153591632843018,0.8533195853233337,0.6,0.6,What is the common density of printing paper?
+211,A database administrator (DBA) or a database engineer can restore a database that has been corrupted.,database administrator,0.2759644985198974,1.2189247608184814,0.6034663915634155,0.2222222222222222,0.2222222222222222,Who can restore a database that has been corrupted?
+212,Voiced consonants.,Voiced consonants,0.27288818359375,0.4787716865539551,0.9454615116119384,1.0,1.0,What is not often aspirated?
+213,Backup files.,desired point in time,0.3088018894195556,0.4612622261047363,0.1018996089696884,0.0,0.0,What parameter is requiret to restore a database?
+214,The mid-1960s.,mid-1960s,0.2811307907104492,0.9591162204742432,0.9713526964187622,0.8,0.8,When were DBMSs first used commercially?
+215,phonemic.,phonemic,0.3179051876068115,0.5675454139709473,0.9631879329681396,1.0,1.0,"In languages like Thai and Icelandic, tenuis and aspirated consonants are what?"
+216,Caliper.,caliper,0.3893561363220215,0.5718057155609131,0.9739441871643066,1.0,1.0,What tool is often used in measuring the thickness of paper?
+217,Grammes per square metre (g/m2).,dimensions,0.2740013599395752,0.8479232788085938,0.2568739056587219,0.0,0.0,What does the experience of pain have throughout cultures?
+218,Edgar Codd.,Codd,0.4235908985137939,0.6006219387054443,0.628077507019043,0.6666666666666666,0.6666666666666666,Who used tuple calculus to show the functionality of databases?
+219,Almost twice.,twice,0.6499526500701904,0.6492507457733154,0.804777204990387,0.6666666666666666,0.6666666666666666,How many times did Nagumo change orders for arming his aircraft?
+220,Dravidian languages.,Dravidian,0.3419933319091797,0.8761096000671387,0.6922258734703064,0.6666666666666666,0.6666666666666666,"Telegu, Kannada and others are considered to be some of the what languages?"
+221,A fricative.,fricative,0.520505428314209,0.7086987495422363,0.9126765727996826,0.6666666666666666,0.6666666666666666,What nonstandard feature does Southern Russian use?
+222,A logical data model expressed in the form of a schema.,schema,0.352888822555542,1.1686975955963137,0.7204691767692566,0.1666666666666666,0.1666666666666666,In what form is the output of a logical database design?
+223,"Typically, there is only one conceptual (or logical) and physical (or internal) view of the data.",one,0.3970246315002441,1.6048088073730469,0.0343946106731891,0.1176470588235294,0.1176470588235294,How many restaurants in the western style were present in Kathmandu circa 1955?
+224,International Phonetic Alphabet.,International Phonetic Alphabet,0.5168135166168213,0.8259642124176025,0.96448415517807,1.0,1.0,What does IPA stand for?
+225,They are left unmarked in transcription.,⟨t⟩,0.3435819149017334,0.586998462677002,0.2015386223793029,0.0,0.0,How are unaspirated consonants left unmarked?
+226,Soda pulping.,Soda pulping,0.6907651424407959,0.6900901794433594,0.9681617617607116,1.0,1.0,What is another process used to pulp straws with high silicate content?
+227,A database transaction.,transaction,0.3059542179107666,0.606957197189331,0.775098443031311,0.5,0.5,What is a unit of work called in a database?
+228,China.,China,0.2704362869262695,0.6099796295166016,0.945481538772583,1.0,1.0,Who was providing supplies to the Vietnamese communists fighting against France?
+229,Germany.,Germany,0.3855879306793213,0.7465865612030029,0.9486981630325316,1.0,1.0,What country started programs that led to the welfare state?
+230,"COBOL was created to standardize business programming, but the text does not specifically mention its creation. However, it was a response to the need for a common language for business applications.",Interest in a standard,0.2888250350952148,2.281880617141724,0.1086259484291076,0.1142857142857143,0.0571428571428571,Why was COBOL created?
+231,Laidlines.,Laidlines,0.2633249759674072,0.5997953414916992,0.9563372135162354,1.0,1.0,"Which is lines are commonly higher in density, laidlines or chainlines?"
+232,71.6 million tons.,71.6 million,0.3765983581542969,0.8161189556121826,0.6843035221099854,0.8571428571428571,0.8571428571428571,How many millions of tons of paper are wasted in the US each year?
+233,dialect and phonetic environment.,dialect and phonetic environment,0.4216382503509521,0.9143681526184082,0.974955439567566,1.0,1.0,"Whether a stop was labial, coronal or velar depended on what two things?"
+234,Many paper companies plant trees to help regrow forests.,plant trees,0.2806348800659179,0.9766921997070312,0.6129381060600281,0.3636363636363636,0.3636363636363636,What do many paper companies do to ensure the health of forests?
+235,The last step in paper production is cutting the paper into sheets for use.,drying,0.6309142112731934,1.3007607460021973,0.2183515578508377,0.0,0.0,What is the last step in paper production?
+236,murmured sonorants.,murmured sonorants,0.2914841175079345,0.747307300567627,0.9684350490570068,1.0,1.0,What do some linguists restrict the double-dot subscript ⟨◌̤⟩ to?
+237,"The container of the physical materialization of a database, comprising the internal (physical) level in the database architecture.",physical materialization of a database,0.3548903465270996,1.343409776687622,0.8315273523330688,0.4347826086956522,0.4347826086956522,What is database storage?
+238,preaspirated stops.,Preaspirated stops,0.5241484642028809,0.918226718902588,0.9668301343917848,1.0,1.0,The Sami tongue also has what?
+239,an unaspirated stop.,unaspirated stops,0.2982790470123291,0.6935515403747559,0.7849857807159424,0.8,0.8,"As well as lasting as long as an English aspirated stop, the Armenian and Cantonese aspiration lasts as long as what?"
+240,The 19th century.,19th,0.2895064353942871,0.7775843143463135,0.701187789440155,0.5,0.5,What century was game hunted as a trophy?
+241,"Primarily through food, particularly meat, dairy, fish, and shellfish, as dioxins accumulate in the fatty tissue of animals.",through food,0.3455896377563476,1.6606826782226562,0.4546529054641723,0.1999999999999999,0.1999999999999999,How are humans commonly exposed to the byproducts of the bleaching process?
+242,"In a relational database, data is accessed in a table by using a ""key"" to link related data from multiple tables.",A linked-list system,0.416269302368164,1.723231077194214,0.3848390579223633,0.16,0.16,How is data accessed in a table?
+243,SQL (Structured Query Language) is a security measure that uses a relational database system.,watermarking,0.3380656242370605,1.1073880195617676,0.0215192232280969,0.0,0.0,What is a security measure that uses a relational database system?
+244,Breathy-voiced consonants.,breathy-voiced consonants,0.4983291625976562,0.999220609664917,0.9725133180618286,1.0,1.0,Which distinction has Punjabi lost?
+245,Tools provided by the DBMS vendor to import databases from other popular DBMSs can make migration easier.,vendor provides tools,0.5005486011505127,1.397784948348999,0.3267818689346313,0.3,0.1,How can a DBMS database migration be made easier?
+246,Database transactions can ensure accuracy after a crash by introducing a level of fault tolerance and data integrity through well-defined boundaries of operations.,fault tolerance,0.3542850017547607,1.271472454071045,0.5715701580047607,0.1538461538461538,0.1538461538461538,How can database transactions ensure accuracy after a crash?
+247,Thousandths of an inch.,thousandths of an inch,0.4802165031433105,0.686772346496582,0.979422926902771,1.0,1.0,"In the United States, what units are used when stating the measurements of paper thickness?"
+248,Aspiration.,Aspiration,0.3690943717956543,0.7950835227966309,0.9633735418319702,1.0,1.0,What has a different significance in various languages?
+249,Gloss papers.,Gloss,0.3857984542846679,0.5735354423522949,0.7798231244087219,0.6666666666666666,0.6666666666666666,What papers give the best optical density?
+250,An aspirated affricate.,An aspirated affricate,0.4126455783843994,0.5538229942321777,0.9762084484100342,1.0,1.0,"What is comprised of a stop, fricative, and aspirated release?"
+251,0.0028 to 0.0071 inches.,0.0028 and 0.0071 in,0.4838290214538574,0.956125020980835,0.6066562533378601,0.6666666666666666,0.6666666666666666,"Sated in inches, what is the common range of paper thickness?"
+252,Database Management System (DBMS),database management system,0.3013238906860351,0.7182657718658447,0.9386072158813475,0.8571428571428571,0.8571428571428571,What does DBMS stand for?
+253,Wire mesh.,wire mesh,0.4020717144012451,0.5701406002044678,0.8526530265808105,1.0,1.0,What leaves a pattern on the paper that has a consistent density width and lengthwise?
+254,Breathy voice.,voiced consonants,0.2460885047912597,0.4430468082427978,0.5359669923782349,0.5,0.5,What is created when vocal folds are slightly closed and vibrate?
+255,SQL.,SQL,0.4513766765594482,0.6163825988769531,0.878853440284729,1.0,1.0,"When customers first tested IBM's system, what computer language had been added? "
+256,A program collects information using a navigational system by looping to access related records.,require programs to loop,0.4924402236938476,1.3541836738586426,0.4335173368453979,0.3333333333333333,0.2222222222222222,How does a program collect information using a navigational system?
+257,Aspirated bilabial stop.,aspirated bilabial stop,0.2803709506988525,1.0112407207489014,0.9534891247749328,1.0,1.0,pʰ represents what?
+258,A good understanding of the application domain and the ability to accurately reflect the possible state of the external world being modeled.,accurately reflect the possible state of the external world being modeled,0.3485162258148193,1.6441419124603271,0.7726215124130249,0.6666666666666666,0.6666666666666666,What makes a successful data model?
+259,Synthetic coating.,synthetic,0.6062264442443848,0.4345355033874511,0.6605052947998047,0.6666666666666666,0.6666666666666666,PFOA is what type of coating?
+260,400%,400%,0.3233845233917236,0.6489038467407227,1.0000001192092896,1.0,1.0,"In the last 40 years, how much has worldwide paper consumption risen?"
+261,North Sami.,North Sami,0.2878952026367187,0.8382830619812012,0.9844186902046204,1.0,1.0,Which Sami tongue has unvoiced stop and affricate phonemes pronounced preaspirated?
+262,SQL.,SQL,0.3777830600738525,0.746579647064209,0.878853440284729,1.0,1.0,"When customers first tested IBM's system, what computer language had been added? "
+263,"In Danish and most southern varieties of German, lenis consonants (⟨b d ɡ⟩) are distinguished from fortis counterparts (⟨p t k⟩) mainly by their lack of aspiration.",their lack of aspiration,0.3032023906707763,2.536304235458374,0.218079388141632,0.2666666666666667,0.2666666666666667,How are lenis consonants distinguished from fortis consonants?
+264,"Data in an optional table is accessed by searching for a unique key, such as a login name, to link related data back into a single collection.",by searching for this key,5.203209400177002,1.9471766948699951,0.2801586985588074,0.25,0.25,How is data in an optional table accessed?
+265,/pʰ tʰ kʰ/,/pʰ tʰ kʰ/,0.3183431625366211,1.1282954216003418,1.0000001192092896,1.0,1.0,What is the representation for the three places of articulation?
+266,"Yes, but it's a complex and costly process called database migration.",ano,0.2736258506774902,1.103099346160889,0.02002589777112,0.0,0.0,Can a DBMS be transfered to a different DBMS?
+267,Aspirated.,aspirated,1.002067804336548,0.8331737518310547,0.9514827728271484,1.0,1.0,"If there is a cluster such as st and it belongs to different morphemes, the stop is what?"
+268,"A0, measuring one square meter (approx. 1189 × 841 mm).",A0,2.6844351291656494,1.1517271995544434,0.4609418213367462,0.1999999999999999,0.1999999999999999,What is the largest standard size paper?
+269,The United States.,United States,0.4801673889160156,0.6908352375030518,0.8440276384353638,0.8,0.8,What country is more religious than other developed nations?
+270,Western Armenian.,Western Armenian,0.4108700752258301,0.5733852386474609,0.9739585518836976,1.0,1.0,What language has two-way distinctions between aspirated and voiced?
+271,Baghdad.,Baghdad,0.4093809127807617,0.7460896968841553,0.951193630695343,1.0,1.0,Where was the House of Wisdom held?
+272,The relational model solved the problem of databases where information was missing by normalizing data into separate tables and using keys to link related data.,relational,0.5994329452514648,1.816398859024048,0.5639302730560303,0.0769230769230769,0.0769230769230769,What model solved the problem of databases where information was missing?
+273,There is no superscript equal sign mentioned in the text.,⟨t˭⟩,0.4351329803466797,0.7373092174530029,0.2894859313964844,0.0,0.0,What is the superscript equal sign?
+274,"""pin""",pin,0.5198259353637695,0.6105861663818359,0.9100319743156432,1.0,1.0,With what word should you see a candle flicker or feel a puff of air?
+275,Breathed voiced.,breathy-voiced,0.6091828346252441,0.4426043033599853,0.7921007871627808,0.5,0.5,What is another term for voice-aspirated?
+276,A glottal stop.,Voiceless consonants,0.6419329643249512,0.5192556381225586,0.1368288993835449,0.0,0.0,What is created when the vocal folds are spread and do not vibrate?
+277,A blotter sheet.,blotter sheet,0.5697033405303955,0.8796420097351074,0.9150630831718444,0.8,0.8,What is used to collect water when hand-making paper?
+278,labialized velar aspirated stop /kʷʰ/,aspirated stops.,0.3018107414245605,1.2555406093597412,0.3490413427352905,0.5714285714285715,0.5714285714285715,Early Greek (before Koine) have been redone with what?
+279,workload and access patterns.,Physical design,0.3439629077911377,0.7432718276977539,0.2994506657123565,0.0,0.0,What factor is reflected in performance requirements?
+280,2nd century AD.,2nd,0.4976179599761963,0.9279439449310304,0.299126386642456,0.5,0.5,In what edition was there a Refutation of Idealism?
+281,⟨b̤⟩ or ⟨bʱ⟩.,"⟨b̤⟩, with the diacritic",0.6316134929656982,0.9940683841705322,0.8680664300918579,0.2857142857142857,0.2857142857142857,The ⟨bʰ⟩ in the Indo-Aryan languages is better transcribed how for breathy voice?
+282,31 pages.,31,0.2847657203674316,0.6892709732055664,0.4952807426452636,0.6666666666666666,0.6666666666666666,How many administrative regions does the Federal District have?
+283,It's called breathy voice.,Voiceless aspiration,0.2813389301300049,0.5544443130493164,0.5666813850402832,0.0,0.0,What is it called when a person's vocal cords stay open after a consonant?
+284,A modern DBMS requires a standard operating system to provide multitasking and networking functions.,standard operating system,0.3585693836212158,1.3837862014770508,0.588697612285614,0.3529411764705882,0.3529411764705882,What is required for a modern DBMS to function?
+285,Ionic and Aeolic.,Ionic and Aeolic,0.7587292194366455,0.6884744167327881,0.9676148891448976,1.0,1.0,Which two dialects lost aspiration at times?
+286,"Customary units (in North America) or surface area (in most other countries, using the ISO 216 system).",length and width,0.2839376926422119,1.3847098350524902,0.3095030784606933,0.0,0.0,Standard paper sizes are usually described with what terms?
+287,"No, a DBMS stores information in multiple places, including memory and external storage.",several types of storage,0.3074343204498291,1.3859679698944092,0.4455906748771667,0.1176470588235294,0.1176470588235294,"While working, does DBMS store information in one place?"
+288,a glottal stop or fricative [ʔ h ɦ].,glottal stop or fricative,0.7713222503662109,0.9252383708953856,0.8752456903457642,0.8,0.8,Debuccalization is when consonants are weakened to become what?
+289,"Tuple calculus and a set-oriented language, which later spawned SQL.",a set-oriented language,0.3947510719299316,1.063262939453125,0.5402796268463135,0.5333333333333333,0.5333333333333333,What is used to solve the problem of looping?
+290,SQL.,ISO 216,0.7997715473175049,0.7434971332550049,0.1462368816137313,0.0,0.0,Most countries besides the US use what ISO System?
+291,A4.,A3,0.3485705852508545,0.5765261650085449,0.7422524690628052,0.0,0.0,What is the lowest numbered A paper that is commonly used at home?
+292,A strong burst of breath accompanying the release of some consonants.,allophonic,0.2810287475585937,0.7811212539672852,0.2157721221446991,0.0,0.0,"Aspiration is what, in English and some other languages?"
+293,"In a navigational system, information is stored in a single record with unused items simply not being placed in the database.",in a single record,0.2696077823638916,1.683193922042847,0.3116906881332397,0.32,0.32,How is information stored in a navigational system?
+294,Debuccalization.,debuccalization,0.3319151401519775,0.4782850742340088,0.965036690235138,1.0,1.0,Aspiration may refer to a sound change of what?
+295,"Yes, query languages can be adjusted using the Abstract interpretation framework.",according to suitable abstractions of the concrete domain of data,0.4581084251403808,1.0623130798339844,0.4077144861221313,0.1904761904761905,0.0952380952380952,Can query languages be adjusted?
+296,Standard paper sizes based on customary units.,standard paper sizes,0.3780605792999267,1.0029792785644531,0.917207419872284,0.6,0.6,Most commercial paper in North America is cut in what manner?
+297,"The purpose of a DBMS is to capture, analyze, and manage data by providing a way to define, create, query, update, and administer databases.","to allow the definition, creation, querying, update, and administration of databases",0.5469224452972412,1.8328678607940676,0.6881906986236572,0.4,0.2857142857142857,What is the purpose of a DBMS?
+298,35%,35%,0.2543990612030029,0.649709939956665,1.0000001192092896,1.0,1.0,What percentage of Smartphone users use the youtube app?
+299,Paperfoam is biodegradable and can be recycled with ordinary paper.,biodegradable,0.4072403907775879,1.139275312423706,0.6523707509040833,0.1818181818181818,0.1818181818181818,What is one type of pesticide?
+300,Fatty tissue of animals.,fatty tissue,0.3114876747131347,0.5506865978240967,0.8658829927444458,0.6666666666666666,0.6666666666666666,Where are dioxins stored in our animal sources of food?
+301,Object databases and object-relational databases use an object-oriented language (sometimes as extensions to SQL) to solve the problem of object-relational impedance mismatch.,object-oriented language,3.324791193008423,1.945686101913452,0.6412353515625,0.2142857142857142,0.2142857142857142,How is the problem of object-relational impedance mismatch corrected?
+302,"Cai Lun, a 2nd-century AD Han court eunuch.",Cai Lun,0.3424410820007324,1.3365895748138428,0.6754751205444336,0.3636363636363636,0.3636363636363636,Who is credited with the papermaking process?
+303,The Golden Age.,Golden Age,0.2565133571624756,0.8292171955108643,0.9333413243293762,0.8,0.8,"Due to advances in science and culture, what are the Magadha region empires considered to represent?"
+304,China.,China,0.2893707752227783,0.7459859848022461,0.945481538772583,1.0,1.0,Who was providing supplies to the Vietnamese communists fighting against France?
+305,"No, INGRES moved to the SQL standard over time.",INGRES moved to the emerging SQL standard,0.3093831539154053,1.1734631061553955,0.8769029378890991,0.75,0.75,Is QUEL still used to access data in INGRES?
+306,A hardware disk controller with programmable search capabilities.,a hardware disk controller with programmable search capabilities,0.327369213104248,0.6092562675476074,0.9878134727478028,1.0,1.0,What is a CAFS accelerator?
+307,"A key is used to ""re-link"" related data back into a single collection.",uniquely defining a particular record,0.5706408023834229,1.23476243019104,0.2930346727371216,0.1052631578947368,0.1052631578947368,What is a key used for?
+308,1971,1971,0.3879168033599853,0.7879652976989746,1.0,1.0,1.0,In what year was the Taragaon Museum built?
+309,"A common view of the database, independent of different external view structures, and abstracts away details of how the data are stored or managed.",common,0.2794520854949951,1.852550029754639,0.1580034792423248,0.0799999999999999,0.0799999999999999,"What had pottery become 4,000 years ago in the Americas?"
+310,Chalk or china clay.,Additives,0.6759352684020996,0.687309980392456,0.2354056388139724,0.0,0.0,What is added for sizing purposes?
+311,Relational model.,logical,0.4063498973846435,0.8315601348876953,0.4219952821731567,0.0,0.0,Which data model is displayed as a specific model that uses DBMS?
+312,Korean.,Korean,0.2584486007690429,0.7502732276916504,0.9580930471420288,1.0,1.0,What war did Eisenhower want to end as president?
+313,IMS (Information Management System),"SQL/DS, and, later, Database 2 (DB2)",0.3402554988861084,0.6805248260498047,0.1293868571519851,0.0,0.0,What was the name of the database product created by IBM?
+314,Koine Greek grammarians.,Greek grammarians,0.4233219623565674,0.7302684783935547,0.8643338680267334,0.8,0.8,Who referred to the Classical Attic dialect stops by the three distinctions?
+315,SQL (Structured Query Language),CODASYL approach,0.4797000885009765,0.6757268905639648,0.1194766014814376,0.0,0.0,What was the standard protocol called?
+316,Aspirated.,aspirated,0.292949914932251,0.6682596206665039,0.9514827728271484,1.0,1.0,"If there is a cluster such as st and it belongs to different morphemes, the stop is what?"
+317,90%,90%,0.3900635242462158,0.6526713371276855,1.0,1.0,1.0,How much of Pakistan's paper products does Punjab manufacture?
+318,"/b/ is representative of a series of muddy consonants, pronounced with slack or breathy voice.",Muddy consonants,0.3224375247955322,1.0736923217773438,0.6163570880889893,0.2352941176470588,0.2352941176470588,"What is /b/ representative of, in addition to aspirated and unaspirated consonants?"
+319,database technology.,database technology,0.3048980236053467,0.7897260189056396,0.933946430683136,1.0,1.0,A conceptual data model in separate from the choice of what?
+320,Oxalic acid.,oxalic,0.317134141921997,0.6972062587738037,0.7146947979927063,0.6666666666666666,0.6666666666666666,"Besides formic, acetic, and lactic acid, what type of acid does cellulose produce?"
+321,Enterprise database management.,enterprise database management,0.2735154628753662,0.8311545848846436,0.9576462507247924,1.0,1.0,Where are XML databases frequently used?
+322,lignin.,lignin,0.2464163303375244,0.6553933620452881,0.971802055835724,1.0,1.0,What polymer is used to strengthen cell walls?
